@@ -1,0 +1,5 @@
+I suppose I shouldn't be so surprised at this, but I never seriously thought I would encounter the name "iPlanet(TM) Web Server Enterprise Edition" on an in-production web site again any time soon. And yet it turns out, the U.S. Patent and Trademark Office's publicly searchable database of patent applications is powered by a 2001 version of Netscape's app server.
+
+The iPlanet "welcome page" can be found at http://appft1.uspto.gov/, which is one of the hosts for the Patent Application search site.
+
+Brings back memories, doesn't it?

@@ -1,0 +1,22 @@
+The other day, I was grousing in public (on Twitter) about Firefox memory consumption on my machine. I started posting my memory consumption stats to Twitter every few hours, showing Firefox using 500 megs, then 600, then 800, then 1.1 gigabytes, etc., over a total period of about eight hours. Eventually, Mozilla's Ben Kelly reached out via Twitter to offer help.
+
+Kelly suggested I open a new tab and go to a URL of about:memory. By doing this, you can get numerous views into memory usage (including some extremely verbose reports). Turns out this trick works in Chrome, as well.
+
+I sent Kelly a memdump and he then asked if there was any reason I was still running Firefox 15 (on Vista). I sheepishly told him there was no reason other than sheer laziness and sloth on my part. He pointed out that the latest version of Firefox incorporates 140+ memory-related fixes. I knew what I had to do.
+
+Visitors to this blog tend to be users of Firefox
+or Chrome. Why so many people still use
+Internet Explorer, I don't know.
+That evening, I upgraded to Firefox 23. It was a suitably painless process in that it went quickly, requiring minimal intervention on my part, and resulted in a new version of Firefox (looking much like the old version, thankfully) with all my bookmarks and old settings in place. However, the first time I went to a site that relies on Flash (Google Finance, in this case), I was presented with grey boxes insisting I upgrade Flash. I went ahead and did that, and of course I had to restart Firefox to make the changes take effect.
+
+A similar scenario happened with the Acrobat plug-in; upgrade required. Not a huge deal. Nevertheless it's the kind of small inconvenience that, if you multiply by a dozen or more plugins, acquires a Chinese-water-torture aspect after a while. It gets to be annoying enough to keep you from upgrading Firefox as often as you should.
+
+While I was visiting someone's web site, I wanted to know how they were doing a particular HTML trick, so I typed F12 to pop the Firebug console. Except, nothing happened. "Crap," I muttered. "Firebug isn't compatible with the new version of Firefox."
+
+I went to the Firebug site, figuring if I downloaded the latest version of Firebug it would solve everything. To my horror, I learned that the latest release of Firebug is compatible with Firefox 22 but not 23. Fortunately, I was able to locate a beta version of the next release of Firebug. And it works fine with FF 23 (so far).
+
+So, but. Did the upgrade to Firefox 23 solve my memory-usage issues? Short answer, no. Firefox 23 is certainly less memory-leaky than Firefox 15, but it went from using 177 megs of RAM to 1.1 gigs in 20 hours, then died and popped into Mozilla Crash Reporter shortly thereafter. (A certain plug-in seems to have brought the world to an end.) I had half a dozen tabs open: Twitter, Blogger, Blogger, Gmail, Blockbuster, BigThink.com
+
+I'll keep you posted as to what I find out about memory leakage in Firefox. As of now, I consider it to be an ongoing problem; maybe not for everybody, but for me, at least.
+
+Note: I still consider it important to stay with Firefox for most of my browsing needs. Why? Because of the many privacy-oriented plug-ins/extensions available for it. I am troubled by privacy issues around Chrome and IE. Firefox is a clear "least evils" choice—for me. For now. 

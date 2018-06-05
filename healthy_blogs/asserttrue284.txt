@@ -1,0 +1,129 @@
+A universal feature of protein-coding genes is that they tend to use a lot of codons that begin with a purine (A or G). In fact, it's typical for a given gene's codons to use a purine in position one 60% or more of the time. But it's fair to ask: How universal is this trend, exactly? Does the rule apply for organisms with extremely high (or low) genomic G+C content? Does it apply for endosymbionts with greatly reduced genomes? Is it just a "sometimes" rule? Are there important exceptions?
+
+I decided to collect codon statistics for 109 different bacterial species, representing members of all major taxonomic groups, with a wide range of genome sizes and GC percentages. For each organism, I determined the average percent A+G content in codon base one (AG1) across all CDS genes. Then I plotted AG1 against the genomic A+T content for each organism. (A+T is of course just one minus the G+C content.) Here's the graph of AG1 content for all the organisms:
+
+Codon base-one purine content (average for all CDS genes) versus genomic A+T content for N=109 bacterial species. Dot size corresponds to genome size.
+
+The fun thing about this graph is that each data point is sized according to the genome size of the organism in question (in other words, the area of the dot is proportional to genome size). As you can see, bacteria at the high end of the A+T scale (low G+C) tend to have smaller genomes. But the more important thing to notice is that AG1 is 58% or more for all 109 genomes. This means that the phenomenon of high average purine content in codon base one appears to be universal, at least for the sample group. (Organism names are listed in a table below.)
+
+Of course, within a given genome, genes vary somewhat in terms of the per-gene average AG1, but it's still quite rare to find a protein gene that has average AG1 under 50%. For example, below is a histogram plot of AG1 content for all protein-coding genes of Sorangium cellulosum, a bacterium with genomic GC content of 72% (A+T = 28%).
+
+Per-gene AG1 usage (codon base-one purine content) for all CDS genes of Sorangium cellulosum.
+
+As you can see, very few genes lie to the left of x = 0.5. (Of Sorangium's 10,400 protein genes, only 321 have an average AG1 under 50%. Those could easily be mis-annotated genes or gene fragments.) Most organisms show much the same distribution of average AG1 values across CDS genes.
+
+Gene annotation programs could probably benefit from using a check of AG1 to verify that a putative gene is in the correct reading frame. GC3 content is often used in this way, but AG1 is actually a much more discriminating test, especially with low-GC genomes (where the "wobble base" GC percentage is not particularly helpful).
+
+Listed below are the 109 organisms (and their taxonomic categorizations) used in this investigation.
+
+Organism
+Taxon
+Acidaminococcus fermentans strain DSM 20731 Firmicutes:Clostridia
+Acidovorax avenae subsp. citrulli strain AAC00-1 Proteobacteria:Betaproteobacteria
+Aerococcus urinae strain ACS-120-V-Col10a Firmicutes:Lactobacillales
+Aeromonas hydrophila strain ML09-119 Proteobacteria:Gammaproteobacteria
+Aggregatibacter actinomycetemcomitans D11S-1 Proteobacteria:Gammaproteobacteria
+Agrobacterium radiobacter strain K84 Proteobacteria:Alphaproteobacteria
+Anaerobaculum mobile strain DSM 13181 Synergistetes:Synergistia
+Anaerocellum thermophilum strain DSM 6725 Firmicutes:Clostridia
+Anaerolinea thermophila strain UNI-1 Chloroflexi:Anaerolineae
+Anaplasma marginale strain Florida Proteobacteria:Alphaproteobacteria
+Arcobacter butzleri ED-1 Proteobacteria:Epsilonproteobacteria
+Atopobium vaginae strain DSM 15829 Actinobacteria:Coriobacteridae
+Azospirillum brasilense strain Sp245 Proteobacteria:Alphaproteobacteria
+Bacillus amyloliquefaciens strain Y2 Firmicutes:Bacilli
+Bacillus anthracis strain CDC 684 Firmicutes:Bacillales
+Bacillus subtilis BEST7613 strain PCC 6803 Firmicutes:Bacilli
+Bacteroides dorei strain 5_1_36/D4 Bacteroidetes:Bacteroidia
+Bartonella quintana strain RM-11 Proteobacteria:Alphaproteobacteria
+Blastococcus saxobsidens strain DD2 Actinobacteria:Actinobacteridae
+Borrelia miyamotoi strain LB-2001 Spirochaetes:Spirochaetales
+Brachybacterium faecium strain DSM 4810 Actinobacteria:Actinobacteridae
+Brucella ovis strain ATCC 25840 Proteobacteria:Alphaproteobacteria
+Buchnera aphidicola (Acyrthosiphon pisum) strain 5A Proteobacteria:Gammaproteobacteria
+Burkholderia pseudomallei strain 1710b Proteobacteria:Betaproteobacteria
+Caldicellulosiruptor lactoaceticus strain 6A Firmicutes:Clostridia
+Calditerrivibrio nitroreducens strain DSM 19672 Deferribacteres:Deferribacterales
+Campylobacter concisus strain 13826 Proteobacteria:Epsilonproteobacteria
+Candidatus Cloacamonas acidaminovorans candidate division WWE1:Candidatus Cloacamonas
+Candidatus Methylomirabilis oxyfera candidate division NC10:Candidatus Methylomirabilis
+Candidatus Pelagibacter ubique strain HTCC1062 Proteobacteria:Alphaproteobacteria
+Carboxydothermus hydrogenoformans strain Z-2901 Firmicutes:Clostridia
+Chlamyda trachomatis (i) strain L2/434/Bu; i Chlamydiae:Chlamydiales
+Clostridium botulinum A strain Hall Firmicutes:Clostridia
+Coprobacillus sp. strain 8_2_54BFAA Firmicutes:Erysipelotrichia
+Coprococcus catus strain GD/7 Firmicutes:Clostridia
+Cycloclasticus zancles strain 7-ME Proteobacteria:Gammaproteobacteria
+Deinococcus radiodurans strain R1 Deinococcus-Thermus:Deinococci
+Desulfococcus oleovorans strain Hxd3 Proteobacteria:Deltaproteobacteria
+Ehrlichia canis strain Jake Proteobacteria:Alphaproteobacteria
+Enterobacter cloacae strain SCF1 Proteobacteria:Gammaproteobacteria
+Erwinia amylovora strain ATCC 49946 Proteobacteria:Gammaproteobacteria
+Escherichia coli B strain REL606 Proteobacteria:Gammaproteobacteria
+Geobacillus kaustophilus strain HTA426 Firmicutes:Bacillales
+Geobacillus thermoleovorans strain CCB_US3_UF5 Firmicutes:Bacillales
+Geobacter metallireducens strain GS-15 Proteobacteria:Deltaproteobacteria
+Geobacter sulfurreducens strain KN400 Proteobacteria:Deltaproteobacteria
+Geobacter sulfurreducens strain PCA Proteobacteria:Deltaproteobacteria
+Geobacter uraniireducens strain Rf4 Proteobacteria:Deltaproteobacteria
+Geodermatophilus obscurus strain DSM 43160 Actinobacteria:Actinobacteridae
+Gordonia bronchialis strain DSM 43247 Actinobacteria:Actinobacteridae
+Haemophilus ducreyi strain 35000HP Proteobacteria:Gammaproteobacteria
+Halogeometricum borinquense DSM 11551 Euryarchaeota:Halobacteria
+Helicobacter pylori (Helicobacter pylori SAfr7) strain SouthAfrica7 Proteobacteria:Epsilonproteobacteria
+Klebsiella oxytoca strain 10-5243 Proteobacteria:Gammaproteobacteria
+Kribbella flavida strain DSM 17836 Actinobacteria:Actinobacteridae
+Ktedonobacter racemifer DSM 44963 Chloroflexi:Ktedonobacteria
+Lactobacillus acidophilus strain 30SC Firmicutes:Lactobacillales
+Lactobacillus reuteri strain MM4-1A Firmicutes:Lactobacillales
+Lactococcus lactis subsp. cremoris strain A76 Firmicutes:Bacilli
+Leptolyngbya sp. PCC 7376 Cyanobacteria:Oscillatoriophycideae
+Leptonema illini strain DSM 21528 Spirochaetes:Spirochaetales
+Leptospira biflexa serovar Patoc strain Ames; Patoc 1 Spirochaetes:Spirochaetales
+Leuconostoc gasicomitatum LMG 18811 strain type LMG 18811 Firmicutes:Lactobacillales
+Mesorhizobium australicum strain WSM2073 Proteobacteria:Alphaproteobacteria
+Mesorhizobium ciceri biovar biserrulae strain WSM1271 Proteobacteria:Alphaproteobacteria
+Methylobacillus flagellatus strain KT Proteobacteria:Betaproteobacteria
+Methylophaga sp. strain JAM7 Proteobacteria:Gammaproteobacteria
+Mycobacterium tuberculosis = ATCC 35801 strain ATCC35801; Erdman Actinobacteria:Actinobacteridae
+Mycoplasma gallisepticum strain F Tenericutes:Mollicutes
+Neisseria gonorrhoeae strain NCCP11945 Proteobacteria:Betaproteobacteria
+Nocardia brasiliensis ATCC 700358 strain HUJEG-1 Actinobacteria:Actinobacteridae
+Nocardia cyriacigeorgica strain GUH-2 Actinobacteria:Actinobacteridae
+Nostoc sp. PCC 7120 (Anabaena sp. PCC 7120) strain PCC7120 Cyanobacteria:Nostocales
+Novosphingobium aromaticivorans strain DSM 12444 Proteobacteria:Alphaproteobacteria
+Oceanobacillus kimchii strain X50 Firmicutes:Bacilli
+Orientia tsutsugamushi strain Ikeda Proteobacteria:Alphaproteobacteria
+Paenibacillus polymyxa strain M1 Firmicutes:Bacilli
+Polynucleobacter necessarius strain STIR1 Proteobacteria:Betaproteobacteria
+Propionibacterium acnes TypeIA2 strain P.acn33 Actinobacteria:Actinobacteridae
+Proteus mirabilis strain HI4320 Proteobacteria:Gammaproteobacteria
+Pseudomonas fluorescens strain Pf0-1 Proteobacteria:Gammaproteobacteria
+Pseudonocardia dioxanivorans strain CB1190 Actinobacteria:Actinobacteridae
+Ralstonia eutropha strain H16 Proteobacteria:Betaproteobacteria
+Rhizobium tropici strain CIAT 899 Proteobacteria:Alphaproteobacteria
+Rhodobacter sphaeroides ATCC 17029 Proteobacteria:Alphaproteobacteria
+Shigella boydii strain Sb227 Proteobacteria:Gammaproteobacteria
+Slackia heliotrinireducens strain DSM 20476 Actinobacteria:Coriobacteridae
+Sorangium cellulosum strain So0157-2 Proteobacteria:Deltaproteobacteria
+Staphylococcus aureus strain 04-02981 Firmicutes:Bacillales
+Streptococcus agalactiae strain 2603V/R Firmicutes:Lactobacillales
+Streptomyces cf. griseus strain XylebKG-1 Actinobacteria:Actinobacteridae
+Streptosporangium roseum strain DSM 43021 Actinobacteria:Actinobacteridae
+Sulfurimonas denitrificans DSM 1251 strain ATCC 33889 Proteobacteria:Epsilonproteobacteria
+Thioalkalivibrio nitratireducens strain DSM 14787 Proteobacteria:Gammaproteobacteria
+Thiobacillus denitrificans strain ATCC 25259 Proteobacteria:Betaproteobacteria
+Treponema azotonutricium strain ZAS-9 Spirochaetes:Spirochaetales
+Treponema pedis strain T A4 Spirochaetes:Spirochaetales
+Turneriella parva strain DSM 21527 Spirochaetes:Spirochaetales
+Vibrio cholerae strain BX 330286 Proteobacteria:Gammaproteobacteria
+Wolbachia endosymbiont strain TRS of Brugia malayi Proteobacteria:Alphaproteobacteria
+Yersinia pestis D106004 Proteobacteria:Gammaproteobacteria
+Bacillus thuringiensis serovar andalousiensis strain BGSC 4AW1 Firmicutes:Bacillales
+Ureaplasma urealyticum serovar 5 strain ATCC 27817 Tenericutes:Mollicutes
+Bordetella pertussis strain 18323 Proteobacteria:Betaproteobacteria
+Comamonas testosteroni strain KF-1 Proteobacteria:Betaproteobacteria
+Eikenella corrodens strain ATCC 23834 Proteobacteria:Betaproteobacteria
+Janthinobacterium sp. strain Marseille Proteobacteria:Betaproteobacteria
+Rhodopirellula baltica SH strain 1 Planctomycetes:Planctomycetacia
+Blastopirellula marina strain DSM 3645 Planctomycetes:Planctomycetacia

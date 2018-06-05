@@ -1,0 +1,88 @@
+I woke up to a scary story about diet soda several days ago.  At least I thought it was scary.  It was clear at some point the the reporter had lost track of what the story was all about and was talking about regular and diet soda as being interchangeably toxic.  I can see how that might happen, since most of the recent soda scares have focused on regular soda or as it is referred to "sugary" soda.  Sugar is the current hysteria and it must be eliminated.  The media routinely informs us that for years cholesterol and fat were vilified and now we have that all wrong.  Fat and cholesterol are now acceptable and sugar is the villain.  To complicate matters, the message is to consume large quantities of colorful fruits and vegetables - 6 - 8 servings a day.  The problem is those colorful fruits on a serving per serving basis generally contain as much sugar as "sugary" soda.
+
+The latest story was presented as they all are - a news headline rather than a work in progress. News flash - drink diet soda and you will get Alzheimer's Disease or a stroke.  In fact - drink as little as 1 can per day and get a stroke.  A few news outlets, talked about the other part of the story - consuming those sugary drinks in the same study did not increase the risk for dementia or stroke.  But even then it was presented in way to keep the hysteria going: "That does not mean you should start drinking those sugary soft drinks?"  Really - why not?  You just told me they don't cause strokes or Alzheimer's Disease.  Oh that's right - they contain that well known toxin - sugar.
+
+Time for some self-disclosure in the interest of transparency before I get to the real story.  I eat a lot of sugary foods.  I like just about every imaginable kind of desert.  I am generally averse to vegetables unless they have a starchy consistency. I have consumed massive amounts of soda and diet soda in my life time.  I realize that everybody has a story of the outlier who beat the food and health odds.  "Grandpa smoked two packs of cigarettes a day and died at 95 of old age" or "Grandpa ate raw bacon every day and died at 95 of old age."  That is not my point here.  As a physician, more than anybody I know better than to challenge medical common sense and hope to survive it.  I happen to be a health nut who consumes junk food.  I don't eat meat, fat. or cholesterol and I exercise a lot.  If I had to guess where the proclivity for sweet consumption comes in - I would attribute it to the Scandinavian side of my genome - cookies, pies, cakes, donuts with coffee of course.  So I am not here to defend or vilify sugar or artificial sweeteners.  In fact, I would definitely try my hardest to stop consuming this stuff if it was really a biohazard.
+
+With that self disclosure, the real story in this case is easy to find and publicly accessible.  There is not only the original research article but an editorial.  To keep myself honest, I wrote about the article without reading the editorial first. but did read it.  The original article and the editorial are references 1 and 2 respectively and full text is available.  One of the associations I automatically have when dealing with food headlines is the Framingham Study.  This study was big when I was in medical school.  It offered the first exposure to epidemiology and risk factor analysis in cardiovascular pathology.  That was built on in the epidemiology course where several of the professors were experts.  There were board exam questions based on a knowledge of this study.  Generations of physicians have studied papers based on this study and probably react to the cardiovascular risk factor headlines the same way that I do.  I was mildly surprised to see that this study of diet soda and sugar sweetened drinks was based on the Framingham Study.
+
+In this case the researchers looked at the Framingham Heart Study Offspring cohort.  That study began in 1971 with 5124 volunteers.  The participants are studied in examination cycles about every 4 years.  To date that means there have been 9 cycles so far with the last one occurring in 2014.  For the purpose of this study, they looked at the 10 year risk of stroke and dementia beginning with the 7th cycle (1998-2001).  A total of 3539 subjects were available at exam 7 and 3029 completed the Food Frequency Questionnaire (FFQ).  That population was split based on age and other criteria to an arm that was to be analyzed for 10 year risk of of incident stroke (N=2888) and another arm that was to be sampled for 10 year risk of incident dementia.  The FFQ was used to determine total sugary beverage consumption, sugary sweetened soft drink, and artificially sweetened soft drink in various rates of consumption where one can or bottle equaled one drink.  Answers at exam cycle 7 were used to measure recent intake and averaged responses over exams 5,6, and 7 were used to calculate cumulative intake over 7 years.  This was a prospective study, so time to stroke or dementia (using standard definitions) was done over the next ten years (from examination cycle 7).  The total number of events form the article are listed below.  The article contains tables detailing all of the demographic details by cohort and by consumption of sugary or artificially sweetened drinks.  The authors also present 10 year survival curves for both the stroke and dementia cohorts.  About 53% of the sample drank at least 1 artificially sweetened drink per week with 18% drinking more than one per day.
+
+  
+Stroke Cohort
+Total Events (all strokes)
+Ischemic Stroke
+Recent Intake
+N=2888
+97
+82
+Cumulative Intake
+N=2690
+87
+72
+
+Dementia Cohort
+Total Events (all cause dementia)
+Alzheimer’s Disease
+Recent Intake
+N=1442
+81
+63
+Cumulative Intake
+N=1356
+75
+57
+
+The main finding was that consumption of any amount of artificially sweetened soft drinks was associated with risk of stroke in both the case of recent (HR 1.88-2.17) and cumulative intake (HR 1.75-2.20).  Drinking greater than or equal to 1 artificially sweetened soft drink was associated with increased risk of all-cause (HR 2.28) and Alzheimer's dementia (HR 2.48) but only in the cumulative intake mode.
+
+ They controlled for two major variables - hypertension and diabetes mellitus are immediately relevant for both strokes and dementia.  Controlling for diabetes mellitus, intake of artificially sweetened beverages remained a significant predictor of stroke, all cause dementia and Alzheimer's dementia but diabetes was found to be a partial mediator of the effect.  Excluding people with hypertension decreased the effect of artificially sweetened drinks on all strokes.
+
+This was a very well done prospective study.  The HRs for artificially sweetened soda and stroke risk appear to be robust nearly doubling the rate across the board.  There is also a dose related effect with the HRs for subjects drinking ≥ 1/day artificially sweetened drink being a greater rate than those drinking > 0-6 drinks/week.  For dementia, significant HRs were noted only for cumulative intake of ≥ 1/day.  The authors do a good job of listing the limitations of the study. They point out that there were no ethnic minorities and that limits generalizability to populations of non-European decent.  While that is true, it may also be true that the study is not generalizable to other white populations.  They provide the usual disclaimer about causality from observational studies.  They discuss recall bias on the FFQ, but they previously discussed validity of recall of Coke/Pepsi product in the range of 0.81-0.85.  They mentioned undetermined confounding variables.  They also did not adjust for multiple comparisons which is surprising in a study with this many variables.  That seemed to be the weakest methodological link
+
+When I thought a bit more about the study, there was no clear mechanism of why strokes and dementia would be produced by artificial sweeteners.  They discuss theories about how these compounds have been implicated as increasing cardiometabolic risk factors.  The other factor is that several of these compounds have been consumed by the public for over 50 years.  The FDA provides information that some of the compounds have been extensively studied for safety in both animals and humans.  Is it possible that the FDA missed some excessive cardiovascular, cerebrovascular or dementia mortality due to high-intensity sweeteners?  Their approach seems to be to suggest an average daily intake (ADI) of these compounds and suggest that consuming that amount over the course of a lifetime is safe.
+
+The other main factor that affects how physicians think about these studies is whether or not there is supporting or contradictory data.  This paper lists the  Nurses Professional and Health Professionals Follow-Up Study that showed that both artificially sweetened and sugar sweetened soft drinks were both associated with a higher risk of stroke over 28 years of follow up for women and 22 years of follow up for men.  The sample size was large (women N=84085 and men N=43371).  The pooled Relative Risk of stroke was 1.16 and the authors suggest drinking decaffeinated coffee reduced risk.  The authors also listed the Northern Manhattan Study (N=2564) that showed that artificially sweetened soda increased the combined risk of vascular events but not stroke.  In the editorial, the authors list two negative studies.  In the first, there was an association between coronary heart disease and biomarkers of coronary heart disease for sugar sweetened beverages but not artificially sweetened beverages (6).  The second study (7) showed the identical result with risk for sugar sweetened but not artificially sweetened beverages.  
+
+I am always skeptical of the results of studies with many variables and clear-cut effects - at least until they are replicated.  This is a good study that will be quoted for years.  You can't believe what you hear in the media about it - but to physicians and researchers it raises significant questions.  I think that it is useful to known this literature in order to discuss it with people who need to take specific medications that increase their cardiometabolic risk like atypical antipsychotics.
+
+At a personal level, the question is what if anything should be done?  It is clear that although the study points to increased risk, the majority of the research subjects who ingested diet soda did not experience an adverse outcome during the test period.  Doing a basic literature search shows that there are many epidemiological studies looking for various adverse outcomes from artificial sweetener exposure and few positive findings.  I will take it as a sign that I need to get more disciplined in terms of my intake of high intensity sweeteners as well as sugar.  Why take something toxic if there is even a theoretical risk?  The answer of course is preferences over time and those preferences die hard.
+
+Wish me luck.
+
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1: Pase MP, Himali JJ, Beiser AS, Aparicio HJ, Satizabal CL, Vasan RS, SeshadriS, Jacques PF. Sugar- and Artificially Sweetened Beverages and the Risks of Incident Stroke and Dementia: A Prospective Cohort Study. Stroke. 2017 Apr 20. pii: STROKEAHA.116.016027. doi: 10.1161/STROKEAHA.116.016027. [Epub ahead of print] PubMed PMID: 28428346. 
+
+2: Wersching H, Gardener H, Sacco RL. Sugar-Sweetened and Artificially Sweetened Beverages in Relation to Stroke and Dementia: Are Soft Drinks Hard on the Brain? Stroke. 2017 Apr 20. pii: STROKEAHA.117.017198. doi: 10.1161/STROKEAHA.117.017198. [Epub ahead of print] PubMed PMID: 28428347.
+
+3: Kissela BM, Khoury JC, Alwell K, et al. Age at stroke: Temporal trends in stroke incidence in a large, biracial population . Neurology. 2012;79(17):1781-1787. doi:10.1212/WNL.0b013e318270401d.
+
+4: Barraclough H, Simms L, Govindan R. Biostatistics primer: what a clinician ought to know: hazard ratios. J Thorac Oncol. 2011 Jun;6(6):978-82. doi: 10.1097/JTO.0b013e31821b10ab. Erratum in: J Thorac Oncol. 2011 Aug;6(8):1454. PubMed PMID: 21623277.
+
+5: Bernstein AM, de Koning L, Flint AJ, Rexrode KM, Willett WC. Soda consumption and the risk of stroke in men and women. Am J Clin Nutr. 2012 May;95(5):1190-9. doi: 10.3945/ajcn.111.030205. Epub 2012 Apr 4. PubMed PMID: 22492378.
+
+6: de Koning L, Malik VS, Kellogg MD, Rimm EB, Willett WC, Hu FB. Sweetenedbeverage consumption, incident coronary heart disease, and biomarkers of risk in men. Circulation. 2012 Apr 10;125(14):1735-41, S1. doi: 10.1161/CIRCULATIONAHA.111.067017. Epub 2012 Mar 12. PubMed PMID: 22412070.
+
+7: Fung TT, Malik V, Rexrode KM, Manson JE, Willett WC, Hu FB. Sweetened beverage consumption and risk of coronary heart disease in women. Am J Clin Nutr. 2009 Apr;89(4):1037-42. doi: 10.3945/ajcn.2008.27140. Epub 2009 Feb 11. PubMed PMID: 19211821.
+
+
+
+
+Attribution:
+
+Image at the top is from Shutterstock per their standard license agreement.  Title is:
+"Yellow tin for drinks with a symbol of biological danger" by Liusa.
+
+
+An Experiment (7/29/2017):
+
+Consistent with my above statement - I took a bottle of my current favorite soda and diluted it by 1:1 with carbonated water.  There was no appreciable degradation of flavor or carbonation.  That is a reduction of 190 to 95 calories/16 ounce and 50 g to 25 g sugar (One teaspoon of sugar is 4.2 grams).  I did the same thing with a 3:1 dilution.  It was slightly more watery but still a reasonable taste.
+
+I have used this technique for years with fruit juices in order to avoid the high sugar content and it can clearly be applied to colas with the same result.
+
+         

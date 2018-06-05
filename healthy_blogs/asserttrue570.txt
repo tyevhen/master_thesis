@@ -1,0 +1,287 @@
+Convolution is a straightforward mathematical process that is fundamental to many image processing effects. If you've played around with the Filter > Other > Custom dialog in Photoshop, you're already familiar with what convolutions can do.
+A sharpening convolution applied to Lena.
+
+A convolution applies a matrix (often called a kernel) against each pixel in an image. For any given pixel in the image, a new pixel value is calculated by multiplying the various values in the kernel by corresponding (underlying) pixel values, then summing the result (and rescaling to the applicable pixel bandwidth, usually 0..255). If you imagine a 3x3 kernel in which all values are equal to one, applying this as a convolution is the same as multiplying the center pixel and its eight nearest neighbors by one, then adding them all up (and dividing by 9 to rescale the pixel). In other words, it's tantamount to averaging 9 pixel values, which essentially blurs the image slightly if you do this to every pixel, in turn.
+
+The application of convolutions to an HTML5 canvas image is straightforward. I've created an example Chrome extension that is active whenever you visit a URL ending in ".jpg" or ".png" (from any website). The extension provides a 3x3 convolution kernel (as text fields). You can enter any values you want (positive or negative) in the kernel columns and rows. Behind the scenes, the kernel will be normalized for you automatically. (That simply means each value is divided by the sum of all the values, except in the case where the values sum to zero, in which instance the normalization step is skipped.)
+
+Some convolutions, such as the Sobel kernel, have kernel values that add up to zero. In this case, you end up with a mostly dark image that you'll probably want to invert. My Chrome extension provides an Invert Image button, for just that occasion.
+A modified Sobel kernel, plus image inversion.
+
+The UI also includes a Reset button (which reloads the original image and sets the kernel to an identity kernel) and a button that opens the newly modified image in a new window as a PNG that can be saved to disk.
+
+The code for the Chrome extension is shown below. To use it, do this:
+
+1. Copy and paste all of the code into a new file. Call it Kernel.user.js (or whatever you want, but be sure the name ends with .user.js).
+2. Save the file (text-only) to any convenient folder.
+3. Launch Chrome. Use Control-O to bring up the file-open dialog. Navigate to the file you just saved. Open it.
+4. Notice at the very bottom of the Chrome window, there'll be a status warning (saying that extensions can harm your health, etc.) with two buttons, Continue and Discard. Click Continue.
+5. In the Confirm Installation dialog that pops up, click the Install button. After you do this, the extension is installed and running. Test it by navigating to any convenient URL that ends in ".jpg" or ".png" (but do note, the extension may fail due to security restrictions if you are loading images from disk, via a "file:" scheme). For best results, navigate to an image on the web using http.
+
+
+// @name           KernelTool
+// @namespace      ktKernelTool
+// @description    Canvas Image Kernel Tool
+// @include        *
+// ==/UserScript==
+
+
+
+// A demo script by Kas Thomas.
+// Use as you will, at your own risk.
+
+
+// The stuff under loadCode() will be injected
+// into a <script>
+ element in the page.
+
+function loadCode() {
+
+
+window.KERNEL_SIZE = 3; // 3 x 3 square kernel
+
+window.transformImage = function( x1,y1,w,h ) {
+      
+ var canvasData = context.getImageData(x1,y1,w,h);
+
+ var kernel = getKernelValues( );
+ normalizeKernel( kernel );
+  
+ for (var x = 1; x < w-1; x++) {
+      for (var y = 1; y < h-1; y++) {
+
+   // get the real estate around this pixel
+   // (using the offscreen image)
+   var area = 
+    context.getImageData(x-1,y-1,
+     KERNEL_SIZE,KERNEL_SIZE);
+   
+          // Index of the current pixel in the array
+          var idx = (x + y * w) * 4;
+
+   // apply kernel to current index
+   var rgb = applyKernel( kernel, area, canvasData, idx );
+
+   canvasData.data[ idx ] = rgb[0];
+   canvasData.data[idx+1] = rgb[1];
+     canvasData.data[idx+2] = rgb[2];
+       }
+ } 
+
+ // inner function that applies the kernel
+ function applyKernel( k, localData, imageData, pixelIndex ) {
+
+  var sumR = 0; var sumG = 0; var sumB = 0;
+   var n = 0;
+
+  for ( var i = 0; i < k.length; i++,n+=4 ) {
+   sumR += localData.data[n]  *  k[i];
+   sumG += localData.data[n+1] * k[i];
+   sumB += localData.data[n+2] * k[i];
+  }
+
+  if (sumR < 0)  sumR *= -1; 
+  if (sumG < 0)  sumG *= -1; 
+  if (sumB < 0)  sumB *= -1; 
+
+  return [Math.round( sumR ),Math.round( sumG ),Math.round( sumB )]; 
+ }
+
+ context.putImageData( canvasData,x1,y1 );
+};
+
+window.invertImage = function( ) {
+
+  var w = canvas.width;
+  var h = canvas.height;
+  var canvasData = 
+   context.getImageData(0,0,w,h);
+  for (var i = 0; i < w*h*4; i+=4)  {
+   canvasData.data[i] = 255 - canvasData.data[i];
+   canvasData.data[i+1] = 255 - canvasData.data[i+1];
+   canvasData.data[i+2] = 255 - canvasData.data[i+2];  
+  }
+  context.putImageData( canvasData,0,0 ); 
+ }
+
+// get an offscreen drawing context for the image
+window.getOffscreenContext = function( w,h ) {
+   
+ var offscreenCanvas = document.createElement("canvas");
+ offscreenCanvas.width = w;
+ offscreenCanvas.height = h;
+ return offscreenCanvas.getContext("2d");
+};
+
+window.getKernelValues = function( ) {
+
+ var kernel = document.getElementsByClassName("kernel");
+ var kernelValues = new Array(9);
+ for (var i = 0; i < kernelValues.length; i++)
+  kernelValues[i] = 1. * kernel[i].value;
+ return kernelValues;
+}
+
+window.setKernelValues = function( values ) {
+
+ var kernel = document.getElementsByClassName("kernel");
+ for (var i = 0; i < kernel.length; i++)
+  kernel[i].value = values[i];
+}
+
+window.normalizeKernel = function( k ) {
+ 
+ var sum = 0;
+
+ for (var i = 0; i < k.length; i++)
+  sum += k[i];
+
+ if (sum > 0)
+  for (var i = 0; i < k.length; i++)
+   k[i] /= sum;
+}
+
+window.setupGlobals = function() {
+
+ window.canvas = document.getElementById("myCanvas");
+ window.context = canvas.getContext("2d");
+ var imageData = context.getImageData(0,0,canvas.width,canvas.height);
+ window.offscreenContext = getOffscreenContext( canvas.width,canvas.height );
+ window.offscreenContext.putImageData( imageData,0,0 );
+};
+
+setupGlobals();  // actually call it
+
+// enable the buttons now that code is loaded
+document.getElementById("reset").disabled = false;
+document.getElementById("invert").disabled = false;
+document.getElementById("PNG").disabled = false;
+
+} // end loadCode()
+
+
+
+/* * * * * * * * * main() * * * * * * * * */
+
+(function main( ) {
+
+ // are we really on an image URL?
+ var ext = location.href.split(".").pop();
+ if (ext.match(/jpg|jpeg|png/) == null )
+    return;
+
+ // ditch the original image
+ img = document.getElementsByTagName("img")[0];
+ img.parentNode.removeChild(img); 
+
+ // put scripts into the page scope in 
+ // a <script> elem with id = "myCode"
+ // (we will eval() it in an event later...)
+ var code = document.createElement("script");
+ code.setAttribute("id","myCode");
+ document.body.appendChild(code);  
+ code.innerHTML += loadCode.toString() + "\n";
+
+ // set up canvas
+ canvas = document.createElement("canvas");
+ canvas.setAttribute("id","myCanvas");
+ document.body.appendChild( canvas );
+
+ context = canvas.getContext("2d");
+
+ image = new Image();
+
+ image.onload = function() {
+
+  canvas.width = image.width;
+  canvas.height = image.height;
+       context.drawImage(image,0, 0,canvas.width,canvas.height ); 
+ };
+
+ // This line must come after, not before, onload!
+ image.src = location.href;
+
+ createKernelUI( );
+      createApplyButton( );
+ createResetButton( );  
+ createInvertImageButton( );
+ createPNGButton( ); // create UI for Save As PNG
+
+ function createPNGButton( ) {
+
+  var button = document.createElement("input");
+  button.setAttribute("type","button");
+  button.setAttribute("value","Open as PNG...");
+  button.setAttribute("id","PNG");
+  button.setAttribute("disabled","true");
+  button.setAttribute("onclick",
+   "window.open(canvas.toDataURL('image/png'))" );
+  document.body.appendChild( button );
+ }
+
+ function createInvertImageButton( ) {
+
+  var button = document.createElement("input");
+  button.setAttribute("type","button");
+  button.setAttribute("value","Invert Image");
+  button.setAttribute("id","invert");
+  button.setAttribute("disabled","true");
+  button.setAttribute("onclick",
+   "invertImage()" );
+  document.body.appendChild( button );
+ }
+
+ function createResetButton( ) {
+
+  var button = document.createElement("input");
+  button.setAttribute("type","button");
+  button.setAttribute("value","Reset");
+  button.setAttribute("id","reset");
+  button.setAttribute("disabled","true");
+  button.setAttribute("onclick",
+   "var data = offscreenContext.getImageData(0,0,canvas.width,canvas.height);" +
+   "context.putImageData(data,0, 0 );" + 
+   "setKernelValues([0,0,0,0,1,0,0,0,0]);" );
+  document.body.appendChild( button );
+ }
+
+ // This will load code if it hasn't been loaded yet.
+ function createApplyButton( ) {
+
+  var button = document.createElement("input");
+  button.setAttribute("type","button");
+  button.setAttribute("value","Apply");
+  button.setAttribute("onclick","if (typeof codeLoaded == 'undefined')" +
+   "{ codeLoaded=1; " + 
+   "code=document.getElementById(\"myCode\").innerHTML;" +
+   "eval(code); loadCode(); }" +
+   "transformImage(0,0,canvas.width,canvas.height);" );
+  document.body.appendChild( button );
+ }
+
+ function createKernelUI( ) { 
+
+  var kdiv = document.createElement("div");
+  var elem = new Array(9);
+
+  for ( var i = 0; i < 9; i++ ) {
+   elem[i] = document.createElement("input");
+   elem[i].setAttribute("type","text");
+   elem[i].setAttribute("value","1");
+   elem[i].setAttribute("class","kernel");
+   elem[i].setAttribute("style","width:24px");
+   elem[i].setAttribute("id","k" + i);
+  }
+  for ( var i = 0; i < 9; i++ ) {
+   kdiv.appendChild( elem[i] );
+   if (i == 2 || i == 5 || i == 8)
+    kdiv.innerHTML += "<br/>";
+  }
+
+  document.body.appendChild( kdiv );
+ } 
+})();
+
+It can be fun and educational to experiment with new kernel values (and to apply more than one convolution sequentially to achieve new effects). With the right choice of values, you can easily achieve blurring, sharpening, embossing, and edge detection/enhancement, among other effects. 
+
+Incidentally, for more information about the Lena test image (in case you're not familiar with the interesting backstory), check out http://en.wikipedia.org/wiki/Lenna.

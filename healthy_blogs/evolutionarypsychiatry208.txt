@@ -1,0 +1,21 @@
+In my last post on endocannabinoids, I was trying to do a little too much with too little time, and I don't think the science came out too clearly.  Today I thought I would use the excellent Kim et al paper again for a quick summary of what is known about the effects of the endocannabinoids on obesity, both in the central nervous system (my usual bailiwick) and peripherally.  (Also, please check out Beth's post over at Weight Maven - she has diagrams too!)
+
+Endocannabinoid AEA will activate the cannabis receptors in the brain and in the fat tissue and skeletal muscle.  The response is to increase food intake, possibly by increasing the appetite hormone ghrelin.  AEA is found at higher levels in obese individuals than lean individuals, and seems to promote fat storage. In the muscle, it decreases glucose uptake, which is one way to increase insulin resistance.
+
+The other major human endocannabinoid, 2-AG, also increases food intake, and is also found at higher levels in obese individuals.  The amount of 2-AG you have circulating in your body is positively correlated with how much body fat you have, and inversely related to insulin sensitivity.  It also decreases glucose uptake in the muscle.
+
+CCK is a hormone secreted from the intestines when we eat.  Normally it sends a signal to the brain telling us that yes, indeed, we have eaten, and we can back off with the hunger signals already.  AEA and 2-AG at higher levels seem to interfere with this whole signaling process - and, once again, higher levels of AEA and 2-AG are found in obese individuals.
+
+Leptin is a hormone that acts in the hypothalamus of the brain.  When it is working normally, leptin sends a signal that we have fed and we need to not be hungry anymore.  However, obese individuals often have high leptin levels, suggesting that the brains of obese individuals have become resistant to leptin's effects.  Leptin-resistant mice have increased levels of endocannabinoids swimming around in their plump mouse bodies.  In mice born without the ability to make leptin, treatment with leptin will very quickly lower endocannabinoid levels.  So obviously there is cross-talk and regulation that somehow becomes broken in the case of obesity.
+
+SO - omega 6 fatty acids become endocannabinoids, which are associated with increase fat tissue, decreased insulin sensitivity, and leptin resistance.  Oops!  (But keep in mind we only have the "associated with" there, not the smoking gun.  It's just… such a pretty theory, I can't help but squee a little.)
+
+Kim et al. are very pro-omega 3 fatty acid, suggesting that it will help reduce obesity, reduce endocannabinoid signaling, and increase insulin sensitivity.  They do use the work of William Lands to suggest that "an increase of dietary omega 3 PUFA was more efficient in decreasing eicosanoid formation from omega-6 derivatives than decreasing omega-6 PUFA in the diet."  (Eicosanoids are the bioactive molecules, such as prostaglandins, endocannabinoids, and thromboxane, that are made from omega 3 and omega 6 fatty acids.)
+
+I just downloaded and took a gander at the Lands paper referenced, and the whole time the good Dr. Lands talks about how the current 7% of US and Denmark diets of omega 6 PUFA is too high, and increasing the total ratio of omega 3 to omega 6 PUFA is the reasonable way to go  - it seems that in systems that are deficient in omega-3, we will hungrily gobble up the omega 3, so that is perhaps what Kim et al means by "an increase of… omega 3… was more efficient… that decreasing… omega 6 PUFAs in the diet."  But who knows what they were thinking.
+
+Very interesting quote from the Lands article about fish, however:
+
+"A fatal hypersensitivity to environmental stimuli ("fainting shock" syndrome) is exhibited by rainbow trout that are fed diets containing n-6 fatty acids without sufficient counterbalancing amounts of n-3 fatty acids ( 10)."
+
+Fainting shock syndrome!  Wow.  If you are a rainbow trout, do not eat corn oil.  Enough said.

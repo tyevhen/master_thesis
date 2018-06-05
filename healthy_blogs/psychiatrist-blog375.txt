@@ -1,0 +1,33 @@
+The APA put out a statement in response to the NRA's recommendation to put armed guards in every school. Quoting from the statement:
+“Only four to five percent of violent crimes are committed by people with mental illness,” said the APA’s president, Dilip Jeste, M.D. “About one quarter of all Americans have a mental disorder in any given year, and only a very small percentage of them will ever commit violent crimes,” he added.
+ So Dinah sent me an email asking this question:
+
+"So if 1/4 of all people have a mental illness in any given year, and 56% of people have a lifetime incidence, then why are only 4-5% of violent crimes committed by people with mental illnesses?  It might seem that we'd all want to be mentally ill so we wouldn't be violent."
+ My answer to that is:
+
+Only 4-5% of crimes are committed by mentally ill people because most violence is due to personality disorders combined with substance abuse, and once you combine that trifecta the number of people at risk of committing violence drops quite a bit.
+
+Here are the prevalence rates:
+
+ASPD 15% prevalence (per ECA study)
+MI 25% prevalence
+SA 10% prevalence (per NIDA)
+
+The population of the US at this minute is 314,996,054 (US Census Bureau). So, at any point in time now we've got:
+
+
+
+(per million)
+MI alone 79 314,996,054 x .25
+MI + ASPD + SA 5.9 314,996,054 x .25 x .15 x .1
+ASPD + SA alone 4.7 314,996,054 x .15 x .1
+
+In other words, very few mentally ill people commit violence crimes because most of them don't have the main necessary risk factors. And there are relatively few people with ASPD running around so that when you throw in the MI folks it doesn't increase the pool that much. And when it comes to violent crime, a disproportionately small number of people commit the majority of offenses. The relative risk of a small number of violent offenders outweighs the small number of mentally ill people who have the trifecta. Does that make sense?
+
+Ugh, I just spent far too much time trying to get the table formatting right and then Blogger messed up my HTML code. I give up. And I can't believe I'm writing about this the day before Christmas.
+
+Happy Holidays!
+
+Oh yeah, one more thing:
+
+The APA response dings the NRA for conflating mental illness with "evil," and criticizes the NRA for using the term "lunatic." I'm going to ding the APA for referring to my prison patients as "evil." I'm going to object to that, big time. The people I treat may have poor judgement, may have substance abuse problems, may have done awful things during desparate times, but I have met very few truly evil people even in prison. Demonizing and dehumanizing criminals is a very very bad idea. These people are part of our society, they will be coming back to our cities and neighborhoods some day, and it does nobody any good to say that my correctional patients are evil people. Please.

@@ -1,0 +1,7 @@
+Just as Sun Microsystems announces supercomputing on demand, available to anyone and everyone for a paltry $1 per cpu-hour (PayPal gladly accepted), Amazon comes along and offers near-free data storage via its Simple Storage Service.
+
+I suppose it's just a matter of time before Google steps in and moots both offerings.
+
+But let's pull back for a minute and look at this carefully. Suppose you were to substitute the name "Microsoft" for Sun/Amazon/Google. Would you trust your online computing and storage needs to Microsoft, at any price?
+
+Then why would you put that kind of trust in Sun, Amazon, or Google?

@@ -1,0 +1,56 @@
+I submitted an enhancement request to the Mozilla folks yesterday. My request? Add an Elvis operator to JavaScript.
+
+If you program in Groovy, you already know what I'm talking about, and it has nothing to do with impersonators or Las Vegas.
+
+If you're not familiar with the Elvis operator, here's the text of my enhancement request to Mozilla:
+An Elvis operator similar to Groovy's (which is also being considered for
+Scala, and is in the vein of C#'s null-coalescence operator) would add
+significant value to JavaScript by letting coders write safer scripts with very
+little added effort.
+
+Please see
+http://groovy.codehaus.org/Operators#Operators-ElvisOperator%28%3F%3A%29 for a
+description.
+
+Basically, Elvis is a collapsed version of the Java/C ternary operator:
+
+return user ?: "Anonymous"; // if user is null, use "Anonymous"
+
+(Allows a function that's supposed to return a String to always return a String
+and never return undefined or null.)
+
+function cat(b,c) { return (b?:"") + (c?:"") ; }
+
+Calling cat() with zero or one args still produces a safe return value; caller
+needn't check for null or undefined; function needn't contain arg-sanity
+checks.
+
+In short, the availability of an Elvis operator makes sanity-injection easy and
+will improve the robustness of scripts in the wild as people start to use it.
+Alas, Brendan Eich summarily dismissed my suggestion, saying that "idiomatic JS already uses || for the same purposes, but admitting other 'falsy' values than null and undefined."
+
+Eich offered the following illustration:
+
+function cat(b,c) { return (b || "") + (c || ""); }
+
+To which I say: Yes, of course, that sort of kludgy thing works and people use it all the time. But is it right?
+
+While I can appreciate Eich not wanting to "junk up" JavaScript with new operators, I think using the logical-OR operator in the foregoing hacky way does nothing to make code more readable or preserve ||'s original semantics, IMHO. That's the whole point of having a separate operator. The semantics are unambiguous (to a human being, which is what counts; never mind the interpreter).
+
+I'm not alone in this opinion. See Scala Elvis discussion. See also the discussion of null convenience operators for the Fan OO language. See also Stephen Colebourne's excellent discussion of a proposed Elvis syntax for null handling in Java. See also the C# null-coaslescence operator.
+
+I respect Brendan Eich more than apple pie itself, but I think it's significant that others have already considered his argument and found it wanting.
+
+There's still much to recommend Elvis. Java could certainly benefit from it. How many lines of sanity-checking code have people written at the start of a method to to see if arguments are null? More important: How many lines of such code have not been written (through sheer oversight), resulting in mayhem later? (Let he who is without sin throw the first NullPointerException.)
+
+While we're at it, I think Java could use a safe property accessor (a la Groovy):
+
+theName = user?.name; // gives null, not NPE, if name is null
+
+Colebourne has published data (acquired at Devoxx) showing that better null handling is the No. 1 most requested feature by Java programmers. The actual whiteboard photo from the data-gathering session is here (warning: large image).
+
+When programmers beg for a simple syntax feature that makes the language safer and easier to read (while eliminating tedious sanity-checking boilerplate), why not put the feature into the language? What justification could there be for not doing so? Who benefits by keeping a feature out of the language that would cut down on null pointer exceptions?
+
+Does JavaScript (and Java) need Elvis? I'm convinced it does. What do you think?
+
+Thank you . . . Thank you very much.

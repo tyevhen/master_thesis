@@ -1,0 +1,16 @@
+Two years ago, I wrote about a speech recognition program that was part of Windows 7. I experimented with this program for several months. Even though it was adequate, it just wasn’t what I was looking for.
+
+This last winter, I experienced more problems with my hands and fingers than in past years. Typing became more difficult especially after I came in from the cold. In February, CostCo offered Dragon Naturally Speaking software for sale on their website.
+
+I was interested and went to Nuance’s website and read:
+Stop typing and start doing …
+Dragon is the world’s best-selling speech recognition software. It turns your talk into text and can make virtually any computer task easier and faster. From capturing ideas and creating documents, to email and searching the web, to using simple voice commands to control many of the popular programs you use every day at home, work – and beyond.
+Even though Nuance advertises that Dragon is 99% accurate right out-of-the-box, I was a skeptic. Yet, I had a need and this program might be a solution. For that reason, I decided to gamble. A month ago I bought a copy of Dragon Naturally Speaking-Home (ver. 12.5) for $50.00.
+
+First Experiences: I didn’t like the headset that Dragon provided. I found the FreeTalk ‘EasyMan’ USB headset that I use for Skype calls to be far more accurate and comfortable. It took about 30 minutes to install and set up and train the program. Even though I have no way of determining the 99% accuracy, it sure was close. Like any program, the more you use Dragon, the easier it is to use. Dictating within Dragon is relatively easy. Remembering all the navigation and editing commands that allow you to use the full power of Dragon, however, takes a little more time. Fortunately, a cheat sheet is provided as well as several tutorials. Yes, there are still moments where using the keyboard is actually faster. Yet, the more I use Dragon, the less I use the keyboard.
+
+The program works with Microsoft Outlook, Word and Excel as well as many other programs including Gmail. Three browsers are also currently supported (Internet Explorer, Firefox and Chrome). With a little experimenting, I found that it also works with several other programs including Microsoft OneNote. For people using ‘smart phones’, there is also an app that allows you to dictate and transfer the file to your PC or Mac.
+
+Conclusion: After using Dragon for a month, I find it difficult to compare to the Windows 7 speech recognition program. The Windows 7 program feels more elementary while Dragon feels much more capable and fun to use. I base this comment more on the start-up curve, ease of use, and accuracy of Dragon.
+
+Is Dragon for everyone? No, not necessarily. Yet I have found it to be a helpful, fun and comfortable program to use. I also believe that the more that I use Dragon, the better the tool it will become. In fact, 99% of this blog article was written using Dragon.

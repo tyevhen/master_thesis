@@ -1,0 +1,33 @@
+Every once in a while, a scientific theory comes along that so aptly covers a problem space, you want to slap yourself in the head and say "How could we possibly have missed that until now?" That's kind of how I feel about the selfish ribosome theory. It's so retrospectively obvious and apt, such a good working hypothesis, that you just go "Good, good, let's stay with this a while and see where it takes us; let's assume, provisionally, that it's right until proven wrong."
+
+If you're not a biologist: The ribosome is a large, complex molecular machine, a kind of nanobot, found within all living cells, that serves as the site of protein synthesis (an RNA-guided process called translation).
+
+"Peptide syn" by Boumphreyfr. Licensed under CC BY-SA 3.0 via Wikimedia Commons. Transfer RNAs (each attached to an amino acid) arrive at the ribosome, which acts as the scaffolding for production of protein in accordance with the sequence information provided by messenger RNA. The tRNA donates its amino acid to the growing peptide chain, then gets released back to the cell's tRNA pool.
+The ribosome is a structurally complex beast made up of more than 50 individual proteins plus "ribosomal RNA" (rRNA, not shown).
+
+A bacterial cell may have 20,000 ribosomes but a mammalian cell can easily have 10 million. This is what they look like. Each ribosome is about 20 nanometers (200 Å) in diameter.
+
+Meredith and Robert Root-Bernstein sum it up in their Feb. 2015 paper The ribosome as a missing link in the evolution of life:
+Many steps in the evolution of cellular life are still mysterious. We suggest that the ribosome may represent one important missing link between compositional (or metabolism-first), RNA-world (or genes-first), and cellular (last universal common ancestor) approaches to the evolution of cells. We present evidence that the entire set of transfer RNAs for all twenty amino acids are encoded in both the 16S and 23S rRNAs of Escherichia coli K12; that nucleotide sequences that could encode key fragments of ribosomal proteins, polymerases, ligases, synthetases, and phosphatases are to be found in each of the six possible reading frames of the 16S and 23S rRNAs; and that every sequence of bases in rRNA has information encoding more than one of these functions in addition to acting as a structural component of the ribosome. Ribosomal RNA, in short, is not just a structural scaffold for proteins, but the vestigial remnant of a primordial genome that may have encoded a self-organizing, self-replicating, auto-catalytic intermediary between macromolecules and cellular life.
+The ribosome-centric view says that ribosomes, not cells, were the first self-replicating proto-life-forms and (in fact) the genome may merely have arisen as an artifact of ribosome self-preservation; and also the bounded cell is a further artifact created to make ribosomal machinery more portable.
+
+Meredith and Robert Root-Bernstein provide many great bits of evidence that ribosomes were, in fact, the first replicons, well in advance of DNA, chromosomes, cells, etc., some of which are alluded to in the above-quoted abstract. Yet another intriguing bit of evidence is the fact that the enzyme polynucleotide phosphorylase (which has the curious ability to create RNA without using a DNA template) has many deep structural similarities with ribosomal protein S1, a fact that was first noticed almost 30 years ago. PNPase is a ubiquitous, highly conserved enzyme, probably quite ancient, that catalyzes a reversible reaction in which RNA can be degraded into high-energy nucleoside diphosphates, or (conversely) NDPs can be polymerized into nonsense-RNA.
+
+The PNPase reaction can go either direction (here, just a down-arrow is shown) with equal ease.
+
+I've long felt that PNPase (which I think we can assume arose as a variant of the S1 ribosomal protein) originally served to create non-templated RNA for energy storage and for stockpiling of biologically rare and valuable complex nitrogen products (in the form of nucleotides). The RNA produced by PNPase is a LIFO (last in, first out; stack-based), nonsense-sequence product, which makes no sense from a genetic-information-storage point of view, but makes a lot of sense as an "energy molecule," a prehistoric kind of starch (if you will), a polymer for persistent storage of nucleotides and the energy they represent, in the NDP form. Nucleoside diphosphates would have been quite valuable to the replicon, not only in an energy sense but for nitrogen stockpiling. It's possible (and likely, it seems to me) that nucleoside diphosphate "energy molecules" preceded triphosphates (ATP), and the early energy economy may have indiscriminately used NDPs of all four major types (UDP, ADP, GDP, CDP) before settling on adenine-based ADP/ATP as the chief "energy currency."
+
+So many ideas like this spring into your mind (if you're a biogeek) from the ribosome-first hypothesis that it's just plain thrilling. I, for one, can't wait to see where the Selfish Ribosome Theory takes us. It has broad implications for evolutionary theory, cell biology, astrobiology, genetics, bioenergetics, and other areas. I say let's get to work fleshing this thing out.
+
+ ☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms lie. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+☙ ❧ 
+  I want to thank the following great folks who retweeted me yesterday on Twitter. My advice? Follow these guys. They retweet!
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

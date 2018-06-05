@@ -1,0 +1,7 @@
+If you look at WolframAlpha's logo, it says "Computational Knowledge Engine." That's accurate, maybe, but it's jargonly, doesn't exactly roll off the tongue, and as a promotional aid? Fail Bigtime. Non-technical users will be scared off by such talk.
+
+So I sent the WA team a note:
+
+"Computational Knowledge Engine" is a mouthful and will scare off non-techie non-geek users. To you and me it sounds perfectly acceptable, but really it's not helping WA get users or press; it's off-putting. My suggestion is to build a moniker around the simple word "oracle." Techies will "get" the traditional technical meaning of that term, and non-geeks will at least get that WA isn't really a search engine.
+
+Anxious to see what they say. I'd love to see the word "oracle" reenter the English language with its original meaning, before it was appropriated by Larry Ellison.

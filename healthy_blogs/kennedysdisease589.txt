@@ -1,0 +1,25 @@
+Note: This research concerns ALS, but also associates this particular research to SBMA (Kennedy's Disease)   Article found on 7th Space Interactive  
+
+ 
+
+The peripheral immune system is implicated in modulating microglial activation, neurodegeneration and disease progression in amyotrophic lateral sclerosis (ALS). Specifically, there is reduced thymic function and regulatory T cell (Treg) number in ALS patients and mutant superoxide dismutase 1 (SOD1) mice, while passive transfer of Tregs ameliorates disease in mutant SOD1 mice.
+
+Here, we assessed the effects of augmenting endogenous CD4+ T cell number by stimulating the thymus using surgical castration on the phenotype of transgenic SOD1G93A mice.MethodMale SOD1G93A mice were castrated or sham operated, and weight loss, disease onset and progression were examined. Thymus atrophy and blood CD4+, CD8+ and CD4+ FoxP3+ T cell numbers were determined by fluorescence activated cell sorting (FACS).
+
+Motor neuron counts, glial cell activation and androgen receptor (AR) expression in the spinal cord were investigated using immunohistochemistry and Western blotting. Differences between castrated and sham mice were analysed using an unpaired t test or one-way ANOVA.
+
+Results: Castration significantly increased thymus weight and total CD4+ T cell numbers in SOD1G93A mice, although Tregs levels were not affected.
+
+Despite this, disease onset and progression were similar in castrated and sham SOD1G93A mice. Castration did not affect motor neuron loss or astrocytic activation in spinal cords of SOD1G93A mice; however, microglial activation was reduced, specifically M1 microglia.
+
+We also show that AR is principally expressed in spinal motor neurons and progressively downregulated in spinal cords of SOD1G93A mice from disease onset which is further enhanced by castration.
+
+Conclusions: These results demonstrate that increasing thymic function and CD4+ T cell number by castration confers no clinical benefit in mutant SOD1 mice, which may reflect an inability to stimulate neuroprotective Tregs. Nonetheless, castration decreases M1 microglial activation in the spinal cord without any clinical improvement and motor neuron rescue, in contrast to other approaches to suppress microglia in mutant SOD1 mice.
+
+Lastly, diminished AR expression in spinal motor neurons, which links to another motor neuron disorder, spinal bulbar muscular atrophy (SBMA), may contribute to ALS pathogenesis and suggests a common disease pathway in ALS and SBMA mediated by disruption of AR signalling in motor neurons.
+
+Author: Rebecca K SheeanRichard H WestonNirma D PereraAngela Dâ€™AmicoStephen L NuttBradley J Turner  - Credits/Source: Journal of Neuroinflammation 2015, 12:40
+
+Published on: 2015-02-27 - News Provider: 7thSpace Interactive / EUPB Press Office
+
+Copyright by the authors listed above - made available via BioMedCentral (Open Access).

@@ -1,0 +1,25 @@
+I'm slowly but surely coming to grips with CMIS (Content Management Interoperability Services), which will soon be the lingua franca of CRUD in the content management world, and maybe some other worlds as well.
+
+After reading some of the CMIS draft docs and watching a couple of EMC's CMIS videos at YouTube, I'm starting to grok the basic abstractions. Here are a few first impressions. I offer these impressions as constructive criticism, BTW, not pot-shots. I want to see CMIS succeed. Which also means I want to see it done right.
+
+The v0.5 draft doc for the Domain Model says there are four top-level ("first class", root) object types: Document, Folder, Relationship, and Policy. (Support for the Policy type is optional. So there are basically three root types.)
+
+Already I question whether there shouldn't perhaps be a top-level object type ("CMISObject") that everything inherits from, rather than four root objects, since presumably all four basic object types will share at least a few characteristics in common. But maybe not.
+
+Page 16 of the Part I doc says that Administration is out of scope for CMIS. But later on, we learn that "A policy object represents an administrative policy that can be enforced by a repository." We also find applyPolicy and removePolicy operations, which are clearly administrative in intent.
+
+Remarkably, Policy objects can be manipulated through standard CMIS CRUD operations but do not have a content stream and are not versionable. However, they "may be" fileable, queryable, or controllable. Why are we treating this object as a file ("fileable") but not allowing it to be versionable? And why are we pretending it doesn't have a content stream? And why are we saying "may be"? This is too much fuzziness, it seems to me.
+
+Right now, the way CMIS Part I is worded, a "policy" can be anything. One might as well call it Rules. Or Aspects. Or OtherStuff. The word Policy has a specific connotation, though. Where I come from, it implies things like compliance and governance, things that MAY intersect role constraints, separation of duties, RBAC, and possibly a lot more; and yes, these concepts do come up in content management, in the context of workflow. But it seems to me that policy, by any conventional definition, is rather far afield from where CMIS should be concentrating right now. If "policy" means something else here, let's have a good definition of it and let's hear the argument for why it should be exposed to client apps.
+
+I say drop the Policy object type entirely. It's baggage. Keep the spec light.
+
+I like the idea of having Relationships as a top-level object type. The notion here is that you can specify the designation of a source object and a target object that are related in some way that the two objects don't need to know about. I like it; it feels suitably abstract. And it models a construct that's used in all sorts of ways in content management systems today.
+
+The Folder object type, OTOH, is too concrete for my tastes. We need to stop thinking in terms of "folder" (which is a playful non-geek term for "directory", designed to make file systems understandable by people who know about manila folders), and think more abstractly. What notion(s) are we really trying to encapsulate with the object type currently dubbed "Folder"? At first blush, it would seem as though navigability (navigational axes) constitute(s) the core notion, but the possible graphs allowed by Folder do not match popular navigational notions inherent in file-system folders (at least on Windows). In other words, the many-to-many parent-child mappings allowed by CMIS's Folders destroy the conventional "folder" metaphor, unless you're a computer science geek, in which case you don't think in terms of folders anyway.
+
+I think what "Folder" should try to encapsulate is a Collection of Relationships. A navigation hierarchy (whether treelike or not) is just one possible subclass of such a collection. We cheat ourselves by trying to emulate, at the outset, some parochial notion of "folders" based on a particular type of graph. We need Folder to be more general. It is a Collection of Relationships. We already have Relationships, so why not take the opportunity to reuse them here?
+
+I'd like to see more discussion about Folders, but I fear that the rush to get CMIS blessed by OASIS may have already precluded further discussion of this important issue. I hope I'm wrong.
+
+Interesting stuff, though, this CMIS. And wow, do I still have a lot of grokking to do . . .

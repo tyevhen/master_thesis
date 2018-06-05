@@ -1,0 +1,26 @@
+If nothing else, the continuing stories regarding Nemeroff and company give me a chance to recite some excellent Public Enemy lyrics in post titles.
+
+But seriously, the problems continue to stack up. In an article published online in Neuropsychopharmacology, a journal at which Nemeroff is the editor, the following occurred:
+1) A sizable authorship switch
+2) Failure to disclose conflicts of interest
+3) Bobbing and weaving on data analyses
+
+This centers on a study for risperdone as an add-on to SSRI treatment for depression. The study had three phases, as follows:
+1) Participants who had not responded to 1-3 antidepressants other than (es)citalopram (Celexa or Lexapro) for > six weeks were assigned to open-label citalopram (Celexa) treatment for 4-6 weeks
+2) Patients who failed to respond to citalopram were then assigned to open label risperidone (Risperdal) augmentation (add-on) treatment for 4-6 weeks
+3) Patients whose depression remitted were then assigned to 24 weeks of either risperidone + citalopram or citalopram + placebo and the differences between risperidone and placebo for depressive relapse were examined.
+
+This post focuses solely on an authorship switch. In 2004, results from this study were presented in abstract form. In this form, the authors read as follows:
+Nemeroff, Gharabawi, Canuso, Mahmoud, Loescher, Turkoz, Rapaport, Gharabawi. You might think that there were two different Gharabawis, but they were both listed as George M Gharabawi, so he’s either the 2nd or 8th author – someone made an obvious typo here.
+
+Who’s on the final published manuscript in Neuropsychopharmacology? In order: Rapaport, Gharabawi, Canuso, Mahmoud, Keller, Bossie, Turkoz, Lasser, Loescher, Bouhours, Dunbar, Nemeroff.
+
+As if by magic, Nemeroff goes from first to last author. Rapaport moves from seventh author to first, Turkoz gets bumped down a couple spots. Keller appeared out of thin air. What did he do to get on the study? Keller is credited with “study concept and design,” which I would deem impossible since, if he really conceived and designed the study, he would have appeared as an author on the earlier abstract. Yet he is listed fourth on the list of people who designed the study. He is also credited, along with all of the authors, with “analysis and interpretation of the data” and critical revision of the manuscript for “important intellectual content.” Is it possible that he did a great job of helping to revise the manuscript? I suppose, but it seems there were plenty of other people who were also involved with the writing of the paper. Note that Keller was not credited with “drafting of the manuscript.” So Keller did not recruit participants, provided no administrative support, did not provide statistical expertise, and did not draft the manuscript, but apparently helped design the study after it was completed! Very impressive indeed.
+
+But wait there’s more! In a press release, it is stated that “Dr. Mark Hyman Rapaport was the study’s principal investigator. Co-principal investigators were Charles B. Nemeroff, Ph.D., M.D. and Martin B. Keller, M.D.” So Keller, who played no major role in designing in the study or running patients was a co-principal investigator. Remember, he would have been listed as an author on the initial abstract describing the study results if he helped design the study.
+
+What am I implying? There’s no doubt that Keller is a big name in psychiatry. He has, according to his CV from August of 2006, over 300 journal publications to go with dozens of book chapters. So it certainly adds credibility to the study to tack him on as an author. As for Nemeroff moving from 1st to last, that’s interesting. My thought is that with an authorship list of 12, nobody is going to remember authors 6-11, so tacking him on as last author makes the name stand out more. Just speculation on my part. And Rapaport making the jump from last to first? Well, I think that, again, we’re talking about name recognition here. Rapaport is likewise a pretty big name. Now, mind you, I’m not implying at all that Rapaport did not have a major role; indeed, the author contributions section of the paper indicates that he did quite a bit of work on the project and he absolutely appears to deserve first author credit.
+
+There are varying standards for the ordering of authorship. In some disciplines, it just goes in descending order (which makes the most sense) – he/she who contributed most gets first authorship while he/she who contributed least gets last authorship. In others, the lab supervisor, who may have done very little on the study, gets last authorship or sometimes first authorship. In any case, the first author and the last stick out most in memory and I’m sure it doesn’t hurt to throw in a bigwig like Keller in the middle of the mix. I’m guessing it would have been better publicity to move Keller higher on the list, but there’s only so much credit a guy can receive for apparently doing magic (designing the study after it was completed) and making comments on the manuscript. Of course, inappropriate authorship is widespread, so these results come as no surprise.
+
+More on other issues with the study later. I assure you that the authorship switch is the least of the study’s problems.

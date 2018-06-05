@@ -1,0 +1,38 @@
+I feel this press release by NIH was important enough to show in its entirety below.  This type activity can “fast-track” a potential treatment and make it available to the public much quicker than the normal process.  Let’s cross our fingers, folks.
+
+NIH researchers create comprehensive collection of approved drugs to identify new therapies for rare and neglected diseases
+Researchers have begun screening the first definitive collection of thousands of approved drugs for clinical use against rare and neglected diseases. They are hunting for additional uses of the drugs hoping to find off-label therapies, for some of the 6,000 rare diseases that afflict 25 million Americans. The effort is coordinated by the National Institutes of Health’s Chemical Genomics Center (NCGC).
+
+"This is a critical step to explore the full potential of these drugs for new applications," said NIH Director Francis S. Collins, M.D., Ph.D. "The hope is that this process may identify some potential new treatments for rare and neglected diseases."
+
+The researchers assembled the collection of approved drugs for screening based on information from the NCGC Pharmaceutical Collection browser at http://tripod.nih.gov/npc. This publicly available, Web-based application described in a paper appearing in the April 27 issue of Science Translational Medicine, provides complete information on the nearly 27,000 active pharmaceutical ingredients including 2,750 small molecule drugs that have been approved by regulatory agencies from the United States, Canada, Europe and Japan, as well as all compounds that have been registered for human clinical trials.
+
+“In order to launch a systematic repurposing effort using NCGC’s drug screening technologies, we needed access to a comprehensive collection of clinically approved drugs,” said Christopher P. Austin, M.D., director of NCGC, which is currently administered by the National Human Genome Research Institute (NHGRI). “Our team took on the monumental task of assembling this collection, making it publicly available and creating a world class resource.”
+
+The NCGC Pharmaceutical Collection (NPC) browser provides users with the ability to explore drugs by name, chemical structure, approval status and indication. Groups interested in developing their own screening collections can leverage the supplier and catalog information provided in the browser. The browser, which is an ongoing effort, also includes entries on investigational drugs. The ultimate goal is to collect all of the more than 7,500 compounds that have been tested in man and which present potential jump-start development of treatments for rare and neglected diseases.
+
+
+
+The current focus is on collaborating with disease foundations, industry, and academic investigators with disease-relevant assays to screen against the approved drug collection acquired by NCGC. Any new therapeutic use of an approved drug would require additional studies including clinical trials in that disease, approved by the U.S. Food and Drug Administration. Given the cost and limited quantities of the drugs in the collection, each partnership to screen the NPC will be evaluated based on the quality of each disease-related assay and its scientific merit.
+
+Creating a new drug is expensive. Recouping the investment can be difficult for rare diseases, due to the small number of patients with the disease or, in the case of tropical neglected diseases, the limited ability of patients to pay for treatments. Today, therapies are available for less than 300 rare diseases.
+
+Drugs that receive regulatory approval have been demonstrated to be reasonably safe and effective in the treatment of a specific disease or condition. When such drugs are used in large populations, new benefits or adverse effects can be discovered. Subsequently, the use of approved drugs can be expanded beyond what a drug was originally approved for to treat other health conditions.
+
+Thalidomide is an example of repurposing a drug with serious adverse effects in one condition to treat another disease, according to the authors. In the 1950s, it was used as a sedative and as a treatment for morning sickness during pregnancy. It was later withdrawn because it was found to cause severe birth defects. Thalidomide was then repurposed for use against leprosy, an infectious disease causing skin lesions and multiple myeloma, a cancer of plasma cells, which are a type of white blood cell present in bone marrow.
+
+Based on the drug's new application, the U.S. Food and Drug Administration approved thalidomide for the treatment of leprosy in 1998 and for multiple myeloma patients in 2006.
+More recently, a team of NHGRI researchers used a similar approach, examining patient blood samples to see what gene and protein networks were active in a syndrome called periodic childhood fever associated with aphthous stomatitis, pharyngitis and cervical adenitis — or PFAPA. PFAPA causes monthly flare-ups of fever, accompanied by sore throat, swollen glands and mouth lesions.
+
+
+The researchers detected overactive genes in the patient's immune response, including interleukin-1, a molecule that is important in triggering fever and inflammation. From these data, the researchers hypothesized that anakinra, a drug that prevents interleukin-1 from binding to its receptor, could be therapeutic. They injected anakinra into five children on the second day of their PFAPA fevers and all showed a reduction in fever and inflammatory symptoms within hours.
+
+Another approach that does not require a complete knowledge of a disease or drug mechanism uses high-throughput drug screening technologies that screen drugs for biological activity in cell-based models of disease. Drugs that record an activity are known as hits and can be further studied for their therapeutic potential by researchers in animal models of the disease and eventually in human clinical trials.
+
+NCGC already has screened the approved drug collection against more than 200 cell-based models of disease. In every screen, NCGC characterizes the pharmacology of each compound over a wide range of concentrations using its signature quantitative high-throughput screening approach. All of the data from NCGC screens will be published and made publicly available.
+
+In addition to repurposing drugs, the NCGC plans to screen the collection as part of the Tox21 initiative to better predict and model adverse effects associated with approved drugs. Drug toxicity is one of the primary reasons that approved drugs are removed from the marketplace and the ability to predict toxicity would dramatically improve the efficiency of drug development.
+
+The National Human Genome Research Institute is one of the 27 institutes and centers at the NIH, an agency of the Department of Health and Human Services. The NHGRI Division of Intramural Research develops and implements technology to understand, diagnose and treat genomic and genetic diseases. Additional information about NHGRI can be found at its website, www.genome.gov.
+
+About the National Institutes of Health (NIH): NIH, the nation's medical research agency, includes 27 Institutes and Centers and is a component of the U.S. Department of Health and Human Services. NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both common and rare diseases. For more information about NIH and its programs, visit www.nih.gov.

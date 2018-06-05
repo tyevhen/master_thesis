@@ -1,0 +1,7 @@
+MOA continues to move forward rapidly.
+
+Some important Web 2.0 architectural memes are starting to come together in the form of things like Feedflare API, Ning Atom API, and shortText.com. (If the latter would expose a REST API, it could become the Clipboard of the Web instead of merely the Notepad of the Web.) What's interesting about the Feedflare API is that it involves late evaluation of embedded XPath, giving mashers a nice combination of declarative and imperative styles to draw upon. They also silently cast your RSS to Atom at parse-time.
+
+As more and more powerful mash APIs come on the scene, and as people normalize on Atom as a datagram format, JSON as an object-passing/serialization format, things like shortText.com for clipboard storage, etc., Web 2.0 reaches an architectural maturity level where the likelihood increases that someone will create the "killer app" that finally tips the tipping point away from IE (for good), towards Firefox, Opera, and the Web 2.0 compatibles . . . thereby locking Microsoft out of a Web 2.0 future (if it isn't locked out already). The coming "killer app" will no doubt leverage one or another IE-incompatible technology such as <canvas> and/or E4X and/or Greasemonkey and/or SVG and/or some other cutting edge technology that's fully available in Firefox/Opera but not in IE.
+
+Mark it as a future I-told-you-so.

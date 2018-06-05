@@ -1,0 +1,11 @@
+There are plenty of lists of commonly used English words out on the Web, but it turns out most such lists are limited to the 1000 or 2000 most-used words in whatever-corpus-was-sampled, and it's actually surprisingly hard to find a free list of, say, 10K or 20K words, sorted by frequency of usage. I did manage to find such a list, though (containing 15000 words) at AudienceDialog.net.
+
+The explanation behind the genesis of the list is interesting:
+
+While writing our page on Global English we discovered that the best vocabulary for students of English to aim at is around 15,000 words. With a vocabulary of that size, you should have a sustainable knowledge of English. That means when you find a word you don't know, you can usually work out from the context of the sentence. In a document of average difficulty, there will be less than 2 words in every 100 that you do not know.
+
+The technical approach behind compiling the list is explained here. It's always interesting to see what kind of methodology someone uses when compiling lists of this sort, because the results are dependent on so many factors. There's no one right way to determine "the most frequently occurring words in the English language" (the whole idea is a bit absurd if you think about it) and in fact no two lists of this kind are ever the same. But that doesn't at all limit the utility of such lists for the purposes for which they're usually used, fortunately.
+
+I wonder if anyone keeps a list of the most frequently occurring syllables?
+
+And by the way: If you want to see a truly great interactive longtail graphic on this subject, I urge you to check out http://www.wordcount.org/main.php. It's astonishing.

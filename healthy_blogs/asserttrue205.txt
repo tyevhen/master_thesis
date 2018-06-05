@@ -1,0 +1,38 @@
+It's common practice, when a patient complains of not seeing improvement on antidepressants, for the clinician to increase the dose of whatever the patient is taking, on the theory that everyone's metabolism is slightly different, and what may be a therapeutic dose for one person may not be strong enough for someone else.
+
+There is no scientific basis for upping the dose of antidepressants, however, since almost all antidepressants have a flat dose-response curve.
+
+If your clinician is playing around with doses, you're dealing with someone who hasn't read the literature. The literature says dose doesn't matter.
+
+Patricia Berney of the Unité de Psychopharmacologie Clinique, Hôpitaux Universitaires de Genève, Chêne-Bourg, Switzerland, did a literature survey on antidepressants and doses, published in Dialogues in Clinical Neuroscience Sep 2005; 7(3): 249–262. Her conclusion:
+The results show that a flat dose-response curve is a class phenomenon for selective serotonin reuptake inhibitors (SSRIs), according to randomized, controlled, fixed-dose clinical trials.
+It's worth pulling some quotations directly from her analysis of the literature.
+
+For Celexa, she found: "The short-term studies with citalopram did not show significant differences  [...]  When using change on the HAMD and MADRS total score, citalopram 20 and 40 mg/day were no different from placebo."
+ 
+For Lexapro, she found: "The only fixed-dose-response study with escitalopram indicates that 10 mg/day was equally as effective as 20 mg/day."
+
+For Prozac: "The studies with fluoxetine did not show significant differences in terms of clinical efficacy across a dose range of 20 to 60 mg/day. [...] Therefore, for the majority of patients, there is no advantage of increasing the dose of fluoxetine above 20 mg/day. It might even be the case that the higher dose of 60 mg/day is less effective in major depressive disorder." Also: "The study by Dornseif et al. was performed more than 15 years ago. It is of great importance because it demonstrated that there is no advantage of tripling the dose of fluoxetine to 60 mg/day in outpatients who fail to initially respond to 20 mg/day for 3 weeks; during the next 5 weeks, patients in both groups responded to the same extent and at the same rate."
+
+For Luvox: "Significant differences were not seen between fluvoxamine 25, 50, or 150 mg/day or placebo."
+
+For Paxil: "In the publication by Dunner and Dunbar (Table I), there is a short description of a study involving 460 patients. The paroxetine 10 mg/day dose was no more effective than placebo, even on the HAMD depressed mood item. The authors reported also on a pooled analysis from a worldwide database, involving 1091 patients who remained on a fixed dose of paroxetine or placebo for at least 4 weeks, which showed no differences in terms of clinical efficacy across a dose range of 20 to 40 mg/day paroxetine. Therefore, for the majority of patients, there is no advantage in increasing the dose of paroxetine above 20 mg/day."
+
+For Zoloft: "The SSRI sertraline did not show significant differences in terms of clinical efficacy across a dose range of 50 to 200 mg/day, according to a major study by Fabre and Putman (Table I). Therefore, for the majority of patients, there is no advantage to increase the dose of sertraline above 50 mg/day."
+
+For the tetracyclic antidepressant maprotiline, otherwise known as Deprilept, Ludiomil, or Psymion, versus Paxil: "The study by Benkert et al. used the same protocol as Dornseif et al. and Schweizer et al. and evaluated two antidepressants, paroxetine and maprotiline. This study could not demonstrate an advantage of doubling the dose of paroxetine to 40 mg/day in patients who had failed to respond initially to 20 mg/day for 3 weeks. In another group of 273 patients (not included in Table IV ), no advantage of increasing the dosage of maprotiline to 150 mg/day in patients who had failed to respond initially to 100 mg/day for 3 weeks could be demonstrated. No significant benefits of dose escalation were found."
+
+For Savella, Dalcipran, Toledomin (the SSRI milnacipran, commonly prescribed for fibromyalgia): "In the study by Guelfi et al., milnacipran was prescribed at doses of 100 and 200 mg/day, with a third group receiving fluoxetine 20 mg/day. At the end of 12 weeks, there were no differences between the three groups on change on the HAMD 17 items and MADRS total scores on ITTLOCF."
+
+Ultimately, Berney said:
+Our review of eight clinical trials at fixed doses that have evaluated the dose-response relationship of SSRIs in the treatment of major depressive disorders suggests that the dose-response curve is flat. 
+Moreover, three augmentation studies could not demonstrate an advantage of doubling the dose of paroxetine, or tripling the dose of fluoxetine, in patients who had failed to respond initially to 20 mg/day for 3 weeks (Table IV). There was a heterogeneity of the results in that some studies did not show a significant difference between the active substance and placebo, or between the highest dosage and placebo.
+If you read Berney's report carefully, she mentions a number of side effects for which dose-response relationships were, indeed, noted. Thus, these are drugs for which the primary clinical effect (relief from depression) shows no dose-response curve, whereas side effects do show a dose-response curve. Lack of a dose-response relationship is, of course, typical for placebos.
+
+Berney's results are consistent with a separate meta-analysis by Baker et al.,"Evidence that the SSRI dose response in treating major depression should be reassessed," Depression and Anxiety, (2003), 17(1):1-9. It's also the conclusion reached in yet another meta-analysis by Hansen et al., Med Decision Making January/February 2009, 29(1):91-103 Said the Hansen group: "Dose was not a statistically significant predictor of categorical HAM-D response. Among comparative trials with nonequivalent doses, trends favored higher dose categories but generally were not statistically significant."
+
+These results are consistent with a hypothesis that antidepressants of the types listed above are, in fact, basically nothing more than fancy placebos. Many antidepressants fail to perform better than placebo in efficacy testing, and (just like a placebo) they have no discernible dose-response curve.
+
+If your clinician has been playing around with doses, you're both wasting your time. A placebo is a placebo is a placebo. Dose doesn't matter.
+
+I'm writing a no-bullshit 117,000-word book on mental illness. Please add your name to the mailing list to be notified when the book is ready, or to learn how to get free sample chapters; and please pass this information on to anyone you know who may benefit from it. Thanks!

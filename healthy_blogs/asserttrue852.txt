@@ -1,0 +1,3 @@
+According to John Nack, the Pixel Bender Gallery plug-in for Photoshop CS4 is now available for download from Adobe Labs. Nack explains that the plug-in "runs filters really, really fast on your graphics card," and notes that the filters people write for Flash will also work in Photoshop (or so he says). A nice added bonus is that the same filters will work in After Effects CS4.
+
+Can't wait to try it.

@@ -1,0 +1,25 @@
+GlaxoSmithKline, manufacturer of lamotrigine (Lamictal), the antiepileptic drug used widely for bipolar disorder, happily hid clinical trial results which found Lamictal was no better than a placebo. Given recent findings about how often pharmaceutical companies selectively push positive results to publication in medical journals while suppressing negative results, this can hardly be considered a surprise. It is nonetheless instructive to examine how the published data on Lamictal paint a much rosier picture of the drug's efficacy compared to unpublished data.
+
+Nassir Ghaemi, a psychiatrist at Tufts University Medical Center, dug through GSK's online database of information, and found that several negative Lamictal studies (studies which failed to show a benefit for Lamictal over placebo on the primary outcome measure) were quietly residing on the site. Why did GSK post such information on their site? Not out of the goodness of their hearts; rather, because they were forced to post data about clinical trial outcomes as a result of a legal agreement. Here's what Ghaemi found in GSK's database:
+
+Acute mania: Two studies compared lithium, Lamictal, and placebo. Both found that Lamictal did not beat a placebo. Neither study was published.
+
+Acute bipolar depression: Three studies were conducted. All three showed negative results. Two were not published. On one study, there was a positive result for Lamictal on a secondary outcome measure, and the results of the study were written to emphasize the positive outcomes, as in stating "Lamotrigine monotherapy is an effective and well-tolerated treatment for bipolar depression."
+
+Rapid cycling bipolar: Two studies were completed; both were negative on the primary outcome. However, one study showed favorable outcomes for Lamictal on several secondary measures. The obviously negative study was not published while the study that showed a number of benefits for Lamictal was published.
+
+Prophylaxis (Prevention of future episodes): Two studies were conducted, both of which showed that patients on Lamictal went longer between episodes than did placebo patients. Both studies were published.
+
+Well, I'm shocked, shocked, that GSK would simply bury a slew of negative data on their product. Who woulda thunk it? So what does this mean for Lamictal? Dr. Ghaemi was interviewed by Dr. Daniel Carlat (of Carlat Psychiatry Blog and the Carlat Psychiatry Report). There were many pieces of Ghaemi's interview that were interesting (see February 2008 issue of Carlat Psychiatry report; sorry, no link available), but the most interesting piece was:
+Carlat: My understanding is that you wrote up your discovery of the negative Lamictal data and submitted the paper to some journals. What has been the response?
+
+Ghaemi: I first submitted to JAMA because I knews they were sympathetic to this kind of critique. Their reaction was, "We already publish many papers like this; this is old news; there is nothing new here." They recommended that I send it to a psychiatric journal. So then I sent it to the American Journal of Psychiatry, but they rejected it as well, saying that they were doubtful that this type of negative publication bias was common among other companies marketing medications for bipolar disorder.
+
+Carlat: Do you think there is much suppressed negative data about other drugs?
+
+Ghaemi: It's very hard to get this information. Companies are not required to disclose it. And if they do publish it, they will sometimes delay publication for two or three years, and then publish it in an obscure journal that it less likely to be read.
+Ghaemi also did some digging on other drugs used for bipolar disorder and found that negative studies for Seroquel and Abilify were also lurking in the unpublished zone. However, it appears that Lamictal is the worst offender of the bunch. Is it just me, or is anyone else getting flashbacks to GSK's handling of suicide data regarding its antidepressant Paxil?
+
+Thanks to an anonymous reader for helping to track down relevant information on this and an upcoming post on this topic. The forthcoming post will deal with the misleading scientific literature on Lamictal. Key opinion leaders will likely be mentioned. The usual stuff, just on a different drug and plugging in the names of other academics who apparently deemed it acceptable to mislead their fellow physicians about the efficacy of lamotrigine. GSK worked the system expertly and it paid off.
+
+S. Nassir Ghaemi, Arshia A. Shitzadi, Megan Filkowski (2008). Publication bias and the pharmaceutical industry: The case of lamotrigine for bipolar disorder Medscape Journal of Medicine, 10 (9), 211-211

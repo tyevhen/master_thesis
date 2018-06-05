@@ -1,0 +1,19 @@
+There's an interesting discussion going on at TheServerSide.com right now. Someone asked "What’s the strangest thing about the Java platform?"
+
+I can think of a lot of strange things about Java (space precludes a full enumeration here). Offhand, I'd say one of the more disturbing aspects of Java is its ill-behaved (unpredictable) System.gc( ) method.
+
+According to Sun, System.gc( ) is not 100% reliable: "When control returns from the method call, the virtual machine has made its best effort to recycle all discarded objects." Notice the wording ("best effort"). There is absolutely no guarantee that gc() will actually force a garbage collection. This is well known to anybody who has actually tried to use it in anger.
+
+The problem is, in the rare case when you actually do need to use gc(), you really do need it to work (or at least behave in a well-understood, deterministic way). Otherwise you can't make any serious use of it in a mission-critical application. Not to put too fine a point on it, but: If a method is not guaranteed to do what you expect it to do, then it seems to me the method becomes quite dangerous. I don't know about you, but I rely on System calls to work. If you can't rely on a System call, what can you rely on?
+
+Suppose you've written a reentry program for a spacecraft, and you have an absolute need for a particular routine (e.g., to fire retro-rockets) to execute, without interruption, starting at a particular point in time. The spacecraft will be lost and the mission will fail (at a cost to taxpayers of $300 million) if the retro-rockets don't fire on time or don't shut off on time.
+
+Now imagine that just as your program's fireRetroRockets() method is entered, the JVM decides to "stop the world" and do a garbage-collect.
+
+Houston, we have a . . . well, you know.
+
+The point is, if you could call System.gc( ) ahead of time, and count on it doing exactly what you want it to do (collect garbage immediately, so that an uncommanded GC won't happen at the wrong moment), you could save the mission. (Arguably.)
+
+Obviously, this example is somewhat academic. No one in his right mind would actually use Java to program a spacecraft, in real life.
+
+And that, I think, says a great deal about the Java platform.

@@ -1,0 +1,1 @@
+all this time , i 've been thinking nan is not a number what an idiot i 've been in javascript typeof nan 'number' true and yet of course , nan nan is false there you go amaze your friends

@@ -1,0 +1,57 @@
+I mentioned in a previous post that I once interviewed for a job at a well-known search company. One of the five people who interviewed me asked a question that resulted in an hour-long discussion: "Explain how you would develop a frequency-sorted list of the ten thousand most-used words in the English language."
+
+I'm not sure why anyone would ask that kind of question in the course of an interview for a technical writing job (it's more of a software-design kind of question), but it led to a lively discussion, and I still think it's one of the best technical-interview questions I've ever heard. Ask yourself: How would you answer that question?
+
+My initial response was to assail the assumptions underlying the problem. Language is a fluid thing, I argued. It changes in real time. Vocabulary and usage patterns shift day-to-day. To develop a list of words and their frequencies means taking a snapshot of a moving target. Whatever snapshot you take today isn't going to look like the snapshot you take tomorrow -- or even five minutes from now.
+
+So the first question is: Where do we get our sample of words from? Is this about spoken English, or written English? Two different vocabularies with two different frequency patterns. But again, each is mutable, dynamic, fluid, protean, changing minute by minute, day by day.
+
+Suppose we limit the problem to written English. How will we obtain a "representative sampling" of English prose? It should be obvious that there is no such thing. There is no "average corpus." Think about it.
+
+My interviewer wanted to cut the debate short and move on to algorithms and program design, but I resisted, pointing out that problem definition is extremely important; you can't rush into solving a problem before you understand how to pose it.
+
+"Let's assume," my inquisitor said, "that the Web is a good starting place: English web-pages." I tormented my tormentor some more, pointing out that it's dangerous to assume spiders will crawl pages in any desirable (e.g., random) fashion, and anyway, some experts believe "deep Web content" (content that's either uncrawlable or has never been crawled before) constitutes the majority of online content -- so again, we're not likely to obtain any kind of "representative" sample of English words, if there even is such a thing as a representative sample of the English language (which I firmly maintain there is not).
+
+By now, my interviewer was clearly growing impatient with my petulence, so he asked me to talk about designing a program that would obtain a sorted list of 10,000 most-used words. I dutifully regurgitated the standard crawl/canonicalize/parse/tally sorts of things that you'd typically do in such a program.
+
+"How would you organize the words in memory?" my tormentor demanded to know.
+
+"A big hash table," I said. "Just hash them right into the table and bump a counter at each spot."
+
+"How much memory will you need?"
+
+"What've you got?" I smiled.
+
+"No, seriously, how much?" he said.
+
+I said assuming 64-bit hardware and software, maybe something like 64 gigs: enough memory for a 4-billion-slot array of 16 bytes of data per slot. Most words will fit in that space, and a short int will suffice for a counter in each slot. (Longer words can be hashed into a separate smaller array.) Meanwhile you're using 32 bits (64 available; but you're only using 32) of address space, which is enough to hash words of length 7 or less with no collisions at all. (The typical English word has entropy of about 4.5 bits per character.) Longer words entail some risk of hash collision, but with a good hash function that shouldn't be much of a problem.
+
+"What kind of hash function would you use?" the interviewer asked.
+
+"I'd try a very simple linear congruential generator, for speed," I said, "and see how it performs in terms of collisions."
+
+He asked me to draw the hash function on the whiteboard. I scribbled some pseudocode that looked something like:
+
+HASH = INITIAL_VALUE;
+FOR EACH ( CHAR IN WORD ) {
+HASH *= MAGIC_NUMBER
+HASH ^= CHAR
+HASH %= BOUNDS
+}
+RETURN HASH
+
+I explained that the hash table array length should be prime, and the BOUNDS number is less than the table length, but coprime to the table length. Good possible values for the MAGIC_NUMBER might be 7, 13, or 31 (or other small primes). You can test various values until you find one that works well.
+
+"What will you do in the event of hash collisions?" the professor asked.
+
+"How do you know there will be any?" I said. "Look, the English language only has a million words. We're hashing a million words into a table that can hold four billion. The load factor on the table is negligible. If we're getting collisions it means we need a better hash algorithm. There are plenty to choose from. What we ought to do is just run the experiment and see if we even get any hash collisions. "
+
+"Assume we do get some. How will you handle them?"
+
+"Well," I said, "you can handle collisions via linked lists, or resize and rehash the table -- or just use a cuckoo-hash algorithm and be done with it."
+
+This led to a whole discussion of the cuckoo hashing algorithm (which, amazingly, my inquisitor -- supposedly skilled in the art -- had never heard of).
+
+This went on and on for quite a while. We eventually discussed how to harvest the frequencies and create the desired sorted list. But in the end, I returned to my main point, which was that sample noise and sample error are inevitably going to moot the results. Each time you run the program you're going to get a different result (if you do a fresh Web crawl each time). Word frequencies are imprecise; the lower the frequency, the more "noise." Run the program on September 10, and you might find that the word "terrorist" ranks No. 1000 in frequency on the Web. Run it again on September 11, and you might find it ranks No. 100. That's an extreme example. Vocabulary noise is pervasive, though, and at the level of words that rank No. 5000+ (say) on the frequency list, the day-to-day variance in word rank for any given word is going to be substantial. It's not even meaningful to talk about precision in the face of that much noise.
+
+Anyway, whether you agree with my analysis or not, you can see that a question like this can lead to a great deal of discussion in the course of a job interview, cutting across a potentially large number of subject domains. It's a question that leads naturally to more questions. And that's the best kind of question to ask in an interview.

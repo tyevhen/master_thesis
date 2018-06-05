@@ -1,0 +1,45 @@
+Earlier, I gave evidence for a surprising relationship between the amount of G+C (guanine plus cytosine) in DNA and the amount of "purine loading" on the message strand in coding regions. The fact that message strands are often purine-rich is not new, of course; it's called Szybalski's Rule. What's new and unexpected is that the amount of G+C in the genome lets you predict the amount of purine loading. Also, Szybalski's rule is not always right.
+
+Genome A+T content versus message-strand purine content (A+G) for 260 bacterial genera. Chargaff's second parity rule predicts a horizontal line at Y = 0.50. (Szybalski's rule says that all points should lie at or above 0.50.) Surprisingly, as A+T approaches 1.0, A/T approaches the Golden Ratio.
+When you look at coding regions from many different bacterial species, you find that if a species has DNA with a G+C content below about 68%, it tends to have more purines than pyrimidines on the message strand (thus purine-rich mRNA). On the other hand, if an organism has extremely GC-rich DNA (G+C > 68%), a gene's message strand tends to have more pyrimidines than purines. What it means is that Szybalski's Rule is correct only for organisms with genome G+C content less than 68%. And Chargaff's second parity rule (which says that A=T an G=C even within a single strand of DNA) is flat-out wrong all the time, except at the 68% G+C point, where Chargaff is right now and then by chance.
+
+Since the last time I wrote on this subject, I've had the chance to look at more than 1,000 additional genomes. What I've found is that the relationship between purine loading and G+C content applies not only to bacteria (and archaea) and eukaryotes, but to mitochondrial DNA, chloroplast DNA, and virus genomes (plant, animal, phage), as well.
+
+The accompanying graphs tell the story, but I should explain a change in the way these graphs are prepared versus the graphs in my earlier posts. Earlier, I plotted G+C along the X-axis and purine/pyrmidine ratio on the Y-axis. I now plot A+T on the X-axis instead of G+C, in order to convert an inverse relationship to a direct relationship. Also, I now plot A+G (purines, as a mole fraction) on the Y-axis. Thus, X- and Y-axes are now both expressed in mole fractions, hence both are normalized to the unit interval (i.e., all values range from 0..1).
+
+The graph above shows the relationship between genome A+T content and purine content of message strands in genomes for 260 bacterial genera. The straight line is regression-fitted to minimize the sum of squared absolute error. (Software by http://zunzun.com.) The line conforms to:
+
+y = a + bx
+  where:
+a =  0.45544384965539358
+b =  0.14454244707261443
+
+
+The line predicts that if a genome were to consist entirely of G+C (guanine and cytosine), it would be 45.54% guanine, whereas if (in some mythical creature) the genome were to consist entirely of A+T (adenine and thymine), adenine would comprise 59.99% of the DNA. Interestingly, the 95% confidence interval permits a value of 0.61803 at X = 1.0, which would mean that as guanine and cytosine diminish to zero, A/T approaches the Golden Ratio.
+
+Do the most primitive bacteria (Archaea) also obey this relationship? Yes, they do. In preparing the graph below, I analyzed codon usage in 122 Archaeal genera to obtain A, G, T,  and C relative proportions in coding regions of genes. As you can see, the same basic relationship exists between purine content and A+T in Archaea as in Eubacteria. Regression analysis yielded a line with a slope of 0.16911 and a vertical offset 0.45865. So again, it's possible (or maybe it's just a very strange coincidence) that A/T approaches the Golden Ratio as A+T approaches unity.
+
+Analysis of coding regions in 122 Archaea reveals that the same relationship exists between A+T content and purine mole-fraction (A+G) as exists in eubacteria.
+For the graph below, I analyzed 114 eukaryotic genomes (everything from fungi and protists to insects, fish, worms, flowering and non-flowering plants, mosses, algae, and sundry warm- and cold-blooded animals). The slope of the generated regression line is 0.11567 and the vertical offset is 0.46116.
+
+Eukaryotic organisms (N=114).
+
+Mitochondria and chloroplasts (see the two graphs below) show a good bit more scatter in the data, but regression analysis still comes back with positive slopes (0.06702 and .13188, respectively) for the line of least squared absolute error.
+
+Mitochondrial DNA (N=203).
+Chloroplast DNA (N=227).
+To see if this same fundamental relationship might hold even for viral genetic material, I looked at codon usage in 229 varieties of bacteriophage and 536 plant and animal viruses ranging in size from 3Kb to over 200 kilobases. Interestingly enough, the relationship between A+T and message-strand purine loading does indeed apply to viruses, despite the absence of dedicated protein-making machinery in a virion.
+
+Plant and animal viruses (N=536).
+Bacteriophage (N=229).
+For the 536 plant and animal viruses (above left), the regression line has a slope of 0.23707 and meets the Y-axis at 0.62337 when X = 1.0. For bacteriophage (above right), the line's slope is 0.13733 and the vertical offset is 0.46395. (When inspecting the graphs, take note that the vertical-axis scaling is not the same for each graph. Hence the slopes are deceptive.) The Y-intercept at X = 1.0 is 0.60128. So again, it's possible A/T approaches the golden ratio as A+T approaches 100%.
+
+The fact that viral nucleic acids follow the same purine trajectories as their hosts perhaps shouldn't come as a surprise, because viral genetic material is (in general) highly adapted to host machinery. Purine loading appropriate to the A+T milieu is just another adaptation.
+
+It's striking that so many genomes, from so many diverse organisms (eubacteria, archaea, eukaryotes, viruses, bacteriophages, plus organelles), follow the same basic law of approximately
+
+A+G = 0.46 + 0.14 * (A+T)
+
+The above law is as universal a law of biology as I've ever seen. The only question is what to call the slope term. It's clearly a biological constant of considerable significance. Its physical interpretation is clear: It's the rate at which purines are accumulated in mRNA as genome A+T content increases. It says that a 1% increase in A+T content (or a 1% decrease in genome  G+C content) is worth a 0.14% increase in purine content in message strands. Maybe it should be called the purine rise rate? The purine amelioration rate?
+
+Biologists, please feel free to get in touch to discuss. I'm interested in hearing your ideas. Reach out to me on LinkedIn, or simply leave a comment below.

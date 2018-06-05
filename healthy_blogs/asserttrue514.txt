@@ -1,0 +1,24 @@
+The spiky doorknob on the door to Evil.
+Passive voice causes a lot of trouble, for readers as well as writers. But it's clearly not evil.
+
+Someone who writes "No murder weapon was found" is guilty of no grammar felony, no diction misdemeanor.
+
+If we're honest, we have to admit that in many cases, passive voice is actually the best way to say something.
+
+Why, then, does passive voice get such a bad rap? I have my own theories. (I stay up late at night thinking about this sort of thing.)
+
+Writing is linear. Words are written (and read) sequentially. As you read a sentence, word by word, you try to parse it for meaning. My theory is that when you can parse a sentence sequentially, as you read it, it's an "easy" sentence and a rewarding reading experience. Example: When you read something like "The dog barked at the man," you encounter the subject (dog) first, the action-word (barked) second, and the object of the barking (the man) third. That's what I would call natural parse order. The sentence is, in some sense, self-parsing, because the things you need to know occur in the order in which you need to know them (dog -->bark -->man).
+
+When you encounter "The man was barked at by the dog," you have man< -- bark< -- dog, which is harder to make sense of, because it's not in natural parse order. The actor in this sentence (the dog) is at the end. You have to read to the end before you can be 100% sure how to decipher the sentence. But you get an added anti-bonus: the sentence is 25% longer than the active-voice version. Your brain needs to stay online 25% longer.
+
+Funny things start to happen to your writing when you begin to not give a crap about parse order. The first thing that happens is, you start using a lot more passive voice (because you can!), which also means your sentences get longer. Also, suddenly it's possible to write sentences that lack an actor. The longer a sentence is, the more your reader's brain screams out for an actor, a doer, an identifiable subject, because that's where parsing begins. Fail to provide a subject in a long sentence and you've created a parsing nightmare. For example:
+
+It is mandatory that performance trends be continuously monitored and action plans implemented when negative trends are detected that could result in revenues being adversely impacted.
+
+This sentence is a cognitive train-wreck, not because passive voice made it so, per se, but because the writer felt free to write an actor-less sentence that obeys no particular parse order. What made it possible for the writer to write an actor-free sentence? Passive voice. What made it possible for the writer to forget about parse order? Passive voice.
+
+How can we improve the sentence? First, give it an actor. Let's use "managers." Follow up quickly with a verb (monitor) followed by an object (performance trends). Managers must monitor performance trends. Now the sentence begins to feel "self-parsing." Add the extra events: respond (to) -->trends --> (that) affect -->business. Voila! You have an easy-to-parse sentence:
+
+Managers must monitor performance trends and respond quickly to trends that might adversely affect business.
+
+Passive voice itself isn't evil. I like to think of it as the spike-studded doorknob on the door to evil. You have nothing to fear from a spike-studded doorknob per se. Just be careful how you use it.

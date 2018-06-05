@@ -1,0 +1,13 @@
+Problem: I need to be able to use the 'yield' keyword in a Greasemonkey script. This is a Javascript 1.7 language feature available in Firefox 2 and later. You must explicitly "turn on" support for this feature, however, by specifying
+
+<script type="application/javascript;version=1.7"/>
+
+in the HTML page.
+
+That's not what I need. I need to turn it on in Greasemonkey's execution context.
+
+Others have run into this problem. It appears, however, that the Greasemonkey guys won't do anything about it.
+
+I was hoping there'd be some clever back-door way to do this, but that seems unlikely. There appears, alas, to be no workaround, short of the usual (for Greasemonkey) expedient of vulturing the unsafeWindow, which is of course repulsive and unacceptable.
+
+If anyone knows of a non-ugly solution to this problem (the problem of how to use 'yield' in Greasemonkey scripts), please advise.

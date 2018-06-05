@@ -1,0 +1,17 @@
+In a talk Thursday at the O'Reilly Open Source Conference, Google distinguished engineer Rob Pike blasted C++ and Java for being overly verbose and too complex.
+
+"I think these languages are too hard to use, too subtle, too intricate," Pike averred. "They're far too verbose and their subtlety, intricacy and verbosity seem to be increasing over time. They're oversold, and used far too broadly."
+
+I tend to agree. Where else but in a language like C would you ever come up with something like:
+
+(*((*(srcPixMap))->pmTable))->ctSeed =
+(*((*((*aGDevice)->gdPMap))->pmTable))->ctSeed;
+This monstrous line of code is one I used very often in my days of graphics programming on the Mac (circa 1996). On the Mac, the all-important CopyBits() routine always examines the ctSeed field of the source and destination color tables to see if they differ. If the two seed values are not the same, QuickDraw will waste time translating color table info, which you don't want (if you're interested in performance). Hence, you use this line of code to coerce the ctSeed field of the source and destination color tables to the same value. I wrote about this and other tricks for speeding up graphics on the Mac in a 1999 MacTech article.
+
+Of course, the answer to Pike's Complaint is to use dynamic languages like JavaScript or Ruby instead of C++ or Java. But that's not always possible (as when trying to do high-performance graphics programming).
+
+Still, it's surprising how much you can do in JavaScript these days. At the USENIX annual conference last month, Google engineer Adam de Boor raised an eyebrow or two in the audience when he pointed out that Google's Gmail service (443,000 lines of code) is written entirely in JavaScript.
+
+Pike and others at Google are promoting the Go language as a solution to the compiled-language complexity problem.
+
+Go figure.

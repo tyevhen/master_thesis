@@ -1,0 +1,46 @@
+Sandra blogged about Philip Zimbardo's post, Situational Sources of Evil, about Milgram's studies from the 1960s and the 10 behavioral methods or steps which are used to get good people to do bad things. As I read this, it made me think of the failed promise of Managed Care, and the next evolutionary change in U.S. medicine, Pay For Performance (P4P).
+
+Here are my tangential thoughts about these 10 steps, as they relate to the whole managed care experience.
+
+1. Prearranging some form of contractual obligation, verbal or written, to control the individual’s behavior in pseudo-legal fashion. In Milgram’s obedience study, subjects publicly agreed to accept the tasks and the procedures.
+
+Managed Care (MC) involves establishing contracts with physicians and other health care practitioners, detailing what they can do and cannot do, in a manner which makes them look like poor sports if they do not comply (e.g., being
+labeled a nonparticipant versus being part of a network of participating providers).
+
+2. Giving participants meaningful roles to play — “teacher,” “learner” — that carry with them previously learned positive values and automatically activate response scripts.
+
+We health care practitioners strive to provide good care and most are in it to help people, not just for money; so the idea of making health care affordable makes sense. How could we be opposed to this?
+
+3. Presenting basic rules to be followed that seem to make sense before their actual use but can then be used arbitrarily and impersonally to justify mindless compliance. The authorities will change the rules as necessary but will insist that rules are rules and must be followed (as the researcher in the lab coat did in Milgram’s experiment).
+
+Initially, there were rules limiting admissions to only those which were "medically necessary". Who wants to admit someone for a medical problem when it is unnecessary? Now, "medically necessary" is not what you think it is, but what the company defines it to be. Other rules get changed, and many have come to believe that "rules are rules and must be followed". Example: Dinah's previous point that Husband thought he must go to Lab B to get test done (even Lab A told him so), rather than paying the $12.68 and getting it done at more convenient Lab A.
+
+4. Altering the semantics of the act, the actor, and the action — replacing unpleasant reality with desirable rhetoric, gilding the frame so that the real picture is disguised: from “hurting victims” to “helping the experimenter.” We can see the same semantic framing at work in advertising, where, for example, bad-tasting mouthwash is framed as good for you because it kills germs and tastes like medicine.
+
+"Managed care" rather than "managed costs".
+"Authorization" rather than "rationed care".
+"Medical necessity" rather than "only if we want to pay for it".
+"Referral" rather than "gatekeeper".
+
+5. Creating opportunities for the diffusion of responsibility or abdication of responsibility for negative outcomes, such that the one who acts won’t be held liable. In Milgram’s experiment, the authority figure, when questioned by a teacher, said he would take responsibility for anything that happened to the learner.
+
+Care is denied via a Review Committee rather than Doctor Jones. By requiring that patients or physicians jump through hoops, such as getting an authorization, waiting on hold for 15 minutes to speak to a reviewer, or filling out a 3-page treatment plan for 5 more visits, the guilt may then conveniently lie with you for not following the proper procedure, rather than the company for denying or limiting care.
+
+6. Starting the path toward the ultimate evil act with a small, seemingly insignificant first step, the easy “foot in the door” that swings open subsequent greater compliance pressures. In the obedience study, the initial shock was only a mild 15 volts.
+
+It started out as simple as "You accept less of a fee, we will send you more patients." Then it progressed to "You must accept whatever we offer, or we will send you no patients." Now it is "You must practice the way we tell you to, or we will send you less money (and imply that you are practicing substandard medicine).
+
+7. Having successively increasing steps on the pathway that are gradual, so that they are hardly noticeably different from one’s most recent prior action. “Just a little bit more.”
+Provide the diagnostic code.
+Provide the diagnosis and treatment plan.
+Provide the diagnosis, treatment plan, and copies of your progress notes.
+Provide the diagnosis, treatment plan, copies of your progress notes, and also various evidence of measures of "performance" to prove that what you are doing can be shown to have a measurable impact on visit-to-visit progress (the equivalent of focusing on quarterly shareholder profits rather the big picture of what is best in the long run).
+
+8. Gradually changing the nature of the authority figure from initially “just” and reasonable to “unjust” and demanding, even irrational. This tactic elicits initial compliance and later confusion, since we expect consistency from authorities and friends. Not acknowledging that this transformation has occurred leads to mindless obedience.
+We started out with "medical privacy", which is every patient's right. Then we passed a privacy rule, HIPAA, which makes your records "more private" by removing requirements for you to authorize their release under numerous conditions, and even requiring you to give them up to law enforcement officials, without a search warrant. And, if national security is invoked, y then it is illegal for you to tell your patient that, "Oh, the FBI came by to look at your records." We are all so confused that mindless obediance has been achieved (e.g., annual "Privacy Notices").
+
+9. Making the exit costs high and making the process of exiting difficult; allowing verbal dissent, which makes people feel better about themselves, while insisting on behavioral compliance.
+Try "opting out" of Medicare... it means you can't work for anyone who wants to bill Medicare for your service.
+
+10. Offering a “big lie” to justify the use of any means to achieve the seemingly desirable, essential goal.
+The Big Lie: We will pay you more for practicing evidence-based medicine, which results in better performance. (The Big Truth: We will pay you less for straying from our population-based, cookbook procedures. As Scott Aaronson says, "The plural of anecdote is not evidence.")

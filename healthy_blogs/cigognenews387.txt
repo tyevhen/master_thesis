@@ -1,0 +1,147 @@
+What you find below is the outline of a proposal for research. We have neither the funds nor personnel to carry it  out. We seek help from all of you. I do believe we lengthen lifespan, and I want to confirm it. I also believe that gestational trauma is behind so much later dementia and other disease. art janov
+
+
+Research Question: Can Primal Therapy reverse biological markers caused by early life stress and slow the rate of aging? Epigenetics, telomere length, and Alzheimer’s Disease
+
+Background
+
+Primal Therapy is an affect-based psychotherapy created and developed by Arthur Janov, PhD, of Los Angeles, Calif. First popularized in 1970 after the publication of The Primal Scream, Primal Therapy has undergone continuous development under Janov’s direction, both in theory and practice. Now in his 80s, Janov and his wife, France Janov, PysD, continue to practice and train therapists at the Primal Center in Santa Monica, Calif.
+
+The fundamental tenet of Primal Therapy is that the cause of most psychological disorders (and many physical disorders) is early life trauma. From the moment of conception, humans have needs, and when those needs go unmet, the result is trauma. A vast body of research conducted in recent years demonstrates that trauma begins in utero when the fetus is subjected to environmental stressors, including maternal stress hormones, malnutrition, tobacco, alcohol, drugs, chemical toxins, and a host of other stressors. The result is a biological imprint—or wound—that lasts a lifetime. Later events, such as birth complications, poor maternal attachment, parental neglect or abuse, bullying, failure in school, etc. add to the earlier trauma and reinforce the imprint. Janov has made the hypothesis that a neural resonance exists within the brain that “links” earlier and later trauma. For example, when an adult is rejected by a love interest or frustrated at not being able to find a job, the feelings of rejection or futility may trigger implicit memories of neglect in childhood or maternal separation in infancy. This in turn may resonate with implicit, physical memories of a life-and-death struggle at birth or toxic stress in utero. Although controversial, the idea that fetal memories and learning can influence later life is supported with recent research (Wintour, et al., 2006; Entringera, et al.,2004).  The end result may be an overwhelming feeling of despair leading to suicidal depression. In other words, a psychobiological response is evoked that involves the entire body and mind. Janov calls this the Primal Imprint. This imprint endures and affects nearly all systems during our evolution. It is the key motivational entity.
+
+Rationale for the Study
+
+It is established that early life stress leaves a permanent imprint on the physiology, predisposing the individual to a wide range of diseases, including coronary heart disease, hypertension, metabolic syndrome, diabetes, obesity, autism, depression, anxiety, schizophrenia, learning disabilities, accelerated aging, cancer, etc. This is known as the Early Life Origins of Health and Disease paradigm (Wintour, et al., 2006). One of the main mechanisms by which this imprint is encoded is through epigenetic changes. Meaney and colleagues have shown that parental neglect leads to changes in genetic expression via DNA methylation and histone acetylation. (Meaney, 2001; Weaver, et al., 2004; Weaver, et al., 2006; Weaver, 2007; Diorio and Meaney, 2007; McGowan, et al., 2008) In another study by the same group, suicide victims who had been abused in childhood showed methylation of the glucocorticoid receptor (GR) gene promoter in their hippocampal tissues, indicating lower GR expression. GR is a key component of the hypothalamic-pituitary-adrenal (HPA) axis and necessary for downregulating the stress response (McGowan, et al., 2009).
+
+Long-term clinical observation has shown that many patients undergoing Primal Therapy become both physically and psychologically healthier, suggesting that the therapy ameliorates the biological imprints caused by early life trauma. Over the decades, Janov and his therapists have routinely monitored clinical signs such as blood pressure, heart rate, body temperature, serum cortisol levels, EEG patterns and others. As the therapy proceeds, these parameters tend to settle toward healthier set-points signifying lower levels of chronic stress. Emotional regulation, resilience, and stress tolerance also increases for many patients, suggesting that Primal Therapy effects a fundamental change in the underlying neurohormonal mechanisms regulating the stress response. In other words, Primal Therapy appears to normalize the physiology of many patients.
+
+For some time now we have been preparing to do a research project about telomeres, which cap the chromosomes and keep the DNA of the cell stable. Telomere length is known to be associated with aging: when the telomeres are longer, we live longer, and when they are shorter we know life gets shorter. It turns out that telomeres do get shorter with stress (Epel, et al., 2004) and shortened telomeres are associated with depression and high levels of the stress hormone cortisol (Wikgren, et al., 2012). Our thought was that since cortisol levels come down in our patients, it should be reflected in longer telomeres. Further at Brown University (Carpenter, et al., 2009), they studied those adults who had been abused as children. Their telomeres shortened more rapidly. One of that study’s authors, Audrey Tyrka, stated “It gives us a hint that early developmental experiences may have profound effects on biology that can influence cellular mechanisms at a very basic level.” More recently, researchers have found telomere shortening with deprivation in early childhood (Drury, et al., 2011) and, importantly, that intrauterine stress led to shortened telomeres in young adults (Entringer, et al., 2011); the authors of that study state: “To the best of our knowledge, this study provides the first evidence in humans of an association between prenatal stress exposure and subsequent shorter telomere length. This observation may help shed light on an important biological pathway underlying the developmental origins of adult health and
+disease risk.” Again, the kind of abuse we know about and write about is even more profound, more remote in time and deeper in the brain than the obvious kind of abuse that is ascribed in the literature.
+
+The purpose of the first leg of our research project is to examine whether or not Primal Therapy has an effect on: (1) the rate of telomere shortening, an indicator of aging; (2) DNA methylation and histone acetylation caused by early life stress; and, (3) whether Alzheimer’s Disease is related to fetal or early life stress in infancy. Epigenetic factors (environmental effects that result in functional modifications in the genome without changing the underlying DNA sequence) are crucial, since we may have a way of measuring how the imprint is laid down and how the imprint changes with reliving of imprints in Primal Therapy.
+
+
+Study #1: Measurement of Telomere Length in Patients Undergoing Primal Therapy
+
+Purpose: To correlate the rate of telomere shortening (a correlate of aging) with progress in primal therapy. The hypothesis is that Primal Therapy will correlate with reduced rate of telomere shortening, indicating a reduction in the rate of aging.
+
+Patients: All incoming patients at the Janov Primal Center will be eligible for the study.
+
+Inclusion criteria:
+·               Age range: ??
+·               Clinical assessment: any diagnostic criteria?
+·               Access to primal feelings (therapist assessment)
+·               Subgroup: Access to first-line feelings (therapist assessment)
+·               Others?
+
+Exclusion criteria:
+·               Unable or unwilling to commit to at least one year of therapy (may need longer period of time)
+·               Unable or unwilling to commit to regular follow-up (e.g. interviews, taking tissue samples, etc.)
+·               Others? (e.g. psychosis, substance abuse, smoking, HIV-positive, etc.)
+
+Study Design: A prospective, non-randomized, non-controlled, case series study of one year duration or longer (whatever is needed to observe significant changes).
+
+Methods: Baseline assessments will be made on the following:
+·               General physical health, medical history
+·               Psychological diagnosis: levels of the imprint; what level the patient presents at the start of therapy
+·               Psychological scores: life quality, anxiety levels, depression, etc. Many scales for this. We should do this to make it more objective.
+·               Vital sign measures: blood pressure, heart rate, serum cortisol, deep body temperature, other?
+
+Blood samples
+At regular intervals over one year blood samples will be drawn and stored. These samples will be used to analyze leukocyte telomere length (telomeres can be measured in several ways: see Aubert, et al, 2012).
+
+Physical and psychological measures of stress
+All baseline measurements will be repeated at the same intervals (physical health, psychological assessment, vital signs, cortisol, etc.)
+
+Statistical analysis: To be determined. Factor analysis will examine interaction between telomere length and other outcomes.
+
+Outcomes:
+·               Leukocyte telomere length
+·               General health
+·               Vital signs
+·               Serum cortisol
+·               Psychological outcomes: anxiety, depression, etc. (Patient and therapist assessment using recognized scales.)
+·               Success at Primal Therapy (therapist assessment)
+·               This is important for we hope to show that Primal therapy can help lengthen life and make it healthier; not a negligible effect.  In other words, if we normalize function, if we normalize the rerouting of the neurobiology due to primal pain and right the dislocation of function the normal system would have a chance of a longer life.  
+    
+
+Study #2: Measurement of Epigenetic Changes in Patients Undergoing Primal Therapy
+
+Purpose: To examine the effect of Primal Therapy on epigenetic imprints.
+
+Study design: Design will be similar to study #1, however, DNA methylation and histone acetylation in certain tissues will be examined.  The implications are the same as the above.
+
+
+Study #3: Correlating Alzheimer’s Disease with Early Life Trauma
+
+Purpose: To correlate the incidence of Alzheimer’s Disease (AD) with scores on an Early Life Stress survey. The purpose of this study is to determine whether or not there is a link between early life stress and later Alzheimer’s, according to the LEARn (Latent Early-life Associated Regulation) model of AD (Lahiri & Malony, 2010).  The hypothesis is that gestational stress (as well as infancy trauma) may be a prime factor in the development of later Alzheimer’s. 
+
+Design: Survey
+
+Methods: The ELS survey will be given to all patients or caregivers of patients diagnosed with AD.
+
+Statistical Analysis: To be determined.
+
+Survey:  
+
+1.     Can you describe your birth? Was your mother given any drugs or anesthesia? Was your birth natural, breech or cesarean? Did you have a pre-term or late birth? Home or hospital birth? Were there any complications associated with your birth? Were you breastfed or bottle-fed? If breastfed, how long? Did your mother have adequate milk?
+
+2.     Can you describe your gestation period? Was your mother and the household calm and not under stress? Was there marital discord of any kind? Was the father in the home through your being carried? Was there any talk of separation or divorce? Was there a recognized marriage before your birth?
+
+3.     Was the external environment benevolent? Were there environmental stressors, such as poverty, war, strikes, or natural disasters?
+
+4.     Were one or both parents under stress? For what reasons?
+
+5.     Did your mother regularly take medication, tranquilizers or pain killers?
+
+6.     What did your mother eat during your gestation. By today’s standards, was her diet considered healthy or not?
+
+7.     Would you describe the family as loving or unloving?
+
+8.     Was your mother chronically anxious or depressed? For how long?  Was she exceptionally tense?
+
+9.     Was your conception planned or accidental? Were you born long after your next oldest sibling?
+
+10.  Were you held immediately after birth? Were you sickly as a newborn? Describe.
+
+These are the factors to be scored to determine how much trauma there was and the valence of the trauma.
+
+All the above is preliminary, possible hypotheses to be fleshed out over time. It points to what we want to try to accomplish both in our therapy and our research on that therapy. We already have many studies (see Primal Healing for discussion), but now we want to refine our investigations.
+
+
+
+
+
+References
+
+Aubert, G., Hills, M., Lansdorp, P.M. (2012) Telomere length measurement-Caveats and a critical assessment of the available technologies and tools. Mutat Res. 730(1-2):59-67.
+
+Carpenter, L.L., Tyrka, A.R., Ross, N.A., Khoury, L., Anderson, G.M., Price, L.H. (2009) Effect of childhood emotional abuse and age on cortisol responsivity in adulthood. Biological Psychiatry, 66(1), 69-75.
+
+Diorio, J. and Meaney, M.J. Maternal programming of defensive responses through sustained effects on gene expression. (2007) J Psychiatry Neurosci. 32(4):275–284.
+
+Drury, S.S., Theall, K.P., Gleason, M.M., Smyke, A.T., Devivo, I., Wong, J.Y.Y., Fox, N.A., Zeanah, C.H. and Nelson, C.A. (2011, epub). Telomere length and early severe social deprivation: Linking early adversity and cellular aging. Molecular Psychiatry, 1-9.
+
+Entringer, S., Epel, E.S., Kumsta, R., Lin, J., Hellhammer, D.H., Blackburn, E.H., Wüst, S., and Wadhwa, P.D., et al. (2011) Stress exposure in intrauterine life is associated with shorter telomere length in young adulthood. Proc Natl Acad Sci USA, 108:33, E513-E518.
+
+Epel, E.S., Blackburn, E.H., Lin, J., Dhabhar, F.S., Adler, N.E., Morrow, J.D.
+and Cawthon, R.M. (2004) Accelerated telomere shortening in response
+to life stress. Proc Natl Acad Sci USA, 101(49):17312–17315.
+
+Lahiri, D.K. and Maloney, B. (2010) The “LEARn” (Latent Early–life Associated Regulation) model integrates environmental risk factors and the developmental basis of Alzheimer’s disease, and proposes remedial steps. Exp. Gerontology 45(4):291-6.
+
+McGowan, P., Sasaki, A., Huang, T.C.T., Unterberger, A., Suderman, M., Ernst, C., Meaney, M.J., Turecki, G. and Szyf, M. (2008) Promoter-Wide Hypermethylation of the Ribosomal RNA Gene Promoter in the Suicide Brain. PLoS ONE. 3(5):e2085.
+
+McGowan, P., Sasaki, A., D'Alessio, A.C., Dymov, S., Labonté, B., Szyf, M., Turecki, G. and Meaney, M.J. (2009) Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse. Nature Neuroscience, 12:342-348.
+
+Meaney, M.J. (2001) Maternal care, gene expression, and the transmission of individual differences in stress reactivity across generations. Annual Review of Neuroscience, 24:1161-1192.
+
+Weaver, I.C.G., Cervoni, N., Champagne, F.A., D’Alessio, A.C., Sharma, S., Seckl, J.R., Dymov, S., Szyf, M. and Meaney, M.J. (2004) Epigenetic programming by maternal behavior. Nature Neuroscience 7:847−854.
+
+Weaver, I.C.G., Meaney, M.J. and Szyf, M. (2006) Maternal care effects on the hippocampal transcriptome and anxiety-mediated behaviors in the offspring that are reversible in adulthood. Proc Natl Acad Sci USA, 103(9):3480–3485.
+
+Weaver, I.C.G., (2007) Review: Epigenetic Programming by Maternal Behavior and Pharmacological Intervention. Epigenetics,2:1, 22-28.
+
+Wikgren, M., Maripuu, M., Karlsson, T., Nordfjäll, K., Bergdahl, J., Hultdin, J., Del-Favero, J., Roos, G., Nilsson, L., Adolfsson, R., Norrback, K. (2012) Short Telomeres in Depression and the General Population Are Associated with a Hypocortisolemic State.Biological Psychiatry, 71:4, 294-300.
+
+Wintour, E. and Owens, J.A. (Eds) (2006) Early Life Origins of Health and Disease (Advances in Experimental Medicine and Biology, Vol 573). Springer.

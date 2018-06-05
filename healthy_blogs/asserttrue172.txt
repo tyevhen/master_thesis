@@ -1,0 +1,25 @@
+Last month, I wrote about why I think Google will have to lay off as many as 10,000 employees in the coming year. (The bottom line being: expenses are rising out of control, while Google's core business faces an uncertain future.) Yahoo is in an even more precarious position. Before the year is out, Marissa Mayer will have no choice but to implement a serious "reduction in force" (to use HR parlance). Either that, or the company will need to merge with AOL—and then suffer the headcount reduction.
+
+Before Marissa Mayer came in as CEO of Yahoo, the company’s annual EBITDA (earnings before interest, taxes, etc.) was $1.5 billion, as of 2011.  For this year, Bloomberg estimates Yahoo will produce $1.1 billion in EBITDA, a roughly 30% drop in profitability since Mayer took over. In the same time frame, Yahoo’s revenues have dropped 12%, from $5 billion to an expected $4.4 billion.  This, as Facebook tripled its revenues and Google increased its top line 60%.
+
+Marissa Mayer (source: AP)
+Eric Jackson, writing at Forbes.com, found that after you strip away the various patent licensing deals and other special forms of income that have expiration dates on them, you find that Yahoo's core business is generating only $190 million in EBITDA, not $1.1 billion. So in other words, Yahoo may be able to offer a rosy picture to the world for another quarter or two, but eventually the emperor's robes come off. And it's pretty clear that none of Marissa Mayer's acquisitions, nor the Katie Couric deal (which isn't moving the needle for Yahoo News traffic), nor any of Mayer's other failed initiatives, are suddenly going to rescue the company's profitability to the tune of a billion dollars by year's end.
+
+Jackson sees no alternative but a huge layoff. Given that Yahoo (with one third the revenue of Facebook) employs more people than Facebook, it's hard to disagree with Jackson's analysis. He notes:
+Of course, I have long argued that Yahoo’s core business is obscenely over-staffed.  Not just a little, but a lot.  I agree with Marc Andreessen's advice to Marissa Mayer back in 2012 that she should immediately let go of 10,000 people.  Although Yahoo reports in their 10-K that they have 12,500 “full time and fixed term contractors,” they never state how many “variable term contractors” they employ.  Yahoo has played this game long before Mayer showed up as CEO, but she has carried on the tradition with a vengeance.
+Yahoo's core problem, of course, is that it doesn't have a core business. It's a crazy-quilt of search, news, apps, e-mail, and social nonsense, without a mission statement. It's the new AOL (which is why the two companies should merge). Maybe AOL, which has grown its top line 3 out of the last 4 quarters without resorting to bizarre one-off patent deals, can teach Yahoo a thing or two about running a business.
+
+Just for fun, I ran a Google Trends search on Yahoo, Twitter, and Instagram. The trend lines show Yahoo and Twitter peaking in 2009 and 2013, while Instagram (owned by Facebook) is uptrending nicely.
+
+Amazingly, and perhaps tellingly, 24 out of 37 analysts have a Buy or Strong Buy rating for Yahoo stock right now. That alone is disconcerting. (When that many analysts line up behind what's obviously a shaky stock, it makes me want to run for the exits.) Analyst price targets range from $50 to $69 (N=31 analysts).
+
+Personally, I look for YHOO to go to $38 and I'd be a strong seller of it right here, right now, based on the information in Jackson's excellent Forbes.com piece and Mayer's track record of abject incompetence.
+
+☙ ❧
+
+I've made some improvements to my Twitter timeline-scraping code and can now thank even more people for retweeting me. The following list (of people who retweeted me yesterday) might still not be 100% complete, but it's more complete than it would have been with my old code. (You should follow the folks shown below. They retweet! Click their pictures; the pics are live links.)
+
+ 
+If you enjoyed this post, won't you pass the link along on social media? Thanks! Meanwhile, have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression. 

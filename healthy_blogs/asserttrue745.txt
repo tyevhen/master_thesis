@@ -1,0 +1,53 @@
+Think you know JavaScript? Try the following quick quiz. Guess what each expression evaluates to. (Answers given at the end.)
+
+1. ++Math.PI
+2. (0.1 + 0.2) + 0.3 == 0.1 + (0.2 + 0.3)
+3. typeof NaN
+4. typeof typeof undefined
+5. a = {null:null}; typeof a.null;
+6. a = "5"; b = "2"; c = a * b;
+7. a = "5"; b = 2; c = a+++b;
+8. isNaN(1/null)
+9. (16).toString(16)
+10. 016 * 2
+11. ~null
+12. "ab c".match(/\b\w\b/)
+
+This isn't a tutorial, so I'm not going to explain each answer individually. If you missed any, I suggest while (!enlightenment()) meditate();
+
+The answers:
+
+1. 4.141592653589793
+2. false
+3. "number"
+4. "string"
+5. "object"
+6. 10
+7. 7
+8. false
+9. 10
+10. 28
+11. -1
+12. [ "c" ]
+
+For people who work with JavaScript more than occasionally, I would score as follows:
+
+(correct answers: score)
+5 - 7: KNOWLEDGEABLE
+8 - 10: EXPERT
+11: SAVANT
+12: MASTER OF THE UNIVERSE
+
+A few quick comments.
+
+The answer to No. 2 is the same for JavaScript as for Java (or any other language that uses IEEE 754 floating point numbers), and it's one reason why you shouldn't use floating point arithmetic in any serious application involving monetary values. Floating-point addition is not associative. Neither is float multiplication. There's an interesting overview here.
+
+No. 6: In an arithmetic expression involving multiplication, division, and/or subtraction, if the expression contains one or more strings, the interpreter will try to cast the strings to numbers first. If the arithmetic expression involves addition, however, all terms will be cast to strings.
+
+No. 7: The evaluation order in JavaScript (as in Java and C) is left-to-right, so what you've got here is "a, post-incremented, plus b," not "a plus pre-incremented b."
+
+No. 9: toString( ) takes a numeric argument (optionally, of course). An argument of "16" means base-16, hence the returned string is a hex representation of 16, which is "10." If you write .toString(2), you get a binary representation of the number, etc.
+
+No. 10: 016 is octal notation for 14 decimal. Interestingly, though, the interpreter will treat "016" (in string form) as base-ten if you multiply it by one.
+
+Don't feel bad if you didn't do well on this quiz, because almost every question was a trick question (obviously), and let's face it, trick questions suck. By the same token, if you did well on a test that sucks, don't pat yourself on the back too hard. It just means you're a little bit geekier than any human being probably should be.

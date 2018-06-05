@@ -1,0 +1,61 @@
+Ask The Masked AMHP for the answers to your thorny MHA related problems. He might know the answer. Or not.
+
+The Masked AMHP's postbag continues to be inundated with enquiries concerning Sec.117 aftercare. Difficulties often arise in connection with what Sec.117 aftercare does and does not cover, and the relationship between Sec.117 aftercare and the provisions for Continuing Healthcare.
+
+An AMHP asks:
+
+I am working with someone who is subject to Sec.117 and has a 14 hour care package we pay for. She has a number of physical health problems which are getting worse and is currently on a medical ward.
+
+Her discharge is delayed because she requires a significant increase in her care package and we are arguing about who pays. If she doesn't meet the criteria for Continuing Healthcare surely it shouldn't be mental health? Argument is it should be as she's Sec.117.
+
+The Masked AMHP replies:
+
+Sec.117 is very clearly only designed to meet aftercare needs arising from the patient's mental disorder. It is not unusual for people to have both a mental disorder and physical health problems – an example was a man with schizophrenia and Friedrich's Ataxia. He was placed in a Care home for physical disability and the cost of that was met by physical disability services, and he was expected to contribute towards this cost.
+
+A relative writes to the Masked AMHP with a problem about the local authority’s calculation of care needs under Sec.117:
+
+My father for many years had undiagnosed longstanding complex mental health issues including personality disorder & hypochondria.  Last year (following a lifetime of being fairly impossible for the family to get along with) he was eventually diagnosed with vascular dementia.  Turning very nasty in the excellent nursing home he had agreed to go into, they applied for Continuing Healthcare funding and he was sent to a psychiatric ward for full assessment under Sec 2.  When the 4 weeks came to an end, they tried to detain him further on a DOLs but his behaviour was such that he had to be detained under Sec 3. 
+
+The nursing home had applied for 1:1 CHC funding to deal with his attention-seeking behaviour and to re integrate him successfully; there were several weeks of arguments about this so his stay was extended. It was eventually agreed to discharge him with temporary 1:1 funding.  Asked about where we would like him to go the family expressed strong preference to return him to the original nursing home though there were suggestions of placements very much further afield which would have been impossible for family & friends to visit.  He has now been in the home for some 2 months and is mostly calm.
+
+However, the cost of the home is over £1000 per week without the nursing element which is paid by the NHS.  Though my father is not badly off, and our main concern is to ensure he is in the right place, our mother remains in the marital home which needs to be maintained and she has needed some temporary care which may of course be needed again and more frequently.
+
+We have been told verbally that the s117 aftercare payable for dad will be around £460 per month – it has not yet been released.  Of course the Attendance Allowance was removed during his hospital stay and I assume will not be reinstated. We have wondered how the amount of s117 funding is arrived at, as no-one has been able to tell us.  I do not believe that there is anywhere which could offer care at that amount in the area and the staff at the present home have been very supportive to us all so a move would not really be acceptable.
+
+The Masked AMHP replies: 
+
+The Care Act has changed some aspects of Sec.117 aftercare. This includes allowing people to top up their care if they want to stay in a more expensive care home than the LA calculates is needed.
+
+As your father has been detained under Sec.3, he will be entitled to free aftercare for anything connected with mental disorder, whether dementia or psychosis.
+
+His needs for aftercare should not be assessed on the basis of how much the LA can afford, but what his care needs are. They might say that his needs can be met in Care home A costing £500 per week, but if you wanted him to go in Care Home B costing £700 per week, then the LA should pay the £500 and the patient can then top up. This is one of the changes in the Care Act. They cannot state an arbitrary amount, which would not purchase the care that has been identified as needed. As a relative, you should be involved in these assessments.
+
+If an assessment concludes that only the care home you have chosen can provide adequate aftercare, then the LA should pay (taking into account any CHC assessment).
+
+Once your father is out of hospital, he should be entitled to Attendance Allowance again.
+
+A worker in a voluntary organisation asks:
+
+A recent determination from our local Community Care Group states that '...an individual who is funded under Sec.117 will only become eligible for NHS Continuing Healthcare funding (following a Continuing Healthcare assessment ) when they are discharged from Sec.117 or if they develop complex physical healthcare needs.'
+
+The determination goes on to say that whilst mental health needs -- evidenced by challenging behaviour -- make the person concerned eligible for funding under Sec.117, the person's nursing needs due to physical health are not of a 'nature, complexity’, etc. to warrant NHS funding.
+
+What I've been unable to clarify in several emails to the Continuing Care team at said CCG is whether the person's scoring in those domains related directly to mental health conditions was too low or whether, in fact, they weren't even considered because of a prior eligibility for Sec.117 funding. I'm a little confused by the distinction that seems evident in the determination, between 'physical health needs' and 'mental health needs' used in determining eligibility for Continuing Care.
+
+The Masked AMHP replies:
+
+Eligibility for Sec.117 aftercare is quite distinct from whether or not someone is eligible for continuing healthcare. CCG's have responsibilities for both Sec.117 aftercare and continuing healthcare. Under the MHA, both local authorities and CCG's have a duty to provide aftercare under Sec.117. How that aftercare is determined and paid for is a matter between the CCG and the LA (the Health side will generally be delegated to the local Mental Health Trust).
+
+The Department of Health document, NHS Continuous Healthcare: Frequently Asked Questions, published in 2011 states:
+
+“Arrangements under the Mental Health Act are separate and different from NHS Continuing Healthcare and the two should not be confused. .. It is preferable for a PCT to have separate budgets for funding Sec.117 and NHS continuing healthcare. Where they are funded from the same budget they still continue to be distinct and separate legal provisions.”
+
+It also goes on to say: "It is preferable for a PCT to have separate budgets for funding Sec.117 and NHS continuing healthcare. Where they are funded from the same budget they still continue to be distinct and separate legal provisions."
+
+Although that seems clear enough, things have changed since 2011. Primary Care Trusts were abolished on 31 March 2013 as part of the Health and Social Care Act 2012, which created GP led Community Care Groups to replace them. These CCGs were often dismayed to discover the expensive continuing healthcare duties that were transferred to them, and many tried to limit expenditure by unfairly and arbitrarily imposing conditions on eligibility. It does not necessarily mean that the CCG's don't have a requirement to meet these needs, whatever they may say.
+
+However, the more recent document, NHS ContinuingHealthcare: Guide for Health and Social Care practitioners, published by NHS England in 2014 states:
+
+“An individual subject to section 117 should only be considered for NHS CHC where they have significant healthcare needs which are not related to their mental health aftercare needs.”
+
+It is true that Sec.117 aftercare is only designed to meet the specific mental health needs of a patient. If they also have physical health or disability needs, these will not be covered by Sec.117. The social care needs of a physical disability would be met by the LA, but the nursing needs, eg in a nursing home, would be met by Health, ie the CCG. Social care needs for a physical disability would be chargeable to the patient, whereas any specific mental health aftercare needs would not be.

@@ -1,0 +1,17 @@
+I don't often write about investing tips, but this morning's market action was such a classic example of a money-making situation, I feel obliged to share what I (think I) know.
+
+Many investors know about the principle of "trading the gap." The scenario: A stock (or the entire market) gaps lower on the open, which of course simply means the opening price was lower than the previous session's closing price. Instead of continuing to go down (which sometimes happens), the stock immediately begins to trend higher.
+
+When a stock gaps lower on the open (red arrow), it often fills the gap in the next hour.
+
+This morning, the market indices were sharply lower on the open, but immediately began heading higher. This is a classic gap-trading opportunity, particularly if you pick stocks whose behavior you know well, and that have recently been trending higher, with no fundamental reason to go lower. Today's examples: AAPL, AMZN, YHOO. All gapped low on the open, then went higher.
+
+The gap-trading philosophy says: When a stock gaps low on the open, then moves up, it will keep moving up until the gap is "filled" or "covered" (reaching the level indicated by the dotted horizontal line in the above graphic). No one knows why gap-filling occurs, but the fact is, it occurs often enough that you should consider "trading the gap."
+
+I bought AAPL and AMZN call options about 30 miutes after the market opened. They went up smartly. Now because I don't have $25K in my account, I can't sell those contracts in the same session without triggering a day-trader warning. What do you do if your call-option contracts go up and you want to get out (but can't, without triggering a warning)? Buy corresponding puts. You'll lock in the profit until you can get out (and maybe make a little on the put, if the stock opens lower the next day).
+
+I made a little money on AMZN call options on Friday. To lock in the profit, I bought corresponding puts. When the market gapped low (WAY low) this morning, I was delighted. My puts had gone in-the-money. I liquidated them and rode the calls back up again.
+
+For the record: I consider AAPL a good buy in the $97-98 range and I think Amazon will be at $340 sometime within the next two months. Yahoo is severely undervalued at $40.
+
+I am not an investment advisor and this is not professional advice. Seek the advice of a professional before making any investment decisions.

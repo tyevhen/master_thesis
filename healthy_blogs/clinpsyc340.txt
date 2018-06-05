@@ -1,0 +1,36 @@
+Much has been made of the Texas Medication Algorithm Project. I have written about it earlier (1, 2), as have others (3). A lawsuit has been filed alleging that TMAP was a sneaky way to convince state mental health programs to switch their patients to newer, much more expensive medications. TMAP defenders, on the other hand, say that TMAP was simply allowing patients access to the state of the art, most effective medications.
+What is TMAP? Essentially, TMAP is a program that used “expert consensus” to develop treatment guidelines for patients (depression, bipolar, and schizophrenia) in the public mental health system. On one hand, I can see why care should be improved – not many people seriously argue that patient care is very good in most public mental health systems.
+According to the TMAP model, medication treatment is provided in stages according to these guidelines. If you are not responding to treatment #1, then you move to treatment #2, and if that does not work, then to treatment #3, and so on. Naturally, the “objective experts” who developed said guidelines stuck the newer, more expensive medications on the top of the list for treatments, especially as the guidelines have been revised during the past couple of years.
+TMAP was unfurled in the mid 1990’s and similar programs have since been sweeping across many states.
+Was this a way to backdoor newer medications onto patients? Well, I think that is probably the case, but the issue I am going to address here is one that I think is even more important…
+Does TMAP Work? Do TMAP patients show more improvement than patients who were not on the TMAP treatment regimen? The TMAP team has produced some evidence in which they claim that TMAP treatment works better than “treatment as usual,” which was standard state mental health care. In this case, we’ll discuss TMAP for bipolar patients.
+The Study: Some patients received TMAP, which included both a standardized medication algorithm as follows:
+Manic:
+Stage 1 – Depakote or Lithium or Tegretol
+Stage 2 – Depakote + Lithium OR Tegretol + Lithium
+Stage 3 – Depakote + Lithium OR Tegretol + Lithium
+Stage 4 – Depakote + Tegretol
+Stage 5 – Add atypical antipsychotic to mood stabilizer
+Stage 6 – ECT
+Stage 7 – Other (e.g., Lamictal, Neurontin)
+
+Depressed:
+Stage 1 – Wellbutrin or SSRI + mood stabilizer
+Stage 2 – Wellbutrin or SSRI or Effexor or Serzone + mood stabilizer
+Stage 3 – Mood Stabilizer + two antidpressants
+Stage 4 – Mood Stabilizer and MAOI antidepressant
+Stage 5 – ECT
+Stage 6 – Other (e.g., Lamictal)
+Note that in the 2005 revision of this standard, atypical antipsychotics are featured much more prominently. But when the study on bipolar patients was conducted, this was not the case.
+Those who received “treatment as usual” (TAU) received whatever care they would normally receive.
+The Results: On some measures, TMAP patients did modestly better than TAU patients. This could be interpreted as evidence that these strict treatment algorithms that involve a high frequency of prescribing Depakote and Tegretol, and to a lesser extent, newer antipsychotics, are a good idea for patients. However, one would be fooling oneself to buy this conclusion. Why?
+The (Huge) Caveat: The TMAP patients all received: Group education, consumer to consumer discussion groups, individual patient education from the physician, referrals to therapy groups and more. These interventions were rolled out exclusively for the TMAP group. Why does this matter? Well, patients in the TMAP group were likely getting more time with their physician, which is likely going to boost their relationship with the physician, which will likely lead to better outcomes regardless of the medication taken. In addition, the patient education groups provide additional support for patients, which has been shown to improve outcomes.
+Even the study authors, to their credit, admit this is a gigantic potential issue:
+At this time, the relative contributions of different elements [i.e., medication versus the extra patient care] of the “disease management package” to the obtained results has not been evaluated.
+A Better Idea for TMAP: If you wanted a study that would have compared the effects of a) extra patient education and support, b) use of medication algorithms that favored use of newer medications and c) “treatment as usual” – regular care in the state mental health system, then why not have a study that looks like this:
+A) Treatment as usual (No extra patient support)
+B) Extra Patient Support + TMAP Algorithms
+C) TMAP Algorithms (No extra patient support)
+D) Extra Patient Support + Treatment as usual
+If C’s outcomes are better than A’s outcomes, then you can shout about the evidence base of your algorithms. If B is greater than D, then you can also do your evidence-based practice speech. However, the TMAP bipolar study as was actually conducted was A versus B, – that is a pretty lame comparison. Was it the patient support (which is my guess) or was it the algorithms?
+Why Was TMAP Investigated This Way? This is where it gets interesting but murky. Could such a study have been designed because it was biased to find favorable results for the TMAP intervention (due to TMAP patients receiving extra support not received by treatment as usual)? Then, finding positive results, it becomes a lot easier to sell the program to other states because TMAP is now “evidence based”. Maybe I’m off in Conspiracyville, but one has to admit this is pretty weird stuff.

@@ -1,0 +1,52 @@
+I saw Erik van Kuijk MD, PhD present a lecture on macular degeneration at the Minnesota Academy of Medicine a couple of weeks ago.  He is an international expert in the subject and thoroughly reviewed the epidemiology,  basic science and current treatment of the disorder.  He described the risk factors including age (>60 years), smoking (doubles the risk), dietary factors (antioxidants) and sun exposure.  He  suggested the best barrier methods for sun exposure included baseball caps and wrap-around sunglasses.  At that point during the lecture, I had a brief episode of free association about that remark and thought about the sunglasses issue.   Within a few minutes I thought about sunglasses and their multiple roles in society.
+
+To some sunglasses are a projective test.  I recall a college professor who seemed eager to tell anyone who would listen that men who had beards and sunglasses "had something to hide."  I had both, but could have told him that (being an introvert) of course I had something to hide, but it really had nothing to do with the beard and sunglasses.  Sunglasses can have special meaning with some psychiatric disorders that tend to magnify ordinary thoughts like - "These sunglasses make me look like an alien.  I might want to look like an alien."  You don't have to have a psychiatric disorder to have that thought.  Eye contact and facial expression depends a lot on the eyes and there are some people who realize this and do not want to expose that channel of communication.  On inpatient psychiatric units sunglasses are usually forbidden and rationales vary from place to place.  There are typically other patients and staff who are intimidated by people wearing sunglasses.  I was in a meeting at one point where one of the participants asked a late arrival about sunglasses because they were "freaking her out".  There are a couple of books out there that look at the social meaning of sunglasses both in terms of social behavior and fashion.  The scope of these books is discussed in the popular press largely in terms of why people with sunglasses may be more attractive.  The medical literature has surprisingly little to say about these factors. Indirectly there has been some work on facial symmetry as an attractive feature, and speculation that in some cases sunglasses give the appearance of greater facial symmetry.
+
+As a cyclist, sunglasses have a prominent place in cycling literature.  Coaches typically advise eye protection for a number of reasons, but the best articulated one is to reduce fatigue.  If you are training and cycling tens to hundreds of miles per day, in most places you are going to be cycling into the sun at some point.  Without sunglasses there is a reflexive squint that eventually spreads to facial, neck, shoulder, back and chest muscles.  It would not surprise me that this also results in increased grip tension on the handlebars and that can increase blood pressure.  All of that muscle contraction leads to increased fatigue and decreased efficiency.  These factors probably explain why so many professional cyclists have shades and that they are some of the best designed wraparounds on the market.  Epidemiological studies also show that total sun exposure is a risk factor for macular degeneration and skin cancer.  That places certain occupations and recreational pastimes at higher risk.  A sampling of beach goers in Spain showed that there was no correlation between the subjects who sustained sunburns and whether they used adequate skin or eye protection.
+
+Eye protection to prevent cataracts and macular degeneration is the most important application of sunglasses.  Ultraviolet light is to toxic factor and a recent review shows correlations with a significant number of eye diseases including eyelid malignancies, cataracts, photokeratitis, pterygium, and more limited data for other eye diseases (7).  As the eye ages, natural changes make it more susceptible to damage from UV light.  The literature from the National Eye Institute emphasizes that avoiding smoking, exercising regularly, blood pressure control, maintaining a low cholesterol, and eating a diet high in antioxidants and fish are the best preventive measures.  Sunglasses are not listed, but they were factored into the lecture I attended and many research articles. The dietary recommendations are based on trials of nutritional supplements used in the Age Related Eye Disease Study (AREDS-1 and AREDS-2).  In these studies, patients were recruited with early macular degeneration and were followed for progressive visual loss.  The formulation decreased the rate of progression of the eye disease.  The formulation in AREDS-2 consisted of lutein, xeaxanthin, Vitamin C, Vitamin E, zinc, and copper.  
+
+The photobiology of light hitting the retina and macula is important in the development of macular degeneration.  The UV spectrum is typically broken up into UVA (320-400 nm), UVB (280-320 nm), and UVC (< 280 nm).  Only the first two are important since UVC is blocked by the ozone layer.  UVA has the deepest skin penetration and has been shown to generate reactive oxygen species (ROS) like singlet oxygen and hydrogen peroxide.(8)  Peroxiredoxins may be a significant defense against free radicals cause by UV light hitting eye structures.  Peroxiredoxin-3 (Prdx-3) is in the retina and lens of the eye.  In the  retina it is highly expressed in areas where there is high mitochondrial density.  The chemistry of lutein and xeaxanthin and their proposed role in preventing damage is interesting.  Both are 40 carbon conjugated compounds.  They absorb light at the 400 -500 nm range just outside of UV.  One of the ways that UV causes damage is by creating reactive oxygen species (ROS) when it hits susceptible structures in tissue.  The eye becomes more susceptible to UV damage as the chemical composition of chromophores in the eye change with aging.  As UV light hits phototoxic chromophores in the eye producing free radicals and singlet oxygen.  That in turn leads to photooxidation and damage to the eye.  Lutein and zeaxanthin act by quenching these ROS (11).  
+
+Lutein
+Zeaxanthin
+
+What are the implications for psychiatrists in all of this?  The first is smoking cessation.  Smoking is a public health problem on its own and nicotine exposure is probably a gateway to further drug use with recent convincing work done on the epigenetic mechanism.  Macular degeneration is just another reason to advise people to not smoke.  The healthy diet and exercise proposed here for ophthalmology patients is another way of saying, avoid obesity and the metabolic syndrome.  Psychiatrists need to be giving their patients the same advice about diet and exercise.  Metabolic syndrome is a significant comorbidity, precursor, and iatrogenic complication of mental illness.  Some theorists have suggested that ROS produced in metabolic syndrome is a reason for the numerous complications.  Another potential research area is whether or not any current medications prescribed by psychiatrists increase the likelihood of cataracts, macular degeneration, or directly affect some of the phototoxic mechanisms that can occur in the eye.  I can recall that as a medical student we emphasized eye exams on psychiatric patients and there was a brief emphasis again when quetiapine was initially marketed, but not much evidence since.  In those days we were concerned about stellate cataracts and retinal hyperpigmentation caused by phenothiazines.  With the institutionalized deterioration in the quality of psychiatric care, this is another area for re-emphasis.  Every practicing psychiatrist needs to be aware of these mechanisms and at the minimum make recommendations for eye care, especially in aging patients.
+
+The ophthalmology lecture was a good reminder that some disease mechanisms like oxidation can cut across several clinical specialties.  This provides a good opportunity for clinical psychiatrists to follow patients closely and potentially make more of a difference in their lives.
+
+
+George Dawson, MD, DLFAPA
+
+
+Normal Retina
+
+
+
+References:
+
+1:  Schick T, Ersoy L, Lechanteur YT, Saksens NT, Hoyng CB, den Hollander AI, Kirchhof B, Fauser S. HISTORY OF SUNLIGHT EXPOSURE IS A RISK FACTOR FOR AGE-RELATED MACULAR DEGENERATION. Retina. 2015 Oct 5. [Epub ahead of print] PubMed PMID: 26441265.
+
+2:  Yam JC, Kwok AK. Ultraviolet light and ocular diseases. Int Ophthalmol. 2014 Apr;34(2):383-400. doi: 10.1007/s10792-013-9791-x. Epub 2013 May 31. Review. PubMed PMID: 23722672.
+
+3:  Roberts JE. Ultraviolet radiation as a risk factor for cataract and macular degeneration. Eye Contact Lens. 2011 Jul;37(4):246-9. doi: 10.1097/ICL.0b013e31821cbcc9. Review. PubMed PMID: 21617534. 
+
+4: Sommerburg O, Keunen JE, Bird AC, van Kuijk FJ. Fruits and vegetables that are sources for lutein and zeaxanthin: the macular pigment in human eyes. Br J Ophthalmol. 1998 Aug;82(8):907-10. PubMed PMID: 9828775; PubMed Central PMCID: PMC1722697.
+
+6:  National Eye Institute (NEI) Age-Related Macular Degeneration.
+
+7:  Yam JC, Kwok AK. Ultraviolet light and ocular diseases. Int Ophthalmol. 2014 Apr;34(2):383-400. doi: 10.1007/s10792-013-9791-x. Epub 2013 May 31. Review. PubMed PMID: 23722672.
+
+8: Joan E. Roberts and Jessica Dennison, “The Photobiology of Lutein and Zeaxanthin in the Eye,” Journal of Ophthalmology, vol. 2015, Article ID 687173, 8 pages, 2015. doi:10.1155/2015/687173
+
+9:  Szabo KE, Gutowski NJ, Holley JE, Littlechild JA, Winyard PG.  Redox control in human disease with a special emphasis on the peroxidation-based antioxidant system. in Redox Signaling and Regulation in Biology and Medicine.  Claud Jacob and Paul G. Winyard (eds); Wiley-VCH; Weinheim; 2009; 409-431.
+
+10: Poh S, Mohamed Abdul RB, Lamoureux EL, Wong TY, Sabanayagam C. Metabolic syndrome and eye diseases. Diabetes Res Clin Pract. 2016 Jan 15. pii: S0168-8227(16)00065-6. doi: 10.1016/j.diabres.2016.01.016. [Epub ahead of print] Review. PubMed PMID: 26838669.
+
+11:  Terao J, Minami Y, Bando N. Singlet molecular oxygen-quenching activity of carotenoids: relevance to protection of the skin from photoaging. Journal of Clinical Biochemistry and Nutrition. 2011;48(1):57-62. doi:10.3164/jcbn.11-008FR.
+
+
+
+Attribution:
+
+Chemical structures were downloaded directly from PubChem accessed on March 14, 2016.

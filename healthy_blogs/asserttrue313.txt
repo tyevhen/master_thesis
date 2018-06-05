@@ -1,0 +1,24 @@
+Amazon is a company all Americans should be watching right now, because it's a symbol (as well as a concrete physical example) of what's happening—and what will happen—to the macro economy as we transition from a pre-Internet world to whatever comes next. This is a company that wants to be the single-source provisioner of both the protons and electrons in your world. It wants to sell you physical books (and other physical goods; the protons) as well as electronic books (electrons). At the same time, it wants to sell other businesses the computing infrastructure with which to make the transition to the Information Economy. (Here, I'm of course talking about Amazon Web Services.) It wants to be the Everything Company.
+
+Because of this odd confluence of missions, Amazon is easily the single most dangerous company in the world today. It has the power to disrupt whole segments of the economy—and the whole economy. It's on a growth jag and is willing to run at breakeven (or even at a loss) in order to gain market share—in every market, without limit.
+
+Jaron Lanier's book outlines the issues in stark terms. (If you haven't read Who Owns the Future?, you should do so immediately.) Amazon represents the New Monopolism, a path toward the impoverishment of the many by the few. Every time it lays waste to a Blockbuster or a Best Buy, it puts tens (perhaps hundreds) of thousands of people out of work. Meanwhile, it adds a small handful of IT geniuses to its staff and goes about its business. It renders jobless the very customers it hopes to sell things to.
+
+Joel West ( professor of Innovation & Entrepreneurship at the Keck Graduate Institute) has written that 
+The transformation of retailing is ongoing and unstoppable.
+Traditional retailers will be unable to out-Amazon Amazon, and only a handful will come close to competitive parity.
+The only hope firms have to compete with the volume leader is to offer superior service.
+Some firms already value service, and may be able to find a way to monetize those competencies. For those that can't or won't, it's hard to imagine a viable path forward (other than exit via M&A).
+Amazon's ability to empty out strip malls and take down big-box stores (of the Best Buy ilk) has led Howard Lindzon to describe the brick-and-mortar economy as a brick-and-mortuary economy. The big box stores have become Amazon's de facto showrooms. You go to Best Buy to see what you want to buy; then you go home and order it online from Amazon at a lower price.
+
+With its Elastic Cloud (EC2) offerings, Amazon wants to sell you time on the same Internet infrastructure it uses to gut its competitors. Amazon has already built the computing infrastructure; now it wants to monetize its excess capacity by letting you use it for pennies per hour. By all accounts, this aspect of Amazon's business (its AWS/EC2 Infrastructure-as-a-Service business) is one of Amazon's fastest-growing and most profitable segments. (We'll know more particulars on Thursday when Amazon reports its financial results.) 
+
+What makes Amazon so dangerous is that Jeff Bezos (the CEO) has no qualms about using the several billion dollars a year Amazon makes on IaaS to underwrite the under-pricing of the rest of its offerings, so as to grow the company's already huge footprint in online retail. Amazon is all about growth; it's a cancer. It won't stop until it owns everything. 
+
+If you're thinking about putting your company's Web presence on Amazon's computers (using EC2), you might want to ask yourself a few questions. Does Amazon already compete with your business in any way? How long before Amazon does compete with you? Do you want to put your online business in the hands of a potential competitor? Do you want Amazon to know more about your business than it already does? No one's suggesting Amazon is actually going to spy on your business's bits and bytes (which are already encrypted anyway, right?), but they can learn a lot simply by knowing your capacity needs, your business's Web traffic patterns, your scale-out and failover strategies. Just by metering your Web usage, they know too much. 
+
+Ironically, by being the "everything company," Amazon provides a pretty big disincentive to using its cloud infrastructure. Someday, at some level, you're going to be in competition with Amazon. When that day comes, you probably don't want to have all of your bits and bytes on their computers.
+
+For now, businesses that are in competition with Amazon can take comfort in the fact that Amazon is not now (and probably won't be, any time soon) all about customer service. Amazon is about automation; they see customer service as a failure mode of automation, a necessary evil. You can compete with Amazon on customer service—today.
+
+Tomorrow, who knows?

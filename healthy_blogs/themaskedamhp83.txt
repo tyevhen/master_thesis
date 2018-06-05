@@ -1,0 +1,56 @@
+A couple of days ago I did a session on Community Treatment Orders for our local AMHP course cohort. We had an interesting discussion about the ethics of CTO’s in the context of decision making when an AMHP is asked to endorse an application for a CTO or an extension to a CTO. This post is a response to that discussion.
+
+Supervised Community Treatment, as it is also known, was introduced by the Mental Health Act 2007, which amended the 1983 Act. The Code of Practice (25.2) states that: “The purpose of SCT is to allow suitable patients to be safely treated in the community rather than under detention in hospital, and to provide a way to help prevent relapse and any harm – to the patient or to others – that this might cause. It is intended to help patients to maintain stable mental health outside hospital and to promote recovery.”
+
+People on CTO’s are subject to a range of conditions. The basic ones are to accept treatment, especially medication, and to attend appointments with their care coordinator, psychiatrist, and other professionals. They can also be required to live at a certain place, and then there can be many other conditions. For example, I have worked with a few patients with eating disorders where a condition of their CTO was to maintain a certain weight.
+
+CTO’s have teeth. A failure to comply with a condition can result in a recall to hospital, and even a revocation of the CTO, which actually means that the CTO reverts to detention in hospital under Sec.3 MHA.
+
+The idea, then, of compulsion in the community, of having wide ranging powers to define what someone can and can’t do in their life, with the power to enforce compliance and effectively punish transgression, can understandably make AMHP’s and social workers, with their basic values of service user empowerment and self determination, feel somewhat uncomfortable. Can “recovery” have any real value if it is done against the will of the patient?
+
+The latest annual report on Detentions under the MHA, produced by the Health and Social Care Information Centre, which is part of the Government Statistical Service, provided statistics on the current use of CTO’s.
+
+The report notes that “there were 4,647 CTOs made during 2012/13, an increase of 427 (10 per cent) since last year”. The report also notes that “in spite of larger numbers of CTOs being ended each year, the number issued continually outweigh this, resulting in an increasing number in place at the end of each reporting period.”
+
+There is no doubt that, while being a fairly recent addition to the powers under the MHA, it is very popular with psychiatrists, who are the applicants for CTO’s.
+
+There would be no problem with this if CTO’s did indeed “help patients to maintain stable mental health outside hospital and to promote recovery”, but such evidence as there is so far has been somewhat equivocal.
+
+In March 2013, the OCTET study on CTO’s was published. The research selected detained patients with a diagnosis of psychosis. The total sample consisted of 333. Half the sample (166) were discharged on a CTO and the other half (167) were made subject to extended Sec.17 leave. Sec.17 leave is a process whereby a patient is not formally discharged from detention under Sec.3 Mental Health Act, but allowed out of the hospital on leave. They can be recalled at any time, with little formality.
+
+The object of the research was to see if CTO’s reduced readmission. They monitored the samples for 12 months. Their conclusion was that “the imposition of compulsory supervision does not reduce the rate of readmission of psychotic patients. We found no support in terms of any reduction in overall hospital admission to justify the significant curtailment of patients' personal liberty.”
+
+The message from this research seemed to be unequivocal: CTO’s don’t work, and cannot therefore be justified ethically.
+
+However, I think there are problems with this research, which I’ve commented on previously on this blog, so I am not convinced that the case for CTO’s has been demolished.
+
+In October 2013, NIHR School for Social Care Research & the University of Brighton published a piece of largely qualitative research on service user and practitioner experiences (An Exploration of Service User and Practitioner Experiences of Community Treatment Orders ).
+
+The study found that 4 main themes emerged from interviews with service users and professionals on their experiences:
+The CTO provides a legal recognition of the need for care;
+The care is defined as predominantly medical;
+The CTO provides a structure and containment for the ‘right’ Service User;
+There is ambivalence surrounding the power and conditions of the CTO.
+A fair degree of ambivalence was expressed by AMHP’s and other professionals. There was also a degree of ambivalence expressed by the subjects of CTO’s. However, nearest relatives were positive about CTO’s. The research found that:
+
+“What many NRs valued about the CTO was that it enabled their relative to be admitted to hospital more quickly and without having to go through a new assessment under the Act. Many NRs felt that the CTO had made a positive impact on their own relationship to services and that communication between their relative’s care team and themselves had improved.”
+
+I’ve been involved as an AMHP in quite a few CTO’s now. For the record, at the time of writing I have endorsed 14 CTO’s, 12 CTO extensions, and 5 revocations.
+
+Perhaps not surprisingly, very few service users in my experience have objected to a CTO being made. After all, if they are told that they can be discharged from hospital providing they agree to being made subject to a CTO, they are unlikely to disagree.
+
+But my experience has often been that service users see being subject to a CTO as a positive experience. In one recent interview for an extension of the CTO after the initial 6 month period, the service user was frightened that I might not extend it.
+
+For her, life prior to being on a CTO had been chaotic and miserable, with the loss of her job and her child, extended periods of homelessness, living in abject poverty and being vulnerable to exploitation. Since being discharged on a CTO, she had acquired a permanent home, her mind was clear, and she was actually happy and content. She did not want to risk losing that.
+
+Another service user, who remained on a CTO for 2 years, was always very clear when the time came to consider discharge or extension, that he was very happy with being on a CTO, as he saw it as comforting, knowing that he would receive ongoing supervision and support.
+
+In fact, this produced a bizarre situation in a Mental Health Tribunal, which had automatically been convened following an extension. Although he had not wanted to attend the Tribunal, he nevertheless requested legal representation, as was his right. The patient had then instructed the solicitor to request that the CTO should remain in force. This resulted in a Tribunal attended by the psychiatrist, myself and the patient’s solicitor, all of whom unanimously praised the effectiveness of the CTO and the patient’s contentment with its benefits.
+
+Those concerned about the medicalisation of community care might take heart from the pilot project currently running in Norfolk & Suffolk Foundation Trust (NSFT), whereby Miles France is the first ever social worker to act as an Approved Clinician and Responsible Clinician. His responsibility is as an RC making applications for, and reviewing CTO’s. He is able to apply a social perspective to this process. Indications so far are that this pilot is succeeding in keeping people out of hospital and maintaining them in the community.
+
+While AMHP’s may nevertheless feel that there is a conflict between their social care values and the concept of compulsion inherent in CTO’s, there is another way of looking at this.
+
+What is better? For someone with a severe and enduring mental illness to have an endless cycle of acute hospital admission, recovery and discharge, followed by refusing treatment, deterioration in functioning and consequent compulsory admission, with the damage it can do to relationships with family, friends, employers and loved ones, or to impose a modest degree of compulsion to ensure that the patient accepts treatment, but can then live happily and with relatively little interference in their own home?
+
+There is even the argument that AMHP’s and other professionals have a duty of care to ensure the health and safety of vulnerable people. That duty of care has long been embodied in the powers and duties under the MHA to detain people in hospital for assessment and treatment. Why should the same duty of care not apply to maintaining people in the community?

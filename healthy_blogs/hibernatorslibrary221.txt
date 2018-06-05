@@ -1,0 +1,62 @@
+This post will discuss the psychological causes and treatments of mental illness, as described in Butcher's Abnormal Psychology.
+
+Psychological viewpoints consider humans not only as biological entities but as products of our personalities and experiences. There are three major psychosocial views on behavior: psychodaynamic, behavioral, and cognitive-behavioral. 
+
+They psychoanalytical school was founded by Sigmund Freud, as described in my summary of Chapter 2. Freud structured personality into three elements: id, ego, and superego. 
+
+The id is the individual's instinctive drives, and is the first element to develop in infancy. It is separated into life instincts (such as libido) and death instincts (such as aggression). The id can generate wish-fulfilling fantasies but cannot undertake any actions to meet these desires. The superego develops later in childhood, and basically comprises the conscience.
+
+After a few months of life, the ego develops. The ego mediates between the demands of the id, the urging of the superego, and the realistic constraints of the world. For instance, during toilet training, the id tells the child that he needs to go poo, the superego urges the child not to go poo in his mother's bed because she is annoying, and the ego takes these two drives and determines the right place and time to go poo. Sometimes these three drives can come into conflict because they are striving for different goals. These intrapsychic conflicts can cause mental illness. 
+
+Freud also described a set of psychosexual stages, which you can read about on Wikipedia. I do not put much credence in the psychosexual stages, so I will skip them in my summary.
+
+Later, a few psychoanalysts branched off from Freud with the interpersonal perspective. Alfred Adler focused on social and cultural forces instead of instincts. In Adler's view, humans are social beings, and we are driven to interact effectively with other members of our group. Erich Fromm focused on the dispositions of people, and how that affected their interactions with other members of society. 
+
+Despite the current unpopularity of Freud's psychosexual stages and gender prejudices, Freud is considered the father of psychoanalysis. He developed the groundwork for further psychotherapy. He showed that certain maladaptive behaviors develop as a result of an attempt to cope with difficult problems. He also laid the foundation for the study of unconscious motives of maladaptive behaviors. 
+
+Another psychological approach to treatment of mental illness is the behavioral perspective. It is described in my summary of Chapter 2. In addition to Pavlov's classical conditioning and Skinner's operant conditioning, we can also learn by observation. For instance, my sister apparently developed a fear of insects only after seeing a friend respond very negatively to an insect that my sister had collected in a jar. 
+
+Behavior theory was not well-received by psychoanalysts, but it provided several important views of the causes of mental illness. It suggested that maladaptive behaviors develop when a person fails to learn the adaptive behaviors, or when he learns maladaptive solutions. 
+
+The third psychological viewpoint is my favorite - the cognitive-behavioral perspective. Albert Bandura developed an early form of cognitive-behavioral theory when he suggested that people learn by internal reinforcement rather than external reinforcement - we choose to perform a difficult task because we can visualize the negative outcomes of not performing that task. For instance, I'm writing this blog post despite the fact that I'm so tired my eyes are blurring over and I'm not sure my sentences make sense because I can envision the negative consequence of doing poorly on my upcoming exam. 
+
+Today, cognitive behavioral therapy focuses on how distorted perspectives can influence maladaptive behaviors. For instance, if I'm walking down the street, and I see a friend getting on a bus...I wave at that friend, and he doesn't wave back. I might have the distorted perspective that the friend hates me, and I might consequently be rude or abusive to that friend. The maladaptive cognitive process is called assimilation, where I gather new information (the friend didn't wave at me) and distort it to fit my existing self-schema (nobody likes me). 
+
+The adaptive cognitive process that our therapists attempt to elicit is accommodation, in which we change our existing frameworks to incorporate new information that doesn't fit. In this case, my self-schema might be "nobody likes me," but for some reason I've been asked out to prom. Instead of distorting the friendly behavior (he's only asking me to prom so that he can dump pig's blood on me in a highly public setting), the therapist encourages me to accommodate the information (he might actually like me). 
+
+Chapter 3 finished its description of the psychological causes of mental illness by describing some of the events that can lead to a predisposition to mental illness. It discussed early deprivation or trauma, inadequate parenting styles, marital discord and divorce, and maladaptive peer relationships. I found this section interesting since I've just finished reviewing The Blank Slate, by Stephen Pinker, which discussed Pinker's views of the relative influences of parenting styles verses peer relationships on a child's behavior. Pinker claimed that parenting style had much less to do with the child's ability to adapt than peer influences did. He implied that the reason we don't accept that peers have a greater impact than parents is because parents don't want to think that all the love they're pouring into their child doesn't matter. (He also points out that such a worry is silly, since we'd never say that all the love we're pouring into our spouses doesn't matter.)
+
+Butcher's text, on the other hand, spent a lot of space discussing the different parenting approaches (authoritative, authoritarian, permissive/indulgent, and neglectful/uninvolved) and their effects on child development. Despite Pinker's strong arguments, I'm still convinced that parents have just as much impact on a child's development as his peers.
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview

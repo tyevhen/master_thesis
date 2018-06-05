@@ -1,0 +1,42 @@
+I had the opportunity to listen to Friday afternoon public radio for the first time in a while this week.  I had settled into that habit a while ago when I used to take two hours off of work to go skating.  As an inpatient psychiatrist, I still had to go back to work to finish so the two hours of skating time just added two hours to my Fridays.  I did have the opportunity to listen to Science Friday with host Ira Flatow.  When I turned it on this week, I noticed his familiar voice.  He was talking with one of the correspondents who talked very briefly about the Blue Brain Project.  The Blue Brain Project is an initiative in Switzerland that investigates the use of mathematical models to look at human brain function - memory in particular.  What they do is generally known as computational neuroscience.  It is a modern day extension of some of the blended neuroscience and artificial intelligence that I mentioned in a recent post.  Their work has major implications for neuroscience, consciousness researchers, and eventually psychiatrists.  I will outline one of their recent papers in order to highlight why it is so important.
+
+One of the major areas of brain science that psychiatry does a very poor job at is the area of human consciousness.  Psychiatry in the clinical form seeks to describe human behaviors that are two standard deviations from the norm across a very finite number of dimensions encompassing mood states, cognition and intellectual ability, and psychotic states.  Psychiatry seeks to classify all of these states with a finite (but changing) number of descriptors and it assumes that human diagnosticians can detect all of these differences based on training in how to use the criteria.  There are very few objective markers.  Most of the objective markers exist for conditions defined by a measurable medical disorder - like bipolar disorder secondary to a closed head injury and ample MRI scan evidence of a brain injury.  The most elaborate psychiatric formulations will contain a discussion of the subjects personality and psychological adaptations.  There is no psychiatric formulation that I am aware of where the unique conscious state of the individual is recognized.  At some level it is implicit that despite billions of unique conscious states, psychiatrists will be able to detect and treat 200+ unique disorders with no objective tests.  I certainly believe that it can be done, because I have been doing it for over 30 years.  But I also believe we are missing a big part of the picture when we avoid discussions about a unique conscious state.         
+
+After finding out more information about the Blue Brain Project, I pulled up a list of their researchers and searched for all of their papers on Medline. A list of my search is available under the Computational Neuroscience link below.  The paper I read and studied is reference 2 below.  After a brief review of previous models they build the case for algebraic topology being uniquely suited to describe both local and more extended networks.  In their work they represent the network as a directed graph.  Neurons are the vertices and synaptic connections ( presynaptic to post synaptic) are the edges.  This network can be analyzed with graph theory and the authors provide a lot of detail about how they proceed with that analysis both in the text of the article and in the Materials and Methods section and Supplementary Material.  Those section also contain clear definitions of the terms used in the text of their article.
+
+I will mention a few aspects of their analysis.  They discuss the method of analyzing nodes that are all-to-all connected as cliques.  If the nodes are neurons total number determines the dimension.  Directed cliques are those in which information flow is unambiguous.  When these directed  cliques bind together and don't form a larger clique they form cavities.  The directed cliques describe the information flow through the network and the cavities are a measure of information flow.
+
+The authors used this model in a digital reconstruction of networks in rat neocortex.  They looked at a microcircuit consisting of ~31,000 neurons and ~8 million connections.  In the simulation they discovered a large number of high dimensional directed cliques and cavities.  Examples are included in the figure below (Figure 2 from Reference 2).  A1 to A3 illustrate the authors observation that unidirected cliques in 4 fully connected neurons.  This is a complicated figure because it also contains an analysis of 42 variants of the digitally reconstructed microconnectome.  The reconstructions were based on cell densities, distribution of cell types, and heights of layers of the neocortex in five different rats.  The reconstructions contained directed simplices of dimension 6 or 7 and very high numbers (up to 80 million of directed 3 simplices).  This was the first evidence for this phenomenon in any neural network.  Figure B below shows a comparison of the average models using the measurements from rat cortex (Bio-M) to control models of five Erdös-Rényi random graphs of equal size (~31,000 vertices), and a model that used the same 3-D modle as Bio-M but that used a random connectivity rule - Peters' Rule.  The number of directed simplices are far greater in the Bio-M circuit.
+
+
+
+      
+
+The authors also looked at the experiment in vivo by doing multi-neuron patch clamp experiments in up to 12 neurons in cortical slices of the same age used in the digital reconstruction.  In that comparison (D), the distribution of the simplices in the reconstruction (left) was lower in frequency that the actual tissue (right).
+
+The authors believe that their methods and results represent "a simple powerful, parameter-free, and unambiguous mathematical framework for relating the activity of a neural network to its underlying structure, both locally (in terms of simplices) and globally (in terms of cavities formed by these simplices).  The biological based models had a higher frequency of high-dimensional cliques and cavities compared with the control models illustrating the value of biological complexity in information transfer. The microcircuits investigated were actually isolated cortical circuits and there is likely more complexity due to additional connectivity.      
+
+This paper and this field is very important because it seeks to describe the emergent properties of neurons and networks of neurons.  Emergent properties are those that cannot be explained by basic neuroanatomy and neurophysiology but how the entire system works in real time in the living organism.  The most significant unexplained emergent property is how the human brain generates a unique conscious state. That makes this a very important field for psychiatrists to be focused on.  It might help us make the leap from our current knowledge of neuroanatomy and physiology to much more specific knowledge about the person sitting in front of us who we are trying to help.
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1.  Science Friday.  Hr1: News Roundup, Climate and Coffee, Cephalopod Week.  June 23, 2017.
+
+2.  Reimann Michael W., Nolte Max, Scolamiero Martina, Turner Katharine, Perin Rodrigo, Chindemi Giuseppe, Dłotko Paweł, Levi Ran, Hess Kathryn, Markram Henry.  Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function. Frontiers in Computational Neuroscience 2017; 11: 1- 16. DOI=10.3389/fncom.2017.00048
+http://journal.frontiersin.org/article/10.3389/fncom.2017.00048   
+ 
+ 3.  Computational Neuroscience references from associates of Blue Brain Project.
+
+
+Attribution:
+
+The above figure is used from reference 2 per their open access Creative Commons BY license.  No changes were made to the original figure.
+
+
+Supplementary:
+
+This post also illustrates the importance of looking up the original research.  If you listen to the description from Science Friday, I don't think it is a very accurate description of this research or how the researchers were using the term dimension.

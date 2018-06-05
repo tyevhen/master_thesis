@@ -1,0 +1,21 @@
+Introducing Bespin from Dion Almaer on Vimeo. [ you should see a video here, but if you don't, I apologize ]
+
+By now, news of Mozilla Labs' Bespin online code editor is all over the Web. I don't think anyone seriously doubts that it's an idea whose time has come. In fact, the timing was rather serendipitous for me, because just a couple of days before the Bespin announcement hit, I had spent a morning talking with a friend (the CTO of a well-known software company) about a range of development issues, and one of the topics we spent quite a bit of time talking about was remote development.
+
+You can do remote development and debugging right now, of course (with things like Eclipse over RMI-IIOP, if you're crazy enough to want to do it that way). But what my friend and I were discussing was an AJAX-based emulation of Eclipse in the browser. Not actual Eclipse with all its features, but a kind of Eclipse-Light facade over a reasonably powerful set of online dev tools, which would of course include an editor with typeahead and all the rest. But that would just be the start.
+
+We talked about things like:
+Static analysis as a service
+Compilation as a service
+Import-latest-packages as a service
+JAR-it-all-up as a service
+Sanity checking as a service
+Wrap-my-crappy-Javascript-code-blocks in try/catches as a service
+Format my fugly code as a service
+Help me oh dear God create OSGi bundles as a service
+Translate my Java code to some-other-language as a service
+Give me expanded tooltip help for Dojo [or other library] as a service
+Infinite Undo as a service
+And so on. (Well, maybe we didn't discuss every one of those ideas. But we should have!)
+
+Maybe the Bespin guys can add to that list. Or better yet, implement some of it. In any case, let's don't stop with just a code editor. That's way too simple. We need more than that. Lots more.

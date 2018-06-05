@@ -1,0 +1,1 @@
+ECMA's 262 revision-4 working group just published a draft spec of what will hopefully become (by next summer) JavaScript 2.0. This is the first major upgrade to the JavaScript language in almost a decade. Guaranteed to take Ajax to the next level.

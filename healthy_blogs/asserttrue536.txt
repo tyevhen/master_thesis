@@ -1,0 +1,24 @@
+Why does OpenOffice Writer force me to visit a modal dialog to adjust header properties? Why can't I right-click inside the actual header, on-the-page, to make these adjustments? A modal UI takes me away from my work.
+Lately I've been trying to rethink the assumptions behind user interfaces, particularly the UIs of "creativity-oriented" applications.
+
+One exercise I've found useful is to take notice, as you work with your favorite application(s), of how much time you spend working with dialogs, menus, palettes, etc. versus how much time you spend working on the document itself at a low level.
+
+Any non-trivial GUI-driven application has at least two different levels of GUI. There's a high-level interface and a low-level interface. In a word processor, low-level operations (and corresponding interfaces) are ones that have you operating directly on text with the keyboard and/or mouse, without the aid of dialogs. So for example: entering new text, selecting portions of text, copying and pasting text, applying fonts, applying styles to fonts (italic, bold, etc.), scrolling, deleting text, and using Undo — all of these are core low-level operations. The UI for these operations doesn't take you away from your work.
+
+In an image editor, low-level operations are generally ones that involve dragging the mouse on the canvas. When you are doing things like selecting a portion of an image, transforming an active selection (via shear, rotation, scaling), or drawing shapes by hand, you're operating directly on the canvas with mouse drags.
+
+An app's high-level GUI consists of anything that has to be done in a modal dialog, a menu system, a wizard, or anything else that doesn't directly involve a low-level operation.
+
+Here's the important point. Anything that takes you away from the low-level interface (for example, any operation that takes you immediately to a modal dialog) is taking you away from your work. It's an interruption to the workflow and an impediment to getting work done, not because such diversions steal precious time, but because they steal from you something far more precious than time: namely, creativity.
+
+Modal GUI elements interrupt a user's concentration and interfere with inspiration. This is a serious issue if your customers are creative individuals working in a creativity-oriented application.
+
+If you look at how Adobe Photoshop has evolved from Version 1.0 to the present day, one of the most noticeable changes is in how many non-modal GUI elements have appeared in the workspace (and how easy it is for the user to choose which elements appear, via the Window menu). It's because non-modal elements like tool palettes and layer pickers are nowhere near as disruptive as modal elements. They let you stay "close to the work."
+
+An application like Adobe After Effects makes the point even clearer. Here, you have a program in which an immense number of features have been realized in non-modal GUI elements. It's an important issue, because when you're doing something as complex (and creative) as offline video editing, you can't afford to have your creativity interrupted by frequent detours into modal dialogs.
+
+Some "creativity" programs go the wrong way and implement the majority of GUI elements in modal (rather than non-modal) fashion by default. An example is OpenOffice. To do something as trivial as view a document's word count in OpenOffice Writer means making a detour to a modal dialog.
+
+What's the main takeaway? Modal UI elements (dialogs, menus and sub-menus, wizards) take the user further from the work document. And that's always a bad thing. It's time-wasteful and saps creativity. Non-modal interfaces keep the user close to the content, at the risk of UI clutter. (The answer to the clutter problem is to put the user in charge of how much real estate to devote to non-modal UI elements at any given time.)
+
+In tomorrow's post, I'll talk about GUI surface area and what its implications are for usability.

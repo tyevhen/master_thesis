@@ -1,0 +1,84 @@
+Erwin Chargaff, working with sea-urchin sperm in the 1950s, observed that within double-stranded DNA, the amount of adenine equals the amount of thymine (A = T) and guanine equals cytosine (G = C), which we now know is the basis of "complementarity" in DNA. But Chargaff later went on to observe the same thing in studies of single-stranded DNA, causing him to postulate that A = T and G = C more generally (within as well as across strands of DNA). The more general postulation is known as Chargaff's second parity rule. It says that A = T and G = C within a single strand of DNA.
+
+The second parity rule seemed to make sense, because there was and is no a priori reason to think that DNA or RNA, whether single-stranded or double-stranded, should contain more purines than pyrimidines (nor vice versa). All other factors being equal, nature should not "favor" one class of nucleotide over another. Therefore, across evolutionary times frames, one would expect purine and pyrimidine prevalences in nucleic acids to equalize.
+
+What we instead find, if we look at real-world DNA and RNA, is that individual strands seldom contain equal amounts of purines and pyrimidines. Szybalski was the first to note that viruses (which usually contain single-stranded nucleic acids) often contain more purines than pyrimidines. Others have since verified what Szybalski found, namely that in many organisms, DNA is purine-heavy on the "sense" strand of coding regions, such that messenger RNA ends up richer in purines than pyrimidines. This is called Szybalski's rule.
+
+In a previous post, I presented evidence (from analysis of the sequenced genomes of 93 bacterial genera) that Szybalski's rule not only is more often true than Chargaff's second parity rule, but in fact purine-loading of coding region "message" strands occurs in direct proportion to the amount of A+T (or in inverse propoertion to the amount of G+C) in the genome. At G+C contents below about 68%, DNA becomes heavier and heavier with purines on the message strand. At G+C contents above 68%, we find organisms in which the message strand is actually pyrimidine-heavy instead of purine-heavy.
+
+I now present evidence that purine loading of message strands in proportion to A+T content is a universal phenomenon, applying to a wide variety of eukaryotic ("higher") life forms as well as bacteria.
+
+According to Chargaff's second parity rule, all points on this graph should fall on a horizontal line at y = 1. Instead, we see that Chargaff's rule is violated for all but a statistically insignificant subset of organisms. Pink/orange points represent eukaryotic species. Dark green data points represent bacterial genera. See text for discussion. Permission to reproduce this graph (with attribution) is granted.
+
+To create the accompanying graph, I did frequency analysis of codons for 58 eukaryotic life forms (pink data points) and 93 prokaryotes (dark green data points) in order to derive prevalences of the four bases (A, G, C, T) in coding regions of DNA. Eukaryotes that were studied included yeast, molds, protists, warm and cold-blooded animals, flowering and non-flowering plants, alga, and insects and crustaceans. The complete list of organisms is shown in a table further below.
+
+It can now be stated definitively that Chargaff's second parity rule is, in general, violated across all major forms of life. Not only that, it is violated in a regular fashion, such that purine loading of mRNA increases with genome A+T content. Significantly, some organisms with very low A+T content (high G+C content) actually have pyrimidine-loaded mRNA, but they are in a small minority.
+
+Purine loading is both common and extreme. For about 20% of organisms, the purine-pyrimidine ratio is above 1.2. For some organisms, the purine excess is more than 40%, which is striking indeed.
+
+Why should purines migrate to one strand of DNA while pyrimidines line up on the other strand? One possibility is that it minimizes spontaneous self-annealing of separated strands into secondary structures. Unrestrained "kissing" of intrastrand regions during transcription might lead to deleterious excisions, inversions, or other events. Poly-purine runs would allow the formation of many loops but few stems; in general, secondary structures would be rare.
+
+The significance of purine loading remains to be elucidated. But in the meantime, there can be no doubt that purine enrichment of message strands is indeed widespread and strongly correlates to genome A+T content. Chargaff's second parity rule is invalid, except in a trivial minority of cases.
+
+The prokaryotic organisms used in this study were presented in a table previously. The eukaryotic organisms are shown in the following table:
+
+Organism Comment G+C% Purine ratio
+Chlorella variabilis strain NC64A endosymbiont of Paramecium 68.76 1.1055181128896376
+Chlamydomonas reinhardtii strain CC-503 cw92 mt+ unicellular alga 67.96 1.0818749999999997
+Micromonas pusilla strain CCMP1545 unicellular alga 67.41 1.1873268193087356
+Ectocarpus siliculosus strain Ec 32 alga 62.74 1.2090728330510347
+Sporisorium reilianum SRZ2 smut fungus 62.5 0.9776547360094916
+Leishmania major strain Friedlin protozoan 62.47 1.0325
+Oryza sativa Japonica Group rice 54.77 1.0668412348401317
+Takifugu rubripes (torafugu) fish 54.08 1.0655094027691674
+Aspergillus fumigatus strain A1163 fungus 53.89 1.013091641490433
+Sus scrofa (pig) pig 53.77 1.0680595779892428
+Drosophila melanogaster (fruit fly)
+53.69 1.0986989367655287
+Brachypodium distachyon line Bd21 grass 53.32 1.0764746703677999
+Selaginella moellendorffii (Spikemoss) moss 52.83 1.1014492753623195
+Equus caballus (horse) horse 52.29 1.0844453711426192
+Pongo abelii (Sumatran orangutan) orangutan 52 1.0929015146227405
+Homo sapiens human 51.97 1.0939049081896255
+Mus musculus (house mouse) strain mixed mouse 51.91 1.0827720297201582
+Tuber melanosporum (Perigord truffle) strain Mel28 truffle 51.4 1.0836820083682006
+Phaeodactylum tricornutum strain CCAP 1055/1 diatom 51.06 1.0418452745458253
+Arthroderma benhamiae strain CBS 112371 fungus 50.99 1.0360268674944024
+Ornithorhynchus anatinus (platypus) platypus 50.97 1.1121909993661525
+Taeniopygia guttata (Zebra finch) bird 50.81 1.1344717182497328
+Trypanosoma brucei TREU927 sleeping sickness protozoan 50.78 1.106974784013486
+Danio rerio (zebrafish) strain Tuebingen fish 49.68 1.1195053003533566
+Gallus gallus chicken 49.54 1.1265418970650787
+Monodelphis domestica (gray short-tailed opossum) opossum 49.07 1.0768110918544194
+Sorghum bicolor (sorghum) sorghum 48.93 1.046422719825232
+Thalassiosira pseudonana strain CCMP1335 diatom 47.91 1.1403183213189638
+Hyaloperonospora arabidopsis mildew 47.75 1.053039546400631
+Daphnia pulex (common water flea) water flea 47.57 1.058036633052068
+Physcomitrella patens subsp. patens moss 47.33 1.1727134477514667
+Anolis carolinensis (green anole) lizard 46.72 1.113765477057538
+Brassica rapa flowering plant 46.29 1.1056659411640803
+Fragaria vesca (woodland strawberry) strawberry 46.02 1.1052853232259425
+Amborella trichopoda flowering shrub 45.88 1.0992441209406494
+Citrullus lanatus var. lanatus (watermelon) watermelon 44.5 1.0855134984692458
+Capsella rubella mustard-family plant 44.37 1.1041257367387034
+Arabidopsis thaliana (thale cress) cress 44.15 1.109853013573388
+Lotus Japonicus lotus 44.11 1.0773228019122847
+Populus trichocarpa (Populus balsamifera subsp. trichocarpa) tree 43.7 1.1097672456226706
+Cucumis sativus (cucumber) cucumber 43.56 1.0823847862298719
+Caenorhabditis elegans strain Bristol N2 worm 42.96 1.106320224719101
+Vitis vinifera (grape) grape 42.75 1.0859833393697935
+Ciona intestinalis tunicate 42.68 1.158652461848546
+Solanum lycopersicum (tomato) tomato 41.7 1.1177
+Theobroma cacao (chocolate) chocolate 41.31 1.1297481860862142
+Medicago truncatula (barrel medic) strain A17 flowering plant 40.78 1.093754366354618
+Apis mellifera (honey bee) strain DH4 honey bee 39.76 1.216042543762464
+Saccharomyces cerevisiae (bakers yeast) strain S288C yeast 39.63 1.1387641650630744
+Acyrthosiphon pisum (pea aphid) strain LSR1 aphid 39.35 1.1651853457619772
+Debaryomyces hansenii strain CBS767 yeast 37.32  1.1477345930856775
+Pediculus humanus corporis (human body louse) strain USDA louse 36.57 1.2365791828213537
+Schistosoma mansoni strain Puerto Rico trematode 35.94 1.0586902800658977
+Candida albicans strain WO-1 yeast 35.03 1.1490291609944834
+Tetrapisispora phaffii CBS 4417 strain type CBS 4417 yeast 34.69 1.17503805175038
+Paramecium tetraurelia strain d4-2 protist 30.03 1.2494922903347117
+nucleomorph Guillardia theta endosymbiont 23.87 1.1529462427330803
+Plasmodium falciparum 3D7 malaria parasite 23.76 1.4471365638766511

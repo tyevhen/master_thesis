@@ -1,0 +1,30 @@
+People sometimes look at my JavaScript and wonder why there is so much "backwards" notation:
+
+   if ( null == arguments[ 0 ] )
+     return "Nothing to do";
+
+   if ( 0 == array.length )
+     break; 
+
+And so on, instead of putting the null or the zero on the right side of the '==' the way everyone else does.
+
+The answer is, I'm a very fast typist and it's not uncommon for me to type "s" when I meant to type "ss," or "4" when I meant to type "44," or "=" when I meant to type "==".
+
+In JavaScript, if I write the if-clause in the normal (not backwards) way, and I mistakenly type "=" for "==", like so...
+
+   if ( array.length = 0 )
+  break; 
+
+... then of course I'm going to destroy the contents of the array (because in JavaScript, you can wipe out an array by setting its length to zero) and my application is going to behave strangely or throw an exception somewhere down the line.
+
+This general type of programmer error is what I call "accidental assignment." Note that I refer to it as a programmer error. It is not a syntactical error. The interpreter will be only too happy to assign a value to a variable inside an if-clause, if you tell it to. And it may be quite some time before you are able to locate the "bug" in your program, because at runtime the interpreter will dutifully execute your code without putting messages in the console. If an exception is eventually thrown, it could be in an operation that's a thousand lines of code away from your syntactical blunder.
+
+So the answer is quite simple. If you write the if-clause "backwards," with zero on the left, an accidental assignment will be caught right away by the interpreter, and the resulting console message will tell you the exact line number of the offending code, because you can't assign a value to zero (or to null, or to any other baked-in constant).
+
+In an expression like "null == x" we say that null is not Lvaluable. The terms "l-value" and "r-value" originally meant left-hand value and right-hand value. But when Kernighan and Ritchie created C, the meaning changed, to become more precise. Today an Lvalue is understood to be a locatable value, something that has an address in memory. A compiler will allocate an address for each named variable at compile-time. The value stored in this address (its r-value) is generally not known until runtime. It's impossible, in any case, to refer to an r-value by its address if it hasn't been assigned to an l-value, hence the compiler won't even try to do so and you'll get an error if you try to compile "null = x".
+
+On the other hand, "x = null" is perfectly legal, and in K&R days a C-compiler would obediently compile such a statement whether it was in an if-clause or not. This actually resulted in some horrendously costly errors in the real world, and as a result, today no modern compiler will accept a bare assignment inside an if-clause. (Actually I can think of an exception. But let's save that for another time.) If you really mean to do an assignment inside an if, you must encapsulate it in parentheses.
+
+Not so with JavaScript, a language that (like K&R C) assumes that the programmer knows what he or she is doing. People unwittingly create accidental assignments inside if-clauses all the time. It's not a syntactical error, so the interpreter doesn't complain. Meanwhile you've got a very difficult situation to debug, and the language itself gets blamed. (A poor craftsman always blames his tools.)
+
+As a defensive programming technique, I always put the non-Lvaluable operand on the left side of an equality operator, and that way if I make a typing mistake, the interpreter slaps me in the face at the earliest opportunity rather than spitting in my general direction some time later. It's a defensive programming tactic that has served me well. I'm surprised more people don't do it.

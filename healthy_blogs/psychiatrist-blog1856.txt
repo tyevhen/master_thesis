@@ -1,0 +1,17 @@
+I want to thank Steve of OmniBrain for posting this information on his blog; the Bureau of Justice Statistics just released the data this month and he saw the press release.
+
+The BJS published all-cause mortality data on American prisoners from 2001 to 2004.This is the first comprehensive report of mortality since the Death in Custody Report Act was established to set up this surveillance system. This is what they found:
+
+Almost all (89%) of deaths were due to medical conditions and these medical conditions were present prior to incarceration. Almost all inmates had been seen by a physician and were in treatment at the time of their deaths. Almost half the deaths between 2001 to 2004 happened in five state systems: California, Florida, New York, Texas and Pennsylvania. The states with the lowest mortality rates were: Vermont, Alaska, Iowa, North Dakota and Utah.
+
+The mortality rate for American prisoners was 19% lower than for adults in free society. For African Americans the prison mortality rate was 57% lower than free society. Prison death rates increased with age and were highest in inmates 45 years old and older. The average annual suicide rate was 15 per 100,000 (essentially unchanged over the past 20 years).
+
+Age Resident Prisoner
+25-34 105 64
+35-44 203 179
+45-54 430 560
+55-64 952 1,481
+
+Here's the age-matched mortality rate comparison between prisoners and state residents. Mortality rates invert between the two after age 45, when mortality for prisoners is higher than among residents.
+
+There's a lot to chew on here. This report does not include mortality data for jails, which apparently is going to be reported separately. The full report can be found here. I'm sure you were dying to know this.

@@ -1,0 +1,23 @@
+One of the primary messages out of public health agencies and nutrition gurus from Walter Willett to Michael Pollan is to eat more plants. And, indeed, in many studies, vegetarian* diets are associated with better cardiovascular health, lower BMI, and better health behaviors (less likely to smoke, drink, and participate in shady Rock and Roll activities).
+
+*In most of these studies, vegetarian does not mean vegan, but usually includes the addition of dairy and eggs, and in some cases, also fish and chicken. Many of these studies use the metric of what people self-identify as, rather than what people actually eat. And the large ones are cross-sectional observational studies, which don't give us causation.
+
+Studies have mostly (but not always) shown that vegetarian diets are associated with poorer mental health, particularly when it comes to anxiety, eating disorders, and depression (See You're A Vegetarian. Have You Lost Your Mind?). This correlation makes sense due to the particular nutrients mostly vegetarian diets are low in (B12, long chain omega 3s, choline, and zinc among others) are particularly important to the brain and nervous system. Mediterranean diets, on the other hand, rich in fruits, vegetables, and whole grains, but also in fish and poultry, are associated with better mental health, and a randomized trial of men with type II diabetes assigned to a Mediterranean diet for several years had lower incidence of depression than controls (1). 
+
+In the face of a lot of messy data, Austrian researchers took a cross section of the population to learn more about self-reported diet and health. The paper is free full text and available here: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3917888/
+
+I tweeted the paper yesterday, proving that there's nothing a paleo-leaning audience loves more than a study inconsistent with the notion that vegetarian diets are the elixir of eternal health and happiness, at least for humans.
+
+
+There was also a little twitter skirmish of vegetarian protest. "Correlation doesn't mean causation" one told me. (Yes indeedy! That's why I used the word 'correlates'). Another accused me of being misleading #shame:
+
+
+I'm happy to let each of you in the twitterverse determine how misleading I am. It would be too cumbersome to define each verb each and every time I use them in 140 characters. Let me qualify that I'm sure there are happy and healthy vegetarians out there, and all my best to continued health and happiness; be sure to get your B12 from somewhere!
+
+Anyway, the researchers did a decent job of getting a nice cross section of people in Austria from all levels of health and socioeconomic classes. Then they pulled out all 343 "vegetarians" (which were vegans, lacto-ovo vegetarians, and lacto-ovo-pescatarians) and matched them with folks from three other self-identified groups that we shall call the virtuous carnivores (lots of fruits and veggies + meat), the carnivores who eat less meat, and the shameless meat-eaters. Then the researchers measured (or asked about) a lot of health factors using trained interviewers. Body mass index, smoking, alcohol use, how many times a person visited the doctor, whether they got their preventative health care, and what sort of medical conditions and health complains they had.
+
+After a lot of number-crunching, the results were as follows: Self-identified vegetarians had poorer mental health (defined as depression and anxiety), poorer overall health, and poorer quality of life. The other finding was that BMI correlated linearly with the consumption of animal fat (with the shameless carnivores having the highest BMI, the vegetarians the lowest). 
+
+What can we learn from this study? Are vegetarians are more likely to be neurotic sick people looking for dietary cures for what ails them, thus come out of the study looking more skinny, unhappy, and unsatisfied? Or are vegetarian diets nutritionally bereft leading to health problems, mental health problems in particular? We will never be able to get that answer from a study of this design.
+
+The Mediterranean diet, as always, has more consistent data for positive benefits for mental and physical health. I tend to think that the diet with a bit of variety and the least processed food will be the healthiest and simplest to explain.

@@ -1,0 +1,41 @@
+The badge of shame: A big, fat, pompous splash screen, letting you know whose priorities really matter.
+
+Disclaimer: This is an opinion piece. All opinions are my own and not those of my employer.
+
+Maybe I'm getting old and cranky.
+
+Maybe I've been in this business too long.
+
+Actually, scratch that. I'm sane and normal. It's the industry that's screwed up.
+
+Here's what pisses me off: I abhor monolithism, or the appearance of it. And I hate when it steals precious seconds (or minutes) out of my day. Day in and day out. Every day. Over and over again.
+
+When I turn my computer on, it should just be on. Ready to go. Kind of like—well, like my phone, for example. Which is, after all, my real computer.
+
+When I fire up Photoshop (or OpenOffice, or any other pathetically oversized mountain of bloatware), it should just violently start, before I've even raised my coffee cup to my mouth. Or appear to start, at least. Show me a screenshot that looks like Photoshop. Trick me into thinking it's running. Cache my UI gestures until the world has finished bootstrapping. Run my gestures against an image in the cloud. Make my gestures appear to do something interesting. Fool me into thinking the damn thing is running. Better yet, make it so.
+
+I'm so f*cking tired of looking at splash screens (whether Adobe's, Microsoft's, or anybody else's). A splash screen basically tells me, in very clear-cut terms, that my time is worth nothing whatsoever. It's a fresh reminder that users' needs don't count as much as programmer convenience does. The customer can wait—we've got more important things to do . . . like show you this test-pattern with our programmers' names on it.
+
+Thomas Knoll is the first name on the Photoshop splash screen, right? I know it by heart now (so do millions of others, I'm sure), not because I am intimately familiar with the history of Photoshop (and thus know that Thomas and his brother John were the originators of the program), but because I've seen that freakin' splash screen so many times in my life, it's burned permanently into my visual cortex.
+
+You know what? As a consumer, I'm tired of that crap. It has to stop. The madness has to stop. Splash screens have to stop. Bloated slothware that takes 30 seconds (or even 10, or 5) to load has got to stop.
+
+Let's be perfectly blunt. A splash screen communicates sloth. If I were Shantanu Narayen (CEO of Adobe) I would outlaw them immediately. Either that or commit seppuku in disgrace.
+
+Please understand, I'm not here to pick on Adobe specifically. (After all, I work for them.) Microsoft, far more than Adobe or anybody else, deserves top billing on the sloth Wall of Shame. Imagine if your phone or iPad took as long to boot as a Windows laptop. Would you use it? Would it be usable?
+
+Why then are we still using desktop PCs? (Well, as it turns out, we mostly aren't. But I guess that's the point.)
+
+I'm sorry to have used the f-word ("f*cking'") a few paragraphs ago, I really am. Every bone in my body recoils at using that word in a blog (or anywhere else). But we've long since passed the point where I can remain reasonable on this subject (the subject of monolithism in software design). I remember when whole operating systems ran in less memory than Firefox leaks in 10 seconds, for crying out loud. (Yeah, so, I guess I am old. And cranky.)
+
+But you know what? It's time somebody said something. Slothware is a non-starter. It no longer meets the criterion of "minimally usable" (as set by iPhone and similar devices). It doesn't deserve to live. Stab it in the heart with a wooden stake, I say. It's time to move on.
+
+I can think of lots of ways to make bloatware look "lite" (e.g., show a UI right away and let an instance of the program in the cloud operate against my gestures, until the local copy boots fully and can re-sync with me). Put up a "lite" UI until the heavy one finishes loading. For heaven's sake, you can just give me a simple game to play while the program boots. Do something useful, something that makes me feel like a human being. Don't just force me to stare at a pompous billboard for whoever created the program. That's the height of arrogance and uselessness. It gives the middle finger to the customer.
+
+I say it's time to kill bloatware (or at least convincingly fake its death) and put the user back in control. Make big programs feel lite. As a user, I want to feel empowered, not belittled. Trick me into thinking big programs are already running (because after all, they probably are, in the cloud somewhere).
+
+We need to get this right, because today's user of desktop and laptop software (and enterprise software, I might add) will not stand for standards of software behavior that were, frankly, already pathetically inadequate in 1999. It's 2012 now. Users have smart phones and tablets that come on like a light-switch, apps a-blazin'. The bar is higher now.
+
+Monolithism, or the appearance of it, simply has to go.
+
+Let me put it in even starker terms. If we (in the PC software biz) keep treating customers like pathetic dolts whose time is worth nothing . . . we deserve the fate that's waiting for us.

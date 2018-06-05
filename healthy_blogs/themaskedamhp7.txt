@@ -1,0 +1,28 @@
+Our AMHP Service has from time to time had problems with Magistrates and others who are convinced that only an AMHP can apply for a warrant under Sec.135(2).
+
+This is incorrect.
+
+The text of Sec.135(2) is as follows:
+
+(2) If it appears to a justice of the peace, on information on oath laid by any constable or other person who is authorised by or under this Act … to take a patient to any place, or to take into custody or retake a patient who is liable under this Act …to be so taken or retaken—
+(a) that there is reasonable cause to believe that the patient is to be found on premises within the jurisdiction of the justice; and
+(b) that admission to the premises has been refused or that a refusal of such admission is apprehended,
+the justice may issue a warrant authorising any constable to enter the premises, if need be by force, and remove the patient.
+
+In contrast, Sec.135(1) permits a police officer to enter the premises of someone who appears to be mentally disordered and is either being ill treated or neglected, or, living alone, is unable to care for themselves. Only an AMHP can apply for such a warrant. The purpose of this warrant is in order to enable the assessment of the person in question.
+
+A Sec.135(2) warrant, on the other hand, is specifically for the purpose of removing a mentally disordered person and taking them to hospital. No assessment is required or needed. This would typically be used when a detained patient was refusing to return from Sec.17 leave, or a CTO patient who was being recalled to hospital and who was objecting to this. In other words, they would have to be already “liable to be detained”.
+
+The Reference Guide states:
+
+A warrant may be applied for by a police officer or any other person who is authorised to take or return the patient to any place or take them into custody.(para7.14)
+
+A police officer is first on the list, which is logical, as it is only a police officer who can execute the warrant. Although an AMHP would be regarded as an authorised person, we need to look at Sec.18(1)(c) for more details. This gives an exhaustive list of those who are authorised to return or readmit people who are either liable to be detained or who are subject to a CTO and have been recalled. These patients can be returned “by any approved mental health professional, by any officer on the staff of the hospital, by any constable, or by any person authorised in writing by the managers of the hospital.”
+
+So as well as a constable and an AMHP, other people who can apply for a Sec.135(2) warrant include hospital staff, local authority employees, and community staff such as care co-ordinators in community mental health teams. Richard Jones points out that even Mental Health Act Administrators have made applications under Sec.135(2). (1-1330 Mental Health Act Manual 19th Edition)
+
+I have to say I find it surprising that a magistrate, having the support of a Court Clerk, may still insist that the applicant has to be an AMHP.
+
+I find it less surprising that community staff, wishing to recall a resistant CTO patient are ignorant or this. But I am always happy to explain to them that they can go through the process of applying to the court for a warrant, rather than an AMHP from our AMHP Service.
+
+We already have more than enough to do.

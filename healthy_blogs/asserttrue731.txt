@@ -1,0 +1,17 @@
+I spent the last two days in New York City attending a conference (the Enterprise Search Summit) and didn't have time to check Google Analytics (for my blog traffic) until just now. Imagine my shock to discover that my May 12 post, "One of the toughest job-interview questions ever," drew 62099 unique visitors from 143 countries. Plus over 125 comments.
+
+So I guess if you want to draw traffic to your blog, the formula is very simple:
+
+1. Get a job interview with a large search company.
+2. Talk about one of the interview questions in excruciating depth.
+3. (Optionally) Spend an inordinate amount of time discussing algorithms and such.
+
+Conversely, if you want to completely kill your blog's traffic numbers, the formula for driving people away seems to be:
+
+1. Discuss CMIS (the new OASIS content-management interop standard).
+2. Fail to mention some kind of programming topic.
+3. Avoid controversy and don't piss anyone off.
+
+Hmm, I wonder which recipe I should gravitate toward over the next few weeks?
+
+Aw heck, screw recipes. This is not a cooking show.

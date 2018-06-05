@@ -1,0 +1,15 @@
+I've been looking all over the place for use-cases and user stories that illustrate the key requirements for CMIS (Content Management Interoperability Services, soon to be an OASIS-blessed standard API for content management system interoperability). As far as I can tell, CMIS is being developed without a proper set of real-world use-cases. I prefer "user narratives" over "use cases" because the latter often is nothing more than a phrase or two, whereas a narrative is just what it sounds like: A sentence-by-sentence explanation of a chain of events. A user narrative captures intent, actors, actions, results, consequences.
+
+I'm finding none of that in CMIS, except for four rather trivial use-case descriptions in http://xml.coverpages.org/CMIS-v05-Appendices.pdf.
+
+I gather from reading some of the Technical Committee's minutes that people have taken "develop use cases" as action items. That's good.
+
+Going ahead with a spec without first understanding the use-cases leads to things like the CMIS "policy object," which I mentioned once before as something that should be (and I think will be) dropped from CMIS.
+
+"Policy" should be dropped for two reasons. One is that it slows things down. If you want to get a standard out fast, don't make it bigger than it needs to be. Second, it's not at all clear what "policy" means. Various people have said it is basically "access control," whereas at least one CMIS expert has said that the policy object can support retention policies. Those are two quite different things.
+
+In any case, CMIS-Policy belongs in its own separate standards effort (if indeed it has any need to exist; and for that, we need user narratives). It's out-of-band here, IMHO. It's not core.
+
+I'm sure people involved with CMIS are very busy drawing up scenarios and user stories, and we'll hear more about it very shortly. Personally, I'd like to see some detailed scenarios around the manipulation of compound documents. I have some concerns there, but that discussion will have to wait for another time.
+
+It's exciting to watch CMIS come together, in any case. A year from now, we may be seeing some very interesting content-management (and search) mashups. I wish I knew what they're going to look like. It does set the imagination spinning, though. No question about that.

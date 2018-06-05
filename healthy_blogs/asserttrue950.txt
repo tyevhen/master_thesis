@@ -1,0 +1,16 @@
+If you're the nosy type like me, you've probably been guilty (on more than a few occasions) of navigating a site by popping successive pieces off the tail end of the URL. In other words, if you've found yourself at http://www.somedomain.com/c/b/a/great.txt, you may have been curious about what else is at http://www.somedomain.com/c/b/a, so you hand-excise "great.txt" off the URL in the browser address line and hit Go. After that, you're curious about http://www.somedomain.com/c/b so you hand-remove the /a, etc. Repeat until carpal-tunnel syndrome.
+
+A linkbar button with some Javascript behind it is a lot easier than clicking into the URL, highlighting text, deleting it, hitting Go or Enter, and so on, over and over again. Here's the Javascript that will do this (prefaced by "javascript:" so that it'll run in the address field of the browser):
+
+javascript:ar=location.href.split('/');
+if(ar.pop()=='')ar.pop();
+u=ar.join('/');
+location.href=u;
+
+Remember that for this to work as a bookmarklet, it all has to be on one line. I've broken the code apart here for illustration purposes.
+
+All we do is make array out of the individual location elements of the current URL by breaking it at forward slashes, then pop the tail element off, re-join() the array with '/' delimiters, and make the browser go to the newly formed URL.
+
+Works like a charm.
+
+I keep this script in a link button (called "Peelback") on Firefox's linkbar. It's handy as heck when you've landed on an interesting web page and you want to further navigate a given URL via the ancestor axis.

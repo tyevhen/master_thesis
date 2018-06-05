@@ -1,0 +1,17 @@
+I was reading the KDA Forum this afternoon and ran across this article in GIZMODO about CRISPR. It appears the possibilities are almost endless in regards to what you can use this for in the area of editing genomes. When I say endless, I mean finding a cure for Kennedy's Disease (SBMA). 
+
+Excerpts from the article are shown below. Click on the title below to read the entire article.
+
+Everything You Need to Know About CRISPR, the New Tool that Edits DNA
+
+“CRISPR, a new genome editing tool, could transform the field of biology—and a recent study on genetically-engineered human embryos has converted this promise into media hype. But scientists have been tinkering with genomes for decades. Why is CRISPR suddenly such a big deal?
+
+The short answer is that CRISPR allows scientists to edit genomes with unprecedented precision, efficiency, and flexibility. The past few years have seen a flurry of “firsts” with CRISPR, from creating monkeys with targeted mutations to preventing HIV infection in human cells. Earlier this month, Chinese scientists announced they applied the technique to nonviable human embryos, hinting at CRISPR’s potential to cure any genetic disease. And yes, it might even lead to designer babies. (Though, as the results of that study show, it’s still far from ready for the doctor’s office.)
+
+In short, CRISPR is far better than older techniques for gene splicing and editing. ..."
+
+Then, later in the article it mentioned the snipping of DNA sequences and the light bulb clicked on:  
+"It is a more precise way of editing the genome...
+As this point, you can start connecting the dots: Cas9 is an enzyme that snips DNA, and CRISPR is a collection of DNA sequences that tells Cas9 exactly where to snip. All biologists have to do is feed Cas9 the right sequence, called a guide RNA, and boom, you can cut and paste bits of DNA sequence into the genome wherever you want.”
+
+This caught my attention near the end of the article. “… with CRISPR/Cas9, it’s theoretically possible to modify the genomes of any animal under the sun. That includes humans. CRISPR could one day hold the cure to any number of genetic diseases, but of course human genetic manipulation is ethically fraught and still far from becoming routine.”

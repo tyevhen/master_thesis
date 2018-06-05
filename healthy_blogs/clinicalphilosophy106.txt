@@ -1,0 +1,154 @@
+...first draft of a psychological critique of CBT to complement the philosophical one I produced a couple of years ago for the OUP Philosophy and Psychiatry Handbook ... this one to be submitted to BJ Psych Bulletin after I've improved it... The title, by the way, is me riffing on John Heil's (1981) excellent Mind paper 'Does cognitive psychology rest on a mistake?'.
+
+
+
+Summary
+
+
+
+The theory and practice of cognitive therapy grew out of Aaron Beck's dissatisfactions with psychoanalysis in the 1950s and 60s. He replaced an understanding of depression as motivationally driven by an avoidance of anger with one of it as incidentally maintained by negative automatic thoughts. Along the way the aim of therapy also shifted - from the restoration of self-possession to the achievement of self-management. In this paper I argue: that Beck's scientific reasons for abandoning psychoanalysis were mistaken; that his clinical reasons are best formulated psychoanalytically rather than cognitively - in terms of the transference relationship; and that cognitive therapy’s limited understanding of that relationship risks it delivering an under-powered therapy.
+
+
+
+Introduction
+
+
+
+Aaron Beck, the founder of cognitive therapy (CT), was a psychoanalytically-minded psychiatrist who became disaffected with the psychoanalytic theory and therapy of depression popular in mid-twentieth-century America. On reading and listening to his descriptions of his own standard-issue thinking and practice as a psychoanalytical psychotherapist we readily understand his disaffection. The psychoanalytic theory of depression he describes appears emotionally remote and intellectually recondite. Rather than being meaningfully grounded in and constrained by a living, phenomenologically sensitive, emotional connection with patients’ inner worlds, it is brought to bear on them from without, as if it were merely an independently intelligible psychological hypothesis being used to causally explain some experiential data. The therapeutic procedures he describes also sound disengaged; we hear nothing of his own emotional experience of being with the patient, and little comes across of the quality of his patients’ inner struggles, conflicts and evasions. Over time Beck courageously challenged the validity of his own deeply held psychoanalytic theory and practice. But rather than go on to challenge the adequacy of his epistemological framework to frame a more meaningful and sensitive encounter with the dynamics of his patients’ inner worlds, he instead jettisons the very idea of the latter’s significance. Therapy now becomes just about attentional training and intellectual disputation; occurrent emotional connection and disconnection become not means to understand and refigure the inner world, but matters of merely facilitative or obstructive significance to the cognitive training. In what follows I trace one theoretical and one clinical track from Beck’s rejection of psychoanalysis to his invention of CT and highlight the losses to clinical theory and practice that accrue along the way.
+
+
+
+Depression, Anger and Dreams
+
+
+
+An important theme in psychoanalytic psychopathology has depression resulting from the suppression of anger toward valued others. Rather than risk the feared fall-out from expressing his anger, the patient unconsciously depletes himself, trading that sense of self-worth which his angry sense of injustice presupposes for the stability of his relationships. This idea forms but one strand of the complex psychoanalytic conceptualisation of anger's relation to depression (Freud 1917; Busch 2009; Lubbe 2011), but is widespread in both popular and clinical culture for good reason. Clinically we discover, again and again in the more straightforward cases, i) a depressed person who avoids her anger by downgrading her sense of her own value, shutting down her self-assertion, wrongly construing herself as perpetrator rather than victim of a relational injustice, seeing herself as deserving of treatment which neutral others would consider unjust, and denying the significance of her unmet emotional needs. In more complex cases however we find ii) masochistic self-abasement added to this anger-avoiding dynamic: hatred towards another breaks through the attempts at self-suppression and gives rise to intolerable guilt, and this in turn inspires self-punishment where the anger towards the other is 'retroflected' (taken out on the self) leading to further and darker depressive misery. In clinical practice the therapist finds the recovery of energy and mood going hand in hand with the reinstating of apt outer-directed emotional expression, self-esteem and assertiveness as the patient learns to tolerate his hate and guilt and address his relational difficulties in an open, constructive and honest manner. Many effective psychoanalytical psychotherapies base almost their entire therapeutic rationale and method on this psychoanalytical foundation (e.g. Frederickson 2013).
+
+
+
+It was as a reaction against the above-described psychoanalytic theory of depression that a young, American, psychoanalytically-minded psychiatrist and dream researcher developed the theory and practice of cognitive therapy. Following a helpful personal experience of psychoanalysis, Aaron Beck treated several patients using standard mid-century psychoanalytic methods, applied (albeit unsuccessfully) for membership of the American Psychoanalytic Institute, and published several papers both on psychoanalytic psychotherapy and on the quantitative investigation of the themes of his depressed patients' dreams (e.g. Beck & Hurvich, 1959; Beck & Ward, 1961). Reading these today we learn in particular of his scientific interest in the increased prevalence of thwarted, deprived, excluded, rejected, injured and ashamed themes in his patients' dreaming lives, and of his clinical interpretation of these along psychoanalytic lines.
+
+
+
+Already in these early papers, however, we find a curious feature which presages his later rejection of psychoanalysis: although most of the themes Beck describes (e.g. 'I was in a restaurant but the waiters would not serve me'; 'Everyone was invited to the party but me'; 'My fiancée married someone else') appear interpretable in terms of i) the simple hypothesis of motivated self-depletion, Beck surprisingly interprets them all in terms of ii) the more complex and compounded dynamic of self-hatred: the depressive's misery is always seen as deliberately rather than incidentally self-inflicted - as reflecting a 'need to suffer' (Beck 1967, p. 179). Dreams such as not getting food that is requested, or being rejected - themes which in themselves appear to reflect little more than a need to portray the self as worthless relative to others - are instead counter-intuitively seen as 'the representation of self-punitive tendencies ... the depressed person feels guilt about his ego-alien drives and punishes himself for them.' (Beck & Hurvich, 1959, p. 54). However Beck's later experimental and clinical investigations - including his patients'  negative reactions to interpretations that were overly organised by this prior theory-driven hypothesis -rightly led him to doubt whether many of his patients really were motivated by self-hatred ... but as a result he then threw out the entirety of the baby of the venerable psychoanalytic theory of depression along with the counter-intuitive bathwater of an over-reaching masochism hypothesis. Now the project of providing a psychological explanation as to why the patient is driven to think and feel and act in depressive ways is abandoned; depression collapses into a merely habitual rut of self-maintaining negative thought, feeling and behaviour. The question we must ask today, then, is why Beck was so compelled by ii) the masochism hypothesis that it overrode his recognition of the sufficiency in many cases of i) the simple psychoanalytic hypothesis of depression as motivated self-depletion.
+
+
+
+The answer to this is not apparent in the early papers, but Beck's later writings provide an important clue. Here he tells us that what he was actually trying to do in his early research was establish the clinical psychoanalytic theory of depression on a firmer scientific basis by providing quantitatively ascertained psychological evidence of unconscious anger in the dreams of his depressed patients (Clark, Beck & Alford, 1999; Beck & Beck 2012). Although he didn't report it at the time, what he found is what has also been established since (Barrett & Loeffler, 1992): that as a group depressives have fewer themes of anger in their dreams than non-depressed dreamers. This however puzzled him as he had understood the Freudian idea of dreams as the 'royal road to the unconscious' (Freud, 1913) to mean that feelings which were unacceptable to the waking patient ought to show up straightforwardly in their dreams (Clark, Beck & Alford 1999, p. 50). The finding of fewer rather than more angry themes in depressives' dreams therefore appeared to contradict the psychoanalytic hypothesis of depression as resulting from suppressed anger. But by interpreting the very dreaming of all and any miserabilist themes by the dreamer as masochistically motivated, Beck is for a while - until he finds independent evidence of the implausibility of this interpretation - able to save the psychoanalytic theory that in depression we meet with difficulties with anger.
+
+
+
+Looking back, the most striking thing in this story is Beck's misunderstanding of a core strand of the psychoanalytic theory of dreaming. According to Freud (1913), dreams serve to protect the dreamer's sleep by helping prevent her anxious recognition of unacceptable emotions, such as anger towards loved ones, which anxiety would otherwise cause waking. Dreaming may be understood as the processing of emotionally significant experiences, especially of the previous day, where by 'processing' is meant the alignment of the meaning of emotional experience with one's (realistic or distorted) sense of self. The wish-fulfilling construction of self-diminishing dreams can then be one way in which a dreamer can manage the anxiety caused by what would otherwise be recognition of the perceived undeservedness of slights and injustices. Accordingly, the 'road' to unconscious emotion provided by dreams may be 'royal' compared with that of a mind filled with the myriad preoccupations of waking life, but hardly so straight as to make for the ready applicability of the theme-counting methods of empirical psychology which, as is well known, Beck went on to make the mainstay of his scientific methodology.
+
+
+
+To sum up so far: A central plank of CT's origin myth has it that it developed out of an apparent scientific disconfirmation of the clinical psychoanalytic theory of depression as a motivationally explicable state. But in retrospect what seems most likely to have happened is that an inappropriately simplistic quantitative methodology was deployed to assess an unlikely theory of dreaming; that an implausibly general theory of depressive masochism was developed to save the floundering analytic theory; and that when this general masochism theory was dropped for good reasons the whole idea of inner motivational dynamics - i.e. the whole idea of a depth psychology - was jettisoned. As we will see below, the resultant psychology offers the depressive the hope of release from an allegedly self-maintaining rut of depressive thought and feeling through the effortful achievement of cognitive self-mastery. At the same time it eschews the promise of helping patients find motivational meaning in their suffering, reinstate a relatively effortless self-possession, and enjoy the consequent reversal of self-diminishment.
+
+
+
+NATs and the Transference
+
+
+
+As described above the development of CT's psychopathological theory rests on its rejection of the prevalent psychoanalytic notion of depression as unconsciously motivated. The development of CT's psychotherapeutic technique, however, rests on its rejection of the centrality for psychotherapeutic practice of what psychoanalysis terms the 'transference relationship'. A curious aspect, then, of Beck's development of CT is that it was actually inspired by his encounter with, and dawning realisation of the clinical significance of, his patients' transferences to him.
+
+
+
+First a note on 'transference': A defining preoccupation of psychoanalysis is with how our immersion in relationships which inspire concern and attachment - such as those with psychotherapists, partners, parents, employers etc. - so readily elicits unrealistic fearful and idealising expectations concerning others' views of us. These relentlessly maintained emotionally charged expectations are seen by psychoanalysis as at the root of much psychopathology, and their manifestations are known as negative and positive transferences. They can be easy to attend from, as it were, but powerfully difficult to attend to - i.e. they are often unconscious, and their patterns are typically transferred from one significant other to another over time (Fried, Crits-Christoph & Luborsky 1992; Andersen & Chen 2002). The task of psychoanalytic therapy is the patient's emancipation from distorting transference patterns, a task prosecuted by first facilitating the flourishing and then the subsequent emancipation from the transferences between patient and psychotherapist, an experience that may then generalise to the transferences in the rest of the patient's life. Much of a psychoanalytical psychotherapist's training has to do with cultivating his ability to be emotionally touched, yet not inexorably swept along, by the patient's transference so he can think about, experience, describe, and help liberate the patient from, her unconscious emotional habits.
+
+
+
+To return to CT: As Beck tells the story (Beck & Beck 2012), he had a patient who would lie on the couch each session and regale him with lurid tales of her sexual exploits, whilst he sat back and offered somewhat by-the-book psychoanalytic interpretations of the content of whatever it had occurred to her to say. At the end of one session however Beck's humanity got the better of his method and he asked her how she was feeling; she replied 'anxious'. Beck first suggested, in an interpretation focusing only on intra-psychic issues, that conflicts about sex were making her anxious. She responded, however, to the effect that her real worry was not intra-psychic but inter-personal: her worry was that he was bored by her. From this Beck describes how he began to see 'that there's a whole stream of pre-conscious thinking that goes on that the patient doesn't normally communicate to the analyst' (Beck & Beck 2012) - especially pessimistic, biased, black and white, over-general irrational thoughts about what the therapist thinks and feels about the patient. Beck came to call these transference expectations the patient's 'negative automatic thoughts' (NATs) and, drawing on the ‘rational therapy’ of Albert Ellis (1962), went on to develop a significant range of procedures to help the patient attend to and challenge their NATs.
+
+
+
+There are several striking things about this narrative. The first is that Beck the psychoanalyst appears to have been practicing a rather remote form of psychotherapy which was more concerned to offer theory-derived hypotheses about the content of what the patient said, than to emotionally engage with how and why she said it or listen out for what she wasn't saying. The result was on the one hand that, despite her clear lack of inhibition in talking about sex, Beck still interpreted her anxiety as due to sexual conflict, and, on the other, that we hear nothing about what it felt like to Beck to engage with this particular patient (his countertransference). The second is that it is when Beck shows a real interest in his patient, actually asking her how she feels, that she is able to acknowledge her transference to him, and they can understand it together. We do not hear whether her anxiety about boring Beck was consonant with her everyday anxieties about what, say, other men thought of her, but we do at least arrive at a moment of emotional connection between the two of them. As the therapeutic relationship is strengthened (by Beck's concerned question about her actual feelings), the emotionally alive experience of the transference (her worries about what Beck thought of her) also begins to be acknowledged and worked through, and remote speculation about intra-psychic conflict is thankfully foregone.
+
+
+
+The third striking thing about Beck's narrative, however, is that no sooner is this therapy-potentiating emotional experience of the transferential context encountered, than it is set aside. Anyone who has been in psychotherapy will know how replete it is with holding back acknowledgement of one's thoughts and impulses for fear of the therapist's disapproval, despite such fears speaking right to the heart of the emotional difficulties which brought one to therapy in the first place. Notwithstanding the simplicity of the 'fundamental rule' of psychoanalysis to 'free associate' - i.e. say whatever is actually on our mind - the fact is that no-one can actually follow it (Lear, 2014, p. 83), since we naturally associate away from rather than towards conflictual emotional preoccupations (Frederickson 1999, p. 169). This is why the therapist's job is often to listen not so much to the content of what is said as to performative matters of style, timing and omission. Beck, however, construes NATs as merely incidentally hard for the patient to articulate and challenge - due to a lack of attentional training and rational ability – rather than because of their emotional valence. It is in part because of this that CT risks providing a significantly underpowered therapy - one that substitutes a coaching relationship for an encounter which, by keeping itself on the experiential pulse of emotions alive in the room between patient and therapist, is itself therapeutic.
+
+
+
+Cognitive therapists are often accused of downplaying the importance of the therapeutic relationship, but as psychologist Judith Beck (2010) explains, this is false; cognitive therapy 'requires a good therapeutic relationship. Therapists do many things to build a strong alliance. For example, they work collaboratively with clients ... ask for feedback ... and conduct themselves as genuine, warm, empathic, interested, caring human beings.' However, as psychoanalytical psychotherapist Jonathan Shedler (2015) replies, ‘This is the kind of relationship I would expect from my hair stylist or real estate broker. From a psychotherapist, I expect something else. [Beck appears] to have no concept that the therapy relationship provides a special window into the patient’s inner world, or a relationship laboratory and sanctuary in which lifelong patterns can be recognized and understood, and new ones created.’ Shedler's optimism regarding his hair stylist and estate agent perhaps warrants some cognitive restructuring, but his point about the therapeutic relationship stands. A relationship which is not merely instrumentally useful (as in CT), but itself intended as a unique vehicle of change (as in psychoanalytical therapy), is one which both activates the patient's latent transference fears (that the therapist is untrustworthy, angry, etc.) whilst simultaneously providing enough of a working alliance to challenge such fears in real time. With a merely collaborative and empathic focus the opportunity will be lost for a powerful eliciting in the present of the patient's true emotional preoccupations. The result is rather like trying to conduct a behavioural exposure therapy for a phobia without physically encountering the fearful stimulus, or like a chat between two adults about the difficulties of a child left waiting in the next room. Without the negative transference being activated and understood in the room, the prospect of an intrinsically, rather than merely instrumentally, therapeutic relationship is lost. [footnote: A prevalent myth about psychoanalysis and CT is that the latter focuses on the present whereas psychoanalysis unhelpfully spends an unnecessary amount of time looking at a patient's childhood. The reality, however, is that whilst both therapies attempt at times to understand the present in terms of the past, the focus in CT is often only on what has been happening over the last week, whereas in psychoanalysis it is largely on the patient's here-and-now live emotional experience of the therapist.]
+
+
+
+Conclusions: Self-Management and Self-Possession
+
+
+
+Therapies of all stripes aim at furthering self-knowledge, but talk of 'self knowledge' is ambiguous. On the one hand, as we find in CT, it can refer to an intellectual achievement: of coming to know such and such facts about our own psychological functioning. Such knowledge can with luck and courage be put to instrumental use: we learn to identify our cognitive pitfalls and - guided by enhanced skills in rational self-challenge, self-care and self-management - reform the unruly mind and free ourselves from psychological ruts. On the other hand, as found in psychoanalytic psychotherapy, it can mean what we could call an ethical achievement: of taking responsibility, mustering authority, cultivating character, and acknowledging - in a moral rather than factual sense - one’s thoughts and feelings. Coming to know one’s own mind, in this sense, is not of instrumental but rather of intrinsic value: it already means not a cognizance, but the relinquishing, of one’s defences, and coming to live as an increasingly self-possessed, integrated subject. The intended result is not that one comes to speak more knowledgeably about one’s thoughts and feelings, nor better control the recalcitrant denizens of the mind, but rather that one can now identify with and speak directly from them; not correctness but truthfulness is its goal.
+
+
+
+CT understands itself as a technology to, in the words of a popular self-help CT book, help you ‘manage your mind’ (Butler & Hope, 2007). As a development from a variant of psychoanalysis which offered merely intellectual insight it is surely to be commended. As he describes it, Beck moved away from offering hypotheses about his patient’s unconscious which, whether they were right or wrong, were no match for his taking a real interest in her experience of being herself. Furthermore, intellectual self-knowledge, and the self-management it instrumentally makes for, do have an obvious if limited value, as too do the warmth and honesty of a good therapist (Ablon & Jones 1999), and the behavioural and experiential elements that provide the 'B' in contemporary CBT (Jacobson et al 1996).  The question I have raised in this paper is whether psychotherapy can’t be very much more than this, and whether CT’s dismissal of the psychopathogenic and psychotherapeutic significance of unconscious motivation and of working in the transference might jeopardize its ability to provide that something more. In particular, without the patient coming to recognise, own and relinquish her attempts to defensively avoid her feelings in the relationship with the psychotherapist, the clear risk is of supplementing an already exhausting project of defensively managing intolerable feelings with the further project of cognitively managing their symptomatic products. The result may be temporary symptomatic improvement but the cost is longer-term characterological and developmental stasis.
+
+
+
+References
+
+
+
+Ablon JS. Jones EE. (1999). Psychotherapy process in the National Institute of Mental Health Treatment of Depression Collaborative Research Program. Journal of Consulting and Clinical Psychology, 67:64–75.
+
+
+
+Andersen, S.M., and Chen, S. (2002). The relational self: An interpersonal social-cognitive theory. Psychological Review, 109, 619-645.
+
+
+
+Barrett, Deirdre & Loeffler, M. (1992) Comparison of dream content of depressed vs non-depressed dreamers. Psychological Reports, 70, pp. 403-406. ‪
+
+
+
+Beck, A & Beck, J. (2012). Aaron T. Beck, M.D. Interviewed by Judith S. Beck, Ph.D., Beck Institute for Cognitive Behavior Therapy. Available: https://www.youtube.com/watch?v=7BZp7ZiAE3c [accessed 23.8.2015]‬
+
+
+
+Beck, A. T., & Hurvich, M. S. (1959). Psychological correlates of depression: 1. Frequency of “masochistic” dream content in a private practice sample. Psychosomatic Medicine, 21, 50-55.
+
+
+
+Beck, A. T. (1967) Depression: Clinical, Experimental, and Theoretical Aspects. Philadelphila: University of Pennsylvania Press.
+
+Beck, A. T., & Ward, C. H. (1961). Dreams of depressed patients: Characteristic themes in manifest content. Archives of General Psychiatry, 5, 462-467. 
+
+
+
+Beck, Judith S. (2010) Cognitive Behavior Therapy: Myths and Realities. Huffington Post. Posted 7.11.2010. Retrieved 11.9.2015. http://www.huffingtonpost.com/judith-s-beck-phd/cognitive-behavior-therap_b_638396.html
+
+Fredric N. Busch. 2009. Anger and depression, Advances in Psychiatric Treatment, 15 (4) 271-278.
+
+
+Butler, Gillian and Hope, Tony. (2007). Manage your mind. 2nd edition. Oxford: Oxford University Press.
+
+Clark, D. A., Beck, A. T. & Alford, B. A. (1999). Scientific foundations of cognitive theory and therapy of depression. New York, NY: John Wiley & Sons.
+
+
+Albert Ellis (1962). Reason and emotion in psychotherapy. New York: Lyle Stuart.
+
+Jon Frederickson, 1999. Psychodynamic Psychotherapy. Philadelphia: Brunner/Mazel. Jon 
+
+Frederickson. 2013. Co-Creating Change: Effective Dynamic Therapy Techniques. Kansas City: Seven Leaves Press.
+
+
+Sigmund Freud 1913. The Interpretation of Dreams. New York: Macmillan.
+
+
+
+Sigmund Freud 1917 Mourning and Melancholia. SE 14, 239-258.
+
+
+
+Fried D; Crits-Christoph P; Luborsky L. (1992). The first empirical demonstration of transference in psychotherapy. The Journal of Nervous and Mental Disease 180 (5), pp. 326-31
+
+Jacobson, N. S., K. S. Dobson, P. A. Truax et al. (1996). A component analysis of cognitive behavioural treatment for depression. Journal of Consulting and Clinical Psychology, 64, 2, 295-304.
+
+
+Jonathan Lear 2014. Integrating the non-rational soul. Proceedings of the Aristotelian Society, 114, 1, 75-101.
+
+Trevor Lubbe. 2011. Object Relations in Depression: A Return to Theory. Hove: Routledge.
+
+
+Shedler, Jonathan. 2015. The therapy relationship in psychodynamic therapy versus CBT. Psychologically Minded. Posted 18.3.2015. Retrieved 11.9.2015. https://www.psychologytoday.com/blog/psychologically-minded/201503/the-therapy-relationship-in-psychodynamic-therapy-versus-cbt

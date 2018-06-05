@@ -1,0 +1,26 @@
+They say good things come to those who wait. Well, a lot of us have waited a long time (ten years, roughly) for Internet Explorer to support SVG, and some of us didn't think it would ever happen. Some of us have been proven wrong, however. It now develops that Microsoft has decided to provided support for the W3C’s Scalable Vector Graphics (SVG) 1.1 (Second Edition) Specification in the Internet Explorer 9 Platform Preview.
+
+After years of resisting SVG in favor of VML (which never took off), Microsoft now says "We value web developers as our customers and anticipate interoperable SVG becoming a powerful tool that can be written easily across different web browsers." Moreover: "The use of the more interoperable SVG over VML is highly encouraged."
+
+The following SVG features are currently supported in the IE9 Platform Preview (at least partially):
+Methods of embedding: inline HTML, inline XHTML, <object>, full .svg documents
+Structure: <svg>, <defs>, <use>, <g>, <image>
+Shapes: <circle>, <ellipse>, <rect>, <line>, <polyline>, <polygon>, <path>
+Text
+Filling, Stroking, (CSS3) Color
+DOML2 Core and SVGDOM
+Events
+Presentation Attributes and CSS Styling
+Transforms: translate, skewX, skewY, scale, rotate
+
+Not yet supported, but soon to be:
+Methods of embedding: <embed>, <iframe>, <img>, css image, .svgz
+Gradients and Patterns
+Clipping, Masking, and Compositing
+Cursor, Marker
+Remainder of Text, Transforms, Events
+I, for one, am glad to see Microsoft support SVG natively in IE (even if this version of IE isn't supported on WinXP). One wonders what Adobe's reaction is. Adobe, you may recall, spearheaded the development of SVG and tried (for a while) to jumpstart acceptance of the standard by Trojaning an SVG browser plug-in into every Adobe product install. Eventually, Firefox (and the other browsers) began adding native support. But Microsoft withheld SVG support from IE, and the standard never really caught on, as far as Web graphics are concerned.
+
+Will it catch on now? Hard to say. IE9 doesn't run on XP (or other older versions of Windows), and it'll take years for people to convert en masse to IE9 from IE7 and IE8 (witness the slow death of IE6). As Cameron Laird recently said, "If conventional 'universal coverage' is a requirement, this winter's announcements can only truly impact decisions several years from now."
+
+But hey, better late than never, I say.

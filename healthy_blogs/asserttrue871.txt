@@ -1,0 +1,9 @@
+I'm being sardonic with that headline, obviously, but I have to agree with Tim Bray, who said in passing the other day: "I just don’t believe that Enterprise Software, as currently priced, has much future, in the near term anyhow."
+
+I take this to mean that the days of the seven-figure software deal (involving IBM, Oracle, EMC, Open Text, etc.) may not exactly be over, but certainly those kinds of sales are going to be vanishingly rare, going forward.
+
+I would take Bray's statement a step further, though. He's speaking to the high cost of enterprise software itself (or at least that's how I interpret his statement). Enterprise systems take a lot of manpower to build and maintain. The budget for a new system rollout tends to break out in such a way that the software itself represents only 10 to 50 percent of the overall cost. In other words, software cost is a relatively minor factor.
+
+Therefore I would extend Bray's comment to say that old-school big-budget Enterprise Software projects involving a cast of thousands, 12 months of development and testing, seven-figure software+services deals, etc., are on the way out. In its place? Existing systems! Legacy systems will be maintained, modified, built out as necessary (and only as necessary) using agile methodologies, high-productivity tools and languages (i.e., scripting), RESTful APIs, and things that make economic sense.
+
+There's no room any more for technologies and systems that aren't provably (and majorly) cost-effective. IBM, Oracle, EMC, listen up: Million-dollar white elephants are on the endangered species list.

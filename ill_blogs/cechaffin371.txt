@@ -1,0 +1,160 @@
+I can't believe it's been almost a week since I last posted. If I cared about stats, it would not doubt show a great drop-off in readership. Computer difficulties and other project have intervened. But now, for those interested, I publish my unpublished essay on the title above. Any editor interested in pubishing the essay officially is hereby invited to query me. That's role change, yes?
+
+
+Inductive and Deductive Poetry
+
+Upon recent reflection, I have discovered another analytic Mandala for poetry. Previously, in my Logopoetry essays, I made the following mandala, to introduce how the Logos (unattainable artistic ideal) might best be approximated through language, represented by logos, the means by which we interpret an experience of language.
+
+To quote “Logopoetry III”: “One can readily see from this construction that my idea of logos as reason is not some mummified reductionism but a dynamic balance between complimentary qualities — the Aristotelian mean, in other words . . .
+
+“The mandala is in the form of a quincunx, the Logos/logos duality being the center, where logos is the interpreting principle that connects the ideal (Logos) with the real (Art). For each of the four poles there exists an opposite quality — but not the quality it faces. Apathy, not meaning, is the opposite of feeling. And nonsense, not feeling, is the opposite of meaning. Form is not the opposite of substance. The opposite of form is formlessness or chaos. And the opposite of substance is lack of substance, or superficiality and confusion. All four qualities can be both competitive and complimentary, depending on the poem. Each of the four poles embodies a positive value and logos symbolizes the dynamic mean between these values, the balance that should best succeed at realizing the Logos, or artistic ideal.
+
+“The danger inherent in this schema is . . . not opposition but imbalance: music at the expense of substance; feeling at the expense of meaning; meaning at the expense of feeling; substance at the expense of form, and so forth. Good poetry should more often come near the cross-hairs than not. And I don't mean by this optimal intersection of qualities some homogenized mixture with exactly 25% of each. Good poetry journeys from pole to pole in the course of a narrative but without losing its balance — just as Eliot can be by turns pedantic or lyrical in his “Four Quartets.” Furthermore, there are poems that succeed with imbalance, but in such cases the dominant pole is supported by the other qualities: it does not abandon them. I don't want to argue for an orthodox requirement of balance or anything else; my theories are meant only to be a general guide and should be discarded if ever they stand in the way of good writing. But good writing is more often balanced than not.”
+
+My chief aim in my essays on Logopoetry was to elucidate the obvious and unavoidable truth that poetry imposes a meaning on us because of the brain’s long habit of trying to make sense of words. As I put it in the conclusion of “Logopoetry II”:
+
+“Intelligibility, the acknowledged cooperation of the brain's hemispheres, man's need for meaning, and the idea that language is first a vehicle for communication — these constitute the introductory principles of logopoetry.”
+
+Sometimes it strikes me as superfluous to have made these points, but for the 20th and 21st centuries I found it a necessity in understanding why I found some poetry enjoyable and some inscrutable. Of the latter I decided it was not a question of my intelligence but often intentional obscurity on the poet’s part, as if he were writing only for himself. Although the whole misdirection may have been started by Eliot, he later abandoned his allusive method in the interests of communication, as in “The Hollow Men” and “Four Quartets.” I don’t think he could have foreseen Olson’s “Maximus” poems or Deconstructionism when he penned “The Waste Land” in a sanatorium, working through his depression by way of a disconnected psychological epic, made worse by its allusions, adding pretension to its sin of obscurity.
+
+This is all old news. But it recently came to me that there was a very simple way to classify how poems are constructed, not only in this age but in all ages. If that boast seems excessive, allow me to explain the simplicity of this approach, which does not conflict with Logopoetry at all, since the two are concerned with different types of knowledge.
+
+Simply put, poems can be either deductive or inductive and open or closed.
+
+Deductive poems use figures of speech to support their assertions and observations, however far-fetched. In other words, the writer does not start in a real experience but uses experiences to advance the poem and its theme. Therefore he does not begin with, “The desert wind came up and scorched the rocks”—an actual scene—rather uses the scene to elaborate something else: “Her voice was like a desert wind that scorched the rocks.” The former line implies an inductive poem, the latter a deductive poem. Inductive poems spring from an actual experience that generates elaboration. Deductive poems mold experience for their own purposes.
+
+In addition, deductive and inductive poems can be either open or closed. Open poems invite the reader to join the author in his journey, avoiding easy conclusions, while in a closed poem the author does most of the work for us. Open poems often end in ambiguity, not certainty. They tease more than inform the reader. Closed poems usually end with a summarizing statement, however disguised by technique. In closed poems the poet tries to make his own sense of the narrative, usually near the end, with little room for negotiation with the reader.
+
+In all ages, and I suspect, all languages, these four constructions have been extant: open, inductive poems; closed, inductive poems; open, deductive poems, and closed, deductive poems. Our present age seems to favor inductive poems in general, while the Elizabethans favored deductive poems. One need only read Shakespeare’s sonnets to be assured of this. Each one strives for a resolution (often the weakest part of the poem) because he felt compelled by both the form and the culture to reach an accessible conclusion. In his early work, Wordsworth is likely the most famous practitioner of inductive poems, signaling a departure from the past—but even he, in his dotage, returned to deductive poems, such as the rightly maligned “Ecclesiastical Sonnets.”
+
+Here is my Mandala for these concepts, unfortunately unaided by the artists who refined my mandala for Logopoetry, so it will appear linear on this page:
+
+Inductive
+
+Closed X Open
+
+Deductive
+
+It is much easier to provide examples than persist in explanations. So let’s have a look at a poem by Robinson Jeffers. Overall he prefers deductive poems, but we can easily find all four types in his work.
+
+
+October Evening
+
+Male-throated under the shallow sea-fog
+Moaned a ship's horn quivering the shorelong granite.
+Coyotes toward the valley made answer,
+Their little wolf-pads in the dead grass by the stream
+Wet with the young season's first rain,
+Their jagged wail trespassing among the steep stars.
+What stars? Aldebaran under the dove-leash
+Pleiades. I thought, in an hour Orion will be risen,
+Be glad for summer is dead and the sky
+Turns over to darkness, good storms, few guests, glad rivers.
+
+
+Here is an open, inductive poem. Notice how it builds from actual experience, from the ship’s horn to the coyote’s wail. Next comes a description of October stars, and finally two lines of lingering thought about the experience, but inconclusive. They do not tell us what to think about the experience nor do they say exactly what the author thought. We learn that “summer is dead” and the days will be shorter, with “good storms, few guests, glad rivers.” Thus we think about the change in weather, the reduction in social activity, the rain that swells the rivers—but not about what we ought to feel or what this should mean to us. The ending is loose and invitational and invites further reverie.
+
+Now let’s turn to a closed, inductive poem by Frost:
+
+
+Once By The Pacific
+
+The shattered water made a misty din.
+Great waves looked over others coming in,
+And thought of doing something to the shore
+That water never did to land before.
+The clouds were low and hairy in the skies,
+Like locks blown forward in the gleam of eyes.
+You could not tell, and yet it looked as if
+The shore was lucky in being backed by cliff,
+The cliff in being backed by continent;
+It looked as if a night of dark intent
+Was coming, and not only a night, an age.
+Someone had better be prepared for rage.
+There would be more than ocean-water broken
+Before God's last “Put out the Light” was spoken.
+
+
+Notice that the first six lines are inductive; he is describing a scene. Lines seven to 12 elaborate on the natural scene, with the introduction of apocalyptic overtones. The last couplet nicely summarizes this dark sentiment, telling us that we should be prepared for even more darkness and havoc before the end of the world. The ending is a prophecy, and provokes wonder at a future imagined by the poet, but the ending is also an epitaph, emphasized by the strong, feminine, trochaic rhyme. It does not leave much wiggling room. The prophet has spoken. Inductive but closed.
+My next example is an open, deductive poem. Nearly all of Yeats’ poems are deductive, not all of them are open. He had a gift for ending deductive poems with a question, a choice, an ambiguity. Although this example is longer than I’d like, it pains me to eliminate any stanzas, so here is the thing entire:
+
+
+Sailing to Byzantium
+
+I
+
+That is no country for old men. The young
+In one another's arms, birds in the trees
+--Those dying generations—at their song,
+The salmon-falls, the mackerel-crowded seas,
+Fish, flesh, or fowl, commend all summer long
+Whatever is begotten, born, and dies.
+Caught in that sensual music all neglect
+Monuments of unageing intellect.
+
+II
+
+An aged man is but a paltry thing,
+A tattered coat upon a stick, unless
+Soul clap its hands and sing, and louder sing
+For every tatter in its mortal dress,
+Nor is there singing school but studying
+Monuments of its own magnificence;
+And therefore I have sailed the seas and come
+To the holy city of Byzantium.
+
+III
+
+O sages standing in God's holy fire
+As in the gold mosaic of a wall,
+Come from the holy fire, perne in a gyre,
+And be the singing-masters of my soul.
+Consume my heart away; sick with desire
+And fastened to a dying animal
+It knows not what it is; and gather me
+Into the artifice of eternity.
+
+IV
+
+Once out of nature I shall never take
+My bodily form from any natural thing,
+But such a form as Grecian goldsmiths make
+Of hammered gold and gold enamelling
+To keep a drowsy Emperor awake;
+Or set upon a golden bough to sing
+To lords and ladies of Byzantium
+Of what is past, or passing, or to come.
+
+
+The essence of this poem does not differ greatly from many of Shakespeare’s sonnets, where he endorses the tradition of striving for eternity not through the vicissitudes of human love, but through his art. The difference here is that Yeats does not ask for his poetry to be a claim on the everlasting, rather a gateway to eternal perfection, “Into the artifice of eternity.” So much is obvious. And that the poem is deductive also is obvious, since the first line is an assertion not based on immediate experience: “That is no country for old men.” In spite of the artifice of the poem, its beauty and philosophical implications, the ending nevertheless remains open: “Or [if I am] set upon a golden bough to sing / To lords and ladies of Byzantium / Of what is past, or passing, or to come.”
+
+In the context of the poem, a seeking after the eternal artifice of art, is it not ironic that the artificial bird set upon a golden bough sings of “what is past, or passing, or to come”? Certainly the temporal preoccupations implied make a nice foil to eternity; on the other hand, the bird is burdened with informing the ageless emperor and his retinue about the changing influence of time. In other words, someone needs to read the daily paper to God, even if he knows what it contains. The ending thus leaves the poem open, not only by its irony, but by the implication that despite the deliverance provided by perfect artifice, part of that artifice must continue to sing about the past, present, and future—things that should not concern the beings of Byzantium, who are beyond the strictures of time.
+
+Lastly there are a plethora of examples in the history of closed, deductive poems. In contrast to most of her work, it pleases me to select one by Emily Dickinson, whose open poems far outnumber the closed, though nearly all her poems are deductive.
+
+
+288
+
+I'm Nobody! Who are you?
+Are you—Nobody—Too?
+Then there's a pair of us!
+Don't tell! they'd advertise—you know!
+
+How dreary—to be—Somebody!
+How public—like a Frog—
+To tell one's name—the livelong June—
+To an admiring Bog!
+
+
+Here, uncharacteristically, Dickinson closes a deductive poem with comic derision. And given her anonymity during her lifetime (and today’s preoccupation with celebrity, which is not new but only amplified by the instantaneous media), it is heartening to find such a cheerful antidote to ambition. For her to tell us outright how dreary it is to be a “Somebody” is hardly the norm for her verse; but it supports my earlier contention that most poets use all four constructions, though many favor a particular one.
+
+Most of the poetry written before 1920 was closed and deductive. Even Keats concludes his inductive “Ode to a Grecian Urn” with a conclusion, “Beauty is truth, and truth, beauty”—something that would be out of style today. In surveying the journals that supposedly carry quality poetry nowadays, I think the reader will agree with me that editors’ favoritism extends to open, inductive poems. In the most recent issue of The New Yorker (February 19/26) there are two open, inductive poems (Sharon Olds and W. D. Snodgrass) and one deductive poem mixed with inductive elements—with a more direct conclusion (and certainly more depth) (Charles Wright). Except in the hands of the Classical Chinese poets, open, inductive poems tend to be superficial, more fleetingly impressionistic, rather than having that property of depth which makes us return to poems repeatedly. A poem we never return to is not a great poem. It is only dust on a hieroglyph, a barnacle on a sea-carved rock. What I seek in poetry is the hieroglyph and the rock, the art with staying power, alluded to by Yeats’ in his “Sailing to Byzantium,” with this difference: it is not lifeless.
+Inductive poems simulate life more particularly and therefore may deceive us into thinking that they possess more life than deductive poems, but this is only a passing illusion. There have been far more deductive poems of quality written in the history of English than other types of poems, even if it was once tradition to end poems with rather neat pronouncements. This was only a requirement of current culture, however, and does not speak to their quality.
+
+The post-modern tendency toward open, inductive poems may be a shift toward a restless audience with a reduced attention span who want their poems like films, revealing themselves in immediate scenes. Perhaps readers no longer want to have to think their way into a poem without a palpable, visual introduction. Maybe this is an advancement in art, but I don’t think so; I think it is evidence of laziness in readers and an eagerness in the more popular poets to please their diminishing audience. This latter strategy is a mistake, as the more the audience shrinks, the more poets in search of an audience will reflect whatever is vulgar enough to retain a shrinking audience. The open inductive poem may resemble a reality show in this regard, particularly if it is also confessional. Such an appeal to present cultural sensibilities is almost guaranteed to relegate a presently popular poet to future obscurity. The term “artistic whore” comes to mind—not to imply by any means that popular poetry cannot be excellent poetry. The greatest poetry is unique and universal.
+
+Certainly William Carlos Williams and Frank O’Hara must be considered lions of the open, inductive poem. “The Red Wheelbarrow” is a perfect example of the genre, and indeed, a very fine poem. But in embracing the immediate as a basis for poems there is a great risk: first in trying to attach profundity to common experience where it may not be warranted and second, to deliver no more than the experience. Poetry has always been about what is derived from experience, not just experience itself, though this never need be stated didactically within a work. But such a view is unpopular nowadays, especially if one includes the impact of performance poetry on the craft of written poetry, an interbreeding that subverts the written form by too much conversational diction.
+
+The distinctions I put forth in this essay are serendipitous. I did not spend any time dreaming them up; they descended on me of their own. But I have since had difficulty recalling a poem that does not easily lend itself to one of the aforementioned categories.
+
+What help are these distinctions, then? At the least they will help poets to be more conscious of how they write; at the most, when the history of poetry is scrutinized, they will expose our anachronistic prejudices.

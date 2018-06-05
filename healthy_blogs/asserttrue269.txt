@@ -1,0 +1,27 @@
+There's a school of thought that says that viruses originated as escaped constellations of host genes. Virus genes have to originate from somewhere. One theory is that they started with host genes.
+
+Trouble is, there's precious little evidence that viral genes originated from host genes, and plenty of evidence to the contrary. It may actually be that host genes came from viruses.
+
+To say viral genes derive from host genes is like saying hemorrhoids derive from earlobes. Any resemblance is, at best, superficial.
+
+In a previous post, I showed data for the relatively large phylogenetic distance between thymidine kinase genes in phages (viruses that attack bacteria) and their hosts. In one case, I showed that prophage genes (genes from viruses that have succeeded in integrating into the host DNA) are more similar to host genes than lytic-lifestyle phages, but even in the case of temperate phages, I think we have to be honest and say that a prophage is still an example of foreign DNA integrating into a host. (Prophage genes can usually be easily identified by their base composition, which differs noticeably from the base composition of host genes.) Once a prophage becomes fully integrated into the host, its DNA (under the influence of the host repairosome) will tend to ameliorate, taking on the base composition and other characteristics of the host DNA, making it superficially similar to host DNA.
+
+What "other characteristics" does ameliorated DNA take on? Consider codon usage patterns. Recall that the genetic code is set up in such a way that most amino acids correspond to more than one codon (three-letter pattern) in the DNA. Leucine, for example, can be encoded six different ways (namely by base patterns CTA, CTG, CTT, CTC, TTA, and TTG). Likewise, alanine can be encoded four ways (GCA, GCG, GCT, or GCC). But specific organisms develop specific patterns of codon use, preferring certain synonyms over others. For example, Clostridium botulinum (the food-poisoning bug) overwhelmingly prefers to use TTA for leucine (rarely using the other 5 synonyms), whereas E. coli strongly prefers to use CTG (choosing it four-to-one over the next-most-used leucine codon). These codon preference patterns are highly specific to a given species and are thought to be related to the numbers and types of available transfer RNAs (tRNA) in the cell, although frankly it's still an open question whether codon usage adapted to tRNA availability or the reverse.
+
+The idea that viruses mutate rapidly and evolve in close harmony with the hosts on which their reproduction depends suggests that virus codon preferences should match those of the host. (This would be particularly true if virus genes come from host genes.) Remember that a virus has no ribosomal machinery and must rely on the host's protein-making equipment in order to survive. Therefore it would make sense for a virus to adapt its codon usage patterns to the patterns most favored by the host equipment.
+
+That's not what we find. When we look at the codon usage patterns of phage T4 (a classic enterobacterial phage) versus E. coli's codon usage, we find that they differ substantially:
+
+Codon usage frequencies for T4 phage (left) and E. coli B (right).
+In this graphic, host-cell codon usage frequencies are on the right while corresponding T4 virus frequencies are on the left. Note that the T4 chromosome encodes 274 protein genes, encompassing over 50,000 codons, so the graphic is based on fairly solid numbers; variations from E. coli can't be accounted for simply by statistical noise.
+
+T4's codon preferences are so different from the host cell's, the T4 phage brings with it genes for 8 types of tRNA. But the differences in codon usage go well beyond 8 codons, so the presence of tRNA genes in T4 DNA doesn't, by itself, explain the divergence of the data.
+
+But what about temperate phages, like Fels-2 (a prophage in the Salmonella genome)? Since prophage genes are, in effect, a permanent part of the host genome, we would expect to see some amelioration of codon usage. And in fact, that is what we do see:
+
+Codon usage in Fels-2 phage (left) and Salmonella typhimurium LT2 (right).
+Here, we see that the codon usage patterns of Fels-2 and its host are quite similar. The differences are easily accounted for by the fact that Fels-2 has only 47 protein-coding genes, and the amino acid composition of those genes is probably different enough from "average" host genes to sway the usage stats to the degree shown here. Nevertheless, codon usage patterns aren't sufficient to tell us where Fels-2 genes came from originally. That's still an open question. Like the Martians in War of the Worlds, Fels-2 genes probably came from "somewhere else."
+
+Robbie: "What, you mean, like Europe?"
+
+Tom Cruise character: "No, Robbie. Not like Europe."

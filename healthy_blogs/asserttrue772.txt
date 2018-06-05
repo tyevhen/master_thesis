@@ -1,0 +1,25 @@
+From time to time, I find myself lamenting the sad state of technical documentation today. What's sad about it? Mostly the fact that it is going away.
+
+I try not to be sad, because most things that go away, go away for good reasons. Documentation is going away for many reasons. But I fear few of them are good.
+
+I think there are two main reasons for the steady disappearance of product documentation. One is that documentation is just plain expensive to produce. In my last documentation job, we had a combined doc team (across 3 geos) of around 20 people to produce user guides, admin guides, help files, release notes, developer doc, etc., for a J2EE-based suite of products that comprised somewhere around two million lines of Java code. It took a little over a year for our extended group (R&D, QA, Doc, project management, others) to crank out a major upgrade, so if you figure $80K per doc-team member (way too low if you consider HR and other burden), that's well over $1.5 million to create updated doc for a major release of a J2EE product. And that's before factoring in the enormous cost of localization.
+
+Documentation is a huge cost factor in software development, and companies are looking for ways to trim costs. If you cut back on product doc and customers don't complain, there's a temptation to keep cutting. Eventually you end up with software engineers writing bits of doc because all the tech writers were laid off, but there'll be one guy who didn't get laid off who has to work like heck to wire it all up and make it continue to look like professionally written doc.
+
+The other reason doc is going away is, who has time to read it? People expect to be able to use a product immediately. Which is fine if the product is so well designed, so "self documenting," that it needs no doc. But when is that ever the case?
+
+What do people do, though, now that so many products come with so little useful documentation? The first thing people try is the Web, of course. If there's a wiki with good info, that's what people will gravitate to. But wikis have two problems, typically: spotty coverage, and flat organization (making it hard to find things).
+
+If there's no wiki, customers will go to the user forums. This can be an excellent source of info, but again, the problem is one of organization and findability. The best information in the world is no good if you can't get to it.
+
+When busy people can't figure out how something works on their own, what then? Well, in the case of complex enterprise systems, "what then" is classroom training, quite often. You send your key people to classroom training, and they come back and transfer knowledge to others in your organization. From that point on, it's the help desk that bears the brunt of the burden.
+
+It's a sad state of affairs in some ways, but as I say, I try not to be sad about it, because there's no turning back the hands of time. There's no going back to the days of comprehensive, professionally written, properly indexed, nicely formatted, easy-on-the-eyes technical documentation. And after all, the software companies do have a legitimate point (speaking in a business sense only): If you can get away with not giving customers lavish documentation, why should you spend the money to produce it?
+
+Of course, some companies do still invest heavily in producing good documentation. Some of the biggest names in the business are in that camp. But those are the exceptions.
+
+I can think of one scenario in which it would make sense for documentation to go away, and that's if software suddenly became so self-documenting that there's no real need for documentation. Very little enterprise software falls in that category.
+
+Ironically, the main beneficiary of all this is probably Google, the everything-gateway for doc. With the decline in packaged documentation comes (inevitably) more clicks for Google. Google itself, of course, is self-documenting.
+
+Maybe that's where it all ends. Maybe Google is where doc goes to die.

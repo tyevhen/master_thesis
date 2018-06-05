@@ -1,0 +1,49 @@
+Are we living in the Twitter end times?
+
+I don't mean to imply that Twitter will cease to exist any time soon. It may well hobble on, broken and vanquished, like Yahoo or AOL, forever; and like AOL, it may well find a loving foster home (or caregiver organization that can suck the lifeblood out of its marrow before kicking it into the ditch, as the case may be).
+
+What I mean to imply by "end times" is that Twitter has long since peaked in popularity and is now clearly on a difficult path, a trajectory of travail. Dick Costolo has had almost two years (since the IPO) to turn Twitter, the public corporation, into a money-making business. That effort has failed. The company continues to burn through $50 million a month (in net losses) while struggling to keep its user numbers above 300 million. Meanwhile, over a billion people have tried Twitter, and most of them have moved on.
+
+Ben Thompson gives a good summary of Twitter's problems in his blog post of 29 April 2015. He points out:
+Twitter’s MAU [monthly active user] numbers are not necessarily what they seem, particularly from an advertising perspective. The company disclosed last year that 14% of its MAUs never visit Twitter’s website or apps; rather, these users have connected 3rd-party applications and websites that don’t display Twitter ads; for example, you can log into Twitter from Instagram in order to post a link to a photo. Moreover, that number doubled over the previous year, a stark contrast to Facebook’s 5% figure. Worse, a sizable portion of those users may be lapsed completely; according to Twitter approximately 8.5% of MAUs are due to applications that automatically ping Twitter without any user involvement.
+One example of such an application was iOS 7 Safari: in Twitter’s 2014 4Q results the company blamed its slowing user growth numbers on iOS 8, which ended Safari’s practice of pinging Twitter for its Shared Links whether or not the logged-in user ever read that section. The proper interpretation, though, was not that Twitter’s user growth numbers were accidentally and temporarily slowed, but rather that the company had been over-counting MAUs for at least a year. Add in the fact that, according to Twitter, up to 5% of MAUs are likely spam accounts, and it’s fair to wonder just how many people are actually being served ads from Twitter’s advertisers.
+The real numbers are probably far worse than Ben Thompson is saying. The idea that only 5% of users are fakes, bots, or scammers is ludicrous; it's far more likely to be north of 10%. As I reported last month, 24% of CEO Dick Costolo's own Twitter followers are abandoned accounts, bots, fakes, or otherwise defective.
+
+Also, there's the problem of duplicate accounts. Many of Twitter's most active users (including advertisers, of course; for example, Google) have multiple accounts. One spammer recently created over 700,000 individual accounts.
+
+Twitter CEO Dick Costolo looked haggard as he tried to
+explain the data leak that allowed last quarter's results
+to leak to the outside world prematurely, on 28 April.
+And then there's the bot problem. People buy and sell bot-created "Twitter users" by the thousands now.
+
+And then there's the "adult content" problem. If you're an advertiser, you probably don't want your Promoted tweet to land next to a spread-eagle shemale selfie, or other explicit material.
+
+The problems go on and on, but the main problem is: advertising on Twitter doesn't seem to be making financial sense for a lot of advertisers. This is a hard issue to dodge, because with modern analytics, it's possible for an advertiser to calculate and track, to the penny, what a customer acquisition costs. Because of the Google-inspired auction system used by Twitter, a single click on a link or Order button can cost an advertiser as much as $20. Or maybe it's "only" $2. But the point is, either way, that cost gets tracked, and ROI gets calculated, and at the end of the day there's absolutely no uncertainty around the question of whether a given Twitter ad campaign was successful or not.
+
+If you read Ben Thompson's analysis (scroll down to his "Worrying Signs From Advertisers"), it doesn't sound like advertisers are seeing proper ROI.
+
+And then there's TWTR, the stock.
+
+Ryan Terpstra, founder of Selerity
+Twitter's quarterly results famously leaked to the outside world shortly before the close of trading on April 28 (results were broadcast via the Twitter account of data-mining company Selerity), sending the stock down almost 20%. The stock had been trading at $51 before the leak. It was at $37 three days later and still hasn't recovered. Around $8 billion of market cap vanished. What was a $32 billion (market cap) company is now a $24 billion company.
+
+For Twitter stock to come back, the company (barring a sudden merger, massive layoffs, or change of management) would have to do two things. At the next earnings announcement, the company would have to show evidence of a turn toward profitability; and it would have to show evidence of a pickup in user numbers. A failure on either one of those items will result in the stock going down. (A profit alone won't save the stock. A growing user base speaks to future earnings prospects. That's what Wall St. cares about; that's how the stock is valued.)
+
+I expect to see two things happen, in the coming weeks.
+
+First, more ads in more timelines. Costolo and his CFO, Anthony Noto (who has taken over Marketing), are probably going "off the rate card" right now with big advertisers, cutting special deals right and left. They know they have to bring more money to the bottom line. That's a no-brainer.
+
+The second thing I expect to see is some kind of purge of the user base (maybe beginning with the much-anticipated porn purge) to remove bots, fakes, inactives, and undesirables. This will stir up a lot of dust and allow Costolo to do a reset on user numbers. "Sure our numbers are down this quarter!" he'll be able to boast. "Of course they are. We purged the list!" It will be impossible to know, meanwhile, what the true dropoff in users was, for the quarter. Attention will focus on earnings-per-share. Or so Costolo will be hoping. [UPDATE: Dick Costolo announced on June 11, 2015 that he would step down effective July 1.]
+
+I don't think these things will be enough. I've talked to operators of several mid-size Twitter accounts (50K followers) and they agree with me that engagement numbers seem to be going soft. One of them said: "Six months ago, I had 36,000 followers and could count on 3,000 impressions per tweet. Now I have over 40,000 followers and I'm lucky if a tweet gets past 2,400 impressions." Another person asked me if I thought Twitter was throttling traffic, the way Facebook now does. ("I doubt it," I said.)
+
+Those of us who've been with Twitter a long time (since 2009, for me) know that Twitter is its own peculiar beast; it shouldn't be compared to Facebook or other social sites. And that's true, but it's also true that in any product space, there's rarely room for more than two players at the very top (Coke and Pepsi, for example), and if it comes down to Facebook being Coke, the only Pepsi that makes sense is LinkedIn, which (unlike Twitter) is all-business, with great demographics and a great story for advertisers. If advertisers decide to write only two checks a month in the social space, one will be to Facebook. The other won't be to Twitter. And to that extent, we may be living in the Twitter end times.
+
+ ☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms lie. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+☙ ❧ 
+  Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.  

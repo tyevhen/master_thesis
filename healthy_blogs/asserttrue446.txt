@@ -1,0 +1,54 @@
+Recent reports in the literature tell of a huge crisis that has overtaken drug research. Placebos are becoming more effective, and researchers don't know what do to about it.
+
+If placebos are inert, how can they be said to be getting "more effective"? The answer is contained in articles like the one by Walsh et al. that appeared in the April 10, 2002 issue of JAMA (here) entitled "Placebo Response in Studies of Major Depression: Variable, Substantial, and Growing." The authors of this paper did a meta-analysis of 75 studies on drug treatments for major depressive disorder (MDD) that were published between 1981 and 2000. Criteria for inclusion of studies in the meta-analysis were:
+Papers must have been published in English
+Published between January 1981 and December 2000
+Studies primarily composed of outpatients with Major Depressive Disorder (not bipolar)
+Had at least 20 patients in the placebo group
+Lasted at least 4 weeks
+Randomly assigned patients to receive an antidepressant drug (or drugs) and placebo and assessed patients under double-blind conditions
+Reported the total number of patients assigned to placebo and medication group(s) as well as the number who had "responded" to treatment, as determined by a reduction of at least 50% in their score on the Hamilton Rating Scale for Depression (HRSD) and/or a Clinical Global Impression (CGI) rating of markedly or moderately improved (CGI score of 1 or 2)
+The results (with regression curves) are depicted in the scatter-plot shown below.
+
+
+
+The response to placebo in these studies varied from 10% to more than 50%. Over time, placebo response increased by an average of 7% per decade, going from 21% in 1981 to 35% in 2000.
+
+Interestingly, it wasn't just placebo response that went up in this time frame. Drug response went up too, at nearly the same rate as placebo response.
+
+It should be noted that in 38 of the 75 studies included in the above meta-analysis, patients were allowed to take "concomitant medications" (mostly benzodiazepines) for insomnia and anxiety throughout the studies. This is, unfortunately, a common practice in antidepressant trials and tends to confound results, since sleeping better (by itself) can swing a person's HRSD score by 6 points. (The average HSRD score of patients in the 75 studies was 22.5.)
+
+It's also worth noting that 74.7% of trials in the above meta-analysis allowed for a one- to two-week placebo run-in period, to eliminate "placebo responders." (In this period, subjects are given placebo only; anyone who improves on placebo during the run-in phase is then removed from the study group.) It's a way to skew results in favor of the drug, and reduce placebo scores. But it obviously doesn't work very well.
+
+The Walsh meta-analysis is 11 years old, but more recent studies have found the same results, except that drug response doesn't go up as fast as placebo response. For example, a 2010 report by Khan et al. found that the average difference between drug and placebo in published antidepressant trials has gone from an average of 6 points on the HRSD in 1982 to just 3 points in 2008. In the U.K., antidepressants are considered not to meet clinical usefulness standards (as set by the National Institute for Health and Clinical Excellence) when there is less than a 3-point HRSD difference between drug and placebo. (In the well-known 2008 meta-analysis by Kirsch et al., it was found that SSRIs improved the HRSD score of patients by only 1.8 points more than placebo.)
+
+Rising placebo response rates are seen as a crisis in the pharma industry, where psych meds are runaway best-sellers, because it impedes approval of new drugs. Huge amounts of money are on the line.
+
+In a January 2013 paper in The American Journal of Psychiatry, Columbia University's Bret R. Rutherford and Steven P. Roose try to find explanations for the mysterious rise in placebo response rates. The causal factors they came up with are shown below.
+
+Increase Placebo Response Decrease Placebo Response Strength of Evidence
+More study sites Fewer study sites Strong
+Poor rater blinding Good rater blinding Strong
+Multiple active treatment arms Single active treatment arm Strong
+Lower probability of receiving placebo Higher probability of receiving placebo Strong
+Single baseline rating Multiple baseline ratings Medium
+Briefer duration of illness in current episode Longer duration of illness in current episode Medium
+More study visits Fewer study visits Medium
+Recruited volunteers Self-referred patients Weak
+Optimistic/enthusiastic clinicians Pessimistic/neutral clinicians Weak
+ from Rutherford & Roose, Am J Psychiatry. 2013 Jan 15
+
+Of all the factors discussed by Rutherford and Roose, the one that has the most potential for explaining the rise in placebo response is the way volunteers are recruited into studies. In the 1960s and 1970s, study participants were mostly unpaid inpatients. Today they're paid outpatients, recruited via advertising. In days past, studies were conducted mostly by universities or research hospitals. Today it's almost all outsourced to CROs (Contract Research Organizations), who attract clientele via web, radio, magazine, and newspaper advertising. More often than not, CRO study volunteers are people without medical insurance looking to make extra money while getting free medical care to boot. Most are only too happy to tell doctors whatever they want to hear.
+
+It's well known that most drug trials have a hard time getting enough sign-ups (this is mentioned in Ben Goodacre's Bad Pharma as well as Irving Kirsch's The Emperor's New Drugs). This creates an incentive for initial-assessment interviewers to score marginal volunteers (e.g. those who are on the borderline of meeting minimum HSRD scores for depression) liberally, to get them into a study. That can be enough to degrade signal disastrously, in studies that look for a difference between an antidepressant and a placebo. Kirsch and others have shown that drug/placebo differences are relatively faint and hard to detect in less-severely-depressed patients, across a large number of different antidepressant types, new and old.
+
+Which brings up a rather embarrassing point. If antidepressants were anywhere near as effective as drug companies would have us think, no one should have to squint very hard to distinguish their effects from a placebo. The fact that the drug industry has a "placebo crisis" at all is telling. It says the meds we're talking about aren't powerful at all. They're nothing like, say, insulin for diabetes.
+
+Whatever the underlying cause(s) of the Placebo Crisis, drug companies consider it very real and very troubling. They're willing (as usual) to do whatever it takes to make the problem go away. And that includes some interesting new kinds of salami-slicing in the area of experimental protocol design. In tomorrow's blog: a look at efforts to patent dodgy protocol designs.
+
+
+❉
+ 
+Buy my books (or click to find out more, at least):
+
+Have you added your name to our mailing list?

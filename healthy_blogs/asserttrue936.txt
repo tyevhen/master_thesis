@@ -1,0 +1,7 @@
+I blogged a while ago about continuations, which may play a role in making AJAX scale well. Today I learned that continuations have been implemented (on an experimental basis) in Mono's virtual machine.
+
+I'm not a Python person so I didn't realize (until after Googling around a bit) that the so-called microthreads of Stackless Python are a way of achieving the same thing.
+
+The key intuition behind stacklessness is that you move everything that would normally be kept on "the stack" out to a data structure on the heap. Therefore one thread can jump between potentially tens of thousands of execution frames.
+
+The ability to run huge numbers of processes concurrently is obviously important in many kinds of applications. If AJAX becomes another driver of this technology, it'll be interesting to see who'll be first to implement a stackless-Java virtual machine.

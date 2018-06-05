@@ -1,0 +1,65 @@
+If you've spent far too much time messing around with Twitter (as I have), you've probably run into a few brutal "learnings," such as the fact that 97% of your Followers are not online at any given moment (and therefore will never see what you tweet), and only a percent or so of the people who do see your tweets will click on any embedded links. Which means Twitter is a very-low-power way of reaching people. If you have 50,000 Followers, only 1,000 to 2,000 will see a given tweet, and only 10 to 20 people will click the URL in the tweet. (Check your analytics at https://ads.twitter.com/user/username/tweets to see what I mean.) This kind of pathetic low-impact "reach" is why Twitter is in trouble right now. Marketers know Twitter is a terrible way to reach buyers.
+
+To reach more people, you have only a few options:
+Gain more real followers (not fake followers). This isn't something you buy. It's something you work at.
+Tweet more often. 
+Set up more than one account. (Some marketers, like Forbes Top 50 Social Media Influencer @CHRISVOSS, have 7 or more accounts.) Twitter will let you have as many accounts as you have e-mail addresses.
+If you start to do these things, you'll quickly reach a point where it's unmanageable without proper tools. The native Twitter UI simply isn't suitable for things like mass follow/unfollow, discovery of non-followbacks, scheduling of tweets, etc.
+
+Quite a few third-party apps exist now for managing Twitter accounts. Different ones do different things well. Almost all offer a crippleware (free) version plus various paid editions. The good news is, you can accomplish just about everything you need to do with the free versions. (The bad news is, almost all of these tools have recently reset their daily limits to fall in line with various Twitter "best practices"; and some of the daily limits, on free versions of the tools, are absurdly low.) Let me tell you what I use.
+
+My main WMD, at the moment, is Tweepi, an all-purpose tool that will let you discover non-followbacks, do mass follows/unfollows, Safe List people, and much more.
+
+Tweepi. Click to enrage.
+
+Tweepi recently underwent a massive UI overhaul. Frankly, the new UI is highly functional but also annoyingly cluttered. Plus, the new daily limit structure is downright horrible. You can follow up to 500 new people a day (which is good), but can unfollow only 200 a day (bad). In the Platinum ($15/mo.) version, you can load 200 rows of data per screen (instead of 40, in the free version) and the limits are higher: follow 950 a day, unfollow 500. My advice: Live with the free version. It does the job.
+
+One thing you'll notice about all of the free tools is that they require a lot of click-click-clicking. You have to click a button for every individual you want to follow/unfollow (because Twitter asked the appmakers to eliminate one-click bulk ops). The workaround for this is to cobble together some bookmarklet code that automates the clicking of all action buttons. Tweepi thoughtfully provides a bookmarklet for this (at least for its Platinum customers; but write to them and demand the code, if you're a free user). It's a lifesaver, because otherwise, to follow 500 people you'll be manually clicking 500 buttons. If you're handy with JavaScript, you can put the necessary code together yourself. Tip: The better tools (such as Tweepi and ManageFlitter) use jQuery in the background, which means you can just call click() on any DOM node to spoof a click. (See below.)
+
+A huge problem with Tweepi is that if you follow 500 people a day, the 200-unfollows-a-day limitation will quickly put you in a situation of violating Twitter's followee/follower ratio limitations, at which point your account will be capped for follows. (To stay out of trouble, your followee count needs to be no more than 110% of your follower count.) You need a mass-unfollow tool that will let you drop more than 200 people at a time (here, I'm talking about people who aren't following you back on Twitter).
+
+The mass-unfollow tool you need is ManageFlitter. Just create a free account and use the UI to Unfollow people. When you reach the 100-person-a-day limit, a prompt will appear at the top of the screen telling you how to unlock a further 700 unfollows/day by doing a few simple things like signing up for the ManageFlitter newsletter and tweeting a one-time promo tweet (which you can Delete immediately; just saying). Note that to follow people with ManageFlitter, you need to be a paying customer (at $12 a month). But you can unfollow 800 a day for free.
+
+ManageFlitter has powerful tools, but many are locked in the free version.
+
+To gang-unfollow people in ManageFlitter, you need a bookmarklet that contains the following code:
+
+javascript:b = document.getElementsByClassName("process mode-basic Unfollow");
+
+for (var i=0;i< 50; i++)
+
+    b[i].click();
+
+NOTE: Be sure to put the code all on one line, because a bookmarklet is actually a URL (which has to begin with the javascript: URL scheme rather than http:). Put the bookmarklet in your button bar, and you're all set. You can Unfollow 50 people at a click.
+
+The only bad thing I can say about ManageFlitter, aside from the fact that the free version allows you only to Unfollow, not Follow, is that it takes 5 minutes or so to load your account (if you have more than a couple thousand followers). Allow for a coffee break while loading.
+
+If you need a free tool for automating scheduled tweets, you need Twuffer. This is an admirably streamlined, well-behaved app that does one thing well: offline tweet scheduling. Sadly, it does not yet support image tweets. (And there seems to be a bug with tweets scheduled for midnight to 12:59 a.m.) But hey, it's free. And it (mostly) works.
+
+Twuffer is a good tweet scheduling tool. And the price is right (free).
+
+For all-around Twitter account management with automated DMs, many people like Crowdfire (formerly JustUnfollow). I happen to hate it. I don't like automated "welcome" DMs, and I don't much care for Crowdfire's non-jQuery-enabled, click-intensive, space-wasting UI, nor do I appreciate the ridiculous 25-a-day Follow limit on the crippleware (free) version of the tool.
+
+Crowdfire (formerly JustUnfollow) is much beloved by some. I happen to hate it.
+
+Even so, Crowdfire has millions of users who seem to find the product irresistible, so by all means give it a look and decide for yourself. (You might like their Instagram automation features.)
+
+Bottom line: As free tools go, Tweepi is still hard to beat (and you might enjoy the new UI more than I do), though the 200-a-day unfollow limit will probably drive you nuts. For better unfollowing capability, use ManageFlitter (and consider the paid version). For tweet scheduling, use Twuffer.
+
+If you found this post helpful, please share it. Thanks!
+
+❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more (documented, with links to sources). And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+
+ ❧ 
+
+Retweet this post! Many thanks to the great folks who retweeted me yesterday:
+
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression. 

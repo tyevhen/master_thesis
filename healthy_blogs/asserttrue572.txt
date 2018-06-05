@@ -1,0 +1,241 @@
+I came up with kind of a neat trick I'd like to share. If you're an HTML canvas programmer, listen up. You just might get a kick out of this.
+
+You know how, when you're loading images in canvas (and then fiddling with the pixels using canvas API code), you have to load your scripts and images from the same server? (For security reasons.) That's no problem for the hard-core geeks among us, of course. Many web developers keep a local instance of Apache or other web server running in the background for just such occasions. (As an Adobe employee, I'm fortunate to be able to run Adobe WEM, aka Day CQ, on my machine.) But overall, it sucks. What I'd like to be able to do is fiddle with any image, taken from any website I choose, any time I want, without having to run a web server on my local machine.
+
+So, what I've done is create a Chrome extension that comes into action whenever my browser is pointed at any URL that ends in ".png" or ".jpg" or ".jpeg". The instant the image in question loads, my extension puts it into a canvas element, re-renders it, and exposes its 2D context for scripts to work against.
+
+For demo purposes, I've included some code for making gamma adjustments to the image via canvas-API calls (which I'll talk more about later).
+
+The code for the Chrome extension is shown below. To use it, do this:
+
+1. Copy and paste all of the code into a new file. Call it BrightnessTest.user.js. Actually, call it whatever you want, but be sure the name ends with .user.js.
+
+2. Save the file (text-only) to any convenient folder.
+
+3. Launch Chrome. (I did all my testing in Chrome. The extension should be Greasemonkey-compatible, but I have not tested it in Firefox.) Use Control-O to bring up the file-open dialog. Navigate to the file you just saved. Open it.
+
+4. Notice at the very bottom of the Chrome window, there'll be a status warning (saying that extensions can harm your loved ones, etc.) with two buttons, Continue and Discard. Click Continue.
+
+5. In the Confirm Installation dialog that pops up, click the Install button. After you do this, the extension is installed and running.
+
+Test the extension by navigating to http://goo.gl/UQpRA (the penguin image shown in the above screenshots). Please try a small image (like the penguin) first, for performance reasons. Note: Due to security restrictions, you can't load images from disk (no file: scheme in the URL; only http: and/or https: are allowed). Any PNG or JPG on the web should work.
+
+When the image loads, you should see a small slider underneath it. This is an HTML5 input element. If you are using an obsolete version of Chrome, you might see a text box instead.
+
+If you move the slider to the right, you'll (in effect) do a gamma adjustment on the image, tending to make the image lighter. Move the slider to the left, and you'll darken the image. No actual image processing takes place until you lift your finger off the mouse (the slider just slides around until a mouseup occurs, then the program logic kicks in). After the image repaints, you should see a gamma curve appear under the slider, as in the examples above.
+
+Here's the code for the Chrome extension:
+
+// ==UserScript==
+// @name           ImageBrightnessTool
+// @namespace      ktBrightnessTool
+// @description    Canvas Image Brightness Tool
+// @include        *
+// ==/UserScript==
+
+
+
+// A demo script by Kas Thomas.
+// Use as you will, at your own risk.
+
+
+// The stuff under loadCode() will be injected
+// into a <script> element in the page.
+
+function loadCode() {
+
+window.LUT = null;
+
+// Ken Perlin's bias function
+window.bias = function( a, b)  {
+ return Math.pow(a, Math.log(b) / Math.log(0.5));
+};
+
+window.createLUT = function( biasValue ) {
+ // create global lookup table for colors
+ LUT = createBiasColorTable( biasValue );
+};
+
+window.createBiasColorTable = function( b ) {
+
+ var table = new Array(256);
+ for (var i = 0; i < 256; i++)
+  table[i] = applyBias( i, b );
+ return table;
+};
+
+window.applyBias = function( colorValue, b ) {
+   
+ var normalizedColorValue = colorValue/255;
+ var biasedValue = bias( normalizedColorValue, b );
+ return Math.round( biasedValue * 255 );
+};
+
+window.transformImage = function( x,y,w,h ) {
+      
+ var canvasData = offscreenContext.getImageData(x,y,w,h);
+ var limit = w*h*4; 
+  
+ for (i = 0; i < limit; i++)  
+  canvasData.data[i] = LUT[ canvasData.data[i] ]; 
+  
+ context.putImageData( canvasData,x,y );
+};
+
+
+// get an offscreen drawing context for the image
+window.getOffscreenContext = function( w,h ) {
+   
+ var offscreenCanvas = document.createElement("canvas");
+ offscreenCanvas.width = w;
+ offscreenCanvas.height = h;
+ return offscreenCanvas.getContext("2d");
+};
+
+window.getChartURL = function() {
+ 
+ var url = "http://chart.apis.google.com/chart?";
+ url += "chf=bg,lg,0,EFEFEF,0,BBBBBB,1&chs=100x100&";
+ url += "cht=lc&chco=FF0000&&chds=0,255&chd=t:"
+ url += LUT.join(",");
+ url += "&chls=1&chm=B,EFEFEF,0,0,0";
+ return url;
+}
+
+setupGlobals = function() {
+
+ window.canvas = document.getElementById("myCanvas");
+ window.context = canvas.getContext("2d");
+ var imageData = context.getImageData(0,0,canvas.width,canvas.height);
+ window.offscreenContext = getOffscreenContext( canvas.width,canvas.height );
+ window.offscreenContext.putImageData( imageData,0,0 );
+};
+
+setupGlobals();  // actually call it
+
+} // end loadCode()
+
+
+
+/* * * * * * * * * main() * * * * * * * * */
+
+(function main( ) {
+
+ // are we really on an image URL?
+ var ext = location.href.split(".").pop();
+ if (ext.match(/jpg|jpeg|png/) == null )
+    return;
+
+ // ditch the original image
+ img = document.getElementsByTagName("img")[0];
+ img.parentNode.removeChild(img); 
+
+ // put scripts into the page scope in 
+ // a <script> elem with id = "myCode"
+ // (we will eval() it in an event later...)
+ var code = document.createElement("script");
+ code.setAttribute("id","myCode");
+ document.body.appendChild(code);  
+ code.innerHTML += loadCode.toString() + "\n";
+
+ // set up canvas
+ canvas = document.createElement("canvas");
+ canvas.setAttribute("id","myCanvas");
+ document.body.appendChild( canvas );
+
+ context = canvas.getContext("2d");
+
+ image = new Image();
+
+ image.onload = function() {
+
+  canvas.width = image.width;
+  canvas.height = image.height;
+       context.drawImage(image,0, 0,canvas.width,canvas.height );            
+ };
+
+ // This line must come after, not before, onload!
+ image.src = location.href;
+
+ createSliderUI( );  // create the slider UI
+ createGoogleChartUI( );  // create chart UI
+
+
+ function createGoogleChartUI( ) {
+  // set up iframe for Google Chart
+  var container = document.createElement("div");
+  var iframe = document.createElement("iframe");
+  iframe.setAttribute("id","iframe");
+  iframe.setAttribute("style","padding-left:14px");
+  iframe.setAttribute("frameborder","0");
+  iframe.setAttribute("border","0");
+  iframe.setAttribute("width","101");
+  iframe.setAttribute("height","101");
+  container.appendChild(iframe); 
+  document.body.appendChild(container);
+ }
+ 
+
+ // Create the HTML5 slider UI
+ function createSliderUI( ) {
+
+  var div = document.body.appendChild( document.createElement("div") );
+       var slider = document.createElement("input");
+  slider.setAttribute("type","range");
+  slider.setAttribute("min","0");
+  slider.setAttribute("max","100");
+  slider.setAttribute("value","50");
+  slider.setAttribute("step","1");
+
+  // if code hasn't been loaded already, then load it now
+  // (one time only!); update the slider range indicator;
+  // create a color lookup table
+  var actionCode = "if (typeof codeLoaded == 'undefined')" +
+   "{ codeLoaded=1; " + 
+   "code=document.getElementById(\"myCode\").innerHTML;" +
+   "eval(code); loadCode(); }" +
+   "document.getElementById(\"range\").innerHTML=" +
+   "String(this.value*.01).substring(0,4);" +
+   "createLUT( Number(document.getElementById('range').innerHTML) );" 
+   
+      
+  slider.setAttribute("onchange",actionCode);
+
+
+  // The following operation is too timeconsuming to attach to
+  // the onchange event. We attach it to onmouseup instead.
+  slider.setAttribute("onmouseup",
+   "document.getElementById('iframe').src=getChartURL();"+
+   "transformImage(0,0,canvas.width,canvas.height);");
+  
+  div.appendChild( slider );
+  div.innerHTML += '<span id="range">0.5</span>';
+  
+ }
+
+ 
+})();
+
+This code is a little less elegant in Chrome than it would have been in Firefox (which, unlike Chrome, supports E4X and exposes a usable unsafeWindow object). The code does, however, illustrate a number of useful techniques. To wit:
+
+1. How to swap out an <img> for a canvas image.
+2. How to draw to an offscreen context.
+3. How to inject script code into page scope, from extension (gmonkey) scope.
+4. How to use the HTML5 slider input element.
+5. How to change the gamma (or, colloquially and somewhat incorrectly, "brightness") of an image's pixels via a color lookup table.
+6. How to use Ken Perlin's bias( ) function to remap pixel values in the range 0..255.
+7. How to display the resulting gamma curve (actually, bias curve) in a Google Chart in real time.
+
+That's a fair amount of stuff, actually. Discussing it could take a long time. The code's not long, though, so you should be able to grok most of it from a quick read-through.
+
+The most important concept here, from an image processing standpoint, is the notion of remapping pixel values using a pre-calculated lookup table. The naive (and very slow) approach would simply be to parse pixels and do a separate bias() call on each red, green, or blue value in the image. But that would mean calling bias() hundreds of thousands of times (maybe millions of times, in a sizable image). Instead, we create a table (an array of size 256) and remap the values there once, then look up the appropriate substitution value for each color in each pixel, rather than laboriously calling bias() on each color in each pixel.
+
+If this is the first time you've encountered Ken Perlin's bias() function, it's actually a very important class of function to understand. Fundamentally, it remaps the unit interval (that is, real numbers in the range 0..1) to itself. With a bias value of 0.5, all real numbers from 0..1 map to their original values. With a bias value less than 0.5, the remapping is swayed in the manner shown in the screenshot above, on the right. A bias value greater than 0.5 bends the curve in exactly the opposite direction. But in any case, 0 always ends up mapping to zero and 1 always maps to one, no matter what the bias knob is set to. The function is, in that sense, nicely normalized.
+
+Bias is technically quite a bit different from a true "gamma" adjustment. Gamma curves come from a different formula and they don't have the desirable property of mapping onto the unit interval or behaving intuitively with respect to the 0.5 midpoint. Nevertheless, because "gamma" is more familiar to graphic artists, I've (ab)used that word throughout this post, and even in the headline. (Shame on me.)
+
+The performance of the bias code is surprisingly poor in this particular usage (as a Chrome extension). On my Dell laptop, I see processing at a rate of just under 50,000 pixels per second. The same bias-lookup code running in a normal web page (not a Chrome extension that injects it into page scope) goes about ten times faster. Yes, an order of magnitude faster. In a native web page, I can link the image transformation call to an onchange handler (so that the image -- even a large one -- updates continuously, in real time, as you drag the slider) -- that's how fast the code is in some of my other projects. But in this particular context (as a Chrome extension) it seems to be dreadfully slow, so I've hooked the main processing routine to an onmouseup handler on the slider. Otherwise the slider sticks.
+
+Anyway, I hope the techniques in this post have whetted your appetite for more HTML5 canvas explorations. There are some great canvas demos out there, and I'll be delving into some more canvas scripting techniques in the not-so-distant future.
+
+Happy pixel-poking!

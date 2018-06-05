@@ -1,0 +1,25 @@
+Years ago, when I was first learning to program, I ran into a problem with some code I was writing, and I asked my mentor (an extraordinarily gifted coder) for some help. He listened as I described the problem. I told him all the things I had tried so far. At that time, I was quite enamored of the Think C development environment for the Mac. It had a fine step-thru debugger, which I was quite reliant on.
+
+My mentor suggested a couple more approaches to try (and when I tried them, they worked, of course). Then he made a remark that has stayed with me ever since.
+
+"I try to stay away from debuggers," he said. "A debugger is a crutch. You're better off without it."
+
+I was speechless with astonishment. Here was someone who wrote massive quantities of Pascal and assembly for a wide variety of platforms -- and he never used a debugger! I couldn't have been more shocked if he told me he had perfected cold fusion.
+
+"If you get in the habit of using a debugger," my mentor pointed out, "you'll get lazy. A certain part of your brain shuts off, because you expect the debugger to help you find the bug. But in reality, you wrote the bug, and you should be able to find it."
+
+Still stunned, I asked: "What do you do when you have a really nasty bug?"
+
+He said something I'll never forget. "I make the machine tell me where it is."
+
+Make the machine tell you where the bug is. What a wonderful piece of advice. It's the essence of troubleshooting, whether you're trying to fix a car that won't start, trace an electrical fault, or debug a piece of software.
+
+My friend (who did a lot of "realtime" programming in assembly, among other things) pointed out to me that there are many programming scenarios in which it's impossible to run a debugger anyway.
+
+I took my mentor's advice and stopped using a step-through debugger. The only real debugger I continued to use (at that time) was Macsbug, which I occasionally invoked in order to inspect the heap or see what was going on in a stack frame.
+
+Sure enough, I found that once I stopped using a step-thru debugger, my coding (and troubleshooting) skills improved rapidly. I spent less time in "endless loops" (fruitless troubleshooting sessions) and got to the source of problems quicker. I learned a lot about my own bad coding habits and developed a renewed appreciation for the importance of understanding a language at a level deeper than surface-syntax.
+
+To this day, I avoid step-thru debugging, and find myself better off for it.
+
+If you do a lot of step-thru debugging, try this as an exercise. For the next month, don't use a debugger. See if you can walk without crutches for a change. I'm betting you'll lose the limp in no time.

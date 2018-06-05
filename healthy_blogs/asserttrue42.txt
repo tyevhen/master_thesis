@@ -1,0 +1,31 @@
+Plastic-eating worms are here! Oh my God, the planet has been saved! We can throw cups in the ocean again! Or at least: We don't have to worry quite so much about pollution, because a solution to our environmental problems may be on the horizon.
+
+Such is the (misplaced) enthusiasm with which recent reports of the work of Yang et al. (2015) have been greeted. "Mealworms may help fight our plastic waste problem" (CNN). "Plastic-eating worms to ease pollution problems" (UPI). The headlines are all over the Internet. The report on phys.org got 17,000 social shares.
+
+Let's be honest, it is kind of cool to see that mealworms (the larvae of Tenebrio molitor Linnaeus) can eat through styrofoam. Who knew, right?
+
+Mealworms eating styrofoam.
+But let's be honest about something else, which is that mealworms aren't going to make a serious dent in our polymer-disposal problem any time soon. Industrial countries produce 140 million tons of synthetic polymers per year—somewhere around 20 kilos per human being on earth, per year. Most of it ends up in landfills; some ends up in the ocean. None of that material degrades quickly. Heck, even organic waste takes forever to decompose:
+William Rathje, the late Arizona paleontologist and founder of the Tucson Garbage Project, revealed that even after years underground, chicken bones still had meat on them, grass was still green and that even carrots still maintained their orange color.
+(From a story at phys.org.)
+
+And frankly, although I certainly don't mean to suggest Yang et al. have produced bad science (because they haven't), I have to consider the mealworm/styrofoam experiment the equivalent of a scientific parlor trick. What's really going on here (of course) is that the microorganisms in the gut of the mealworm are digesting the plastic. Right? And we've known about such microorganisms for at least 30 years. (See a full review here.)
+
+Forty years ago, as a grad student in microbiology, I remember sitting in the first row at a seminar by Ananda Mohan Chakrabarty, who spoke about GE's efforts to develop a microorganism that could eat oil spills. In 1971, four species of petroleum-metabolizing bacteria were known to exist. But when introduced into an oil spill, the organisms tended to compete with each other, limiting the amount of crude oil that could be degraded. It turned out the genes necessary to degrade oil were carried on plasmids (small accessory chromosomes), which could be transferred among species. Dr. Chakrabarty discovered a genetic technique that fixed all four plasmid genes in place and produced a new, stable, bacteria species (now called Pseudomonas putida) capable of consuming oil one to two orders of magnitude faster than the previous four strains of oil-eating microbes. The new microbe, which Chakrabarty called "multi-plasmid hydrocarbon-degrading Pseudomonas," could digest about two-thirds of the hydrocarbons that would be found in a typical oil spill.
+
+Chakrabarty famously applied for a patent (for GE)—the first U.S. patent for a genetically modified organism. The patent application was initially denied by the Patent Office because it was felt that existing patent laws precluded patents on living organisms. The Supreme Court found otherwise. In 1980, the Supremes (Diamond v. Chakrabarty) determined:
+A live, human-made micro-organism is patentable subject matter under [Title 35 U.S.C.]. Respondent's micro-organism constitutes a "manufacture" or "composition of matter" within that statute.
+And so, Chakrabarty's research paved the way for many patents on genetically modified micro-organisms and other life forms.
+
+As it turns out, bioremediation of oil spills is now modestly successful, although it tends to work better for light, sweet crudes than for heavy asphaltic (e.g., Gulf of Mexico) crudes. (See overview here.) But obviously, the long-term answer to oil spills is not to wantonly drill for oil in the open ocean (or if you do, build in more-than-adequate containment strategies in case of disaster; something we're bad at, apparently). Just like, the answer to styrofoam in the ocean isn't mealworms; it's to produce less styrofoam.
+
+Degradable, bio-based alternatives to plastic exist for things like cups, bags, bottles, and "packing peanuts." Industry doesn't use them because it's cheaper to stay addicted to petrochemicals. Left to itself, industry will never move off of petroleum. We've had the materials, and the microorganisms, to "do something" about plastic waste for decades. Getting to the next level will take political will, and leadership—two things that are now very much endangered, in this petroleum-driven world.
+
+❉
+
+A big thank-you to all the great people who retweeted me yesterday:
+
+
+
+Buy my books (or click to find out more, at least):
+Have you added your name to our mailing list? Thank you. Be well.

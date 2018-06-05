@@ -1,0 +1,115 @@
+Mega6 is a popular freeware program for creating phylogenetic trees and sequence alignments, analyzing gene sequence data, performing various calculations (such as Tajima's D), computing pairwise distances between sequences, and doing lots of other types of genetic analysis. This program is widely used and is based partly on the work of Masatoshi Nei, the famed Penn State molecular geneticist and author of the seminal book Mutation-Driven Evolution (which I highly recommend). You need this program if you're into molecular genetics.
+
+In my last post, I showed a phylogenetic tree that I created in Mega6 for thymidine kinases of phages and hosts. You can make trees of this sort yourself in a matter of minutes using Mega6. Let me take you through a quick example.
+
+Here's how to recreate the tree involving thymidine kinase. Further below, I've listed the FASTA sequences you'll need. Obviously, you can obtain your own sequences from Uniprot.org or other sources, if you want to make your own phylo trees based on other sequences.
+
+All you have to do is Copy and Paste FASTA sequences into the Alignment Explorer window of Mega6, then generate a Maximum Likelihood tree (or a Parsimony Tree, or whatever kind of tree your prefer).
+
+Here's the exact procedure:
+Fire up Mega6.
+Click the Align button in the main taskbar. (See screenshot below.)
+Choose Edit/Build Alignment from the menu that pops up. A new window will open. (Note: A dialog may ask you if you are creating a new data set; answer Yes. A dialog may also appear asking whether the alignment you're creating will involve DNA, or Proteins. If you're using the amino-acid sequences shown further below, click Proteins.)
+In Mega6, click the Align button on the left side of the taskbar. Select Edit/Build Alignment.
+Paste FASTA sequences into the Alignment Explorer window. 
+Select All (Control-A).
+Choose Align by ClustalW from the Alignment menu. An alignment options dialog will appear. Accept all defaults by clicking OK.
+After the alignment operation finishes (it takes 5 seconds), go to the menu and choose Data > Export Alignment > Mega Format. Save the *.meg file to disk.
+Now go back to the main Mega6 window and click the Phylogeny button in the taskbar. A menu will drop down.
+Select the first item: Construct/Test Maximum Likelihood Tree. A dialog will appear asking if you want to use the currently active data set. Click No. This will bring up a file-navigation dialog. Use that dialog to find the *.meg file you created in Step 7. Select that file and click Open.
+A tree options dialog will appear. If you just want to see a tree quickly, accept the defaults and click OK. The tree will take less than 10 seconds to generate. If you want to do a test of phylogeny (this part isn't obvious!), click the item to the right of "Test of Phylogeny" (see the graphic below) and choose "Bootstrap method," then set the number of bootstraps using the dropdown menu (see screenshot below).
+Click the Compute button to build the tree.
+If you want to do bootstrap validation of tree nodes, you have to click the yellow area to the right of Test of Phylogeny. (See red arrow above.) Choose Bootstrap Method. Then set Number of Bootstraps to 500.
+
+Note that if you choose to do a bootstrap test of phylogeny, the tree may take 5 minutes or more (possibly much more) to build, depending on how many nodes it contains. Bootstrapping is a compute-intensive operation. The idea behind bootstrap testing is that node assignments in phylo trees are often uncertain, and one way to check the robustness of a given assignment is to systematically introduce noise into the data to see how readily a node can be made to jump branches. A node that can easily be tricked into jumping to a different spot in the tree is untrustworthy. The bootstrap test attempts to quantify the degree of reliability of the node assignments. Usually, you want to do at least several hundred tests (500 is considered adequate). If a given node jumps branches in half the tests, the tree will carry "50" (meaning 50% confidence) at the top of the branch, meaning there's a only 50% certainty that that particular node assignment is correct as to branch location. A tree where all the branches have numbers greater than 50 can usually be considered reliable. 
+
+Mega6 will output Maximum Likelihood trees, parsimony trees, and other types of trees, and the program will do an amazing variety of calculations and statistical tests. Most times, you can save analyses in Excel format, which of course is a godsend in case you need to do additional analysis that can't be done in Mega6. The documentation contains many helpful tutorials; be sure to give it a look.
+
+If I had a wish-list for Mega6, it would be quite short. Mainly I'd like to be able to see quick graphic summaries of things like the ratio of synonymous to non-synonymous mutations in two DNA sequences. (The data for this is available via the HyPhy command under the Selection taskbar button, but only as raw spreadsheet data; you have to sum the columns yourself in Excel to get certain kinds of summaries, and if you want a graph, you have to create it yourself. This is hardly a major drawback. Still, it would be nice to see more summary data, quickly, in graphical form.) When you align two or more genes in the Alignment Editor, it shows asterisks above the identical nucleotides, but doesn't show percent identity anywhere, nor percent "positives" for amino acid data. The Alignment Editor also doesn't respond properly (worse: it responds inappropriately) to mouse-wheel actions, jumping to the end of a file horizontally when you wanted to wheel-scroll vertically.
+
+Also mildly annoying: the tree renderings are bitmaps; I would much prefer to see SVG (Scalable Vector Graphics) format, which in addition to being infinite-resolution (vector format) also allows easy editing of line widths, colors, fonts, labels, etc. in a simple text editor. As it is now, to edit line widths or colors in phylo-trees, you have to drag out Photoshop.
+
+But overall, I have few significant complaints (and much praise) for Mega6. It's an immensely powerful program, it's fast, it's quite intuitive, and the best part is, it's free. (For a more detailed commentary on the program's design philosophy and capabilities, see this excellent 2011 paper by Tamura, Nei, et al. It was written at the time of Mega5, but applies equally to Mega6.)
+
+Below are the FASTA sequences used in making the phylo tree for yesterday's post. You can Cut and Paste these sequences directly into Mega6's Alignment Explorer:
+
+>sp|P13300|KITH_BPT4 Enterobacteria phage T4 
+MASLIFTYAAMNAGKSASLLIAAHNYKERGMSVLVLKPAIDTRDSVCEVVSRIGIKQEAN
+IITDDMDIFEFYKWAEAQKDIHCVFVDEAQFLKTEQVHQLSRIVDTYNVPVMAYGLRTDF
+AGKLFEGSKELLAIADKLIELKAVCHCGKKAIMTARLMEDGTPVKEGNQICIGDEIYVSL
+CRKHWNELTKKLG
+>tr|S5MKX8|S5MKX8_9CAUD Yersinia phage PST 
+MASLIFTYAAMNAGKSASLLTAAHNYKERGMSVLVLKPAIDTRDSVCEVVSRIGIKQEAN
+IITDDMDIFEFYKWAEAQKDIHCVFVDEAQFLKTEQVHQLSRIVDTYNVPVMAYGLRTDF
+AGKLFEGSKELLAIADKLIELKAVCHCGKKAIMTARLMEDGTPVKEGNQICIGDEIYVSL
+CRKHWNELTKKLG
+>tr|I7KRQ7|I7KRQ7_9CAUD Yersinia phage phiD1
+MASLIFTYAAMNAGKSASLLTAAHNYKERGMSVLVLKPAIDTRDSVCEVVSRIGIKQEAN
+IITDDMDIFEFYKWAEAQKDIHCVFVDEAQFLKTEQVHQLSRIVDTYNVPVMAYGLRTDF
+AGKLFEGSKELLAIADKLIELKAVCHCGKKAIMTARLMEDGTPVKEGNQICIGDEIYVSL
+CRKHWNELTKKLG
+>tr|F2VXC8|F2VXC8_9CAUD Shigella phage Shfl2 
+MASLIFTYAAMNAGKSASLLTAAHNYKERGMSVLVLKPAIDTRDSVCEVVSRIGIKQEAN
+IITDDMDIFEFYKWAEAQKDIHCVFVDEAQFLKTEQVHQLSRIVDTYNVPVMAYGLRTDF
+AGKLFEGSKELLAIADKLIELKAVCHCGKKAIMTARLMEDGTPVKEGNQICIGDEIYVSL
+CRKHWNELTKKLG
+>tr|I7J3X5|I7J3X5_9CAUD Yersinia phage phiR1-RT 
+MAQLYYNYAAMNSGKSTSLLSVAHNYKERGMGTLVMKPAVDTRDSSSEIVSRIGIKLEAN
+VIHPGMNIVEFFKWAQTQRDIHCVLIDEAQFLEPAQVQDLCKIVDIYNVPVMAYGLRTDF
+RGELFPGSKALLQCADKLVELKGVCHCGKKATMVARIDINGNAVKDGAQIELGGEDKYVS
+LCRKHWCEMLELY
+>sp|Q98HR4|KITH_RHILO Rhizobium loti (strain MAFF303099) 
+MAKLYFNYATMNAGKTTMLLQASYNYRERGMTTMLFVAGHYRKGDSGLISSRIGLETEAE
+MFRDGDDLFARVAEHHDHTTVHCVFVDEAQFLEEEQVWQLARIADRLNIPVMCYGLRTDF
+QGKLFSGSRALLAIADDLREVRTICRCGRKATMVVRLGADGKVARQGEQVAIGKDVYVSL
+CRRHWEEEMGRAAPDDFIGFMKS
+>tr|F0LSI7|F0LSI7_VIBFN Vibrio furnissii (strain DSM 14383 / NCTC 11218)
+MAQMYFYYSAMNAGKSTTLLQSSFNYQERGMTPVIFTAAIDDRFGVGKVSSRIGLEADAH
+LFTSDTNLFDAIKQLHQNEKRHCVLVDECQFLTKEQVYQLTEVVDKLDIPVLCYGLRTDF
+LGELFEGSKYLLSWADKLIELKTICHCGRKANMVIRTDEHGNAISEGDQVAIGGNDKYVS
+VCRQHYKEALGR
+>sp|Q5E4F2|KITH_VIBF1 Vibrio fischeri (strain ATCC 700601 / ES114) 
+MAQMYFYYSAMNAGKSTTLLQSSFNYQERGMNPAIFTAAIDDRYGVGKVSSRIGLHAEAH
+LFNKETNVFDAIKELHEAEKLHCVLIDECQFLTKEQVYQLTEVVDKLNIPALCYGLRTDF
+LGELFEGSKYLLSWADKLVELKTICHCGRKANMVIRTDEHGVAIADGDQVAIGGNELYVS
+VCRRHYKEALGK
+>tr|V2ABB3|V2ABB3_SALET Salmonella enterica subsp. enterica serovar Gaminara str. ATCC BAA-711
+MAQLYFYYSAMNAGKSTALLQSSYNYQERGMRTVVYTAEIDDRFGAGKVSSRIGLSSPAK
+LFNQNTSLFEEIRAESARQTIHCVLVDESQFLTRQQVYQLSEVVDKLDIPVLCYGLRTDF
+RGELFVGSQYLLAWSDKLVELKTICFCGRKASMVLRLDQDGRPYNEGEQVVIGGNERYVS
+VCRKHYKDALEEGSLTAIQERLR
+>tr|I6H5M2|I6H5M2_SHIFL Shigella flexneri 1235-66
+MAQLYFYYSAMNAGKSTALLQSSYNYQERGMRAVVYTAEIDDRFGAGKVSSRIGLSSPAK
+LFNQNSSLFEEIRAENAQQRIHCVLVDESQFLTRQQVYELSEVVDQLDIPVLCYGLRTDF
+RGELFGGSEYLLAWSDKLVELKTICFCGRKASMVLRLDQAGRPYNEGEQVVIGGNERYVS
+VCRKHYKEAQSEGSLTAIQERHSHD
+>sp|P23331|KITH_ECOLI Escherichia coli (strain K12)
+MAQLYFYYSAMNAGKSTALLQSSYNYQERGMRTVVYTAEIDDRFGAGKVSSRIGLSSPAK
+LFNQNSSLFDEIRAEHEQQAIHCVLVDECQFLTRQQVYELSEVVDQLDIPVLCYGLRTDF
+RGELFIGSQYLLAWSDKLVELKTICFCGRKASMVLRLDQAGRPYNEGEQVVIGGNERYVS
+VCRKHYKEALQVDSLTAIQERHRHD
+>sp|Q66AM8|KITH_YERPS Yersinia pseudotuberculosis serotype I (strain IP32953
+MAQLYFYYSAMNAGKSTALLQSSYNYQERGMRTLVFTAEIDNRFGVGTVSSRIGLSSQAQ
+LYNSGTSLLSIIAAEHQDTPIHCILLDECQFLTKEQVQELCQVVDELHLPVLCYGLRTDF
+LGELFPGSKYLLAWADKLVELKTICHCGRKANMVLRLDEQGRAVHNGEQVVIGGNESYVS
+VCRRHYKEAIKAACCS
+>tr|B4EXS0|B4EXS0_PROMH Proteus mirabilis (strain HI4320)
+MAQLYFYYSAMNAGKSTSLLQSSYNYNERGMRTLIFTAAIDTRFAKGKVTSRIGLSADAL
+LFSDDMNIRDAILAENNKEPIHCVLIDECQFLTKAHVEQLCEITDSYDIPVLTYGLRTDF
+RGELFTGSAYLLAWADKLVELKTVCYCGRKANKVLRLAANGKVLSDGAQVEIGGNEKYVS
+VCRKHYTEATLKGRIEQL
+>tr|G0GHM0|G0GHM0_KLEPN Klebsiella pneumoniae KCTC 2242
+MAQLYFYYSAMNAGKSTALLQSSYNYQERGMRTVVYTAEIDDRFGAGKVSSRIGLSSPAR
+LYNPQTSLFDDIAAEHQLKPIHCVLVDESQFLTREQVHELSEVVDTLDIPVLCYGLRTDF
+RGELFTGSQYLLAWSDKLVELKTICFCGRKASMVLRLDQEGRPYNEGEQVVIGGNERYVS
+VCRKHYKEALSVGSLTKVQNQHRPC
+>tr|F7YDB7|F7YDB7_MESOW Mesorhizobium opportunistum (strain LMG 24607 / HAMBI 3007 / WSM2075)
+MAKLYFHYATMNAGKTTMLLQASYNYRERGMTTMLFVAGHYRKGDSGLISSRIGLETEAE
+MFRDGDDLFARVAEHHQRSAVHCVFVDEAQFLEEEQVWQLARIADRLNIPVMCYGLRTDF
+QGKLFSGSRALLAIADDLREVRTICRCGRKATMVVRLGPDGKVARQGEQVAIGKDVYVSL
+CRRHWEEEMGRAAPDDFIGFVRN
+>tr|H0H7T7|H0H7T7_RHIRD Agrobacterium tumefaciens 5A
+MAKLYFNYAAMNAGKSTMLLQASYNYHERGMRTLIFTAAFDDRAGFGRVASRIGLSSDAR
+TFDANTDIFSEVEALHAEAPVACVFIDEANFLSEHHVWQLAGIADRLNIPVMAYGLRTDF
+QGKLFPASRELLAIADELREIRTICHCGRKATMVARFDNEGNVVKEGAQIDVGGNEKYVS
+FCRRHWVETVKGD

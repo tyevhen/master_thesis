@@ -1,0 +1,22 @@
+Enterprise software tends to disappoint, on many levels. The complaints are legion, but basically you're lucky if a fairly elaborate software suite (e.g., an enterprise-grade Content Management System) can be installed by an ordinary human being (not a vendor-trained consultant) in less than a day, and if you can do anything out of the ordinary without reading the documentation. Heaven help you if you actually need to implement clustering, do a complete backup of the system, or do anything at all non-trivial, on your own.
+
+I'd like to present a fairly simple list of five questions you should ask yourself before deciding whether a particular vendor's system is good, bad, or just plain ugly. (Disclosure: I work for Adobe Systems, and most of the following examples will use Adobe's Digital Marketing Suite, in particular the Adobe CQ5 web content management part of it, as an example.)
+
+1. Can you install a usable (fully functional) sandbox instance of the software easily, using one double-clickable file? Adobe CQ meets this test. It comes as a double-clickable JAR file that explodes its contents into the complete install footprint needed to run a fully functional instance of the product, without presenting (for example) wizards that ask you for esoteric info or demanding that you put certain values in your operating system's Java path, etc. The first time you run the CQ installer, it takes anywhere from one to three minutes to lay down the contents of the system. All subsequent starts of the system take only 15 to 60 seconds (depending on the speed of your machine).
+
+2. Can you easily cluster the system by designating other running instances as cluster nodes (using just a URL)? Adobe CQ offers one simple dialog to enable this. Clustering takes seconds (literally) to set up. Anyone can do it. You don't have to be a systems architect, a programmer, or an über-admin.
+
+Adding a node to a cluster is as easy as specifying a URL.
+
+3. Can you do a backup (take a "snapshot" of the entire system, including all its artifacts, all user-added content, all code, all everything) by doing nothing more than hitting a button? Again, Adobe CQ enables this sort of functionality. And you don't have to be a skilled super-user to do it.
+
+Want to take a snapshot of the system? Click a button.
+
+
+4. Can you develop custom components from within the system, using an integrated UI, without firing up some secondary development environment (Eclipse, Visual C++, etc.)? Adobe CQ includes its own code editor (a complete IDE, actually) with which to develop HTML, JSPs, server-side ECMAScript, OSGi bundles, and any other artifacts you might need in order to customize your system.
+
+Develop Java classes with the integrated IDE, hot-deploy them as OSGi bundles. No bouncing the server.
+
+5. Can you deploy arbitrarily elaborate custom applications without taking the system down and starting it back up again? Adobe CQ's infrastructure is OSGi-based, which means you can hot-deploy any number of Java classes any time you want, without bouncing the system.
+
+I know, I know, this sounds like one big giant ad for Adobe CQ, and it is. But I've worked in enterprise software for 12 years (and in that time, I've evaluated scores of content management systems), and until now I've never encountered a large software offering (something of the scale of CQ) that could meet the challenges posed by the five questions listed above. If you know of another example, by all means leave a comment below!

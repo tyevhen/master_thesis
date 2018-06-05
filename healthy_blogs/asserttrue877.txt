@@ -1,0 +1,5 @@
+The same Russians who got in a lot of trouble a few years ago for selling a small program that removes password protection from locked PDF files (I'm talking about the guys at Elcomsoft) are at it again. It seems this time they've used an NVidia graphics card GPU to crack WiFi WPA2 encryption.
+
+They used the graphics card, of course, for sheer number-crunching horsepower. The GeForce 8800 GTX delivers something like 300 gigaflops of crunch, which I find astonishing (yet believable). Until now, I had thought that the most powerful chipset in common household use was the Cell 8-core unit used in the Sony Playstation 3 (which weighs in at 50 to 100 gigaflops). Only 6 of the PS/3's processing units are available to programmers, though, and the Cell architecture is meant for floating-point operations, so for all I know the GeForce 8800 (or its relatives) might be the way to go if you need blazing-fast integer math.
+
+Even so, it would be interesting to know what you could do with, say, an 8-box cluster of overclocked PS/3s. Simulate protein-ribosome interactions on an atom-by-atom basis, perhaps?

@@ -1,0 +1,54 @@
+Above: Traffic for top 40 assertTrue() blog posts of 2009. Vertical scale: 210 readers per pixel. (Graphic courtesy of Google Charts.)
+
+By now it's somewhat traditional, if you're a self-indulgent blowhard who blogs (not that I personally know any such individuals, of course), to cap off a year of blogging with an analysis of "ten most popular posts for the year," or some such. Examples of such fluff abound in the blogosphere.
+
+Far be it from me to tamper with tradition.
+
+It turns out, 2009 was a good traffic year for the assertTrue() brand. In all, some 240,483 unique visitors from 185 countries made 329,954 visits to this blog, establishing just under 349,000 unique page views.
+
+Of the 330K-or-so visits to this blog, 175K were from people in the U.S. (I would have thought this number would be much higher.) The top nine countries of origin after that were (in order) the U.K., Canada, Germany, Australia, India, Netherlands, France, Sweden, and Spain. I thought it interesting that the Netherlands, with 5,456 visits, sent more eyeballs than France (with 5,383). Thank you, Adriaan, for hitting Refresh.
+
+
+The Top Ten
+
+What the heck were people reading? Mostly just a handful of high-traffic posts; see the classic longtail traffic graph above.
+
+The Top Ten assertTrue( ) posts for 2009 (in order of popularity) were:
+
+1. (82,170 visits) One of the toughest job-interview questions ever
+It didn't take people long to figure out that the company in question (whose name I cannot mention) starts with 'G', ends with 'e', and rhymes with frugal. This post literally swept the globe, bringing 67,607 new visitors (and over 14,000 return visitors) to my blog from an astonishing 160 countries. Incredibly, these tens of thousands of people spent an average of 4:40 on the page (meaning, many of them read as slowly as I do; praise them all). Most of the traffic came by way of reddit.com, but I owe a debt of gratitude to Tom Kyte for discussing the post (thoughtfully and in depth) in his own excellent blog, which sent 3,000+ visitors my way. Thank you, Tom.
+
+2. (47,591 visits) How to write fast code
+Although this post was only half as long as the one above, visitors spent 22% more time on the page, which means, obviously, a lot of people fell asleep sitting up.
+
+3. (18,484 visits) Developers should not be allowed to work overtime
+This post resulted in the most time-on-page of any in the Top Ten. Draw your own conclusions.
+
+4. (11,314 visits) Making one line of code do the work of 47
+Programmers (good ones, that is) are lazy and like to find smart ways to work. Apparently, quite a few coders liked this writeup of John K. Ousterhout's classic paper on scripting languages.
+
+5. (10,474 visits) NoSQL Required Reading
+When Tim Bray saw this post, he accused me of "fine NoSQL link curatorship" (whatever that is). Traffic went through the roof.
+
+
+Tim Bray
+
+6. (9,350 visits) Here's what Opera is about to unveil
+Folks, I don't know what Opera is about to unveil any more than I know what's under the Pope's kimono.
+
+7. (9,166 visits) Twice-as-fast isn't good enough
+If any trend should be apparent by now, it's that programmers are suckers for two types of articles: namely, articles on writing faster code, and on writing code faster.
+
+8. (8,281 visits) Two techniques for faster JavaScript
+See 2, 4, and 7 above. Speed is king.
+
+9. (7,658 visits) Java as Legacy Language
+Okay okay. Java isn't a dead language. No more than Latin, at least.
+
+10. (6,692 visits) The role-based favicon, and why Novell patented it
+This is the blog post that brought out the death threats and foul-tongued remarks from chest-thumping bigots. I'll remember it always, with fondness.
+
+
+The Secret to Generating Traffic
+
+So, what's the secret to generating traffic for your blog? It's very simple: Write stuff that appeals to programmers (preferably articles having to do with making code appear to run faster; either that, or job-interview questions from the big search companies), make sure your stuff gets picked up by Reddit, Tom Kyte, or Tim Bray, and -- most important of all -- just plain write a lot. Altogether, I wrote 170 posts here last year (plus 40 more for my employer, plus another half dozen for Offtopic). Lay down lots of seed; flowers will appear. Or in my case, lay down a spitload of fertilizer, and stand back. Far enough back for the smell not to get into your clothing.

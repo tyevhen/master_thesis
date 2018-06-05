@@ -1,0 +1,13 @@
+I've learned some interesting things about the way selections work in Mozilla.
+
+Every window has a singleton selection object, even when the user has selected no items on the rendered page. Therefore, window.getSelection( ) always succeeds.
+
+If you simply want user-selected text as a string, getSelection( ).toString( ) will work. But if you really intend to walk the selected DOM nodes, or process the selection in any non-trivial way, you will need access its Range objects with
+
+window.getSelection( ).getRangeAt( i );
+
+There is a "rangeCount" property on the Range object, so that you can know how many Ranges were selected by the user. In Firefox 2.0 and prior, the rangeCount was never more than one. But in Firefox 3, the user can do multi-selection of page contents. (Try it: Hold the Control key down as you swipe across various pieces of a page.) That means the range count can be more than one.
+
+If you need to process a Range's contents, be sure to use the cloneContents( ) method, not the extractContents( ) method. The latter will actually remove nodes from the DOM tree, affecting the rendered page's appearance. (That is to say, content suddenly disappears!)
+
+This is all spelled out at the Moz Developer Center page on Ranges.

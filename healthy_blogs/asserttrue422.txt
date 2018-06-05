@@ -1,0 +1,46 @@
+You can buy 5-hydroxytryptophan over the
+counter for "mood" amelioration, but beware of
+serotonin syndrome.
+When mainline antidepressants don't work (as they often don't) people sometimes turn to nutritional supplements. The most obvious one to turn to, in the case of depression, is tryptophan, because it's a precursor of serotonin.
+
+To save you a bit of reading, I'll give the bottom line here, but be warned: Before you start popping tryptophan pills like candy, there's a lot to know about tryptophan metabolism and possible risks. If you're taking any kind of medication, particularly SSRIs, you'll want to consult your doctor (and do a lot of homework yourself) before wantonly gobbling tryptophan or 5-HTP pills.
+
+Having said all that, it turns out there's reason to believe tryptophan might conceivably be helpful for depression.
+
+Biological endpoints of interest in tryptophan metabolism include proteins, melatonin, 5-hydroxyindoleacetic acid (5-HIAA), kynurenine, and niacin (vitamin B3). Note that this is a highly simplified diagram. Most of the arrows actually conceal multiple enzymatic steps. See text for discussion.
+First some background. Tryptophan is one of the 8 (out of 21, if you count selenocysteine) proteinogenic amino acids that you must consume daily because your body can't manufacture it. Most of the tryptophan you eat will end up going to protein synthesis, but a sizable portion will also be converted to serotonin (mostly in your gut, not your brain), and a comparatively small amount will end up being converted to melatonin in your pineal gland. There's a so-called back-door pathway to niacin, as well, but the yield on this pathway is so low (~1:100) that merely eating enough tryptophan won't keep you from eventually getting pellegra if you don't also ingest sufficient quantities of niacin (B3).
+
+Note to advanced readers: The kynurenine family of tryptophan metabolites has many interesting neurological properties. If you favor (as some do) an inflammatory theory of pathogenesis in schizophrenia and major depression, you'll want to read the excellent 2009 paper by Müller in Dialogs in Clinical Neuroscience ("The impact of neuroimmune dysregulation on neuroprotection and neurotoxicity in psychiatric disorders: relation to drug treatment") which highlights the role of immunological dysregulation of kynurenines.
+
+It's possible, incidentally, to buy serotonin in pure form, but eating it won't do your brain any good, because serotonin doesn't cross the blood brain barrier. (If it did, you could just eat bananas all day. They're rich in serotonin.) Amino acids, on the other hand, do cross the BBB. That's where tryptophan comes into play.
+
+But will ingesting tryptophan actually raise serotonin levels in one's brain? And if so, will that help with depression? Let's take the second question first. Regular readers of this blog know that I've trashed the "serotonin imbalance" theory of depression previously. Serotonin insufficiency simply isn't an adequate explanation of depression, based on the evidence. That's not to say SSRIs and SNRIs don't help many patients or that the drugs do nothing inside your brain. Far from it. It's clear, though, that there's more going on in depression than mere "serotonin imbalance." (See this recent report for a possible clue as to what else may be going on.) Cache that thought.
+
+It's been known for over 20 years that you can mess with people's serotonin levels by altering their diet. In fact, acute tryptophan deprivation (ATD) is a well-accepted technique in the study of depression, in part because experiments in rodents seem to verify the ability of a "tryptophan knock-out diet" to cause a transient plunge in brain serotonin levels. See Gessa, G. L., Biggio, G., Fadda, F., Corsini, G. U., & Tagliamonte, A. (1974). "Effect of the oral administration of tryptophan-free amino acid mixtures on serum tryptophan, brain tryptophan and serotonin metabolism," J Neurochem 22, 869– 870. Also see this Open Access paper from 2010.
+
+One result that has held up under replication is that when you challenge SSRI-medicated depression patients with a tryptophan knock-out diet (causing a sudden plunge in blood tryptophan), they go from remission to relapse at a higher than expected rate. (Fortunately, they go right back to remission within hours or days of the experiment. Tryptophan deprivation's effects are short-lived. And that's another thing to bear in mind as we go along: supplementary tryptophan is short-lived, in the body.) However, when you challenge a group of non-depressed volunteers in the same way, they do not show any mood alterations. (See this paper.) Serotonin depletion does nothing to healthy volunteers.
+
+Reasoning backward, we might ask if tryptophan loading has the inverse effect, causing serotonin levels to increase (and symptoms of depression to ease). As it turns out, there's reason to believe you can, indeed, force a boost in brain serotonin by tryptophan loading. (There are risks, too, though. Read on.)
+
+First we might ask why the tryptophan-deprivation experiments work at all. I'll summarize a fairly large mount of work quickly. Tryptophan blood levels can be bounced high and low fairly easily (to the tune of about a 100:1 difference). What counts is how much tryptophan gets across the blood brain barrier. A carrier protein is responsible for escorting tryptophan across the BBB, but that protein is the same one that also escorts a number of other amino acids (tyrosine, phenylalanine, valine, leucine, isoleucine) across the BBB. Tryptophan has to compete with the other amino acids for this transporter protein, and experiments have shown it can compete more effectively if the blood ratio of tryptophan to tyrosine, phenylalanine, etc. is high.
+
+Once tryptophan has made it across the BBB, it gets converted to 5-hydroxytryptophane (5-HTP) and then to serotonin. The rate-limiting step is conversion to 5-HTP. While getting more serotonin production going is not simply a matter of getting more tryptophan across the BBB (there are other enzyme systems, some with complex regulatory patterns, to consider), creation of 5-HTP is definitely essential to the production of serotonin.
+
+It turns out you can buy 5-HTP over the counter, and yes, 5-HTP does cross the BBB. Why not just take supplemental 5-HTP? Actually, it's something to consider. Many studies (some of which we'll get to in a minute) have focused on administration of 5-HTP itself rather than tryptophan, since 5-HTP can't be siphoned away to protein synthesis. But precisely because it can't be diverted to other uses, 5-HTP is about ten times more potent (in its serotonergic effects) than tryptophan. It's also an order of magnitude more toxic than tryptophan and many times more likely to cause "serotonin syndrome" if taken in conjunction with an adversely interactive drug (e.g., any SSRI). The oral LD50 for 5-HTP in rodents ranges from 243 mg/kg to 1708 mg/kg. The LD50 for tryptophan (oral, rodent) is more like 16 grams/kg. You can safely swallow much more tryptophan than 5-HTP.
+
+The research on 5-HTP for depression goes back more than 30 years and is summarized in this review. The studies tend to be marred by low sample size, short duration, lack of blinding, and other issues. About the best that can be said is, if you want to find papers showing 5-HTP is highly effective for depression, you can find them. You can also find studies that say lobotomy works. That doesn't mean you should believe them.
+
+In the final analysis, what matters is whatever works for you. With tryptophan and 5-HTP, it may pay to do your own experimentation. (But be cautious, especially with 5-HTP, which is intrinsically more toxic than tryptophan and more apt to trigger serotonin syndrome in susceptible individuals.) For $30 or so, you can buy a month's worth of these supplements and find out for yourself if they're effective.You won't know until you try.
+
+Have you added your name to the mailing list? Why not?
+
+
+☙ ❧
+
+I want to thank the following individuals for retweeting me yesterday. May you all live long and prosper. (Follow these guys. They retweet!)
+
+ 
+
+And by the way, if you haven't already checked out my book Mental Health Myths Debunked, you can grab a free copy right now at NoiseTrade.com. Please go there and download it (in ePub or PDF). It demolishes a ton of myths (like "depression is caused by a biochemical imbalance"), in an entertaining way, with plenty of pointers to the scientific literature (and some nice illustrations, too). This book also has a few surprises in it, including a final chapter that's (if I do say so myself) quite shocking, no pun intended. (The final chapter is on electroconvulsive therapy and the hideous safety record associated with it.) Cozy up with this little book. And give a copy to a friend. You have my permission to duplicate the PDF.
+
+See you on Twitter!

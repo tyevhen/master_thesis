@@ -1,0 +1,25 @@
+So here's a quick tip for you. Maybe you already knew this? The Chrome browser incorporates a pretty good mobile-device emulator, which means if you want to see what your blog or book looks like on a Kindle Fire versus an iPhone 6 versus a Samsung Galaxy S 4, you can do it in about 10 seconds, right in Chrome.
+
+The trick is to load your page in Chrome, then open the developer tools console (Control-Shift-J in Windows) and click the tiny Device Mode icon next to Elements at the top of the window.
+
+See the little blue icon next to Elements? Click it.
+When you do this, the main display tab for your page goes into emulation mode.
+
+
+From the Device menu, pick the device you want to emulate. Then (just to be sure you're seeing the right native view) refresh/reload the page. Chrome emulates several dozen popular phones and tablets (all the usual suspects, basically). When switching between devices, hit reload to be sure you're seeing the true view.
+
+This is just one of many killer features hidden away in Chrome's dev tools. I may talk about others in upcoming posts.
+
+ ☙ ❧ 
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). You can download the book (ePub or PDF) at NoiseTrade. Do it now while it's free.
+
+ ☙ ❧ 
+
+Hey listen, the following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.  

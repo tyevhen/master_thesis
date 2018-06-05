@@ -1,0 +1,12 @@
+Microsoft recently announced its intention to buy Azyxxi (yes, that's its real name), an acute care information and patient monitoring system developed by some local physicians. This is the start of a new Microsoft initiative to penetrate the healthcare information system market. On the Microsoft HealthBlog Dr. Bill Crounse, HealthCare Industry Director, talks about how wonderful this will be for patients and physicians. I couldn't help but speculate about what would happen if Microsoft ran healthcare:
+Your provider network would force you to install the latest nicotine patch, whether you needed it or not
+There would be four versions of each insurance plan but none of them would pay for an annual physical
+You'd get dire warnings that out-of-plan care might not be compatible with your body
+You'd be allowed to see any specialist except the iPodiatrist
+Bill Gates would donate billions to the third world while ignoring domestic viruses (oh wait, that's already happening)
+Diseases would be destroyed by buying them out then discontinuing support
+Your mother would be referred to as your “Original Equipment Manufacturer”
+Ninety percent of physicians would be in-network, the rest of us would use Apples to keep them away
+And yes, I thought all these up myself...
+
+Seriously though, you should read one organization's story about Microsoft's response to their information technology needs. FSW Connections is a Connecticut non-profit organization that provides social services and mental health services including domestic violence counseling, homicide victim support groups and psychiatric rehabilitation services. When they needed to become HIPAA compliant they were denied Microsoft's licensure price for non-profits specifically because they were a healthcare provider. This is a revealing story that foreshadows Microsoft's approach to the healthcare market---soon it won't just be the drug companies driving up healthcare costs. (There's a happy ending. FSW ended up saving $100,000 by switching to open-source strategies. Read the full story here.)

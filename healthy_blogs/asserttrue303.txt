@@ -1,0 +1,22 @@
+Usually, when a virus contains a certain kind of gene, and the host contains the same kind of gene, it's assumed the virus got its copy from the host. This is not a terribly safe assumption, however. In some cases it's demonstrably wrong.
+
+For a striking example of how wrong this assumption can be, you need look no further than the tiny Chlorella alga that can be found living symbiotically inside the fresh-water ciliate Paramecium. When it's not living inside Paramecium, Chlorella is subject to infection by PBCV-1 (the Paramecium bursaria Chlorella virus).
+
+Tiny green Chlorella cells can be seen here growing
+inside Paramecium. The full Paramecium cell is
+shown in the inset at lower left. (Photo by Charles Krebs.)
+Both Chlorella and PBCV-1 have a gene for an enzyme called thymidylate synthase, which is the enzyme that produces thymidine monophosphate (dTMP, or just TMP), a precursor molecule for making DNA. Ordinarily, one would assume that the virus picked up the gene for this enzyme from its host at some point in the past. But there's a problem.
+
+The only thymidylate synthase gene in Chlorella's genome codes for a protein with 508 amino acids. The PBCV-1 virus version of this gene codes for a much shorter protein with only 216 amino acids. It turns out there's a perfectly good explanation for the size difference. Like other small algae (such as Micromonas, Ostreococcus, and Bathycoccus) and certain protozoans as well, Chlorella has evolved a bifunctional enzyme. In Chlorella, the same enzyme acts as both a thymidylate synthase and as a dihydrofolate reductase. In most higher organisms, two different enzymes carry out these functions. Organisms that have the dual-function enzyme are presumed to have developed this capability through a gene fusion event sometime in the (most likely distant) past.
+
+It turns out the PBCV-1 virus synthase not only isn't bifunctional, it carries out its thymidylate reaction by an entirely different mechanism than that used in the host enzyme. The host enzyme employs folate (but no flavins) as a cofactor, whereas PBCV-1 is strictly dependent on flavin adenine dinucleotide (FAD), as verified experimentally by Graziani et al. in 2006. We now know that many bacteria use the FAD version of this enzyme (often called ThyX, as disintguished from ThyA, the folate-only enzyme). And the FAD users all have relatively small thymidylate synthases, of about 200 to 300 amino acids.
+
+The above scenario isn't exclusive to Chlorella and PBCV-1. It turns out, certain other small algae (Micromonas, Ostreococcus, and Bathycoccus; all happen to be salt-water algaae) have a bifunctional thymidylate kinase, yet they are subject to infection by viruses that use the much smaller, mono-functional flavin-binding enzyme.
+
+In all these cases, the virus uses an entirely different style of enzyme than the host to carry out TMP production. There is essentially zero chance that the virus derived its enzyme from the host (or vice versa), because the reaction mechanisms of ThyA and ThyX are radically different. (For more detail on this, see the excellent review article at http://www.ncbi.nlm.nih.gov/books/NBK6401/.) These aren't orthologues; these aren't paralogues; these are entirely different enzymes.
+
+So where did the virus get its thymidylate synthase from, if not the host?
+
+If you take the protein sequence for the PBCV-1 thymidylate synthase and run a BLAST search at UniProt.org, the best non-viral hits (in the range of 58% identities, 77% similarities, E-value 10-69) are for the thymidylate synthases of Prochlorococcus marinus and other cyanobacteria, with cyanophages also scoring high. This makes a great deal of sense, because the photosynthetic Prochlorococcus and its relatives are thought to be some of the most ancient bacteria on earth (possibly going back 3.8 billion years). They're thought to be the ancestors of chloroplasts. At one point, they were almost certainly the predominant life form in the oceans. Since phycodnaviruses (of which PBCV-1 is a member) are thought to be quite ancient, it's entirely possible they got their thymidylate synthase from cyanobacteria. That's certainly what the protein-sequence evidence suggests.
+
+I'll go with the evidence.

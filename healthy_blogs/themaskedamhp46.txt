@@ -1,0 +1,22 @@
+This is a question that has exercised minds in the Masked AMHP’s Facebook Mental Health Forum recently. There have been a range of answers, mainly based on custom and practice within different areas.
+When someone who is detained under the Mental Health Act appeals against their detention, their case has to be heard by a First Tier mental health tribunal. The tribunal require three reports: a medical report written by or on behalf of the patient’s responsible clinician (the hospital psychiatrist); a nursing report written by a nurse from the ward; and a social circumstances report.
+The responsibility for writing the social circumstances report is generally seen as being that of a member of the community mental health service covering the area where the patient normally resides; this is usually interpreted as being any clinician -- ideally the patient’s care coordinator if they have one -- so it could be a nurse,  a social worker, or even an occupational therapist.
+ 
+The dispute on the forum has revolved around local custom, depending on whether social workers are embedded in community mental health teams and employed by the mental health trust, or working separately and employed by the local authority. If integrated into the local teams, then whoever is or would be the care coordinator would be expected to write the report, regardless of their professional status; where social workers are detached from these teams, the community mental health teams have expected a social worker to write this report.
+
+Now there has been some recent case law which clarifies the whole issue, and may have a significant impact on these local practices.
+
+This is HM/2043/2014, involving a case heard in the Upper Tribunal, which was issued at the end of April 2015.
+
+The patient’s legal representative appealed against a decision of the First Tier tribunal, on the grounds that both the social circumstances report and the inpatient nursing report “had been prepared by the same person a staff nurse on the ward contrary to the letter or spirit of the Senior President’s Practice Direction or otherwise contrary to principles of natural justice and fairness.”
+
+While the judge quickly concluded that what he had to consider was whether or not the tribunal’s refusal to adjourn the original tribunal was unlawful, he was driven to state that:
+“The issue which this appeal is concerned with, at least ostensibly, is the lawfulness of a “social circumstances report” being prepared by a member of the nursing staff at the hospital where the appellant was detained (a nurse who had also compiled the in-patient nursing report) as opposed to it being prepared by a social worker.”
+In his deliberation, he noted:
+“It is the “Responsible Clinician’s Report” and not that of not anyone else. Likewise, it may be argued that the “In-Patient Nursing Report” by its title requires the reports to come from a nurse. On the other hand, the title “Social Circumstances Report” arguably does not identify the report by its author but rather its contents.”
+He therefore concluded:
+“As far as I can see there is nothing in the MHA, Code of Practice, Practice Direction or the TPR which as a matter of law requires that the social circumstances report be prepared by a social worker or CPN and not a nurse, or that that report writer must be a different person to the person who prepares the nursing report.  The important issue is not the professional title of the report writer but the relevance and quality of the information provided in the report and thus the report writer’s position of knowledge in respect of that information.”
+
+The circumstances that gave rise to this appeal are in themselves unusual, as the mental health trust involved as a matter of policy permitted the ward nurse (of a forensic unit) to write both the nursing report and the social circumstances report. The trust has since changed this policy.
+
+But what this judgment does state unequivocally is that there is no legal imperative for any particular professional to write the social circumstances report, as long as “the relevance and quality of the information provided” is adequate.

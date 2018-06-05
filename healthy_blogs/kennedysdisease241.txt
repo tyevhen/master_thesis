@@ -1,0 +1,28 @@
+Today’s article is a guest post from Ms. Karia Orr.  Her friend, a man with Kennedy’s Disease sent me the article last week.  I thought it was well written and asked if I could post it in this blog.  The article helped me better understand how the Androgen Receptor (AR) works as well as what does not work when a person has the defective gene.  
+ 
+Note:  Because of the length of the article, I am breaking it into two parts.
+ 
+About the Author: My name is Karia Orr and I wrote this article for a friend. I am a Pharmacologist by training with over 10 years experience in various aspects of Drug Discovery and I currently live in Holywood, Northern Ireland. I would like to highlight that this article is written to be read by a lay person with an interest in Kennedy's Disease and the aim of the article is to give a basic overview of the papers’ results with some background information on receptors and some implications of the results for potential pharmacological interventions in the future treatment of KD. The real credit lies with the Researchers who carried out the research itself, analyzed the results, produced the data and interpreted it.
+ 
+Disclaimer: This article was written by Karia Orr and the views expressed herein do not necessarily represent the views of the Research Paper Authors. Of note, the section on receptors and future treatment of KD are not from the research paper and diagrams and links have been obtained from publically available sources.
+
+
+Native Functions of the Androgen Receptor Are Essential to Pathogenesis in a Drosophila Model of Spinobulbar Muscular Atrophy  Neuron 67, 936-952, September 23, 2010
+
+A lay persons guide to the results of this research paper and some background information.
+ 
+Kennedys Disease (KD) aka Spinobulbar muscular atrophy (SBMA): Neurodegenerative (neurons/nerves degenerate) disease caused by a mutation in the building blocks of the androgen receptor (AR). This mutation confers toxic function to AR through unknown mechanisms. AR has lots of biological duties, but unfortunately in KD it does additional something(s) that gives rise to degeneration of the neurons innervating muscles. As such, the nerves are unable to communicate to the muscles and ask them to move.
+
+Although some mouse models are being used to study KD, the Fruit fly was used to speed up the identification process of which parts of the AR are required for toxicity, and to therefore identify the mutant parts on the androgen receptor. NB, remember we are using mutant in the biological sense (http://www.biology-online.org/dictionary/Mutation) rather than X men definition here so do not freak out!! We are all biological mutants in one way or another. First of all, a bit of information on receptors:
+
+Receptors are proteins themselves and basically proteins are made of amino acids that are linked to together (think of the beads on a rosary chain where each bead is an amino acid) and then the whole chain twists like a telephone cable and comes together into a big 3D structure like a jumbled up telephone cable mass- the receptor in quaternary structure. 
+
+Receptors have lots of bits that are kind of like locks or keys as a result of all this twisting and folding. For something (e.g. drug, hormone, transmitter, endogenous ligand) to interact with a receptor it has to fit right with the receptor and this is known as the lock and key model. Put simply, locks and keys are required for things to bind to receptors and for other things to then occur as a result of this interaction.
+ 
+This diagram is the structure of the human androgen receptor with bound testosterone (white left off centre bit). The blue, red and green bits are the AR and the colors represent different types of secondary and tertiary protein structure folding. Note, these colored bits could represent 1000’s and 1000’s of amino acids and by changing 1 amino acid you can change a heck of a bit. Believe me, you do not want to know why. ;-)
+
+There are lots of types of receptors that respond to many things such as chemicals, sound, osmolarity, pressure etc and the human body can be broken down into systems, organs, tissues and cells. All of these have receptors. Some receptors live outside cells, some float about inside the cell in what is known as the cytosol of the cell (the cytosol is the intracellular fluid or the liquid component inside a cell if you like). In the case of nuclear receptors, like AR, they float about inside the cell, the androgen (male hormone, the key) enters the cell, finds a lock on the receptor it fits to, the key binds to the receptor forming a complex and stuff happens.
+
+The main thing that happens with AR when an androgen binds to it, is that new areas on the receptor open up (think of like new locks appearing as a result of a shape change in the receptor) therefore creating new locks and keys to attract things and the receptor androgen complex head off to the nucleus, meet other things floating about in there and bind to DNA. Binding to DNA either activates genes or switches them off. All nuclear receptors do this, it’s just what they do.
+
+Part II will be Tuesday’s articles.

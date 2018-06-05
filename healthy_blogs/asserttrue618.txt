@@ -1,0 +1,15 @@
+I'm dismayed (and shocked) to learn that the Chrome Javascript console still doesn't support the manual entry of multiple lines of code; instead, you have to copy and paste multiline-code into the console to work around the problem, which frankly sucks pretty badly.
+
+If I want to type 3 lines of code into the console, like so:
+
+> function subtract( a,b ) {
+return a - b;
+}
+
+. . . I simply cannot. The instant I hit Enter after typing "function subtract( a,b ) {", that line executes -- with a Syntax Error (unexpected end of input). I can't type the whole function, on multiple lines, then execute it.
+
+In Adobe Acrobat Pro (which has a Javascript console -- enter Control-J to see it), Adobe solved this problem by letting Enter take you to the next line (as you'd expect) and letting Control-Enter execute all lines of code. Firebug's console has the same behavior.
+
+I would like to see Chrome implement the same behavior as it exists in the Firebug and Acrobat consoles. The Enter key should let you type on multiple lines. Control-Enter should execute code.
+
+Alas, Chrome doesn't work that way. The one-line-at-a-time behavior has been in Chrome since the beginning (and is still there in 5.0.375.70 beta). Issue 35487 was raised in February, addressing the problem. Let's hope it gets fixed soon. As a developer, I find it to be a blocker: i.e., it's a top-priority bug, not just an annoyance. Immediate attention required.

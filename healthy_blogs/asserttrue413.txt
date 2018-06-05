@@ -1,0 +1,23 @@
+We know that for double-stranded DNA, the number of purines (A, G) will always equal the number of pyrimidines (T, C), because complementarity depends on A:T and G:C pairings. But do purines have to equal pyrimidines in single-stranded DNA? Chargaff's second parity rule says yes. Simple observation says no.
+
+Suppose you have a couple thousand single-stranded DNA samples. All you have to do to see if Chargaff's second rule is correct is create a graph of A versus T, where each point represents the A and T (adenine and thymine) amounts in a particular DNA sample. If A = T (as predicted by Chargaff), the graph should look like a straight line with a slope of 1:1.
+
+For fun, I grabbed the sequenced DNA genome of Clostridium botulinum A strain ATCC 19397 (available from the FASTA link on this page; be ready for a several-megabyte text dump), which contains coding sequences for 3552 genes of average length 442 bases each, and for each gene, I plotted the A content versus the T content.
+
+A plot of thymine (T) versus adenine (A) content for all 3552 genes in C. botulinum coding regions. The greyed area represents areas where T/A > 1. Most genes fall in the white area where A/T > 1.
+
+As you can see, the resulting cloud of points not only doesn't form a straight line of slope 1:1, it doesn't even cluster on the 45-degree line at all. The center of the cluster is well below the 45-degree line, and (this is the amazing part) the major axis of the cluster is almost at 90 degrees to the 45-degree line, indicating that the quantity A+T tends to be conserved.
+
+A similar plot of G versus C (below) shows a somewhat different scatter pattern, but again notice that the centroid of the cluster is well off the 45-degree centerline. This means Chargaff's second rule doesn't hold (except for the few genes that randomly fell on the centerline).
+
+A plot of cytosine (C) versus guanine (G) for all genes in all coding regions of C. botulinum. Again, notice that the points cluster well away from the 45-degree line (where they would have been expected to cluster, according to Chargaff).
+
+The numbers of bases of each type in the botulinum genome are:
+G: 577108
+C: 358170
+T: 977095
+A: 1274032
+
+Amazingly, there are 296,937 more adenines than thymines in the genome (here, I'm somewhat sloppily equating "genome" with combined coding regions). Likewise, excess guanines number 218,938. On average, each gene contains 73 excess purines (42 adenine and 31 guanine).
+
+The above graphs are in no way unique to C. botulinum. If you do similar plots for other organisms, you'll see similar results, with excess purines being most numerous in organisms that have low G+C content. As explained in my earlier posts on this subject, the purine/pyrimidine ratio (for coding regions) tends to be high in low-GC organisms and low in high-GC organisms, a relationship that holds across all bacterial and eukaryotic domains.

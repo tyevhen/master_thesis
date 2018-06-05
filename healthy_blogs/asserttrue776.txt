@@ -1,0 +1,29 @@
+I've been involved in a number of performance tuning efforts over the years, and one thing I've noticed over and over again is how hard it is to get anyone to notice a 2x speed increase.
+
+I mentioned this to an acquaintance once, a programmer of great skill whose opinion I value. He nodded and said matter-of-factly: "A twofold speedup is not a worthwhile performance gain."
+
+I was struck by the finality of his statement. In fact, I questioned it. He challenged me back:
+
+"What's something you do every day on the computer that takes a significant amount of time?" he quizzed me.
+
+"Well, rotating a large image in Photoshop takes a long time," I said. (Bear in mind, this was in the early 1990s, when most Macs ran at 10 MHz.)
+
+"How long does that take?" John asked.
+
+"It can easily take 45 seconds," I said.
+
+"Okay, so if it took 22 seconds, would it change your life?"
+
+I stopped and thought. I could see where he was going. He was right, of course. Reducing a 45-second job to 20 seconds, or even ten (a speedup of more than four-fold), would not materially affect my productivity or my quality of life; I would still be spending way too much time babysitting the machine, waiting for it to finish a fairly simple operation.
+
+My friend made the case that when people have to spend more than five seconds waiting for the machine to finish doing something, it becomes an issue. He cited some research (by HP? I can't remember) to the effect that if more than five seconds elapses with no visual indication of anything changing, most people start to worry that the machine might be locking up. Mind you, this was back when desktop computers were single-tasking and most applications lacked a "progress bar" for lengthy operations. (Photoshop was an exception.) You couldn't switch contexts and go do something else in another open program. You had to wait patiently and hope the operation finished normally. On the Mac, you had the spinning "beachball cursor," which you hoped would eventually stop spinning. Sometimes it didn't.
+
+I asked my friend what kind of performance improvement he considered "worthwhile." He said: "An order of magnitude."
+
+I thought about it. He was right. The lengthy operations that drove me crazy on a regular basis tended to be under a minute in length (anything longer than that meant taking a coffee break), and obviously, shortening a 60-second operation to 6 seconds would be a quality-of-life boon (it would positively impact productivity), whereas shortening it to 30 seconds would make little difference.
+
+In the late 1990s, I bought an aftermarket CPU upgrade for one of my Macs. It boosted overall processing speed by a factor of two-and-a-half. I hardly noticed. My PageMaker file saves went from two minutes to one. My Photoshop image-rotates that previously took 30 seconds, took about 15. The misery factor went down 50%. But I was still miserable.
+
+So nowadays, when I hear someone (like Sun, with its ZFS file system) bragging about a 100% speedup of this-or-that operation because of realtime compression (or whatever), I just snicker. In this business, a two-fold speedup (of nearly anything) buys you 18 months in Moore time; then you're back where you started.
+
+Don't delude yourself. In very few cases will your life be changed by a two-fold speedup of anything computer-related. If your business plan (for a new technology) is predicated on speed, and the promised performance boost is less than a factor of ten (a full order of magnitude), rethink what you're doing. "Twice as fast" is not a competitive advantage. Not by a long shot.

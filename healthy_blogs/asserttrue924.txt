@@ -1,0 +1,5 @@
+It's refreshing (and healthy, I think) to see open, honest debate erupt over the usefulness of IoC frameworks, in particular the certifiably trendy Spring framework. I refer to Bob Lee's gratifyingly blunt I Don't Get Spring.
+
+Surprisingly, most of the comments at the end of Lee's blog are dispassionate, logical, and in full agreement with Lee's premise, which (to oversimplify) is that Spring is cryptic, over-architected, and malodorous at a code level (among other felonies), begging the question of why anyone would use it.
+
+I can understand why Lee would feel that way. He's right on most counts. Spring is indeed byzantine and heavy (as most things surrounding J2EE are), and buries too many dependencies in XML. But that doesn't mean Spring doesn't have its legitimate uses.

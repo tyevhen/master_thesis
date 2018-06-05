@@ -1,0 +1,31 @@
+Adriaan Bloem and I were chatting yesterday about hard-coded limits and why they're still so annoyingly prevalent in enterprise software. One thing led to another and before long we were talking about the number of DOM elements in a Web page, and I started wondering: How many DOM elements does a Web page typically contain, these days?
+
+I decided to hack together a piece of JavaScript that would count DOM elements. But I decided doing a complete DOM tree traversal (recursive or not) would be too slow and klutzy a thing to do in JavaScript. I just wanted a quick estimate of the number of nodes. I wanted something that would execute in, say, 100 milliseconds. Give or take a blink.
+
+So here's the bitch-ugly one-liner I came up with. It relies on E4X (XML extensions for ECMAScript, ECMA-357), hence requires an ECMA-357-compliant browser, which Firefox is. You can paste the following line of code into the Firefox address bar and hit Enter (or make it into a bookmarklet).
+
+javascript:alert(XML((new XMLSerializer()).
+serializeToString(document.documentElement)
+)..*.length());
+
+Okay, that's the ugly-contest winner. Let's parse it into something prettier.
+
+var topNode = document.documentElement;
+var serializer = new XMLSerializer();
+var markup = serializer.serializeToString(topNode);
+var theXML = new XML(markup);
+var allElements = theXML..*;
+var howMany = allElements.length();
+alert( howMany );
+
+The code serializes the DOM starting at the document element (usually the HTML node) of the current page, then feeds the resulting string into the XML() constructor of E4X. We can use dot-dot-asterisk syntax to fetch a list of all descendent elements. The length() method -- and yes, in E4X it is a method, not a property -- tells us how many elements are in the list.
+
+I know, I know, the E4X node tree is not a DOM and the two don't map one-to-one. But still, this gives a pretty good first approximation of the number of elements in a web page, and it runs lightning-fast since the real work (the "hard stuff") happens in compiled C++.
+
+The code shown here obtains only XML elements, not attributes. To get attributes, substitute "..@*" for "..*" in the 5th line.
+
+Again, the Document Object Model has a lot more different node types than just elements and attributes. This is not a total node-count (although I do wish someone would post JavaScript code for that).
+
+Last night when I ran the code against the Google home page (English/U.S.), I got an element count of 145 and an attribute count of 166. When I ran the code on the Google News page, I got 5777 elements and 5004 attributes. (Please post a comment below if you find web pages with huge numbers of nodes. Give stats and URLs, please!)
+
+That's all the time I had last night for playing around with this stuff; just time to write a half dozen lousy lines of JavaScript. Maybe someone can post some variations on this theme using XPath? Maybe you know a slick way to do this with jQuery? Leave a comment or a link. I'd love to see what you come up with.

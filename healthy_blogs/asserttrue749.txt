@@ -1,0 +1,7 @@
+It seems a lot of pundits out there think the Oracle Sun acquisition is (to a large degree) about Oracle wanting to establish more of a foothold in the cloud-computing biz. I won't disagree with that.
+
+What's bizarre, though, is that it wasn't that long ago (in fact, September 2008) that Larry Ellison drew some flak for his public rant on cloud computing, in which he called cloud computing "total gibberish." The YouTube audio track of it is here. (I wrote a blog for CMS Watch about some of this back in November.)
+
+Here's some of what Ellison had to say last September:
+The interesting thing about cloud computing is that we’ve redefined cloud computing to include everything that we already do. I can’t think of anything that isn’t cloud computing with all of these announcements. The computer industry is the only industry that is more fashion-driven than women’s fashion. Maybe I’m an idiot, but I have no idea what anyone is talking about. What is it? It’s complete gibberish. It’s insane. When is this idiocy going to stop?
+You tell us, Larry. You tell us.

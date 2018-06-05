@@ -1,0 +1,31 @@
+One of our Psychology Today readers wrote in with the following concern:
+
+
+"The reimbursement for visits to my out-of-network psychiatrist on my plan which is self-funded by my employer have dropped a staggering 57% in 2013!!!  
+
+A 90807 visit in December 2012 yielded a $262.50 check from the insurer for a visit with a $375 allowable amount. Actual bill is higher.
+Now a 99212 and 90836 visit (nothing changed but codes) yields a $114.10 check from the insurer for a visit with a $163 allowable amount.
+
+
+I was considering appealing the claim (now claims as I've submitted many claims at once) but thought there might be a better approach.
+
+
+Have any ideas? What patient/medical groups could help? Anyone collecting data on this?"
+
+
+Thanks.
+Dinah responded:
+Where do you live that $375 is considered reasonable and customary?  Is there housing available there?
+You could see if the psychiatrist will code higher and if that will make a difference.  It might not.  To code higher for the E/M portion, the doctor could code a 99213 which entails documenting just a little more in his notes, but perhaps if he tells you what information he needs, you could just hand him that information pre-written each week.  He may not know, many psychiatrists are just coding low because they are afraid of being audited or questioned.  In order to code the therapy portion of the session higher, he would need to be doing 53 minutes of psychotherapy in addition to the E/M portion.  I am coding many sessions as 99213 + 60 minutes of psychotherapy (meaning over 53 minutes) and so far no insurance company has questioned it.  It means I take no break between patients, and your psychiatrist may not want to do this.      Some are being reimbursed much better.  And Medicare rates are certainly better with the new system. 
+Oh, you might try your state's insurance commissioner, but I don't know if they deal with self-funded insurance plans -- in Maryland, they do not.
+
+The other issue is that the psychiatrist probably bills separately for the two codes, breaking down the $450 actual charge into parts.  We have no idea how to do this to allow for maximal reimbursement-- the insurance companies tell out-of-network doctors that this is proprietary information, so maybe if you call the insurance company and ask them what the allowed fee is for both codes, you could ask the doctor to break down the components so that you are reimbursed maximally.  So, for example, if the doctor is billing $450 for the therapy and $0 for the 99213 portion, you would only be reimbursed for part of the allowable amount.
+If this sounds ridiculous and confusing to you, please rest assured that it's no easier for the psychiatrists. 
+
+The reader replied:
+I contacted my insurer since my last email.They told me the data about allowable amounts comes from Fair Health (which used to be Ingenix which I referenced in an earlier email). They said when there aren't 9 doctors billing codes in a particular area, Fair Health uses some formula to come up with the amounts. I've emailed the general email box at Fair Health asking them how they come up with this. I also asked when they would compile actual data (now that it exists in 2013) and adjust the rates accordingly.
+I forgot to mention the provider has billed for different sets of codes this year and the reimbursement has been exactly the same. This makes me think the insurer is just assigning a basic charge to all the codes and applying it. I will have to see if the doctor can split the bill according to the codes to see if that makes a difference as you suggested.
+Just realized fairhealthconsumer.org lets you input codes and gives you reimbursement amounts.
+
+Haven't found answers to my questions about the new codes and updating reimbursements based on actual billings.
+Dinah said: The fairhealthconsumer.org formula may be helpful to both patients and doctors, so I thought I would share it.  It discusses how benefits work if you go in and out of your network, how much you can expect to be reimburse.  And it allows you to look up the expected fees for a service by zip code then CPT code.  I've discovered that I'm worth considerably more in the high rent districts.

@@ -1,0 +1,28 @@
+On Saturday, October 18, Dr. Taylor of St. Jude Children’s Hospital was the guest on our KDA chat room.  As I reported earlier, a paper was just published recently and Dr. Taylor joined us to discuss the findings and potential implications.  Because of the length of the chat, I am breaking the article into two parts.  The actual paper can be read by following this link:  Neuron.  The press release can be read at this link:  EurekAlert.
+
+Below is Part I of the chat with Dr. Taylor.  Part II can be read this coming Friday.
+
+
+
+JPT:  We just published a paper that we have been working on for about 5 years... and I think out results have important implications for how we try to treat KD.
+
+As many of you know, the dominant hypothesis in the field, not just KD but also other "polyglutamine diseases" as well, related to the formation of aggregates that may be toxic.  The question we asked ourselves 5 years ago... was how a single mutation (polyglutamine expansion) could lead to so many different disease.
+
+For example, the mutation that causes KD is the same as the mutation hat causes Huntington's disease, but they are nothing alike in many of the poluglutamine diseases there are aggregates of the affected protein (although I don't think this has been formally shown in KD) and the feeling has been that this aggregation is causing the toxicity, but since the diseases look so different, we figured there must be something about each specific disease protein (the androgen receptor in KD) that specifies what cells are affected in each disease the huge clue staring us in the face with respect to KD is the fact that only males are affected... and we learned from several studies in 2002 that the basis for make specificity is higher levels of androgens in males... and we puzzled over that for a few years, thinking maybe androgen binding to the androgen receptor (AR) promoted aggregation.  But that wasn't what we found.
+
+
+Another thing that normally happens when the AR binds hormone (androgen, testosterone, all synonyms for our discussion) it moves into the nucleus of the cell so maybe nuclear localization was necessary for the mutant AR to do its dirty work.  And that turned out to be true!  But why would that be?
+
+
+
+One idea was that AR was more prone to aggregation in the nucleus or AR was more prone to cleavage in the nucleus.which might promote aggregation and that has been the placeholder hypothesis for many years now and this hypothesis has been he basis for treatment development strategies.
+
+The idea has been to try and increase elimination of mutant AR by exploiting cellular protein degradation pathways and there's no doubt that accelerating the degradation of mutant AR is beneficial.  It's just hard to do outside a model system, but we got to thinking ... what is the actual “target” of toxic AR in the nucleus?  Is hormone binding the only normal function of AR related to development of disease?  The more we thought about it, the les likely it seemed that simple aggregation would be sufficient to differentiate KD from other disease with the same mutation.
+
+We decided to systematically evaluate every piece of AR that we could to see if any of them contributed to the development of disease.  To do this we needed to make hundred of different versions of AR, each differing by one or two amino acids but we also needed a system in which to monitor the effect of all these changes to make a mouse model of each, and evaluate the phenotype of each, was impossible for us. It would have taken 20 years.  We could have used cell culture, but I have limited confidence in cell culture systems for KD for a number of reasons, and it's also a very non-physiological system.  So we used a simple animal model that has been the workhorse of genetics for over 100 years: the fruit fly!
+
+As many of you know, we introduced mutant form of the human androgen receptor into fruit flies and they developed hormone-dependent neurodegeneration that correlated with polyglutamine length.  Essentially, this is a "fly model of KD."  This model captures all of the molecular events that are initiated by hormone binding and culminate in neurodegeneration.  Flies are small, cheap, develop quickly, and have large litters, so we began making hundreds of transgenic fruit flies...each carrying a slightly different version of the human AR gene.
+
+This project was mostly conducted by my graduate student Natalia Nedelsky with help from lots of folks, most notably Mara Pennuto.
+
+Note:  Part II will be published on Friday.  In Part II, Dr. Taylor further explains the implications of their findings as well as discusses the two potential treatments (ASC-J9 and IGF-1) based upon the current findings.

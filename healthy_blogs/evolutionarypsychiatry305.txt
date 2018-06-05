@@ -1,0 +1,26 @@
+I believe the hierarchy of medicine explains everything. Cardiologists had the EKG as soon as some poor soul was convinced to dunk his feet in (dilute) battery acid. Psychiatrists not only have no procedures (except shock therapy), we eschew modern medicine, not wearing the normal white coat uniform, not even touching our patients. We just observe, and, horrors, talk. And, as we well know, insurance companies pay you to do things to your patients, not talk to them.
+
+Maybe cholesterol hates the heart (I doubt it), but it loves the brain. 25% of our body's cholesterol is found in the brain, and synapses need cholesterol do do their whole "thinking" thing. Without cholesterol, or with low cholesterol, our brains are toast. In addition to forming the synapse and being involved in key signaling processes, cholesterol is vital for the formation of myelin. Myelin is the insulation that keeps our wires from getting crossed in the nervous system. People with Alzheimer's have decreased ability to make and repair damaged myelin. And so we come around to ApoE, an apolipoprotein, and the key to cholesterol in the brain.
+
+My previous post, Alzheimer's Disease and Saturated Fat, was a bit of a red herring. I was trying to be fair and throw around some of the common theories so they could see some air time. But, to be perfectly honest, the high cholesterol theories of Alzheimer's Disease are nonsensical and ridiculous. They make no biologic sense. Let me explain.
+
+Apolipoproteins hang out on lipoproteins. Lipoproteins have an important job - they carry fat and cholesterol through the blood and central nervous system. They are carefully constructed so that the delicate fats survive the dangerous trip through the bloodstream - the fats and cholesterol are carefully esterified to a triacylglycerol molecule and protected by a shell of phospholipid, apolipoprotein marker, and unesterified cholesterol.
+
+
+
+
+
+
+The picture is a chylomicron from wikipedia. The transport for dietary fat from the intestines to the liver. Chylomicrons are big and nonspecific. They have all the apolipoproteins hanging out on the surface so they can, presumably, become any kind of lipoprotein that is needed. Apolipoproteins are the keys to different areas of the body and to the different kinds of lipoprotein that carry cholesterol and fat around in the bloodstream. ApoE is the key to the brain. I mean that quite literally - ApoE is recognized by receptors so that ApoE-marked lipoproteins and their cholesterol and fat cargo are allowed into the brain.
+
+The kind of apolipoprotein E we have is determined by genetics. ApoE3 is the most common and is pretty neutral with respect to Alzheimers risk. ApoE4 is linked with a higher incidence of Alzheimers. ApoE2 is linked with a lower incidence of Alzheimers. It is thought that ApoE4 is an inefficient key - that ApoE4 is piss-poor at letting cholesterol and fats get into the brain.
+
+(An important aside - there's a reason dietary fats are carried in big globules like LDL or HDL or chylomicrons - the blood is an oxygen and microbe rich place. The LDL and HDL or whatever particles protect the valuable fats from oxidation and infection while they are transported. Keep that in mind.)
+
+Let me rephrase - Alzheimer's disease is due to lack of the appropriate fat and cholesterol in the brain.
+
+I don't make this stuff up. There are studies, in good journals (1)(2). Maybe it is a dirty secret, but cholesterol and lipids are actually way lower in the CSF of Alzheimer's patients than in healthy controls (as low as 1/6th as much important lipid as in controls). It is quite interesting that people with ApoE4 tend to have high levels of circulating cholesterol. Is this because they need higher blood cholesterol to transport dearly needed cholesterol into the brain? (3)(4).
+
+And what is beta amyloid, anyway? Turns out this pesky accumulating plaque protein actually seems to help the brain use pyruvate as fuel in lieu of glucose. Why the heck would that happen? ApoE can signal the brain to change from glucose as a primary fuel to fats (ketone bodies) and pyruvate. It is postulated this switch is caused when the brain is under microbial attack. In this theory, amyloid beta is not a cause of Alzheimer's, but rather a defense against it. (5) . More evidence for this theory comes from a case study that MCT oil seemed to be protective or reverse symptoms of Alzheimers (6). There is also a theory that Alzheimer's patients suffer from a poor ability to use glucose as fuel in the brain, so that a change to a ketogenic metabolism is exceptionally helpful (7).
+
+While these theories are speculative, at least they make biological sense. As opposed to the lipid hypothesis. More than once, I've helped patients with mild cognitive impairment improve symptoms of foggy thinking by getting rid of the statin. (None of those patients had a previous heart attack, history of stroke, or even exceptionally high cholesterol, so it was an easy sell to the primary care doctor.) Our brains need cholesterol. Desperately. Don't let a cardiologist convince you otherwise.

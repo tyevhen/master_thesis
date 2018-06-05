@@ -1,0 +1,50 @@
+If you teach a man to fish, you feed him for a lifetime. But if you teach robots to fish, does anybody eat?
+
+Technology is costing jobs, and it may in fact cost us half of all current jobs in the next 20 years, by some estimates, so it's critical to try to get an understanding of what's going on, and for that you need to understand the basics of capital and income; and for that, you need to read Thomas Piketty's bestseller Capital in the Twenty-First Century. No, seriously. You need to read it. Otherwise you won't know how to interpret what's going on in the economy and you won't be able to talk knowledgeably on the subject; you'll be just another braying jackass.
+
+Thomas Piketty
+Piketty uses hundreds of years' worth of data to show us where we've been and where we are now. That, by itself, is enormously valuable (and reason enough to read the book). The stats show that income and wealth inequality are quite real, and have existed to various degrees for a long time. We're in a period of increasing wealth inequality and income inequality. That's "where we are now."
+
+But Piketty goes further, in proposing certain "laws of capitalism," and one of his primary takeaways is that the rate of return on capital is generally higher than the rate of economic growth (r > g).
+
+Critics point out that for r > g to be true over the long term, the elasticity of substitution of labor and capital would have to be greater than one (which of course Piketty says it is), but the bulk of the research shows that actually, this elasticity (when it's been measured) is less than one in most industries.
+
+The elasticity of subsitution of labor vs. capital is one of those economic concepts that sounds simple as fuck reasonably straightforward, but ends up being a bit less intuitive than you might think.
+
+To wrap your head around it, you need to start by realizing elasticity is a ratio. Valid values can go from zero to infinity.
+
+Basically (skipping some math here), elasticity of substitution is a measure of how easy it is to substitute product B for product A (and vice versa).
+
+Elasticity of substitution shows what happens to total
+spending on Commodity 1 when spending on Commodity 2
+changes. When goods are interchangeable, elasticity is infinite.
+When the elasticity of substitution for two products is less than one, they are considered complementary goods. A price increase in product A might lead to an increase in net expenditure on product A; meanwhile B might not be dramatically affected. If the elasticity of the two products is greater than one, then they are substitute goods. An increase in the price of product A would drive people to buy product B, so that net expenditures on product A go down.
+
+The more the elasticity of substitution exceeds a value of one, the more willing consumers of the two products are to change the two in response to price movements. In the case of perfect exchangeability, elasticity is infinite.
+
+That's clear as mud, right? (You're so welcome.)
+
+Say a business relies, in large part (in order to make its product), on screwdrivers and hoses. A greater investment in screwdrivers might pay off, but screwdrivers and hoses are not interchangeable, so the elasticity of substitution for them is likely closer to zero than to one.
+
+Marx showed (and every economist agrees) that labor can be treated as a commodity. Indeed, during Roman times (and in the U.S. before 1865), slavery was legal and it meant that a human being had a finite cash value. Cash and humans were exactly interchangeable and the elasticity was infinite.
+
+Where modern economics starts to go off the rails is in trying to understand the elasticity of substitution of computer technology and human beings. There are no empirical studies on this (that I could find), so if you're an econ grad student, consider it a ripe area.
+
+I suspect Piketty would say that the interchangeability of "smart" technology and humans is obviously high, and the elasticity infinite. When Google replaces a human car driver with software, that's pretty good evidence of tech/human interchangeability. But we don't have to wait for driverless cars. The Internet has already swapped out travel agents for software, to name one example. Likewise, robotic call centers have replaced receptionists in many industries (as you know if you've tried to get through to your credit card company lately). Stockbrokers have mostly gone away; you do stock trades yourself, now, online. Soon we'll be doing primary-care medical diagnoses ourselves with the aid of smart watches and software; you'll only need to see a "real" doctor for "real" emergencies and esoteric issues like prostate cancer, but even then a robot will do the actual surgery. (Over 400,000 procedures a year are now done robotically.) And so on.
+
+So it should be pretty obvious that the elasticity of substitution of capital and labor, today (never mind 10 or 20 years ago, when most of the studies of elasticity were done, on smokestack industries), is high, and headed higher. Also, it should be extremely obvious that job crapification (and outright destruction) by technology is forcing more and more people to look for fewer and fewer jobs that can't be done by software. (Those jobs tend to be shitty, hence crapification.) A hundred years ago, people who lost their jobs due to technology could find other jobs, because 99.9% of jobs couldn't be done by machine. That's no longer the case. That's why we're living in the economic end times, that's why you need to read Piketty, and that's why you need to hold onto your present job for as long as possible, because it may be the last one you ever have.
+
+ ☙ ❧
+
+Tired of lies and half-truths about mental illness? Arm yourself with some facts. Check out my free book Mental Health Myths Debunked. Tons of info, tons of live links, lots of straight talk about depression, suicide, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data, so you can weigh the evidence for yourself). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms are based on obsolete data. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+ ☙ ❧
+
+Many thanks to the following folks for retweeting me yesterday:
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.
+ 

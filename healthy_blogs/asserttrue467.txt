@@ -1,0 +1,41 @@
+Obesity rates began trending sharply higher in 1980.
+Coincidentally, 1980 was the year of the first Dietary
+Guidelines for Americans by the Department
+of Health and Human Services.
+Recently, I wrote about the fact that if we could eliminate all heart disease and all cancer overnight, human life expectancy would increase only slightly: just 6.7 years if heart disease is eliminated, 3.3 years if cancer is eradicated. (Those are CDC's numbers.) It seems clear that to extend life expectancies much beyond, say, 100 years will require more than merely eliminating the most common causes of death. It will require re-engineering the human body to be a good deal more robust in terms of its self-repair capabilities.
+
+In my previous post, I hinted at the fact that today, it takes a much larger change in mortality rates to move the life-expectancy needle than it used to. The non-straightforward relationship of life-expectancy delta to mortality-rate delta is modeled in terms of something called Keyfitz Entropy, and the strange "diminishing returns" effect has been called Taeuber's Paradox (after public health researcher Conrad Taeuber). If you'd like more background on this, I suggest you start with the 2001 Science article by Olshansky et al. ("Prospects for Human Longevity") which shows that, because of Keyfitz/Taeuber effects, it's unlikely the U.S., at its current rate of mortality progress, will see 100-year life expectancies until the year 2485 (for women) or 2577 (for men).
+
+Over the short term, I remain quite pessimistic. Dreamers like Ray Kurzweil are predicting immortality by 2040. My prediction is quite different. In the United States, we should expect to see life expectancies peaking right about now and start trending downward by 2020, based mostly on the sudden jump in obesity that began in 1980 (and the doubling of diabetes in the last 15 years).
+
+Some 35.7% of adult Americans are obese and another 33% are overweight but not obese. The numbers for children are starting to approach those for adults. And we're continuing to trend sharply in the wrong direction. This will show up as an unwelcome drop in life expectancy when all the follow-on effects of epidemic obesity and diabetes begin to be realized.
+
+It's important to note that overweight is a predictor of
+Type 2 diabetes
+hypertension
+stroke
+coronary artery disease
+pulmonary embolism
+asthma
+chronic back ailments
+osteoarthritis (and related hip and knee replacement)
+gallbladder disease
+obstructive sleep apnia
+colorectal cancer
+kidney cancer
+pancreatic cancer
+endometrial cancer
+ovarian cancer
+post-menopausal breast cancer
+Those are just the possible somatic outcomes. Psychiatric comorbidity is also extremely common with obesity (and with chronic illness of any kind).
+
+Smoking has been on the decline for decades but is starting to level off at around 15% of the U.S. population. Heart disease has decreased in parallel with the decades-long drop in tobacco consumption (although lung cancer rates, for some unknown reason, have merely leveled off and not gone down).
+
+There are some important lessons to be learned here.
+Existing public policy efforts in combating obesity have been, and continue to be, an abject failure. Weight gain in the U.S. is out of control, across most demographics, including young children. A sharp increase in rate of weight gain started around 1980. The change in slope after 1980 doesn't correspond to a sharp increase in TV-watching, online gaming, or many of the other (entirely speculative) causal factors usually cited for obesity. There haven't been any sharp increases in causal factors other than calorie intake.
+Obesity is a proven risk factor for at least 16 serious illness types (not counting the adverse outcomes associated with diabetes). Because of the lead time required for these diseases to develop, we have not yet begun to see the full impact of the 1980 increase in the rate of weight gain.
+Much of the progress made against heart disease over the last 40 years has been driven by reduced cigaret smoking. But smoking rates are leveling off now (at around 15%) and aren't likely to go much lower, for a variety of reasons. Most of the low-hanging fruit, in heart-disease and cancer prevention, has already been picked. We shouldn't expect dramatic lowering of the mortality rates for heart disease or cancer (the No. 1 and No. 2 causes of death) going forward.
+When obesity knock-on effects (still in the pipeline) show up as increased mortality from diabetes, stroke, heart attack, cancer, etc., life expectancy in the U.S. will actually start going down.
+It should be obvious that the single most important thing we can do right now to increase overall life expectancy in the U.S. is to get people to lose weight and teach their children to eat right. For a lot of reasons, I'm pessimistic on both of those. Corporations have no incentive to make children want to eat right; parents aren't doing the job; current public-health policies aren't doing the job; and it's politically unpopular in the U.S. right now to have the government step in with meaningful social programs.
+
+In upcoming posts, I want to switch gears and start talking about the molecular biology of aging and the sorts of things we can do now (not 25 years from now) to extend life expectancy by 20%, 30%, or more. Stay tuned for details.

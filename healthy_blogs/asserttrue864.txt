@@ -1,0 +1,21 @@
+A few days ago I speculated that you could lose an expensive piece of hardware (such as a $300 million spacecraft) if a non-deterministic garbage-collection event were to happen at the wrong time.
+
+It turns out there has indeed been a GC-related calamity: one in which $2 million was on the line. (To be fair, this particular calamity wasn't actually caused by garbage collection; it was caused by programmer insanity. But it makes for an interesting story nevertheless. Read on.)
+
+The event in question involved a driverless vehicle (shown above) powered by 10K lines of C# code.
+
+At codeproject.com, you'll find the in-depth post-mortem discussion of how a GC-related bug caused a driverless DARPA Grand Challenge vehicle to crash in the middle of a contest, eliminating the Princeton team from competition and dashing their hopes of winning a $2 million cash prize.
+
+The vehicle had been behaving erratically on trial runs. A member of the team recalls: "Sitting in a McDonald's the night before the competition, we still didn't know why the computer kept dying a slow death. Because we didn't know why this problem kept appearing at 40 minutes, we decided to set a timer. After 40 minutes, we would stop the car and reboot the computer to restore the performance."
+
+The team member described the computer-vision logic: "As the car moves, we call an update function on each of the obstacles that we know about, to update their position in relation to the car. Obviously, once we pass an obstacle, we don't need keep it in memory, so everything 10 feet behind the car got deleted."
+
+"On race day, we set the timer and off she went for a brilliant 9.8 mile drive. Unfortunately, our system was seeing and cataloging every bit of tumbleweed and scrub that it could find along the side of the road. Seeing far more obstacles than we'd ever seen in our controlled tests, the list blew up faster than expected and the computers died only 28 minutes in, ending our run."
+
+The vehicle ran off the road and crashed.
+
+The problem? Heap exhaustion. Objects that should have been garbage-collected weren't. Even though delete was being called on all "rear-view mirror" objects, those objects were still registered as subscribers to a particular kind of event. Hence they were never released, and the garbage collector passed them by.
+
+In Java, you could try the tactic of making rear-view-mirror objects weakly reachable, but eventually you're bound to drive the car onto a shiny, pebble-covered beach or some other kind of terrain that causes new objects to be created faster than they can possibly be garbage-collected, and then you're back to the same problem as before. (There are lots of ways out of this dilemma. Obviously, the students were trying a naive approach for simplicity's sake. Even so, had they not made the mistake of keeping objects bound to event listeners, their naive approach no doubt would have been good enough.)
+
+As I said, this wasn't really a GC-caused accident. It was caused by programmer error. Nevertheless, it's the kind of thing that makes you stop and think.

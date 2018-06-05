@@ -1,0 +1,52 @@
+1. Assisting a detained patient to escape from hospital
+I last posted on criminal offences created by the Mental Health Act on 15th January 2012. Since then, the case of Rebecca Martin has now reached a conclusion.
+
+This case appears to be a prosecution under Sec.128. Sec.128 makes it an offence to assist a detained patient “to absent himself without leave”. The maximum penalty is 2 years imprisonment and/or an unlimited fine.
+
+Rebecca Martin was a care assistant in a secure hospital for patients with learning difficulties and challenging behaviour in Suffolk. She developed a relationship with one of the detained patients, Luke Sparks, and helped him to escape from the hospital. He attacked a member of staff with a fire extinguisher and obtained the keys, while Martin waited outside in a car. Once free, she drove him to the Bristol area, where they were both arrested a couple of days later.
+
+At Ipswich Crown Court on 29th March 2012 Martin was sentenced to 18 months imprisonment. It is reported that the Judge “described her as ‘naïve’ and said she had thought she was in love with Sparks and that he was in love with her. He said she was guilty of a serious breach of trust and had potentially endangered the lives of other people by helping Sparks to escape.”
+
+2. Mental Health Professionals and Sexual Misconduct
+Prosecutions like this are rare, although it is less rare for professionals and care workers to develop infatuations with service users. This appears to be equally common among both male and female professionals, although the reasons behind these inappropriate relationships appear quite different.
+
+I have been reading a selection of disciplinary hearings reported on the GSCC website (the soon to be abolished General Social Care Council is responsible for registering social workers). It would appear from these cases that male social workers who engage in unprofessional sexual contact with female service users tend to be overtly exploitative. One male social worker, for example, threatened to section a female service user if she did not cooperate with him.
+
+Female professionals, however, seem to become embroiled in intense, although ill-advised, emotional relationships which they perhaps see as nurturing rather than predominantly sexual or exploitative in nature.
+
+One such example is that of Stephenie Reeves. In February 2008 she appeared in Preston Crown Court and was found guilty of “engaging in sexual activity with a person who had a mental disorder”. She was a psychologist working in a secure unit near Preston when she developed an inappropriate relationship with a 20 year old detained male patient which resulted in her pregnancy.
+
+It was reported that she was “due to give birth next month to the inmate's baby, and the pair plan to resume their relationship when he is released from hospital”.
+
+The Judge stated: "This involves a grave breach of trust on your part… You breached that trust by first of all allowing an emotional relationship to develop that was wholly inappropriate… Such a breach would usually invite a custodial sentence but, because of the extremely unusual circumstances, I feel able to depart from sentencing guidelines… It is not a case of you taking advantage of his mental disabilities for your sexual prevarication. You were not a predator.'' She was given a suspended sentence of 12 months.
+
+2. Approved or not? Does it really matter?
+Mark Francis was a social worker who fell foul of S.114 MHA. S.114 relates to the approval of mental health professionals to discharge the duties of the AMHP (and before that, the ASW). AMHP’s (and before 2008, ASW’s) can only exercise the powers under the Act to detain patients if they have been duly approved by the local authority. Additionally, since 2005, social workers have to be registered by the GSCC in order to practice as social workers.
+
+Mark Francis was a very experienced social worker who qualified in 1984 and had practiced as an ASW from the mid 1980’s onwards. When it became a requirement to be registered by the GSCC in 2005, Mark Francis omitted to do so. However, he continued to practice as a local authority social worker, and as an ASW.
+
+His employers initiated disciplinary proceedings, and he was given a final written warning for failing to register with the GSCC and working as an ASW when not registered, both being classified as gross misconduct.
+
+Francis then belatedly applied to the GSCC to be registered, but his application was refused. He consequently appealed to the First Tier Tribunal (First Tier Tribunal, [2010] UKFTT 434 (HESC), 21 September 2010), which heard his case in September 2010. His appeal was dismissed.
+
+Francis’s case may appear to be little more than that of a lone professional who somehow lost his way. However, the implications of his professional omissions are potentially very far reaching.
+
+During the time he was practicing as an ASW, but without being registered with the GSCC, and therefore not being “approved”, any actions he took in exercising the powers of an ASW would have been legally invalid. Any application under the Mental Health Act would have been illegal. Therefore, any detention that arose as a result of his actions as an ASW, regardless of the merits of any individual case, would have amounted to unlawful imprisonment.
+
+How many people did this apply to? It is not known. But such situations, while hopefully rare, as most AMHP’s are very conscious of the law and their role within it, are not unique. A firm of solicitors (O’Donnells) issued the following statement in February 2012:
+
+“We are receiving substantial numbers of instructions from clients seeking clarification over whether their detentions over the last four years have been lawful. Applications made by one particular AMHP were unlawful as that person’s registration had expired.
+
+It follows that, if an original section 3 was invalid, then subsequent renewals and any following CTO, will have been invalid also…We strongly suggest that anyone who believes they have been affected should seek legal advice as soon as possible as those who have been unlawfully detained or placed on a CTO may be entitled to compensation.”
+
+The problem is – how is someone who has been detained under the MHA to know whether the AMHP who made their application was practicing legally or not?
+
+The Code of Practice (4.50) states “AMHPs should identify themselves to the person being assessed, members of the person’s family, carers or friends and the other professionals present... They should carry documents with them at all times which identify them as AMHPs and which specify both the LSSA which approved them and the LSSA on whose behalf they are acting.”
+
+I, and I assume all other AMHP’s, have an ID card issued by the Local Authority who approved me. It has a picture of me, my name, and a statement that I am authorised to act as an “Approved Mental Health Professional”. It also has the date my current approval period started, and the date it expires. I display it in a prominent position whenever I am conducting duties under the MHA.
+
+However, it is very rare for anyone I am assessing to look closely at my warrant. And would they know what it meant in any case?
+
+And unless they were old hands at this sectioning lark, how would they know about the instructions in the Code of Practice, and how would they know about the role and requirements of the AMHP, unless the AMHP told them?
+
+The lessons of this are clear: if you think that at some time you may find yourself on the receiving end of an assessment under the MHA, then you should acquaint yourself with the Mental Health Act 1983, the Reference Guide to the Act, and the Code of Practice. Or read this blog.

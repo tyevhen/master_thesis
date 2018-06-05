@@ -1,0 +1,25 @@
+Darn those pesky Japanese.
+
+Sometime over the last few years, when I wasn't looking, the Japanese muda-mura-muri meme slipped into the lexicon of people concerned with lean process management and agile software development. Perhaps you're already up-to-speed on it. If not, here's the crash course.
+
+Muda (think French merde) is waste: any activity or excess resource consumption that does not add value to whatever you're creating. Suppose you're doing a load of laundry. Using an excess of laundry soap would be muda.
+
+Mura is any imbalance or unevenness in your process, whether brought on by you, or imposed on you from the outside. You can think of it as the imbalance that arises from disruption of an otherwise smooth process. Henry Ford famously chose black as the only paint color you could have on a Model T. That's because he knew that different colors of paint have different drying times. Ford standardized on one color of paint (black, the fastest to dry) to eliminate mura on the assembly line caused by uneven drying times of paints.
+
+Muri means unreasonable, impossible, or overburdening. For example: Putting two tons of cargo in a truck designed to carry one ton is muri.
+
+Muda, mura, and muri are often interrelated. If you're running a delivery business and you overload a truck (muri) to the point where it breaks down, that truck's load will now have to be redistributed to other trucks, which will disrupt the normal routes of those trucks (mura) and doubtless cause them to burn more gas and wear out break pads faster due to the added weight and extra time spent on the road (muda).
+
+It's possible to apply the muda-mura-muri meme to writing. One can think of a static interpretation as well as a process-oriented interpretation.
+
+In the static view, verbosity obviously constitutes an example of muda: Extra words are wasteful. Uneven coverage of a topic (for example, devoting too much attention to an Introduction and not enough to a Conclusion) is an example of mura. Overuse of a particular word, phrase, quotations, or example is muri.
+
+I once had the opportunity to look at the first draft of the first chapter of someone's novel, in manuscript form. It was written in third person, and I was struck by the constant use of "he/him/his" pronouns. In fact, I think I calculated that over 12% of the words in the chapter were he, him, or his. That's asking one pronoun to do too much. That's muri.
+
+From a process point of view: Suppose you have an important writing assignment that will require you to come up with a 10,000-word document in 20 working days. Obviously, to avoid mura (imbalance), you should pace yourself so as to produce around 500 finished words a day, or maybe you should plan to produce 1000 words of raw output per day for ten days, then revise 1000 words per day for another ten days.
+
+If the writing of your piece requires ten rough drafts, that's probably muda: pure waste. No one should need to write ten drafts of anything.
+
+The standard college trick of doing research for 19 days, then pulling an all-nighter, is a gross example of muda, mura, and muri all in one: You can't realistically do 20 days of writing in one all-nighter. That's muri: unreasonable burden. The unevenness of the process (19 days of no writing, then one day of frantic writing) is mura. The sheer wastefulness of spending a disproportionate amount of time on research (allowing only a tiny amount of time for actual writing) is muda.
+
+So, but. That concludes the Japanese meme portion of today's lesson. Now if you'll excuse me, I have to get back to writing the same old muda for a living.

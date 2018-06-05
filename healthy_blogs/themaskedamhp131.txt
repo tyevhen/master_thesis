@@ -1,0 +1,48 @@
+What a tasty graph!
+  The latest statistics for people detained in hospital or on Community Treatment Orders has just come out. These cover the period from 1st April 2011 – 31st March 2012.
+
+I always get a little moist looking at these statistics. I guess some people might think that’s just wrong, but what these statistics do is to lay bare some curious and perhaps unexpected consequences of law and policy, and they can provide insights into how the trends and changes in the real world impact on the use of the MHA with people with mental disorders.
+
+So what do these latest statistics reveal? Well, last year, when the statistics for 2010-2011 came out, I wrote a post about what these statistics revealed about Community Treatment Orders (AreCommunity Treatment Orders Taking Over the Mental Health Act?).
+
+I noted back then: “What is clear is that, after only two full years of its use, CTO’s are beginning to seriously impact on the overall use of the MHA. There appears to be an inexorable rise in the number of people in the community subject to CTO’s, as once made, CTO’s can be extended indefinitely.”
+
+So what do the latest statistics show about CTO’s? Guess what, the report finds:
+
+“The total number of people subject to detention or CTO restrictions under The Act has continued to rise. On the 31st March 2012, this figure stood at 22,267 people, representing a 6 per cent increase since the previous year… There were 4,220 CTOs made during 2011/12, an increase of 386 (10 per cent) since last year.”
+
+Hand in hand with this is a reduction in the overall numbers of people admitted under Section 3. The report notes:
+
+“In the 2011 publication of these statistics, we suggested that the decrease in the number of admissions via Part II Section 3 may be linked to the rise in the number of people on CTOs... Before the advent of CTOs, patients with a particular type of case would have been repeatedly admitted to hospital for treatment under this Section. What we may now be seeing is these patients are instead placed on CTOs and are seen in hospitals under recall instead. The underlying Section will only be reinstated if the CTO is revoked.”
+
+As an AMHP, I am certainly finding increasing amounts of my work relate to CTO’s. In the last 12 months, I have been involved in 4 new CTO’s (Sec.17A). But I have also been involved in the extension of CTO’s on 6 occasions (Sec.20A). These CTO’s and CTO extensions also result in the necessity to write Tribunal and Managers Reports, and to attend Tribunals and Managers Hearings.
+
+And what else do these statistics reveal?
+
+“Total detentions in independent sector hospitals increased by 21 per cent; a large proportion of this increase was attributable to a 45 per cent increase in uses of Section 2.”
+
+What exactly does this mean? Although the total numbers of people detained in independent hospitals is small compared to detentions in NHS hospitals (3,045 compared to 27,855) there is a very strange discrepancy between Sec.2 admissions to independent hospitals in 2010-11 (696) and in 2011-12 (1,011) – an increase of 45% year on year.
+
+I have a theory about this, based on my and my local AMHP colleagues’ experience. While I cannot comment on AMHP’s experiences in other parts of the country (although I would welcome feedback from other AMHP’s) what I do know is that my colleagues have been finding it increasingly difficult to find beds in local NHS hospitals.
+
+Over the last year it has become not unusual in my fairly rural area to have to travel 50 miles or more to admit a patient to hospital. There have been times when there have been no psychiatric beds at all in the entire region. When this happens, the only alternative is to use an independent hospital, at huge expense, of course. This has in any case tended to be the default for young people under the age of 18, and also for people with eating disorders, for whom there are no specialist Trust beds in the region at all.
+
+And how has this shortage arisen in the first place? Could it be anything to do with the year on year cutbacks to NHS and mental health funding, which has resulted in reductions in beds, and in the numbers of community staff, who might be able to avoid admissions in the first place (and with more to come as the cuts continue to bite)? I couldn’t possibly comment.
+
+I have noticed some other intriguing trends in these figures. One relates to the use of Sec.4. The report says:
+
+“Section 4 is used to detain a person when emergency assessment is required and compliance with the usual Section 2 requirements would involve an ‘undesirable delay’. Uses of this power have decreased by 14 per cent since 2010/11 (from 535 to 458), continuing a downward trend in its use over the last five years (in the 2007/08 reporting year, there were 851 uses of Section 4).”
+
+Although the use of Sec.4 is comparatively rare, it is good to see that its use is declining year on year, as it is frequently only used when it has been impossible to obtain a Sec.12 approved doctor, who has particular experience and knowledge of mental disorder. I would like to think that this is because it is becoming easier to obtain Sec.12 doctors for assessments.
+
+Then there are the statistics for the use of Sec.136. Sec.136 is used by the police when they find someone in a public place who appears to be mentally disordered and in need of care or control. This seems to have increased year on year at the same rate that Sec.4 detentions have decreased over the same time (not that I can see a connection, mind). Also the numbers are hugely different: in 2011-12 a total of 23,569 people were detained by police under Sec.136.
+
+The report comments:
+
+“During 2011/12 the majority (11,567 out of 14,149) of Section 136 uses in a hospital setting did not result in formal detention (under Section 2 or 3). Following use of Section 136, a patient who is not detained is either discharged or remains in hospital voluntarily, but data on these outcomes is not collected separately. The proportion of Section 136 uses not resulting in detention has increased from 71 per cent in 2007/08 to 82 per cent in the most recent reporting year.”
+
+I think these figures are troubling. Since the latest figures show that 82% of people on Sec.136 are not then formally detained (there are unfortunately no statistics to differentiate between people who then remained in hospital informally and those who were not subsequently admitted to hospital at all), it seems to be intimating that the police are frequently using their powers under Sec.136 inappropriately.
+
+Some of these detentions might be due to intoxication by drugs or alcohol, which would not tend to result in eventual hospital admission, but which could provide a police officer with sufficient grounds to use Sec.136. However, it may also indicate a need for more training for police officers in identifying mental disorder in the first place.
+
+There’s a lot more to be gleaned from this report. Those sufficiently interested can study them in full here.

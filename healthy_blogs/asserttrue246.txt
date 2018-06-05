@@ -1,0 +1,24 @@
+For some time now, I've been puzzling over a fairly big riddle, and I think an answer is becoming clear.
+
+The riddle is: Why, in so many organisms, do codons turn up at a rate approximately equal to the rate of usage of reverse-complement codons? Take a good look at the symmetry of the following graph (of codon usage rates in Frankia alni, a bacterium that causes nitrogen-fixing nodules to appear on the roots of alder plants).
+
+Codon usage in Frankia alni. Notice that a given codon's usage corresponds, roughly, to the rate of usage of the corresponding reverse-complement codon.
+
+This graph of codon freequencies in F. alni shows the strange correspondence (which I've commented on before) between codons and their reverse complements. If GGC occurs at a high frequency (which it does, in this organism's protein-coding genes), the reverse-complement codon GCC is also high in frequency. If a codon (say TAA) is low, its reverse complement (TTA) is also low.
+
+I've seen this relationship in many organisms (hundreds, by now); too often to be by chance. The question is why codons so often occur in direct proportion to the rate of occurrence of corresponding reverse complements. It doesn't make sense. The notion of base pairing should not come into play when an organism (or natural selection) chooses codons, because all of a protein gene's codons are collinear, on one and the same strand of DNA; base-pairing rules do not play a role in choosing codons.
+
+Or do they?
+
+I think, in fact, base-pairing does a play a role. The answer is obvious, when you think about it. We know that (single-stranded) RNA, if properly constructed, will fold back on itself to form loops and stems: complementary regions will base-pair with each other. Certainly, if secondary structure in mRNA is widespread, it will have consequences for codon selection. Codons in "stem" regions will complement each other.
+
+And so it's fairly obvious, it seems to me, that a reasonable explanation for the riddle of "reverse complement codon selection" is that secondary structure of mRNA (or possibly single-stranded DNA) is far more pervasive than any of us might have suspected. It's pervasive enough to affect codon usage in the way shown in the graph above.
+
+Is there any evidence that secondary structure is widespread? I think there is. If you go looking for complementary sequences inside protein-coding genes in F. alni, for example, you find many. As a probe, I had a script check for intragenic complementing length-12 sequences ("12-mers") in all 6,711 protein-coding genes of F. alni. (I presented pseudocode for the script in an earlier post.) Based on the known base-composition stats of the organism, I expected to find 5,440 such 12-mer pairs by chance. What I found was 6,319 such pairs located in 2,689 genes. (When I looked for  complementing 13-mers, I expected to find 1,467 occurring by chance, but instead found 3,592 such  pairs in 2,086 genes.) In a previous post, I showed similar results for Sorangium cellulosum (a bacterium with an enormous genome). Previous to that, I showed similar results for Mycoplasma genitalium (which has one of the tiniest genomes of any free-living microbe).
+
+But do these regions of internal complementarity affect codon choice? Indeed they do. When I looked at the top 40% of F. alni genes in terms of the number of internal complementing 12-mers, I found a Pearson correlation between codons and reverse-complement codons of 0.889. Looking at the bottom 60% of genes, I found the correlation to be lower: 0.766. These numbers, moreover, were virtually unchanged (0.888 and 0.763) when I re-calculated the Pearson coefficients using expectation-adjusted codon frequencies. That is to say, I used base composition stats to "predict" the frequencies of each codon, then I subtracted the predicted number from the actual number, for each codon. (Example: The frequency of occurrence of guanine, in F. alni protein genes, is 0.35794, and the frequency of cytosine is 0.37230, hence the expected frequency of GCC is 0.35794 * 0.37230 * 0.37230, or 0.04961. The actual frequency is 0.07802.) The correlation still existed, practically unchanged, after adjusting for expected rates of occurrence of codons.
+
+The bottom line is that the correlation between the frequency of occurrence of a given codon and the frequency of its reverse-complement codon, which is otherwise very hard to explain, is quite readily explained by the presence, in protein-coding genes, of a significant amount of single-strand complementarity (of the type that could be expected to give rise to secondary structure in mRNA). On this basis, it's reasonable to suppose that conserved secondary structure is actually a major driver of codon usage bias.
+
+
+Please show this post to your biogeek friends; thanks!

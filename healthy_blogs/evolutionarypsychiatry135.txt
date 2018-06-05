@@ -1,0 +1,33 @@
+As we discussed before, humans are rather unique among primates in that our brains appear to shrink as we age.  When I first posted the article, Steve Parker, M.D.* noted that there was a recent article on PLOS1 about B vitamins decreasing brain shrinkage, so I thought I would investigate the matter further.  Recently I've been going through this years' issues of The Carlat Report** to get some CMEs, and they mentioned the B vitamins and that study too.
+
+Snow Patrol:  Called Out in the Dark (right click in new tab to open)
+
+But before we get to that study, let's look at an older one, from 2002:  Homocysteine and Brain Atrophy
+
+(I KNOW.  Homocysteine.  That bad boy of the folate cycle.  Always hanging out when everyone wants him to be recycled and go home.  Possibly cleaving your disulfide bridges and leaving your arteries and cartilage all crispy and brittle.  Maybe just a sign that you aren't eating all your B vitamins, amino acids, and various co-factors that you need.)
+
+Homocysteine (Hcy) has been implicated as a risk factor for vascular disease as well as brain atrophy.  There is evidence to implicate Hcy in increased oxidative stress, DNA damage, the triggering of apoptosis and excitotoxicity, all important mechanisms in neurodegeneration.  Hcy… also causes damage to the vessel wall… the high prevalence of hyperhomocysteinemia in the population and its easy treatability [via B vitamin supplementation - ED] make Hcy an interesting amino acid for future intervention studies in the prevention of degenerative brain disorders.
+
+  So if we want to break it down, homocysteine is part of the one-carbon metabolism cycle.  B12 and folate are also an important part of this cycle, and deficiencies in these are clearly related to nerve damage and neural tube defects in infants.  Deficiencies in either of these vitamins will lead to an increase in homocysteine, which is also apparently directly neurotoxic.
+
+The brain might be particularly vulnerable to higher levels of homocysteine because it lacks two major metabolic pathways for eliminating it (biochem nerds, hold on to your hats), remethylation and transsulfuration.
+
+All right.  There's theory, and lots of it.  What about the observational evidence?  Well, a number of cross-sectional studies have examined a relationship between too much homocysteine and brain atrophy.  In an Australian study of stroke patients, high homocysteine was related to increased brain atrophy, and the OPTIMA and Rotterdam studies replicated this finding in healthy elderly.    Other observational studies have shown a correlation between higher homocysteine level and Alzheimer's disease, to the point where homocysteine levels seemed to be able to predict the speed of progression of the disease.
+
+If we look at specific cognitive impairment trials, higher homocysteine levels have been shown to correlate with poorer performance on a number of cognitive tests - story recall, spacial coping, etc.  In fact, homocysteine levels accounted for "7-8% of the variance in late-life cognitive ability."
+
+In a prospective observational study (the Framingham heart study), higher homocysteine at baseline was related to an increased risk of developing Alzheimer's later on.  Several other smaller studies have repeated this finding.
+
+Moving onto trials - B vitamins lower homocysteine levels.  Folic acid supplementation can lower homocysteine by 25%, B12 by a further 7%.  Betaine is somewhat less effective.  These B vitamins have been used in mild cognitive impairment and dementia.  In small, open-label trials, B vitamin supplementation (typically folate and B12) have been helpful in some tests of cognitive impairment and homocysteine levels…
+
+Fast forward to 2010, when the freely available study at PLOSone came out:  Homocysteine-Lowering by B Vitamins Slows the Rate of Accelerated Brain Atrophy in  Mild Cognitive Impairment: A Randomized Controlled Trial
+
+Sounds cool, right?  Well, turns out the first author has a patent for a folate or B vitamin something or other in the treatment of Alzheimer's so keep that in mind.  But still cool.  168 folks with mild cognitive impairment were randomized to placebo or B vitamin supplementation (0.8 mg/d folic acid, 0.5mg/d vitamin B12, and 20 mg/d vitamin B6).  Both groups of people underwent baseline and serial follow up MRIs and cognitive testing.
+
+In the end, the B vitamin supplementation seemed to slow the brain atrophy compared to the control group.  The treatment response was related to baseline homocysteine levels - the rate of atrophy in patients with a homocysteine level at baseline of >13 micromol/L was 53% lower in the active treatment group than in placebo.  A faster rate of atrophy was associated with lower cognitive testing scores.
+
+So, pretty interesting.  And certainly treating our elders with B vitamin supplementation seems to have few downsides.  A lifetime of offal eating might leave us well-served in that regard.
+
+* Steve Parker MD is the go-to person where I send my patients leery of my wild and wooly evolutionary approach who are looking for something a bit more… conservative.  He has a great set of evidenced-based blogs and books on the Mediterranean Diet, with some ketogenic options, and has recently started up a Paleo Diabetic blog as well.
+
+** The Carlat Psychiatry Report is my go-to source for unbiased, evidence-based round-ups of everything in psychopharmacology and beyond.

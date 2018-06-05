@@ -1,0 +1,19 @@
+Today a computer told me that I couldn't use Prozac. More specifically, it said that the use of Prozac was contraindicated in people diagnosed with bipolar disorder. This experience led me to conclude that the only thing worse than having an insurance company tell you how to treat your patient is having a computer tell you how to treat him.
+
+I'm required to use an electronic medical record. I don't generally mind this. The constant typing and the amount of time required for data entry is a pain in the rear, but I know it's the best way to ensure continuity of care between prisons. The problem is that the system also has preprogrammed treatment algorithms. I have no idea where they came from, who decided them and what data they're based on, but they exist. Episodically the computer tries to tell me how to practice.
+
+The computer algorithm has also told me not to use lithium with people who are also on certain blood pressure medications and serotonergic reuptake inhibitors with people who have hepatitis. The computer doesn't say "be careful about this combination because it can cause X, Y or Z problems" or "be sure to watch drug levels more closely with this combination". It says, "Use of this drug is contraindicated in these conditions". Then, in order to continue entering the prescription, you have to click an "acknowledge" button to document that You Have Been Warned.
+
+Truly, this is annoying on so many levels.
+
+It's a CYA maneuver so the nameless Company can say it warned you if anything goes wrong. It's unnecessarily alarmist. It confuses the medication nurses who occasionally check to make sure the meds are OK to dispense. But more importantly, it's just bad information. These medication combinations are still effective, and they can be used safely, you just have to monitor them more closely. The geek who designed the system doesn't know this, he or she just programmed in the information he was told to put in. It probably seemed like a good idea.
+
+And it will be someday, once computers are granted prescribing privileges.
+
+*****************
+
+And now I want an opinion from our readers. It's got nothing to do with psychiatry.
+
+If you make hot cocoa from cocoa powder and other ingredients, instead of using hot water and a bag of cocoa mix, is that considered 'homemade'? Dinah says it's all one and the same. I say it's making cocoa 'from scratch' just like baking a cake without using a boxed mix.
+
+What is your definition of 'from scratch'? And what's your favorite hot chocolate recipe? I'm looking for suggestions.

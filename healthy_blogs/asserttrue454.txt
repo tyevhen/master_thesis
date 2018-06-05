@@ -1,0 +1,362 @@
+Everyone who tries to become better informed about the science behind psychiatric medications sooner or later has to deal with a rather large and frustrating problem, which is that the published scientific literature on commercial drugs is spotty in quality and of dubious reliability. I've mentioned before the excellent 2005 paper on PLoS called "Why Most Published Research Findings Are False," by Dr. John P. A. Ioannidis. Interested readers will also want to consult a 2010 Atlantic article called "Lies, Damned Lies, and Medical Science," and this recent (and extensive) British analysis of bias in the scientific literature. These works mostly deal with publication bias (selective publication of studies and results), but the problems with medical research go much deeper than that. Some of the problems have to do with things like study design, but there are also deep ethical issues around ghostwriting and guest authorship, undisclosed conflicts of interest, and other issues that generally aren't issues in other realms of science, such as (say) theoretical physics.
+
+It helps, when reading papers, to have degrees in science (which I do), but even then it can be tricky to tell a reliable paper from a not-so-reliable paper. Which is why I'm glad I stumbled across Gartlehner G, et al., (2011) "Second-Generation Antidepressants in the Pharmacologic Treatment of Adult Depression: An Update of the 2007 Comparative Effectiveness Review," Rockville (MD): Agency for Healthcare Research and Quality (US); 2011 Dec. (Comparative Effectiveness Reviews, No. 46.) In Appendix D of this 954-page book there's a detailed listing, prepared by the report's 13 authors on behalf of the U.S. Dept. of Health and Human Services, of 77 scientific papers (all having to do with second-generation antidepressants) that were found to be of "poor quality." I've reproduced that listing here. Full references are given further below. Item [1] in the list of references is a paper on how "poor quality" is determined. Papers [2] through [78] are the actual 77 scientific papers that were found to be of poor quality.
+
+I decided to reproduce the list here as a kind of note-to-self that I can refer back to later, when I'm reading some of the papers, but also as a reminder to myself and others that the literature surrounding many of the latest drugs for the treatment of depression is basically not to be taken at face value. All scientific literature (in all fields) needs to be viewed critically. That's not the issue. The issue is that the scientific literature surrounding psychiatric drugs is particularly treacherous.
+
+Which drugs do the 77 papers talk about? They all refer to one or more of the medications shown in this table:
+
+Generic Name
+U.S. Trade Name
+Bupropion
+Wellbutrin®;
+Wellbutrin SR®;
+Wellbutrin XL®
+Citalopram
+Celexa®
+Desvenlafaxine
+Pristiq®
+Duloxetine
+Cymbalta®
+Escitalopram
+Lexapro®
+Fluoxetine
+Prozac®;
+Prozac Weekly®
+Fluvoxamine
+Luvox®
+Mirtazapine
+Remeron®
+Remeron Sol tab®
+Nefazodone
+Serzone®
+Paroxetine
+Paxil®;
+Paxil CR®
+Sertraline
+Zoloft®
+Trazodone
+Desyrel®
+Venlafaxine
+Effexor®;
+Effexor XR®
+
+These drugs represent some of the most popular medications in America today. All of these drugs are approved for use in treatment of depression except for Luvox, which is widely prescribed off-label for depression. (The only approved use of Luvox is for OCD.)
+
+In the table immediately below, ITT refers to "intention to treat" analysis; LTF refers to loss to followup bias; RCT means randomized controlled trial. Numbers in brackets refer to the citations given further below.
+
+Study
+Design
+Reason(s) for Poor Quality Rating
+Aguglia et al., 1993 [2]
+RCT
+High LTF
+Amini et al., 2005 [3]
+RCT
+No ITT analysis
+Ashman et al., 2009 [4]
+RCT
+No ITT analysis
+Brown, et al., 2005 [5]
+RCT
+No ITT analysis
+Byerley, et al., 1988 [6]
+RCT
+No ITT analysis
+Claghorn, 1992 [7]
+RCT
+No ITT analysis
+Claghorn, et al., 1996 [8]
+RCT
+High LTF and no ITT analysis
+Claghorn &Lesem, 1995 [9]
+RCT
+High LTF
+Clerc et al., 1994 [10]
+RCT
+High differential attrition
+Cohn, et al., 1990 [11]
+RCT
+No ITT analysis
+Cohn & Wilcox, 1992 [12]
+RCT
+No ITT analysis
+Corrigan, et al., 2000 [13]
+RCT
+High differential attrition
+Croft, et al., 2002 [14]
+RCT
+High LTF
+Dube, et al., 2010 [15]
+RCT
+High LTF
+Dunbar, et al., 1993 [16]
+RCT
+No ITT analysis
+Dunbar, et al., 1991 [17]
+RCT
+High LTF
+Elliott, et al., 1998 [18]
+RCT
+High LTF
+Evans, et al., 1997 [19]
+RCT
+High LTF
+Fabre, et al., 1996 [20]
+RCT
+High LTF
+Fabre, 1992 [21]
+RCT
+High differential attrition
+Fabre, et al., 1995 [22]
+RCT
+High LTF
+Fabre & Putman, 1987 [23]
+RCT
+High LTF
+Falk et al., 1989 [24]
+RCT
+High LTF
+Fava, et al., 1997 [25]
+RCT
+No ITT analysis
+Fava, et al., 2005 [26]
+RCT
+High LTF
+Feighner, et al., 1998 [27]
+RCT
+High LTF
+Feighner, 1992 [28]
+RCT
+High LTF
+Feighner;Boyer, 1992 [29]
+RCT
+High LTF
+Feighner, et al., 1993 [30]
+RCT
+High LTF
+Ferrando et al., 1997 [31]
+RCT
+No ITT analysis
+Flament & Lane, 2001 [32]
+RCT
+No ITT analysis
+Garakani et al., 2008 [33]
+RCT
+No ITT analysis
+Gastpar et al., 2006 [34]
+RCT
+No ITT analysis
+Goldstein et al., 2004 [35]
+RCT
+High LTF
+Grigoriadis et al., 2003 [36]
+Observational
+No ITT analysis
+Gülseren et al., 2005 [37]
+RCT
+No ITT analysis
+Hegerl, et al., 2010 [38]
+RCT
+High attrition
+Kasper, et al., 2010 [39]
+Pooled analysis
+No systematic literature search
+Lapierre, et al., 1987 [40]
+RCT
+No ITT analysis
+March, et al., 1990 [41]
+RCT
+No ITT analysis
+McGrath, et al., 2000 [42]
+RCT
+High differential attrition
+Mesters et al., 1993 [43]
+RCT
+No ITT analysis
+Montgomery et al., 2007 [44]
+Montgomery, et al., 2008 [45]
+Systematic Review
+Publication bias
+Muijen, et al., 1988 [46]
+RCT
+No ITT analysis
+Nyth, et al., 1992 [47]
+RCT
+No ITT analysis
+Oslin et al., 2003 [48]
+RCT
+High attrition
+Petracca, et al., 2001 [49]
+RCT
+No ITT analysis
+Pettinati, et al., 2010 [50]
+RCT
+High attrition
+Ravindran, et al., 1995 [51]
+RCT
+High attrition
+Reimherr, et al., 1998 [52]
+RCT
+High attrition
+Rickels, et al., 1992 [53]
+RCT
+No ITT analysis
+Rickels and Case, 1982 [54]
+RCT
+No ITT analysis
+Rickels, et al., 1994 [55]
+RCT
+High attrition, no ITT
+Roscoe et al., 2005 [56]
+RCT
+No ITT analysis
+Rosenbaum et al., 1998 [57]
+Observational
+No ITT analysis
+Roth, et al., 1990 [58]
+RCT
+No ITT analysis
+Roy-Byrne, et al., 2000 [59]
+RCT
+High attrition
+Rudolph, et al., 1998 [60]
+RCT
+High attrition
+Schmitz et al., 2001 [61]
+RCT
+High LTF
+Schweizer, et al., 1991 [62]
+RCT
+High attrition
+Smith & Glaudin, 1992 [63]
+RCT
+High attrition
+Smith, et al., 1990 [64]
+RCT
+High attrition
+Spielmans, 2008 [65]
+Systematic Review
+No quality assessment of included studies, lack of clear and comprehensive search strategy
+Stahl et al., 2000 [66]
+RCT
+High attrition
+Thase et al., 2001 [67]
+Pooled analysis
+No systematic literature search
+Thase et al., 2006 [68]
+RCT
+High LTF
+Tollefson et al., 1994 [69]
+Beasley et al., 1991 [70]
+Meta-analysis
+No systematic literature search
+Trkulja, 2010 [71]
+RCT
+No dual literature review
+Vartiainen & Leinonen, 1994 [72]
+RCT
+High attrition, no ITT
+Wade et al., 2003 [73]
+RCT
+High LTF
+Wagner et al., 1998 [74]
+RCT
+No ITT analysis
+Weintraub, et al., 2010 [75]
+High attrition and imputations
+Wernicke, et al., 1987 [76]
+RCT
+No ITT analysis
+Winokur et al., 2003 [77]
+RCT
+No ITT analysis
+Zanardi et al., 1996 [78]
+RCT
+High LTF
+ITT, intent to treat analysis; LTF, loss to followup; RCT, randomized controlled trial. For more on these terms, see [1] below.
+
+
+References: The List of 77 Poor-Quality Studies
+
+NOTE: The first paper below is not one of the poor-quality studies; it is a paper on how to determine if studies are of poor quality. Citations 2 through 78 constitute the "poor-quality studies."
+
+
+1. Owens DK, Lohr KN, Atkins D, et al. AHRQ series paper 5: grading the strength of a body of evidence when comparing medical interventions--agency for healthcare research and quality and the effective health-care program. J Clin Epidemiol. 2010 May;63(5):513–23. [PubMed]
+  2. Aguglia E, Casacchia M, Cassano GB, et al. Double-blind study of the efficacy and safety of sertraline versus fluoxetine in major depression. Int Clin Psychopharmacol. 1993 Fall;8(3):197–202. [PubMed]
+  3. Amini H, Aghayan S, Jalili SA, et al. Comparison of mirtazapine and fluoxetine in the treatment of major depressive disorder: a double-blind, randomized trial. J Clin Pharm Ther. 2005 Apr;30(2):133–8. [PubMed]
+  4. Ashman TA, Cantor JB, Gordon WA, et al. A randomized controlled trial of sertraline for the treatment of depression in persons with traumatic brain injury. Arch Phys Med Rehabil. 2009;90(5):733–40. [PubMed]
+  5. Brown ES, Vigil L, Khan DA, et al. A randomized trial of citalopram versus placebo in outpatients with asthma and major depressive disorder: a proof of concept study. Biol Psychiatry. 2005 Dec 1;58(11):865–70. [PubMed]
+  6. Byerley WF, Reimherr FW, Wood DR, et al. Fluoxetine, a selective serotonin uptake inhibitor, for the treatment of outpatients with major depression. J Clin Psychopharmacol. 1988 Apr;8(2):112–5. [PubMed]
+  7. Claghorn JL. The safety and efficacy of paroxetine compared with placebo in a double-blind trial of depressed outpatients. J Clin Psychiatry. 1992 Feb;53(Suppl):33–5. [PubMed]
+  8. Claghorn JL, Earl CQ, Walczak DD, et al. Fluvoxamine maleate in the treatment of depression: a single-center, double-blind, placebo-controlled comparison with imipramine in outpatients. J Clin Psychopharmacol. 1996 Apr;16(2):113–20. [PubMed]
+  9. Claghorn JL, Lesem MD. A double-blind placebo-controlled study of Org 3770 in depressed outpatients. J Affect Disord. 1995 Jun 8;34(3):165–71. [PubMed]
+  10. Clerc GE, Ruimy P, Verdeau-Palles J. A double-blind comparison of venlafaxine and fluoxetine in patients hospitalized for major depression and melancholia. The Venlafaxine French Inpatient Study Group. Int Clin Psychopharmacol. 1994 Sep;9(3):139–43. [PubMed]
+  11. Cohn JB, Crowder JE, Wilcox CS, et al. A placebo- and imipramine-controlled study of paroxetine.Psychopharmacol Bull. 1990;26(2):185–9. [PubMed]
+  12. Cohn JB, Wilcox CS. Paroxetine in major depression: a double-blind trial with imipramine and placebo. J Clin Psychiatry. 1992 Feb;53(Suppl):52–6. [PubMed]
+  13. Corrigan MH, Denahan AQ, Wright CE, et al. Comparison of pramipexole, fluoxetine, and placebo in patients with major depression. Depress Anxiety. 2000;11(2):58–65. [PubMed]
+  14. Croft H, Houser TL, Jamerson BD, et al. Effect on body weight of bupropion sustained-release in patients with major depression treated for 52 weeks. Clin Ther. 2002 Apr;24(4):662–72. [PubMed]
+  15. Dube S, Dellva MA, Jones M, et al. A study of the effects of LY2216684, a selective norepinephrine reuptake inhibitor, in the treatment of major depression. J Psychiatr Res. 2010;44(6):356–63. [PubMed]
+  16. Dunbar GC, Claghorn JL, Kiev A, et al. A comparison of paroxetine and placebo in depressed outpatients. Acta Psychiatr Scand. 1993 May;87(5):302–5. [PubMed]
+  17. Dunbar GC, Cohn JB, Fabre LF, et al. A comparison of paroxetine, imipramine and placebo in depressed out-patients. Br J Psychiatry. 1991 Sep;159:394–8. [PubMed]
+  18. Elliott AJ, Uldall KK, Bergam K, et al. Randomized, placebo-controlled trial of paroxetine versus imipramine in depressed HIV-positive outpatients. Am J Psychiatry. 1998 Mar;155(3):367–72. [PubMed]
+  19. Evans M, Hammond M, Wilson K, et al. Placebo-controlled treatment trial of depression in elderly physically ill patients. Int J Geriatr Psychiatry. 1997 Aug;12(8):817–24. [PubMed]
+  20. Fabre L, Birkhimer LJ, Zaborny BA, et al. Fluvoxamine versus imipramine and placebo: a double-blind comparison in depressed patients. Int Clin Psychopharmacol. 1996 Jun;11(2):119–27. [PubMed]
+  21. Fabre LF. A 6-week, double-blind trial of paroxetine, imipramine, and placebo in depressed outpatients. J Clin Psychiatry. 1992 Feb;53(Suppl):40–3. [PubMed]
+  22. Fabre LF, Abuzzahab FS, Amin M, et al. Sertraline safety and efficacy in major depression: a double-blind fixed-dose comparison with placebo. Biol Psychiatry. 1995 Nov 1;38(9):592–602. [PubMed]
+  23. Fabre LF, Putman HP 3rd. A fixed-dose clinical trial of fluoxetine in outpatients with major depression. J Clin Psychiatry. 1987 Oct;48(10):406–8. [PubMed]
+  24. Falk WE, Rosenbaum JF, Otto MW, et al. Fluoxetine versus trazodone in depressed geriatric patients. J Geriatr Psychiatry Neurol. 1989 Oct-Dec;2(4):208–14. [PubMed]
+  25. Fava M, Mulroy R, Alpert J, et al. Emergence of adverse events following discontinuation of treatment with extended-release venlafaxine. Am J Psychiatry. 1997 Dec;154(12):1760–2. [PubMed]
+  26. Fava M, Alpert J, Nierenberg AA, et al. A Double-blind, randomized trial of St John's wort, fluoxetine, and placebo in major depressive disorder. J Clin Psychopharmacol. 2005 Oct;25(5):441–7. [PubMed]
+  27. Feighner J, Targum SD, Bennett ME, et al. A double-blind, placebo-controlled trial of nefazodone in the treatment of patients hospitalized for major depression. J Clin Psychiatry. 1998 May;59(5):246–53. [PubMed]
+  28. Feighner JP. A double-blind comparison of paroxetine, imipramine and placebo in depressed outpatients. Int Clin Psychopharmacol. 1992 Jun;6 Suppl 4:31–5. [PubMed]
+  29. Feighner JP, Boyer WF. Paroxetine in the treatment of depression: a comparison with imipramine and placebo. J Clin Psychiatry. 1992 Feb;53(Suppl):44–7. [PubMed]
+  30. Feighner JP, Cohn JB, Fabre LF Jr, et al. A study comparing paroxetine placebo and imipramine in depressed patients. J Affect Disord. 1993 Jun;28(2):71–9. [PubMed]
+  31. Ferrando SJ, Goldman JD, Charness WE. Selective serotonin reuptake inhibitor treatment of depression in symptomatic HIV infection and AIDS. Improvements in affective and somatic symptoms. Gen Hosp Psychiatry.1997 Mar;19(2):89–97. [PubMed]
+  32. Flament MF, Lane R. Acute antidepressant response to fluoxetine and sertraline in psychiatric outpatients with psychomotor agitation. International Journal of Psychiatry in Clinical Practice. 2001;5(2):103–9.
+  33. Garakani A, Martinez JM, Marcus S, et al. A randomized, double-blind, and placebo-controlled trial of quetiapine augmentation of fluoxetine in major depressive disorder. Int Clin Psychopharmacol. 2008;23(5):269–75. [PubMed]
+  34. Gastpar M, Singer A, Zeller K. Comparative efficacy and safety of a once-daily dosage of hypericum extract STW3-VI and citalopram in patients with moderate depression: a double-blind, randomised, multicentre, placebo-controlled study. Pharmacopsychiatry. 2006;39(2):66–75. [PubMed]
+  35. Goldstein DJ, Lu Y, Detke MJ, et al. Duloxetine in the treatment of depression: a double-blind placebo-controlled comparison with paroxetine. J Clin Psychopharmacol. 2004 Aug;24(4):389–99. [PubMed]
+  36. Grigoriadis S, Kennedy SH, Bagby RM. A comparison of antidepressant response in younger and older women. J Clin Psychopharmacol. 2003 Aug;23(4):405–7. [PubMed]
+  37. Gulseren L, Gulseren S, Hekimsoy Z, et al. Comparison of fluoxetine and paroxetine in type II diabetes mellitus patients. Arch Med Res. 2005 Mar-Apr;36(2):159–65. [PubMed]
+  38. Hegerl U, Hautzinger M, Mergl R, et al. Effects of pharmacotherapy and psychotherapy in depressed primary-care patients: A randomized, controlled trial including a patients' choice arm. International Journal of Neuropsychopharmacology. 2010;13(1):31–44. [PubMed]
+  39. Kasper S, Montgomery SA, Moller HJ, et al. Longitudinal analysis of the suicidal behaviour risk in short-term placebo-controlled studies of mirtazapine in major depressive disorder. World J Biol Psychiatry. 2010;11(1):36–44.[PubMed]
+  40. Lapierre YD, Browne M, Horn E, et al. Treatment of major affective disorder with fluvoxamine. J Clin Psychiatry.1987 Feb;48(2):65–8. [PubMed]
+  41. March JS, Kobak KA, Jefferson JW, et al. A double-blind, placebo-controlled trial of fluvoxamine versus imipramine in outpatients with major depression. J Clin Psychiatry. 1990 May;51(5):200–2. [PubMed]
+  42. McGrath PJ, Stewart JW, Janal MN, et al. A placebo-controlled study of fluoxetine versus imipramine in the acute treatment of atypical depression. Am J Psychiatry. 2000 Mar;157(3):344–50. [PubMed]
+  43. Mesters P, Cosyns P, Dejaiffe G, et al. Assessment of quality of life in the treatment of major depressive disorder with fluoxetine, 20 mg, in ambulatory patients aged over 60 years. Int Clin Psychopharmacol. 1993 Winter;8(4):337–40. [PubMed]
+  44. Montgomery SA, Baldwin DS, Blier P, et al. Which antidepressants have demonstrated superior efficacy? A review of the evidence. International Clinical Psychopharmacology. 2007;22(6):323–9. [PubMed]
+  45. Montgomery SA, Baldwin DS, Blier P, et al. Which antidepressants have demonstrated superior efficacy? A review of the evidence: Erratum. International Clinical Psychopharmacology. 2008;23(1):61.
+  46. Muijen M, Roy D, Silverstone T, et al. A comparative clinical trial of fluoxetine, mianserin and placebo in depressed outpatients. Acta Psychiatr Scand. 1988 Sep;78(3):384–90. [PubMed]
+  47. Nyth AL, Gottfries CG, Lyby K, et al. A controlled multicenter clinical study of citalopram and placebo in elderly depressed patients with and without concomitant dementia. Acta Psychiatr Scand. 1992 Aug;86(2):138–45.[PubMed]
+  48. Oslin DW, Ten Have TR, Streim JE, et al. Probing the safety of medications in the frail elderly: evidence from a randomized clinical trial of sertraline and venlafaxine in depressed nursing home residents. J Clin Psychiatry. 2003 Aug;64(8):875–82. [PubMed]
+  49. Petracca GM, Chemerinski E, Starkstein SE. A double-blind, placebo-controlled study of fluoxetine in depressed patients with Alzheimer's disease. Int Psychogeriatr. 2001 Jun;13(2):233–40. [PubMed]
+  50. Pettinati HM, Oslin DW, Kampman KM, et al. A double-blind, placebo-controlled trial combining sertraline and naltrexone for treating co-occurring depression and alcohol dependence. Am J Psychiatry. 2010;167(6):668–75.[PMC free article] [PubMed]
+  51. Ravindran AV, Teehan MD, Bakish D, et al. The impact of sertraline, desipramine, and placebo on psychomotor functioning in depression. Hum Psychopharmacol. 1995;10(4):273–81.
+  52. Reimherr FW, Cunningham LA, Batey SR, et al. A multicenter evaluation of the efficacy and safety of 150 and 300 mg/d sustained-release bupropion tablets versus placebo in depressed outpatients. Clin Ther. 1998 May-Jun;20(3):505–16. [PubMed]
+  53. Rickels K, Amsterdam J, Clary C, et al. The efficacy and safety of paroxetine compared with placebo in outpatients with major depression. J Clin Psychiatry. 1992 Feb;53(Suppl):30–2. [PubMed]
+  54. Rickels K, Case WG. Trazodone in depressed outpatients. Am J Psychiatry. 1982 Jun;139(6):803–6. [PubMed]
+  55. Rickels K, Schweizer E, Clary C, et al. Nefazodone and imipramine in major depression: a placebo-controlled trial.Br J Psychiatry. 1994 Jun;164(6):802–5. [PubMed]
+  56. Roscoe JA, Morrow GR, Hickok JT, et al. Effect of paroxetine hydrochloride (Paxil) on fatigue and depression in breast cancer patients receiving chemotherapy. Breast Cancer Res Treat. 2005 Feb;89(3):243–9. [PubMed]
+  57. Rosenbaum JF, Fava M, Hoog SL, et al. Selective serotonin reuptake inhibitor discontinuation syndrome: a randomized clinical trial. Biol Psychiatry. 1998 Jul 15;44(2):77–87. [PubMed]
+  58. Roth D, Mattes J, Sheehan KH, et al. A double-blind comparison of fluvoxamine, desipramine and placebo in outpatients with depression. Prog Neuropsychopharmacol Biol Psychiatry. 1990;14(6):929–39. [PubMed]
+  59. Roy-Byrne PP, Pages KP, Russo JE, et al. Nefazodone treatment of major depression in alcohol-dependent patients: a double-blind, placebo-controlled trial. J Clin Psychopharmacol. 2000 Apr;20(2):129–36. [PubMed]
+  60. Rudolph RL, Fabre LF, Feighner JP, et al. A randomized, placebo-controlled, dose-response trial of venlafaxine hydrochloride in the treatment of major depression. J Clin Psychiatry. 1998 Mar;59(3):116–22. [PubMed]
+  61. Schmitz JM, Averill P, Stotts AL, et al. Fluoxetine treatment of cocaine-dependent patients with major depressive disorder. Drug Alcohol Depend. 2001 Aug 1;63(3):207–14. [PubMed]
+  62. Schweizer E, Weise C, Clary C, et al. Placebo-controlled trial of venlafaxine for the treatment of major depression.J Clin Psychopharmacol. 1991 Aug;11(4):233–6. [PubMed]
+  63. Smith WT, Glaudin V. A placebo-controlled trial of paroxetine in the treatment of major depression. J Clin Psychiatry. 1992 Feb;53(Suppl):36–9. [PubMed]
+  64. Smith WT, Glaudin V, Panagides J, et al. Mirtazapine vs. amitriptyline vs. placebo in the treatment of major depressive disorder. Psychopharmacol Bull. 1990;26(2):191–6. [PubMed]
+  65. Spielmans GI. Duloxetine does not relieve painful physical symptoms in depression: a meta-analysis. Psychother Psychosom. 2008;77(1):12–6. [PubMed]
+  66. Stahl SM. Placebo-controlled comparison of the selective serotonin reuptake inhibitors citalopram and sertraline.Biol Psychiatry. 2000 Nov 1;48(9):894–901. [PubMed]
+  67. Thase ME, Entsuah AR, Rudolph RL. Remission rates during treatment with venlafaxine or selective serotonin reuptake inhibitors. Br J Psychiatry. 2001 Mar;178:234–41. [PubMed]
+  68. Thase ME, Clayton AH, Haight BR, et al. A double-blind comparison between bupropion XL and venlafaxine XR: sexual functioning, antidepressant efficacy, and tolerability. J Clin Psychopharmacol. 2006;26(5):482–8. [PubMed]
+  69. Tollefson GD, Rampey AH Jr, Beasley CM Jr, et al. Absence of a relationship between adverse events and suicidality during pharmacotherapy for depression. J Clin Psychopharmacol. 1994 Jun;14(3):163–9. [PubMed]
+  70. Beasley CM Jr, Dornseif BE, Bosomworth JC, et al. Fluoxetine and suicide: a meta-analysis of controlled trials of treatment for depression. Bmj. 1991 Sep 21;303(6804):685–92. [PMC free article] [PubMed]
+  71. Trkulja V. Is escitalopram really relevantly superior to citalopram in treatment of major depressive disorder? A meta-analysis of head-to-head randomized trials. Croat Med J. 2010;51(1):61–73. [PMC free article] [PubMed]
+  72. Vartiainen H, Leinonen E. Double-blind study of mirtazapine and placebo in hospitalized patients with major depression. Eur Neuropsychopharmacol. 1994 Jun;4(2):145–50. [PubMed]
+  73. Wade A, Crawford GM, Angus M, et al. A randomized, double-blind, 24-week study comparing the efficacy and tolerability of mirtazapine and paroxetine in depressed patients in primary care. Int Clin Psychopharmacol. 2003 May;18(3):133–41. [PubMed]
+  74. Wagner GJ, Maguen S, Rabkin JG. Ethnic differences in response to fluoxetine in a controlled trial with depressed HIV-positive patients. Psychiatr Serv. 1998 Feb;49(2):239–40. [PubMed]
+  75. Weintraub D, Rosenberg PB, Drye LT, et al. Sertraline for the treatment of depression in alzheimer disease: Week-24 outcomes. American Journal of Geriatric Psychiatry. 2010;18(4):332–40. [PMC free article] [PubMed]
+  76. Wernicke JF, Dunlop SR, Dornseif BE, et al. Fixed-dose fluoxetine therapy for depression. Psychopharmacol Bull.1987;23(1):164–8. [PubMed]
+  77. Winokur A, DeMartinis NA 3rd, McNally DP, et al. Comparative effects of mirtazapine and fluoxetine on sleep physiology measures in patients with major depression and insomnia. J Clin Psychiatry. 2003 Oct;64(10):1224–9.[PubMed]
+   78. Zanardi R, Franchini L, Gasperini M, et al. Double-blind controlled trial of sertraline versus paroxetine in the treatment of delusional depression. Am J Psychiatry. 1996 Dec;153(12):1631–3. [PubMed]

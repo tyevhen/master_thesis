@@ -1,0 +1,17 @@
+I made it through Days Two and Three of developer training here at Day's Boston office. Under the expert tutelage of Kathy Nelson, the eight of us in the class got a solid grounding in:
+Apache Sling and how it carries out script resolution. (For this, we used my August 16 blog post as a handout.)
+Modularizing components and allowing for their reuse.
+Enabling various WCM content management tools such as CQ's Sidekick, which help web authors to create and edit web pages.
+Creating a Designer to provide a consistent look and feel to a website, and using a common CSS file.
+Creating a navigation component that to provide dynamic navigation to all pages as they are added or removed by authors.
+Adding log messages to .jsp scripts, and using the CRXDE debugger.
+That was Day Two. On Day Three we focused on:
+Creating components to display a customizable page title, logo, breadcrumbs, and configurable paragraph.
+Creating and adding a complex component (containing text and images), to implement bespoke functionality.
+Adding a Search component. (We saw 3 different ways to do this.)
+Internationalization, so that dialogs displayed to web authors can be displayed in one of the 7 languages supported out-of-the-box by Day Communiqué.
+By the end of the third day, we had written hundreds of lines of JSP and manually created scores upon scores of custom nodes and properties in the repository.
+
+Still to come: Creating and consuming custom OSGi bundles; workflow; and performance optimization tools.
+
+I can't wait!

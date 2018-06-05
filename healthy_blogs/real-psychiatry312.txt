@@ -1,0 +1,54 @@
+I read an article in Science recently that reminded me of why I am a subscriber.  The article had to do with a model of rational thinking based on the neurobiology of the several critical brain structures, the prefrontal cortex (PFC), dorsal striatum, ventral striatum, and anterior cingulate cortex.  The interesting aspect of this model is that is also takes into account Bayesian analysis and uses that to build a model for how the can make use of these unique neuroanatomical local structures and come up with novel solutions in uncertain environments.
+
+For about 15 years I taught a course that was designed to minimize diagnostic errors when physicians consider the question:  "Is this a medical condition or a psychiatric disorder?"  On of the first cases I would use is a hypothetical case of a teenage girl admitted to a hospital for dehydration secondary to acute gastroenteritis.  In this case the psychiatrist is consulted because the patient began to manifest acute agitation.  This was an acute behavioral change and that was confirmed by family members who had never seen the patient like this before.  The consult to the psychiatrist read: "Please see to assess and treat hysterical behavior."
+
+On the diagnostic side there are several prior probabilities to consider.  In medicine, I like to consider prior probabilities as those of a particular finding or condition that exists is a particular population in the wild.  In this case a few to consider would be:
+
+1.  The prior probability of "hysteria" in teenage girls with no previous behavior problems.  What is hysteria?
+
+2.  The prior probability of acute mental status changes in teenagers with no medical conditions.
+
+3.  The prior probability of teenage girls with no medical problems being in a hospital bed being rehydrated with I.V. fluid therapy.
+
+4.  The prior probability of acute mental status changes in teenagers with no psychiatric or substance use disorders.
+
+Considering 1-> 4, it should be evident that all of the corresponding probabilities are very low.  It would difficult to rank order them on that basis and it suggests the need for more hypothesis generation or data acquisition.   As we examine the patient we realize that cannot produce any meaningful verbal response, she has opisthotonic posturing and decorticate posturing on the left in response to painful stimuli.  The next set of prior probabilities is more declarative:
+
+1.  The posterior probability of a brain problem with opisthotonic posturing and findings 1 - 4.
+
+2.  The posterior probability of an acute brain problem with decorticate posturing and findings 1 - 4.
+
+Suddenly with the examination findings - one specific and the other not - the probabilities of a severe life threatening brain problem have gone through the roof.  The patient appears to be acutely encephalopathic with an impending brain stem herniation syndrome.  This is no longer a patient who should be in a non-acute care bed in the hospital or a patient who needs acute psychiatric care.  She belongs in an intensive care unit, hopefully one that specializes in treating acute, life-threatening neurological disorders so that the problem of increased intracranial pressure can be addressed.  That important decision is made with a two minute examination of the patient at the bedside.  She is transferred to a neurological ICU for more appropriate care.
+
+Without going into too many details about Bayesian inference other than this example, I have never really seen it referred to from a neurobiological perspective.  The new paper by Donoso, et al makes the connection in the introductory paragraphs:
+
+"Human reasoning subserves adaptive behavior and has evolved facing the uncertainty of everyday environments. In such situations, probabilistic inferential processes (i.e., Bayesian inferences) make optimal use of available information for making decisions. Human reasoning involves Bayesian inferences accounting for human responses that often deviate from formal logic (1). Bayesian inferences also operate in the prefrontal cortex (PFC) and guide behavioral choices (2, 3). Everyday environments, however, are changing and open-ended, so that the range of uncertain situations and associated behavioral strategies (i.e., internal maps linking stimuli, actions, and expected outcomes) becomes potentially infinite."
+
+
+The Wisconsin Card Sorting Test (WCST), a well known neuropsychological measure of frontal lobe mental flexibility.  In the test the subject's task is to sort cards based on shapes, colors, or the number of objects per card.  The sorting paradigm is not made explicit and every time the examiner changes it, the test subject needs to figure it out and start sorting cards according to that new paradigm.  Results can be correct, exploratory, incorrect or perseverative.  Perseverative can be defined as a continuous repetitive sorting error that does not take into account the need for error correction - continuing to use a response that was at one point correct.
+
+
+
+
+At this point there are many imaging studies that look at correlates between functional brain scans and performance on the WCST.  In this study the authors look at a custom variation of the sorting tests where subjects were looking for digit combinations by trial and error and produce a response that was exploratory, perseverative or correct based on feedback about the correctness of choices.  All subject were young (18-26 years old) and screened for medical, neurological, and psychiatric disorders).  There were a total of 40 test subjects equally split by sex.  The article contains a detailed discussion of the subjects response patterns relative to a theoretical model, but I am most interested in the brain imaging results and the implications of those results.
+
+Working in the addiction field, it is fairly common these days to read research studies that look at activation of the ventral striatum.  There are also theories about which neural circuits are responsible for most aspects of addiction including the initial euphorigenic effects,  acute behaviors involving positive reinforcement, and chronic compulsive effects associated with negative reinforcement.  I think that there is an general conceptualization that there are varying levels of euphoria associated with activation of the ventral striatum whether that is from an addictive drug or what has been considered to be "natural" activators of the ventral striatum including food, water, sexual behavior, and social affiliation.  This is the first study that I have seen showing that activation of the ventral striatum is associated with the cognitive aspects of life.  In correspondence with the lead author Etienne Koechlin his group refers to this as the "Eureka Response".  He suggests that the ventral striatum adds and affective valence to a cognitive strategy that has been selected by the frontal cortex as a correct strategy and that  valence contributes to consolidation in long term memory.  He points out that the cognitive system needs the affective role of the ventral striatum to run properly.
+
+If this paper can be replicated this is really landmark work.  It provides a neurobiological explanation for why we can choose among several prior probabilities in important situations.  In terms of clinical decision making it may be why senior clinicians have immediate associations to critical cases when they are involved in subsequent clinical decision making.  That process has been looked at in terms of pattern matching and pattern completion in the past but an affective valence adds another important dimension.
+
+This is potentially one of the most important papers and theories I have seen in recent times.  It has broad implications for psychiatry, addiction, cognitive psychology, and many other fields.  An affective valence from the ventral striatum may make living with a head full of prior probabilities - a lot easier.
+
+
+George Dawson, MD, DFAPA
+
+
+
+Supplementary 1:  The following table lists the common neuroanatomical abbreviations used in this paper:
+References:
+
+1: Donoso M, Collins AG, Koechlin E. Human cognition. Foundations of human reasoning in the prefrontal cortex. Science. 2014 Jun 27;344(6191):1481-6. doi: 10.1126/science.1252254. Epub 2014 May 29. PubMed PMID: 24876345.
+
+
+2:  Albert DA, Munson R, Resnick MD.  Reasoning in Medicine: An Introduction To Clinical Inference.  The Johns Hopkins University Press.  Baltimore. 1988.
+
+"Our aim is to dig deep into the clinical mind and lay bare the processes of reasoning and inference that are (or can be) involved in arriving at and in justifying clinical decisions."

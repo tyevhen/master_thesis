@@ -1,0 +1,32 @@
+The following article was snipped from NIH.gov’s blog. It describes another improvement in the gene editing research going on around the world. The process is still experimental, but it is moving in the right direction. Read my next article on Huntington's Desease. Kennedy's Disease could be right around the corner. 
+
+
+To read the entire article, click on the title below.
+GeneEditing: Gold Nanoparticle Delivery Shows Promise
+
+Posted on October 10, 2017 by Dr. Francis Collins
+
+…”NIH-funded researchers have developed a highly versatile approach to CRISPR/Cas9-based therapies. Instead of relying on viruses to carry the gene-editing system into cells, the new approach uses tiny particles of gold as the delivery system!
+
+In order to fix a disease-causing mutation like the expanded DNA repeat that causes FA (Friedreich’s ataxia), researchers must create a CRISPR/Cas9 system that contains a scissor-like Cas9 enzyme and a synthetic guide RNA, which steers Cas9 to the specific part of the genome that needs to be snipped out. If a very precise correction is to be made, a repair template that contains the desired DNA code must also be included.
+
+The challenge is delivering all these components into the appropriate tissues in a safe and efficient manner. Currently, most researchers use inactivated, non-disease-causing viruses to ferry various parts of the CRISPR/Cas9 system into cells. However, because of size constraints, it’s not possible to fit all three components into a single virus. Also, because of the large number of viral particles needed to carry CRISPR/Cas9 components in separately, there are concerns that viral delivery systems could trigger immune responses in people. Not only could such immune responses pose a safety hazard to patients, they could also reduce the effectiveness of the viral delivery system.
+
+Because of these challenges, there’s been great interest in developing better ways to deliver CRISPR/Cas9 therapeutics. In the new study recently reported in Nature Biomedical Engineering, Irina Conboy and Niren Murthy at the University of California, Berkeley, decided to try a delivery vehicle they call CRISPR-Gold [1].
+
+Gold might seem like an odd choice, but gold nanoparticles possess a special ability to penetrate cell membranes and have been considered for use in delivering therapies for cancer, rheumatoid arthritis, and many other conditions. In addition, gold is generally well tolerated by the human body and has the advantage of linking easily to DNA.
+
+The CRISPR-Gold system—which consists of a DNA-linked gold nanoparticle containing Cas9, guide RNA, and a DNA repair template—is designed to enter cells through endocytosis, a process in which the cell engulfs outside molecules. A special polymer that encases the CRISPR-Gold system helps to ensure the gene-editing tools reach the cell’s genome in an active state.
+
+In a series of tests, the researchers showed that CRISPR-Gold could enter a variety of cell types in laboratory culture, including immune cells, muscle cell progenitors, human induced pluripotent stem cells, and human embryonic stem cells. Once inside the cells, CRISPR-Gold could successfully find and edit a target gene in a non-toxic manner. Similar success occurred when CRISPR-Gold was injected into the muscles of living lab mice.
+
+The next big challenge was to test CRISPR-Gold’s potential in a model of human disease. So, researchers turned to a mouse model of Duchenne muscular dystrophy (DMD), a fatal disorder characterized by progressive muscle weakening and caused by a mutation in the gene that codes for the protein dystrophin. They injected CRISPR-Gold containing a template for a healthy dystrophin gene into the leg muscles of young DMD mice. At the same time, they injected a toxin intended to encourage muscle cells to multiply because, for CRISPR editing to work optimally, cells must be actively dividing.
+
+The outcome was encouraging. After one injection of CRISPR-Gold, about 5 percent of the dystrophin genes in the muscle tissue of the DMD mice had been corrected. What’s more, the animal’s muscles produced functional dystrophin protein, and they performed better on tests of muscle strength.
+
+There was also good news on the safety front. The DMD mice didn’t appear to have a strong immune reaction to the treatment. The researchers also didn’t find evidence that CRISPR-Gold caused much, if any, unintended “off target” damage to the animals’ DNA.
+
+Taken together, the findings suggest that, pending further replication, optimization, and careful testing, CRISPR-Gold might have promise for treating humans with DMD.
+
+
+What makes this approach especially exciting is that it also holds potential for treating or even curing many other genetic diseases …”

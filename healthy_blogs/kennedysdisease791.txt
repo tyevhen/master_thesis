@@ -1,0 +1,12 @@
+This week the MDA announced the awarding of more research grants. Of particular interest to those of us living with Kennedy’s Disease (SBMA) is the following grant.
+
+Testing a potential therapy for spinal-bulbarmuscular atrophy (SBMA)
+“Scientists at the University of Michigan Medical School in Ann Arbor are completing preclinical studies in a mouse model to establish the safety and efficacy of a new type of therapy to silence activity of the gene that is mutated in SBMA.”
+
+Below is the abstract of the research noted in the above announcement. It should be noted that Dr. Lieberman serves on the Kennedy’s Disease Association’s Scientific Review Board.
+
+Rescue of MetabolicAlterations in AR113Q Skeletal Muscle by Peripheral Androgen Receptor GeneSilencing
+Giorgetti E1, Yu Z1, Chua JP1, Shimamura R1, Zhao L2, Zhu F3, Venneti S1, Pennuto M4, Guan Y3, Hung G5, Lieberman AP6.
+Abstract
+
+“Spinal and bulbar muscular atrophy (SBMA), a progressive degenerative disorder, is caused by a CAG/glutamine expansion in the androgen receptor (polyQ AR). Recent studies demonstrate that skeletal muscle is an important site of toxicity that contributes to the SBMA phenotype. Here, we sought to identify critical pathways altered in muscle that underlie disease manifestations in AR113Q mice. This led to the unanticipated identification of gene expression changes affecting regulators of carbohydrate metabolism, similar to those triggered by denervation. AR113Q muscle exhibits diminished glycolysis, altered mitochondria, and an impaired response to exercise. Strikingly, the expression of genes regulating muscle energy metabolism is rescued following peripheral polyQ AR gene silencing by antisense oligonucleotides (ASO), a therapeutic strategy that alleviates disease. Our data establish the occurrence of a metabolic imbalance in SBMA muscle triggered by peripheral expression of the polyQ AR and indicate that alterations in energy utilization contribute to non-neuronal disease manifestations.”

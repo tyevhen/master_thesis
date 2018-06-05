@@ -1,0 +1,15 @@
+The University of Sheffield published the following news release yesterday. As always, additional research is required, but the premise is interesting.
+
+New discovery in motor neurone disease and dementia could pave the way to novel treatments
+
+"... When this series of nucleotides is expanded and repeated multiple times, neurodegenerative diseases can occur. The expansions of the gene forms genetic material called ‘R-loops’ which make the DNA vulnerable to breakages. They found that accumulation of R-loops and increased DNA breakage in neurons lead to neurodegenerative diseases.
+
+Our cells have their own repair toolkits specially designed to fix breaks in DNA, however, the products of the expansion over-activate a process called autophagy – a process that gets rid of misfolded or “unwanted” proteins.
+
+The new study, jointly directed by Professor Sherif El-Khamisy from the University of Sheffield’s Department of MBB and Professor Mimoun Azzouz from SITraN at the University of Sheffield, published today (17 July 2017) in Nature Neuroscience, shows that the expansion driven over-activation of this process can degrade some of the very precious DNA toolkits, meaning the cells will eventually die.
+
+“We were able to shut down the out-of-control degradation process, which runs down the cell’s ability to fix genomic breaks, using genetic techniques,” said Professor El-Khamisy.
+
+“Even though the DNA was still damaged, the cells were able to cope and did not die. Discovering this new mechanism and its consequence is a significant step towards developing new therapies for motor neurone disease and other neurodegenerative conditions. ..."
+
+Click on the title to read the entire article.

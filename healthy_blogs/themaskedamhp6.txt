@@ -1,0 +1,82 @@
+The issue of photocopied, scanned, emailed or faxed Mental Health Act medical recommendations and applications has arisen quite a bit lately, both in the Masked AMHP Facebook Group and in my local AMHP Service.
+
+Here’s an example of a problem an AMHP reported:
+
+Had a dispute today: I'd emailed a scanned copy of my application which was then printed out for conveyance of the patient as a bed became available 15 hours after my assessment. I completed my application remotely so they didn't have to be reassessed. I'd already informed the patient and Nearest Relative of my decision. I had a MHA administrator state they'd raise this as an incident and inform the patient that they were unlawfully detained unless I drove the originals to the hospital (I'd said I would post them). The rationale was their policy states it has to be the original and that no trust would accept a photocopy/scanned copy.
+
+I would say that in cases where the hospital to which a patient detained under the MHA is a long way away (a not uncommon scenario nowadays!) it is fairly common practice to fax the forms to the receiving hospital so that they can be scrutinised prior to the admission. This also saves the problem of a patient arriving at a hospital only to find that there has been some non-rectifiable error rendering the paperwork, and the detention, invalid.
+
+In such situations, however, the original paperwork will accompany the patient in the ambulance so that the originals can then be formally received by the hospital.
+
+I had a situation recently where I had assessed a patient in our local Sec.136 suite and it was concluded that they needed to be detained under the MHA. The psychiatrists completed a joint medical recommendation for Sec.2 MHA, but as the patient was from another area, there was a delay of several hours while the patient’s home area arranged for a bed. I faxed a copy of the medical recommendation to the patient’s local bed managers.
+
+As a consequence I was unable to complete an application before my shift ended. I left the medical recommendation at the hospital where the Sec.136 suite was located, and when a bed was identified during the evening an out of hours AMHP attended the Sec.136 suite, assessed the patient again, and completed an application under Sec.2 MHA.
+
+Unfortunately (and through no fault of my own), when needed the original medical recommendation could not be found. However, the receiving hospital accepted the faxed copy in lieu of the original, and the patient was taken there, along with the original application form.
+
+The patient was duly admitted to the hospital. The following day, the medical recommendation miraculously turned up and was transported to the hospital (don’t ask me how this happened; I suspect it was the Statutory Forms fairy.)
+
+Clearly, this hospital was sufficiently satisfied that there was evidence that the patient was legally liable to be detained, that they did not insist on the original form before accepting the patient.
+
+With delays in finding beds for detained patients becoming the norm, it is quite a common procedure for an AMHP to complete an application the following day, or even days later, at which point they may be in their office, while the medical recommendations are with the patient, for example where a patient is resident in a care home.
+
+There can then be logistical problems in uniting the paperwork. Our AMHP Service’s business support officer is quite often employed in transporting wayward section papers from one place to another, so that they can eventually be received at a hospital.
+
+All of this appears to indicate, however, that it is a matter of individual hospitals making their own rules about what constitutes a valid application.
+
+It is not easy finding a definitive answer to this issue.
+
+Richard Jones has a brief section on Faxed Forms. In the 19th Edition of the Mental Health Act Manual, he states on page 675:
+
+Although only reg.25((2)(a) provides specific authority for a form to be served by fax, it is submitted that a faxed reproduction of a completed form can be acted upon if (a) the recipient confers with the signatory by telephone to confirm that the form was completed by the signatory; and (b) the original is delivered to the recipient at the earliest opportunity. The Mental Health Act Commission endorsed the use of faxed forms (MHAC, Sixth Biennial Report, 1993-1995, para.3.13). (I have been unable to locate a copy of the 6th Biennial Report, so I have to trust to the accuracy of Jones’ statement.)
+
+Jones is referring to The Mental Health (Hospital, Guardianship and Treatment) (England) Regulations 2008.
+
+These regulations contain the text of the MHA forms, but also has this to say about the delivering of forms to hospitals:
+
+3(2) Any application for the admission of a patient to a hospital under Part 2 of the Act shall be served by delivering the application to an officer of the managers of the hospital to which it is proposed that the patient shall be admitted, who is authorised by them to receive it.
+(3) Where a patient is liable to be detained in a hospital under Part 2 of the Act—
+(a) any order by the nearest relative of the patient under section 23 for the patient’s discharge, and
+(b) the notice of such order given under section 25(1), shall be served either by—
+(i) delivery of the order or notice at that hospital to an officer of the managers authorised by the managers to receive it, or
+(ii) sending it by pre-paid post to those managers at that hospital, or
+(iii) delivering it using an internal mail system operated by the managers upon whom it is to be served, if those managers agree.
+
+25(2)(a) relates to the Responsible Clinician’s barring order when a nearest relative orders the discharge of a detained patient, and states:
+
+(2) In addition to the methods of serving documents provided for by regulation 3(1), reports under this regulation may be furnished by—
+(a) transmission by facsimile, or
+(b) the transmission in electronic form of a reproduction of the report,
+if the managers of the hospital agree.
+
+There appears to be no logical reason why this should not apply to all MHA forms. However, there is the clear proviso here that while this particular legal form can explicitly be faxed or emailed, it is with the agreement of the hospital managers. This appears to leave the hospital managers with discretion about what they deem to be an acceptable method of delivery.
+
+Does the Code of Practice offer any clarification?
+
+I’m not sure it does.
+
+Para35.3 states:
+
+If no hard copies of the statutory forms are available, photocopies of the original blank forms can be completed instead, as can computer-generated versions. The wording of the forms must correspond to the current statutory versions of the forms set out in the regulations.
+
+Unfortunately, this only refers to the filling in of forms, and restating, as is well established, that as long as the wording accords with the regulations, the actual format of the form is irrelevant.
+
+But then, para35.6 goes on to say:
+
+This chapter distinguishes between receiving admission documents and scrutinising them. For these purposes, receipt involves physically receiving documents and checking that they appear to amount to an application that has been duly made (since that is sufficient to give the managers the power to detain the patient). Scrutiny involves more detailed checking for omissions, errors and other defects and, where permitted, taking action to have the documents rectified after they have already been acted on.
+
+This paragraph is concerned with the difference between receipt and scrutiny. Unfortunately, it does not really define exactly what “physically receiving documents” means.
+
+I suppose on the plus side, one could quote this to an intransigent hospital manager and argue that receiving a valid copy of a form is the same as receiving the actual original copy.
+
+One has to look elsewhere to find guidance on the legality of forms that are not in the traditional handwritten form.
+
+The Ministry of Justice is very keen on reducing paperwork and speeding up the process of law. For example its website lists electronic copies of literally hundreds of legal forms, and offers the helpful advice: “Save a downloaded form and fill it in electronically, or print a form and fill it in by hand.”
+
+Our regional Magistrates’ Courts group (the area covering the whole of South East England) has entirely dispensed with the old system of applying to a magistrate for a warrant under Sec.135(1) or (2).
+
+For as long as I have been an AMHP, and ASW before that, the procedure has been that an AMHP must manually complete the paperwork for applying for a warrant, then attend the local magistrates’ court, have a word with the court clerk, and then wait for a gap in proceedings in order to convince a magistrate that they should grant the warrant.
+
+That system has now changed. An AMHP now books a slot online for a telephone consultation. They then complete electronic forms and send them by secure email to a central address. After a 10 minute discussion with a magistrate situated a hundred or more miles away, the magistrate (if satisfied) then electronically completes and signs the warrant and emails it to the AMHP. This form can then be infinitely copied, and each is regarded as the original valid warrant, with only an electronic signature.
+
+If this is considered valid for warrants under Sec.135(1) & (2) MHA, then who is to say that the same should not apply to all the other MHA forms?

@@ -1,0 +1,29 @@
+After a certain period of time spent programming, you develop a kind of sixth sense about what programs are doing. Surprisingly often, this sixth sense turns out to be right. I don't know if what I'm about to say is right. I do know that my sixth sense is telling me something.
+
+I've been a Firefox user for years, and I still like Firefox, the way I still like my 1998 Jeep Grand Cherokee (with the cast-iron six-cylinder engine) even though it's not the latest-and-greatest model. Lately, though, Firefox has been freezing and/or quitting unexpectedly with greater and greater frequency, even though my browsing habits haven't changed.
+
+What's changed over the past couple of years? The Web. Web content has become more and more dynamic, more AJAX-driven, more JavaScript-intensive.
+
+JavaScript is a great language, but like a lot of languages these days it relies on programmers being careful about how they manage runtime objects. It's surprisingly easy, if you manipulate the DOM a lot, to generate code that leaks memory. See this nice writeup for more info (also see https://developer.mozilla.org/en/Debugging_memory_leaks).
+
+My contention is that most AJAX code leaks memory like a sieve, and this is why more and more users are seeing their browsers (not just Firefox, but IE, Safari, and Chrome as well) freeze up and die in normal operation these days. The various browsers differ in how they manage memory and how they do garbage collection. Chrome, in particular, has undergone significant changes recently in how it handles garbage collection. This is no accident. It's in response to the greater challenges imposed on all browsers today by dynamic web pages.
+
+When I leave AJAX-intensive web pages open all day in Firefox, I eventually find that Firefox is using 1.3 gigabytes or more of RAM. Usually, by the time it reaches 1.4 gigabytes, the browser freezes (goes white) and then either dies outright, or unfreezes again after 30 or 40 seconds. If it manages to unfreeze, usually about 60 megabytes of RAM have been freed up (according to Task Manager). But then memory usage marches upwards again and it freezes (goes white) again, within seconds. The freeze/unfreeze cycle continues until Firefox unceremoniously crashes.
+
+My programmer's sixth sense tells me that when memory usage exceeds a certain level, Firefox lacks sufficient headroom to carry out a proper garbage collection cycle. Partway through the cycle, it runs out of memory and initiates another GC cycle. This repeats until the program is in what one might call a GC panic. Uncommanded program termination is the inevitable result.
+
+Firefox is often roundly criticized for its tendency to "leak memory," but I would caution that it is not really the core program that is leaking memory. It's really the AJAX code running in JavaScript-intensive pages that's causing the memory leakage.
+
+So ironically, Firefox's reputation is suffering not because of anything Mozilla's programmers are doing, but because of web developers who are using jQuery and tons of other popular libraries indiscriminately, without regard to memory leakage. (Be sure to have a look at this blog post about jQuery's role in memory leakage.)
+
+I haven't done careful testing, but I can tell you (from daily experience) that if I leave Gmail open in Firefox all night, Firefox will run out of memory by morning. If I leave Facebook and Twitter open as well, I can count on running out of memory in just a few hours.
+
+Now here's where it starts to get really troubling.
+
+Mozilla's greatest revenue source today (accounting for more than 80 percent of annual income) is Google. Mozilla is deeply dependent on Google for operating revenue. And yet, it is in direct competition with Google for browser market-share. Recently, the Firefox and Chrome adoption curves crossed, with Firefox now lagging behind Chrome for the first time.
+
+There's a huge conflict of interest here. If you buy the theory that most people who abandon Firefox do so because it crashes (runs out of memory) unpredictably, it stands to reason that all Google has to do to pick up market share in the browser world is publish AJAX-intensive web pages (Google Search, Gmail, Google Maps, etc.) of a kind that Firefox's garbage-collection algorithms choke on — and in the meantime, improve Chrome's own GC algorithms to better handle just those sorts of pages.
+
+That's exactly what seems to be going on. Or at least that's what my gut says.
+
+And my gut is sometimes right.

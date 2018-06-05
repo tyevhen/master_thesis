@@ -1,0 +1,68 @@
+Here's an interesting article from Finland in the American Journal of Psychiatry [PubMed] looking at potential treatments for intravenous amphetamine or methamphetamine (speed or ice) dependence.
+Since amphetamines are dopamine agonists, the thinking was to replace it with another dopamine agonist (such as methylphenidate/Ritalin) or a partial agonist (such as aripiprazole/Abilify), in much the same was heroin is replaced by methadone or buprenorphine.
+"While methadone and buprenorphine have proven
+highly effective substitute medications for opioid depen-
+dence (3), no pharmacological treatment has been found
+thus far for amphetamine dependence (4). Partial dopa-
+mine agonists such as aripiprazole are considered to be
+promising medications for addiction, since they are sup-
+posed to balance and restore normal function of the me-
+solimbic dopamine system (5). Observational studies,
+nonrandomized trials, and one randomized study without
+a placebo arm have suggested that oral dextroamphet-
+amine may be used to replace illicit intravenous amphet-
+amine use (4), which suggests that oral methylphenidate
+(dopamine reuptake inhibitor) might also be used to sub-
+stitute for intravenous amphetamine use. On the basis of
+this information, we aimed to compare the effectiveness
+of aripiprazole, methylphenidate, and placebo in the
+treatment of amphetamine dependence using urinalysis
+as an objective measure of primary outcome."
+What was interesting about this study, and why they stopped it prematurely, was that they discovered that the Abilify increased the amphetamine abuse. At the end of the double-blind, placebo-controlled study (n=53), looking only at positive urine samples to indicate relapse, 79% of the placebo group relapsed, compared with 46% of the methylphenidate group (54mg/day), and 100% of the aripiprazole group (15mg/day).
+"Our results indicate that methylphenidate treatment is
+associated with a statistically significant reduction in in-
+travenous amphetamine use when compared with pla-
+cebo, providing the first controlled evidence of an effective
+pharmacological treatment for amphetamine depen-
+dence. On the contrary, aripiprazole treatment was associ-
+ated with a higher proportion of amphetamine-positive
+urine samples than placebo.
+While aripiprazole (in amphetamine dependence) and
+naltrexone (in opioid dependence) may be good treat-
+ments in theory, it seems that effective pharmacological
+maintenance treatments for intravenous drug depen-
+dence are substances that induce at least some euphoria,
+such as methadone and buprenorphine in opioid depen-
+dence (3), or methylphenidate in amphetamine depen-
+dence. Slow-release methylphenidate may be superior to
+usual short-acting formulation, since the patient may start
+experiencing cravings for amphetamine as soon as the ef-
+fect of the substitute drug disappears. It is likely that meth-
+ylphenidate should be dispensed mostly on a daily basis
+under supervision because of its abuse potential. Ari-
+piprazole (15 mg/day) was not effective in this trial (an ab-
+stinence facilitation trial), but we cannot draw any conclu-
+sions on its potential efficacy in a relapse prevention study
+among detoxified patients.
+These results show that amphetamine use began to de-
+crease substantially as a function of time after 10 weeks of
+methylphenidate treatment reaching statistical signifi-
+cance at 18 weeks, which indicates that it may take an
+even longer period of time than 20 weeks to achieve full
+benefit from this treatment."
+
+So, they suggest that, for treatment purposes, Ritalin:amphetamine::Methadone:heroin, and further suggest daily, administered dosing to reduce abuse, perhaps earning weekend take-homes. Hmm, that doesn't sound too promising, except for maybe court-ordered folks who want to stay out of jail.
+But the real take-home message, for me, is to consider avoiding Abilify in pts with psychosis who have a history of comorbid amphetamine abuse.
+
+
+Amphetamine molecule. Note the phenyl ring on left, Nitrogen on right, and 2 carbons (ethyl) in middle. The squiggly is where a chemical group would be added to change the type of amphetamine compound.
+
+
+Methylphenidate/Ritalin molecule. Note instead of the N-amino group on the right, there is now a pyridine ring (with the N). That makes it less potent.
+
+
+
+
+Norepinephrine molecule. Note the common phenyl ring on left, N-amino group on right, and 2-carbons (ethyl) in the middle.
+technorati tags:speed, amphetamine, methamphetamine, ritalin, methylphenidate, abilify, aripiprazole, addiction, psychiatry, AJP, article
+Blogged with Flock

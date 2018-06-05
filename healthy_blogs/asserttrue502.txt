@@ -1,0 +1,51 @@
+Yesterday I criticized Ray Kurzweil's prediction (made in a Discover article) of the arrival of sentient, fully conscious machine intelligences by 2029. I'd like to put more flesh on some of the ideas I talked about earlier.
+
+Because of some of the criteria Kurzweil has set for sentient machines (e.g. that they have emotional systems indistinguishable from those of humans), I like to go ahead and assume that the kind of machine Kurzweil is talking about would have fears, inhibitions, hopes, dreams, beliefs, a sense of aesthetics, understanding (and opinions about) spiritual concepts, a subconscious "mind," and so on. Not just the ability to win at chess.
+
+Microtubules appear to play a key role in long-term memory.
+I call such a machine Homo-complete, meaning that the machine has not only computational capabilities but all the things that make the human mind human. I argued yesterday that this requires a developmental growth process starting in "infancy." A Homo-complete machine would not be recognizably Homo sapiens-like if it lacked a childhood, in other words. It would also need to have an understanding of concepts like gender identity and social responsibility that are, at root, socially constructed and depend on a complex history of interactions with friends, parents, relatives, teachers, role models (from real life, from TV, from the movies), etc.
+
+A successful Homo-complete machine would have the same cognitive characteristics and unrealized potentials that humans have. It would have to have the ability not just to ideate, calculate, and create, but to worry, feel anxiety, have self-esteem issues, "forget things," be moody, misinterpret things in a characteristically human way, feel guilt, understand what jealousy and hatred are, and so on.
+
+On top of all that, a Homo-complete machine would need to have a subconscious mind and the ability to develop mental illnesses and acquire sociopathic thought processes. Even if the machine is deliberately created as a preeminently "normal," fully self-actualized intelligence (in the Maslow-complete sense), it would still have to have the potential of becoming depressed, having intrusive thoughts, developing compulsivities, experiencing panic attacks, acquiring addictions (to electronic poker, perhaps!), and so on. Most of the afflictions described in the Diagnostic and Statistical Manual of Mental Disorders are emergent in nature. In other words, you're not born with them. Neither would a Kurzweil machine be borne with them; yet it could acquire them.
+
+We're a long way from realizing any of this in silicon.
+
+Kurzweil conveniently makes no mention of how the human brain would be modeled in a Homo-complete machine. One presumes that he views neurons as mini-electronic devices (like elements of an electrical circuit) with firing characteristics that, once adequately modeled mathematically, would account for all of the activities of a human brain under some kind of computer-science neural-network scheme. That's a peculiarly quaint outlook. Such a scheme would model the brain about as well as a blow-up doll models the human body.
+
+Current mathematical models are impressive (see [3] below, for example), but they don't tell the whole story. It's also necessary to consider the following:
+
+Neurotransmitter vesicle release is probabilistic and possibly non-computable.
+
+Beck and Eccles [2] have suggested that quantum indeterminacy may be involved in consciousness.
+
+It's likely that consciousness occurs primarily in dendritic-dendritic processing (about which little is known, except that it's vastly more complex than synapse-synapse processing) and that classical axonal neuron firing primarily supports more-or-less automatic, non-conscious activities [1][7].
+
+Substantial recent work has shown the involvement of protein kinases in mediating memory. (See, for example [8] below.) To model this realistically, it would be necessary to have an in-depth understanding of the underlying enzyme kinetics.
+
+To model the brain accurately would require modeling the production, uptake, reuptake, and metabolic breakdown of serotonin, dopamine, norepinephrine, glutamate, and other synaptic substances in a fully dynamic way, accounting for all possible interactions of these substances, in all relevant biochemical contexts. It would also require modeling sodium, potassium, and calcium ion channel dynamics to a high degree of accuracy. Add to that the effect of hormones on various parts of the brain. Also add intracellular phosphate metabolism. (Phosphates are key to the action of protein kinases, which, as mentioned before, are involved in memory.)
+
+Recent work has established that microtubules are responsible not only for maintaining and regulating neuronal conformation, but in addition, they service ion channels and synaptic receptors, provide for neurotransmitter vesicle transport and release, and are involved in "second messenger" post-synaptic signaling. Moreover, they're believed to affect post-synaptic receptor activation. According to Hameroff and Penrose [5], it's possible (even likely) that microtubules directly facilitate computation, both classically and by quantum coherent superposition. See this remarkable blog post for details.
+
+Kurzweil is undoubtedly correct to imply that we'll know a great deal more about brain function in 2029 than we do now, and in all likelihood we will indeed begin to see, by then, machines that convincingly replicate certain individual aspects or modalities of human brain activity. But to say that we will see, by 2029, the development of computers with true consciousness, plus emotions and all the other things that make the human brain human, is nonsense. We'll be lucky to see such a thing in less than several hundred years—if ever.
+
+
+References
+
+1. Alkon, D.L. 1989. Memory storage and neural systems. Scientific American 261(1):42-50.
+
+2. Beck, F. and Eccles, J.C. 1992. Quantum aspects of brain activity and the role of consciousness. Proc. Natl. Acad. Sci. USA 89(23):11357-11361.
+
+3. Buchholtz et al., Mathematical Model of an Identified Stomatogastric Ganglion Neuron, J. Neurophysiology, 67:2 February 1992.
+
+4. Hameroff S 1996. Cytoplasmic gel states and ordered water: Possible roles in biological quantum coherence. Proceedings of the Second Advanced Water Symposium, Dallas, Texas, October 4-6, 1996. http://www.u.arizona.edu/~hameroff/water2.html
+
+5.Hameroff, S.R., and Penrose, R., (1996a) Orchestrated reduction of quantum coherence in brain microtubules: A model for consciousness. In: Toward a Science of Consciousness, ­ The First Tucson Discussions and Debates, S.R. Hameroff, A. Kaszniak and A.C. Scott (eds.), MIT Press, 1996, Cambridge, MA. Also published in Mathematics and Computers in Simulation 40:453­480.
+
+6. Toward a Science of Consciousness II: The 1996 Tucson Discussions and Debates, Stuart Hameroff, Alfred Kaszniak, and Alwyn Scott, Editors. MIT Press, Cambridge MA 1998.
+
+7. Pribram, K.H. Brain and Perception Lawrence Erlbaum, New Jersey 1991.
+
+8. Rovelli C, Smolin L 1995a. Discreteness of area and volume in quantum gravity. Nuclear Physics B 442:593-619.
+
+9. Shema et al., Rapid Erasure of Long-Term Memory Associations in the Cortex by an Inhibitor of PKM, Science, 317:5840 pp. 951-953, August 2007.

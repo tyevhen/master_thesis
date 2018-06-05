@@ -1,0 +1,38 @@
+In recent weeks, I've been accused of something no one has even accused me of before: creating a meme. The charge seems weak to me, though, based on my understanding of "meme." But let's review.
+
+On 26 February 2009, I wrote a blog for CMS Watch called "A Reality Checklist for Vendors" in which I enumerated 15 things that a CMS software vendor (but really, any software vendor) needs to do these days in order to stay relevant. Things like posting a free downloadable eval version of your software on your company web site; eating your own dogfood (the vendor should use its own software to create its website); and having one pricesheet for all customers (we don't quote ten different prices to ten different customers). Simple things, basic sanity-check items. For the full list, go here.
+
+Not long thereafter, on 17 March, Michael Marth wrote a blog at dev.day.com ("Introducing the CMS Vendor Meme") giving Day Software's answers to all 15 checklist items in my Reality Checklist. Not only that, Michael created a scoring system, assigned scores to Day's answers, and challenged ("tagged") several other vendors to respond in like manner.
+
+This set off a flood of responses from vendors (including many vendors who weren't tagged by anyone), and the results are still coming in. The situation is well-captured by Jon Marks in his excellent series of blog posts here, where (incidentally) he calls it a Celebrity CMS Deathmatch.
+
+As a result of all this, I've been accused of starting a meme, which makes me want to understand "meme" better. So I've done a little digging and found the internet definitions of meme rather unsatisfying. They seem sloppy, semantically speaking. Maybe that's just in the nature of memes.
+
+Some definitions equate meme with slang. (But in that case, why not just stick with slang?) Other definitions point in the direction of slang with a pop-culture theme. Or anything on the internet that has a catchy phrase associated with it. It gets even sloppier: If you go to http://knowyourmeme.com, you find things like Yo Dawg, Advice Dog, and I Like Turtles. (But oddly, not WTF?)
+
+Some people feel that meme gives memetics a bad name.
+
+What I've decided is that it's easier for me to understand meme in terms of its characteristics rather than a declarative definition. From what I can tell, a meme has characteristics of:
+
+1. Theme: A meme captures a theme
+2. Originality: in a new way, with new nuancing
+3. Compositionality: New nuance is achieved by combining other terms and themes.
+4. Emergent lexical cohesion (tm): Through suitable juxtaposition of imagery, slang, conceptual archetypes, etc., it becomes apparent to the first-time listener that a familiar notion is encapsulated in the meme. That is, a person hearing it for the first time can synthesize the intended meaning, even if the meaning is unexpected.
+5. Transmissibility: The meme is easily communicated from one person to another.
+6. Contagion: A meme usually spreads. If it didn't, it wouldn't enter the common lexicon.
+
+That's still not a satisfying definition of "meme," to me, but it captures a lot more of it than the definitions I've seen floating around on the Web.
+
+So I guess maybe I am guilty of creating a meme, if "We Get It" combined with "checklist" combined with "CMS Vendors" produces a meme. But it seems weakly reachable somehow.
+
+"10 Things About {X}" seems to qualify as a meme, though.
+
+Tagging someone to get them to participate in a meme-off seems not a meme but a pattern. But then again, maybe patterns are memes.
+
+And so, to finish off this post, I invite commenters to answer the following queston: How many memes you can find in this blog post? I see quite a few. But I am interested in knowing what others see in terms of memes.
+
+Also, a challenge (extra points, and attribution, to anyone who answers this correctly). Explain the following meme:
+
+厚黑學 厚黑学
+
+(It's one of my favorites.)

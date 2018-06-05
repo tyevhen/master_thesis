@@ -1,0 +1,7 @@
+Novell has decided to donate its high-performance FLAIM Database Engine (and the XML-savvy version, XFLAIM) to open source. FLAIM is not new and is not meant to compete with MySQL. It's a platform-neutral, massively scalable, very-high-performance transactional database, written in C++ as a persistence back-end for Novell eDirectory. (It is also used in GroupWise.) The XFLAIM version uses XPath for a query language.
+
+The fact that there are Novell customers with well over 100 million objects in their FLAIM-backed eDirectory trees should tell you how scalable and robust the FLAIM technology is. (It should be robust, after nearly 20 years of development!)
+
+If you want to get a feel for what XFLAIM is all about (given that I can't do it justice here), go to the documentation.
+
+Is this Novell's first step toward open-sourcing eDirectory? Quite honestly, I don't know. (If I did know, I couldn't write about it here.)

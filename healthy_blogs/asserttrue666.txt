@@ -1,0 +1,5 @@
+Over the years, there've been plenty of store-it-in-your-garage one-man "personal helicopter" designs (most of which never flew, of course). It's pretty much been sci-fi until now -- and still is -- but this design from NASA's Langley Research Center in Hampton, VA actually looks plausible. Watch the video and decide for yourself.
+
+The Puffin, to be unveiled on January 20 at an American Helicopter Society meeting in San Francisco, is a 3.7-meter-long, 4.1-meter-wingspan craft made of carbon-fiber composites, denting the grass at an empty mass of 135 kilograms, not including 45 kilograms of rechargeable lithium phosphate batteries.
+
+Unfortunately, you won't get far in the Puffin: the endurance (with current battery technology) is less than half an hour. (And of course, the whole thing is just CGI at this point. No prototype has been built, much less flown.) But it looks as if it could actually survive an episode of MythBusters. Which is more than you can say for certain other one-man pocket rockets.

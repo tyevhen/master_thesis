@@ -1,0 +1,16 @@
+Why an update on Huntington's Disease? Good question.
+
+Huntington's Disease is in a similar category to Kennedy's Disease (SBMA). The hope is that a treatment or cure for a similar condition might lead towards something to help those of us living with Kennedy's Disease.
+
+
+First patients dosed with 'gene silencing' drug for Huntington's disease
+October 19, 2015
+
+The first few patients have received doses of an experimental RNA-targeting drug for Huntington's disease, it was announced today.
+The trial aims to test the safety of an experimental drug known as ISIS-HTTRx, discovered and developed by Isis Pharmaceuticals. Administered by injection into spinal fluid to improve its delivery to the brain, the drug is the first tested in patients that targets the known cause of the disease: a toxic protein called mutant huntingtin which slowly damages and kills neurons, leading to the progressive and ultimately fatal decline in mental and physical abilities that is the devastating hallmark of Huntington's disease.
+
+The huntingtin gene and its lethal protein product have been the focus of intense research across the world since their discovery in 1993. 'Gene silencing' drugs, also known as 'antisense' drugs, are designed to reduce production of a chosen protein by attaching to the mRNA 'message molecule' that's made whenever a gene is activated. ISIS-HTTRx targets the huntingtin message molecule, telling the cell to dispose of it, thereby reducing production of the mutant huntingtin protein.
+
+There are no treatments to prevent, slow or cure Huntington's. RNA-targeting antisense drugs, like ISIS-HTTRx, that lower huntingtin production are widely considered the most promising therapeutic strategy currently under investigation. Isis's Huntington's disease therapeutics underwent over a decade of refinement and preclinical testing before human trials could begin. The first Phase 1/2a trial is focused principally on safety, using slowly increasing doses of ISIS-HTTRx with careful monitoring of patient wellbeing, scans and laboratory parameters. In addition, the researchers will be looking for chemical signs that the drug is having the desired effect - by measuring the level of mutant huntingtin protein in the cerebrospinal fluid using a newly developed assay. ...
+
+To read the rest of the article, follow this link:  http://medicalxpress.com/news/2015-10-patients-dosed-gene-silencing-drug.html

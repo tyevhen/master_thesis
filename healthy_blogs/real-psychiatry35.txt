@@ -1,0 +1,27 @@
+Blood pressure is an important topic for psychiatrists and all physicians.  The prevalence of blood pressure problems especially hypertension is high in the United States and has significant associated mortality and morbidity.  Many psychiatric medications affect blood pressure and some blood pressure medications like beta adrenergic receptor blockers, central alpha adrenergic receptor agonists, and alpha-1 adrenergic receptor inverse agonists have psychiatric applications.  In addition, blood pressure irregularities are noted in major toxic reactions to psychiatric medications like serotonin syndrome and neuroleptic malignant syndrome.  Hypertension is a contraindication to the use of some psychiatric medications and parameters need to be placed for their use.  All of these considerations would seem to make it obvious that frequent and consistent blood pressure measurements should be a part of psychiatric practice - but they are not.
+
+Various problems with obtaining blood pressures occur in psychiatric practice.  Practice settings are part of the problem.  In some clinics, depending on the resources blood pressures may not be measured at all. I have received patients from some of these clinics who were treated with medications that cause hypertension or hypotension and found that their blood pressures were never checked.  I have worked in clinics where the only way that I could obtain a blood pressure or pulse reading was if I took it myself.  I have worked in other settings where blood pressures were taken, but I had no confidence in the numbers.  I found myself interviewing the patient and trying to piece together why their blood pressure and heart rates were elevated at some times but normal in others.  The only adequate assessment of the situation is that attention to blood pressure and its measurement in psychiatric settings is uneven and may be uniformly poor.
+
+That is why an article in The Journal of Clinical Hypertension (1) caught my eye.  In the student the authors looked at 159 medical students and how they measured the blood pressure of a simulated patient against an 11-element skillset on BP measurement.  Only one student out of the 159 demonstrated all 11 skills in simulation.  The specific tasks are listed in the article and have to do with patient preparation, positioning, and the actual measurement task itself.  Some common errors in any of these areas can lead to significant differences in systolic and diastolic blood pressure measurements.  Those errors alone especially those in cuff size selection, arm positioning and patient readiness can lead to consistent false measurements in blood pressure.  As an example, I have assessed a week or two of blood pressure measurements in the mild hypertension range and after correcting the measurement techniques found that the subsequent week was all in the normal range.  This study illustrates an unacceptably high variation in these skillsets in medical students.  I am not aware of similar studies in practicing physicians.
+
+The second article (2) is an encyclopedic reference that is a scientific consensus statement by the American Heart Association on High Blood Pressure Research.  This reference will answer any possible question about blood pressure measurement. A valuable resource from this site was a resource that provides a very extensive list of validated home blood pressure devices. It is possible to make recommendations for accurate and cost effective devices or provide the link to patients who want to explore the possibilities.
+
+I encourage psychiatrists everywhere to make sure that blood pressures and pulses are being taken regularly and accurately.  The buck stops with the physician doing the assessment and treatment and in my opinion it is impossible to practice psychiatry without regular blood pressure measurements.  In addition to monitoring the cardiovascular status of the patient and the response to prescribed medications it provides the opportunity to diagnose a disorder that causes significant cardiovascular and cerebrovascular disease and reverse that process.
+
+Know the 11-element skillset on blood pressure measurement.
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1: Rakotz MK, Townsend RR, Yang J, Alpert BS, Heneghan KA, Wynia M, Wozniak GD.Medical students and measuring blood pressure: Results from the American Medical Association Blood Pressure Check Challenge. J Clin Hypertens (Greenwich). 2017 Jun;19(6):614-619. doi: 10.1111/jch.13018. Epub 2017 Apr 28. PubMed PMID: 28452119
+
+2: Pickering TG, Hall JE, Appel LJ, Falkner BE, Graves J, Hill MN, Jones DW,Kurtz T, Sheps SG, Roccella EJ; Subcommittee of Professional and Public Education of the American Heart Association Council on High Blood Pressure Research. Recommendations for blood pressure measurement in humans and experimental animals: Part 1: blood pressure measurement in humans: a statement for professionals from the Subcommittee of Professional and Public Education of the American Heart Association Council on High Blood Pressure Research. Hypertension. 2005 Jan;45(1):142-61. Epub 2004 Dec 20. PubMed PMID: 15611362
+
+Both of the above links are full text.
+
+
+
+          

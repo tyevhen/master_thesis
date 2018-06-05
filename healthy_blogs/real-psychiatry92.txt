@@ -1,0 +1,62 @@
+From the DSM-5 under criteria B.4. for a manic episode: "Flight of ideas or subjective experience that thoughts are racing." (p.124). In a previous post I discussed how easy it was to make a reliable diagnosis of bipolar disorder because the patient needs to describe a clear cut episode of mania. The main problem becomes determining whether they are actually describing a manic episode or not. There are a significant number of confounding factors in that determination. The best way to illustrate what I am talking about is to focus on how the term racing thoughts is used in psychiatric evaluations by patients rather than psychiatrists. DSM technology gives surprisingly little guidance on what a racing thought is. In clinical practice that is very problematic, especially if psychiatrists are depending on the observations of untrained observers. People who appear to be hyperactive or agitated and hypertalkative are frequently described as having racing thoughts. In many cases when asked directly they will reply: "My thoughts are always fast." or "This is normal for me." or "What do you mean by racing thoughts?  I don't know what that means."  At the observer level, many observers have reported to me: "The patient states he is having racing thoughts" as though that is diagnostic.  It may be - but it also might not be.
+
+One of the commonest scenarios for racing thoughts doesn't involve mania at all.  It involves anxiety and insomnia.  Initial insomnia is a case in point as in: "I try to fall asleep but as soon as my head hits the pillow my thoughts are racing and I am thinking about a million things. After a while I look at the clock and it is 2AM." In the sleep literature the experience of racing thoughts here is associated with the phenomenon of hyperarousal and it is the commonest form of initial insomnia.  In other words, when I go to bed to sleep at night - I have really trained myself to think about all of my problems for several hours before I fall asleep.  It is not about sleep at all. Subjectively a person may thinking about every hypothetical in order to prevent mistakes - a common cognitive error of the anxious.  Many people experience this high arousal and excessive worry state as racing thoughts, but the main difference is probably in the time domain. The insomniac experiences a compression of time.  The worry is continuous and at least initially there is some surprise that hours have passed and there is no onset of sleep.  When the insomniac wakes up in the morning the racing thoughts are probably not there. With an episode of mania the racing thoughts are usually phasic change until the manic episode resolves or a different cognitive process occurs like increasing incoherence and distractability.
+
+One of the best modern sources of information on psychiatric phenomenology remains Andrew Sims' Symptoms in the Mind. His discussion of racing thoughts is more comprehensive than most and far superior to anything that you will find in the DSM.  I am sure that the DSM authors will point out that this is why psychiatric training is necessary to use the book and that the book is not a substitute for training in phenomenology. Without that training racing thoughts on the part of the patient or the observer is often anyone's best guess. The best example I can think of was a patient who was being presented to me as "histrionic and overly dramatic" who was in fact manic. It is difficult if not impossible to sustain a dramatic presentation of mania, racing thoughts and pressured speech for any length of time.
+
+The Sims discussion of racing thoughts occurs in his chapter: Disorder of the Thinking Process. In it he uses what he refers to as Jaspers model of thought association.  As illustrated in the tables, people tend to proceed from one constellation of thought to another unless they have specific disorders of thinking.  Sims diagrams out the thought disorders using a very nice graphic to illustrate these clusters and how a person moves from one cluster to another.  I have included a couple of examples in the tables here and how the thoughts proceed as indicated by the red arrow.  As I thought about it there are some differences with anxiety and mania.  The anxious person will be operating form clusters of questions and doubt.  That leads to more and more branch points or worry.  The manic person on the other hand especially if they have grandiose and expansive mania is not operating from excessive worry or doubt but declarative statements consistent with their confidence level.  As I thought about both people trying to sleep, the anxious person would be laying in bed the entire time, probably with their eyes closed going through these constellations of thought.  One of the commonest sleep complaints they describe is: "I can't shut my mind off - it is racing."  
+
+The manic person for the same time frame would undoubtedly be up and engaged in some activity late into the night - if not for the entire night while experiencing a rapid progression of thoughts.  They will often describe their thoughts as going too fast to describe and certainly too fast to speak, even though many can speak at a very fast rate.  A secondary phenomenon that I typically ask about is excessive thoughts with no progression or what Sims calls "crowding of thought."  His specific description is that thoughts are being passively concentrated and compressed in the head: "the associations are experienced as being excessive in amount, too fast, inexplicable and outside of the person's control."  Sims sees this as occurring in schizophrenia, but I have definitely asked that question to manic patients and had them agree that was happening to them.  Jaspers also describes flight of ideas as a massive flow of content without an increase in the speed of thinking. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The interesting aspect of focusing in only on the conscious experience of racing thoughts is that there is not necessarily an associated pressured speech.  Andreasen defined 18 different thought disorders in her early work and one of them was pressured speech.  She defined pressured speech as a rate of at least 150 words per minute. (3).
+
+From a clinical standpoint a number of syndromes present with self descriptions of racing thoughts including anxious and agitated depressions, some forms of attention deficit~hyperactivity disorder, various intoxication states.  Racing thoughts is often the first phenomenon described by people who are under a lot acute stress and in some cases physical illness.  Many people become delirious for one reason or another and describe what amounts to a state very similar to pre-sleep reverie as racing thoughts.  The recent literature on racing thoughts supports the observations in this post and suggests that thought overactivation that includes both racing thoughts and overcrowding is a common phenomenon in mood disorders including unipolar states.  It also highlights an inherent limitation of the DSM - despite an abundance of descriptors it is inherently weak on phenomenology and this needs a lot of work with trainees who may be too focused on the DSM as a system for indexing rather than a comprehensive diagnostic system.  The criteria of racing thoughts certainly seems to lack specificity at several levels and clinicians encounter a broad spectrum of people who describe racing thoughts and do not have mania.  
+
+Rather than a central feature of the diagnostic process, I would speculate that most experienced clinicians find that racing thoughts are an elaboration down the mental checklist after they have a detailed history of mood, activity level, and sleep changes.  At that level most of these clinicians are matching patterns of hundreds or thousands of people treated rather than specific written criteria.
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+
+1:  Andrew Sims. Symptoms in the Mind. Third Edition.   Elsevier Limited, Philadelphia, USA, 2003: p. 149-155.
+
+2:  Karl Jaspers. General Psychopathology. Volume I.  John Hopkins University Press.  Baltimore, Maryland, 1997. p. 210-213.
+
+3:  Andreasen NC. Thought, language, and communication disorders. I. Clinical assessment, definition of terms, and evaluation of their reliability. Arch Gen Psychiatry. 1979 Nov;36(12):1315-21. PubMed PMID: 496551.

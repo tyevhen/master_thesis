@@ -1,0 +1,19 @@
+As the entire world knows by now, Google recently announced its intention to muscle its way into the operating-system space (supposedly) by way of something called Google Chrome Operating System.
+
+But is it really an operating system? By Google's own account, it's actually an instant-on windowing system sitting atop a Linux kernel, and it will run on certain netbooks only, using certain chipsets only. Google is reportedly working with Acer, Adobe, ASUS, Freescale, Hewlett-Packard, Lenovo, Qualcomm, Texas Instruments, and Toshiba to "deliver an extraordinary end user experience." I take it that means Flash will be supported, since Adobe is on the partner list.
+
+But where are the value-adds in this picture? What, exactly, does Chrome OS bring to the table that you can't already get elsewhere?
+
+Not much, it turns out.
+
+"Speed, simplicity and security are the key aspects of Google Chrome OS," acccording to Google. Speed, in this case, means instant-on. Turn your netbook on, it lights up, you have e-mail and browsing. Of course, you might have to wait a few seconds while the netbook (re)acquires a wi-fi connection, but at least you don't sit there for two minutes waiting for Godot.
+
+This sounds like a great technological advance until you realize that the same instant-on capabilities promised by Chrome OS are already available via HyperSpace from BIOS vendor Phoenix Technologies Ltd., Splashtop from DeviceVM Inc. and Cloud from Good OS, as well as (more recently) Presto from Xandros Inc. In addition, Dell is putting special instant-on features in its Latitude laptops, and oh by the way, I can put my last-year's-model Dell laptop to sleep any time I want and wake it up later in the day, right now.
+
+Bottom line, instant-on is not new, and it'll be even less new when netbooks running Google Chrome OS become available for consumers in the second half of 2010 (according to Google).
+
+Simplicity is another supposed value-add. What this really seems to mean is that you can only run web apps, and you have only one UI to learn (Chrome's). Which is fine. I spend most of my day in a browser already, thank you.
+
+Security is the third main value add, according to Google. Security expert Bruce Schneier has already derided this claim, however, calling it "idiotic." Far be it for me to disagree with such a distinguished expert.
+
+What are we left with? In terms of new technology, not much, really. There's nothing here you can't already get elsewhere. The only hope Google has of differentiating itself in this market is to offer a jaw-dropping user experience, something so compelling that nothing else even compares. In other words, they have to out-Apple Apple. I have yet to see Google do that -- with anything. Maybe this time they'll pull off a miracle. But somehow I doubt it.

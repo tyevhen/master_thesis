@@ -1,0 +1,30 @@
+Conditions can be imposed on patients subject to conditional discharge under Sec.37/41 MHA, as well as those subject to Community Treatment Orders under Sec.17A MHA. These can impose considerable limits on a patient’s freedom, such as stating where the patient must live, and what they can and can’t do. These conditions can include anything from stipulating whether or how a patient can access the internet, to prohibitions on drinking alcohol or taking illegal drugs.
+
+Generally, patients do not object to these conditions, if it means that they can be released from hospital, so there is little case law relating to whether or not such requirements could breach an individual’s human rights. However, a recent Upper Tribunal appeal did address this issue.
+
+The Upper Tribunal considered an appeal from the 1st Tier Mental Health Tribunal concerning a conditionally discharged patient (RP v Dudley and Walsall Mental Health Partnership NHS Trust and the Secretary ofState for Justice, [2016]UKUT 204 (AAC) (26 April 2016).
+
+RP had a diagnosis of paranoid schizophrenia, and had been made subject to hospital and restriction orders under Sec.37/41 following convictions for offences of violence.
+
+He was conditionally discharged in September 2011, and had been living in the community since then. RP’s order and conditions were reviewed by a 1st Tier Tribunal in February 2015, who decided the conditions should continue.
+
+The appeal was based on the contention that there had been errors in law, the most significant being that the Tribunal had failed to comply with the patient’s right under Article 8, and it was this aspect that the Upper Tribunal had to consider.
+
+Article 8 of the Human Rights Act is, of course, concerned with the right to respect for private and family life.
+
+Specifically, Article 8 states:
+1. Everyone has the right to respect for his private and family life, his home and his correspondence.
+2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
+
+One of the conditions stated that “The patient shall abstain from using illicit drugs and steroids. He is also to refrain from the consumption of alcohol to excess.” It was the contention of the patient’s solicitors that this breached his human rights.
+
+The Upper Tribunal gave this due consideration, stating:
+ It is possible, for example, that the conditions imposed on a conditional discharge might represent an unjustified interference with private or family life. The tribunal is entitled to expect a representative to draw attention to any specific Article 8 issues that arise.
+
+The Judge went on to state:
+Most conditions that are imposed on conditional discharges are capable of being operated oppressively, but in practice they are not. It is understood when the conditions are imposed that they will be applied reasonably and according to the circumstances at the time. Intervention may be light-handed or heavy-handed as required. The application of Article 8 will be calibrated to the needs of the patient and the public. The tribunal is more likely to be concerned to ensure that the conditions are reasonable in principle.
+
+Considering the condition relating to “excess alcohol consumption”, the Judge concluded:
+It is, as the solicitors say, inherently vague. But it is reasonable for a tribunal to impose some kind of control over alcohol consumption and the difficulties of precise definition are capable of causing as many problems as they try to solve. What matters is how the conditions are operated and Article 8 operates to protect the patient at that stage.
+
+The decision therefore was that the conditions of the discharge, even the contentious issue relating to drug and alcohol use, did not breach the patient’s Article 8 Human Rights.

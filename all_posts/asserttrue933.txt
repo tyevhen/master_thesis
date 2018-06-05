@@ -1,0 +1,1 @@
+assignment write a dozen line xml file that will lock up any modern browser answer see the billion laughs attack

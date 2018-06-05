@@ -1,0 +1,47 @@
+Yesterday I talked about teaching yourself programming. I said it's something anybody who understands "if/then" can do; you don't have to be a math whiz or a major-bigtime geek to learn to read and write code. I also said that today I'd present a first programming lesson. So let's get started.
+
+a = 1;
+
+What does this mean to you? If you're not already a programmer, it probably means "a equals one." But in the wonderful world of JavaScript, that's not what it means. It means "assign the numeric value of 1 to a (and from this point forward, treat any appearance of 'a' as if it were 1)."
+
+In JavaScript (and Java and C++), "=" is the assignment operator. It doesn't mean "equals."
+
+How then can you say "equals"? Consider this:
+
+a == 1;
+
+This is a perfectly legal (syntactically correct) JavaScript statement. Legal but useless. It means "a equals one." It's a useless statement in that it does nothing to 'a' and changes nothing in the state of the computer. It's the programming equivalent of neon gas; inert.
+
+When would you want to use "a == 1"? Consider this statement:
+
+if (a == 1)
+   doWhatever( );
+
+Notice that the top line is not a statement by itself. The semicolon comes at the end of the second line. Therefore the whole statement reads: "If the value of a is equal to 1, execute the function named doWhatever." (A function is just what you think it is: a named collection of statements that occurs elsewhere.) If a isn't equal to one, just skip the doWhatever() and do nothing.
+
+Make sense so far? Good. In that case, it's time for a pop quiz. What's wrong with the following piece of code?
+
+if (a = 1)
+   doWhatever( );
+
+Technically, there is nothing wrong with the syntax of this statement. It will execute without error. But it's not a good piece of code. Why? Consider what it says. It says "give the variable a the value 1, and if that value is true, execute the function doWhatever." In other words, "a = 1" sets a to one (whether that's what you intended or not). The "if" asks whether the value one is true, which it is, in the world of code. (Seemingly useless fact: In the land of JavaScript, any non-zero/non-null value will always be considered true.) Thus the top line of this statement will always be true and doWhatever() will always be called. You might as well leave out the top line and just call doWhatever(). Except, that's probably not what you wanted to do, because if it was, you would have written the code that way to begin with.
+
+If that made any kind of sense, congratulate yourself. You've done your first bit of debugging.
+
+Was any of it hard? Was any of it "rocket surgery"?
+
+Let's recap. Here's what you learned:
+
+1. A piece of code contains statements.
+2. A statement ends with a semicolon.
+3. You can have variables with names like 'a'.
+4. The equals sign is actually an assignment operator.
+5. But two equals-signs in a row means "equals."
+6. The "if" keyword does what you think it does.
+7. In JavaScript, a non-zero value is treated as true in the context of an "if."
+8. There are things called functions, which are basically just named collections of statements.
+9. Code can be buggy without containing illegal syntax! It can be syntactically correct, yet logically flawed. And the flaw can be hard to spot.
+
+That's a huge amount to learn in one lesson. But it really wasn't that hard, right?
+
+I hope this lesson gives you encouragement to continue on. Where should you go from here? I recommend that you start by reading more about JavaScript's data types. Then perhaps check out http://www.codecademy.com/learn for free structured online courses (on your choice of Ruby, JavaScript, or Python). If it starts to sound tedious, remember there's a lot of rote and tedium in the early stages of learning any language (whether it's French, Hebrew, Ruby, JavaScript, etc.), and you're bound to start to feel like you're doing a lot of wax on, wax off, at some point. But also remember: Like the karate kid, you'll eventually break through. And yes, the payoff is worth it.

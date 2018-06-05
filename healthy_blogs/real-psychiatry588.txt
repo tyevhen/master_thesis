@@ -1,0 +1,18 @@
+There is a seminal article in this month’s British Journal of Psychiatry by Leucht, Hierl, Kissling, Dold, and Davis.  The authors did some heavy lifting in the analysis of 6175 Medline abstracts and 1830 Cochrane reviews to eventually compare 94 meta-analyses of 48 drugs in 20 medical diseases and 33 meta-analyses of 16 drugs in 8 psychiatric disorders.  The authors have produced a graphic comparing the Standard mean difference of effect sizes between the general medicine drugs and the psychiatric drugs.  It is apparent from that graphic that the psychiatric drugs are well within the range of efficacies of the general medical drugs.
+
+This is an outstanding study that merits reading on several levels.  The authors have used state of the art approaches to meta-analysis following suggested conventions.  They provide the summary of the studies reviewed and actual details of their calculations in the accompanying tables. (the document including references and PRISMA diagrams is 59 pages long.)  They have a comparison of standard criticisms of psychiatric drugs and illustrate how the criticisms are not fair and the toxicity considerations are often greater in the general medicine drugs than the psychiatric drugs. 
+
+This paper should be read by all psychiatrists since it is an excellent illustration of an approach to large scale data analysis using modern statistical techniques.  It is a good example of the application of the discussion by Ghaemi of hypothesis testing statistics versus effect estimation.  The authors also have an awareness of the limitations of statistics that the detractors of psychiatric care seem to lack.  Their statements are qualified but they provide the appropriate context for decision making about these medications and the implication is that decision matrix is clearly squarely in the realm of other medical treatments in medicine.
+
+From the standpoint of the media and the associated politics it will also be interesting to see if this article gets coverage relative to the articles that have been extremely critical of psychiatric drugs.  I can say that I have provided the link to the article by Davis, et al on the issue of antidepressant effectiveness to several journalists including the New York Times and it was ignored.  The press clearly only wants to tell the story against antidepressants and psychiatric medications.
+
+Never let it be said that any aspect of psychiatric treatment gets objective coverage in the press.  That problem and the lack of investigation of that problem is so glaring at this point that the press lacks credibility in any discussion of psychiatric treatment.
+
+George Dawson, MD
+
+Leucht S, Hierl S, Kissling W, Dold M, Davis JM. Putting the efficacy of psychiatric and general medicine medication into perspective:review of meta-analyses. Br J Psychiatry. 2012 Feb;200:97-106. PubMed PMID: 22297588
+
+S. Nassir Ghaemi (2009) A Clinician’s Guide to Statistics and Epidemiology in Mental Health: Measuring Truth and Uncertainty.  Cambridge University Press, New York.
+
+Davis JM, Giakas WJ, Qu J, Prasad P, Leucht S. Should we treat depression with drugs or psychological interventions? A reply to Ioannidis. Philos Ethics Humanit Med. 2011 May 10;6:8.
+Seemuller F, Moller HJ, Dittmann S, Musil R. Is the efficacy of psychopharmacological drugs comparable to the efficacy of general medicine medication? BMC Med. 2012 Feb 15;10(1):17. Free full text commentary on the main article from another journal    -      download the pdf.

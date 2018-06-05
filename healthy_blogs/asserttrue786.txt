@@ -1,0 +1,24 @@
+At the last JavaOne, Sun pre-announced a technology that Java developers have been wanting desperately for years: decent browser emulation in a Swing component. The demo (of something called JWebPane) got everyone pretty excited. It looked too good to be true. And now maybe it is.
+
+Mind you, I don't have any kind of inside information to share (I wish I did) and I don't know any more than you do what happened to JWebPane. But it's been missing-in-action ever since the Big Demo. Even Sun's bloggers have gone silent on it. The last known-good Sun blog on JWebPane was Alexy Ushakov's blog of 10 December 2008. Ushakov is the tech lead on JWebPane. He hasn't blogged about it since. And neither has anyone else at Sun, from what I can determine.
+
+I have to wonder, at this point, if JWebPane hasn't been back-burnered in favor of something more important (although I can't imagine what that might be, frankly). I'm starting to think JWebPane might actually be pre-announced a second time, at the next JavaOne.
+
+Here's what we know so far. JWebPane is based on WebKit and (of necessity) uses JNI to glue-through to WebKit. It leverages Java2D for rendering and will support an Events API (among others). Contrary to myth, it doesn't require JavaFX. Some additional details can be seen at http://blogs.sun.com/thejavatutorials/entry/html_component, where (interestingly) the JWebPane project was described as 70% complete back in May 2008.
+
+Some JWebPane sample code is given in this slideshow. Of course, there's no way to use the code since JWebPane isn't available for download, but at least you can see some of the basic usage patterns.
+
+Sun has tried before to provide a degree of HTML rendering capability in various components:
+javax.swing.text.html.*
+JDIC and JDICplus
+Anyone who has tried to use these prior APIs for anything nontrivial knows what the limitations are. They're substantial.
+
+Currently there are two popular substitutes for the not-yet-ready JWebPane. MozSwing is an integration of XULRunner with Swing and is quite an interesting beast in its own right. The Flying Saucer Project is quite a powerful XHTML-rendering technology, notable for its extensive support of CSS (and its lack of support for JavaScript).
+
+MozSwing has been criticized for being heavyweight (something like 50MB), but I think we can safely assume that JWebPane, if it ever sees the light of day, won't exactly be the anorexic runway model of HTML components. It probably also won't be anyone's idea of elegant or performant (judging only from Sun's history on stuff like this), but we'll see.
+
+If you Google around and visit some forums, you can see that developers (believing Sun's promise of nearly a year ago that JWebPane would be ready in 3 months) have held off on new projects, waiting for JWP's release. This is the tragedy that is Sun, though. Sun exuberantly pre-announces a technology that should have been introduced a decade ago, then fails to deliver on a timely basis, betraying the trust of the very developers it hopes to attract with things like JavaFX.
+
+Let this be a case study for other vendors considering pre-announcing exciting new technologies. Be ready to deliver, or else don't pre-announce. If you pre-announce and don't come through, you've simultaneously destroyed your own credibility and antagonized potential customers. And if you're in the software business and the people you've antagonized are developers, you've done yourself a double disservice. (Generally speaking, the last people you want to antagonize, if you're looking to build mindshare, are developers.)
+
+Let's sum it up this way: When in doubt, don't pre-announce. Instead, keep your mouth wide shut.

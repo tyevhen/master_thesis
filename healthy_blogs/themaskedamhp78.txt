@@ -1,0 +1,43 @@
+When a patient is assessed in the community and then an application is made for their detention either under Sec.2, for assessment, or Sec.3, for treatment, the next step is generally to arrange for their admission to hospital as quickly as possible.
+
+There may be delays; the most common, once a bed has been obtained and an application made, is the wait for an ambulance. It is not uncommon to have to wait for 2-4 hours before an ambulance arrives, and then there can be further delays while the patient is persuaded to get into the ambulance, and then there can be a long drive to the hospital.
+
+Some areas have a specific contractual agreement with the local ambulance trust, or even a private ambulance service, to provide an ambulance within a set time frame. There are also some local agreements which have a Traffic Light Risk Categorisation System, which sets response times according to the level of risk (Red, Amber or Green) the AMHP has assessed.
+
+Our local pilot scheme has a 20 minute response time for the Red category (the patient is highly agitated, lacks insight and there is a potential risk of violence, self-harm or suicide). There is a 2 hour response time for Amber (patient lacks insight and presents with changeability of agitation, anxiety and distress, and may also threaten self harm and potential risk to others), and up to a 4 hour wait for an ambulance for a patient identified at Green (patient is settled, has good insight of probable informal admission, and minimal risk is identified).
+
+Prior to this agreement, the local ambulance trust did not regard the conveyance of mentally disordered patients, whether detained or informal, as a high priority, and there was generally a default timing of 2 hours, however agitated and risky the patient might be.
+
+But there is no legal requirement to facilitate a formal admission within such a narrow timescale.
+
+Sec.6 Mental Health Act states clearly that a patient liable to detention under Sec.2 or Sec.3 can be conveyed to hospital at any time within “the period of 14 days beginning with the date on which the patient was last examined by a registered medical practitioner before giving a medical recommendation for the purposes of the application”.
+
+Even when a patient has been detained under Sec.4, which is only for cases of dire emergency, Sec.6 allows a period of 24 hours “beginning at the time when the patient was examined by the practitioner giving the medical recommendation or at the time when the application is made, whichever is the earlier.”
+
+The Reference Guide to the MHA goes into some detail about these, and other, time limits. Table 2.3 states:  “If the patient was last examined on 1 January, the patient can only be taken to or admitted to hospital if that happens on or before 14 January. The application must also have been signed before they can be taken to hospital.”
+
+Additionally, the Reference Guide also states that “no more than five clear days must have elapsed between the days on which the separate examinations took place”. In other words “if the first doctor examined the patient on 1 January, the second doctor’s examination must take place on or before 7 January”.
+
+This could theoretically lead to some curious consequences.
+
+Let’s say Mavis Cruett’s GP goes out and sees her on Wednesday, 1st January. As it’s a Bank Holiday, he can’t get hold of an AMHP until 2nd January. The AMHP goes and visits Mavis to see if an alternative to hospital admission can be arranged. Mavis is an elderly lady, and the AMHP arranges for the local Later Life Team to assess. They visit on Friday, 3rd January, but they don’t notify the AMHP that they are unable to help until after the weekend, on Monday, 6th January. The AMHP arranges to assess her with the Later Life psychiatrist the following day.  On Tuesday 7th January, the psychiatrist then makes a recommendation of admission under Sec.2 MHA.
+
+The AMHP pops round to the GP’s surgery and gets him to complete another medical recommendation, based on his assessment on 1st January. The AMHP then completes an application, rendering Mavis liable to detention under Sec.2. At this point, the AMHP actually has until midnight on 21st January to admit Mavis. That’s three full weeks since the GP first assessed her. And it’s all completely legal.
+
+Although the Code of Practice says in Para 4.87 that “most compulsory admissions require prompt action”, it does acknowledge that these time limits exist, and observes: “there may be cases where AMHPs conclude that they should delay taking a final decision, in order to see whether the patient’s condition changes, or whether successful alternatives to detention can be put in place in the interim.”
+
+Nearly all the AMHP’s with whom I have discussed this rule don’t like it. Some have said that if you as an AMHP think someone needs to be detained in hospital, then you shouldn’t be delaying the admission, and if you think that the admission can be delayed for a fortnight, then you shouldn’t be making an application in the first place.
+
+But that’s not actually what the law says.
+
+One last thing: when I was looking all this up in the Reference Guide, I came across this. It relates to the timing of the medical recommendations.
+
+“If the application is signed by the nearest relative or AMHP at noon on 1 January, the medical recommendation must be signed by the doctor(s) concerned before midnight on that day.”
+
+For as long as I have been making applications under the MHA (which is for over 30 years), I have always taken the view that an application for detention has no legal standing unless the AMHP has two completed medical recommendations. After all, the form itself says: “This application is founded on two medical recommendations in the prescribed form”.
+
+However, there is the Reference Guide stating unequivocally that the AMHP (or NR) can complete an application up to 12 hours before the doctors complete their recommendations!
+
+Does this  mean that legally an AMHP can admit and detain a patient in hospital, perhaps with only one recommendation (and I’m not talking about Sec.4), as long as the hospital psychiatrist provides a recommendation before midnight (when presumably the patient, the AMHP, or both, will turn into a pumpkin)?
+
+Surely not!

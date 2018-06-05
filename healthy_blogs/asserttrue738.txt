@@ -1,0 +1,33 @@
+I've been thinking about what one question I would ask a job candidate (for an R&D job) if I could ask only one question. This assumes I've already asked my favorite high-level question, which I discussed in yesterday's post.
+
+Most good "R&D job" questions, of course, are open-ended and have no single "right" answer. They're intended as a starting point for further discussion, and a gateway to discovering the reasoning process of the candidate.
+
+One of the better such questions I've heard during an interview came when I applied for a job at a well-known search company. One of the five people who interviewed me asked: "Explain how you would develop a frequency-sorted list of the ten thousand most-used words in the English language." This was an outstanding question on many levels and led to a very lively hour-long discussion. But I'll save that for another day.
+
+To me, if I'm interviewing someone who is going to be involved in writing code, and I can only ask one question in the course of an interview, it would be: "Explain what 'bad code' means to you."
+
+If the person starts going down the road of "See what kind of warnings the compiler gives you," "run it through lint," etc., I would steer the person back on track with: "Aside from that, what would you do if I gave you, say, a couple thousand lines of someone else's code to look at? How would you judge it? What sorts of things would make the code 'good' or 'bad' in your eyes? Assume that the code compiles and actually works."
+
+If the talk turns immediately to formatting issues, that's not good.
+
+Presence or absence of comments: Starts to be relevant.
+
+Coding conventions (around the naming of variables and such): Yeah yeah yeah. That's good. What else?
+
+What about the factoring of methods? Is the code overfactored? Underfactored? Factored along the wrong lines? How can you tell? (This leads also to the question of how long is too long, for a class or method?)
+
+What about evidence of design patterns? Does it look like the person who wrote the code doesn't know about things like Observer, Visitor, and Decorator patterns?
+
+Does the code follow any antipatterns? Is it just plain hard to follow because of methods trying to "do too much," overusage of custom exceptions, overuse of cryptic parent-class methods, constructors or method declarations with 15 million formal parameters, etc.?
+
+What about performance? Does it look like the code might be slow? (Why?) Could the author have perhaps designated more things "final"?
+
+Is code repeated anywhere?
+
+Is the code likely to create garbage-collection concerns? Memory leakage? Concurrency issues?
+
+This list goes on and on. You get the idea.
+
+Special extra-credit points go to the candidate who eventually asks larger questions, like Was this code written to any particular API? Is it meant to be reusable? (Is it part of a library versus plain old application code? How will people be using this code?) Is it meant to have a long lifetime, or will this code be revisited a lot (or possibly extended a lot)?
+
+I'm sure you probably have favorite R&D questions of your own (perhaps ones you've been asked in interviews). If so, please leave a comment; I'd like to see what you've got.

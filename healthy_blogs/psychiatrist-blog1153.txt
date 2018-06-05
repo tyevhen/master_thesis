@@ -1,0 +1,10 @@
+Yesterday's new included an article on how certain ssri's decrease the efficacy of tamoxifen in preventing recurrence of breast cancer.
+
+Lisa Rapaport writes:
+Tumors were more than twice as likely to return after two years in women taking the antidepressants while on the cancer drug, compared with those taking tamoxifen alone, the study showed. The research, by Medco Health Solutions Inc., was presented today at a meeting of the American Society of Clinical Oncology in Orlando.
+Doctors began treating hot flashes with antidepressants, an unapproved use, after a U.S. study seven years ago linked the former standard remedy, hormone replacement therapy, to an increased risk of breast cancer and heart attacks. Other types of antidepressants, such as Wyeth’s Effexor, may be safer for women on tamoxifen than Paxil or Prozac, said Powel Brown, director of cancer prevention at the Lester and Sue Smith Breast Cancer Center at Baylor College of Medicine in Houston.
+-------
+The question has been around for a while: This 2005 paper talks about whether women with CYP2D6 alleles might metabolize tamoxifen differently in the presence of certain ssri's and thereby decrease it's efficacy (I hope I said that right: I feel like Roy talking about genes):
+In a study of 80 tamoxifen patients, the research team found that women homozygous or heterozygous for CYP2D6 variant alleles had a statistically significant decrease in plasma levels of tamoxifen and its active metabolites after four months of treatment, as compared to women homozygous for CYP2D6 wild-type alleles.
+---------
+I'm left with more questions then answers. I looked for the Medco study on-line, but didn't find it.

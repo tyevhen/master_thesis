@@ -1,0 +1,16 @@
+Last Saturday, Ed Meyertholen, the KDA's resident biology professor, was the KDA's Forum guest. As always, Ed provides information in a manner that is understandable to almost any audience.
+
+
+
+Below are some of Ed Meyertholen’s comments and answers to specific questions concerning CRISPR and iRNA research. To read the entire forum discussion, follow this link: http://www.kennedysdisease.org/index.php/provide-support/chat-room-transcripts/2016-chat-room-transcripts/627-2016-february-06 .
+
+“I am not a CRISPR expert, but the technique has been quickly (in the science view of quickly - several years) improving and it is expected that it will continue to do so. I do not think we will see this in humans for a while (years). 
+
+In KD, I can imagine there may be issues on specificity - what cells to send CRISPR to, nerve cells or muscle (or both) and then one has to develop the procedures to specify the cells. The CRISPR work is very new and I do not know if anyone is working on it in Kennedy’s Disease. I suspect that someone will be soon. Nonetheless, I think that it has great possibilities - and I am usually not too optimistic. 
+
+What happens is that they use a virus that normally attacks a specific cell type (like muscle), remove the DNA from the virus and replace it with the DNA needed to get CRISRP to work. The virus with the CRISPR DNA in injected into blood, goes to the muscle cells and instead of injecting viral (bad) DNA, injects the CRISPR DNA. The CRISPR DNA then lets the muscle cells make the CRISPR proteins which then should (and in the mouse, did) alter the DNA in those cells only. DNA in other than muscle cells is not affected. 
+
+Kennedy’s Disease may give rise to other issues - the androgen receptor (the mutated protein) is made in many cells and may have effects (sexual issues, gynomatica (sp)), so we might want to alter the gene in other cells as well. It has great possibilities but it is not ready for prime time yet. This is the CRISPR paper:  http://www.ncbi.nlm.nih.gov/pubmed/26721684.
+
+There was another paper from NIH (Kurt's lab) where they used iRNA to block the synthesis of the mutant androgen receptor and found that the mice got better. This is similar to work from LaSpada and from Lieberman that had been published a few years ago. These were done in conjunction with drug companies and I would not be surprised if there would be a clinical trial (I think that there is one starting using the same technique in Huntington's Disease) now. The other techniques with iRNA or ISO's are much closer to clinical use. If I remember correctly getting to nerve cells requires getting past the blood-brain barrier issue(s). Kurt's paper is here - http://www.ncbi.nlm.nih.gov/pubmed/26755334 .”
+Photo:  http://www.science.ca/images/altman_rnase.jpg

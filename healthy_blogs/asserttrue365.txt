@@ -1,0 +1,44 @@
+Not long ago (April 2013), Mike Cooper tried to calculate the average amount of royalties earned per year by self-publishers of novels, and he came up with the appallingly low (but probably accurate) figure of $297.
+
+Why so low? Well, there's a tremendous oversupply of titles, for one thing. With around 2 million titles available (growing by 5% or more a year), you can't expect that the average book will be terribly lucrative. But there's also the fact that most novels are not particularly well written (to put it kindly). Let's be blunt. Most self-published novels (and a large percentage of traditionally published ones) are irredeemable junk. And thanks to the Dunning-Kruger Effect, most authors of said novels don't have any idea how bad their work is.
+Does the world need another
+self-published novel?
+
+Inexperienced novelists greatly underestimate the difficulty of achieving what I would call structural soundness in a story, which is why I recommended in a previous post that novelists try writing the screenplay version of their work first. Screenplays are highly structured (read this great series of posts), make extensive use of dialog, and require "visual thinking"—all of which can help any novelist.
+
+Most would-be novelists fall far short of understanding what it takes to make a story compelling. Screenwriter Matt Bird provides a thoughtful and comprehensive checklist of the most important story elements in this magnificent post. He suggests around 120 things that can make a story better, all of them worth considering. Most novelists seem painfully oblivious to the majority of these considerations.
+
+But a lot of novels fail on a more basic level, the level of ordinary diction. The failures take many forms. I looked at a novel the other day in which the first paragraph of Chapter One contained 16 instances of "it" or "its." The writing was nowhere near skilled enough to sustain that many instances of "it."
+
+In another book I saw 45 instances of he/his/him on a single page of around 200 words (e-book). It was like the main character didn't have a name. His name was "he."
+
+Triteness is rampant. I've lost count of how many times I've seen the phrase "untimely death," for example. All deaths are untimely by default, are they not? "Untimely" is arch, trite, and unnecessary.
+
+Speaking of arch, many British writers seem unaware of (or perhaps indifferent to) the fact that Americans haven't used "whilst" in conversation for nearly 200 years.
+
+Probably the two most reliable tipoffs that you're reading the work of an unskilled amateur are overuse of adverbs, and use of a verb other than "said" to carry dialog (in violation of Leonard's Third Law). A truly unskilled amateur manages to combine both abuses: "I'd like to see more of you," he murmured suggestively.
+
+Are adverbs always bad? No, of course not. But they're usually a "tell" (an opportunity to go back and show). They qualify as overdescription. In case you didn't know, narrative description (once an honored WMD in the novelist's arsenal) is now passé. (Don't take my word for it. Read some recent books by literary agent Donald Maass, among others.) Adverbs are cheap bolt-ons. They have no cash value.
+
+Let me show you what a heartless fussbuster (or more colloquially: an asshole) I am when it comes to evaluating fiction. Two days ago, I came across the following sentence in a novel:
+As a large stone building loomed over him, a strange high-pitched noise, rather musical and not very far carrying, stopped him dead in his tracks.
+"Loomed" sounds hackneyed to me, but that's the least of our problems here. I have no idea what makes the noise in this passage "strange." I can imagine a high-pitched noise, but in what way is it strange? It's strange because you tell me it is? Suppose I want to figure that out on my own. "Rather musical and not very far carrying" is abysmal. What does "rather musical" mean? You just told me it's strange. Now it's musical? Why "rather"? "Not very far carrying" is amateur-sounding. (The word "very" is usually weak, by the way.) Is it critical to the story that this strange-yet-rather-musical sound is not "far carrying"? Why bring it up, then? "Stopped him dead in his tracks": Only an amateur uses trite expressions like "dead in his tracks."
+
+Here's more from the same novel:
+
+He listened intently, his eyes straining to see through the fog; all was silent for a second and then he jumped suddenly as a sound of huge wings thrashed toward him. He stepped back and stumbled slightly and then there was silence again. Hastily, he made for the front door, lifted the latch and stepped quickly into a small vestibule. He wiped his feet on the worn mat and glanced down the corridor.
+Lots of problems here, starting with four "he" sentences in a row. He did this. He did that. He did this. Eight occurrences of he/his/him in four sentences.
+
+The semicolon isn't needed. (They never are.) Use a period.
+
+He listened intently. As opposed to what? Listening carelessly? Get rid of adverbs.
+
+His eyes straining to see through the fog has nothing to do with listening, does it? So why are they in the same sentence? He jumped suddenly. Is there another way to jump? Again: Get rid of adverbs.
+
+Personally, I don't like the idea of a sound thrashing toward someone. Read what it says: It says a sound (of huge wings) thrashed. Does a sound thrash? I'm confused. Did a bird accost our hero? A bat? There's no mention of an animal.
+
+Hastily, he made for the door. Maybe in England people still "make for" doors. I don't know. "Hastily," I can do without. Get rid of adverbs.
+
+There's no fixing this type of writing by swapping out a word here or there. As the foundry people say, time to melt and repour.
+
+Unfortunately, most novels are like this. I'm surprised anyone can stand to read such dreck. But then, as Mike Cooper found (see link at the beginning), most people aren't reading it. Frankly, it's a wonder the average novel even makes $297. I think Cooper's calculations are generous.

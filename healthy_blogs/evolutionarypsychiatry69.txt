@@ -1,0 +1,31 @@
+At the beginning of September, there was a bit of a twitter about this new paper in Neurology.  In fact, some folks emailed me links and tweeted it to my attention.  And the paper turns out to be very interesting.  You can tell by the way it was written that the researchers were pretty stoked at the results, and that doesn't always sneak through in the dry modern medical literature.
+
+(Funny little bit… almost every scientific paper has a sobering end paragraph about the limitations of the study at hand followed by several paragraphs about how lame the data is for one reason or another.  This paper says:  "This study has some limitations but also significant strengths."  For some reason I find that very amusing.  But then, I'm fairly easy to amuse.)
+
+AWOLNATION: Kill Your Heroes
+
+What I really like about the paper is the all-out, glorious way in which they attempt to link inflammation, hyperglycemia, coagulation, glucose, and body and brain pathology.  It's beautiful and bold and a bit more outside the box than I'm used to seeing in a neurology paper.  Let's dive in.
+
+Of course we know that hyperglycemia and type II diabetes have been linked over and over again to cognitive decline, brain aging, and dementia.  Also, insulin resistance, obesity, and a higher caloric intake over time have also been linked to faster brain aging.  But what about high-ish levels of fasting blood glucose that are still in the normal range?  Well, even those have been linked to systemic inflammation, so these researchers thought they would run an observational study to see if you could see structural changes in the brain over time related to fasting glucose levels.
+
+A random sample of 60-64 year old Australians were selected from compulsory voting rolls.  431 individuals underwent MRI scanning and fasting glucose testing at "wave 1" and also scanned four years later in "wave 2."  After all the exclusionary criteria were weeded through (including anxiety and depression, type II diabetes, incidentally found fasting glucose of higher than 6.1 mmol/L (110 mg/dl as I'm used to seeing it), stroke, neurologic disorders, etc.), 249 scans were used to make the current dataset.  A bunch of other measures were taken and included as well, such as blood pressure, medications, education, sex, smoking, BMI, and APOE phenotype.
+Hippocampi from Wikimedia Commons
+
+
+The scans were perused and the volume of the hippocapmus measured in 2001 and then in 2005.  Fasting plasma glucose in these individuals ranged from 3.2 mmol/L (58) to 6.0 (108).  And after calculations and whatnot were done, the fasting glucose level at wave 1 varied linearly with the amount of hippocampal atrophy 4 years later.
+
+The researchers flipped all over themselves to find a way to screw up their findings.  They adjusted for the smaller intracranial volumes measured the second time.  They took out anyone with a fasting glucose > 5.6 (100) because that is the more stringent criteria recommended by the American Diabetes Association, wondering if the sample were skewed so that the highest normal fasting glucose folks had more atrophy. They excluded anyone with a greater than normal BMI. But no, the line remained pretty linear on analysis.  Then they added back in the type II diabetics and high fasting glucose folks and the line was still linear.  It seems pretty clear that the higher your fasting glucose, the smaller your hippocampus will be four years later, at least if you are a 60-64 year-old Australian from a certain geographic region.
+
+(Turns out an "average" rate of hippocampal atrophy in a 60 year old is 2% per year, and this is the rate they found for the average fasting plasma glucose level in the sample (4.92 or 88.56). Nice synchronicity there.)
+
+So they had fun with the experiment and even more fun with the data, but it is the discussion where the exitement nearly gets out of hand. It's Evolutionary Psychiatry-level pathological lumping.  I love it.
+
+In animal models, rats with higher plasma glucose have greater brain damage when exposed to certain toxins.  (Specifically, reduction in hippocampal dendritic spine density.)  In humans, higher "normal"fasting glucose is associated with greater risk of developing type 2 diabetes and with poorer memory performance.  Higher glucose levels are associated with increased inflammatory cytokines such as TNF alpha, IL-6 and IL-10.  Inflammatory markers peaked higher and lasted longer in those with impaired glucose tolerance.  Chronic systemic inflammation is known to cause cerebral atrophy, and is the likely mechanism behind the correlation between increased glucose and neurodegeneration.
+
+Another feature of type 2 diabetes is increased levels of certain clotting factors in the blood.  These increases lead to increased risk of vascular and heart disease in diabetics.  Prediabetics and folks with metabolic syndrome also have similar clotting factor abnormalities.  Inducing hyperglycemia in normal volunteers also induces platelet activation and other pro-clotting factors.  More clotting means more risk of microemboli, small strokes, and vascular and brain damage over time.  Since systemic inflammation and coagulopathies also seem to induce eachother, it could be these two together synergistically amplify  the risk of something like a chronically high glucose level.
+
+Taking another step back, it is known that depression and anxiety are associated with an increased risk of diabetes.  High stress activation is mediated by increased HPA axis activation, which is not only associated with increased risk of diabetes but also increased risk of brain atrophy (particularly in the hippocampus and amygdala) and memory problems.   It could be the psychological stress leads to the HPA activation and increases glucose levels, leading to the brain atrophy.
+
+Yes, stress can and will eventually kill you, once it stops making you stronger.
+
+Life is funny that way.  And high fasting glucose levels are not a great idea.  Please don't get the idea that I'm endorsing a VLC diet at this point.  Remember, fasting glucose levels in the insulin-senstive individuals will tend to be as low or lower in those who regularly consume carbs than those who don't.  I think VLC diets have their place, but I'm unconvinced they are the perfect anti-aging tool for everyone.

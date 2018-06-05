@@ -1,0 +1,14 @@
+Hadoop World: Enabling ad-hoc Analytics at Web Scale
+
+
+What I found interesting about this presentation is:
+the existence of a (not-so-)secret IBM Emerging Technology Project called M2, which IBM calls an insight engine for enabling ad-hoc business insights for business users, at Web scale
+the emergence of a new class of business application that might be called Big Data Analytics
+Under "Big Data Business Patterns," IBM counts:
+Computational Journalism
+Business Fraud Detection
+Evidence Based Medicine
+IT Systems Management
+as just a few examples.
+
+And the chief enabling technology? None other than Hadoop.

@@ -1,0 +1,23 @@
+After listening to the excellent presentation by Hans Boehm on "Finalization, Threads, and the Java Technology Based Memory Model," I have come to the conclusion that finalization is one of Java's worst features, if not the worst.
+
+Be clear, I am not talking about the final keyword (which is actually a great feature of the language). Rather, I am talking about the notion of finalizers, or special "cleanup" methods that the JVM will call before an object is finally reclaimed by the garbage collector. The idea is that if you have an object that's holding onto some system resource (such as a file descriptor), you can free that resource in the finalize() method right before your no-longer-used object gets garbage collected.
+
+The only problem is, there is not only no guarantee as to how quickly, or in what order, your finalizers will be called, there's also no guarantee that they will be called at all.
+
+Sun's Tony Printezis gives a good explanation of finalization in an article on the Sun Developer Network site. It's a brilliant article, but I found myself quite nauseated by the time I got to the end of it. Finalization is just so wrong. So wrong.
+
+"The JVM does not guarantee the order in which it will call the finalizers of the objects in the finalization queue," Printezis points out. "And finalizers from all classes -- application, libraries, and so on -- are treated equally. So an object that is holding on to a lot of memory or a scarce native resource can get stuck in the finalization queue behind objects whose finalizers are making slow progress."
+
+Oh great, that's just what I need. Finalizers blocking on other finalizers while my heap fragments.
+
+It turns out that an instantiation time, an object that contains a finalizer is marked as such and treated differently by the JVM. The extra overhead incurs a performance hit. If your application creates many short-lived objects with finalizers, the hit can be quite substantial. Hans Boehm (see link further above) did some testing and found a 7X slowdown of a test app when objects had finalizers, compared to no finalizers. (With a really fast JVM, namely JRockit, the slowdown was eleven-fold.)
+
+The funny thing is, in all the articles and book chapters I've read about finalization, I have never, not even once, seen a good real-world example of a situation requiring the use of a finalizer. Supposedly, you use a finalizer when you're holding onto a system resource and need to free it before your object goes out of scope. But in reality, it's almost always the case that system resources that are considered scarce or precious have a dispose() or close() or other, similar method, for the explicit purpose of freeing the resource. If you use the resource's normal release mechanism, you don't need a finalizer. In fact a finalizer only lets you hold onto a resource longer than you should.
+
+Someone will argue that you don't always know when or if an object is going out of scope; therefore you should put a call to the release method in a finalizer and be assured that the resource will eventually be released. Okay, <sigh/> that's fine and dandy as long as you can count on your finalize() method being called (which you can't) and as long as your machine doesn't starve for file descriptors, sockets, or whatever the precious resource happens to be, before the finalizer is finally called. Remember, the JVM makes no guarantees about any of this. Finalization is non-deterministic.
+
+I have to say, though, that the contorted, non-real-world examples that are always trotted out to justify the existence of the finalizer mechanism in Java have always struck me as more than a little malodorous. They all have that unmistakeable antipattern smell that gets in your clothing and makes you feel like taking a hot shower when you get home.
+
+Maybe we should just confront the possibility (the likelihood) that finalization is evil. After all, even the people who write long articles about it end up urging you not to use it.
+
+That's good enough for me.

@@ -1,0 +1,35 @@
+In my day job, I evaluate content management systems (enterprise-grade systems, not light-duty blogware), and I get to see and touch a lot of so-called workflow systems. This is the part of the system that (for example) routes documents to people who can approve them (or not) before they're pushed out to a web site.
+
+What I find is that almost all enterprise-grade content management systems have a workflow subsystem of some kind, but it's typically not well implemented. I understand the reason for this. Workflow, like so many things in life, is easy to do, hard to do well. It's hard to make a good workflow system. That's the bottom line.
+
+Still, there are certain things I like to see. (If you're in the market for an enterprise-grade CMS, here's your checklist.)
+
+1. A good visual designer. I like to be able to plop new activities down on a canvas, in arbitrary locations (and give them arbitrary names), and move them around, then draw links between them.
+
+2. There should be a small number of easy-to-understand activity types.
+
+3. I should be able to see what the input and output documents (including flow metadata) are for any given activity in the flow. Ideally, every activity should be capable of taking one or more XML documents in and spitting one or more XML documents out.
+
+4. I should be able to draw arrows backwards from any activity to an upstream activity. In other words, the system shouldn't just support acyclic graphs.
+
+5. Each activity should support the notion of a timeout value.
+
+6. Each activity should support the notion of a retry count.
+
+7. Each activity should support the notion of a retry interval.
+
+8. The visual designer should let me (through some kind of easy gesture, whether a mouse click, doubleclick, right-click, etc.) expose an editable property sheet for the activity, where I can inspect and set values like timeout and retry interval.
+
+9. I should be able to specify a logging activity at each step of the flow. The more configurable the logging activity, the better.
+
+10. I should be able to specify a fault handler for any given activity. Including a default fault handler.
+
+11. There should be an easy facility in the GUI for attaching JavaScript logic to any step. (And please don't invent a new scripting language. Use something standard. That means JavaScript.) Ideally, each step in the flow will have event handlers to which I can attach my own scripts. Scripts should have access to any XML that travels with the flow.
+
+12. Ideally (and I know this is a lot to ask), the design-time tool will have an animation capability (for testing workflows) so that I can do certain kinds of QA testing right in the design environment.
+
+The real point of Item 12 is that it should be easy to test a workflow and debug it. Very seldom is this actually the case, even in systems costing $50,000.
+
+In addition to the 12 items above, a system that really "goes the distance" will also have some way to delegate approval tasks.
+
+If all workflow systems supported these features, my job would be easier, and (needless to say) so would the jobs of the people who buy and use these systems. And that's the real point.

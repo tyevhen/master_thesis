@@ -1,0 +1,57 @@
+No, ECT is NOT like this still from One Flew Over the Cuckoo's Nest!
+
+Electroconvulsive Therapy was first introduced as a treatment for mental illness in 1938. Today, its main use is in severe treatment resistant depression, as well as in catatonia and the depressive phases of bipolar affective disorder. It is estimated that around 12,000 people a year in the UK receive ECT, although accurate figures can be hard to find. For more information on ECT statistics, take a look at this excellent blog, the title of which says it all.
+
+Despite public misconceptions about ECT, not helped by its depiction in the Jack Nicholson film One Flew Over The Cuckoo’s Nest, it is probably a lot safer than most antidepressant medication. The mortality rate for ECT treatment is 0.002% (Abrams R: The Mortality Rate with ECT, Convuls Ther 1997), that is, the chances of dying as a direct result of receiving ECT are only 1 in 100,000. When compared to the suicide risk for people with severe depression, that seems like good odds, if it works. For a positive account of ECT, take a look at this recent Guardian article.
+
+ECT even compares well to mortality rates for antidepressant medication. A study from 2009 (Smoller JW et al. Antidepressant use and risk of incident cardiovascular morbidity and mortality among postmenopausal women in the Women's Health Initiative study. Arch Intern Med 2009) found that death rates for people taking SSRI antidepressants (such as paroxetine, fluoxetine or sertraline) were 12.77 per 1000 person-years, compared to 7.79 per 1000 for people not taking an antidepressant.
+
+The main risks and adverse side effects relate to cognitive impairment, in particular difficulty in retaining new memories following ECT (this is reported to resolve within 1-3 weeks), and forgetting memories from the time before treatment. – this will often resolve over time, with subsequent recovery of memories.
+
+In the past, patients were given vast amounts of ECT. I have worked with a woman with a very long history of bipolar affective disorder, who was incarcerated in an old-style asylum for 10 years during the 1960’s. She reports that she received several hundred ECT treatments, and I have no reason to doubt her. However, nowadays a patient will typically receive ECT in batches of 7, with a total number of treatments of 14 being the usual total. They would normally be given twice a week.
+
+The whole issue of ECT has a special place in the Mental Health Act. One of the amendments to the Act in 2007 was the addition of Sec.58A. In the words of the code of Practice, this section “applies to detained patients and to all patients aged under 18 (whether or not they are detained)”. An important change is that as the default, ECT cannot be given to a detained patient unless they consent and are deemed to have the capacity to consent. Equally importantly, ECT cannot be given to a patient lacking in capacity who has made a valid advance decision to refuse ECT.
+
+There are, however, still circumstances in which patients can receive ECT even though they lack the capacity to consent, or when they do have capacity and have refused.
+
+In the case of a person lacking capacity, the Code of Practice (24.12) states:
+“A patient who lacks the capacity to consent may not be given treatment under section 58A unless a SOAD [Second Opinion Approved Doctor] certifies that the patient lacks capacity to consent and that:
+the treatment is appropriate;
+no valid and applicable advance decision has been made by the patient under the Mental Capacity Act 2005 (MCA) refusing the treatment;
+no suitably authorised attorney or deputy objects to the treatment on the patient’s behalf; and
+the treatment would not conflict with a decision of the Court of Protection which prevents the treatment being given.”
+This means that ECT can only be given if an independent, specially approved psychiatrist has looked at the individual’s case and has authorised it.
+
+In the case of a person who does have capacity, but has refused to have this treatment, the only circumstances in which ECT can still be given, under Sec.62(1A & 1B) MHA are when treatment with ECT is either “immediately necessary to save the patient’s life”, or is “immediately necessary to prevent a serious deterioration of his condition”, or is “immediately necessary to alleviate serious suffering by the patient”, or is “immediately necessary and represents the minimum interference necessary to prevent the patient from behaving violently or being a danger to himself or to others.”
+
+Important Note: If you are a service user (or potential service user) who objects to the idea of ECT, but thinks there may possibly be a situation in the future in which they may be given ECT, it is important to make an advance decision now (under the Mental Capacity Act) stating clearly what their wishes for treatment are. Ideally, you should get a solicitor to draw up this document to ensure that it is legally sound.
+
+There are two main situations in which the issue of ECT is likely to arise in a professional context for AMHP’s.
+
+The first is when an AMHP is asked to make an application for the detention under Sec.3 for treatment of an inpatient for the specific purpose of giving them emergency ECT. This can present an AMHP with a dilemma: should the MHA be used to compel a treatment which the MHA itself regards as being of a different order from other treatments for mental illness, to the extent that the 1983 Act was amended specifically to reflect the unease with which many people regard ECT?
+
+Whatever the personal view of an AMHP regarding the use of ECT, an AMHP must remember that their role is to make a decision as to whether or not a particular patient needs to be detained under the Act in order to receive treatment; it is not their role to decide what form that treatment should take.
+
+The other occasion in which an AMHP may become involved is for consultation under Sec.58A(6): the SOAD, before certifying that a patient should have ECT but is lacking in capacity, must consult with two other professionals who have been involved with the patient’s treatment; while one of these has to be a nurse, the other must be “neither a nurse nor a registered medical practitioner”. An AMHP who has assessed the person and made a decision about detention could therefore be the second consultee.
+
+I have so far been careful to avoid discussing the Masked AMHP’s own views on the merits or otherwise of ECT. I can avoid it no more.
+
+Having worked in a CMHT for a quarter of a century, I have been very closely involved with the full range of treatments for mental disorder. As a social worker, I lean heavily towards a non medical model of intervention: this involves the use of practical interventions to improve the lives of service users, such as assisting with housing or benefits problems; psychological therapies; counseling; or simply allowing someone the space to talk about what is bothering them – listening and understanding can in itself can be very therapeutic.
+
+But while I am dubious about medicalising what might be unfortunate but normal life events, such as bereavement, relationship breakdown, or domestic violence, I am also aware that medication can be very helpful in a wide range serious mental illnesses, having seen for myself the beneficial effects of medication on people with severe depression, psychosis, and bipolar disorder.
+
+But what about ECT?
+
+Over the years I have seen many severely mentally ill people treated with ECT. I have seen it used when all other treatments have failed, and I have seen it used when the patient’s symptoms clinically lead to the view that ECT is most likely to be effective. I have seen it used with people with intractable depression, who have spent many months in hospital with no positive result from medication. I have seen it used with people with bipolar affective disorder trapped in the deepest of depressive troughs.
+
+I have to say that I have seen almost invariably positive outcomes from its use. And far more quickly than with the use of medication.
+
+I have seen people who have been unable to speak or think or eat be laughing and joking and taking an interest in life again within only 3 or 4 treatments.
+
+I have seen people who have been so severely disabled by depression that they have spent years unable to work or receive any enjoyment from life, within weeks functioning as well as they were before they became ill.
+
+And I have seen the positive effect on their loved ones of having the person they have cared about for so long, and despaired of, being delivered back to them as a whole person again.
+
+So despite being a wishy-washy dogooding social worker, I’m not going to condemn ECT. I still remember one of my trainers when I was learning to be an ASW many years ago saying to us: “If I became clinically depressed, what treatment would I rather have? A long course, perhaps for years, of psychotropic drugs that have all sorts of undesirable side effects? Or a few episodes of being given a general anaesthetic and having a mild electrical current passed through my brain? I’d go for the ECT.”
+
+When you put it like that, I think I would, too.

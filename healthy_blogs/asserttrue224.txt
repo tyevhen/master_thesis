@@ -1,0 +1,22 @@
+A few days ago, I blogged about how I made money from the recent sharp drop in Amazon's stock price. Well, I repeated the trick (to the tune of a 62% overnight net gain) with Twitter. Except this time, it wasn't a hedge but an all-out bare-naked bearish bet. I sold what few Twitter shares I owned a few hours prior to the earnings announcement, then doubled up on December $50-strike put options. The options were up very sharply today, of course. (Twitter stock went down 11% overnight.)
+
+Things always look clear in retrospect. But I must say, in retrospect, it was, in fact, a pretty safe bet (going into last night's announcement) that Twitter stock would go down. The only question was by how much.
+
+I had studied the previous quarter's results. What I learned is that Twitter is pretty far from turning a profit. Had Twitter announced a $400M quarterly top line, last night, with expenses held to the same as last quarter's expenses, the company would have broken even. I think we all knew they were not going to turn in a $400M top-line number. The critical question would turn out to be: How are enrollment numbers looking? Is the user base growing? And: With advertising starting to appear in timelines, are people still as engaged as ever?
+
+On the latter question, the answer seems to be no. Monthly timeline views (on a per-user basis) are actually down 7%.
+
+Twitter has a big problem, which is that its user numbers are inflated and most users are not active. Twitter claims to have something like 284 million monthly active users, but a recent report by an independent analyst firm (Twopcharts) shows that only 126 million Twitter users have tweeted in the last 30 days.
+
+Twitter's CEO was on CNBC last night trying to defend the large number of "non-logged-in" users on Twitter (lurkers who come just to view World Series news or whatever). He actually maintained that such users are valuable to advertisers. Which is kind of like saying people who dig old magazines out of barber-shop trash bins are valuable to advertisers. It was hilarious.
+
+I don't want to rehash Twitter's numbers endlessly. For the best article on the recent earnings report, I recommend this top-notch Forbes piece by Chuck Jones.
+
+Bottom line, what prompted me to buy puts ahead of yesterday's earnings announcement were these factors:
+
+1. Twitter user numbers are inflated.
+2. Twitter is very far from break-even on its financials.
+3. The potential for an upside surprise in the earnings report had to be considered extremely small.
+4. The $50 early-October valuation for the stock was/is based on hype, not solid financials.
+
+The fourth factor finally convinced me to get rid of all Twitter shares and buy naked puts. That decision turned out to be correct.

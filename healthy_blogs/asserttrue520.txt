@@ -1,0 +1,54 @@
+In her book Elements of Fiction Writing - Beginnings, Middles & Ends, Nancy Kress cites a particularly egregious example of the kind of turgid writing that makes so many novels easily put-downable.
+
+I feel certain that if you were to tie a prisoner of war to a chair and expose him to this sentence, you'd be committing a Geneva Convention violation of some sort:
+
+He looked around the sparsely furnished room, spartan in decor, boasting only a dilapidated couch, a sawed-off bench, a crusty sofa, plus a few other knickknacks strewn about the otherwise bare and dusty floor.
+
+First of all, if the room is sparsely furnished, why go on to say it's spartan in decor? Isn't that the same thing? (It's close enough that you should say one or the other. Saying both makes you look like a moron.)
+
+Secondly, who's doing the boasting here? It could be "he" or it could be the sparsely furnished room. If it's the room, how does an inanimate object learn to boast? And if the room is spartan, what does it have to boast about?
+
+Also, how is the sofa "crusty"? Was it beer-battered and deep-fried? Did someone order extra-crispy?
+
+"A few other knickknacks" implies that the items listed previously were also knickknacks. How is a sofa (or a bench) a knickknack? I thought a knickknack was a curio or a tinket.
+
+"Otherwise bare"? Why say that? You just told us the place was spartan. That means the floor is bare until proven otherwise.
+
+So, but. How to fix this turd of a sentence? First of all, the stench of turgid prose can't be covered over with grammatical Lysol. Don't even try to polish a turd. Take it out back and bury it before it stinks up the office.
+
+First things first. Always show, don't tell. When you tell the reader (explicitly) that the room is "sparsely furnished," that's telling. Specifying what's actually in the room is showing. Make the reader figure out that the room is sparely furnished. Say something like:
+
+He surveyed the room. It contained a tattered sofa, a crude bench of some kind, and a spectacularly unremarkable throw rug. Plus dust. Lots of dust.
+
+To me, "tattered" is a tad less vague (and less trite, if only slightly) than "dilapidated." I threw in the throw rug because it's something specific (rather than a bunch of nameless "knickknacks"), and just for fun I juxtaposed "spectacularly" with "unremarkable," to give the reader something to chew on. How can something be spectacular and unremarkable? Elephino. But it's more fun than just "unremarkable." Why be boring?
+
+What if non-boringness were the main criterion for improving this passage? How creative would you be willing to get?
+
+He coughed and winced when he entered the room. It was mostly dust, the accumulated dust of ten decades of neglect, contaminated only by a sofa, a crude benchlike thing, and several lumps on the floor.
+
+Okay, that's over the top. But the author was clearly intent on describing a dusty, mostly empty room, remarkable for its spareness. Conceptually speaking, that's a tall order. How can a room be remarkable for what it doesn't contain?
+
+He opened the door to the room and immediately wished he hadn't. The mere act of opening the door stirred up a blizzard of dust, an impenetrable fog of filth through which it was scarcely possible to make out the loveseat and bench that were the room's only contents.
+
+This is far better than the original passage. We have the main character actually doing something: opening a door. We see dust not as something static (which it so often is) but as something disturbingly dynamic. "Sofa" is boring. Why not make it a loveseat? A little specificity never hurts.
+
+Maybe there wasn't so much dust after all.
+
+He opened the door to the room. The room was bare save for a badly discolored loveseat and a crude wooden bench that, like the broken flower vase on the floor, hid under a sad patina of dust.
+
+All right, maybe patinas aren't sad. But you get the point. The original passage sucks major ass and can be made better with very little effort. It depends what you're trying to do. Are you trying to convey emptiness? Neglect? Loneliness? Repulsive filth? A place filled with forgotten memories? (Better get busy putting a dust-covered photograph on an end table.)
+
+Let your imagination go bananas when writing a descriptive passage. Description is boredom, for readers, unless you go out of your way to enliven things.
+
+Let's recap.
+
+Show, don't tell.
+Don't say something that's implicit in what's already been said.
+Don't commit a pathetic fallacy.
+Don't be trite.
+Don't be obscure. ("Crusty sofa.")
+Know your vocabulary. (Know what a "knickknack" is.)
+Don't be vague.
+Most of all: Don't be boring.
+
+If you can do all that, you'll stay out of Nancy Kress's future books (and my blog), and your writing won't be the basis of any Geneva Convention violations. If you're lucky.

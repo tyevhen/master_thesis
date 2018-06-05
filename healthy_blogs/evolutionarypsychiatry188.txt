@@ -1,0 +1,36 @@
+Perhaps a month ago, Zooko tweeted me some papers - one of which I had seen before.  Both papers were done on the same group of obese dieters (half eating low carb and half eating an isocaloric low fat diet) for 52 weeks.  Zooko presented a puzzle and links to the free full text - notice anything about the data?
+
+Paper Number 1 (I'm adjusting the name for simplicity's sake): Low Carb vs. Low Fat - Cardiometabolic and Weight Loss Effects
+
+Paper Number 2: Low Carb vs. Low Fat - Mood and Cognitive Function
+
+So, have you taken a look and found the interesting thing about ketones?  Yeah, Zooko had to point it out more explicitly to me as well - though to be fair I was distracted by some issues I have with the second paper's conclusions.
+
+All right, here's the important bit.  The first graph is from the first paper, showing levels of ketones in the low carb and isocaloric low fat dieters over the 12 months.  (The low carb dieters were advised to increase carbs a bit after 8 weeks, which is no doubt part of why their ketones drop at that point):
+
+
+Note also that both the low fat and low carb dieters have higher plasma levels of ketones in the first 8 weeks than thereafter.
+
+Now here's a graph from the second paper, showing Beck Depression Inventory scores at the same time points (a higher score corresponds to a more depressed individual - though none of these scores are high enough to indicate even a mild depression):
+
+
+Those first eight weeks, with more ketones for both sets of dieters (and since they were losing weight, ketones in the low fat group especially would have been from burning stored fat), corresponded to a 4 point drop on the BDI for both sets of dieters.  I have no idea if the correlation between the two sets of data in that first 8 weeks (or later) is statistically significant, so don't run to the bank or anything - it's just rather interesting.  Most obese dieters will be pretty happy to be losing weight, especially at first.
+
+Now the distracting thing I find objectionable about the second paper is that, even though both groups had identical depression scores at baseline, 24% of the low carb group were on antidepressants compared to 12% of the low fat group at the beginning of the study.  The authors discounted that bit of data somewhat, saying it was non-significant.  They go on to suggest that on explanation of the low-carber's tendency to move back toward baseline levels of depression as opposed to the low fat dieters is that low-carbers are more isolated in society as the eating patterns are far from the norm.
+
+The low-carbers were instructed to consume no more than 20% of their calories from saturated fat.  That means they had to be downing a bit of olive oil or lots of PUFAs, so you do wonder about a massive omega 6 load over time.  The low fat dieters, on the other hand, were consuming the palmitic acid from all the stored carbs of yore and presumably not adding as much dietary omega 6 to the party as they were instructed to eat low fat.
+
+Cognition-wise, though the authors had found some problems with cognition measures in the low-carb group in the first 8 weeks compared to the low fat group, there was no difference between the groups after 52 weeks, suggesting the adaptation period may have led to some temporary cognitive problems in the low carb group that then resolved.  ("Low carb flu?")
+
+Personally, after 16 hours of fasting (which I am quite adapted to at this point), I find my thinking is sharper, I'm less distractible, and more motivated for the next several hours (I've never fasted longer than 24 hours).  Anecdotally, others have shared the same experience.
+
+What I'm trying to sort out here is what the ketones are doing.  In order to achieve seizure control by changing oxaloacetate concentrations with a ketogenic diet, you need to be in pretty deep ketosis and it would take more than a 16 hour fast to get there.  Glucose is preferentially sucked up in the brain as it is the last place in the body to become "insulin resistant" in starvation or high-fat conditions.   While some folks seem to love deep ketosis and thrive there, I have always wondered if the more evolutionary model of intermittent fasting (though there may have been high fat seasons also) would have a beneficial effect via ketones, despite the fact that most IFing does not leave us in ketosis deep enough or long enough to change the amino acid handling in the brain in a way that lowers seizure threshold.
+
+In cells of the brain with mitochondria, I'm still assuming one would get boosts in energy efficiency from partial utilization of ketones, as I've discussed before.
+
+There's a lot to sort out and a gazillion variables, but I thought the graphs were cool enough to put them out there for your perusal.  Thanks Zooko!
+
+Here's the weight loss, in case you were interested:
+
+
+(While we are discussing ketones, Zooko also tweeted news that a young man who started a ketogenic diet after being diagnosed with brain cancer is now in remission.  Happy news indeed!  Zooko noted in a later tweet that we can't know the ketogenic diet helped bring on remission, but it is certainly plausible that it may have helped.)

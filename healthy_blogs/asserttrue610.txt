@@ -1,0 +1,62 @@
+If you're like me, you were probably thrilled to see JavaScript support come bundled into JDK/JRE 6. But if you're using that implementation straight out of the box, you can do far better for execution speed. The trick? Get the Rhino JAR (js.jar) directly from Mozilla and include it in your classpath. Don't use the built-in Rhino support in JDK/JRE 6. It's too slow.
+
+I first noticed the speed difference between regular Rhino and JDK Rhino back in February when I was testing a script that manipulates images. (See my blog post, "Voronoi tessellation in linear time.") In one situation, I found that running my script using the JRE's interpreter took two full minutes, whereas the same script finished in six seconds when I used js.jar.
+
+I decided to follow up on this by running a couple of (highly unscientific) tests. In one case, I came up with a script designed to test the interpreter's speed at handling numeric operations. In another case, I wrote a script designed to test string handling and memory management. The results were revealing.
+
+To test numerical efficiency, I implemented one of Euler's remarkable expansion series for calculating pi. Euler famously found that if you summed the squares of the reciprocals of all positive integers, the result asymptotically approaches pi-squared-over-6:
+
+
+
+The JavaScript implementation looks like this:
+
+function pi(terms) {
+
+ sum=0;
+
+ n=1;
+
+  while(terms--)
+
+   sum+=1/(n*n++);
+
+  return Math.sqrt(6*sum);
+
+}
+
+I ran a number of trials with each interpreter, using values for terms of 200000, 400000, 600000, 800000, and 1000000. The graph below shows the results (with execution time plotted vertically; the scale ranges from zero to 1800 milliseconds).
+
+
+
+Numerical efficiency test. Vertical axis represents execution time.
+
+Notice that the JRE starts out slower and execution time rises faster than with Rhino (that is, the red line has a steeper slope).
+
+Incidentally, with a million terms, the function produces a value of 3.141592605841622 for pi. (Not bad -- off by only a few parts per hundred million -- but the series doesn't converge quickly enough to be of practical use on modern computers.)
+
+The second test is designed to test string handling and memory management in a kludgy combined fashion. (Folks, this isn't meant to be highly scientific. It's all SWAG.) The code looks like this:
+
+function strings( iterations ) {
+
+   str="abc";
+
+   a=0;
+
+   while(a++<iterations)
+
+     str += str;
+
+   while(a--)
+
+     str.split("").join("");
+
+}
+
+This bit of silliness grows a string by concatenating it with itself over and over again, then repeatedly splits the string into an array of characters and rejoins the array to form a string again. If you pass in an iterations value of 20, you'll make the string double in size 20 times, crashing any known version of Rhino with an OOME. Thus, I tested with values of 12 to 17. Execution time topped out at 5047 millisec for the JRE and 2634 ms for Rhino.
+
+
+Again notice that the red curve starts out higher and rises at a steeper slope.
+
+(BTW, if you want to see the raw data for these graphs, just inspect the URLs for the images; these are Google Chart dynamic images and the raw numbers are in the URLs.)
+
+I'll say it once more: This is not intended to be a highly scientific set of tests. I believe it to be representative of reality, though, and the reality is, bare-naked Rhino is significantly faster than embedded-in-the-JRE Rhino. You can do whatever you want; I've seen enough data and I've made my decision. Bare-naked is the way to go.

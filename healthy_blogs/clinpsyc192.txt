@@ -1,0 +1,37 @@
+Earlier in the week, I noted that a much-ballyhooed study purporting to show a relationship between an increase in youth suicide and a decrease in SSRI prescriptions for youth actually did no such thing.
+
+Here's what the media are saying about the study. WARNING: If you don't want to be shocked by examples of terribly poor journalism, please do not read the remainder of the post.
+
+From the esteemed British Medical Journal:
+"Numbers of suicides among Americans aged under 19 years rose by 14% from 2003 to 2004 , the study says, the biggest annual increase since systematic recording began in 1979. The same year saw a 22% decrease in the number of SSRI prescriptions to this age group."
+The increase in suicide rates appears to be accurate. As I pointed out earlier, the youth suicide rate then apparently dropped slightly in 2005, which is when SSRI prescriptions for youth fell steeply. As for SSRI prescriptions dropping 22% -- that number is inaccurate. Look at the chart (pardon the crappy image quality) and note that the SSRI prescription rate for youth in the U.S. was down only slightly in 2003-2004, not by 22%. Bad journalism.
+
+From the Washington Post:
+The trend lines do not prove that suicides rose because of the drop in prescriptions, but Gibbons, Insel and other experts said the international evidence leaves few other plausible explanations.
+Again, if you folks want to rely solely on correlational data (which is a stupid idea in any case), then you may want to make sure that a statistical analysis is actually run which shows a relationship between SSRI prescriptions and suicide rates. Read the whole WaPo piece if you'd like -- it's not terrible overall.
+
+From WebMD:
+Warnings that antidepressants may increase teen suicides appear to have backfired, a new study suggests...
+
+"The FDA has overestimated the effect of antidepressant medications on suicidality and dramatically underestimated the efficacy of antidepressants in the treatment of childhood depression," Gibbons told WebMD in April 2007.
+Oh, he must be referring to the efficacy that shows, at best, a small effect over placebo. Indeed, the recent meta-analysis by Bridge and colleagues that claims it showed the benefits outweighed the risks for SSRIs even showed a very small treatment effect favoring SSRIs in depression for youth. Indeed, most SSRIs did not show any advantage over placebo. How does one "dramatically underestimate" a treatment that provides an apparently pretty small benefit over placebo? And if you really love to rely on correlational, epidemiological data, then try this on for size -- the data do not indicate that SSRIs decrease suicide.
+
+How about the Chicago Tribune?
+Suicide rates for preteens and teenagers increased sharply when the Food and Drug Administration slapped a "black box" warning on anti-depressants and doctors started writing fewer prescriptions for young people, according to federal data released Thursday.
+This one will be covered in a moment...
+
+The headline in the San Francisco Chronicle:
+Suicide rise follows antidepressant drop: Study finds dramatic increase after 'black box' warning
+As I noted earlier, the black box warning occurred in October 2004, and I know of not one shred of data that can track that particular time point to a "dramatic increase" in suicides. Hell, Gibbons and colleagues did not even attempt to link an increase in suicides to that particular date, yet the media latch onto this point as if it is mired in solid scientific data.
+
+And one more from the Los Angeles Times:
+The study, which includes data from the Netherlands, provides the strongest evidence yet that the drugs are useful in preventing suicide, Gibbons said.
+So, to make this clear, the "strongest evidence yet" is based upon a report of correlational data where, for the main population studied (the United States), there was not even a single statistical analysis done to relate a decrease in SSRI prescriptions with an increase in suicide rate? This, my friends, is bad science that has now become "the truth" thanks to science writers who either don't know a damn thing about science or are unwilling to challenge the opinions of the scientists whom they interview. It also becomes "the truth" when Gibbons, in interviews, is making statements that run far past what his own data show. Scientists can have opinions, but one needs to separate what is based on solid data from what is speculation.
+
+By all means, read my prior post that dissects this latest study and let me know if I missed something. In my opinion, the Gibbons study was uninformative at best and appears to have led to a large number of poorly reported stories. At this point, a few bright individuals appear to have indicated that my take on the article is accurate (1, 2, 3).
+
+To be fair, The Boston Globe and New York Times get a pass -- their coverage of the issue was excellent.
+
+For a great brief read on another youth suicide study, visit The Last Psychiatrist.
+
+Update (9-25-07): Via Furious Seasons -- An op-ed in the Boston Globe by Alison Bass blasts the latest media blitz regarding the alleged link between declining SSRI prescriptions and increased suicides. Furious Seasons wisely notes a couple of small errors in the Globe piece, but the overall thrust is well worth a read.

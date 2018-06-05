@@ -1,0 +1,7 @@
+According to Information Week, Tibco and OpenSpan have "teamed up to make parts of Microsoft's Office applications available as services for inclusion in an enterprise service-oriented architecture."
+
+OpenSpan has (in the words of a rather breathless reporter) "demonstrated that it's possible to generate mashups of Microsoft Office applications without changing the underlying application code."
+
+On a superficial level, this is the kind of thing that people do routinely with OpenOffice running in server mode. (Various content management systems use OO to do document transformations on the server. The OO developer documentation shows how to set this up.)
+
+I gather the OpenSpan stuff has tooling for making it easy to create Office-service mashups. It's a good idea and I wish such tooling existed for OpenOffice. It'll be interesting to see if Tibco and OpenSpan score any OEM deals with CMS vendors.

@@ -1,0 +1,57 @@
+For some time I’ve been trying to get my head round the implications of the case of AM v South London & Maudsley NHSFoundation Trust (SLAM) and the Secretary of State for Health [2013] UKUT 0365(AAC), as it appears to both clarify and complicate the decision making process that an AMHP, a hospital or a Best Interests Assessor has to make when deciding between the Mental Health Act and the Mental Capacity Act.
+
+The notorious Bournewood case in 1997, in which a mentally incapacitated man was held in a psychiatric hospital without any formal detention under the Mental Health Act, was one of the factors that led to the Mental Capacity Act 2005 and the Deprivation of Liberty Safeguards. But the MCA has never actually satisfactorily resolved the ethical and legal issues surrounding the keeping of a complaint mentally incapacitated person in hospital.
+
+The case of GJ v. A Foundation Trust in 2009 provided some clear guidelines concerning when to use the MHA and when to use the MCA, but the same Judge (Mr Justice Charles), in AM v SLAM, has now produced new guidelines.
+
+Mr Justice Charles recently considered (well, in August 2013) the case of AM. AM was a 78 year old woman living with her daughter. The local mental health services were concerned about her wellbeing, and her daughter was preventing an assessment. An AMHP consequently obtained a Sec.135(1) warrant, and AM was admitted to hospital under Sec.2 MHA.
+
+AM remained under Sec.2 MHA while an application was made for her daughter to be displaced as Nearest Relative. Two Tribunals considered the case, and both upheld her continuing detention. There was a consequent appeal against the second decision.
+
+It was being argued on AM’s behalf that her stay in hospital could be covered by Sec.5 of the Mental Capacity Act, and that an authorisation under the Deprivation of Liberty Safeguards (DOLS) could be issued if it was considered that there was a deprivation of liberty.
+
+The Judge had previously found in GJ v. A Foundation Trust that when there was a choice between the MCA and the MHA, then the MHA had primacy. My own view as an AMHP was that this was appropriate, as the MHA provided more legal safeguards, for instance, the right to appeal against detention, and the right to automatic referrals to a Tribunal if detention continued.
+
+However, AM v SLAM has essentially displaced this judgment, and goes into extensive detail on how to decide between the MCA and the MHA in a range of different circumstances.
+
+The judgment places all people who may be being considered for detention under Sec.2 or Sec.3 MHA into four categories. These are:
+“i) The compliant capacitated.
+ii) The compliant incapacitated.
+iii) The non-compliant capacitated.
+iv) The non-compliant incapacitated.”
+
+The Judge goes on to state that:
+“i) the MCA cannot apply in respect of any matter which the relevant person has the capacity to decide for himself or herself,
+ii) a person with the capacity to do so can consent to a deprivation of his or her liberty, and
+iii) a person with the relevant capacity who is refusing to be admitted to hospital or is demanding to leave hospital (so a category (iii) person) can only be detained there pursuant to the MHA.”
+
+It is the view of the Judge that the entire process of deciding between the MCA or the MHA hinges on S.131 MHA – informal admission to hospital. The Judge states: “The application of s.131 MHA and ss.5 and 6 of the MCA to the assessment and treatment of a compliant incapacitated patient work together.” Here, the crucial factor is whether or not the patient has capacity.
+
+The judgment goes on to outline the three stages in the decision making process:
+
+1. Is there a need to admit the patient? And if so, does the patient have the capacity to consent to informal admission under S.131 MHA?
+2. Can the hospital rely on the MCA alone to assess and treat the patient?
+3.  If the MCA could be used, “How should the existence of a choice between reliance on the MHA and the MCA and its DOLS be taken into account?”
+
+The Judge considers S.16A MCA and paragraph 17 of Schedule A1 to the MCA, relating to a patient who is considered to be “ineligible to be deprived of his liberty”. Essentially the judgment is saying that the MCA/DOLS can only apply to categories ii) & iv), so that in category i) one would rely on S.131 MHA, and for category iii) one would consider detention under S.2 or S.3.
+
+I have attempted to visualise some of this process in the form of a flow chart:
+ 
+Having reached a point in the assessment process when it can be considered that MCA/DOLS may apply, that is not yet the end. It is still necessary to consider whether, even so, it is more appropriate to use the powers of the MHA.
+  AM’s representatives argued that in her case MCA/DOLS should be used, but the Judge made it clear that “the correct position is that there may be cases in which a compliant incapacitated person may properly and lawfully be admitted, assessed or treated and detained under Part II MHA when he or she could be assessed or treated pursuant to s. 131 MHA and ss 5 and 6 MCA and be the subject of the DOLS.”
+  He points out that “examples of circumstances when this will be the case are found in paragraph 4.21 of the MHA Code of Practice and paragraph 4.48 of the Code of Practice to Supplement the Mental Capacity Act Code of Practice.”
+  To save you the onerous task of looking up these references, here they are.
+
+Para 4.21 of the MHA CoP gives the following examples of when the MCA is not appropriate:
+“• the patient’s lack of capacity to consent is fluctuating or temporary and the patient is not expected to consent when they regain capacity. This may be particularly relevant to patients having acute psychotic, manic or depressive episodes;
+• a degree of restraint needs to be used which is justified by the risk to other people but which is not permissible under the MCA because, exceptionally, it cannot be said to be proportionate to the risk to the patient personally; and
+• there is some other specific identifiable risk that the person might not receive the treatment they need if the MCA is relied on and that either the person or others might potentially suffer harm as a result.”
+  Para 4.48 of the DOLS CoP basically repeats the MHA CoP guidance:
+“Even where a person does not object and a deprivation of liberty authorisation is possible, it should not be assumed that such an authorisation is invariably the correct course. There may be other factors that suggest that the Mental Health Act 1983 should be used (for example, where it is thought likely that the person will recover relevant capacity and will then refuse to consent to treatment, or where it is important for the hospital managers to have a formal power to retake a person who goes absent without leave).”
+  The Judge suggests that there will be a need to take “a fact sensitive approach, having regard to all the relevant circumstances, to the determination of the “necessity test” and thus in the search for and identification of the least restrictive way of best achieving the proposed assessment or treatment”. This will need to include “the practical / actual availability of the MCA regime”.
+
+Is that all clear?
+  Mills & Reeve’s helpful analysis of this case may be able to elucidate. They suggest:
+  “When applying the “necessity test”, the decision maker is looking for the alternative that best achieves the objective of assessment or treatment in the least restrictive way, whether this is under ss2 or 3 MHA. This requires consideration of the MCA/DOLS against the MHA detention to ensure that deprivation of liberty is lawful and governed by a statutory regime.
+  The decision maker needs to consider the theoretical and practical availability of the MCA/DOLS authorisation, as well as the overall impact of each statutory regime in best achieving the desired outcome.”
+  Overall, I’m not sure whether this Judgment helps or hinders an AMHP, hospital or other decision maker, in reaching a decision about whether to use the MCA or the MHA in these circumstances. It still seems to boil down to a matter of individual professional judgment.

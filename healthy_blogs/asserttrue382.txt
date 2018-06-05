@@ -1,0 +1,3 @@
+The following inlined SVG image (which ought to be visible in all browsers other than IE) is an example of how a bitmapped (PNG source) image can be deconstructed into a series of SVG <rect> elements to create a vector version that approximates the original.
+
+This SVG image is actually 2,425 solid-filled rectangles (of unequal sizes; small rects in areas of high detail, larger rects in smooth areas). The logic that converts bitmaps to SVG in this fashion is about 200 lines of code. The technique and the code are described in detail in an earlier post. 

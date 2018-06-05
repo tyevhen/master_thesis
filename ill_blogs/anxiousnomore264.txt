@@ -1,0 +1,20 @@
+If you want to display a Reality of Anxiety button on your blog or website simply do the following:
+
+1. Choose which button you want to display from the sidebar of the home page on The Reality of Anxiety.
+2. Select and copy the html code in the box below the button.
+3. If you run a blogger blog, open up an html gadget from your layout page. Paste the code in the box and save. Arrange the widget where you would like it on your page. You're done.
+4. Any other site, paste the html code where you would like it to appear on your site.
+
+Having problems? Email me and I can help you :)
+
+
+
+
+
+If you enjoyed this post Get the Reality of Anxiety via RSS or Email
+You might also like:
+Broken and Bruised
+Panic Attacks Triggered by Labor Pains
+My Healthy, My Happy
+Lonely Like a Fish Out of Water
+Linkwithin

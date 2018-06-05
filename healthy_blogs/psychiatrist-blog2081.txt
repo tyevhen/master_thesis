@@ -1,0 +1,11 @@
+The New York Times highlights this week's article in the Archives of General Psychiatry
+suggesting that the use of atypical antipsychotics in children continues to climb. At the top, you can see the relative rates at which folks enter 5 commonly-prescribed antipsychotics in Google's search engine. I would have thought that Zyprexa would have been #1 search, as it is the #1 cost drug for many state Medicaid formularies.
+
+Nearly one-fifth of visits to psychiatrists included prescriptions for antipsychotics. This is quite disturbing, especially because nearly 40% of the kids are taking these for "disruptive behavior disorders". The drugs are approved for schizophrenia and bipolar disorders.
+
+National trends in office-based visits by children and adolescents that included antipsychotic treatment, 1993–2002. Annualized visit rates per 100 000 population aged 0 to 20 years were calculated using National Ambulatory Medical Care Survey and US Census Bureau data:
+
+
+
+from the NYT:
+Dr. DelBello said that the field "desperately needs more research" to clarify the effects of the antipsychotic drugs, but that many children struggling with bipolar disorder get more symptom relief on these drugs than on others, allowing psychiatrists to cut down on the overall number of medications a child is taking.

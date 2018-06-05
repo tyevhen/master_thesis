@@ -1,0 +1,5 @@
+Tim McCune has written an interesting article called Exception-Handling Antipatterns, at http://today.java.net (a fine place to find articles of this kind, BTW). The comments at the end of the article are every bit as stimulating as the article itself.
+
+McCune lists a number of patterns that (I find) are very widely used (nearly universal, in fact) in Java programming, such as log-and-rethrow, catch-and-ignore, and catch-and-return-null; all considered evil by McCune. My comment is: If those are antipatterns, the mere fact that such idioms are so ubiquitous in real-world Java code says more about the language than it does about programmers.
+
+I've always had a love-hate relationship with the exception mechanism. On the whole, I think it is overused and overrated, at least in the Java world, where people seem to get a little nutty about inventing (and sublcassing) custom exceptions and ways to handle them, when they should probably spend that energy writing better code to begin with.

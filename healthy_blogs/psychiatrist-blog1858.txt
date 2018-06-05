@@ -1,0 +1,22 @@
+2007: Mar | Feb | Jan . . . 2006: Dec | Nov | Oct | Sep
+Just a quick list of psychiatry-relevant FDA and related notices...
+More Ambien (zolpidem) generics (and here) get tentative approval. Sanofi's patent expired on Oct 21, 2006, but they triggered an automatic 6-month extension by applying for pediatric use. We should start hearing about generic Ambien around April or May. The first approved generic manufacturer gets an automatic 6-month exclusivity before the flood gates open up, and other manufacturers can get into the game. There are about a dozen manufacturers all lined up for tentative approval.
+
+Phase I results promising for NGX426. NGX424 gets coverted in the body to tezampanel, an AMPA/kainate receptor antagonist, which makes it a non-narcotic pain medicine. The company, TorreyPines, seems to be looking at indications for migraines and neuropathic pain, though this class of drug may be useful on epilepsy and anxiety, as well.
+
+Drugs to turn on specific genes. This is one of the new holy grails. As described in the linked PNAS article, using RNA interference techniques, you make a little piece of double-stranded RNA (dsRNA) that is designed to bind to a specific gene, say, the gene that contains the instructions for making amyloid precursor protein (APP), which is involved in causing Alzheimer's dementia, or maybe the gene that codes for a particular variant of the CETP protein, which has been associated with increased longevity. According the article, sometimes this technique will silence a gene, and sometimes it will crank up the volume. Drugs of the future would be used to selectively turn on, off, up, down genes, like fiddling with 100,000 dials on a huge mixing board, trying to get just the right mix. A fascinating, but scary, proposition.
+
+Mirapex (pramipexole) approved (label .pdf) for Restless Legs Syndrome. This is old news now, thanks to the marketing blitz on this indication.
+
+Generic Zyprexa (olanzapine) gets tentative approval. There are now 5 companies with approved versions of generic Zyprexa, waiting to launch when either Lilly's patent expires (2011) or someone successfully challenges their patent application (now in process).
+
+Rimonabant (brands Acomplia or Zimulti) approved in Mexico. The sexy new diet drug is already approved in Europe, and is now on our shores. Rimonabant is a CB1 cannibinoid receptor antagonist, so it will also block the munchies from smoking marijuana. Sanofi Aventis has already submitted a new drug application to the U.S. FDA, followed by a resubmission in October.
+
+Seroquel marketing warning letter. AstraZeneca received an FDA letter warning that they violated the rules by underemphasizing the risk of diabetes with Seroquel in a piece of marketing material. They also failed to note some other risks.
+
+Warning: Tamiflu side effects - delirium, self-injury. Roche and FDA sent out notification letters warning of reports about self-injury and delirium occurring in people, especially children, who have the flu and take Tamiflu. They note that these reactions may also occur from the flu itself.
+
+Warning: Methadone side effects - cardiac, breathing, death. FDA put out a public health advisory warning of "reports of death and life-threatening adverse events such as respiratory depression and cardiac arrhythmias in patients receiving methadone. These adverse events are the possible result of unintentional methadone overdoses, drug interactions, and methadone's cardiac toxicities (QT prolongation and Torsades de Pointes)."
+Search the FDA's "Orange Book" for more drug data.
+technorati tags:ambien, NGX426, FDA, iRNA, insomnia, mirapex, pramipexole, zolpidem, RLS, zyprexa, olanzapine, rimonabant, acomplia, zimulti, seroquel, quetiapine, tamiflu, methadone, methadon, psychiatry, psychology, medications
+Blogged with Flock

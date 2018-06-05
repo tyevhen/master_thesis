@@ -1,0 +1,5 @@
+Lately, I've become a bit of an AI fan -- and by that I don't mean Artifical Intelligence, but Amy Iris, whose blog I added to the Blogroll today.
+
+If you spend a lot of time on Twitter, and especially if you read/write/eat/dream Python, you'll probably find Amy Iris's blog interesting. It's a treasure-trove of thoughtful social-web musings accompanied by a lot of really great Python sample code and real-world data from AI's experiments in Twitter-hacking. Amy is extraordinarily generous with ideas, code, and insights, and the blog is refreshingly personal. I've benefitted enormously from it. And I don't even speak a word of Python.
+
+[Disclosure: I don't know Amy Iris, and I have no idea what her affiliations or background might be, or whether "Amy Iris" might in fact be a pseudonym, or an anagram ("is my AIR"). All I know is what I read in the blogs and tweets, and so far, it's all good. Very good.]

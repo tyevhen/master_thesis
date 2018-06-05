@@ -1,0 +1,1 @@
+what 's up with http ? view more presentations from mark nottingham in case you have n't been following developments around things like httpbis and the patch verb , take a look at this slideshow http is far from a static specification it 's about to undergo significant clarification and expansion all i can say is it 's about time

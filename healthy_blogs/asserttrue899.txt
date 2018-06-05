@@ -1,0 +1,7 @@
+I was thinking the other day about how best to keep the details of application logic hidden from Swing widgets (in the spirit of Martin Fowler's Presentation Model), the main intuition being that a user app can/should (arguably) be modeled as a set of nonvisual capabilities to which utterly dumb GUI widgets can later be mapped. Achieving this in a clean way is incredibly difficult. (Or at least for me it is.)
+
+I had an epiphany of sorts. When you design a standalone user app (a menu-driven desktop app), what's the first piece of UI you design? The menu system. And what is a menu? In Swing (Java), it's a series of nested buttons. (JMenu and JMenuItem inherit from javax.swing.AbstractButton.)
+
+The menubar never goes away. Some apps let you hide it, in which case it's merely made invisible (it doesn't actually get released from memory). There's a name, of course, for collections of buttons that never go away: a non-modal dialog. My epiphany was/is that a menu system is a collection of non-modal dialogs. (And I hate non-modal dialogs, both as a user and as a programmer.)
+
+In the typical menu-driven app, menus are non-modal dialogs in which each button "knows too much" about deep application internals. The ever-changing state of the entire app is controlled through this collage of interdependent buttons, and managing the underlying ill-formed dependency graph is difficult, and this is why menu apps are a pain the ass to write.

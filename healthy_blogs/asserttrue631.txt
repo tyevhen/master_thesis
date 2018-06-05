@@ -1,0 +1,54 @@
+I was surprised to see that Wikipedia has started collecting job-interview questions that have been asked by Microsoft's interviewers during followup (second round) interviews. The questions posted so far include the following:
+Design a cellphone for a blind person.
+Design a music system for a car. What are the features? Draw a picture.
+Design a GPS navigation unit for a hiker
+Design a communication device for Canadian park rangers.
+Design a remote control for an automatic window-blind system.
+Design TV Remote Control with Two Buttons.
+Design a coffee maker that will be used by astronauts.
+Design an alarm clock.
+Design an alarm clock for a blind person.
+Design a search function
+Design a website for a library
+What method would you use to look up a word in a dictionary?
+What are examples of poorly designed software?
+Design an instant messaging system.
+I am your grandmother. Describe what MATLAB is to me.
+How would you explain what a database is to a 5-year-old?
+How would you explain computer networking to a kindergarten kid?
+What is your favorite software, and how would you improve it?
+Write code for an electronic messaging board. What happens when a user logs on?
+Develop an algorithm for selecting objects in Visio.
+Tell me about a time when you made a decision and later found out that it was incorrect. What did you do to resolve the issue?
+Suppose you are one week away from the product shipping date and discover a bug in your software. What do you do?
+You have a linked list and don't know how long it is; how do you find the middle of it?
+How would you test a keyboard?
+How would you test a pen?
+Write code for finding a duplicate in an array.
+Write code that returns the length of a string without using any built-in functions.
+Reverse a Singly Linked List with and without using Recursion.
+Determine if a Binary Search Tree is well formed.
+Reverse every word in a String (abc def becomes cba fed).
+What method would you use to look up a word in a dictionary?
+Write a function that returns the angle between the hour and the minute hands of a clock, given input of the time.
+Write a function that takes a string consisting of numeral characters and returns all possible alpha character strings of same length as input that correspond to the keypad of a typical telephone.
+Imagine you have a closet full of shirts. It’s very hard to find a shirt. So what can you do to organize your shirts for easy retrieval?
+How would you test an elevator?
+How would you test a vending machine?
+How would you test a program that takes in two points and outputs the distance between the two points?
+Test the Windows scroll bar.
+Switch every pair of words in a string ("ab cd ef gh" becomes "cd ab gh ef")
+Write the function for strstr function (finding a substring inside a string)
+Reverse the order of words in a string ("ab cd ef gh" becomes "gh ef cd ab")
+Write the function for string comparison. How would you test it?
+Write a function to zero all duplicate values in an integer array. How would you test it?
+Write a function that compares two strings and returns a third string containing only the letters that appear in both.
+I guess I'm surprised at the breadth of irrelevancy of the questions. Image that you have a closet full of shirts?? How would you test a pen?
+
+Are we hiring Ron Popeil, or are we hiring programmers and QA testers?
+
+Even the technical questions seem incredibly pointless. Reverse the order of words in a string?
+
+The real question is this: Suppose someone does well on these questions. Do they end up doing a good job for the company? Do they do well at Microsoft? Does Microsoft do well? How do you track those things? How do you know what was (in retrospect) a good interview question to ask -- a question that had predictive value, a question that told you whether the interviewee would be a productive employee -- versus a crappy question to ask, a question that ended up predicting nothing, or (worse) caused the wrong person to be hired?
+
+Does Microsoft track such things? One has to wonder. If not, then all of this becomes a silly hazing ritual with no demonstrable value to anyone. I suspect Microsoft (like most companies) has no metrics whatsoever for determining the business value of interview questions. In other words, it's all basically a joke. Please someone tell me that's not true. (And then post the reason to Wikipedia.)

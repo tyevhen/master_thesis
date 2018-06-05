@@ -1,0 +1,9 @@
+Like many of my colleagues, I have a torrid love-hate relationship with the Java language.
+
+But let us not forget, it's more than just a language. And therein lies the hitch.
+
+Steve Yegge (now at Google) put together a refreshingly non-religious series of posts about various programming languages that, in one incarnation or another, can run atop the JVM. As an exercise, he wrote a simple game program, then ported it to various languages, then wrote about the experience.
+
+Steve's appraisal of Java resonates with me. "Java has lots of wonderful features," he observes, "but Java isn't one of them. Java's appeal as a platform for doing real work rests precisely on its strengths as a platform, not as a language."
+
+Hypothesis: Sun's greatest contribution to the history of computing is the 'VM', not the 'J', in JVM. The 'J' part is, like a 10-year-old Ford Taurus, beyond economical repair. Yet the world continues to use it, due to virtual-machine lock-in. The barriers to exit are just too high.

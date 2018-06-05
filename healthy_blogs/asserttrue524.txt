@@ -1,0 +1,25 @@
+Want to make your writing easier to read? Stay away from long sentences, and vary your sentence lengths.
+
+The old rule of thumb about sentence length used to be: If you can't read a sentence aloud in one breath, it's too long. In my opinion (which is all that counts here; it's my blog), that rule is off by a factor of two. You should be able to read aloud any two consecutive sentences without incurring hypoxia.
+
+You'll find it much easier to obey the out-loud rule if you simply vary your sentence lengths. After a long-ish sentence or two, give the reader a break by throwing in a shorter sentence. The shorter the better.
+
+Also vary paragraph lengths.
+
+Combine the two techniques (varied sentence lengths; varied paragraph lengths). Try this easy experiment: Write or rewrite a paragraph to have a super-short opening sentence (say, six words or less). Write or rewrite a paragraph (not necessarily the same one) to end on a super-short sentence. In either case, take note of the short sentence's impact relative to all the other sentences.
+
+A good strategy for simplifying long-ish sentences is to start by eliminating "nice but not strictly necessary" words, then chunk the sentence up into single thoughts. Consider this example:
+
+Because of the fact that a widespread practice of discrimination continues in the field of medicine, women have not at the present time achieved equality with men.
+
+This sentence is grammatically correct. But let's face it; it sucks ass. It lacks impact and sounds like "student writing." Strip out unnecessary words ("at the present time," "because of the fact") and get right to the core meaning. Discrimination continues in medicine; that's one thought. Women have not yet achieved equality with men; that's another thought. Which is more important? To me, the key takeaway is that women have not achieved equality with men. Once somebody tells me that, I want to know why. So don't tell me the why first; tell me the what, followed by the why. "In medicine, women have yet to achieve equality with men due to widespread discrimination."
+
+Have mercy on the reader's brain. Do some pre-parsing for your already overworked reader. For example: When you have a sentence made up of two clauses separated by a comma and a "but," consider splitting the sentence into two sentences. Let the second one begin with "But." Consider:
+
+Statistics show that most people believe aliens have visited earth, but there is no convincing physical evidence for such a belief.
+
+That's grammatically correct. It's also a mouthful. Try something like: "Statistics show that most people believe aliens have visited earth. But there is no convincing physical evidence for such a belief." You've saved the reader an important bit of parsing. Plus, the average sentence length is now 10.5 instead of 21.
+
+I'm pretty sure a math geek could prove quite easily that the amount of effort required to understand a sentence grows exponentially (not linearly) with the number of words or phrases in the sentence. That's because the first thing a reader tries to do, if the sentence is non-trivial, is parse the sentence into least-ambiguous form. As sentence length grows, the number of possible parsings grows out of control because of all the possible permutations of meaning. Eventually, if the sentence gets to be long enough, the reader's head explodes. We don't want that.
+
+January is Prevent Head Explosion Month (tell your friends), so please, do your best to simplify your prose. It's really not that hard. The alternative is a big fat bloody mess, no matter how you look at it.

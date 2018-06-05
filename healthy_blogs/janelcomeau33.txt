@@ -1,0 +1,132 @@
+Alan Turing invented everything.
+
+If you can see this article, you owe your entire lifestyle to this man.
+
+Alan Turing was a computer scientist, decades before we even knew what computer scientists were. It was his work in the mid-20th century that gave rise to the laptop I'm writing this on, the iPhone you're reading this on, and all the other pretty, beeping toys we rely on to get through the day in 2015. It's hard to even picture a world without Alan Turing's influence. There'd be no computers. No software. No artificial intelligence. No microchips in our cars, no GPS devices, no automated robots and no smart devices that keep us from maiming ourselves on a daily basis. This man created the modern world, and for decades, he was all but forgotten. 
+
+Until now.
+
+
+Being portrayed by Benedict Cumberbatch is basically the best apology history can offer.
+
+The recent trend toward recognizing history's forgotten greats, like the newly-rediscovered Nikola Tesla, finally paid off for Alan Turing when it was announced that his short, tragic life and brilliant accomplishments were to be documented in the 2014 film The Imitation Game. I was excited for this movie. I started my academic career in computer science and switched over to psychology, two fields that have been careful to remember Mr. Turing and his work; I've read all of Turing's papers, and I know quite a bit about his life, and I was eager to see it on the screen.
+
+So I watched the movie.
+
+As a movie, it's excellent. Incredible, even. Definitely worthy of the praise and glowing reviews it's gotten. But as an account of Alan Turing's life, it leaves a lot to be desired. Instead of educating the public about the life and times of one of history's greatest minds, it just perpetuated lies and misinformation that will be even harder to correct. For instance:
+
+Alan Turing was not an anti-social asshole.
+
+In 2004, Dr. Gregory House limped onto our television screens and began barking orders, name-calling, popping pills and making medical miracles, and somehow we all just agreed that yes, that's exactly what a genius looks like. And so in pop culture, that's what every genius looks like. Sheldon Cooper from The Big Bang Theory is spoiled, rude, selfish and completely oblivious to social norms. Hannibal Lecter is violent, unstable, rude and has no human empathy. Dr. Spock from Star Trek is emotionless, socially oblivious and again, largely lacks human empathy. Tony Stark is rude, abrasive, irresponsible and childish. The list goes on. And sure, if you want to turn your "misunderstood genius" role into just another trope, you go right ahead... if you're playing a fictional character.
+
+Alan Turing is not a fictional character.
+
+Which is the point of the whole fucking movie.
+
+It's as if Benedict Cumberbatch saw the phrase "good at math" and decided to base his entire performance off the diagnostic criteria for Asperger's Syndrome. The Imitation Game's Turing ticks every box - he's rude, he's impossible to work with, he's arrogant, he puts others down, he has no clue how his actions impact others, he's humourless, he speaks with no social filter, he can't communicate, he's obsessive, and his only emotions are "frustrated", "gay" and "staring longingly at machinery". 
+
+Oh baby.
+
+Unfortunately for Cumberbatch, Turing didn't live his life in the hopes of someday fitting neatly into a 'misunderstood genius' archetype. The people who knew Turing described him as "engaging" and "charming". There's do doubt he was eccentric, but he was a far cry from the one-dimensional, brooding misanthrope in the movie. He was funny. He was good with kids. He was kind to the people he cared about, and he got along with his colleagues. In an attempt to make some kind of nebulous point about autism and its place in the world, the filmmakers wiped away Turing's real personality, and held him up as a poster boy for a cause that had nothing to do with him. And that's no way to tell Turing's story.
+
+Alan Turing did not single-handedly get Winston Churchill to hand over the project to him.
+
+Benedict Cumberbatch spends most of The Imitation Game fighting with his superiors and colleagues, who don't understand his genius and would rather spend their time and resources running in circles than working on the machine (Called "Christopher" in the movie, but named "Victory" in real life, because it turns out that people who want to hide their homosexuality don't name multi-million dollar government projects after former gay lovers). At one point, he becomes so frustrated with all the nose-picking peons around him, he writes a letter to Winston Churchill himself, and gets the entire Enigma project placed under his control.
+
+
+News he greets with the same blank stare he uses throughout the entire movie.
+
+It was a pretty dickish tactic on Turing's part. Or it would have been, if it had actually fucking happened.
+
+This is Benedict Cumberbatch's 'shocked' face.
+
+It's true that Alan Turing did write a letter to Winston Churchill. And it's also true that the letter was a complaint about the way the Enigma project was being run. But that's where the similarities end. Although the movie depicted the project as a half-dozen scientist trapped in a dingy basement, the actual Enigma team was made of up literally thousands of people, working around the clock from the start of the war to the very end. At the time Turing came on board, the project was not being given enough resources to work effectively, and Turing, along with several others, filed a complaint. That's it. It had nothing to do with the superior officers purposely crippling Turing's work - by all accounts, Turing got along famously with Commander Denniston, the man depicted as a humorless tyrant in the movie, and Denniston had great respect for Turing's abilities. The only issue Denniston had was that he didn't have the power to get the team the money they needed. Winston Churchill saw the Enigma team bombarding him with pleading letters, and he gave them more resources to shut them up. This wasn't one man's arrogant grab for power; this was the equivalent of an entire office whining until management caves in and puts more toner in the copier. Assuming, of course, that that copier was capable of ending WWII.
+
+Alan Turing did not make the decision to let the Germans bomb allied soldiers.
+
+Once the Enigma code is finally cracked, there are still several dozen minutes of movie left, so you know Turing's troubles aren't over. Indeed, once plans for future German attacks start coming in, Turing faces the ethical dilemma of a lifetime. If they act on all the intel they're getting, they'll save British lives, but the Germans will realize that Enigma has been cracked and will change their codes, potentially dragging the war on longer. But if they choose not to prevent the smaller attacks, they'll be letting their own men die, in exchange for a potentially early end to the war. It's a decision that torments Turing, especially as he's forced to look into the eyes of a coworker whose brother is on a targeted ship, knowing that he has the power to save the brother, but must choose not to. Any man would be driven half-insane by the guilt.
+
+Luckily for Turing, he wasn't actually the man making that call.
+
+This is Benedict Cumberbatch's 'relieved' face.
+
+It's nothing short of insane to suggest that the British military left the most important strategy in the entire war effort to a random academic with no military background. That's like leaving it up to your plumber to decide whether or not it's ethical to drown a rapist in your bathtub. It's his job to fix the machinery, not tell you what to do with it. Turing was one of thousands of people hired to crack Enigma and decrypt messages, and those messages went directly to higher-ups who made the tough decisions about who lived and who died. He earned his paycheck by keeping his machine in working order, not by ordering strategic sacrifices of his own men. He was a mathematician. Not a politician. Not a general. A brilliant mathematician who built the greatest tool the world has ever known, and let other people figure out what to do with it.
+
+Alan Turing was never accused of espionage.
+
+
+A substantial chunk of The Imitation Game revolves around a bizarre subplot wherein Alan Turing realizes that one of his coworkers, John Cairncross, is a Soviet spy, and finds himself blackmailed into silence, lest Cairncross reveal his most fabulous secret. Years after the war, Turing himself is investigated on suspicion of being the Soviet spy, and in the course of his investigation, it's somehow discovered that he's been diddling other men, which was spectacularly illegal in the ass-backwards 1950s. The whole ordeal leads to his decline and eventual demise (more on that later). If it weren't for that pesky accusation of espionage, Turing might have been around a whole lot longer, giving the world twenty or thirty more years' worth of his brilliant work.
+
+I think you know what I'm about to say.
+
+This is Cumberbatch's 'disappointed in the mishandling of a great man's legacy' face.
+
+Once again, the filmmakers have served up a heaping plate of bullshit with a little garnish of truth on top. Yes, there was a Soviet double-agent named John Cairncross working at Bletchley Park near the end of the war. And, yes, Cairncross' spying was discovered during an investigation in 1951. But that's where the similarities end. Cairncross was not a close colleague of Alan Turing's, with whom he entrusted the secret of his sexual orientation - there is zero evidence that the two men ever met. Likewise, accusations of espionage did not haunt the Hut 8 team throughout the war effort. The only reason that Cairncross' treachery was eventually discovered was a sheaf of incriminating documents that the police stumbled across in one of his co-conspirator's apartments. Turing had nothing to do with it, and he was never, ever accused of being a spy.
+
+
+Although he certainly could dress the part.
+
+The discovery of Turing's homosexuality had nothing to do with his role as a cryptographer, and his military records certainly weren't stolen out of his folder and burned; that kind of shit was locked down so tight, it took fifty years for anyone to even figure out that Turing had been involved with the Enigma project. No, Turing's undoing was far less glamorous: a simple break-in. In 1952 (not 1951, as the movie tells you for no fucking reason), 39-year-old Turing started dating a very pretty 19-year-old boy named Arthur who he'd randomly bumped into on the street one day. As it turned out, Arthur had a lot of sketchy friends, and one of them took it upon himself to burgle Turing's house. When police investigated the break-in, they wanted to know how in the world Turing could possibly be connected to a random teenage boy, and the truth about the relationship was discovered. Both Turing and Arthur were tried and convicted of indecency. It's not as sexy as the spy version of events, but at least it actually happened.
+
+Chemical castration did not ruin Alan Turing's life.
+
+Let me preface this section of my rant with this: everything that happened to Alan Turing in the final years of his life was absolutely deplorable. The government of England prosecuted one of the most brilliant minds of his generation for his sexual orientation, and every single part of that sentence is horrific. No one should be subject to that kind of treatment, and the choice Turing was given between prison and chemical castration was nothing short of barbaric. But the story that the movie fed you - that chemical castration was nothing less than a "Go Directly to Suicide" card, is, at best, an exaggeration, and at worst, a flat-out lie.
+
+So let's look at how the end of Turing's life actually played out.
+
+Turing was subject to chemical castration, that is a fact. And when we say "chemical castration", we mean that he was forced to take injections of estrogen. That's it. And don't get me wrong, that's a pretty terrible thing to do to a man against his will. But the movie takes an already-awful medical treatment, and turns it into something positively medieval. At the end of the movie, Turing shuffles around like he's aged decades in just a few weeks; his hands shake uncontrollably, and he has trouble concentrating well enough to string together a simple sentence. From the looks of things, he's one or two more injections away from being propped up in a corner with a bib around his neck and a bucket to catch the drool in his lap.
+
+Can anyone see the problem there?
+
+Let me give you a hint.
+
+If excess estrogen is capable of turning a person into a dizzy, confused invalid, the entire female population of planet earth should be hooked up to feeding tubes right now. The treatments did change Turing's body, but only in the ways that you'd reasonably expect. He lost his sex drive. He became more docile. He became impotent. He gained weight. He began to develop breasts. And yes, those things were probably pretty distressing, but the chemical castration didn't dull Turing's mind or prevent him from doing his work. So did the chemical castration actually lead to his demise? It's hard to say.
+
+It didn't lead to an endless limbo of frumpy bathrobes, I'll tell you that much.
+
+For one, the chemical castration order wasn't permanent. At the time of Turing's death, he'd been off the injections for fourteen months. And if there's anything you should know about hormones, it's that you can recover from that kind of shit pretty quickly. Unless you bounce your pituitary gland off the inside of your skull in some kind of heinous motorcycle accident, it's pretty hard to make a permanent change to your hormones. Being off estrogen for more than a year means that Turing would have seen most of the changes revert - he'd have gotten his sex drive back, his usual levels of aggression would return, and he'd have been feeling like his old self again. The breasts were probably his to keep, but reports from those around him said that he was in high spirits and seemed no worse for wear from his little stint with experimental hormone therapy. And that makes his death even more questionable. Because here's something the movie didn't tell you.
+
+We don't actually know how Alan Turing died, and we never will.
+
+Accurate depiction of history? Well, maybe not.
+
+Here's what we do know. Turing died of cyanide poisoning. He was found dead in his home on June 8th, 1954, with a half-eaten apple on the floor beside his bed. What we don't know is how the cyanide actually got into his body. Investigators took one look at the scene and concluded it was a suicide; Turing had been obsessed with the story of Snow White during his lifetime, and they figured that he'd poisoned himself with a cyanide-laced apple to create the most morbid Disney reenactment of all time. They were so sure of this theory that they never actually bothered to test the apple for traces of cyanide. Or to look at the experiments Turing was conducting right in that very house.
+
+Science!
+
+Turing had been working on gold-plating some spoons in his spare room - for whatever fucking reason - a process that involves dissolving gold and then using electricity to make it stick to the outside of shitty, non-golden spoons. What does one use to dissolve gold, you ask? Why, potassium cyanide, of course. Some historians have theorized that Turing's death had less to do with suicide and more to do with the fact that he was tinkering with a device that produced cyanide gas in a room with crappy ventilation. This is supported by the fact that Turing's autopsy was consistent with death by inhaled cyanide, not ingested, and that he'd had no change in mood prior to his death, even leaving himself his usual to-do list for the weekend. And the apple? Remember, Turing was a bit of a quirky slob - he was in the habit of eating apples before bed and chucking the half-eaten remains onto the floor.
+
+Personally, I think it would have been a hell of a lot more interesting to end a movie about Turing's mysterious life with the enormous mystery that surrounds his death. But, once again, the filmmakers had a heavy-handed point to make, and they were more than willing to twist history to do it. 
+
+Bonus Outrage: This movie completely mangled the life of Joan Clarke.
+
+And now we get to my biggest problem with the entire movie.
+
+
+Just because you get a dot-face poster, doesn't mean your life and works were treated with any respect.
+
+Because, sure, the movie took some serious artistic liberties with Turing's life to make him more interesting. They twisted his personality so it would fit with our stereotypes of geniuses, and they added in some bullshit espionage subplots to raise the stakes. Okay. Fine. I don't agree with it, but I get it. Theatres need butts in seats, and a two-hour-long biopic about a long-dead mathematician is a hard sell. And at the end of the day, the basics are all there - Turing worked for the Hut 8 team during WWII, he designed a machine that cracked the Enigma code, he brought an early end to the war, he was convicted of homosexuality seven years later, he was forced to undergo chemical castration, and he potentially took his own life because of it. These things are true. Now let's look at the biography of Joan Clarke, as told by the movie. 
+
+I'll be honest, the wide-eyed stare is not a good start.
+
+In the movie, Joan Clarke is a pretty 20-something year old girl who happens to solve a tricky puzzle in the newspaper one day, and discovers instructions to attend a mysterious test. She bursts in late and meets Alan Turing, who graciously decides to let her sit the test with the menfolk. When she aces it, she's offered a job with the Hut 8 team, against Turing's coworkers' better judgement. While at Hut 8, she makes some pretty impressive contributions to the machine, but her real role is that she uses her womanly influences to teach Turing how to play nice with his coworkers and make friends. Her parents pop up to tell her that she has no business being unmarried at 25, and, desperate to keep his Human Feelings instructor around, Turing offers to marry her. The engagement ends in a fight after Turing reveals he is gay, but the two make up when Clarke visits Turing in his wretched, chemically castrated state at the end of the movie.
+
+Read that above paragraph carefully. 
+
+Every single word of that is a lie.
+
+Every. Fucking. Word.
+
+These two people have nothing in common. 
+
+Everything about the fictionalized biography of Joan Clarke in The Imitation Game is a big, giant middle finger to her memory. The real Joan Clarke was not a silly, directionless twenty-something waiting around for a crossword puzzle to reveal her genius to her. Nor was she a blinking, wide-eyed girl, caught up in a man's world she didn't understand. Fuck that. Prior to the outbreak of WWII, Joan Clarke attended freaking Cambridge, where she earned a first-class honours degree in mathematics; or she would have, if the school had actually awarded degrees to women. When she did get involved in codebreaking, it wasn't because of a puzzle in the newspaper - she was recruited, like every other scientist, by someone who knew and respected her work, and figured she'd be good at the job. 
+
+Turns out the military didn't just hire people off the street for solving tricky puzzles.
+
+And she was. She was so good, in fact, that she became not only an employee at Hut 8, but a deputy head of the project, and some historians believe she could have climbed even higher if she'd had the sense to be born with a Y chromosome. Her rise as a mathematician had absolutely nothing to do with Turing; they met as coworkers, and became close friends because they happened to be equally gifted individuals, not because she inspired Turing to explore his lacking human side. As for their engagement and subsequent falling out? Yes, they were engaged. But it had nothing to do with her parents. Instead, it seemed to have something to do with the fact that they actually fucking liked each other. And the homosexuality thing? Joan found out about it the day after they got engaged, and as it turned out, she didn't particularly give a shit. There was no big falling out - Turing quietly broke off the engagement some time later and they stayed friends for the rest of his life.
+
+And if you don't believe me, ask Joan herself.
+
+So that's the real tragedy of this movie. In an attempt to bring some well-deserved recognition to a man whose accomplishments were almost hidden by time and the oppressive laws of the day, the filmmakers turned an accomplished scientist into little more than a romantic subplot. Joan Clarke was one of the most brilliant minds of her generation, and she fought obstacles every bit as daunting as those faced by Turing. Alan Turing could hide the fact that he was gay. Joan Clarke could not hide the fact that she was a woman. Thanks to The Imitation Game, the public will remember an embellished version of Turing's story, filled with more glamour and intrigue than Turing's actual life ever contained. And thanks to that same movie, the public will remember all of Joan's achievements - all the things she fought for and won by herself - as things that Turing gave to her. From her initial hire at Berkeley Park, to her progress during the war, to her life after V-day, the Joan Clarke of the movie revolves around Alan Turing, and disappears into his shadow.
+
+That's no way to tell Turing's story. And it's no way to tell hers. 

@@ -1,0 +1,11 @@
+WordPress geeks are practically cumming in their pants over the release of WP 3.0 Thelonious, named after Thelonious Monk and being touted as "the most exciting release to date." Of course, WP 2.8.6 and 2.9.2 were also "the most exciting releases to date," so excuse me if I'm a bit skeptical.
+
+
+
+But, the new feature list DOES look pretty cool. If, like me, you use WP more for CMS purposes than for straight blogging, the new menu functions and the ability to create your own content types could be handy.
+
+They've also merged WP and WP Multi User into one package, so you can create multiple blogs from one installation (think Huffington Post-style). I just got a new client who's going to be my guinea pig for 3.0. (MUUAHAHAHA!)
+
+I guess it's called "Thelonious" because it allows for greater improvisation and freedom, but geeks are known for being a bit self-aggrandizing, so we'll see.
+
+Now I have to go update all my old installations of WP...grrrrrrr!

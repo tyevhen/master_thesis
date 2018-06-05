@@ -1,0 +1,75 @@
+Every week, on my Twitter timeline, I tweet a lot of disturbing left-wing crap mind-twisting news stories (according to Twitter Analytics, I made a million impressions this week, all of them bad). These are the stories that wouldn't fit in a 140-character outburst:
+
+Programmers: Stop Calling Yourselves Engineers (theatlantic.com). Author Ian Bogost argues, more or less persuasively, that “Engineer” is merely an aspirational title, when it comes to software development. "Traditional engineers are regulated, certified, and subject to apprenticeship and continuing education. Engineering claims an explicit responsibility to public safety and reliability, even if it doesn’t always deliver." The article is well-written, but doesn't contain a call to action (other than the title), nor a proposed solution, so it qualifies as a rant. But it's a a good one, a worthy one.
+
+Will Driverless Cars Become a Dystopian Nightmare? (nationaljournal.com). If robo-cars improve the commute experience (by freeing people to read, catch up on e-mail, sleep, etc.), hordes of people may suddenly travel longer distances to get to work. Add to that the millions of elderly and disabled who cannot now drive and you have an endgame of more roads clogged, more cars/buses on the road, more CO2, higher real estate prices in the far-boonie burbs, etc. But look at the bright side: Auto makers, insurance companies, and folks like Google save a bundle on car insurance! Ka-ching!
+
+Blue Cross of Alabama predicts $135 million loss in 2015, mostly due to Obamacare (al.com). Over 3600 comments. It's fine to call for an end to Obamacare (I support that), but what do we replace it with? Read the story: Blue Cross wants to go back to denying preexisting conditions. Is that really what we want? We have to decide: Continue the godawful for-profit system we have now, or learn what other countries are doing right, and fashion something even better. And yeah, the latter might very well mean getting rid of private health care insurers (parasites who only add friction and discontent to the system), getting rid of multimillion-dollar hospital CEOs, capping drug-company profits to something sensible (or limiting marketing expenditures; note that most drug companies spend far more on marketing than on research), inviting doctors who are in it for the money to leave the profession, and doing a lot of other perfectly rational things that other countries, with better health care systems than ours, do all the time. The point is, we have choices to make. One choice we can't make is to go back to an all-private system in which people with preexisting conditions are denied health care. If Obamacare (a stopgap non-solution from the outset) did nothing else besides get us beyond that medieval horror (the horror of discriminating against the ill specifically based on illness), it was worth it. It got us to where we are now: talking about Whatever's Next.
+
+Eroom's Law: The number of new drugs discovered per billion dollars of R&D is halved every 9 years.
+
+Diagnosing the decline in pharmaceutical R&D efficiency (nature.com). Here, we learn about Eroom's Law (Moore's Law backwards): The number of new drugs discovered per billion dollars of R&D is halved every 9 years. For extra credit: If FDA is currently approving 32 drugs a year, how long until they are approving one drug per year (if current R&D spending levels were to remain unchanged)?
+Answer: Log(32) is 5, so 5 x 9 = 45 years. 
+
+Wearable sweat sensor paves way for real-time analysis of body chemistry (Nature). Berkeley team has created "a flexible printed plastic sensor array which can detect glucose, lactate, sodium, potassium, and body temperature." Wear it to bed or your credit rating goes down.
+
+What Happens Next Will Amaze You (idlewords.com). Over-the-top-great talk by Maciej Cegłowski about our dystopian future present. I had a big grin on my face the whole time. You will too.
+
+Bernie Thoughts
+@berniethoughts
+GRAPEFRUITS ARE ORANGES WITHOUT HOPE
+3:58 AM - Jan 15, 2016
+2,069
+1,521 people are talking about this
+Twitter Ads info and privacy
+How is NSA breaking so much crypto? (freedom-to-tinker.com). "Breaking a single, common 1024-bit prime would allow NSA to passively decrypt connections to two-thirds of VPNs and a quarter of all SSH servers globally." NSA has almost certainly lucked into some worthwhile primes. Two co-authors of the relevant paper explain why, in this blog.
+
+Crypto flaw was so glaring it may be intentional eavesdropping backdoor (arstechnica.co.uk). Socat, the successor to Netcat, contains a non-prime in its Diffie-Hellman routine, which is such an ergegious, preposterous "error" that it can only be an obvious back door, intended for use by (take your pick) NSA, blackhats, asshats, etc.
+Mike Primavera
+@primawesome
+I wish there was a way to keep in touch with dogs I meet outside of grocery stores.
+5:13 AM - Jan 26, 2016
+6,015
+2,965 people are talking about this
+Twitter Ads info and privacy
+
+Japan adopts negative interest rate in surprise move (bbc.com). In layman's terms: Japan's central bank is so desperate to spur the sluggish Japanese economy, it did a surprise rate cut, to below zero, meaning that commercial banks will now have to pay the central bank to look after their cash. The idea is to force commercial banks to lend. (Of course, the problem is, you can't force anyone to borrow.) Negative interest on government bonds is common in Europe, of course, but this is the first time this anomalous trend has spilled over into the world's third largest economy, and there is plenty of talk about it happening in the U.S. next. But what happens when the only customers for negative-interest government bonds are the central banks themselves? (How do we finance government debt at that point?) No one seems to want to answer that question.
+
+Robot-Run Lettuce Farm to Produce 30,000 Heads Daily; Tipping Point for Workerless Agriculture (globaleconomicanalysis.blogspot.com). Itinerant crop-pickers need not apply.
+
+Bernie Thoughts
+@berniethoughts
+WHEN I SEE A PUG STRUGGLING JUST TO LIVE—WITH ITS DISGUSTING BREATHING AND HORRIBLE FACE—I AM REMINDED WHY I WORK SO HARD FOR THIS NATION
+3:46 AM - Jan 20, 2016
+6,246
+3,768 people are talking about this
+Twitter Ads info and privacy
+Come on, that's funny.
+
+Snyder Admin Trucked In Clean Water for State Building in January 2015 (progressmichigan.org). You can't expect the Governor's people to drink anything but chemically pure water while they're doing their jobs, right? (Note: Michigan's capital is just 56 miles from Flint.)
+
+Trump: candidate of truth (jdeanicite.typepad.com). "As Trump makes explicit the power of money in the contemporary US, he facilitates, stimulates, and circulates enjoyment (jouissance). Trump openly expresses the racism, sexism, contempt, and superiority that codes of civility and political correctness insist be repressed. This expression demonstrates the truth of economic inequality: civility is for the middle class, a normative container for the rage of the dispossessed and the contempt of the dispossessors. The .1 % need not pretend to care." Wonderful lessons for our kids!
+
+Chicago police officer will sue estate of teen he fatally shot (wgntv.com). Because of emotional distress.
+
+Rich Kids Stay Rich, Poor Kids Stay Poor (fivethirtyeight.com). This piece is actually mostly about gender differences in class mobility, which makes it far more interesting than it would be otherwise, since we all know the basic conclusion: upward mobility in the U.S. isn't all it's made out to be (verified many times by many studies). One of the noteworthy takeaways: "Boys who grow up in poor families fare substantially worse in adulthood, in terms of employment and earnings, than girls who grow up in the same circumstances."
+
+A Million People Are About to Lose Food Stamps Because of Kasich-Clinton Welfare Reform (slate.com). Thanks to a bill introduced by John Kasich in 1996, and signed into law by Bill Clinton, people who aren't working 80 hours a month could have their food stamps taken away, starting this month.
+Bernie Thoughts
+@berniethoughts
+IMAGINE AN INSIDE OUT BANANA—TERRIBLE
+2:49 AM - Jan 15, 2016
+1,431
+786 people are talking about this
+Twitter Ads info and privacy
+Thanks for visiting. Be sure to check out prior weeks' Water Coolers (see links at right).
+
+
+❉
+
+Many, many thanks to the fine folks who retweeted me yesterday on "the Twitter" (see below). I love you all. In a non-sexual way. Mostly. Somewhat.
+
+
+
+Buy my books (or I'll shoot this dog):
+Have you added your name to our mailing list?

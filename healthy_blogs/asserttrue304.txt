@@ -1,0 +1,131 @@
+Everybody knows viruses aren't alive; or at least, virions (extracellular viral particles) aren't alive. A virus needs a host in which to multiply. Once inside the host, the virus hijacks host processes to its own ends. So typically, a virus's genome contains genes for capsid proteins, replication enzymes, nucleases for breaking down the host's nucleic acids, proteases for breaking down proteins, and so on.
+
+The last thing in the world you'd expect to find in a viral genome is a bonafide metabolic gene. But guess what? That's exactly what you find in the DNA of certain marine viruses that attack some of the world's smallest algae cells, namely algae of the Ostreococcus and Micromonas varieties.
+
+Electronic microscopy of infected Ostreococcus tauri cells. The bar represents 500 nanometers, in photos A through D; in E and F, the bar is 50 nm. Virus particles are shown with arrows. Chl–chloroplast; Cyt–cytoplasm, n–nucleus, m–mitochondrion, Sg–starch grain. B & C show viruses accumulating in the cytoplasm before cell lysis occurs. In D, virus particles clump together around a lysed cell. In E, a full virus particle is stuck to the cell. F shows an empty particle left on the cell surface after injection of its contents into the cell. From Derelle et al., "Life-Cycle and Genome of OtV5, a Large DNA Virus of the Pelagic Marine Unicellular Green Alga Ostreococcus tauri," PLoS, 2008.
+
+Ostreococcus is unusual in being a full-blown marine eukaryote that's smaller, physically, than some bacteria. At less than a micron in diameter, Ostreococcus has room for exactly one mitochondrion, one chloroplast, a nucleus containing around 13 million base-pairs of DNA, a starch grain, and an overnight bag containing some cytoplasm. It's crowded in there.
+
+It turns out, Ostreococcus is vulnerable to attack by a number of viruses. The viruses are surprisingly large (with around 200K base-pairs of DNA), but the real surprise is what's in the viral genome: a true metabolic gene, pfkA, which encodes the enzyme phosphofructokinase (PFK).
+
+PFK is a key enzyme of glycolysis, the anaerobic energy pathway that converts glucose to pyruvate and ATP. If you ask a biochemist to name an enzyme that's stereotypically metabolic, chances are pretty good she'll name PFK. It's the poster-child of metabolic enzymes.
+
+If you go to http://www.uniprot.org/uniprot/E4WM35 and click the Blast tab, then click the BLAST button, you'll run a search against millions of protein sequences at UniProt.org (using the O. tauri virus PFK protein sequence as a query). What you'll get back is something like this:
+
+
+Top Hits against O. tauri virus 6-phosphofructokinase
+
+Organism
+Length
+%ID
+Score
+E-value
+Gene Identifier
+Ostreococcus tauri virus 2
+282
+100.0%
+1,458
+0.0
+OtV2_159
+Ostreococcus lucimarinus virus OlV4
+282
+91.0%
+1,347
+0.0
+OLOG_00278
+Ostreococcus lucimarinus virus OlV1
+282
+91.0%
+1,344
+0.0
+OlV1_173
+Ostreococcus lucimarinus virus OlV3
+282
+89.0%
+1,323
+0.0
+OMVG_00088
+Ostreococcus lucimarinus virus OlV6
+282
+89.0%
+1,323
+0.0
+OLVG_00080
+Ostreococcus lucimarinus virus OlV5
+282
+89.0%
+1,318
+0.0
+OLNG_00083
+Ostreococcus tauri virus 1
+282
+84.0%
+1,251
+6.0×10-171
+OTV1_172
+Ostreococcus virus OsV5
+282
+83.0%
+1,234
+2.0×10-168
+OsV5_197f
+Ostreococcus tauri virus RT-2011
+286
+55.0%
+808
+1.0×10-103
+OtV6_175
+Micromonas sp. RCC1109 virus MpV1
+287
+51.0%
+764
+5.0×10-97
+MpV1_177
+Micromonas pusilla virus SP1 (MpV-SP1)
+269
+40.0%
+532
+2.0×10-62
+MPXG_00096
+Micromonas pusilla virus PL1
+269
+40.0%
+519
+2.0×10-60
+MPWG_00076
+Actinoplanes friuliensis DSM 7358
+435
+28.0%
+246
+2.0×10-20
+AFR_30340
+Actinoplanes sp. N902-109
+442
+27.0%
+238
+2.0×10-19
+L083_5877
+Paraprevotella clara CAG:116
+325
+30.0%
+229
+1.0×10-18
+BN471_01612
+
+All of these hits except the last 3 are viral PFK proteins. The last 3 organisms in the table (representing the best non-viral hits) are bacteria. Notice that the %ID (percentage of identical amino acids in the protein sequence) quickly drops off as you go from Micromonas pusilla virus to bacteria. Also notice, the viral host organisms are nowhere in sight. The viral PFK does not match the host PFK (meaning, perhaps, that one does not derive from the other, or that they do derive from each other but have diverged so far apart, over the millennia, that they're no longer similar).
+
+There are no other glycolysis enzymes (as far as I know) in the viral genomes. So what on earth is PFK doing there?
+
+Interesting you should ask.
+
+First, it's been known for some time that fructose-1,6-biphosphate (the end product of the reaction catalyzed by PFK) has the effect of delaying cell death in animal tissues. In the cell nucleus, fructose-1,6-biphosphate isn't just a metabolic intermediate, but an important signalling molecule.
+
+When University of Louisville scientists overexpressed PFK in HeLa cells, they observed increased cell proliferation. HeLa cells, like most eukaryotic cells, have several forms of the PFK enzyme, and one is localized to the nucleus. When the nuclear enzyme is overexpressed, it leads to increased expression of several key cell cycle proteins, including cyclin-dependent kinases (proteins that control the mitosis cycle).
+
+When I read about the University of Louisville work, I decided to run a BLAST search against viral genomes using the CDKA1 (cyclin-dependent kinase) gene of Arabidopsis thaliana (a commonly studied plant) as a query, to see if any viruses come with their own CDK enzymes. I got 465 hits (all viral), albeit mostly of low quality (33% identities, best E-value 10-31), for proteins variously identified as "uncharacterized protein," "putative serine/threonine protein kinase," "cyclin-domain fused to serine-threonine kinase," and so on.
+
+Ordinarily I'd dismiss hits of this low quality level as being spurious. But experience has shown that viral enzymes are pretty much always "weak-signal" hits when probed with a non-viral query. In plain English: Viral proteins rarely show much homology with their supposed host orthologs. In this case, I'm willing to believe that a good many of the Arabidopsis CDKA1 hits do, in fact, represent cyclin-dependent kinases encoded by viruses. It's the kind of dastardly thing large DNA viruses are capable of.
+
+Let's put it this way: If no large DNA virus encodes a cyclin-dependent kinase, I'd be very surprised. Viruses are good at figuring out how to prolong the life of a cell that doesn't even know it's dead yet.
+
+Phosphofructokinase proves it.

@@ -1,0 +1,30 @@
+Amazon (AMZN), with stores in Manhattan and at Purdue University, is moving into bricks and mortar. Sears Holdings Corp. (SHLD), fast becoming the Radio Shack of Big Retail, is downsizing. The former should buy the latter.
+
+Sound strange? It shouldn't. Sears, with $31 billion in FY2014 revenues (down $10 billion from the previous year) only looks like it's on the ropes. In reality, they have a CEO who gets it. They've closed their most unprofitable stores. They've found a way to take Sears Canada off the books. They're downsizing remaining stores and co-anchoring them with names like Whole Foods, Nordstrom Rack, Forever 21, and Primark. Remaindered retail space will go into a Sears-managed REIT as Sears gets into the landlord business. Meanwhile, SHLD has a secret weapon: their Hadoop-powered Big Data operation, MetaScale, is in hot demand. People pay Sears to host and analyze retail, eCommerce, gaming, and other data in vast NoSQL silos that mine gold daily.
+
+It would be a mistake to write off Sears prematurely. Anyone who knows the company knows this is a firm that has grappled with transformative change before.
+
+In 1922, Sears Roebuck faced its first existential crisis when Americans, suddenly more mobile and less tied to the farm, began to migrate away from rural America, to urban centers, causing a decline in catalog sales. A new CEO, Robert Wood, realized the value of census data (yes, Big Data, back then) for understanding demographic trends. Sears went from a catalog house (the Amazon of its day) to bricks and mortar, opening its first superstore in Chicago in 1925. In 1927, it launched the Craftsman brand of tools. In 1931, as the Depression deepened, Sears founded Allstate Insurance.
+
+By 1948, Sears reached $1 billion in sales, with employees the single largest stockholder group. The company would prosper, but eventually grow complacent, as malls grew up and shoppers began to turn to other names (Toys R Us, Walmart, Home Depot, etc.) for things they normally bought at Sears. CEO Ed Brennan tried to turn things around in the 1980s, but his move to offer national brands, accept non-Sears credit cards, cut 48,000 jobs, add women’s apparel, streamline the supply chain, and pilot standalone automotive, home furnishing, and home improvement stores all failed to lift flagging sales. In 1992, allegations of fraud beset Sears auto repair facilities, and Hurricane Andrew threw unexpected burdens on its Allstate unit.
+
+After a board shakeup, new CEO Arthur Martinez instrumented the company with Top Performance Indicators to track the employee-customer profit chain in every detail, to learn what works and what doesn't. Through an ongoing process of data collection, analysis, modeling, and experimentation, Martinez and his team turned the company around. After losing $3.9 billion in 1992 on sales of $52.3 billion, in 1993 the company’s merchandising group reported net income of $752 million. The company closed over 100 stores, spent $4 billion renovating the remaining ones, and killed the 101-year-old mail order catalog. Store operations were reengineered, with a renewed emphasis on training, incentives, and elimination of administrative tasks for sales personnel. Staffing was adjusted to put more of the best people in the stores during evenings and weekends, when the best customers were shopping. Sears began offering Sunday deliveries and a long list of new services, including repairs on any brand of appliance. The company’s entire service strategy was revamped.
+
+Whole Foods / Sears shared footprint in Clearwater, Florida.
+Today, Sears faces a new problem: Amazon, and the decline of the mall. Sears Holdings Corporation has begun an appropriate response, spinning off Lands End, divesting itself of many Canadian stores, selling 200 to U.S. 300 stores (in a process that's only just begun) into a REIT, and selling Big Data services to other companies under the MetaScale label. Meanwhile, Sears.com sees 40 million visits a month and its ShopYourWay.com spinoff sees another 4.4 million.
+
+Sears has what Amazon needs: fast-track entree to the world of retail, with preexisting intelligence (in Hadoop-powered NoSQL silos) on the on- and offline spending habits of 100 million customers. SHLD's market cap of just $3.99 billion makes it an attractive target for a buyer with $54.5 billion in assets and $43.7 billion in liabilities (and a need to be able to roll out an asphalt footprint at will). It would be an accretive add for Amazon, but an important one. For $4 billion (give or take), Amazon could grow its top line $30 billion a year (an almost 33% gain, in one fell swoop, whatever a fell swoop is). And who better to manage a cashflow-intensive, margin-thin, data-driven consumer-goods business than Jeff Bezos?
+
+So maybe I'm crazy. Maybe there isn't a chance in hell Jeff Bezos will see the obvious synergies here. And maybe SHLD will amaze us all with its ability to turn the 129-years-old Sears brand around one more time, on its own.
+
+I like to think the two are made for each other. What's your take? Leave a comment.
+
+(Disclosure: The author owns shares of SHLD.)
+
+☙ ❧
+
+I want to thank the following great tweeps for retweeting me yesterday. May you all live long and prosper. (Please follow these guys. They retweet!)
+
+
+
+Pssst! Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? Also please visit HackYourDepression.com when you have a chance, and share the link with someone! 

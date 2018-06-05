@@ -1,0 +1,17 @@
+Julian Wraith (@julesdw) recently challenged CMS pundits to pen a blog post on the future of Content Management. He didn't say whether there was a T-shirt involved. But I decided to take a quick stab at it. The detailed post is at CMS Watch. I'll add a few thoughts here too.
+
+My main observation is that metadata management is really what we mean by content management today. Content is the payload; it's what gets consumed. Metadata determines how the payload is managed. It's what makes the content manageable.
+
+As I point out in the CMS Watch blog post, content, today, is not what we used to think of as content ten or fifteen years ago. Content used to mean document. Then for a while it meant HTML, or the artifacts destined to make up a web page. Now it means whatever it means. Content can be anything. Which is good, because now we don't have to argue over what content is.
+
+One thing almost everyone I talk to agrees on is that content is becoming rich and unruly. It is becoming less structured, more diverse as to composition and mimetype, and ultimately less manageable. Twenty years ago you didn't have such a thing as a PDF file with embedded Flash. Now you do. Ten years ago the Word (.doc) format contained no XML. Now it does. Composite files are everywhere. Ephemeral (consume-once) content is everywhere. Audio and video files are everywhere. That's a lot to manage.
+
+I've been telling anyone who'll listen that if you want to manage content, or design software systems that do, you have to think of content entirely abstractly. Content can be anything. For management purposes, you shouldn't have to know in advance what the content is; your system should be capable of managing any kind of content. It should be able to let you find content, search content, version it, access-control it, workflow it, etc., without knowing or caring that the content is structured, unstructured, flat, hierarchical, text, binary, animal, vegetable, or mineral.
+
+Since content can be anything, it has to be managed through descriptors (metadata). This is an extremely important concept. Ten years ago, you could code the detailed knowledge of how to handle HTML and other web formats directly into a CMS. Today that would be foolish. Even in a Web CMS, the core code should know nothing about HTML. Detailed knowledge about a content type exists in applications and modules living several abstraction layers above the core code. The system itself needs to be mimetype-agnostic.
+
+A file's metadata is the shim between the core CMS and the applications that consume the content. It's the content's interface to the outside world. The metadata describing a piece of content is analogous to the WSDL describing a Web Service. It says "Here's where am I, here's what you can do with me, here's what you need to know about accessing me."
+
+Not to put too fine a point on it, but: Everything you need to know in order to manage a piece of content is, or should be, in its metadata.
+
+In a nutshell: The Future of Content Management is about metadata. But also, the Present of Content Management is about metadata. The future, make no mistake, is here already.6f82f1d2683dc522545efe863e5d2b73

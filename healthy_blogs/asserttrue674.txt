@@ -1,0 +1,19 @@
+The Los Angeles Times story about Google deprecating Gears in favor of "HTML5" got quite a bit of attention in the Twitterverse yesterday, and has the blogosphere abuzz now, as well.
+
+There are several interesting aspects to the story. One is that the name Microsoft doesn't come up at all. Instead, Apple figures rather prominently in the Times story. In fact, the Times's depiction of Google, Apple, and W3C deciding the fate of the post-2.0 Web evokes images of the Big Three debating Europe's postwar reorganization at the Yalta Conference. One gets the (fanciful) impression that Microsoft's future is, to some extent, being decided without anyone from Redmond being present. Of course, that's not quite true. ;)
+
+Another interesting aspect of the Times story is that it talks about HTML5 wrapping the various technologies that will (ostensibly, soon) make Gears superfluous, when technically speaking, many of the functionalities being attributed to HTML5 in the Times story are, in fact, not part of the HTML5 specification at all. They are part of various other WebApps Working Group specs.
+
+Be that as it may, the decision facing the browser-makers at this point is what kind of offline storage to use for browser-mediated web apps. Specifically, will the underlying store support SQL, or not?
+
+This is (trust me) a Huge Hairy Issue -- HHI(tm) -- and don't let the Times or anybody else tell you otherwise: It's far from being settled yet.
+
+HTML5 talks about SQL quite openly. And it appears Opera, Safari, and (soon) Chrome are implementing WebDB, which is a SQL database in the spirit of the (emerging) Web SQL Database spec. But that's not to say WebDB is a traditional SQL database. It implements SQLite, which is another beast entirely.
+
+Know well, though, not everyone wants SQLite -- or SQL, for that matter. In fact, Microsoft's Adrian Bateman has stated that Redmond probably will not go that route. In a WebApp WG teleconference, Bateman said:
+Microsoft's position is that WebSimpleDB is what we'd like to see
+... we don't think we'll reasonably be able to ship an interoperable version of WebDB
+... trying to arrive at an interoperable version of SQL will be too hard
+WebSimpleDB, also known as the Nikunj proposal (in deference to the author, Nikunj R. Mehta, of Oracle Corporation), proposes a key-value store of the NoSQL variety. And interestingly enough, this approach is getting serious consideration not only from Microsoft but from Mozilla as well. (In the aforementioned teleconference, Mozilla's Jonas Sicking said: "We’ve talked to a lot of developers, the feedback we got is that we really don’t want SQL...")
+
+It's too early to know how it will all play out. About the only thing that's certain at this point is that Google has (thankfully) decided it's more important to back-burner proprietary approaches to web-app infrastructure than to stay on board with mainstream industry standards, even if those standards are (in some cases) still quite fluid and ill-formed. One hopes Microsoft will learn this lesson too. Otherwise? Yalta will decide.

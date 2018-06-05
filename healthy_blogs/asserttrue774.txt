@@ -1,0 +1,9 @@
+I recently watched the video explaining the Atlas visual app designer, and all I can say is, I'm favorably impressed. (Pass me another glass of that Kool-Aid, do you mind?)
+
+In a nutshell, Atlas is a visual IDE for Object-J (an interesting subject unto itself), but before you run away screaming, understand that there is no need to learn a new language or deal with raw code unless you want to. Web designers who speak little or no JavaScript (and zero Java) can take this tool a long way. If you do nothing more with Atlas than use it to prototype user interfaces, you'll be way ahead of the game. It looks like a fine RUID tool (Rapid UI Design).
+
+One of the striking things about Atlas is its own user interface. Watch the video. You'll notice that the user gestures for creating layouts and linking controls (buttons, etc.) to actions are simple and intuitive. (Pay special attention to the slider demo.) Some of the gestures and methodologies are used in other products, of course, but they've been integrated very effectively in Atlas. The overall effect is powerful.
+
+This is the kind of UI that people in the Web Content Management System business (and others who need to give users a simple way to lay out web pages, forms, and dialogs) need to study carefully, in my opinion.
+
+The only bad thing about Atlas: It isn't available for download yet; it will supposedly be released this summer (you can sign up for news announcements here). It will be interesting to see what people create with it.

@@ -1,0 +1,5 @@
+Upon joining the Canvas Developer's Group a few minutes ago, I caught wind of the (astonishing) fact that Google has hacked a <canvas> compatibility layer for IE users, essentially finishing work that was begun a few months ago by Emil A. Eklund. The hack, ironically, relies on VML (the IE-only graphics API that went largely ignored). A similar VML-based effort to bring SVG support (sans Adobe) to IE is being pursued by Mark Finkle.
+
+The full Google <canvas> compatibility script is at http://www.abrahamjoffe.com.au/ben/canvascape/canvas.js.
+
+Test it out on Canvascape.

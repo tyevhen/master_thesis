@@ -1,0 +1,26 @@
+When does some public good override psychiatric confidentiality? Dinah's post yesterday outlined the recent issue in the Navy's public release of the shooter's psychiatric treatment information. I wrote about this issue before following the release of the expert behavioral analysis panel's report on the suspected anthrax mailer, Dr. Bruce Ivins. In both cases, the rationale for releasing detailed information about the decedent's psychiatric care was cited as being a need to ensure that the government was taking appropriate steps to safeguard public safety. Following release of the EBAP report, the government---without admitting fault---agreed to pay 2.5 million dollars to the widow of the first anthrax victim.
+
+As I commented on Dinah's post, in Maryland there is an extensive list of statutory execeptions to medical confidentiality:
+with a patient's written consent
+upon receipt of a valid court order or subpoena
+in emergency situations
+when a patient is dangerous
+in cases of child abuse
+during civil commitment proceedings
+when the clinician is under investigation for fraud, abuse, or other criminal activity
+when the patient puts his mental state at issue in a civil or criminal case
+during hospital review, for quality control
+when billing for payment, with patient's written consent
+in case of an HIV-positive patient's high risk behavior
+when the patient is incarcerated in an adult or juvenile correctional facility
+when an involuntary patient elopes from a hospital
+if an interested party files a missing persons report on a patient
+if a patient is being served legal notice (process servers)
+as part of a death investigation (release to medical examiner)
+That last bit, death investigation, is what allows a facility or institution (or government branch in the case of the Navy shooter) to access postmortem records in most cases. Internal quality control and quality assurance are necessary processes that any health care system has to have. That being said, the results of a morbidity and mortality conference are not typically public documents.
+
+In the case of the anthrax investigation, the EBAP report was originally sealed which meant that the report could not be read or redistributed by anyone without an explicit order from the court. The FBI, through the Department of Justice, was able to have the report unsealed. The results of the investigation were announced at a press conference and the report was put up for sale on the internet. Although the panel was careful to state that information drawn from medical records was redacted, the report gives explicit descriptions of Dr. Ivins' treatment history and psychiatric issues and strongly implies he had several motives to commit the crimes, although he was never indicted or convicted.
+
+The parallels to the release of the Navy shooter records are a little uncanny. In both cases, the rationale for releasing the information is to address public concern that any preventive steps that could have been taken, were taken. However, there is also a strong whiff of CYA in both cases. After incorrectly accusing Dr. Steven Hatfill as the anthrax mailer the government was under pressure to close the case. After the EBAP press conference many media outlets published stories that Ivins was, in fact, the perpetrator.
+
+Postmortem review is a necessary part of any health care system. However, I think we need to be clear that public release of that review should be subject to more stringent limitations.

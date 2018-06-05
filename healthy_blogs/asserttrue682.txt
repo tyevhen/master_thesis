@@ -1,0 +1,28 @@
+Talked to the Lucid Imagineers a short while ago. Lots of neat stuff going on with respect to Solr 1.4. It seems Matthias Epheser's SolrJS (a JavaScript library for creating user interfaces to Apache Solr) has been forked and reincarnated as AJAX Solr. The SolrJS library (originally a Google Summer of Code project) had dependencies on jQuery. To their credit, the Solr team decided that being chained to someone's choice of a single rather large AJAX framework might not be such a good thing in every user's eyes. AJAX Solr, by contrast, is JavaScript framework-agnostic, thus can be used in conjunction with jQuery, MooTools, Prototype, Dojo, or any other framework that implements AJAX helper objects. The programmer who uses AJAX Solr only has to define a Manager object that extends the AbstractManager object, implementing an executeRequest() method. A jQuery-compatible Manager looks like the following (code available at managers/Manager.jquery.js):
+AjaxSolr.Manager = AjaxSolr.AbstractManager.extend({
+  canAddWidget: function (widget) { 
+    return widget.target === undefined || 
+ jQuery(widget.target) && jQuery(widget.target).length;
+  },
+   /**
+   * @see http://wiki.apache.org/solr/SolJSON#JSON_specific_parameters
+   */
+  executeRequest: function (queryObj) { 
+    var queryString = this.buildQueryString(queryObj);
+     // For debugging purposes
+    this.queryStringCache = queryString;
+     var me = this;
+    if (this.passthruUrl) {
+      jQuery.post(this.passthruUrl + '?callback=?',
+   { query: queryString },
+   this.jsonCallback(), 'json');
+    }
+    else {
+      jQuery.getJSON(this.solrUrl + 
+     '/select?' + queryString + 
+     '&wt=json&json.nl=map&json.wrf=?&jsoncallback=?', 
+     {}, this.jsonCallback());
+    }
+  }
+});
+bookmark and share this

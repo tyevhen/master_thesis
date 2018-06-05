@@ -1,0 +1,57 @@
+There was the usual furor in the press earlier this week about a CDC Study that suggested that ADHD diagnoses have spiked up to 11%.  A previous post on this blog suggests that the real prevalence of ADHD is closer to 6-8%.  The  press predictably implicates overdiagnosis, overprescribing, a Big Pharma based culture that suggests there is a pill for everything, and of course the DSM5 – even though it has not yet been released.  What is really going on?
+
+Before getting into my theories let me express my profound disappointment in the Centers for Disease Control (CDC).  As far as I can tell they have no actual research document on this issue, at least they did not sent me that document or link when I requested it.  The closest I can come is the web page that suggests that it may contain the data.  You can find for example – the full text of the survey that was used for this data.  If you are interested in that actual data that lists several data files that require specialty software.  So we apparently have a “scoop” by the New York Times based on getting and analyzing the data files and other interested people (like me) do not have access to the original data.  That is really not acceptable for a government funded agency.  If I am wrong here – please send me the link or the raw data, but I am very clear that the CDC did not respond to my direct request for clarification and they always have in the past.
+
+Rather than debate the limitations of the study which is not possible because there apparently is no published version of the study, the easiest thing to do is accept that the increase is diagnoses as estimated by surveys is in fact true and go from there.  When I think about drugs that are truly overprescribed by comparison, the first class that comes to mind is antibiotics.  This trend is so well known that the CDC has run a campaign about it since 1995.  There is some consensus that progress has been made but a recent commentary describes the overall effort as a failure with antibiotic overuse as high as 50-100% in some areas and suggests a comprehensive strategy.  The table below highlights a few problems especially with regard to treating infections caused by viruses with antibiotics in the past two years.
+
+Problem
+Findings
+Reference
+Acute sinusitis
+3 million outpatient visits/yr in US
+Antibiotics prescribed in 83% of visits
+50% of patient diagnosed received a macrolide or quinolone and only 20% received amoxicillin – the recommended drug
+Fairlie T, Shapiro DJ, Hersh AL, Hicks LA. National Trends in Visit Rates and Antibiotic Prescribing for Adults With Acute Sinusitis.Arch Intern Med. 2012;172(19):1513-1514.
+Acute Strep Pharyngitis
+56% received an antibiotic and only 19.5% had a confirmed diagnosis
+Nakhoul GN, Hickner J. Management of Adults with Acute Streptococcal
+Pharyngitis: Minimal Value for Backup Strep Testing and Overuse of Antibiotics. J Gen Intern Med. 2012 Oct 6.
+
+Febrile Respiratory Illness (AFI)
+The context (number of cases recently seen and pandemic status) affected whether or not physicians prescribe antibiotics for AFI.
+Courtney Hebert, Jennifer Beaumont, Gene Schwartz, Ari Robicsek; The Influence of Context on Antimicrobial Prescribing for Febrile Respiratory IllnessA Cohort Study. Annals of Internal Medicine. 2012 Aug;157(3):160-169.
+Unnecessary fluroquinolone use in hospitalized patients
+39% of fluroquinolone use was unnecessary as defined as excessive duration of therapy or use for non bacterial infection.
+Werner NL, Hecker MT, Sethi AK, Donskey CJ. Unnecessary use of fluoroquinolone
+antibiotics in hospitalized patients. BMC Infect Dis. 2011 Jul 5;11:187. doi:
+10.1186/1471-2334-11-187.
+
+
+A direct comparison of antibiotic over prescription and the possible over prescription of stimulants is instructive from several perspectives.  It may not be obvious but a clinician faced with whether or not a patient has a bacterial infection or whether they have ADHD has similar problems.  In both cases, the therapy may precede the diagnosis.  By that I mean it is often impossible on purely clinical grounds to determine whether an infection is caused by bacteria or the patient's behavioral or cognitive complaints are cause by ADHD.  If at the end of an assessment the physician comes to the conclusion of bacterial infection or ADHD a medication is prescribed.  Nobody makes a probability statement and there is often the element of an “empirical trial” – if the patient improves the treatment and the diagnosis were correct.   Since any misdiagnosed viral infections will usually improve and most people given stimulants will experience cognitive enhancement whether they have ADHD or not – the empirical trial is a highly flawed approach but one of many biases in an area of diagnostic uncertainty.
+
+Another issue is the expectations of the patient.  Pediatricians often face irate parents if they don’t prescribe antibiotics for certain infections that are likely to be viral.  Internists and family physicians face the same problem explaining why acute bronchitis generally does not require antibiotic therapy.  Patients often have stories about multiple antibiotic failures to treat their bronchitis when it is likely that the process was viral and happened to resolve on its own after the most recent antibiotic trial.  Many patients taking stimulants for no clear reason have similar reactions when their use of stimulants is questioned.
+
+There is the issue of complications of both therapies.  I do think that the potential harm of antibiotic overprescribing far exceeds the harm of stimulant overprescribing and that is the basis for the CDC having an initiative in this area for nearly 20 years.  On the basis of acute complications and medical side effects stimulant medications are some of the safest around.  On the other hand, I have also treated stimulant abusers who were routinely taking several times the recommended dose for years or who went on to use cocaine or other stimulants regularly and had the expected complications from addiction.
+
+An important area of divergence between these classes of prescription drugs is the potential for addiction with stimulant medications and the new cultural movement that has been described as “cognitive enhancement”.  Both of these factors add the dimension that patients can misrepresent themselves to physicians with the intent of getting a stimulant prescription.  That does not happen with antibiotics, but the scope of the problem in terms of which drug is overprescribed more seems decidedly in favor of antibiotics at this time.  That does not bode well for the potential for even higher rates of stimulant overutilization in the future and in fact it seems obvious to me that there is no reason why it would not rise to at least the same level of antibiotics.
+
+The reaction to these parallel problems in the press is instructive.  Rather than seeing the possible over prescription of medications as a problem inherent in the practice of medicine (like antibitotics) – a common reaction in the press is that this is a problem with over diagnosis and leaps to suggesting that the unreleased DSM5 will lead to even more diagnoses.  They quote several experts who respond strictly on the issue of whether the numbers are “real” or not.  The Director of the CDC – Thomas R. Frieden, MD makes an accurate comparison of the problem to both antibiotics and pain medications but concludes:  “The right medications for A.D.H.D., given to the right people, can make a huge difference. Unfortunately, misuse appears to be growing at an alarming rate.”  Clear diagnostic criteria for bacterial infections has not been the solution nearly 20 years of antibiotic over prescribing.  From what we know about trends in overprescribing, I would expect stimulant prescriptions to continue to increase irrespective of the release of the DSM5.  It will prove to be an easy scapegoat for a poorly understood problem.
+
+The unfortunate focus of the New York Times article is the familiar: “Are drugs good or bad?”  The appropriate focus for physicians is focusing on the process and how individual and group practices can be modified to reduce overprescribing.  In most cases that would involve four additional steps – a discussion of cognitive enhancement and why it is not a good idea, screening for an addiction diagnosis, making sure that there is a clear level of functional impairment, and urine toxicology.  The effects of an assembly line approach to managing physicians and inadequate time for complex diagnostic thinking cannot be minimized.  A central collaborative model used by the University of Wisconsin for the diagnosis and treatment of dementia could be adapted to a network of clinics to treat ADHD.  This could provide the best solution to practice drift and provide clear markers for uniform prescribing.
+
+George Dawson, MD, DFAPA
+
+
+Allen Schwartz, Sarah Cohen.  ADHD Seen in 11% of US Children as Diagnoses Rise.  NYTimes March 31, 2013.
+
+Merikangas KR, He J, Rapoport J, Vitiello B, Olfson M. Medication Use in US Youth With Mental Disorders. JAMA Pediatr.2013;167(2):141-148. doi:10.1001/jamapediatrics.2013.431.
+
+Rubin D. Conflicting Data on Psychotropic Use by Children: Two Pieces to the Same Puzzle. JAMA Pediatr. 2013;167(2):189-190. doi:10.1001/jamapediatrics.2013.433.
+
+Fairlie T, Shapiro DJ, Hersh AL, Hicks LA. National Trends in Visit Rates and Antibiotic Prescribing for Adults With Acute Sinusitis.  Arch Intern Med. 2012;172(19):1513-1514. doi:10.1001/archinternmed.2012.4089
+
+Gonzales R, Ackerman S, Handley M. Can Implementation Science Help to Overcome Challenges in Translating Judicious Antibiotic Use Into Practice?: Comment on “National Trends in Visit Rates and Antibiotic Prescribing for Adults With Acute Sinusitis” and “Geographic Variation in Outpatient Antibiotic Prescribing Among Older Adults”. Arch Intern Med.2012;172(19):1471-1473. doi:10.1001/2013.jamainternmed.532
+
+Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC. Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science. Implement Sci. 2009 Aug 7;4:50. doi: 10.1186/1748-5908-4-50. PubMed PMID: 19664226; PubMed Central PMCID: PMC2736161.
+
+Hebert C, Beaumont J, Schwartz G, Robicsek A. The influence of context on antimicrobial prescribing for febrile respiratory illness: a cohort study. Ann Intern Med. 2012 Aug 7;157(3):160-9. doi: 10.7326/0003-4819-157-3-201208070-00005. PubMed PMID: 22868833.

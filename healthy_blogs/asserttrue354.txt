@@ -1,0 +1,6 @@
+Do men and women use language differently in the real world? It may seem obvious, but yeah, they do, at least on Facebook. A recent paper in PLoS sheds light on the issue. I thought the following graphic was interesting. (Click it to get a bigger version.) The data come from 75,000 users of Facebook.
+
+
+Language usage by women is depicted above, with male vocabulary below. The size of the word indicates the strength of the correlation whereas color indicates relative frequency of usage. Underscores connect words of multiword phrases. Words and phrases are in the center; topics, represented as the 15 most prevalent words, surround.
+
+The paper from which this diagram comes, "Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach," by Schwartz et al. (Univ. of Pennsylvania and Univ. of Cambridge), contains a good many additional great nuggets of information, including a great set of graphs showing (among other things) how hate words correlate with age. The unsurprising result: Hate words go down as age goes up. Also interesting: Older people talk more about the future. The older you are, the more future-oriented you become. This makes sense. When you're young, you don't think about the future quite as much. Why should you, when you're going to live forever?

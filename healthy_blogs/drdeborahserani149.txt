@@ -1,0 +1,90 @@
+Excerpts from Insure.com
+
+~~~~~~~~~~~~
+
+Do you ever feel that when it comes to your health plan the deck is stacked against you? That's because there are many things your health insurer doesn't want you to know.
+
+Here are just 13 of them.
+
+1. It is sometimes cheaper to let you die rather than to treat you for a serious condition.
+
+Health insurers don't deny care, they deny payment which usually amounts to the same thing. Denying payment saves them money, but sometimes cause patients' deaths. Sound outrageous? Consider the statement below. It's an excerpt from the May 30, 1996, testimony given before the United States House of Representatives by Dr. Linda Peeno, a former HMO medical director and medical claims reviewer for Humana and Blue Cross and Blue Shield of Kentucky. Peeno is now a medical-ethics consultant and managed care whistleblower.
+
+
+Whether it was nonprofit or for-profit, whether it was a health plan or hospital, I had a common task: using my medical expertise for the financial benefit of the organization, often at great harm and potentially death, to some patients. . . . I am the evidence that managed care is inherently unethical, in the areas of both medicine and business. Had my experiences been the result of merely local aberrations, I would not have had anything to do for the past six years. On the contrary, I discovered that my experiences are standard practice and quite ordinary for the managed care business."
+
+
+2. Health insurers routinely hide benefit exclusions.
+
+Health insurers make their covered benefits as narrow as the market allows and routinely redesign benefits to control their highest costs, according to Peeno. They also use deceitful policy language to hide exclusions.
+
+Some dental plans, for example, cover accidental injury to teeth. If you bite down on a hard candy and your tooth partially crumbles, you believe the insurer will pay to fix it. But when you submit your claim, it's denied weeks later. That's when you discover the policy's "definition of terms" section states in fine print: "Injury to the teeth while eating is not considered an accidental injury."
+
+
+3. Health insurers don't really want you to understand how your health plan works.
+
+Health insurers use marketing that enhances the attractive elements of a plan, but they don't disclose potential plan problems. Most group health insurance members have no idea of their exact coverage limits or a plan's rules until they received a benefit booklet after the open enrollment period.
+
+
+
+4. Health insurers employ "phantom networks."
+
+Did you ever try to switch primary care physicians within your plan's provider network only to find out that many of the doctors named on the provider list are not accepting new patients? Then you have fallen prey to a health insurer that uses a "phantom network," a directory filled with doctors who are no longer with the plan or who are not taking new patients. Health insurers leave the names on the list to make it look as if they have a large number of available doctors.
+
+
+5. Health insurers can make you "split" your pills.
+
+You may be surprised one day when you fill your prescription and discover a pill splitter inside the bag along with a bottle of larger-dose pills that you must cut in half. Mandatory pill splitting has been condemned by the American Medical Association (AMA), the American Society of Consultant Pharmacists (ASCP), and the American Pharmaceutical Association (APhA) due to the health risks involved. These include the chance that patients will divide the pills unevenly and wind up taking incorrect doses or, because some suffer from cognitive impairments, they may forget which pills should be split.
+
+
+6. Health insurers will go after your auto insurance settlement.
+
+It's legal in most cases for health insurers to place a lien on any third-party settlement money you get from an auto insurer after an accident. This practice, known as "subrogation," simply means "substituting one for another."
+
+Health insurers are allowed to recoup the cost of your medical care from the settlement you receive from the person who injured you. For example, if your auto accident medical expenses total $5,000 and you win a $10,000 settlement, your health insurer can take half — but only if its "rights of recovery" are spelled out in your plan agreement or summary of benefits. There have been many court cases over this practice, and the issues aren't clear-cut. You do have the option of hiring an attorney (at your own expense) to fight your health insurer's subrogation demands.
+
+7. Health insurers purposefully delay paying claims in order to maximize their profits.
+
+Although 46 states have prompt-pay laws, those laws apply only to "clean claims," or claims submitted to them without any missing or wrong information. The problem is, according to Peeno, health insurers create a maze of payment-submission rules that guarantee there will be many "technical" denials for missing information or failure to follow the convoluted claims-submission procedures.
+
+Why do insurers drag their feet on paying claims? When you pay your insurance premium, it is invested in interest-bearing accounts. An insurer delays your claim payment until the interest in these accounts is sufficient to pay the company's accumulated claims without cutting into its profit margin.
+
+8. Your doctor isn't calling the shots.
+
+Do you know whose guidelines your health insurer follows when approving the length of your hospital stay? Your doctor, right? Wrong. Your insurer is most likely using guidelines developed by an actuarial consulting firm such as Milliman & Robertson.
+
+The use of Milliman & Robertson data to limit patients' care (and increase revenue) is just one of the allegations brought forth in a lawsuit filed by the state medical associations of California, Georgia, and Texas in U.S. District Court in Miami that accuses a nine health plans (Aetna Inc. and its Prudential unit, CIGNA Corp., Coventry Health Care Inc., Foundation Health Systems, Humana Inc., PacifiCare Health Systems, United Health Group, and WellPoint Health Networks) of violating federal racketeering laws.
+
+
+9. You don't have to pay out-of-network charges when they're not your fault.
+
+Even when you've followed all the HMO rules, you still sometimes end up with a bill for out-of-network charges. But is it your responsibility to pay the doctor's fee for an out-of-network radiologist who read your hospital X-ray because no in-network radiologist was available?
+
+No, you most certainly do not. A patient can select an in-network primary care physician and in-network hospital. Other than that, you have no control of who else gets involved with your care within the hospital setting.
+
+If this happens to you, raise an uproar. Appeal the insurer's payment decision. File an official complaint with your state insurance department.
+
+10. Health insurers make a fine distinction between "emergency" and "urgent" care.
+
+Your health insurance policy probably contains a clause stating you will not be billed for emergency room services if those services are eligible under "The Prudent Layperson Standard" for emergency room visits. These visits have been defined as medical, maternity, or psychiatric emergencies that would lead a "prudent layperson" (an average person) to believe that a serious medical condition exists or the absence of immediate medical attention would result in a threat to the person's life, limb, or sight. This includes situations where an individual is in severe pain.
+
+But in some health plans, conditions such as a broken hip are not classified as conditions that require emergency care. They are classified as "urgent" conditions and you must call your primary care physician to get authorization to visit the emergency room.
+
+"The devil is in the details," says Robert D. Finney, a former manager for health-care cost containment at the Hewlett-Packard Co. and author of HMO Hardball, a consumer self-help book. "HMOs hide the details in incomprehensible self-serving contracts written by HMO lawyers to take advantage of sick and disabled patients."
+
+11. Health insurers don't want you to know how they come up with their prices.
+
+Would you shop at a grocery store where none of the merchandise had price labels? Of course not, but many health insurers use a pricing practice known as "UCR," which stands for "usual, customary, and reasonable," to determine how much of a claim they will pay. As the name says, these charges are supposedly the "going rate" health care providers in your area charge.
+But a consumer can't get UCR prices to dispute a claim payment or to compare plans. Even court orders have done little to force insurers to supply the formulas that they say they use to devise UCR rates, claiming it's proprietary (or secret) business information.
+
+
+12. Health insurers don't want you to take your grievance outside the health plan.
+
+Every health plan has an internal grievance process, but insiders say many are reluctant to let you know that many states have also implemented laws governing external appeals that in certain cases give you the right to a review by an independent board of qualified experts. If the appeal is determined in your favor, your insurance company cannot deny your claim.
+
+Additionally, insiders say few health insurers let you know that if you file a grievance with your state insurance department, insurance regulators are bound by law to investigate all consumer complaints that fall under their jurisdiction.
+
+
+13. Health insurers don't want you to know that some of their practices violate laws.
+
+Although 46 states have prompt-pay laws, insurers still violate them flagrantly enough to set off lawsuits and insurance department investigations that often lead to fines. The majority of these are settled quietly. Insiders say what health insurers really fear are the massive class action lawsuits that ask the courts to force the insurers to repay all the money they have gained from these practices.

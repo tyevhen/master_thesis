@@ -1,0 +1,58 @@
+In 2014, nearly 21,000 deaths in the U.S. involved prescription opioids. Here's what @POTUS is doing about it: https://t.co/M2HgnDDN6a
+— The White House (@WhiteHouse) March 29, 2016
+
+
+I happened to be on Twitter last night when I caught the above Tweet from POTUS.  Having a professional interest, I decided to follow the link at the White House blog to look at the proposed measures.  They were listed as:
+
+1.  Increasing a key drug for medication assisted treatment.  That key drug is buprenorphine in a number of formulations for treating severe opioid dependence.
+
+2.  Preventing opioid overdose deaths.  This appears to be $11 million in funding for various forms of treatment and increasing access to naloxone to reverse the effects of an acute overdose.
+
+3.  Addressing substance use disorder parity with other medical and surgical conditions.
+
+These are very modest and in some cases unrealistic proposals about about trying to stop a drug epidemic that is killing 20,000 people a year.  Let me tell you why:
+
+
+
+1.  Increasing a key drug for medication assisted treatment.  That key drug is buprenorphine in a number of formulations for treating severe opioid dependence.
+
+Buprenorphine as Suboxone and Subutex have been available for the treatment of opioid addiction in the US since 2002.  The current evidence suggests that buprenorphine has superior efficacy for abstinence from opioids and retention in treatment.  There is also evidence that patients on buprenorphine have fewer side effects and that they is a less severe neonatal abstinence syndrome in mothers maintained on buprenorphine versus methadone.   Buprenorphine is also used for acute detoxification and treatment of chronic pain.  One of the limitations of maintaining opioid addicts on buprenorphine is that a special license is required to prescribe it.  Physicians can obtain that license by by attending CME or online courses.  Even then, expansion to primary care physicians has been slow because they may have no colleagues in their practice with similar certification and that makes on call coverage problematic.  In addition, many clinics that are medically based are reluctant to provide this type of service to people who have opioid addictions.  Apart from the technical requirements of prescribing the various preparations of buprenorphine certain physician and patient characteristics may also be important.  Physicians have to be neutral and not overreact in situations where the patient exhibits expected addictive behaviors that may include relapse.  As an example, younger opioid users are frequently ambivalent about quitting and in some cases, use other opioids and reserve the buprenorphine for when their usual supply dries up.  They may sell their buprenorphine prescription and purchase opioids off the street.  It may not be obvious but physicians prescribing this drug need an interpersonal strategy on how they are going to approach these problems.    On the patient side,  there is the biology of how the opioids have affected the person.  Do they have severe withdrawal and ongoing cravings?  What is their attitude about taking a medication on an intermediate or long term basis in order to treat treat the opiate addiction?
+
+In clinical trials, buprenorphine seems to be ideal medication for medication assisted treatment (MAT) of opioid dependence.  Like most medications, there are issues in clinical practice that are not answered and possibly may never be answered.  The issue of life-long maintenance is one.  Many people with addictions are concerned over this prospect.  Long term maintenance with buprenorphine has advantages over methadone in that it is easier to get a prescription rather than show up in a clinic every day to get a dose of methadone.  Most addicts are aware of the fact that withdrawal from both compounds can be long and painful.  This deters some people from trying it and relapse risk is high if a person attempts to taper off of it.  Despite the current consensus about use. there is still the problem of young addicts who feel that they are "not done using" and who go between using heroin and other opioids obtained from non-medical sources and buprenorphine.  
+
+2.  Preventing opioid overdose deaths.  This appears to be $11 million in funding for various forms of treatment and increasing access to naloxone to reverse the effects of an acute overdose.
+
+Naloxone kits that would allow for rapid reversal of opioid overdoses have been shown to be effective in partially decreasing the death rate.  At some treatment and correctional facilities opioid users are discharged with naloxone kits for administration in the event of an overdose.  Opioids are dangerous drugs in overdose because they suppress respiration and that can lead to a cardiac arrest.  There are several properties of opioids that heighten the overdose risk.  Tolerance phenomena means that the user eventually becomes tolerant to the euphorigenic and in some cases therapeutic effects of opioids and needs to take more drug.  If tolerance is lost when the user is not taking high doses for a while, using that same high dose can result in an overdose.  Taking poorly characterized powders and unlabelled pills acquired from non-medical sources compounds the problem.  The exact quantity of opioid being used is frequently unknown.  Adulterants like fentanyl - a much more potent opioid can also lead to overdoses when users do not expect a more potent drug.
+
+In addition to the pharmacology of the drugs being used there is also a psychological aspect to overdoses.  Users often get to the point where they don't really care how much they are using in order to get high.  They will say that they are not intentionally trying to overdose, but if it happens they don't care.
+
+The available literature on making naloxone available suggests that it is effective for reversing overdoses in a fraction of the at risk population that it is given to.  I would see at as the equivalent of an Epi-pen in that the majority of patients with anaphylactic reactions get these pens refilled from year to year but never use them.  When they are required they are life-saving.  The problem with a naloxone kit is that it assumes a user or bystander can recognize an overdose and administer naloxone fast enough to reverse the effects of opioids before the user experiences serious consequences.  Unfortunately addiction often leads to social isolation and not having a person available makes monitoring for overdoses much more problematic.  Naloxone kits should always be available opioid users, first responders, family members, and anyone involved in assisting addicts.  Detailed long term data on the outcomes over time is needed.  
+
+
+3.  Addressing substance use disorder parity with other medical and surgical conditions.
+
+The is the most critical aspect of the President's tweet.  One of the main reasons for this blog is to point out how people with addictions and severe mental illnesses have been disproportionately rationed since the very first days of managed care - now about 35 years ago.  Some of the first major changes involved moving medical detoxification out of hospitals.  So-called social detoxification was available with no medical supervision.  These non-medical detox facilities were very unevenly distributed with only a small fraction of the counties in any state running them.  Any admissions to hospitals were brief and "managed" by managed care companies.  In the case of addictions some of the management practices were absurd.  A standard practice was to determine how many days a person could be in residential treatment.  That often required a call to an insurance company nurse or doctor who had never seen the patient.  They could determine that the patient could be discharged at any time based on arbitrary criteria.  In some cases that involved just a few days and the patient was leaving with active cravings and in some cases an an active psychiatric disorder.  This practice continues today, despite party legislation that suggests that addictions and mental disorders should be treated like any other medical problem.
+
+This is where the President's tweet is on very shaky ground.  His legislation  focuses on large systems of health care and yet these systems don't seem to be able to supply adequate treatment with either buprenorphine or naloxone kits.  The President is fully aware of the The Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008 (MHPAEA).  That act was supposed to provide equal treatment for mental illnesses and addictions that was on par with medical and surgical conditions.  I think it is no secret that special interests have shredded the intent of this bill to the point that it is useless.  Managed care systems still ration care for these disorders in their best financial interest.  The resources for treating these disorders are still not equal to the task. In the case of prescription painkillers the same system of care not providing adequate treatment for addiction is often where that addiction started.
+
+All three of the President's points could be addressed by forcing health care companies to provide adequate care for addictions and mental illnesses instead of grants to provide services that they should be doing in the first place.  In an interesting recent twist the President (1) suggested that this discrimination was based on race.  He implied that as a result the police rather than doctors have been used to address the problem.
+
+Let me be the first to say that President Obama is wrong.  There is no doubt that racial discrimination exists.  There is no doubt that it occurs in systems of health care (2,3).  There is also no doubt that all it takes is a diagnosis of addiction or mental illness to trigger highly discriminatory health care coverage - irrespective of a person's race.  It is all about how health care businesses make money in this country by rationing or denying treatment for these disorders.
+
+To reverse that discrimination,  the government needs to take the MHPAEA seriously.  So far they have failed miserably and that is the problem on the treatment side in trying to address the opioid epidemic.  
+
+
+George Dawson, MD, DLFAPA
+
+
+References:
+
+1:  Sarah Ferris.  Obama: 'We have to be honest' about race in drug addiction debate.  The Hill March 29, 2016.
+
+2:   Eddie L. Greene, MD and Charles R. Thomas, Jr, MD.  Minority Health and Disparities-Related Issues: Part I.  Medical Clinics of North America July 2005; 89(4).
+
+3:   Eddie L. Greene, MD and Charles R. Thomas, Jr, MD.  Minority Health and Disparities-Related Issues: Part II.  Medical Clinics of North America July 2005; 89(5).
+
+
+
+  

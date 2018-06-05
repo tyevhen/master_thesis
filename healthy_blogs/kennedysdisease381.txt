@@ -1,0 +1,21 @@
+This post has nothing to do with Kennedy’s Disease or exercise or coping with disease. This is about survival in the world of technology.
+
+I have had computers since the days of the IBM AT with DOS operating system, 256k of memory, one floppy drive and a ten megabyte hard drive. When I bought my first computer I was told I would never fill up the hard drive. How things change. Today I have a 500 gigabyte hard drive, 4 gigabytes of memory, a quad-four processor, a read/write CD/DVD optical drive ... I think you get the point.
+
+In all the years I have been computing I have never lost a hard drive. Okay, let me correct that. Until Monday of this week I had never lost a hard drive. Fortunately, I have always backed up my entire hard drive daily to an external drive and to the ‘cloud’. Since my current computer is used mainly for Kennedy’s Disease Association work, I always felt redundancy was important.
+
+My Dell Vostro 420 has been a workhorse for three years without one problem. Like anything, however, it can break down. As soon as I saw an error message in the Acronis Drive Monitor program I called Dell. They tried several options before deciding my drive had to be replaced. Dell shipped the replacement drive out with one day’s service (great). I immediately began sweating bullets ... thinking the worst, but hoping for the best.
+
+After the new drive was installed, I really became nervous. I did
+not have a lot of confidence that my Acronis True Image backup software would do what it was supposed to do. I loaded the software from its CD and began to say a prayer. Fortunately for me, the software was designed to be intuitive and after a few clicks of the mouse, it started to restore my data.
+
+A message appeared and said that it would take 58 minutes. I had breakfast and took my dog for a walk. When I returned, the message on the screen said, “A reboot is required ... reboot now?” As the program shut down my focus remained on the screen wondering and hoping that everything would work when it started back up. My confidence level was still in the 50% range, however.
+
+AMAZING! MIRACULOUS! FANTASTIC! My entire operating system and all my data and configurations were restored without a hitch. I was fully operational with one hour. 
+
+I cannot even begin to imagine how long it would have taken to reinstall my drivers, reconfigure my hardware and operating system, download the Microsoft Updates and the dozens of programs and as well as their updates, etc. if I had only saved ‘My Documents’.
+
+I believe I paid $29 several years ago for Acronis True Image and $75 for my external hard drive. Those two items turned out to be one of the best investments I have ever made.
+
+The message for today is ...
+BACKUP – BACKUP – BACKUP

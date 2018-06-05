@@ -1,0 +1,14 @@
+Emil Kraepelin (1856-1926), who coined the term "manic depressive," found that in contrast to patients suffering from dementia praecox (schizophrenia), those suffering manic depression had a relatively good prognosis, with 60% to 70% of patients suffering only one attack and attacks lasting, on average, seven months.
+
+Modern drug trials for antidepressants seldom take into account the fact that people with depression often get better on their own. The typical randomized controlled trial (RCT) has a placebo arm and a treatment arm, but no non-placebo/non-treatment arm (otherwise known as a wait-list arm). It's commonly assumed that people who get better on placebo, in drug trials, are experiencing the placebo effect when in reality a certain number of people just get better on their own even without placebo. Hence, the placebo effect is almost certainly overstated.
+
+But do people really get better on their own? In the Netherlands, researchers looked at the progress of 250 patients who had reported an episode of major depression. Two thirds of the patients were female and for 43%, it was a recurrent episode. Some patients sought treatment at the primary-care level; others sought mental-health-system care; others sought no care. The researchers found that the overwhelming majority of patients recovered (defined as "no or minimal depressive symptoms in a 3-month period"), regardless of the level of treatment.
+
+A 2002 study in the Netherlands found that people with depression tend
+to get better regardless of level of care. See text for discussion.
+
+The median duration of major-depressive episodes was 3.0 months for those who had no professional care, 4.5 months for those who sought primary care, and 6.0 months for those who entered the mental health care system. (It's not told what percentage of patients who sought care took meds, but for this discussion it doesn't matter. The point is, most people do get better, one way or another.) The differences in mean episode duration may reflect severity (no data were given for this). The people who recovered quickly on their own may have done so because they were less depressed. It stands to reason that those who sought help at the mental-health-system level were probably more depressed, hence took longer to recover.
+
+In any case, the point is that today, as in Kraepelin's time, many depressed patients recover, with or without medical intervention, because that's the nature of the illness. It comes and it goes.
+
+You can find the above study online at http://bjp.rcpsych.org/content/181/3/208.full. The full reference is Spijker, et al., "Duration of major depressive episodes in the general population: Results from the Netherlands Mental Health Survey and Incidence Study (NEMESIS)," The British Journal of Psychiatry (2002) 181: 208-213

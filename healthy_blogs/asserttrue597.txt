@@ -1,0 +1,25 @@
+One of the things that gives Apache Sling a great deal of power and flexibility is the way it resolves script URLs. Consider a request for the URL
+
+/content/corporate/jobs/developer.html
+
+First, Sling will look in the repository for a file at exactly this location. If such a file is found, it will be streamed out as is. But if there is no file to be found Sling will look for a repository node located at:
+/content/corporate/jobs/developer
+(and will return 404 if no such node exists). If the node is found, Sling then looks for a special property on that node named "sling:resourceType," which (if present) determines the resource type for that node. Sling will look under /apps (then /lib) to find a script that applies to the resource type. Let's consider a very simple example. Suppose that the resource type for the above node is "hr/job." In that case, Sling will look for a script called /apps/hr/job/job.jsp or /apps/hr/job/job.esp. (The .esp extension is for ECMAScript server pages.) However, if such a script doesn't exist, Sling will then look for /apps/hr/job/GET.jsp (or .esp) to service the GET request. Sling will also count apps/hr/job/html.jsp (or .esp) as a match, if it finds it.
+Where things get interesting is when selectors are used in the target path. In content-centric applications, the same content (the same JCR nodes, in Sling) must often be displayed in different variants (e.g., as a teaser view versus a detail view). This can be accomplished through extra name steps called "selectors." For example:
+/content/corporate/jobs/developer.detail.html
+In this case, .detail is a selector. Sling will look for a script at /apps/hr/job/job.detail.esp. But /apps/hr/job/job.detail.html.esp will also work.
+It's possible to use multiple selectors in a resource URL. For example, consider:
+/content/corporate/jobs/developer.print.a4.html
+In this case, there are two selectors (.print and .a4) as well as a file extension (html). How does Sling know where to start looking for a matching script? Well, it turns out that if a file called a4.html.jsp exists under a path of /apps/hr/jobs/print/, it will be chosen before any other scripts that might match. If such a file doesn't exist but there happens to be a file, html.jsp, under /apps/hr/jobs/print/a4/, that file would be chosen next.
+Assuming all of the following scripts exist in the proper locations, they would be accessed in the order of preference shown:
+/apps/hr/jobs/print/a4.html.jsp
+/apps/hr/jobs/print/a4/html.jsp
+/apps/hr/jobs/print/a4.jsp
+/apps/hr/jobs/print.html.jsp
+/apps/hr/jobs/print.jsp
+/apps/hr/jobs/html.jsp
+/apps/hr/jobs/jobs.jsp
+/apps/hr/jobs/GET.jsp
+This precedence order is somewhat at odds with the example given in SLING-387. In particular, a script named print.a4.GET.html.jsp never gets chosen (nor does print.a4.html.jsp). Whether this is by design or constitutes a bug has yet to be determined. But in any case, the above precedence behavior has been verified.
+
+For more information on Sling script resolution, be sure to consult the (excellent) Sling Cheat Sheet as well as Michael Marth's previous post on this topic. (Many thanks to Robin Bussell at Day Software for pointing out the correct script precedence order.)

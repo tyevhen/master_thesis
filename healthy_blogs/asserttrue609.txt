@@ -1,0 +1,14 @@
+After yesterday's exercise comparing the execution speed of Rhino-standalone versus Rhino-embedded-in-JRE, I decided to carry out a couple more performance investigations.
+
+I was curious to find out, first of all, how much slower Rhino (a pure-Java implementation of JavaScript) would be than, say, Spidermonkey (the C++ implementation in Firefox). I repeated the "numerical efficiency" test from yesterday (Euler's expansion series for pi) and got the following results:
+
+
+Execution time (not speed, but time; higher values are worse) is plotted vertically. The surprising result? Firefox's C++ interpreter is not all that much faster than standalone Rhino. The Y-axis here goes from zero to 1200 milliseconds. Trials, on the X-axis, run from zero to values of 200000, 400000, 600000, 800000, and 1000000 for the terms argument to yesterday's pi() function. So in other words, it took Rhino 1212 milliseconds to calculate pi from a million terms, whereas it took Firefox/Spidermonkey 984 ms to do the same thing, making Firefox's interpreter about 20% faster. Rhino comes out looking quite good, considering it is, after all, "only Java."
+
+A more shocking comparison emerged when I tested Rhino against Acrobat. As you may know, Adobe Acrobat comes with a JavaScript engine, presumably written in C++. I expected it to blow the doors off Rhino. Not so! Here are the results:
+
+Astonishingly, Acrobat's interpreter was a full order of magnitude slower than Rhino, requiring 11765 milliseconds to calculate pi from a million terms (versus 1212 ms for Rhino). Why so slow? I have no idea. Perhaps someone from Adobe can comment.
+
+Bottom line: Don't assume that because something is written in Java, it's (automatically) slow. It depends on the runtime environment and what it is, exactly, you're trying to do.
+
+After this, my respect for Rhino only rises. (And it was high to begin with.)

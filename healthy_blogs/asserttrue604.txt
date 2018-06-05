@@ -1,0 +1,78 @@
+Lately I've been doing a fair amount of server-side scripting using ESP (ECMAScript Pages) in Sling. At first blush, such pages tend to look a lot like Java Server Pages, since they usually contain a lot of scriptlet markup, like:
+
+<%
+// script code here
+%>
+
+and
+
+<%=
+// stuff to be evaluated here
+%>
+
+So it's tempting to think ESP pages are simply some different flavor of JSP. But they're not. From what I can tell, ESP pages are just server pages that get handed to an EspReader before being served out. The EspReader, in turn, handles the interpretation of scriptlet tags and expression tags (but doesn't compile anything into a servlet). Bottom line, ESP is not JSP, and despite the availability of scriptlets tags, things work quite a bit differently in each case.
+
+Suppose you want to detect, from an ESP page or a JSP page, what kind of browser a given page request came from. In a Sling JSP page you could do:
+
+<%@taglib prefix="sling" uri="http://sling.apache.org/taglibs/sling/1.0" %><%
+
+%><sling:defineObjects/>
+
+<html><body>
+
+<%
+
+java.util.Enumeration c = request.getHeaders("User-Agent");
+
+String s = "";
+
+while ( c.hasMoreElements() )
+
+s += c.nextElement();
+
+%>
+
+
+<%= s %>
+
+</body></html>
+
+But what do you do in ESP? Remember, <sling:defineObjects/> is not available in ESP.
+
+It turns out that Sling automatically (without the need for any directives) exposes certain globals to the JavaScript Context at runtime, and one of them is a request object. Thus, in ESP you'd simply do:
+
+
+
+<%
+
+c=request.getHeaders("User-Agent");
+
+s = "";
+
+while ( c.hasMoreElements() )
+
+s += c.nextElement();
+
+%>
+
+<%= s %>
+
+
+Very similar to the JSP version.
+
+So the next question I had was, what are the other globals that are exported into the JavaScript runtime scope by Sling? From what I can determine, the Sling globals available in ESP are:
+
+currentNode
+currentSession
+log
+out
+reader
+request
+resource
+response
+sling
+
+
+currentNode is the JCR node underlying the current resource; currentSession is what it sounds like, a reference to the current Session object; log refers to the org.slf4j.Logger; reader, I'm not sure about (is it a reference to the EspReader?); request is a reference to the SlingHttpServletRequest; resource is the current Resource; response is, of course, a reference to the SlingHttpServletResponse; and sling is a SlingScriptHelper. All of these are available all the time, throughout the life of any ESP script in Sling.
+
+For more information, try the Sling Javadocs here or Day's page of resources here (note, in particular, the list of References on the right).

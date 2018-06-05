@@ -1,0 +1,1 @@
+function getvitalinfofromuser var up lackofsomethingtodoexception if user cancels , exit ungracefully var userinput prompt enter something , here if null userinput userinput length throw up puke and die

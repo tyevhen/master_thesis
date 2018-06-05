@@ -1,0 +1,58 @@
+I  first read about the Interpersonal Psychotherapy of Depression when the book came out in 1984.  The origins were there for quite a while before the book.  Gerald Klerman, MD and Myrna Weissman, PhD were prominent in developing a model that depended heavily on psychoanalysis and previous interpersonal theorists like Harry Stack Sullivan and John Bowlby.  The theory rests on a fairly basic assumption and that is that depressions can have an interpersonal etiology as well as social and biological ones.  At the time the book came out, manualized psychotherapies were starting to peak.  A few years earlier I requested a copy of the research manual from Marsha Linehan, PhD and she sent it to me.  That original manual is quite different from the way that (dialectical behavior therapy) DBT is practiced today as a general group behavior therapy.  Beck, Ellis, and Meichenbaum were focused on cognitive-behavioral therapy or CBT at about the same time.  These authors produced texts and manuals on how to perform these therapies.  The driving force for the manuals was psychotherapy research.  A standard research protocol in any therapy was to produce a manualized version, train the research therapists in the therapy, and then monitor them at various points in the therapy to assure that they were performing the therapy according to the manual.
+
+Clinical training at the time was not nearly as standardized. It is fair to say that the predominate training model for psychiatrists was psychoanalytically based psychodynamic psychotherapy.  The main subdivisions were insight oriented psychodynamic psychotherapy and supportive psychotherapy.  Supportive psychotherapy avoided confrontation of the patient's defenses and the therapist used many of the techniques used in CBT.  There were also some brief forms of psychodynamically based psychotherapy.  Viedermann wrote about a psychodynamic life narrative model of crisis intervention for college students in crisis.  It was designed to be delivered in just a few sessions.  The approach was interesting because it had interpersonal psychodynamic interpretations rather than transference based or interpretations based on unconscious mechanisms.
+
+Depression is a very heterogeneous category of disorders.  The interpersonal context remains the same and it is up to the clinician to figure out what might be relevant - what might have personal meaning.   The four areas of focus noted int he above diagram can be historically recorded in just about anyone's life - but are they the cause of depression?  IPT answers the second half of that question - what can be done about it?
+
+A good illustration is the case of the depressed person who has sustained a significant personal loss that they have not recovered from.  In clinical practice it is common to see people who are depressed and  date the onset of that depression to a point in time when a significant figure in their life died. Whether that happened 10 or 20 years ago - they have not recovered despite antidepressant maintenance or multiple antidepressant trials.  The goal for the IPT therapist is to discover of the depression is due to the loss of the meaning of the loss and facilitate completing the grief process.  In today's world, many patients with grief are referred to Eye Movement Desensitization and Reprocessing (EMDR) therapists for presumptive post traumatic stress disorder (PTSD).  I have certainly encountered people who were traumatized by the manner in which their significant other died.  The most common scenario is a surviving spouse or parent.  In the majority of cases, the patient is experiencing grief and they have not been able to complete that process.  The IPT therapist is able to recognize and treat that problem.            
+
+There is plenty of evidence that IPT is an effective form of psychotherapy if you really need evidence.  Medline searches yield a total of 4590 references for interpersonal psychotherapy 786 reviews in that category.  For interpersonal psychotherapy depression there are a total of 1548 articles and 327 reviews.  A recent brief and excellent review article was written by Markowitz and Weissman.   It contained this description of Gerald Klerman's orientation during the initial discussions of this psychotherapy:
+
+"Although Klerman, a psychiatrist, saw depression as basically a biological illness, he was impressed by how social and interpersonal stress exacerbated onset and relapse. Noting that ‘one of the great features of the brain is that it responds to its environment’, he felt that the interpersonal context of the onset of a depressive episode might be a target for psychotherapy." 
+
+I would add that at the time there was active conflict between academic psychiatrists who considered themselves to be biological psychiatrists and a group who considered themselves to be psychotherapists.  Eclectic psychiatrists like Klerman existed in every department but they tended to be the silent majority.  Psychiatrists like me were fortunate to be trained by them.
+
+There are several reasons why knowing about IPT - in addition to other psychotherapy paradigms can be useful to any psychiatrist:
+
+1.  It is easy to learn -
+
+There have certainly been other manualized versions of psychodynamically based psychotherapy.  The authors here have really streamlined the process and generally provide a level of analysis based on social roles/behaviors and discuss specific strategies to address problems.
+
+2.  It facilitates thinking about a formulation (if you do that) - 
+
+When it comes to assessment and diagnosis - I have a lot of details on this blog supporting the basic framework that a psychiatric diagnosis is really not enough when it comes to a psychiatric assessment.  There needs to be an overall formulation of what the patient's problems are and how they came about.  A diagnosis or diagnostic code is a poor substitute.  Considering two 50 year old men with severe depression - it probably matters if one of them got depressed as a result of being fired and the other became spontaneously depressed and could not work because of that disability.  That fact alone creates more relevant information for the diagnosis and treatment planning that all of the diagnostic codes and modifiers.
+
+3.  The therapy can be delivered rapidly in the context of psychiatric appointments -
+
+Once the formulation is in your notes, you can pull it up at subsequent visits and discuss what is relevant to the patient.  Many of the interventions are very focused and can be discussed over the span of 15 or 20 minutes.  Instead of just reviewing medication related symptoms and side effects, the discussion can include a therapy that is effective for depression and may either enhance or replace the medication effects.
+
+4.  It provides a formulation that the patient understands and improves empathic communication - 
+
+I have had people ask me at the end of the interview to "Tell me what you think the problem is." They may add other sentences for emphasis like: "I've done all of the talking here - you're the doctor - tell me what the problem is."  Listening for a thread in addition to the usual description of symptoms allows for a formulation based on interpersonal of social contexts and how that relates to diagnosis and treatment.  It should not be too hard to believe that most people find that a DSM theoretical formulation falls flat.
+
+5.  IPT can reveal unaddressed problems - 
+
+If the IPT therapist is talking with a patient who dates their depression back to the loss of someone who they were emotionally attached to and that has never been addressed, that provides some diagnostic and therapeutic insight in the same session.  In some cases it can also lead to cost effective therapy for the patient if there are grief counseling clinics or a clergy person who does grief counseling.  One of the glaring errors I have noticed with a lot of current therapy is that it is trauma based.  To me that means that a person has experienced trauma at the level that it could cause post traumatic stress disorder or similar problems.  I see many people with grief diagnosed as having a trauma disorder and treated with exposure therapy for grief.  Grief counseling or an IPT approach is a preferable option.  
+
+6.  IPT adds a needed non-medicine dimension to psychiatric treatment - 
+
+The term psychopharmacologist is often mentioned by people who I assess.  I ask myself what does a psychopharmacologist do when the patient is experiencing a chronic stressor that is either environmental of interpersonal in nature.  Does the medication just go up to the point that the person is numb to the stress?  As a psychopharmacologist myself, there is an obligation to let people know that at some point - the stressors in life will overcome the effects of medicine and that there is no medicine that will overcome chronic stress - at least without sedating them to the point that it will be difficult to function.  At that point the therapeutic alliance needs to focus on resolving the environmental or interpersonal stress.  It is extremely important at that point in time to be able to associate the patients problem with the therapy models and discuss these paradigms as a way to resolve the problem.  In this case - hopefully all psychiatrists have been trained in the non-medicine dimension before they start seeing patients.  
+
+Those are some of my thoughts about IPT.  I have always considered it to be an effective and pragmatic form of psychotherapy.  Back when I was learning about psychotherapy, I had supervisors of every stripe ranging from Rogerian therapy to psychodynamic to existential psychotherapy.  The paradoxical  aspect of my psychotherapy supervision was that they all advocated for picking one style of therapy and sticking to it.
+
+I really don't think that is a good idea.  Strictly in terms of psychodynamic therapy, one of the key aspects of the assessment was to determine if the patient was psychologically minded enough to engage in the constant clarification, confrontation, and interpretation that goes on in that format.  If not they were considered candidates for supportive psychotherapy.  To someone trained in my era, CBT, IPT, and DBT and their equivalents would all be considered supportive psychotherapies.
+
+I think that provides a good rationale for knowing these therapies and being able to apply them to situations where they might be the best approach.    
+
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1: Viederman M. The Psychodynamic Life Narrative. Psychiatry. 1983 Aug;46(3):236-246. PubMed PMID: 27719516.
+
+2:  Klerman GL, Weissman MM, Rounsaville BJ, Chevron ES.  Interpersonal Psychotherapy of Depression.  Basic Books, Inc; New York; 1984: 255 pp.
+
+3: Markowitz JC, Weissman MM. Interpersonal psychotherapy: past, present and future. Clin Psychol Psychother. 2012 Mar-Apr;19(2):99-105. doi: 10.1002/cpp.1774. Epub 2012 Feb 14. PubMed PMID: 22331561.

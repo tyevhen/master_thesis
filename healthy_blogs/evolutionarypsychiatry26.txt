@@ -1,0 +1,28 @@
+First off, I can't believe this blog is over three years old. Figured that out when I linked an old zinc post, because I completely missed the three year anniversary a few months ago. In any event over the past three years I have seen a greater acceptance of employing grain-free diet interventions along with avoiding processed food, and some more skepticism of the "vegetable oils are heart-healthy" meme.
+
+For example, I missed the December 2011 of Prostaglandins, Leukotrienes, and Essential Fatty Acids (I must admit, not on my regular reading list), but there was an interesting back and forth over a study and a few letters to the editor that were pro modulating the omega3/6 ratio over dumping massive amounts of omega 6 into the diet and making up for that by supplementing with omega 3. The main gist of the editorials was that we don't really know what the heck we are doing when it comes to downstream regulation of omega 6 fatty acids and maybe we should be cautious about eating so much of it. It's nice to see lipid researchers admit that, though letters to the editor are all about some cranky academics espousing their objections to some of the status quo out there.*
+
+Bastille--Pompeii
+
+In addition, the University of Maryland is trying to put together a study to test gluten-free diets in schizophrenia, following on the interesting findings from the CATIE trial that showed folks with schizophrenia were so much more likely to have antibodies to wheat proteins than the general population. Worth a shout out.
+
+But enough about nutrition for now. I really did intend to have more about other evolutionarily appropriate common sense interventions for mental health in this blog, and this week a study came out that fits the bill, at least for hamsters: Nocturnal Light Exposure Impairs Affective Responses in a Wavelength-Dependent Manner.
+
+Flickr Creative Commons
+In order to make sense of this study we have to know a little bit about the retina of the eye. Most people are aware that we have light receptor cells in the retina called rods and cones. There is a third set of light receptors in the retina as well called the photosensitive ganglion cells (otherwise known as the intrinsically photosensitive retinal ganglion cells, or ipRGCs), and these cells have the specific job of sending light information back to the suprachiasmatic nucleus in the brain, where circadian rhythms are controlled. The photopigment in these cells, melanopsin, is particularly excited by blue light, of wavelengths around 480 nm. That means that blue light, above other light, is the most likely to send the signal to the brain that it is daytime. Since blue light is nice and bright and makes for nice contrast with cheap LEDs, it is one of the colors of choice for computer screens, tablets, and smartphones. It's also one of the key wavelengths in light from compact fluorescent bulbs that are all the eco-rage nowadays. 
+
+So, as we probably know by now, picking up that phone to send a tweet in the middle of the night is also telling your circadian rhythm part of the brain GOOD MORNING, which the suprachiasmatic nucleus finds confusing, in humans and in hamsters. The ipRGCs not only send signals to the hypothalamus to regulate sleep, appetite, fertility, etc., but also to the limbic areas of the brain, wherein lives anxiety and fear.
+
+In the paper, hamsters were exposed to white, blue or red light (red does not activate the suprachiasmatic nucleus) or left in the dark at nighttime. It is important to know that hamsters are nocturnal, but behavioral changes have been observed in diurnal rodents as well when exposed to white or blue light after dark. The hamsters who were exposed to the white and blue lights seemed more depressed. And by depressed, they actually ate less sugar water than the dark and or red-light hamsters, and there seemed to be reduced neuroplasticity in the hippocampus of the white and blue-exposed hamsters, which is an ominous sign. A fully neuroplastic hippocampus is important to maintaining positive mood and being resilient to stress. Other rodents exposed to nighttime light had reduced performance in learning and memory tasks. Circadian disruption is bad news.
+
+No after dinner iPad for you
+But enough about rodents. In August's Current Biology, some scientists took 8 people camping in the Rocky Mountains in July (sign me up!). No computers, smartphones, or flashlights allowed, though campfires were de rigueur. In one week of monitoring the participants in their normal modern environments, they noticed that average melatonin onset occurred 2 hours before sleep start time, which was typically at 12:30am, and melatonin offset occurred after the natural average wake time of 8am. After a week of camping, melatonin onset occurred just after sunset, and bedtime and awake time was moved two hours earlier. While camping the folks also got a lot more bright natural light exposure than in their ordinary lives.
+
+Morning light exposure and early rising are both used as treatments for depression, by the way.
+
+The gist of the study: "Increased exposure to sunlight may help to reduce the physiological, cognitive, and health consequences of circadian disruption.
+
+
+*describes my blog exactly. Except the "academic" part…
+
+Thanks to Jamie, Victoria, Dallas, and Stephan for emails and or tweets alerting me to the above papers.

@@ -1,0 +1,3 @@
+I was on the back porch thinking about image transforms the other morning, and it occurred to me that we just assume that many types of data are either one-dimensional, two-dimensional, or three-dimensional, etc. (with nothing in between), despite the fact that fractals are everywhere in nature. And we apply transformations and convolutions (2-dimensional DCT, in the case of JPEG) to the data without regard for the data's true dimensionality.
+
+So I'm left wondering: how do you do, say, a 2.2D DCT or DFT? What if I want to convolve the fractal residue of a time series?

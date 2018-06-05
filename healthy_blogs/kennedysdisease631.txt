@@ -1,0 +1,17 @@
+Both EurrekAlert and News Medical published the following article on misfolding diseases including Kennedy’s Disease (SBMA). It is good to see more attention focused on this condition.
+
+Future Science OA explores current research into protein misfolding diseases
+“Future Science Group (FSG) today announced the publication of a special issue in Future Science OA, covering the rapidly evolving field of protein misfolding diseases.
+
+Protein misfolding diseases, such as Alzheimer's and Parkinson's Disease, are rising in incidence and seeing increasing financial and healthcare burden. Treatments and accurate diagnostics for these diseases are lacking.
+
+This issue of Future Science OA, featuring Guest Editor Salvador Ventura (Universitat Autònoma de Barcelona, Spain), highlights recent advances in the understanding of these disorders, and provides fresh ideas for their future therapy. In a series of articles written by experts at the cutting edge of the field, the issue begins by looking at recent inroads into our expanding knowledge of protein misfolding disorders and their protein targets. It then goes on to look at amyloid aggregation in specific disease areas, including the neurodegenerative: Alzheimer's, Parkinson's and Huntingdon's disease; glioblastoma; cystic fibrosis; spinal and bulbar muscular atrophy; and malaria. …”
+__________
+
+Also, eLife published the abstract of a recent study of Kennedy’s Disease. I understood some of the article, but am hoping Ed Meyertholen will provide some needed clarification on this research.  
+
+Nemo-like kinase is a novel regulator of spinal and bulbar muscular atrophy
+Abstract
+“Spinal and Bulbar Muscular Atrophy (SBMA) is a progressive neuromuscular disease caused by polyglutamine expansion in the Androgen Receptor (AR) protein. Despite extensive research, the exact pathogenic mechanisms underlying SBMA remain elusive. Here we present evidence that Nemo-Like Kinase (NLK) promotes disease pathogenesis across multiple SBMA model systems. Most remarkably, loss of one copy of Nlk rescues SBMA phenotypes in mice, including extending lifespan. We also investigated the molecular mechanisms by which NLK exerts its effects in SBMA. Specifically, we have found that NLK can phosphorylate the mutant polyglutamine-expanded AR, enhance its aggregation, and promote AR-dependent gene transcription by regulating AR-cofactor interactions. Furthermore, NLK modulates the toxicity of a mutant AR fragment via a mechanism that is independent of AR-mediated gene transcription. Our findings uncover a crucial role for NLK in controlling SBMA toxicity and reveal a novel avenue for therapy development in SBMA.”
+
+Note: You can download the PDF of the abstract near the top of the linked page.

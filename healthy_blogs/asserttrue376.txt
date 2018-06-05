@@ -1,0 +1,38 @@
+So much has already been written about the death of journalist Michael Hastings, there doesn't seem much point in adding more. I'm writing about it today, nonetheless, for two reasons. First, there are still some people who haven't heard about the story; talking about it here helps get the word out. Second, much of the coverage I've seen omits key facts. I think those facts need to be part of the story.
+
+What do we know for sure?
+
+We know that on June 18, 2013, at about 4:30 in the morning, a 2013 Mercedes CLK250 coupe driven by 33-year-old Michael Hastings was headed south on the 600 block of North Highland in Los Angeles when it slammed into a palm tree at high speed, killing Hastings. (See video.)
+
+We know from statements given to the press by his widow that Michael Hastings was working on a story for Rolling Stone about CIA Director John Brennan at the time of his death.
+
+We also know that Hastings had been in contact with Wikileaks lawyer Jennifer Robinson just a few hours before his fatal car crash.
+
+And we know that before the crash, Hastings sent an e-mail to friends with a Subject line of "FBI Investigation, re: NSA." (Most news accounts fail to mention this Subject line or the fact that it refers specifically to NSA, a topic Hastings was not known to be working on.)
+
+The last-minute e-mail sent by Hastings warned recipients (which included colleagues at Buzzfeed) that FBI was interviewing his "close friends and associates"; Hastings suggested they may want to seek legal counsel before talking to law enforcement. The e-mail ended with "I’m onto a big story, and need to go off the radat [sic] for a bit."
+
+NSA is not specifically mentioned anywhere in the e-mail other than the Subject line. It seems likely, though, that an NSA connection of some kind is what Hastings was referring to by "I'm onto a big story." Why? Well for one thing, as I said, NSA is not mentioned anywhere else in the e-mail. But also, when you find out NSA might be targeting you, the obvious thing you do in response is "go off the radar"—refrain from using the Internet, stop sending texts, stop making phone calls. Stop being tracked by NSA.
+
+Hastings must certainly have known that his last-minute e-mail would be intercepted by NSA. (Putting 'NSA' in the Subject line may have been his way of acknowledging NSA as a recipient.) The e-mail served a double purpose of telling the Feds: "I know you're spying on me, and since you are, you should also know that my friends will be making appropriate legal preparations." Hastings took his own advice by reaching out to the Wikileaks attorney.
+
+The security-cam video of the fatal car crash (above) shows signs of being a quick hand-held phone-cam "recording of a recording" by the restaurant owner before the original footage was surrendered to police. (You can see the jerky motions of the handheld phone and the out-of-frame items on the left.) The Hastings Mercedes flashes into view at 0:14 and explodes 3 seconds later. The distance from the security cam to the tree-impact point was estimated by someone on the scene to be 255 feet. (That equates to a speed of 85 feet per second, or 58 mph.) The tape seems to show the car's brake lights on as it speeds past, indicating that Hastings may have been trying (in vain) to get the car to slow down.
+
+Google street view of the scene (photo is from 2011). Red arrow points to the tree that was hit.
+Security camera was located under the scalloped awning of the building on the right.
+
+Two days after  the crash, LAPD announced that there appeared to be no evidence of foul play. In reality, an investigation to determine the likelihood of foul play in a case like this takes considerably longer than two days. And Detective Connie White from LAPD’s West Traffic Bureau admitted a week later (to the boyfriend of the owner of the pizza restaurant from which the security-cam footage came) that foul play had not, in fact, been ruled out. She didn't elaborate on why LAPD had felt it necessary to rush to the earlier judgment that foul play was not involved.
+
+Most media sources are still, in fact, reporting that LAPD has ruled out foul play.
+
+Many people have been mystified as to how Hastings could have lost control of what can only be considered an extraordinarily responsive car; how such a car could (barring intoxication of the driver) drive itself, with great precision, straight into a palm tree, essentially.
+
+Six days after the crash, former Bush security advisor Richard Clarke told the Huffington Post exactly how that's possible, explaining:
+What has been revealed as a result of some research at universities is that it's relatively easy to hack your way into the control system of a car, and to do such things as cause acceleration when the driver doesn't want acceleration, to throw on the brakes when the driver doesn't want the brakes on, to launch an air bag. You can do some really highly destructive things now, through hacking a car, and it's not that hard.
+It's not known what kind of GPS the Hastings car had, but if it was equipped with Wide Area Augmentation System sensing (as many Magellan units now come with), it would have had the one-meter accuracy needed to impact a specific tree on a specific highway—assuming a cyber-attack took place and that it was GPS-guided.
+
+What we should all be wondering, right now, is: Where is the car's black box? Was it recovered from the crash? Who is analyzing it?
+
+If Hastings was indeed the victim of a car-electronics cyber-attack, we'll probably never know about it, of course, because it will be covered up as a "national security matter." So we're left to go by what we do know. I leave it to the reader to draw his or her own conclusions.
+
+Please leave a comment below.

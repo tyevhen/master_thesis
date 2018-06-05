@@ -1,0 +1,63 @@
+I am very grateful to the eminent Lucy Series, who writes the amazing The Small Places blog, for drawing my attention to a very recent judgment from the Court of Protection (Northamptonshire Healthcare NHS Foundation Trust and Northampton & Nene CCG v. ML, EL & BL: [2014] EWCOP 2). I will summarise it as best I can.
+
+The case, which was published on 16th May 2014, concerns ML. ML is a man of 25, with severe learning disability, developmental disorder, autism, epilepsy and diabetes. He lives with his parents, EL & BL, his mother, EL, being his primary carer. He attends a National Autistic Society day centre 3 days a week.
+
+It appears that between the mother and the committed staff of the day centre, there is evidence that ML is being appropriately cared for, and the treatment programme he is receiving is suited to his needs and is showing an improvement in his behaviour problems.
+
+Mr Justice Hayden observes:
+“Some aspects of ML's behaviour are very challenging, inevitably these have to be the focus of my attention when I come to consider the issues before me, but I should like to emphasise, that which BL has properly insisted upon at this hearing, there is a great deal more to ML than either his raft of problems or his, at times, violent outbursts. He is a young man who often radiates a sense of his own happiness and contentment to others; he has a real capacity for enjoyment, especially swimming. He can be warm and affectionate to those he trusts and knows well, particularly his mother. He has a sense of humour that is entirely his own, which occasionally has a subtlety and nuance to it that both delights and sometimes inspires his parents.”
+
+Nevertheless, ML’s local Trust and CCG maintain that:
+“i) ML lacks capacity to litigate and/or to make decisions about his care and /or residence;
+ii) it would be in ML's best interest to reside at Bestwood Hospital;
+iii) it would be in ML's best interest to undergo treatment at Bestwood Hospital until such time as he is able to be discharged to a suitable assisted living package in the community.”
+
+To put it bluntly, they were seeking to remove ML from his loving parents and supportive day care centre, and place him in a hospital for an unspecified time.
+
+This appears to be on the grounds that a nurse consultant concerned with ML’s care considered him to be “one of the most dangerous patients she has encountered still living within the community”. In her evidence to the Court she declared that "If ML is not transferred out of his current environment and routines his world is going to continue to decrease". She expressed concern about his diet, which she said consisted entirely of jam sandwiches, and she was very critical of the day centre.
+
+In 2012, ML spent several months in a learning difficulties hospital detained under the Mental Health Act. The Judge noted a range of concerns about the extent and length of time that ML was placed in seclusion.
+
+A psychiatrist who gave evidence to the Court said that he “saw no evidence that during the 5 months in hospital ML had learnt new self care skills sufficient to change his care needs.” He went on to say that he had often had to be restrained for long periods of time, and when finally placed in a seclusion room was so aroused and angry that he “then kicks and headbangs in a way that he was not prone to do – to the point of knocking himself unconscious and giving himself black eyes".
+
+ML’s parents became so concerned about his treatment in this hospital that they applied to a Mental Health Tribunal for his discharge. The Tribunal discharged him.
+
+ML’s parents were concerned that, despite the reputation of the hospital to which it is proposed that he should be admitted, it would “weaken his relationship with his family, who he does not respond to well out of the context of the home environment. It is distinctly possible he will not want to see them in hospital. If his behaviour were to deteriorate, as it did following the Vale admission, he would potentially be entirely unmanageable in the community… and there would in effect be no way back. ML would have lost the delicate security of the present status quo and be consigned to permanent institutional care. For BL that heartbreaking prospect is simply too great a risk.”
+
+So in a nutshell: ML has severe learning difficulties and challenging behaviour. The local Trust and CCG want him to be placed in a hospital for probably 2 years or more, in order to rehabilitate him in some way, on the basis it appears that sooner or later his parents will be unable to care for him. Aware that this may amount to a deprivation of liberty, they want to do this under the MCA. His parents, however, want him to continue to live with them, where he is patently happier than when in a hospital setting, and the National Autistic Society are supporting him and working with him on a behavioural programme.
+
+Mr Justice Hayden then concludes that it is nevertheless in ML’s best interests to be placed in this specific hospital resource, and then goes on to examine under which regime this should be facilitated. He identifies 3 options: the MCA, the MHA – or the Inherent Jurisdiction.
+
+Being a humble jobbing AMHP not familiar with all the ins and outs of the legal system, I was not familiar with the term “Inherent Jurisdiction”. There is a simple definition of this: under English common law, a superior court has the jurisdiction to hear any matter that comes before it, and it allows it to control its own processes and to control the procedures before it.
+
+The Official Solicitor’s representation argues that using these powers “would be to subvert the will of Parliament as expressed in the MHA and … would be an unlawful use of the inherent jurisdictional powers”. The Judge agrees with this analysis.
+
+The Judge also concludes that, in accordance with another Court of Protection case, AM v SLAM, the MCA can also not be used in this case. This would be, as in the case of AM v SLAM, because ML, whether or not he lacks capacity, would be highly likely to object to being a patient in hospital and/or receiving the treatment that the hospital would wish to give. (For a detailed discussion of this case law see this blog post).
+
+The Judge having already concluded that ML should go into this hospital and receive treatment, this leaves only the MHA.
+
+Since the purpose of ML going into hospital is for treatment rather than assessment, this renders detention under Sec.3 more appropriate. The Judge anticipates that the Nearest Relative is likely to object to detention under Sec.3. Even if the NR does not object, they would be likely at some stage to apply to a Tribunal for ML’s discharge. He therefore concludes by stating:
+
+“I propose to take an unusual course. As I have foreshadowed above, any application to displace the nearest relative is to be reserved to me (upon the relevant authorisation to sit as a County Court Judge). I also propose to release this judgment to the President of the First Tier Tribunal with an invitation to him to allocate a judge of the First Tier to hear any applications in this case, to ensure judicial continuity. I will provide that a copy of this judgment follows this case.”
+
+What are we to make of this quite extraordinary judgment?
+
+Is the Judge, having made his decision, seeking to interfere, or intervene, in future anticipated legal hearings connected with M?. He appears to be setting himself up to hear any application for displacement of the NR, and making it very clear what his decision would be likely to be. Is he seeking to place some pressure on the President of the First Tier Tribunal, almost as if to warn any Mental Health Tribunal that might hear an appeal against detention at some point in the future to heed his detailed arguments for continued detention?
+
+Would another reader of this judgment come to this conclusion?
+
+It appears likely that, having received this judgment, the local Trust’s next step would be to arrange an assessment under the MHA for ML.
+
+How, then, should an AMHP respond to this hypothetical request?
+
+An AMHP would, of course, have to consider whether there is an alternative, less restrictive alternative to hospital admission. In this case, there are parents who appear to be reasonable, intelligent and caring, who have provided a home for ML, and are more than willing to continue to provide a home for him.
+
+In addition, there are resources in the community which profess to be able to provide a treatment regime in a community setting, with evidence that this regime is gradually producing an improvement in ML’s behaviour.
+
+There is also the evidence relating to a poor outcome from a previous detention in hospital, where the patient showed no improvement despite being detained for several months, and indeed was secluded in such a manner that he injured himself. On top of that, a Tribunal concluded that the grounds for continuing detention were not met and discharged him from detention under the MHA.
+
+If the NR concurred that ML required compulsory admission for treatment and did not therefore offer any objection, then I suppose that an AMHP might consider that, in all the circumstances of the case, detention under Sec.3 was the most appropriate option.
+
+But if, as seems very likely, the NR did object, could the AMHP conclude that, taking into account all the circumstances of the case, the NR was acting unreasonably? Probably not, if they had read this Judgment. So it would be unlikely that an application for displacement of the NR would be deemed a necessary and proportionate response.
+
+So I am driven to repeat: what are we to make of this quite extraordinary judgment? And what are the potential consequences for others in ML’s position?

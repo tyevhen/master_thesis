@@ -1,0 +1,9 @@
+Michael Marth makes the interesting case that "the fat years are over" -- referring to the years of predominance of fat-client applications (like Eclipse RCP) over browser apps. He notes that the traditional orthodoxy -- that Web UIs (while faster to develop than thick-client apps) are not powerful enough to compete with standalone thick clients -- is largely a quaint fiction now. AJAX, better widget libraries (in things like jQuery and Ext), and emerging features of HTML 5 have made Web UIs powerful indeed.
+
+But are the "fat years" really over? As much as I want to agree with Michael (and do agree, for the most part), nevertheless it seems to me the world is filled with counterexamples -- of apps that are both popular and fatter-than-fat. There's Eclipse itself, which is a monster that simply won't go on a diet. There's OpenOffice and Word -- each of which is so heavy as to give new meaning to the word "obese." Ditto Excel, PowerPoint, and Outlook.
+
+And then there are the Adobe apps: Photoshop, Illustrator, InDesign, Acrobat, FrameMaker. The ground shakes when these apps walk.
+
+It seems to me the fat years won't really be over until browser-based alternatives to the Adobe apps (and the likes of Eclipse and OpenOffice) have succeeded to the point where Adobe no longer has a reason to live.
+
+Something tells me that won't be happening any time soon.

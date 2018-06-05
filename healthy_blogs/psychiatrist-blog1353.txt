@@ -1,0 +1,101 @@
+Clink is on "lockdown" whatever that means. It can't be good and it seems to mean no access to the blog, so she asked me to post this for her. What are friends for, if not posting for you when you're indisposed? Judging by the length of this post, it seems ClinkShrink may have been locked down for some time now. Hoping she's free soon.
+
+
+When Lawyers Call
+--by ClinkShrink
+
+One of the advantages of being a forensic psychiatrist is that you can
+interact with lawyers without breaking into a panic. Occasionally I get
+calls from colleagues who have been contacted by a lawyer about
+something, and I can almost hear them sweating over the phone. So, I
+figured it might be helpful to write a blog post about what to do when
+an attorney calls.
+
+First of all:
+
+DON'T PANIC
+
+I can't say this enough. The first automatic thought you will have is
+that you have been drawn into something that will cost you a lot of
+time, money and emotional distress. That's almost never the case.
+
+The most common thing that happens is that you might get a subpoena.
+This is usually sent by U.S. mail, but occasionally is hand-delivered
+by a process server. If you don't read Latin (all great legal documents
+are written in Latin) you won't know that there are two types of
+subpoenas: a "subpoena duces tecum" and a "subpoena ad testificatum". A
+duces tecum means that the lawyer just wants records from you. The
+other type means that the lawyer actually wants you to appear for a
+hearing to give testimony. Regardless, subpoenas will pretty much
+always involve a patient you are treating and you may already know if
+your patient is involved in some type of litigation. If you have a high
+volume practice or a practice with a limited amount of treatment
+contact---say, an emergency room or consult liaison service---you may
+not remember the case. If a review of the patient's chart doesn't
+suggest the reason for the subpoena you will need to contact the lawyer
+to find out why you were served.
+
+If you work for a hospital you're in luck---the hospital attorney
+should be informed immediately about all subpoenas, and you can ask
+them for advice about what to do next. The hospital attorney can call
+the serving lawyer and tell you what the 'official' response should be.
+The best outcome is that your lawyer will successfully file a "motion
+to quash". This means that he or she tells the court that it's not
+necessary to subpoena you because either: 1) the information you have
+is completely irrelevant to the legal issue at hand, or 2) the
+information can be obtained through the records alone, you have nothing
+to add beyond that, and your actual testimony is unnecessary. In other
+words, he makes the subpoena go away. Your life goes on as usual.
+
+If you don't have a lawyer, or if you don't want to pay a lawyer how
+much it will cost to do all this, you will have to call the serving
+attorney yourself. The first rule to remember is: collect information,
+don't give information. This is the information you need to collect: 1)
+who is your client?, 2) what is the legal issue?, 3) what information
+do you want from me about this legal issue? You shouldn't offer any
+information at all until you have these three basic questions answered.
+Specifically, don't say anything about a patient's diagnosis,
+treatment, treatment compliance or prognosis. The lawyer calling you
+may not be acting on behalf of your patient and there are a myriad of
+reasons why you might get contacted: a contested custody case, a
+disability or workmen's compensation claim, a personal injury case or
+even a criminal proceeding. You could unintentionally harm your patient
+by giving information to an opposing lawyer.
+
+You're probably wondering why I didn't specifically say you should
+notify your patient first. I list that as the second thing to do
+because most often the person contacting you has been retained by your
+patient and he or she already knows about it (you might need to have a
+discussion at your next session about why they didn't warn you this was
+coming!). If this isn't the case, then you need to do some preliminary
+data collection in order to tell the patient what's going on. Thus,
+patient notification comes second in line to talk to the serving
+attorney.
+
+If the serving attorney is working in opposition to your patient, then
+you need to consult with your patient about how to respond. If he or
+she wants you to participate in the proceedings or to provide records
+then all is right with the world. You might want to prepare them for
+what you will have to say, but that's about it.
+
+Things get messy if the patient doesn't want you involved. At this
+point the number of possible hypothetical situations make it impossible
+for me to cover all of them, but generally this is when you need to get
+a lawyer. In certain situations the patient may not have the right to
+claim (or by statute will automatically waive) privilege. You will have
+to be involved regardless of the patient's wishes. You will need to
+address this with the patient and consider how this will affect your
+therapeutic relationship.
+
+Finally, there is one thing I strongly advise you not to do:
+
+DON'T IGNORE A SUBPOENA
+
+It will not go away. Failing to respond could put you at risk for
+monetary penalties. In a worse case scenario, a judge could sent out a
+"body attachment" on you. In other words, sheriffs show up in your
+office to physically take you to court. I've never heard of this
+actually happening to a doctor, but I don't want any of our readers to
+be the first one.
+
+OK, I think this post just made up for weeks of ClinkShrink inactivity.

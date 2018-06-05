@@ -1,0 +1,23 @@
+I just encountered a situation with Firefox that's distressing and potentially dangerous (but for which I discovered the workaround).
+
+I'm a heavy user of Firefox (and Chrome) and often finish the day with Firefox eating 2 gigs of RAM or more. It sometimes runs out of memory and crashes. I know of no answer for that. Avoid using AJAX-intensive sites? Not easy to do. Keep fewer tabs open? Yeah. Thanks, Mom.
+
+Many times, when I notice Firefox slowing down (because it's been open a long time and is using huge amounts of memory), I deliberately crash it with Task Manager, then restart it. Bringing it down with Task Manager is quicker than waiting for Firefox to exit normally.
+
+But therein lies a danger.
+
+I was noticing that Firefox seemed to be issuing duplicate mouse events. For example, I would click someone's Follow button on Twitter and see the button quickly toggle twice, back to Follow. Usually the button will just change to Followed. But sometimes, it would quickly blink and go back to Follow as if I never clicked it. That's because when you've followed someone, the button (after changing to Followed) will go to Unfollow when you hover over it. It becomes an Unfollow button in the hover state.
+
+What I saw happening is Follow changing to Unfollow and back to Follow in the blink of an eye. This was my first tipoff to duplicate events being fired.
+
+The second tipoff was that when I single-clicked in the header bar of the browser, it went to fullscreen (maximized), something that should happen only if you double-click the header bar.
+
+I went to Task Manager and found two instances of Adobe Flash Player running. As soon as I killed those (with End Task) and reloaded my browser pages, the duplicate-event-passing stopped.
+
+So the lesson is: If you kill Firefox with Task Manager, be sure to kill Flash as well. Otherwise a zombie copy of Flash remains, and can interfere with event-passing later on when Firefox is running again. (Apparently.)
+
+The reason this duplpicate-event stuff is dangerous is that when you pay bills online, some sites need you to be careful not to click a Submit button twice by accident. You could issue two payment requests.
+
+I'm sure there are other hazards associated with duplicate events; but you get the picture now.
+
+Be careful killing Firefox (or any app) with Task Manager. You can leave zombie processes running, and they can have unwanted side effects later.

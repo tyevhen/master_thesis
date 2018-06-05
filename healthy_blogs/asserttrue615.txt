@@ -1,0 +1,17 @@
+While we're on the subject of UI faux pas, let me mention another type of blunder I'm running into more and more these days. See if you can figure out from the following screen shot what I'm talking about. (Click the graphic to see a larger version of it.)
+
+
+
+Is it just me, or does anyone else see the illogical nature of having a menu command that leads to a submenu command of exactly the same name? Save As > Save As makes no sense to me. Does it make sense to you?
+
+In the above case, the perpetrator is Adobe. I entered bug 2642169 in the appropriate bug-tracking system; hopefully it will get fixed. There are other problems with the above menus. Some of the commands need to have an ellipsis ("...") after them because they lead to dialogs rather than having an immediate effect. But that's minor (IMHO) compared to Save As > Save As.
+
+Here is yet another instance of the Same > Same problem:
+
+
+
+The perpetrator in this case is Microsoft. Somehow (and I don't remember what I did, exactly), I got to this weird menu situation in Vista's Explorer while doing a desktop operation. Obviously, New > New makes no sense.
+
+I could cite a third example, but I think you get the point.
+
+Don't have menu commands that go to submenu commands of the same exact name. It's illogical and it looks funny. It's not what nature intended.

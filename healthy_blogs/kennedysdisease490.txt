@@ -1,0 +1,41 @@
+As you already know, I am an advocate of technology. I believe that in the not too distant future, robotics will be an efficient way to walk and will also be cost effective. Today’s article in the New York Times is another view into the future of robotics … and for those of us living with Kennedy’s Disease, hopefully our future.
+______________________________________ 
+
+By Brian X. Chen                    Published: September 11, 2012 
+
+
+
+RICHMOND, Calif. — When Joey Abicca pokes a metal crutch into the ground with his right arm, tiny motors start whirling around his left leg, lifting it and moving it forward. When he does the same with his left arm, the motors whir to life again and his right leg takes a step. The metallic whine is like something out of the movie “RoboCop.”
+
+Mr. Abicca, a 17-year-old from San Diego, is essentially wearing a robot. His bionic suit consists of a pair of mechanical braces wrapped around his legs and electric muscles that do much of the work of walking. It is controlled by a computer on his back and a pair of crutches held in his arms that look like futuristic ski poles.
+
+Since an accident involving earth-moving equipment three years ago that damaged his spinal cord, Mr. Abicca has been unable to walk on his own. The suit, made by a company called Ekso Bionics, is an effort to change that.
+
+“It’s awesome — I love getting back up,” Mr. Abicca said before strapping on the legs during his recent visit to the company’s headquarters here. “Even just standing up straight is awesome.”
+Ekso is one of several companies and research labs that are working on wearable robots made to help disabled people or to make the human body superhuman. In 2010, Raytheon released a suit for soldiers that is designed to reduce injuries from heavy lifting. And in Israel, a company called Argo Medical Technologies also makes a robotic suit to help paraplegics walk again.
+
+Ekso says it was the first company to introduce a self-contained robotic suit, without any tethers to, say, a power supply. And though its suits for the disabled are now used only in rehabilitation centers, it is looking ahead to a day when they will let people take to the sidewalks, the shopping malls — and maybe even the woods.
+
+Ekso, which was founded seven years ago by engineers in Berkeley, Calif., takes its name from the word exoskeleton, meaning a skeleton that is on the outside of the body. Originally financed by the military, the company collaborated with the University of California, Berkeley, and the military contractor Lockheed Martin on a device called the Hulc, which allows soldiers to carry up to 200 pounds of equipment over mixed terrain.
+
+In February, Ekso started shipping exoskeletons that are being used in physical therapy to get people out of wheelchairs and using their lower bodies so their muscles do not deteriorate. About 15 rehabilitation centers in the United States are using the suits; they pay $140,000 for each one, along with a $10,000 annual service contract.
+
+With a frame of aluminum and titanium, the bionic suit, called the Ekso, is battery-powered and weighs about 50 pounds. The suit is not yet at the point where a disabled person can use it independently. The batteries last three hours, at which point a physical therapist needs to replace them. Supervision also ensures that a patient does not fall over; the company said hundreds of people have walked in the suit, and none had fallen.
+
+The Ekso suit is already going beyond just helping people walk again. The latest version released last month includes walking modes with different difficulty levels to challenge patients to make progress in their rehabilitation.
+
+In the first mode, when a patient is first learning to walk with the suit, a physical therapist sets the step length and speed and presses a button on a computer to trigger each step. In the second mode, the patient can trigger a step with buttons on the crutches. And in the third, most advanced mode, once the patient has learned to maintain her balance in the suit, she can trigger the suit to take a step just by shifting her weight.
+
+Patients learn to walk in the robotic suits surprisingly quickly, said Eythor Bender, chief executive of Ekso Bionics, who previously worked at Ossur, a company that made artificial limbs. “People who come in haven’t walked for years and years,” he said in an interview. “They are walking on their own in two days.”
+
+Yoky Matsuoka, the former head of innovation at Google and now vice president for technology at Nest, which makes a smart thermostat, said the time was right for exoskeletons to graduate from science-fiction fantasy to commercial reality. Battery technology has improved significantly, materials like plastics and carbon fibers have gotten more lightweight and durable, and robotic systems have become easier to control, she said.
+
+“In the last 10 years, the evolution of some of those materials and some technologies allows us to make robots that really stay human-safe and human-friendly,” Ms. Matsuoka said.
+However, the cost of such devices for medical use could still be an obstacle, she said, because such specialized equipment sells in smaller quantities, making it difficult to bring the price down. She said that wider use by the military could help.
+
+At some point, the Ekso suit may have to clear some regulatory hurdles. The current version of the suit is exempt from regulation, but if the company introduced one for personal use at home, it would probably have to gain approval from the Food and Drug Administration, said John Tugwell, director of regulatory affairs at Ekso.
+
+Ekso is hoping that the suits will, in the next few years, really start to go places.
+Russ Angold, a founder and the chief technology officer of the company, predicted that exoskeletons, like today’s smartphones, would slim down and get more powerful and affordable, becoming part of everyday life.
+
+“The dream at the end of the day is be able to walk into a sporting goods store, like an REI, and pick up an exoskeleton,” Mr. Angold said. “They’re like the jeans of the future.”

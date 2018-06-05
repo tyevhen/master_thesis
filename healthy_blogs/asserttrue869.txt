@@ -1,0 +1,11 @@
+When I first heard about Adobe's Pixel Bender technology, I became very excited. An ActionScript-based pixel shader API? What could be more fun that than? (By now you know what my social life must be like.)
+
+When I saw that PB was a Flash-only technology, my enthusiasm got tamped down a bit. Later, I learned that PB would be supported in After Effects, which had me scratching my chin again. (I've written AE plug-ins before. It's much less punishing than writing Photoshop plug-ins.)
+
+Now it turns out there will be a Pixel Bender plug-in for the next version of Photoshop. According to Adobe's John Nack, "Pixel Bender won't be supported in the box in the next version of Photoshop, but we plan to offer a PB plug-in as a free download when CS4 ships. Therefore it's effectively part of the release."
+
+This is great news for those of us who like to peek and poke pixels but can't be bothered to use the Byzantine C++ based Photoshop SDK.
+
+In case you're wondering what you can do with Pixel Bender, some nice sample images and scripts can be found here. The image shown above was created with this 60-line script.
+
+Nice.

@@ -1,0 +1,70 @@
+Takotsubo's cardiomyopathy (TC) is a form of acute dilated cardiomyopathy.  It was first described in Japan in 1990 and since then there have been increasing reports of the problem.  It is an uncommon problem thought to be due to excessive catecholamines and their effects on heart muscle. A definitive source on the autonomic nervous system points out that the plasma levels of catecholamines are extreme and consistent with activation of both the sympathetic nervous system and adrenal medulla (15).  As seen in the above ventriculography the left ventricle is dilated and elongated.  The typical presentation is acute coronary syndrome (dyspnea, chest pain, syncope) with a  low to modest levels of troponin - a biomarker for cardiac tissue damage.  Electrocardiogram show T wave inversions and ST segment elevation.  Echocardiograms show  The imaging results generally show and acutely dilated and lengthened left ventricle and wall motion abnormalities. Overall this pathology represents a low number of cases with acute coronary syndrome.  Most people recover in up to 4 weeks if the diagnosis is made and the patient is treated.  That treatment may involve the discontinuation or changing of antidepressant medications.
+
+One of the questions that psychiatrists face is whether to resume existing therapy or withhold in the case of a new diagnosis of cardiac disease.  It is not an easy decision.  At least it is not a straightforward as it used to be.  In complicated situations in the past, psychiatric medications were routinely discontinued.  Today - talking with a consultant it is much more common to hear:  "Yes those adverse reactions are possible but if the patient needs the medication - they need the medication."  There are no strict rules on the issue like there seem to have been at one point.  The ideal medication for cardiac problems in psychiatry has limited effect on cardiac conduction and is benign in terms of hemodynamics.  Those effects are difficult to predict on both an individual and group basis in that small number of cases where the response is more critical.  As an example, I contacted an expert on hypertension and he advised me that he was generally unconcerned about the two antidepressants that I end up monitoring for possible effects - buproprion and venlafaxine.  In his experience, he though they added an average of 3 mm Hg systolic hypertension and that is trivial.  I am seeing people on more medications who may have alcohol and substance use problems that can significantly compound the hypertension problem.  The blood pressure I see are considerably higher in some cases where these antidepressants are used or added.
+
+TC was first reported in 1990.  Case reports on TC and the association with antidepressants began to show up in about 2008 with a case report involving nortriptyline (15).  A recent letter to the editor (1) points out the trend and the possible correlation based on the temporal relationship between antidepressant initiation/titration and TC (4).  In that paper the authors identified 8 cases in the literature and a case series of 6 patients.  They report their case as well as 8 additional cases and the demographic, clinical, laboratory data of all of the patients.  Eight of 9 cases were women in the age range of 37 to 82.  In each of these cases the patient was taking an SNRI (venlafaxine, desmethylvenlafaxine, and duloxetine).  The youngest patient overdosed on 2100 mg venlafaxine.  The presumed etiology in the initial cases was a stressor that lead to catecholamine excess and cardiomyocyte toxicity, but in 5/9 cases a stressor was not present.  Although the authors note the association with SNRI type antidepressant case have been reported with atomoxetine (an NRI), fluoxetine (an SSRI), with a case of serotonin syndrome, and withdrawal of antidepressant therapy.  The association in the case reports may be seem more robust that it really is.   Although the case reprts and incident of ACS are low - the sheer number of cases (one every 25 seconds in the USA) assures that even low prevalence disorders like TC will occur in significant numbers.
+
+What are the implications for psychiatrists?  The prototype for me in this case was clozapine.  Clozapine is an atypical antipsychotic with many side effects.  The focus for most psychiatrists has been the neurophil monitoring and prevention of agranulocytosis.  Clozapine also has significant cardiac side effects including acute myocarditis with typical symptoms of myocarditis.  I think that anyone prescribing clozapine needs to be aware of these symptoms and monitor the patient for them.  In this case the cardiac review of systems is critical along with the physical examination of the patient at every visit or at least until they are on a stable dose of medication.
+
+Antidepressants are generally approached in a more casual manner than antipsychotics.  Every patient needs to be carefully screened for side effects and the medication needs to be stopped or modified as indicated.  There should be more vigilance after FDA warnings about the QTc prolonging properties of antidepressants specifically citalopram. But if a patient has an arrhythmia questions on a review of systems are probably not enough.  I can say that because I take my own vitals signs and know that patients with new onset arrhythmias (atrial fibrillation, ventricular premature contractions, bigeminy, etc) are generally missed with standard blood pressure measurement systems and the patient is unaware that they are no longer in normal sinus rhythm.  In many cases tachycardia and other symptoms of acute coronary syndrome are the only findings.  These case reports illustrate to me that psychiatrists and primary care physicians prescribing these medications need to have a low threshold for testing and referral both to the emergency department and cardiology.   As previously posted - if you are in a large mental health clinic and have enough support staff - consider getting an ECG machine.  A faxed abnormal ECG and a verbal report is a sure way to get the attention of a cardiologist or emergency medicine physician.
+
+In terms of the eventual epidemiology and pathophysiology of TC, inferring that SNRIs are definitely involved in either is highly speculative at this point.  In many ways the situation resembles the problem of seeing Vitamin D deficiency as being causative for any number of disorders when there is a high prevalence of Vitamin D deficiency in the population.  I have always seen SNRIs as better tolerated than SSRIs with a cardiac  safety profile that might be slightly better if the prolonged QTc interval issue with citalopram was real.  The best way to study the issue is to identify large numbers of patients with TC on echocardiogram and compare them to a control group and see if the correlation between SNRIs and TC is real.  As far as I know that study has not been done.
+
+In the meantime, pay close attention to the cardiovascular status of patients on antidepressants, especially during the titration phase and if they may have a high catecholamine load inferred from clinical anxiety, exacerbations of physical illness, and stress levels. .  Use findings like tachycardia as a prompt for more focused questions and examination.
+
+Takotsubo's cardiomyopathy is just another medical condition that can complicate psychiatric treatment - that you do not want to miss.                           
+
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+References:
+
+1: Madias JE. Venlafaxine and takotsubo syndrome: Can we learn more from published patient cases? Int J Cardiol. 2016 Dec 15;225:73-74. doi: 10.1016/j.ijcard.2016.09.133. Epub 2016 Oct 1. PubMed PMID: 27716552.
+
+2: Conrad SK, Catalano MC, Catalano G. The Use of Fluoxetine in a Patient With Takotsubo Cardiomyopathy. J Psychiatr Pract. 2016 May;22(3):234-8. doi: 10.1097/PRA.0000000000000151. PubMed PMID: 27123803. 
+
+3: Naguy A, Al-Mutairi H, Al-Tajali A. Atomoxetine-related Takotsubo Cardiomyopathy. J Psychiatr Pract. 2016 May;22(3):232-3. doi: 10.1097/PRA.0000000000000152. PubMed PMID: 27123802. 
+
+4: Vasudev R, Rampal U, Patel H, Patel K, Bikkina M, Shamoon F. Selective Serotonin-norepinephrine Reuptake Inhibitors-induced Takotsubo Cardiomyopathy. N Am J Med Sci. 2016 Jul;8(7):312-5. doi: 10.4103/1947-2714.187153. PubMed PMID: 27583240.
+
+4: Madias JE. Withdrawal of prolonged antidepressant therapy and Takotsubo syndrome. Heart Lung. 2014 Nov-Dec;43(6):578. doi: 10.1016/j.hrtlng.2014.06.053. Epub 2014 Jul 22. PubMed PMID: 25063669. 
+
+5: Dias A, Franco E, Figueredo VM, Hebert K, Quevedo HC. Occurrence of Takotsubo cardiomyopathy and use of antidepressants. Int J Cardiol. 2014 Jun 15;174(2):433-6. doi: 10.1016/j.ijcard.2014.04.028. Epub 2014 Apr 13. PubMed PMID: 24768456. 
+
+6: Kitami M, Oizumi H, Kish SJ, Furukawa Y. Takotsubo cardiomyopathy associated with lithium intoxication in bipolar disorder: a case report. J Clin Psychopharmacol. 2014 Jun;34(3):410-1. doi: 10.1097/JCP.0b013e3182a95a27. PubMed PMID: 24699038. 
+
+7: Marabotti C, Venturini E, Marabotti A, Pingitore A. Delayed multifocal recurrent stress-induced cardiomyopathy after antidepressants withdrawal. Heart Lung. 2014 May-Jun;43(3):225-30. doi: 10.1016/j.hrtlng.2014.03.003. PubMed PMID: 24794783. 
+
+8: Neil CJ, Chong CR, Nguyen TH, Horowitz JD. Occurrence of Tako-Tsubo cardiomyopathy in association with ingestion of serotonin/noradrenaline reuptake inhibitors. Heart Lung Circ. 2012 Apr;21(4):203-5. doi: 10.1016/j.hlc.2011.12.004. Epub 2012 Jan 27. PubMed PMID: 22285074. 
+
+9: Rotondi F, Manganelli F, Carbone G, Stanco G. "Tako-tsubo" cardiomyopathy and duloxetine use. South Med J. 2011 May;104(5):345-7. doi: 10.1097/SMJ.0b013e318213f3e5. PubMed PMID: 21606714. 
+
+10: Trohman RG, Madias C. Duloxetine-induced tako-tsubo cardiomyopathy: implications for preventing a broken heart. South Med J. 2011 May;104(5):303-4. doi: 10.1097/SMJ.0b013e318213d10f. PubMed PMID: 21606702. 
+
+11: Forman MB, Sutej PG, Jackson EK. Hypertension, tachycardia, and reversible cardiomyopathy temporally associated with milnacipran use. Tex Heart Inst J. 2011;38(6):714-8. PubMed PMID: 22199446; PubMed Central PMCID: PMC3233339. 
+
+12: Selke KJ, Dhar G, Cohn JM. Takotsubo cardiomyopathy associated with titration of duloxetine. Tex Heart Inst J. 2011;38(5):573-6. PubMed PMID: 22163139; PubMed Central PMCID: PMC3231522. 
+
+13: Mehta NK, Aurigemma G, Rafeq Z, Starobin O. Reverse takotsubo cardiomyopathy: after an episode of serotonin syndrome. Tex Heart Inst J. 2011;38(5):568-72. PubMed PMID: 22163138; PubMed Central PMCID: PMC3231548. 
+
+14: Christoph M, Ebner B, Stolte D, Ibrahim K, Kolschmann S, Strasser RH, Schön S. Broken heart syndrome: Tako Tsubo cardiomyopathy associated with an overdose of the serotonin-norepinephrine reuptake inhibitor Venlafaxine. Eur Neuropsychopharmacol. 2010 Aug;20(8):594-7. doi: 10.1016/j.euroneuro.2010.03.009. Epub 2010 May 7. PubMed PMID: 20451358. 
+
+15: De Roock S, Beauloye C, De Bauwer I, Vancraynest D, Gurne O, Gerber B, Hantson P. Tako-tsubo syndrome following nortriptyline overdose. Clin Toxicol (Phila). 2008 Jun;46(5):475-8. doi: 10.1080/15563650701519786. PubMed PMID: 18568805. 
+
+16: Wachira JK, Stys TP. Cardiovascular disease and bridging the diagnostic gap. SD Med. 2013 Sep;66(9):366-9. Review. PubMed PMID: 24279112.
+
+17: Goldstein DS. Catecholamines 101. Clinical autonomic research : official journal of the Clinical Autonomic Research Society. 2010;20(6):331-352. doi:10.1007/s10286-010-0065-7.
+
+
+
+
+Attribution:
+
+"Levocardiography in the right anterior oblique position shows the picture of an octopus pot, which is characteristic for Takotsubo cardiomyopathy."
+
+Hammer N, Kühne C, Meixensberger J, Hänsel B, Winkler D.  Takotsubo cardiomyopathy - An unexpected complication in spine surgery. Int J Surg Case Rep (2014).  Link Used per open access license.

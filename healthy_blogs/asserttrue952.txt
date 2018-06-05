@@ -1,0 +1,3 @@
+Someone on Slashdot wrongly called Unipage a possible replacement for PDF. It has no relationship to PDF whatsoever. It's also not a file format.
+
+So what is it, then? It's simply a way to serialize a web page and its contents, making the page 100% self-contained (with no reliance on outbound links). Images are stored inside the page in data:url format (see RFC 2397), which of course makes the whole scheme incompatible with IE. Then again, the Adobe SVG plugin for IE does support data:url, so it may be possible for some clever soul to write a script that uses embedded SVG islands to work around this IE limitation in semi-transparent manner. So to speak.

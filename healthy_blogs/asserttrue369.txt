@@ -1,0 +1,27 @@
+The other day I was shocked to encounter a blatantly false headline at The Independent, supposedly a mainstream news site. The headline was:
+
+Obama turns decision on military action over to Congress
+
+Obama has not turned over any decision-making to Congress on the Syria issue. If you read the transcript of what he said, it's pretty clear that the decision has already been made. Obama is merely seeking Congressional agreement with the decision that's been made, agreement he doesn't technically need (there is ample legal precedent for a president ordering military strikes unilaterally; Obama orders drone strikes all the time) and that is not binding, one way or the other, in any case.
+
+I see this kind of sloppy reporting all the time and it makes me sad for the current state (and future) of journalism, but it also makes me wonder how many "sloppy thinkers" there are in the world who don't even know they're sloppy thinkers. In the end, it makes me wish more people would take the time to learn a little programming.
+
+Programming skills have practical value on their own, of course. But the real value of programming goes beyond bits and bytes. The real value is in how it changes your thinking. It's a subtle shift. Subtle, yet profound.
+
+One of many things programming teaches is precision of thought. Digital devices are, at root, incredibly stupid. As Picasso famously said, computers are useless; they can only give you answers. They can only do what they're told. When you take command of the machine (by writing code), you find out how true this is. If you declare a variable as a string and try to use it as a number, the world comes to a halt. It's necessary to define what you're doing, explicitly. The machine is obedient but mindless. It can only do what you tell it.
+
+Programming gives you a new vocabulary, which inevitably brings new ways of thinking. (Read Korzybski to grok the depth of this.) You gain not just a vocabulary of words (which, in itself, would be rather trivial) but a conceptual vocabulary. As a side effect, you begin to think more crisply.
+
+It's not simply a matter of thinking more logically. It's far deeper than that. Programming languages have extremely well-defined semantics. Attention to semantics is what good writing (not just good programming) is about. Consequently, anyone who learns a programming language (any programming language) will find himself or herself in better control of the written word generally.
+
+Learning a programming language inevitably also brings a need to learn a bit about computer science: algorithms, machine design, language design, the nature and limits of computability. Again, conceptual vocabulary. Ways of framing problems. Ways of framing discussions about problems.
+
+Eventually, after you immerse yourself in programming, you begin to see there's an aesthetic to code—code itself, not just the things code can create (such as user interfaces). There's correct code; there's good code. There's crufty code, there's spaghetti code, there's clever code. You quickly begin to develop an appreciation for best practices. (Again, an important part of your new conceptual vocabulary.)
+
+Another thing programming teaches is humility. There will be days when you're absolutely certain your code is correct, and yet it's demonstrably not. You will learn that sometimes the things you think are absolutely certain, aren't. That by itself is valuable.
+
+You'll create bugs. Out of necessity, you will teach yourself ingenious ways to force the machine to tell you what you did wrong. And you will do many things wrong. But always, you will find you did them for a reason; and yet there's a reason they're wrong. Remember, the machine can't go wrong on its own. It's unable to do anything except what you tell it to do.
+
+I can go on listing reasons why programming is not a narrow, arcane skill. The truth is: It's a path to understanding. It broadens (not narrows) you as a human being. That's how it is with learning any new language—even a programming language. It's been shown that learning a new language brings about structural changes in the hippocampus and superior temporal gyrus, and may delay Alzheimer's. I think it's likely your brain also changes when you learn a programming language.
+
+Programming teaches attention to detail, clarity of expression, crispness of meaning. Certainly, anyone planning to be a journalist or a writer of any kind should consider learning a programming language. It might prevent you from writing sloppy headlines in your first real journalism job.

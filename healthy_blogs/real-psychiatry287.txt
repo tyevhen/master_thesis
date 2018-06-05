@@ -1,0 +1,27 @@
+A couple of things to add to the previous list:
+
+17.  Information - One of the most formative documents that I ever read was Shannon and Weaver's paper on communication theory.  My only reason for reading this paper in the first place was cultural.  I was an undergrad during tumultuous times and learned about this paper in the Whole Earth Catalogue.  Since it was a technical and engineering document I was very surprised to find it in my liberal arts campus library.  After becoming a psychiatrist I have been very aware of the information content and exchange between physicians and patients.  Despite the lack of any quantitative analysis, there are no big surprises.  The more information exchanges the more accurate the diagnosis and the better the treatment plan.  That has implications for how you approach clinical work.  Physicians interested in information tend to maximize the data points they put into their assessments.  They also make a point of getting plenty of collateral data.  They pay more attention to high signal to noise information and learn to set limits on sources where there the signal is low.  It takes discipline to focus on information optimized exchanges in this day when physicians are often their own transcriptionists.  It is also difficult when electronic health record systems degenerate into binary checklists that do not allow for the documentation of unique data.  A focus on information leads to consistently high quality care.
+
+
+18.  Suicide - Any finalized version of this list will give suicide a much higher priority.  It is always with us.  I know for a fact that the unpredictable aspect of suicide prevents many excellent physicians from going in to psychiatry.  Any professional guideline states that suicidal ideation and potential needs to be assessed on a longitudinal basis at every meeting with the patient.  Residents are immersed in the treatment of a combination of people who are at very high risk for suicide and/or chronically suicidal.  They are taught the very blunt instrument of risk factor analysis to make those decisions.  They are expected to perform contentious interventions to hold people against their will based on the assessment of suicidal behavior.  Residents in every class will lose patients to suicide and will experience a great deal of emotional turmoil related to that loss.  It is the most difficult aspect of the field to negotiate.
+
+What is the best approach to the problem of providing the best possible care to people with suicidal ideation and behavior and minimizing the emotional toll on yourself?  There are three basic considerations.  The first is technical aspects of assessment and treatment.  There has been a recent revival of interest in suicide as a problem independent of diagnosis so I would follow that area of research.  As far as I can tell, The Harvard Medical School Guide To Suicide Assessment and Treatment is still a unique source of information.  On the assessment side not missing psychotic depression is critical and it can be a subtle finding.  The second is the countertransference aspects of care for the suicidal person.  People who are chronically or recurrently suicidal elicit strong emotions in people.  Some of these emotions are readily observable in their friends and relatives.  Recognize them in yourself and figure out what to do about them.  Finally the single best piece of advice is to always make sure that you have done everything possible to prevent the suicide of a patient.  Suicide is a rare event but if it occurs making sure that you did not miss anything is the best way to moderate your emotional response.  The last few sentences seem a lot more straightforward than they really are.  There are always a number of obstacles to the best possible care that you will not have control over.  It is still important to discuss the optimal plan with the patient.  An additional safeguard as a resident is to ask your supervisor: "Is there anything else that you would do in this case to address the patient's suicide potential?"  As a supervisor, I think that is a fair question that I should be able to answer.
+
+These two points came to me since the original post.  The point about suicide was an obvious omission suggested by a colleague.  It highlights the fact that even a senior psychiatrist like myself can omit important points that can be corrected by collegial consultation.
+
+Please feel free to send me any additional points or sources that you have found useful.  The Harvard Medical School Guide.. is dated at this point and I don't think that there has been an updated edition  or any source that improves upon this information.  I have my own approach to this problem that I think is useful to consider, but I am reluctant to post it here without any peer review.
+
+My pep talk to residents at times involves reminding them how tough this field is.  It is intellectually and emotionally rigorous and to do a good job you have to stay focused and at times be fairly hard on yourself.  You also have to check out what you are doing with other psychiatrists - supervisors as a resident and colleagues when you are in practice.    
+
+
+
+George Dawson, MD, DFAPA   
+
+
+Reference:
+
+1.  Aleman A, Denys D. Mental health: A road map for suicide research and prevention. Nature. 2014 May 22;509(7501):421-3. PubMed PMID: 24860882.
+
+Supplementary:
+
+1.  The first 16 points of this thread are contained in the previous post.

@@ -1,0 +1,26 @@
+MDA’s Quest Magazine has an excellent article written by Margaret Wahl on Stem Cells that I encourage everyone to read.
+
+Progress is ongoing in coaxing stem cells along specific paths, altering their genes and understanding the immune response to stem cell transplantation.
+
+
+The article provides an explanation of the current successes and setbacks including:
+Scientists have coaxed stem cells into becoming astrocytes, a type of nervous-system support cell; and converted skin cells to nerve cells without first taking them through a stem cell stage.
+A new strategy for correcting genetic defects in stem cells has been developed.
+The immune system may not tolerate transplants involving induced pluripotent stem cells, even if the donor and recipient have the same genetic background.
+The National Institutes of Health can fund research involving human embryonic stem cells, with some restrictions.
+
+
+I found the explanation of the different kinds of stem cells interesting:
+totipotent, meaning they can become any other kind of cell;
+pluripotent, meaning they can become many (but not all) kinds of cells;
+embryonic, meaning they're taken from human or animal embryos, which are multicellular organisms at a very early stage of development;
+fetal, meaning they're taken from human or animal fetuses, organisms at a later stage of development than the embryo stage;
+adult, meaning taken from a fully developed animal or human of any age (muscle satellite cells are one example); and
+induced, meaning the cells were converted back into stem cells after having matured into other types of cells.
+
+Popular alternatives now in development as potential therapies for neuromuscular and other diseases are:
+induced pluripotent stem cells, which are cells taken from mature organisms and then converted back to pluripotent stem cells, after which they can be coaxed along specific developmental lines in the laboratory; and
+adult stem cells, which are immature cells found in fully developed animals and humans that have the potential to develop into specific cell types, such as the satellite cells found in muscle tissue that can become muscle cells under certain circumstances.
+The Quest article goes into potential therapies as well as recent concerns about rejections of certain stem cells by the immune system.
+
+The link to the Quest article is:  http://quest.mda.org/news/research-briefs-stem-cells

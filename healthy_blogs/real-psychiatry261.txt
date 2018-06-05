@@ -1,0 +1,43 @@
+I spend a lot of my time trying to prevent Serotonin Syndrome (SSyn) and in recognizing it early enough prevent major complications.  I think that I have a fairly good record of doing this, but the statement is qualified by the fact that the likely incidence of SSyn is very low.  What is even more amazing is that if you look at the graphic, a large number of very common medications are implicated in serotonin (5-HT) turnover, signaling, and metabolism.  It is very common for me to see combinations of an SSRI or SNRI antidepressant and trazodone.  Some patients are also taking serotonergic migraine medications like sumatriptan, rizatriptan, zolmitriptan, frovatriptan, naratriptan, and almotriptan.  These migraine drugs are all 5-HT1 receptor agonists with varying affinities for subtypes of this receptor.  They are commonly encountered in clinical psychiatry in patients with chronic depression, chronic headaches and poorly controlled migraines.  In some cases these patients are also on valproate for migraine prophylaxis.  Any computerized drug interaction search will frequently flag 3 or 4 medication combinations that increase the risk for SSyn.  Reading the literature and practicing psychiatry results in a broad appreciation of SSyn including the broad range of precipitants and presentations.  The syndrome can be triggered by as little as a single dose of an SSRI type antidepressant.  On the other hand millions if not tens of millions of people tolerate combinations of serotonergic medications as suggested in the above diagram and in fact some of these combinations are recommended by experts for treating depression.
+
+The presentation of SSyn will vary on who you ask.  If you are asking acute care internists or hospitalists, they are likely to say that it is an acute mental status change - usually delirium accompanying a toxic reaction to a drug.  If you ask movement disorder experts (1, 2), they may describe it as confusion, myoclonus, rigidity, and restlessness and list it in the differential diagnosis of those movement disorders and ataxia.  Psychiatrists should have the lowest threshold since we are prescribing more serotonergic medications, using augmentation strategies, and generally follow patients more closely.  I have seen it develop very gradually with onset of muscle pain secondary to hypertonia.  At that point the patient describes clear cut muscle pain and may have difficulty walking or with balance.  In consult settings, I have seen people with acute delirium completely unresponsive with ataxic breathing to the point I had to suggest an ICU setting and mechanical ventilation.
+
+Harvey Sternbach is credited with coming up with the first diagnostic criteria for SSyn (3).  At the time his article was published in 1991, there were many descriptions of syndromes that were thought to be due to serotonergic hyperstimulation, both in humans and animals.  He analyzed 12 case reports covering 38 patients.  In the majority of these patients, the manifestations lasted for a period of 6 hours to 4 days.  There was one fatality in this case series,  where the patient developed seizures, hypotension, and disseminated intravascular coagulation.  Sternbach also discusses a second death from the literature where the patient presented with probably SSyn that was mistaken for Neuroleptic Malignant Syndrome (NMS).  As the patient was treated for NMS she developed disseminated intravascular coagulation, renal failure, hepatic failure and died.  In both of those cases, the patients were taking monoamine oxidase inhibitors with tryptophan and fluoxetine or lithium.  This was about the time that tryptophan was removed as a supplement from the American market and the author comments that this might reduce future risk.  Sternbach laid out his Suggested Diagnostic Criteria for Serotonin Syndrome based on that analysis:  
+
+"A. Coincident with the addition of or increase in a known serotonergic agent to an established medication regimen, at least three of the following clinical features are present: 1) mental status changes (confusion, hypomania) 2) agitation 3) myoclonus 4) hyperreflexia 5) diaphoresis 6) shivering 7) tremor 8) diarrhea 9) incoordination 10) fever 
+B. Other etiologies (e.g., infectious, metabolic, substance abuse or withdrawal) have been ruled out. C. A neuroleptic had not been started or increased in dosage prior to the onset of the signs and symptoms listed" (from reference 3, p. 713)
+
+SSyn appears to be a major omission in DSM-5 (6).  The manual contains a cursory description of NMS in the section Medication-Induced Movement Disorders and Other Adverse Effects of Medication (pp. 709-714) but the only reference is in the differential diagnosis of NMS:
+
+"Neuroleptic malignant syndrome also must be distinguished from similar syndromes resulting from the use of other substances or medications, such as serotonin syndrome; parkinsonian hyperthermia syndrome following abrupt discontinuation of dopamine agonists; alcohol or sedative withdrawal; malignant hyperthermia occurring during anesthesia; hyperthermia associated with abuse of stimulants and hallucinogens; and atropine poisoning from anticholinergics." (p. 711).
+
+A syndrome this important needs at least equal time in the DSM-5.  In average clinical practice serotonergic medications and the flagged side effects in electronic databases probably far exceeds the concerns about medications for Parkinson's Disease and antipsychotic medications causing NMS.  The role of antidepressants in movement disorders especially myoclonus and akathisia should not be underestimated.
+
+The most recent approach to diagnosis of SSyn has been the application of the Hunter Criteria (4).  In their original paper the authors point out that the diagnosis was typically made on the basis of recognizing 3/10 of Sternbach's criteria, but those features had low specificity and were present in other toxidromes.  The Hunter Criteria were developed by a toxicology service observing people with overdoses of serotonergic agents and were therefore more specific.  A single feature like spontaneous clonus or combinations of features like tremor and hyperreflexia or inducible clonus and diaphoresis leads to a diagnosis of serotonin toxicity (see the paper for all of the variations).
+
+As a practicing and teaching clinical psychiatrist who has worked across a number of settings, it is critical that all psychiatrists known about SSyn and familiarize themselves with the diagnosis and acute treatment.  I have listed some of my preferred strategies in the table below on prevention and early recognition.  It is safe to say that the earlier the recognition, the better the outcome.  That is another reason why I don't suggest to anyone that they need to "get used to" a medication or even take an antidepressant if they tell me that they can't tolerate one.  It is also why the toxicity of the medications needs to be carefully explained to anyone taking them, and as a physician I have to believe that either that person or their representative will call me if there are problems.  There also needs to be a high level of vigilance for new agents that can potentially precipitate SSyn.  I recently investigated Suboxone and found a case report that when it was added to tricyclic antidepressants it precipitated the syndrome (5).
+ 
+
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+1:  Stanley Fahn,  Joseph Jancovic.  Principles and Practice of Movement Disorders.  Churchill Livingstone Elsevier.  Philadelphia, PA, 2007.
+
+2:  Mark Forrest Gordon,  Adena Leder.  Serotonin Syndrome.  in Movement Disorder Emergencies; Steven J Frucht, Stanley Fahn (eds).  Humana Press, Inc; Totawa, New Jersey 2005: pp 175-193.
+
+3:  Sternbach H. The serotonin syndrome. Am J Psychiatry. 1991 Jun;148(6):705-13. Review. PubMed PMID: 2035713.
+
+4:  Isbister GK, Buckley NA, Whyte IM. Serotonin toxicity: a practical approach to diagnosis and treatment. Med J Aust. 2007 Sep 17;187(6):361-5. Review. PubMed PMID: 17874986.
+
+5:  Isenberg D, Wong SC, Curtis JA. Serotonin syndrome triggered by a single dose of suboxone. Am J Emerg Med. 2008 Sep;26(7):840.e3-5. doi: 10.1016/j.ajem.2008.01.039. PubMed PMID: 18774063.
+
+6:  American Psychiatric Association.  DSM-5  Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition.  Arlington, VA, American Psychiatric Association, 2013.
+
+
+Supplementary 1:
+
+For an additional graphic of Serotonin Syndrome with a glossary of the abbreviations take a look at this link.

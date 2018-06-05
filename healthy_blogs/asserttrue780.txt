@@ -1,0 +1,33 @@
+There was a time, early in my programming career, when I needed to rewrite a particular program (a very small one) to make it run faster. I was quite new to programming and thought that the way to get something to run faster was to rewrite it in assembly. In those days, you could unroll a loop in assembly and pretty much count on getting a worthwhile speedup, if it was a tight loop to begin with.
+
+Fortunately, I had a fabulous mentor in those days, a coder with wisdom and experience far beyond his years. The person in question was a first-class code ninja and a master circuit designer, a genius of Woz-like proportions. Silicon obeyed him the way marble obeyed Michelangelo.
+
+When it came to code, John could do astounding things. He could optimize (and did optimize) virtually any algorithm for any situation, and do it in so little code that you'd sit there studying the printout, wondering where the heck the algorithm went! I remember John had this peculiar way of making loops vanish, for example. They'd turn into table-lookups or recursion or self-modifying code, or some combination of the three.
+
+One day my mentor asked me what I was working on and I told him. I mentioned that I was frantically searching for a way to speed up my little program. I described a few of the things I'd tried so far. He listened intently.
+
+When I was done talking, John gave me some of the most profound advice any programming expert has ever given me. (It was profound for me, at the time. Maybe it'll be stupid-sounding to you.)
+
+"The CPU," he said, "runs at a certain speed. It can execute a fixed number of instructions per second, and no more. There is a finite limit to how many instructions per second it can execute. Right?"
+
+"Right," I said.
+
+"So there is no way, really, to make code go faster, because there is no way to make instructions execute faster. There is only such a thing as making the machine do less."
+
+He paused for emphasis.
+
+"To go fast," he said slowly, "do less."
+
+To go fast, do less. Do less; go fast. Yes, of course. It makes perfect sense. There's no other way to make a program run faster except to make it do less. (Here, when I say "program," I'm not talking about complex, orchestrated web apps or anything with fancy dependencies, just standalone executables in which there's a "main loop.")
+
+Key takeaway: Don't think in terms of making a slow piece of code run faster. Instead, think in terms of making it do less.
+
+In many cases, doing less means using a different algorithm. Then again, it may be as simple as inserting a few if-elses to check for a few trivial (but frequently encountered) "special cases" and return early, before entering a fully-generalized loop.
+
+It may mean canonicalizing your data in some way before passing it to the main routine, so that the main routine doesn't have to include code that checks for corner cases.
+
+The tricks are endless, but they end up with the CPU doing less, not more; and that's the key.
+
+The "go fast do less" mantra has been a valuable one for me, paying off in many ways, in many situations, over the years. It has helped me understand performance issues in a different kind of way. I'm grateful to have been exposed to that concept early in my career. So I provide it here for you to use (or not use) as you see fit.
+
+Maybe you received a similarly influential piece of advice early in your career? If so, please leave a comment. I'd love to hear about it.

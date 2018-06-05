@@ -1,0 +1,46 @@
+The Department of Justice came out with a report this week on the way that psychiatric problems are being managed in the LA County Jail.  The conclusion was that prisoners were prevented in getting their constitutionally-required care for  mental illness and they cited deplorable environmental conditions, deficient care for inmates with obvious needs, inadequate supervision, and failure to provide adequate suicide prevention services.  There were 15 deaths by suicide in 30 months and the conclusion was that several of those deaths were preventable.  By previous agreement, the county had demonstrated compliance with suggested measures including the development of a robust electronic health record.  The resulting Memorandum of Agreement Between the United States and Los Angeles County, California Regarding Mental Health Services at the Los Angeles County Jail (MOA) is an interesting read and could be viewed as a blueprint for transferring psychiatric services from managed care hospitals to correctional facilities.  Unfortunately there is no obviously available detailed report on the findings at this time, but I have requested it through their web site.
+
+The issue of psychiatric services being provided in county jails is a national scandal that hardly anyone seems to care about.  In terms of awareness it is probably well below the issue of mass shootings by people with mental illnesses.  Why is that important?  There are several issues that never seem to be mentioned in the press.  The first and foremost is how psychiatric services have been excised from clinics and hospitals by managed care companies - especially complex psychiatric issues.  Anyone who cannot be seen in a 15-20 minutes brief discussion about medications usually gets the message that they need to get services elsewhere.  Many people who end up in jail these days have chronic mental illnesses have been involved in minor violations (trespassing, disorderly conduct, drug possession/paraphernalia charges, etc) that are a product of mental illness.  Their stays are often complicated by a lack of available legal and financial resources that increase their stay times in jail.  The following table is based on data in Forbes magazine and corroborated by other sources describing the total populations in these facilities.
+
+
+         County Jail by Size                                                Population
+  1.  LA County Jail
+19,836
+  2.  Riker’s Island (New York City)
+13,849
+  3.  Harris County Jail (Texas)
+10,000
+  4.  Cook County Jail (Chicago)
+  9,900
+  5.  Maricopa County Jail (Arizona) 
+  9,265
+  6.  Philadelphia, PA
+  8,811
+  7.  Miami Dade County Jail
+  7,050
+  8.  Dallas County (Texas)
+  6,385
+  9.  Orange County (California)
+  6,000
+10.  Shelby County (Tennessee)
+  5,765
+
+The epidemiology of mental illness in incarcerated populations varies by site, authors, and agencies involved but there is no dispute about it being significant.  In a 2005 survey by the Bureau of Justice Statistics, 64% of inmates reported a mental health problem.  Recent study of incarcerated women showed that 43% met lifetime criteria for severe mental illness and 33% met 12 month criteria.  Forty five percent of the women meeting 12 month criteria had severe impairment of functional capacity.  The authors of that study emphasized the need for assessment of mental health needs at the point of entry into the justice system in order to meet the complex needs of the patients.  The inherent problem is that the US justice system and American culture are set up to pay lip service to recognizing mental illness and diminished capacity and that has recently been complicated by essentially shutting down psychiatric services and offering jails as an alternative.
+
+What are the basic problems here?  The first is a clash of paradigms - treatment versus punishment.  If a judge actually puts you in jail for trespassing when you are so confused you can't find your way off someone's property due to mental illness, substance use, or some combination that amounts to punishment for having a mental illness.  Some systems are more enlightened than others in dealing with that problem.  In some communities, the lack of psychiatric resources results in jail as an alternative to hospitalization or non-existent community services.  The hand off between corrections and medical systems of care is complex and it depends on a medical staff who know how to approach and treat patients from correctional systems.  It also depends on judges and prosecuting attorneys with resources to decide who can be adjudicated as unable to proceed and be diverted to treatment rather than trial.  Those resources need to include examiners who can see people in jail and make the necessary assessments about court versus jail.
+
+The second problem is rationed services.  This is best illustrated not only by the collapse of the number of beds in community hospitals and the lengths of stay much shorter than comparable facilities in the European Union but by the underlying cause of all of these problems.  That cause was simply managed care.  Managed care has done an expert job of cost shifting by developing business friendly treatment criteria, abandoning the social and community mission of treating difficult problems associated with mental illness and addiction, and removing the element of humanism from psychiatric treatment.  When I first started to practice, discharging people from a hospital when a psychiatrist had serious concerns about whether or not they could make it or whether they would be safe was very uncommon.  Today those discharges are the rule rather than the exception largely due to the imaginary dangerousness criteria.  It frequently comes down to whether or not a person is "dangerous".  If they are not, they will find themselves whisked out the front door at their first request.  I have seen that happen when the patient could not find the front door.  The same dangerousness criteria allow for blocked admission from jails or law enforcement.
+
+The third problem is the violent offender or criminal with mental illness.  The distinction is much less clear than most people think.  Psychiatrists Dorothy Ontnow Lewis and Harold Pincus published papers on the high prevalence of neurological abnormalities and histories of brain injury in death row inmates.  Many criminals start to use various substances early in their development and can develop psychiatric comorbidity s a result of this drug use.   In my experience treating criminals or more technically persons with antisocial personality disorder who develop mental illnesses as a result of their criminal lifestyle is a much different problem than a mentally ill person who runs afoul of the law due to their psychiatric symptoms.  The patient who is antisocial or a criminal first needs to be separated from patients without those characteristics to prevent exploitation of vulnerable patients.  Any psychiatric facility in a metropolitan area needs to have this type of capacity or it will diminish the ability of the inpatient service from caring for individuals who are violent and aggressive due to treatable psychiatric disorders.  These individuals are at high risk if they are cared for in correctional settings.
+
+I hope that this post highlights the problem and the potential solutions.  I just read a piece in Nature this morning that highlighted the need to study suicidal behavior.  The Dutch psychiatrists who wrote it emphasize that research on suicide is underrepresented in the psychiatric literature relative to articles on schizophrenia.  In America today we currently have ten times as many mentally ill patients in jails than state hospitals.  We have mass shooting homicides and many of those aggressive individuals either had no resources for treatment or there was no identified path of care for those individuals.  We need an array of psychiatric services focused on violence prevention and treating people who have impaired functional capacity to the point that they run into problems with the law.  We need better systems of care for criminals with primary and acquired forms of mental illness.
+
+Locking all of those people up in jail and restricting their access to medical care is good for business, but it is no way to treat human beings.
+
+
+
+George Dawson, MD, DFAPA
+
+Supplementary 1:  "In 2006 there were 228 state hospitals operating some 49,000 beds."
+
+Fisher WH, Geller JL, Pandiani JA. The changing role of the state psychiatric hospital. Health Aff (Millwood). 2009 May-Jun;28(3):676-84. doi: 10.1377/hlthaff.28.3.676. PubMed PMID: 19414875.

@@ -1,0 +1,15 @@
+I saw this article and the news release yesterday.  I am hoping Ed, our resident research guru, will have some comments on the applicability of this research in helping to find a treatment for Kennedy’s Disease.
+_____________________
+
+Published on January 18, 2012 at 12:00 AM
+Scientists from the Florida campus of The Scripps Research Institute have identified a compound that can help repair a specific type of defect in RNA, a type of genetic material. The methods in the new study could accelerate the development of therapeutics to treat a variety of incurable diseases such as Huntington's disease, Spinocerebellar ataxia, and Kennedy disease.
+
+The new study, published January 17, 2012 in an advance, online edition of the journal ACS Chemical Biology, describes a method to find compounds that target defective RNAs, specifically RNA that carries a structural motif known as an "expanded triplet repeat." The triplet repeat, a series of three nucleotides repeated many more times than normal in the genetic code of affected individuals, has been associated with a variety of neurological and neuromuscular disorders.
+
+"For a long time it was thought that only the protein translated from this type of RNA was toxic," said Matthew Disney, an associate professor at Scripps Florida who led the new study. "But it has been shown recently that both the protein and the RNA are toxic. Our discovery of a small molecule that binds to RNA and shuts off its toxicity not only further demonstrates that the RNA is toxic but also opens up new avenues for therapeutic development because we have clearly demonstrated that small molecules can reverse this type of defect."
+
+In the new research, the scientists used a query molecule called 4', 6-diamidino-2-phenylindole (DAPI) as a chemical and structural template to find similar but more active compounds to inhibit a toxic CAG triplet repeat. One of these compounds was then found effective in inhibiting the RNS toxicity of the repeat in patient-derived cells, which demonstrated an improvement in early-stage abnormalities.
+
+"The toxic RNA defect actually sucks up other proteins that play critical roles in RNA processing, and that is what contributes to these various diseases," Disney said. "Our new compound targets the toxic RNA and inhibits protein binding, shutting off the toxicity. Since the development of drugs that target RNA is extremely challenging, these studies can open up new avenues to exploit RNA drug targets that cause a host of other RNA-mediated diseases."
+
+Source: http://www.scripps.edu/news/press_releases/20120117disney.html

@@ -1,0 +1,5 @@
+I didn't realize until just now that there is a Spring-like inversion-of-control framework for Flex, called Prana (available under a BSD license).
+
+Seeing something like Prana makes me wonder how many other staples of the Java world will be emulated by Flex folk.
+
+Very interesting indeed.

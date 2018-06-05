@@ -1,0 +1,37 @@
+Since large DNA viruses are in the business of making large amounts of DNA, it shouldn't come as a surprise that many of them carry a gene for ribonucleoside diphosphate reductase, the enzyme that allows deoxy-bases (dADP, dCDP, etc.) to be created for use in deoxyribonucleic acid (DNA). The host organism, of course, has its own reductases for this purpose. But you have to imagine that when a giant DNA virus comes barging into a host cell and begins its crash program of digesting host nucleic acids into monomers (free nucleotides), the virus has a huge need to convert those monomers, quickly, into the deoxy form.
+
+So I wasn't totally surprised to find that the genome for PBCV-1, the virus that infects Chlorella algae, contains genes for RNDR (ribonucleoside diphosphate reductase). What's surprising is that the virus brings not one, but two such genes. One gene encodes a short protein (about 370 amino acids); another gene encodes a protein with 771 amino acids. In the case of Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A), which is essentially a variant of PBCV-1, there's actually a third gene, for a protein having 1,103 amino acids.
+
+Why so many genes?
+
+It turns out there are three major types of RNDR enzyme in living organisms, and a given organism can have more than one type. There's an aerobic enzyme (class I) that uses a tyrosine oxygen for radical generation. There's a larger (~1200 AA) class II enzyme that requires adenosylcobalamin (B12) as a coenzyme. And there's an anaerobic class III enzyme that relies on S-adenosylmethionine (SAMe) as a cofactor. Based on the relative sizes of these various enzymes, it appears the PBCV-NY2A virus may be harboring all three. However, most phyocodnaviruses infecting algae seem to have class I and class III reductases, but not the bigger class II.
+
+Human body louse.
+The more-or-less standard assumption, when a virus has an enzyme that the host also has, is that the virus obtained its copy of the gene from the host (at some point in the distant or not-so-distant past). That assumption may have to be revisited for PBCV-1's class III reductase. When you do a protein alignment of the viral reductase against the sequence for the host alga's reductase, you expect to see a lot of sequence similarity. What you find in the case of PBCV-1 vs. Chlorella is that the host enzyme shares only 48% amino-acid identities with the viral enzyme. "Well," you're saying, "but that's pretty good, right?" Not so fast. When you take the virus's enzyme sequence and run a search against the entire UniProt.org database, the most similar non-viral sequence turns out to be the reductase enzyme not of the virus's host (Chlorella) but of Haemonchus contortus, the barber-pole worm, with 53% sequence identities. Also very closely matched: the reductase from Pediculus humanas, the human body louse. Three other organisms also have a closer match of their reductases to the PBCV-1 reductase than Chlorella. (See table further below.)
+
+So did this marine-virus reductase gene actually come from a louse, a worm, or a fungus, rather than from an algal host? Not likely. What's going on here, then? Frankly, it's a mystery. For one thing, we have no way of knowing how ancient the PBCV-1 reductase gene is or how fast it has evolved over the ages, relative to the host gene. Some scientists believe the three classes of ribonucleotide reductase originally stemmed from a common ancestor that was similar to the current class III (anaerobic) enzyme. This makes sense, in that the enzyme probably first came about in a highly anoxic ocean environment, billions of years ago, well before atmospheric oxygen began to accumulate, and maybe before sea water had accumulated much dissolved oxygen gas. The PBCV-1 virus reductase may derive from this ancient design. It's possible that Chlorella and its ancestors evolved extensively over the last few hundred million years, whereas the barber-pole worm and body louse (whose ancestors got the ancient class III proto-enzyme) may not have evolved as rapidly. Therefore, the worm enzyme, the louse enzyme, and the viral enzyme may all still share similarities with the progenitor enzyme that Chlorella no longer shares.
+
+But there are also the forces of selection to consider. Modern ribonucleoside reductases incorporate allosteric control mechanisms that fine-tune the enzyme's capabilities with respect to deoxynucleotide (and small-peptide) concentrations. For example, a 50-amino-acid region at the beginning (N-terminal) end of the enzyme allows the enzyme to be feedback-inhibited by dATP. A virus interested in maximizing the production of deoxy-nucleotides might not want or need this sort of allosteric feedback mechanism. Also, the G+C content of the viral genome is significantly lower than that of the host  (40% vs. 60%), meaning that the viral enzyme might very well be optimized to produce deoxy-nucleotides in different ratios than the normal NTP-pool setpoints desired by the host. In short, it's possible to imagine that the virus's nucleotide requirements are, in fact, much more like a barber pole worm's than those of a healthy Chlorella.
+
+Still, you have to admit: Nature comes up with strange bedfellows.
+
+Here are a few protein matches between PBCV-1 (virus) reductase and other reductases:
+
+Organism Length %ID Score E-value Gene identifier
+Paramecium bursaria Chlorella virus 1 (PBCV-1) 771 100% 4727 0 A629R
+Acanthocystis turfacea Chlorella virus Canal-1 763 76% 3746 0 Canal-1_104L ATCVCanal1_104L
+Haemonchus contortus (Barber pole worm) 795 53% 2513 0 HCOI_01437900
+Pediculus humanus subsp. corporis (Body louse) 795 53% 2483 0 Phum_PHUM350970
+Salpingoeca rosetta (choanoflagellate) 779 51% 2479 0 PTSG_01558
+Pneumocystis murina (fungus) 844 51% 2479 0 PNEG_03325
+Schizosaccharomyces japonicus (yeast) 834 51% 2478 0 SJAG_04665
+Chlorella variabilis (Green alga) 810
+
+48% 2276 0 CHLNCDRAFT_32953
+Cellulophaga phage phi13:1 789 47% 2039 0 Phi13:1_gp061
+Cyprinid herpesvirus 3 806 45% 2092 0 CyHV3_ORF141 KHVJ151
+Acanthamoeba polyphaga moumouvirus 849 43% 1947 0 Moumou_00516
+
+Length refers to the total protein length in amino acids. Percent ID means the percent of target-protein amino acids that were an exact match against (aligned) query-sequence amino acids. Score is a figure of merit for the total matching; E-value represents the expectation that the matches could have occurred by chance (zero, here, in every case; meaning, these similarities probably could not have happened by chance). Finally, the Gene Identifier will let you look up these sequences at UniProt.org or other sequence database sites.
+
+For more on the subject of ribonuceotide reductases in viruses, see the review of phage metagenome RNRs at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3653736/.

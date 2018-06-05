@@ -1,0 +1,23 @@
+By now everyone has heard the news that Adobe will donate code for its ActionScript VM to the Mozilla Foundation for use in Firefox. For a quick snapshot of what's going on, see:
+
+Tamarin project page
+Mozilla foundation press release
+Executive summary and analysis by Frank Hecker of the Mozilla Foundation
+Benchmark comparisons of Tamarin versus JavaScript performance (awesome graph)
+A lot of the blog commentary around this has centered on Flash. IMHO this has little to do with Flash. It has everything to do with ECMA4/JS2 (see my blog entry previous to this one) and the future of AJAX. It will also keep Adobe honest in terms of making sure ActionScript doesn't continue on the path of becoming its own bastard variant of JavaScript (a la JScript), which is to say a not-quite-compliant dialect of ECMA-262.
+
+The ability to run JIT-compiled JavaScript on a VM is killer, because it knocks down all complaints of JS being slow. And it also opens the door to ultra-fast JS on the server (and pure-JS doublesided AJAX).
+
+The VM architecture looks like this:
+
+
+
+
+But again, it's not really about .swf, it's about compiling JS2 into bytecode, which is an incredibly important advancement.
+
+Brendan Eich held an IRC chat yesterday in which he and Kevin Lynch of Adobe fielded questions about Tamarin. A few interesting factoids came to light:
+
+Acrobat's JS engine will move from Spidermonkey to Tamarin.
+The expansion factor for jitting bytecode to x86 is roughtly from 5X for strongly typed, early-bindable code, to 20X for loosly typed, unbindable code. Thus, you pay a price in memory hunger for the ability to JIT-compile JS, but JS2's new typing system mitigates it somewhat.
+The Tamarin codebase comprises 135,000 lines of C++ (smaller than I would have thought). This is sure to grow but Brendan Eich indicated very strongly that Firefox needs to shrink, not grow, hence there will be pressure to keep Tamarin as lean and efficient as possible.
+Tamarin is not 64-bit-ready. But if the project gets the kind of (huge) traction that it appears it will get in the community, the "64-bit Flash" question may finally get solved. And maybe ES4/JS2 will get a "long" data type in addition to int/uint/double. ;^)

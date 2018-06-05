@@ -1,0 +1,17 @@
+Okay, not likely.  But the sugary variety might well be causing depression in those vulnerable to fructose malabsorption.  Have a look at my previous post on the subject.
+
+Today I have a mere observational study that adds to a pile of evidence that soda ain't the best thing in the world to be drinking, behaviorally speaking. "The Twinkie Defense: the relationship between carbonated non-diet soft drinks and violence perpetration among Boston high school students."
+
+Here's an appropriate song (right click in new tab to open):  Kiss With a Fist
+
+Some bad news about behavior and soda, associatively speaking:  In Norwegian adolescents, soda consumption correlated with poor mental health.  Among American college students, those who drank more soda were less likely to be social, less able to understand emotional cues, and more likely to favor individualism (is that bad?).  There are several reasons soda might cause problems - the sugar could lead to a low blood sugar "crash" which is associated with violence (as I discussed in this post).  In addition, soda is a pretty poor source of nutrition other than straight-up calories, so if it replaces more nutritious food in the diet, big soda-drinkers could end up with micronutrient deficiencies.  And yeah, micronutrient deficiencies could lead to more violence.  No one measured if anyone was a fructose malabsorber.
+
+The experimental design of the Boston study was pretty simple - Boston public high school students were randomly selected and asked to answer a survey.  Those who answered that they drank five or more cans of non-diet soda every week comprised 30% of the sample.  They controlled for a bunch of covariates (but I can think of several million more).  Alcohol, age, gender,  race, sleep, smoking, family dinners.
+
+Heavy soda drinkers had similar BMIs to less heavy soda drinkers, and were no more likely to have less than 6 hours sleep.  White, Black, and Hispanic kids are all equally likely to be heavy soda drinkers, but Asians were significantly less likely to be quaffing 5 or more cans a week.
+
+Heavy soda users were far more likely to smoke or drink alcohol, and were far more likely to carry around a knife, have been violent with a sibling, a date, or another young person. When the sample was split into 4 quartiles rather than two, the violence link remained linear, suggesting a dose response relationship.
+
+And that's pretty much it.  A rather limited self-report study with some statistical crunching, no causal relationship can be inferred; though there are some sensible physiologic explanations as to why soda could make you knife your sister, it isn't proven here.  Brain-eating was not examined.
+
+More posts this week!  I need to answer js290 regarding the whole linear glucose thing, and I figured it would warrant a short post rather than a comment.  Jamie has sent me a few papers, and I pulled some reviews on inflammation, atopy, and behavior.

@@ -1,0 +1,33 @@
+Reader Jad left some terrific references in a comment last week, and having printed the papers up (I'm old-fashioned that way), I finally got a chance to look them over.
+
+Whoa.
+
+But before we get to that, right click on this youtube video for an incredible performance of the finale to Britten's "The Young Person's Guide to the Orchestra." If you have three minutes, take the time to watch. If you only have a minute, skip to 1:50, which is the part that always gives me chills. By "incredible performance," I mean this is literally one of the best orchestral renditions I've ever heard of any song. The Berlin Philharmonic hit it out of the park. And check out how good they look! Most of the musicians are middle aged, but I see scarcely a paunch among them - as near as I can tell, this was recorded around 6 months ago. Maybe it's because they are European. I've heard that concert musicians are less prone to chronic metabolic illness, but I've never seen any scientific proof of that.
+
+Jad's papers (1)(2) also take us to Central Europe, where apparently a huge percentage (30-50%) of the population suffers from certain kinds of carbohydrate malabsorption (3). In the fructose variety, the GLUT5 transporter in the small intestine doesn't take up fructose as it should, so lots of undigested fructose floats down to the colon, feeding the bacteria there and leading to bloating, cramping, and diarrhea - basically the symptoms of irritable bowel. It's diagnosed via testing for excess hydrogen in the exhaled breath after a fructose load of 50mg. A similar test can show if someone has lactose intolerance.
+
+Well, the researchers took a hundred or so "otherwise healthy volunteers" who had complained about gastrointestinal distress at a doctor's visit. None were on medication (except oral contraception) or had any signs of chronic or serious illness. They were given a standard scale test for depression (the Beck Depression Inventory) a fructose malabsorption test, then, a week later, a lactose malabsorption test.
+
+Let's cut to the chase - a positive test for fructose malabsorption corresponded to depressed women, but not men. Lactose malabsorption alone didn't matter in either sex, but the 12% of women in the study who were both fructose and lactose malabsorption positive were by far the most depressed. The normal female controls had an average depression score of 7.5 - the combined malabsorption women had an average score of 14.6. That's a huge difference, and the bars hardly overlap at all.
+
+Wow.
+
+Well, why would that be?
+
+Turns out that fructose (and lactose) can react chemically with tryptophan, the amino acid precursor for our important happy chemical, serotonin. The sugars can degrade tryptophan so that there isn't as much available to be absorbed into the body. And, indeed, fructose malabsorbers have lower levels of tryptophan in the serum than normal controls (4). And, hey, turns out they have lower serum zinc and folic acid too! (5)(6).
+
+But why would the symptoms of depression be confined to women? The researchers postulated that estrogen made the big difference. Estrogen activates an enzyme called hepatic tryptophan 2,3 dioxygenase that shifts the metabolism of tryptophan from making serotonin (happy) to making kynurenic (not happy). Women already have lower serum levels of tryptophan than men do (which may be part of the reason why we are more vulnerable to depression in the first place), so screwing up whatever available tryptophan in the diet with fructose may lead to even lower levels, and thus depression.
+
+The researchers couldn't figure out why the combination of fructose and lactose malabsorption was worse than fructose alone - they thought maybe the diarrhea from lactose intolerance would interfere with the absorption of zinc and tryptophan, worsening the fructose situation. Since fructose malabsorption was so common in the population they studied, only a few people had isolated lactose intolerance, and they felt the data set wasn't big enough to figure out the lactose component.
+
+It's also important to note that wheat products contain fructans, which can also cause intestinal problems in fructose malabsorbers. Bread with high fructose corn syrup can be especially problematic.
+
+One more snippet - it seems that fructose malabsorption can affect serum zinc in two ways. First, it seems to interfere with the ability of the intestine to take up zinc in the first place. Second, fructose malabsorption is associated with bacterial overgrowth in the large intestine, which is associated with chronic immune stimulation (shown by higher serum neopterin concentrations)(5). As we know, inflammation likely causes us to sequester our zinc.
+
+1/3 of the Western European population has fructose malabsorption. These Michigan researchers found fructose malabsorption in kids of many ethnic groups. Spanish investigators found in a small study that 71% of the depressed adolescents they studied had sugar intolerance, compared to 15% of controls, and that 28% of their known fructose/lactose malabsorbers had depression, which was a higher rate than expected in that population.
+
+Sounds like yet another excuse to get anyone with depression and IBS off fructose and wheat for a while just to see what happens. Actually, one of the papers above suggested that only half of fructose malabsorbers diagnosed by the hydrogen breath test actually have gastrointestinal symptoms. Heck, let's get everyone off wheat and fructose and see what happens :)
+
+Thanks, Jad!
+
+(please see my next post, Dietary Strategies for Fructose Malabsorption for more information on this topic)

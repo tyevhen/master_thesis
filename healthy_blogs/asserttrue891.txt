@@ -1,0 +1,21 @@
+I've been playing with Sling lately, and I was pleasantly surprised to find that Sling comes with a JSON query servlet that exposes SQL and XPath query capability through a RESTful HTTP GET syntax. (Thanks to Moritz Havelock for pointing this out.)
+
+But I quickly ran into a small problem. (And just as quickly, the solution.) Allow me to explain.
+
+The problem: I want to search for nodes in the repository that have a (multivalued) "pets" attribute containing the value "dog." Note that the "pets" attribute might have multiple values. I want to filter against just one. Therefore I can't do an equality test. I must use the XPath contains() function.
+
+My test query was:
+
+http://localhost:7402/content.query.json?
+queryType=xpath&statement=//*[contains(@pets,'dog')]
+
+This produced an InvalidQueryException, with a message of "Unsupported function: contains (500)".
+
+I was a bit surprised that the servlet seemed to know nothing about any contains() function. A true "WTF moment."
+
+Taking my hint from the stack trace, I quickly ran a Google Code Search on org.apache.jackrabbit.core.query.xpath, and immediately found the answer in XPathQueryBuilder.java: It turns out you have to use the function's qualified name, jcr:contains(). Like so:
+
+http://localhost:7402/content.query.json?
+queryType=xpath&statement=//*[jcr:contains(@pets,'dog')]
+
+I'm so much of an XPath newb that I don't even know if I should have been surprised by this, but it did stymie me briefly. Anyway, it works now and I'm thrilled to be able to do XPath queries right from the GET-go.

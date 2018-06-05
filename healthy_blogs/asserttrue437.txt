@@ -1,0 +1,51 @@
+One of the great myths about antidepressants is that higher doses are more effective than lower doses. That's not how these drugs work, though. Most studies show a flat dose-response "curve" with SSRIs. More isn't better.
+
+This is an important point to understand, because antidepressants quite often don't work for a given patient on the first try, and then it's necessary to do some "adjusting," which means either increasing the dose, switching to another drug, or adding a second med. Fredman et al. found that among 432 attendees at a psychopharmacology course, asked what they would do for a non-responsive patient on SSRIs, most chose raising the dose as the best next-step option. But that's the wrong answer.
+
+In "Dose-response relationship of recent antidepressants in the short-term treatment of depression," Dialogues Clin Neurosci. 2005 September; 7(3): 249–262, (full article here) Patricia Berney of Unité de Psychopharmacologie Clinique, Hôpitaux Universitaires de Genève, Chêne-Bourg, Switzerland, examines a large number of clinical trials to discover the extent to which dosage matters in antidepressant therapy. It's worth going through her discussion drug-by-drug, because if you're taking one of these drugs and your doctor suggests a higher dose, you may want to consider whether it's going to be worth the time and expense. Usually it's not.
+
+Citalopram (Celexa)
+"The short-term studies with citalopram did not show significant differences In terms of clinical efficacy across a dose range of 20 to 60 mg/day. Even a dose of 10 mg/day was effective compared with placebo. The results of the maintenance study by Montgomery et al. and the meta-analysis by the same authors support these findings. Therefore, for the majority of patients, there Is no advantage of increasing the dose of citalopram above 20 mg/day."
+
+Escitalopram (Lexapro)
+This drug is the S-stereoisomer of citalopram (Celexa), meaning that it's structurally no different from half of what's in citalopram. (Citalopram is a so-called racemic mixture of left- and right-handed versions of the same molecule.) According to Berney: "The only fixed-dose-response study with escitalopram indicates that 10 mg/day was equally as effective as 20 mg/day."
+
+Fluoxetine (Prozac)
+"The studies with fluoxetine did not show significant differences in terms of clinical efficacy across a dose range of 20 to 60 mg/day. Even a dose of 5 mg/day was effective compared with placebo. Therefore, for the majority of patients, there is no advantage of increasing the dose of fluoxetine above 20 mg/day. It might even be the case that the higher dose of 60 mg/day is less effective in major depressive disorder." The latter refers to a study by Wernicke: "Fluoxetine 20 and 40 mg/day were statistically superior to 60 mg/day." One study (Dunlop) involving 372 patients found: "Fluoxetine 20, 40, and 60 mg/day each produced an improvement that was no different from placebo on change in the HAMD total score in 355 ITT patients with LOCF at the end of 6 weeks." (ITT = Intent to Treat, LOCF = Last Observation Carried Forward.) The result with completer-case analysis, which is to say just considering the 214 patients who finished the study, was that changes in the HAMD total score "were similar to those of the ITT-LOCF analysis."
+
+Fluvoxetine (Luvox)
+"In this fixed-dose study on a large sample, only fluvoxamine 100 mg/day showed a significant therapeutic benefit over placebo at end-point analysis (on LOCF) on modified HAMD 13 items final score at the end of 6 weeks at fixed dose. Significant differences were not seen between fluvoxamine 25, 50, or 150 mg/day or placebo. On the HAMD 13-items responder analysis, the differences were significant for fluvoxamine 100 and 150 mg/day compared with placebo, but not between these two dosages on visual inspection of the figures in the publication on completer cases analysis."
+
+Paroxetine (Paxil)
+"In the publication by Dunner and Dunbar, there is a short description of a study involving 460 patients. The paroxetine 10 mg/day dose was no more effective than placebo, even on the HAMD depressed mood item. The authors reported also on a pooled analysis from a worldwide database, involving 1091 patients who remained on a fixed dose of paroxetine or placebo for at least 4 weeks, which showed no differences in terms of clinical efficacy across a dose range of 20 to 40 mg/day paroxetine. Therefore, for the majority of patients, there is no advantage in increasing the dose of paroxetine above 20 mg/day."
+
+Note: It's also worth looking at a more recent study by Ruhé et al., "Evidence why paroxetine dose escalation is not effective in major depressive disorder: a randomized controlled trial with assessment of serotonin transporter occupancy," Neuropsychopharmacology 2009 Mar;34(4):999-1010, in which unipolar depressed patients on Paxil or placebo (double-blind) were scanned for SERT occupancy by single-photon emission-computed tomography (SPECT). The overall finding: "Paroxetine dose escalation in depressed patients has no clinical benefit over placebo dose escalation."
+
+Sertraline (Zoloft)
+"In the study by Fabre and Putman, sertraline 50 mg/day, but not 100 and 200 mg/day, was more effective than placebo at end-point analysis on change on the HAMD 17 items total score on ITT-LOCF at 6 weeks. There was no statistical analysis performed between the different doses, but inspection of the data in the publication suggests no differences."
+
+Milnacipran (Savella)
+This SNRI is approved for treating depression outside the U.S., but inside the U.S. it is approved only for fibromyalgia. Four studies were analyzed. They showed "flat dose-response relationship between 100 and 300 mg/day," with 50 mg/day being less effective than placebo.
+
+Venlaxafine (Effexor)
+This SNRI (inhibiting reuptake of both serotonin and norepinephrine) is a Top Ten antidepressant in the U.S. Patricia Berney's finding from reading the clinical trials:
+In the venlafaxine studies, doses varied between 25 and 375 mg/day. A positive dose-response curve was only demonstrated with trend analysis. However, the difference between the higher dose range and placebo was not pronounced. Better efficacy could be obtained with a dose of venlafaxine above 75 mg/day in terms of remission rate. In a review concerning all aspects of antidepressant use, Preskorn mentioned an ascending then descending dose-response curve for venlafaxine in an evaluation comparing 7 dose levels between 25 and 375 mg/day with placebo, coming from fixed and flexible-dose studies. However, the major difference in terms of mean HAMD score change, ie, 2 points, was between a group of patients receiving 175 mg/day and another receiving 182 mg/day, hardly a different dose! This suggests a calculation artifact rather than a pharmacological dose-response curve.
+
+For the majority of patients, a dose of venlafaxine 75 mg/day should be adequate.
+
+Reboxetine (Edronax, Norebox, Prolift, Solvex, Davedax, Vestra)
+A norepinephrine reuptake inhibitor, reboxetine is approved for depression outside the U.S. Said Berney: "Despite availability of several short clinical trials, we cannot comment on the dose-response relationship for reboxetine."
+
+Duloxetine
+"No positive dose-response relationship has been found for 40 to 120 mg/day."
+
+
+The common thread here is obvious. Antidepressants, when they work at all, tend to work about as well whether you take a large dose or a small dose. The dose-response curve for most of these drugs is a straight horizontal line. That's the main takeaway not only from Berney's meta-analysis but a separate meta-analysis by Baker et al.,"Evidence that the SSRI dose response in treating major depression should be reassessed," Depression and Anxiety, (2003), 17(1):1-9. It's also the conclusion reached in yet another meta-analysis by Hansen et al., Med Decision Making January/February 2009, 29(1):91-103 (Said the Hansen group: "Dose was not a statistically significant predictor of categorical HAM-D response. Among comparative trials with nonequivalent doses, trends favored higher dose categories but generally were not statistically significant.")
+
+The lack of a dose-response relationship above a certain minimum effect dose doesn't necessarily mean the drugs are doing nothing. It means that once you've achieved an in vivo concentration of the drug sufficient to saturate whatever transporter protein(s) or receptors the drug in question targets, there's nothing left for the drug to attach to. Thus any excess goes unused.
+
+It's important to note, though, that these drugs do tend to show a strong dose-response relationship when it comes to side effects. (One 2010 meta-analysis found that across 9 different studies, "Higher doses of SSRIs were associated with significantly higher proportion of dropouts due to side-effects.")
+
+Bottom line: Upping your dose, on any of the major antidepressants listed above, isn't a good strategy. It may worsen side effects, but it's unlikely to change your therapeutic outcome. If a particular drug isn't working for you, a far better strategy than upping the dose is to try a different drug and/or add talk therapy to the mix (if you're not already doing it).
+
+Likewise: If you are seeing good therapeutic effect from a drug but side effects are causing problems, you should ask your doctor or nurse practitioner about dialing back the dosage to the minimum therapeutic dose, so as to keep side effects from swamping the therapeutic effect.

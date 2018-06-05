@@ -1,0 +1,10 @@
+The Chronicle of Higher Education has an interesting story from a professor who was asked to stop using Tor because it "violates university policy."
+
+For those who don't know, Tor is an application that allows users to browse the internet anonymously. For people in countries with restrictive governments, Tor is one way to get around "blocked sites." For people working in the drug industry, Tor is a great way to browse sites like PharmaGossip without a trip to the guillotine courtesy of one's employer. Any site to which you travel can track the IP address of your computer as can the network which you are using, so I am a huge fan of Tor, as it is one of the few ways to get around people who want to become acquainted with your browsing habits.
+
+To quote Dr. Cesarini (the "accused" professor):
+When I cover online censorship in countries with no free press, I focus on how those countries rely on hardware, software, and phalanxes of people to make sure citizens can reach only government-approved media. Crackdowns on independent journalists, bloggers, and related dissidents all too often result in their being beaten, incarcerated, or worse. Technologies like Tor represent a beacon of freedom to people in those countries, and I would be doing my students a disservice if I didn't mention it.
+Here is part of Cesarini's account regarding his interaction with the investigators:
+They then gave me a copy of the university's responsible-use policy, which employees must agree to abide by when we first sign up for our e-mail accounts. They pointed out that my actions violated at least three provisions of that policy.
+I wasn't particularly impressed. I had helped edit and revise that policy when I worked for the information-technology office before I earned my Ph.D., and I knew that neither Tor nor any similar program had existed when the policy was first written. I also knew that the provisions in question were vague.
+Read the whole article. I can see why universities would hate people using Tor (it is discussed in the article) but it really does seem an infringement of freedom to tell people that they cannot browse anonymously.

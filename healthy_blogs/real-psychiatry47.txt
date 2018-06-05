@@ -1,0 +1,53 @@
+The pharmacoepidemiology of opioids in the United States depends on a fragmented approach.  I recently posted a CDC study that used a commercial pharmacy database to look at the characteristics of opioid prescribing across individual counties in the United States.  In the past week I came across this data brief from the Office of Inspector General (OIG) of the US Department of Health & Human Services.  Their database is the 43.6 million beneficiaries of Medicare Part D.  Their stated goals are to protect beneficiaries and the community from prescription drug abuse, to prevent diversion and illegal sales, and to protect the program from fraud and unnecessary expense.
+
+Their methodology is unique.  They look at prescription drug events (PDE) for all opioids prescribed in 2016 that are paid for by Medicare Part D.  Any prescription paid by cash or by another insurer is not counted.  Every time a prescription is dispensed and covered by the program a PDE record is sent to CMS (Centers for Medicare and Medicaid Services).  In this case they calculated total spending on opioids, total Schedule II and III opioid prescriptions, and a number of parameters that look at total cost.  They also determined the the prescriptions per beneficiary, and the average daily morphine equivalent dose (MED).  In most of the literature on opioid dosing the milligram morphine equivalents (MME) is a common measure.  MME is just the total mg of opioid multiplied by a conversion factor.  The MED is basically the same measure but it factors in the total duration of the prescription.  As an example for a one day supply of either Vicodin (hydrocodone) 10 mg tabs or Percocet (oxycodone) 5 mg tabs:
+
+ hydrocodone:  12 tabs x 10 mg = 120 mg x 1 (conversion factor) = 120 MME or MED
+
+oxycodone:      16 tabs x   5 mg  = 80 mg x 1.5 (conversion factor) = 120 MME or MED
+
+In addiction practice these are common doses encountered in the low range of prescription opioid use disorders.  I used the brand names for hydrocodone and oxycodone preparations here because that is what people commonly report to me and it typically requires more investigation.  For example "Percocet" or "Perc30s" commonly refers to higher dose oxycodone without acetaminophen - a single 30 mg tablet of oxycodone or 45 MME.  The authors of this brief do not need to be concerned about those data discrepancies because they are able to get specific claims data.
+
+In terms of outcome data, they looked at all of the prescriptions and cost variables as well.  They looked at total exposure.  One in three Medicare Part D beneficiaries received at least one opioid prescription.  That amounts to 14.4 million people out of a 2016 beneficiary base of 43.6 million people.   There were a total of 28.2 million hydrocodone-acetaminophen prescriptions, 5 million oxycodone-acetaminophen prescriptions and 14.8 million tramadol prescriptions.  Tramadol is not typically included in opioid studies even though the M1 metabolite is a mu receptor agonist.  Tramadol is a prodrug metabolized by CYP2D6, metbolism is necessary to to create M1 and slow metabolizer are less likely to experience the analgesic effect and addiction risk.
+
+Of these beneficiaries 501,008 received high dose opioids (MED > 120 mg/day).  The indication here was for noncancer or chronic noncancer pain.  Hospice patients and cancer patients were excluded.  The most common opioid prescribed in this high dose group was oxycodone 30 mg.  The study also defined extreme amounts of opioids as an MED of 240 mg and 69,563 patients received that amount.  There were 678 patients receiving high extreme amounts a MED of 1,000 mg for an entire year.  The concern with very high levels is whether the prescriptions are indicated and whether they might be diverted.  The authors also suggested that fraud could be an issue due to stolen Medicare identification number.  They did give an example of a patient who got 62 opioid prescriptions on one year (61 from the same family physician) with an average daily MED of 3,130 mg.
+
+The brief also estimates the degree of doctor shopping or seeking prescriptions from more than one physician and pharmacy.  The criteria used for this report was 4 prescribers and 4 pharmacies.  A total of 22,308 beneficiaries met that criteria and they also had an average daily MED > 120 mg for a period of three months.  They also identified 162 beneficiaries who got opioid prescriptions from 10 different prescribers and 10 different prescribers in the same time period.  Even larger number of prescribers and pharmacies were noted in the most extreme cases.  That number represents about 0.02% of the total number of beneficiaries using opioids and that is the same order of magnitude of a previous estimate from a large commercial prescription database (4).  
+
+Using the estimates of high dose opioids and degree of doctor shopping allowed for an estimate of serious risk of opioid overuse or overdose.  The number estimate in that category was 89,843 or about 0.6% of the entire group taking opioids.
+
+The brief also looks at the issue of who is prescribing the opioids.  For the 89,843 there were an estimated 115,851 prescribers who wrote at least one of those prescriptions.  A total of 401 prescribers were determined to be "far outside the norm".  One hundred and ninety eight ordered opioids for patients getting extreme amounts of opioids (MED of 240 mg), 264 ordered opioids for patients who appeared to be doctor shopping, and 61 ordered opioids for patients who were members of both groups.  The total number of prescriptions written by prescribers in this group was 256,260 opioid prescriptions.  There were 15 prescribers who ordered opioids for > 98 beneficiaries receiving extreme amounts (MED of 240 mg).   Of the 401 prescribers with questionable prescribing 1/3 or 133 were nurse practitioners (N=81) or physicians assistants (N=52).
+
+Are there any conclusions possible from this administrative look at opioid prescribing in a subset of Medicare patients?  I think that there are a few.  My conclusions assume that generalizations from this data are possible:    
+
+1.  Opioids are commonly prescribed to Medicare recipients - and the vast number of these prescriptions appear to be appropriately managed.
+
+2.  A small number of prescribers appear to be responsible for most of the inappropriate prescriptions - and there are some outliers practicing at the extremes in terms of prescribing patterns.  Very extreme prescribing described in a few cases would appear to be a function of unnecessary use rather than patients with special needs who require extremely high doses of opioids (MED > 375 mg).  That is an important point because concentrations of high dose opioid prescribing is often attributed to the special needs of patients or referral patterns resulting in concentrations of these patients and the need for the prescriber to write prescriptions for these amounts.  If this was a case of biological variability - a much larger fraction of the patients who require extreme amounts of opioids.
+
+3.  The problem of inappropriate prescriber appears to be easy to follow on the CMS data base - the standard political approach to the opioid epidemic is to blame all doctors and mandate various education programs about opioid prescribing.  It should be clear that a minority of physicians or in this case prescribers are problem and there should be a targeted approach.  At the very minimum the prescribers in the top 1% of all prescribers or the group who is prescribing extreme amounts of opioids, to people who are probably doctor shopping, or both should be receiving active feedback from CMS.
+
+4.  Not counting opioids prescribed for cancer or hospice care is an important omission -  This is a problem with very little research or policy making.  Patients undergoing end-of-life care are  prescribed liberal amounts of opioids for pain relief.  There is no question that these patients should have adequate pain relief by whatever medication is necessary.  The question is what happens when there are opioids from these prescriptions that the patient never uses?  One palliative care study (3) noted that of the hospice care agencies responding to their poll, over a third noted that substance use and diversion were a problem for their agency.  Diversion of drugs is known to occur in health care systems where there is monitoring and checks and balances.  There are large amounts of opioids out in in-home hospice care settings with much less accountability.  A similar study looking at the amounts of opioids prescribed in these settings and what happens to that medication is needed.
+
+5.  Opioids are not prescribed in isolation - CMS and the OIG are not medical research organizations.  A more comprehensive approach to the problem would look at all of the medications that these patients are receiving and not opioids in isolation.  Benzodiazepines frequently accompany opioid prescriptions and in some cases with sedative hypnotics for sleep.  Prescribing both compounds can lead to serious and in some cases fatal drug interactions.  That would result in an additional category of inappropriate prescribing of opioids.
+
+Although this is an administrative database, it does illustrate how this data can be used for pharmacosurveillance purposes.  There was emphasis about the cost of opioid prescribing and the need to prevent fraud from a CMS perspective.  The data could also be used to provide valuable feedback to physicians and other prescribers as well as politicians and regulators.
+
+It can be used to counter some myths that seem to exist on both sides.
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+References:
+
+
+
+1:  US Department of Health and Human Services: Office of the Inspector General.  Opioids in Medicare Part D: Concerns about Extreme Use and Questionable Prescribing.  HHS OIG Data Brief OEI-02-17-00250.
+
+2: CDC, “Increases in Drug and Opioid-Involved Overdose Deaths: United States, 2010–2015.” MMWR Morb Mortal Wkly Rep, December 30, 2016, pp. 1445–52. Accessed at https://www.cdc.gov/mmwr/volumes/65/wr/mm655051e1.htm on July 16, 2017
+
+3: Blackhall LJ, Alfson ED, Barclay JS. Screening for substance abuse and diversion in Virginia hospices. J Palliat Med. 2013 Mar;16(3):237-42. doi: 10.1089/jpm.2012.0263. Epub 2013 Jan 5. PubMed PMID: 23289944
+
+4: McDonald DC, Carlson KE. Estimating the prevalence of opioid diversion by"doctor shoppers" in the United States. PLoS One. 2013 Jul 17;8(7):e69241. doi: 10.1371/journal.pone.0069241. Print 2013. PubMed PMID: 23874923.

@@ -1,0 +1,29 @@
+Okay, I've truly lost it. I've just spent the last half hour on the phone calling a couple of pharmacies to find out the cost of antidepressants, all for Shrink Rap. You see, as a doctor, I've never learned what this stuff costs. I know vaguely that the older stuff is cheap, and the latest greatest is expensive, sometimes really expensive. I actually started my research yesterday. I thought I'd compare the prices at a local independent boutique pharmacist in a ritzy neighborhood where home delivery is offered, to a chain, to Walmart or Sams Club with the assumption that Walmart would be the cheapest--though really, I'm not sure of this. My quest was limited, however. By the time I really sat down to do this, it was so late I was limited to 24-hour pharmacies, so no Walmart in the comparison.
+
+With my gratitude to the pharmacists who humored me, here's what I found.
+
+The local independent pharmacy informed me that "our system doesn't allow us to look it up without a prescription." Huh? I asked again several times, they couldn't tell me what a medication cost. Okay....
+
+CVS-- a large chain store-- I got a pleasant sales person on the phone.
+Similarly at Walgreens. Pharmacists are generally nice people, I've found.
+So all prices are for 30 pills, I aimed at the usual antidepressant doses. A little bit of confusion around Elavil (amitryptiline), one of the older tricyclic antidepressants which I just about never use, but it's cheap. I asked about a 100mg dose and CVS told me it came as 75 mg while Walgreens said they had it as 100mg. I only asked for a few prices at Walgreens, mostly to see if there was variation (there was). Zoloft, Lexapro, and Trazodone are scored pills, so if you take half the listed dose, this will last you two months. Many people, however, are on 200 mg of zoloft, and since the largest pill is the 100mg tablet, double the price for high doses. These are the cash prices, in US dollars, and I called pharmacies in Maryland. I tried to set this up as a table spreadsheet, but blogger ate that format.
+
+Paxil, 20 mg...................... 125.99
+generic Paxil 20 mg............ 48.95
+generic Prozac, 20 mg ........19.19 .............29.99 (Walgreens)
+Zoloft, 100 mg ....................140.99
+generic Zoloft, 100mg ......... 45.19
+Celexa, 40mg .......................122.99
+generic Celexa, 40mg............ 33.69
+Cymbalta, 60mg .................. 149.99........... 142.99 (Walgreens)
+Nortryptiltine, generic, 75mg.. 31.69
+Lexapro, 20 mg ..................... 106.99......... 105.99( Walgreens)
+Elavil, 75mg ............................53.59
+generic Elavil, 75mg................ 10.99,,,,,,,,,,, 12.39 (walgreens)
+Trazodone, 150mg ,,,,,,,,,,,,,,,,,,, 23.19
+Wellbutrin XL, 300mg............ 215.99
+generic Wellbutrin XL, 300mg... 149.99....... 139.99 (Walgreens)
+
+
+[from Roy]
+Don't forget about Walmart's $4 list. You can buy 30 pills of any of these for $4, whether you have insurance or not. In the hospital, we frequently choose meds for uninsured pts based on this list (eg, Prozac 20 mg = $4/mo. Elavil, Paxil, Trazodone and Doxepin are other choices for antidepressants.)

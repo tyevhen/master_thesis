@@ -1,0 +1,27 @@
+It's incredibly difficult to remove a psychiatric diagnosis. I've read quite a bit on the blog from readers about the trouble caused by an incorrect or premature diagnosis; I know what they say is true and I've seen it myself. What you may not know is that psychiatrists share the frustration about inaccurate or incorrect information in a medical record.
+
+Many years ago a patient of mine had to get admitted to a medical unit for a diagnostic procedure. She called me weeks later after getting a copy of her discharge summary because the medical resident wrote that she was a "psychiatric patient with a history of multiple admissions". In fact, she had only been admitted once, for depression. My patient wanted to know how to fix this incorrect and potentially very damaging information. That was the first time I ever had to deal with this problem so it took a little investigation, but after calling around I found out the only thing she could really do was write a letter to be included in her chart with the correct information. It also makes me crazy to get a discharge summary from a hospital that lists a discharge diagnosis---particularly one that involves a psychotic spectrum illness---with no data to support the diagnosis.
+
+The problem happens in correctional facilities too. It goes something like this:
+
+Intake nurse to newly arrived prisoner: "Do you have any mental problems?"
+
+Inmate: "I hear voices."
+
+Nurse writes "schizophrenia" on the problem list and fills out a referral to the psychiatrist. I see the guy.
+
+Clink: "Have you ever been in a psychiatric hospital on the outside?"
+
+Inmate: "Nope."
+
+Clink: "Have you ever seen a psychiatrist or taken psychiatric medication?"
+
+Inmate: "Nope."
+
+Clink: "The referral says you've been treated for schizophrenia. Can you tell me about that?"
+
+Inmate: "I hear voices. I have schizophrenia."
+
+After a multitude of questions I figure out this is another inmate self-diagnosis. I clearly document that he does NOT have a psychiatric condition. Then he gets released, re-arrested and convicted, re-sentenced and comes back to my building six months later. His medical problem list still documents "schizophrenia". No one has bothered reading my note. At times I've resorted to writing directly on the problem list: "This patient does NOT have schizophrenia." That seems to help.
+
+I'm careful about how I document my diagnostic thinking. If I'm not sure about a condition, I don't diagnose it. If I'm about 75% sure but not positive, I write that I'm considering a diagnosis but not making it and then I document why I'm not making the diagnosis yet. If I disagree with someone else's diagnosis I explicitly write out the differences in the data that I'm relying on and how I'm interpreting that data. Doctors don't have to agree with one another and our diagnostic criteria are certainly not absolute, but it helps to know how people are thinking.

@@ -1,0 +1,71 @@
+So, you’ve been detained under the Mental Health Act 1983, and you’re in hospital. It’s most likely you’ve been detained under either Section 2 or Section 3.
+
+Section 2
+
+A Sec.2 lasts for up to 28 days. The purpose of detention under Sec.2 is to assess you to decide if you have a mental disorder.
+  There are two grounds for a Sec.2:
+“(a) he is suffering from mental disorder of a nature or degree which warrants the detention of the patient in a hospital for assessment (or for assessment followed by medical treatment) for at least a limited period; and
+(b) he ought to be so detained in the interests of his own health or safety or with a view to the protection of other persons.”
+
+Two doctors will have assessed you and will have decided that, in their opinion, you have a mental disorder. An Approved Mental Health Professional will have “interviewed you in a suitable manner” and would have had to satisfy themselves that detention in a hospital “is in all the circumstances of the case the most appropriate way of providing the care and medical treatment of which the patient stands in need”.
+
+The primary purpose of detention under Sec.2 is to assess you to see if you do, in fact, have a mental disorder or not. Although the detention is for assessment, you can be given treatment as well.
+
+Section 3
+
+A Sec.3 lasts for up to 6 months, although it is fairly unusual for someone to be detained as long as this. The purpose of detaining under Sec.3 is in order to give you the treatment it is thought you need for a mental disorder.
+
+There are three grounds for a Sec.3:
+“(a) he is suffering from mental disorder of a nature or degree which makes it appropriate for him to receive medical treatment in a hospital; and
+(b) it is necessary for the health or safety of the patient or for the protection of other persons that he should receive such treatment and it cannot be provided unless he is detained under this section; and
+(c) appropriate medical treatment is available for him.”
+
+Again, you will have been assessed by an Approved Mental Health Professional and two doctors.
+
+The sort of treatment you will receive is primarily at the discretion of the hospital psychiatrist. However, Electro Convulsive Therapy (ECT) cannot be given to a detained patient unless they consent and are deemed to have the capacity to consent. See this post for more details about ECT.
+
+A Sec.2 cannot be extended beyond 28 days. However, a Sec.3 can be extended for another 6 months. It can be extended beyond that, in which case the renewal would then last for 1 year.
+
+“Mental disorder”
+
+Both sections depend on establishing whether or not you have a mental disorder. The definition of “mental disorder” in the Act is very wide, being “any disorder or disability of the mind”.
+
+The Code of Practice does however suggest a range of conditions which could be considered to be mental disorders. These include the following, although this is not an exhaustive list:
+
+affective disorders, such as depression and bipolar disorder
+schizophrenia and delusional disorders
+neurotic, stress-related and somatoform disorders, such as anxiety, phobic disorders, obsessive compulsive disorders, post-traumatic stress disorder and hypochondriacal disorders
+organic mental disorders such as dementia and delirium
+personality and behavioural changes caused by brain injury or damage
+personality disorders
+mental and behavioural disorders caused by psychoactive substance use
+eating disorders, non-organic sleep disorders and non-organic sexual disorders
+autistic spectrum disorders (including Asperger’s syndrome)
+behavioural and emotional disorders of children and adolescents     
+As a rule, you cannot be detained under the Mental Health Act purely on the grounds that you have a learning disability, unless it is associated with “abnormally aggressive or seriously irresponsible conduct”.
+
+Dependence of alcohol or drugs is not in itself considered to be a mental disorder.
+
+What you can do
+
+Everyone detained under Sec.2 and Sec.3 has the right to appeal.
+
+If you’re appealing against a Sec.2, you will have to do this within the first 14 days of your detention. An independent Tribunal will then hear your appeal within a week.
+
+If you’re appealing against a Sec.3, you can appeal at any time during the 6 months of the detention, and after that during any renewal.
+
+An appeal against a Sec.3 can be considered by a panel of hospital managers. These are not staff of the hospital, but lay people who have an interest in mental health issues and who also have the time to devote to these duties. They would hear your appeal within a couple of weeks. If they do not discharge you from the section, then a Tribunal would hear your appeal within a month or two.
+
+A Tribunal consists of a panel of three – the judge, who is a lawyer, the medical member, who is a psychiatrist, and specialist lay member, who is generally a lay person with a particular interest and experience in working with people with mental health problems, such as an AMHP, a nurse, or someone with extensive experience in the voluntary sector. Tribunals are part of the Judiciary, and are in effect a court of law, although they are much more informal than a normal court hearing.
+
+For both a Managers’ Hearing and a Tribunal you are entitled to have a legal representative to present your case. These are solicitors with particular training and knowledge of mental disorder. You will not have to pay for this representative. Alternatively, you can appoint any other person to represent you, apart from people who are themselves detained under the MHA or who are inpatients in the hospital.
+
+You will be allowed to attend the hearing, and will also be allowed to take part and have your say. The other people present at these hearings will be your representative, your Consultant Psychiatrist or one of his junior doctors, a hospital nurse involved with your care, and someone from the community mental health team, who could be a social worker, a community mental health nurse or an occupational therapist. Your nearest relative can also attend if you want them to. There will also be a clerk.
+
+Both a Managers Hearing and a Tribunal Hearing will have access to three reports: a medical report compiled by the patient’s psychiatrist, a nursing report, and a social circumstances report written by someone from the community team.
+
+Both Tribunals and Managers have to be satisfied that you are “suffering from mental disorder of a nature or degree which makes it appropriate for the patient to be liable to be detained in hospital” for either assessment or treatment. For a Sec.2 they also have to be satisfied that the patient’s detention “is justified in the interests of the patient’s own health or safety or with a view to the protection of others”, while for a Sec.3 they also have to be convinced that “it is necessary for the health or safety of the patient or for the protection of others that the patient should receive such treatment”. For Sec.3 they also have to be satisfied that the appropriate medical treatment is available.
+
+In order to satisfy themselves of these factors, they will use the reports supplied, but will also hear verbal evidence presented by those present. This gives a chance for you and your representative to cross examine the other people present and to give your side. They can then decide one of three things: not to discharge you, to discharge you with immediate effect, or to direct that you be discharged at a future date.
+
+It’s worth appealing, because often a psychiatrist will decide to discharge you from your section before the appeal is heard, and even if they don’t, about 15% of people who appeal are discharged by the Tribunal.

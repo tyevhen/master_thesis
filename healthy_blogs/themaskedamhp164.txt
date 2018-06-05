@@ -1,0 +1,57 @@
+Masked AMHP: Hi, Blog Reader. Nice of you to drop by.
+
+Blog Reader: Clash of the Titans, eh? What’s that all about then?
+
+MA: I’m glad you asked me that. This post is all about when S117 Aftercare Goes Bad.
+
+BR: Ooer! Tell me more…
+
+MA: Don’t worry, I will. This is essentially all about Local Authorities and their efforts to avoid their financial responsibilities to provide aftercare under S117. But don’t go away, it’s fascinating. Honest. Just to briefly recap on my last post about S117, the MHA 1983 established the duty of PCT’s and Local Authorities to provide aftercare to people who had been detained under Sec.3 and certain other sections imposed by the Criminal Courts. From then on, many local authorities challenged the implication that they could not charge for aftercare services under S117. As far back as 1994, the Department of Health had to issue guidance stating clearly: “Services provided under section 117 of the Mental Health Act 1983 are not subject to charging”. In 1998, a Parliamentary written answer stated: “"Charges cannot be levied for services, residential or non-residential, which are provided as part of the programme of after care for a patient . . . under section 117" (Hansard Written Answers, 28 July 1998, col. 172).
+
+BR: I’ve think I’ve got that. Carry on.
+
+MA: If only local authorities were as astute as you! A number of local authorities over the years have sought to either challenge this statement or find ways around it. A good example is Regina v. Manchester City Council Ex P Stennett and Two Other Actions [2002] UKHL 34. This involved consideration by the Court of Appeal of 3 cases of people with mental illness who had been detained under Sec.3, discharged into residential care and then charged for their accommodation. These cases were appealed by the individuals, and their appeals were upheld. The 3 local authorities involved then took the cases to the House of Lords. They argued that S117 merely operated as a gateway section to trigger provisions under other statutory provisions, for example, Sec.21 National Assistance Act 1948, under which services can be charged. The Court of Appeal dismissed this argument and the appeals.
+
+BR: Quite right, too. Justice prevails.
+
+MA: But then another tack is to simply try to avoid providing appropriate aftercare at all. AK v Central and North West London Mental Health NHS Trust and The Royal Borough of Kensington and Chelsea, Queen’s Bench Division, 30th May 2008 concerned the case of a man with schizophrenia who made an apparent suicide attempt by jumping from the second floor window of bed and breakfast accommodation whilst he was under the care of a Mental Health NHS Trust and the local authority. He was seriously injured. He brought a case of negligence against them for failure to provide appropriate aftercare under S117, as he had previously been detained under Sec.3, specifically, for “failing to provide or arrange for the provision of a competent social worker or care-coordinator to address the Claimant’s need for high to medium supported accommodation, and to ensure his safety by securing such a placement”. The original case was dismissed, but there was a further appeal to the Court of Appeal, which found that both the NHS Trust and the Local Authority, as well as acting negligently, had breached Articles 3 & 8 of the European Court of Human Rights, and the appeal was allowed.
+
+BR: The European Court of Human Rights, eh? This goes right to the top, doesn’t it? By the way, just remind me what Articles 3 & 8 are?
+
+MA: I do like your questions. It’s almost as if I wrote them myself. Article 3 prohibits torture and inhuman and degrading treatment or punishment, and Article 8 concerns the right to respect for private and family life.
+
+BR: Do you think that’s why the present Government has been talking about getting rid of the Human Rights Act?
+
+MA: I couldn’t possibly comment.
+
+BR: Do local authorities always get a hammering?
+
+MA: Mmmm, let me think – not always, there’s the case commonly known as “Mwanza” (R v Greenwich London Borough Council and Bromley London Borough Council, ex parte Michael Mwanza (2010) [2010] EWHC 1462 (Admin) QBD (Admin) (Hickinbottom J) 15th June 2010). This case involved a Zambian national who was in this country on the basis that his wife had a student visa. He was subsequently detained under Sec.3. He and his wife stayed in this country for several years, during which time his wife’s student visa ran out and they were then considered to be residing in this country unlawfully, so they were unable to work or claim benefits. He applied for accommodation and financial support. When this was refused, he applied for judicial review on the basis that S117 aftercare covered both eventualities, as they could be considered to be necessary in order to prevent a deterioration in his mental health. The Court found that a local authority’s duty to provide aftercare was limited to the services necessary to meet a need arising from a person’s mental disorder. As his mental disorder had not been the cause of his homelessness or destitution, then there was no requirement on the local authority to meet this need.
+
+BR: That must have been a relief.
+
+MA: You’re right, it does put clear limits on what can be considered to be aftercare, ie services only need to be provided under S117 in order to meet an assessed mental health need.
+
+BR: Any other problems around provision of S117 aftercare?
+
+MA: This is where it gets really dirty. Local authorities mud wrestling with each other over which one is responsible for providing aftercare! Figuratively speaking, of course. I’m not suggesting that representatives of local authorities literally get into a pool of mud and resolve disagreements over funding by wrestling with each other.
+
+BR: I didn’t think you were.
+
+MA: Although, come to think of it, it could be a good way of sorting out disputes…
+
+BR: So, what sort of disagreements do they have? Are they fighting over the opportunity to pay for aftercare?
+
+MA: Hardly. I’ll give you a theoretical, but not unusual, scenario. Mr X lives in the area covered by Authority A. He has paranoid schizophrenia, becomes unwell, and is detained under Sec.3 MHA. The S117 aftercare planning meeting concludes that he needs specialist long term care that can only provided in a care home. They find an appropriate home in the area covered by Authority B and he is placed there. A year or so later, his mental state deteriorates and he is again detained under Sec.3. So who is responsible for his aftercare when he recovers?
+
+BR: Well, if Authority A placed him there, then surely they are still responsible for his aftercare?
+
+MA: Wrong. You see, he has changed the place of his residence. He no longer resides in Authority A, but Authority B. Therefore Authority B has to pick up the tab for aftercare.
+
+BR: Let me think about this – so Authority A might be quite happy for Mr X to become unwell and need detaining again, because they would no longer have any responsibility for providing aftercare?
+
+MA: I’m sure that no local authority would be so unscrupulous as to permit that to happen. But there are some local authorities in the country that have a lot of care homes compared to other places, and therefore other local authorities frequently make placements out of area. Those local authorities can therefore end up with a disproportionate number of complex cases for whom they become responsible for the duty to provide S117 aftercare. And they’re often not terribly happy about it. Consequently, they go to law from time to time. There have been a couple of very recent court cases in which the Courts have been asked to make judgments about which local authority is responsible: R (Hertfordshire County Council) v LB Hammersmith and Fulham (JM as Interested Party) Court of Appeal, Carnwath, Rimer and Sullivan LJJ, [2011] EWCA Civ 77, 15th February 2011, and R (on the application of Sunderland City Council v South Tyneside Council [2011] EWHC 2355 (Admin) QBD (Admin) (Langstaff J) 15th July 2011. The first case looks at the concept of “ordinary residence” as defined by Sec.21 National Assistance Act 1948, and dismisses it for the purposes of S117 aftercare. During the court case, the argument was explicitly advanced that there was a need to reduce the temptation for local authorities to place people for whom provision was made under Sec.21 out of their area so that the authority in which they were placed became responsible if Sec.3 of the MHA was invoked. This argument, however, was dismissed. In the second case, one of the conclusions was that there was no material difference between “resident”, “ordinarily resident” and “normally resident”, and also that a hospital could not be considered to be a place of residence for these purposes. That would be a relief to local authorities who have hospitals where people from out of area may frequently be admitted.
+
+BR: Well, thanks again, Masked AMHP, for yet another enlightening post. I will in particular be left with an indelible image of Directors of Adult Services slugging it out together in a pool of mud over who’s going to pay for Mr X’s aftercare.
+
+MA: It’s my pleasure.

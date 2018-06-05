@@ -1,0 +1,32 @@
+Is this really what a placebo amounts to?
+Over the weekend I was reading some medical studies involving placebos. The experimental protocols were of the standard double-blind type in which a control group gets a placebo without either the group or their doctors knowing it.
+
+One of the studies involved a medical condition for which sugar (supposedly the main ingredient of placebos) might be anything but biologically inert, and I thought to myself "Okay, certainly the doctors would know that and would choose a sugar-free placebo for the study." But when I read the study I couldn't find an ingredients list for the placebo. Maybe it was a sugar pill. Maybe not. We'll never know.
+
+Then I started to wonder: Who makes placebos? Where do they come from? Is there a widely used "standard placebo" that scientists typically use in studies? What does it contain, exactly? And so on.
+
+Let me skip right to the punch line. It turns out the drug companies (the very people who perform and/or fund the efficacy studies FDA relies on when granting new drug approvals) manufacture their own placebos -- and aren't required to list the ingredients.
+
+One reason this is so disturbing is that drug companies are allowed to use (and do increasingly use) active placebos in their studies. An active placebo is one that is biologically active, rather than inert.
+
+"But wait," you're probably saying. "Isn't the whole point of a placebo that it's biologically inert, by definition?"
+
+You'd think so. But you'd be wrong. Active placebos are designed to mimic the side-effects of drugs under study. So for example, if a new drug is known (or thought by the drug company) to produce dry mouth, the drug company might use a placebo containing ingredients that produce dry-mouth. That way, of course, they can say things in their ads like "[drug name] has a low occurrence of side effects, such as dry mouth, which occurred about as often as they did with placebo."
+
+In a 2010 study by Beatrice A. Golomb, M.D., Ph.D. (and colleagues), published in the Annals of Internal Medicine (19 October 2010;153(8):532-535), some 150 recent placebo-controlled trials were examined to see how many of them listed placebo ingredients. Only eight percent of trials using placebos in pill form (the majority of trials) disclosed ingredients. Overall, three quarters of studies failed to report placebo ingredients.
+
+One of the trials in the Golomb study involved a heart drug. Over 700 patients participated, so it was a good-sized study by any definition. In a subgroup of patients that had recently experienced a heart attack, the drug in question (clofibrate) was no better than placebo in extending patients' lives. But the placebo was actually quite effective, reducing the group's mortality rate by more than half. However: the placebo was olive oil. And olive oil is known to fight heart disease.
+
+Carelessly chosen placebos can also have a harmful effect. Dr. Golomb tells of receiving a call from HIV researchers whose drug study had to be aborted because the placebo group was "dropping like flies." The placebo contained lactose. It's well known that lactose intolerance is higher for HIV patients than for the general population.
+
+It's inconceivable (to me, at least) that there are no laws requiring drug companies to list placebo ingredients. The fact that drug companies can formulate their own placebos (some of which are biologically active) and not list the ingredients, in research aimed at getting approvals from FDA, is shocking and outrageous.
+
+It's quite obvious that researchers (whether associated with drug companies or not) need to agree on a standard placebo of some kind (or at least standards for placebos).
+
+FDA needs to review its policies on placebos and either outlaw "active placebos" or rigorously define acceptable conditions for their use.
+
+When I say FDA needs to review its policies on placebos, I'm referring to such (ongoing) practices as letting drug companies de-enroll study subjects from studies based on individuals' sensitivity to placebos. (Drug makers usually begin a study with a two-week "washout period" during which time potential subjects take either a placebo, or nothing. Subjects who respond to the placebo can be summarily taken out of the study before it begins in earnest.)
+
+The current anarchy that prevails with regard to placebos calls into question the reliability not just of drug-company research but of virtually every placebo-controlled study ever done. Which is a hell of a thing to have to say, or even think about. In fact it's nauseating.
+
+Someone, please: Pass me the Tic-Tacs.

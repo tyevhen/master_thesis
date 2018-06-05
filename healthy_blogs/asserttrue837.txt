@@ -1,0 +1,5 @@
+Yesterday, eWeek interviewed me for a story, "Midmarket Digital Asset Management Firms Disappearing." The thrust of it is that there are damn few DAM solutions for small to midsize businesses, specifically businesses that need a solution that's scalable and plays well with typical SMB IT infrastructure, all for under $100K. The situation is somewhat odd, given that there are tons of CMS vendors in the $10K to $50K range (plus open-source offerings). In the DAM world there aren't even any serious open-source contenders.
+
+I think there's an opportunity here (arguably) for someone to build a powerful but affordable DAM application that will run atop (or alongside?) an open-source CMS.
+
+Failing that, I'd be happy if someone would just build an Adobe Bridge-to-Alfresco connector.

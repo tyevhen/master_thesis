@@ -1,0 +1,30 @@
+*probably not, but that is the media portrayal,
+
+Rachmaninoff, Prelude in C# Minor (Right click to open in new window.  My mother used to play this one all the time, and, being really one of his most famous pieces, Rachmaninoff was asked to play it in an encore at nearly every performance, and apparently got very sick of it.)
+
+A new paper came out in Nature earlier this week.  A genetic study from Iceland.  Iceland is a pretty cool place for genetic studies, because everyone knows everyone else, I've been told, and everyone is someone's third cousin or whatever.  It reminds me of my family from North Carolina and the smallish towns where you will meet someone and one of the first questions will be (in a cheerful Southern accent):  "So who are your people?"
+
+I've covered interesting genetic findings in Iceland before, quite some time ago, where I also made a case for evolutionary medicine being useful even for those pesky diseases of old age, such as dementia or cardiovascular disease.  I simultaneously mocked Dr. T. Colin Campbell.  Hey, I was young and perky back then.  And shout out to Dr. Aaron Blaisdell, Professor of Psychology and Strict Grammarian for setting me straight on the Octopuses v Octopi situation (it's Greek, not Latin, or something).
+
+The Case for Evolution:  Octopuses, Grandmothers, Iceland, and Poor Dr. T Colin Campbell.
+
+Soooo, let's review a little bit about Alzheimer's pathology.  Over a long period of time (decades), you get slow build-up of amyloid beta plaque which is pretty asymptomatic.  Then the inflammatory markers in the brain begin to build big time along with the accumulation of tau "tangles," there is massive neuronal destruction, and over the next years you get steady cognitive decline and eventually death.  There's no simple cause, no easy solution (such as a vaccine or pill) to prevent or cure it.
+
+Part of the pathology of Alzheimer's involves a protein called Amyloid Precursor Protein (or APP).  APP can be spliced in a number of ways.  Via the beta (BACE1) and gamma secretases, APP gets split into the fragments that can lead to plaque build-up.  A deficit of omega3 in the brain may push this process along.  If you cleave APP at an alpha site, the beta subunit is broken-up and the metabolic products are harmless.  Plenty of omega3 seems to favor this cleavage.
+
+Various human genes for APP exist, and some (at least 30 known variants) seem to make folks at risk for early Alzheimer's disease.  In Iceland, researchers found an allele of a part of the APP gene called rs63750847-A.  Carriers of this allele (also known as the A673T substitution, as there is an alanine to threonine substitution at position 673 of the APP protein)  were significantly less likely to have dementia at the age of 85 than the general population.  This mutation seems to make people resistant to Alzheimer's dementia and cognitive decline in general.  In fact, the effect is such that folks who actually reach the age of 85 are more likely to carry the gene than the general population as well.  However, in most populations, fewer than 1% of folks seem to carry the protective gene.  
+
+
+BACE1 is an enzyme that cleaves APP into the beta amyloid fragment, and havign the protective gene seems to reduce this cleavage.  Interestingly (as seen on twitter), levels of BACE1 seem to depend upon your folate/methylation status, with high homocysteine, an inefficient folate cycle, and poor nutrition also favoring cleavage of APP into the amyloid beta plaque.
+
+
+Why am I skeptical about this research leading to a curative drug?  Well, we already hae researched amyloid killers.  There is even a vaccine that seems to clear out amyloid, but it doesn't seem to stop the progression of Alzheimer's, and in some cases, anti-plaque drugs seem to have made the situation worse.  However, focusing on reducing BACE1 cleavage might be more fruitful.  Of course, having enough B12 and folate and SAMe and omega3 will help as well.
+
+
+Interestingly, this study also seems to link Alzheimer's pathlogy with cognitive decline in non-Alzheimer's patients.  But is that a human trait, born of our crazy large brains, or a product of modern lifestyle and deficient nutrition?  I speculate about that issue in this article.
+
+
+It's always interesting to learn something new about Alzheimer's and our brains.  It's also important to remember that the pathology of Alzheimer's is a complicated and constantly evolving process, and something that might be helpful at early stages might not do diddly squat at later stages (omega3 supplementation, for example), or something like a deep ketogenic diet may be very helpful at later stages but either too stringent or not preventative at earlier stages.  I also find it interesting that this protective allele is so rare.  We would not have grandmothers if the survival of the older generation were not important to the propagation of our species.  Could this protective allele leave folks more vulnerable to infection or some other issue?  
+
+
+Just some pondering!  I can't promise I will be blogging with any frequency coming up.  We have AHS, a couple of other planned talks, and summertime, and it looks at this point like every weekend is bespoke between now and late August.  Since I'm one of those folks who prefers very little in the way of plans… we'll see how it goes.

@@ -1,0 +1,34 @@
+Not the right way to displace the nearest relative
+The Mental Health Act 1959 first introduced the concept, role and statutory rights and duties of the Nearest Relative as applied to patients subject to the Act. The 1983 Act and the 2007 Act hardly made any changes. I have discussed the role of the Nearest Relative in a number of previous posts (just look up the Nearest Relative tag on the Blog).
+
+In certain circumstances, the NR under the Mental Health Act can be displaced, and replaced with an acting NR.
+
+The Code of Practice states (Para 8.6):
+“An acting nearest relative can be appointed by the county court on the grounds that:
+the nearest relative is incapable of acting as such because of illness or mental disorder;
+the nearest relative has objected unreasonably to an application for admission for treatment or a guardianship application;
+the nearest relative has exercised the power to discharge a patient without due regard to the patient’s health or wellbeing or the safety of the public;
+the nearest relative is otherwise not a suitable person to act as such; or
+the patient has no nearest relative within the meaning of the Act, or it is not reasonably practicable to ascertain whether the patient has a nearest relative or who that nearest relative is.”
+I was recently asked by an AMHP: Is there any guidance to the practicalities of executing the role of acting nearest relative for professionals?
+
+This got me thinking. And searching. While displacing a patient’s NR and appointing an acting NR is not a very common procedure, it happens often enough that all local authorities have detailed written procedures for how AMHP’s may displace nearest relatives. However, none of them appear to give written guidance on exactly how an individual appointed to take on that role should discharge that duty.
+
+The Code of Practice has nothing to say about how someone appointed to act as a nearest relative should act, and neither does the Reference Guide. The MHA itself makes the only reference to specific duties, and this is in Sec.116.
+
+Sec.116(1) states:
+“Where a patient to whom this section applies is admitted to a hospital ... the authority shall arrange for visits to be made to him on behalf of the authority, and shall take such other steps in relation to the patient while in the hospital as would be expected to be taken by his parents.”
+
+Sec.116(2) defines to whom this section applies. It predominantly applies to children and young people, but it also includes “(c) a person the functions of whose nearest relative under this Act are for the time being transferred to a local social services authority.”
+
+Richard Jones in the Mental Health Act Manual has little to add to the bare words of the MHA. However, David Hewitt, the author of The Nearest Relative Handbook, in an interesting and informative lecture I attended at a North West & North Wales AMHP Conference in 2013, observed that the acting nearest relative “must be treated as if they were the substantive nearest relative”. He interprets this to mean that they should exercise all the nearest relative rights, interestingly including the right to delegate nearest relative status.
+
+David Hewitt, in The Nearest Relative Handbook, points out that to act as a patient’s representative is not the identified role of the NR. This means that the local authority appointed acting NR is a distinct role from that of the Independent Mental Health Advocate (IMHA). He acknowledges that the role of the acting NR is ill-defined, but also points out that this is also the case for a normal NR.
+
+The NR has some wide ranging powers and duties. These include the right to be consulted regarding decisions being made by professionals concerning the patient, the right to make an application in their own right under Sec.2, 3, 4 or 7 MHA, and the right to request that an AMHP assess the patient under Sec.13(4) MHA.
+
+If the acting NR is an AMHP employed by either the local authority or the local MH Trust, it is actually quite difficult to see how they might comfortably exercise some of these powers and functions.
+
+Indeed, David Hewitt points out that there ais considerable scope for conflicts to arise with the role of the AMHP, the role of the IMHA, the wider advocacy role, and with the role of the Director of Adult Services. He has suggested that possible solutions to these conflicts could be by neighbouring local authorities having reciprocal arrangements to provide this role, or even to use some sort of external independent provider.
+
+It seems to me that this is an issue that local authorities and Trusts need to address.

@@ -1,0 +1,55 @@
+Warning: boring content intended for Medicare clinicians who file claims.  Even a graphic won't spice this up.
+
+Blanket disclaimer: I have no special insights and I did my best to get someone to figure this out for me.  I am not liable or responsible in anyway if the information below is wrong, if Medicare cuts your fees or repossesses your first-born.
+
+Medicare and I have a hate-hate relationship, yet still, I remain a non-participating provider and have not opted out.  It's a matter of time, and grappling with my own guilt and inertia, but for the moment, I remain under their thumb.  Over on Reidbord's Reflections, Dr. Reidbord blogs about why he's opted out.  
+
+So there's something called the Medicare Physician Quality Reporting System that needs to be done by the end of 2013 or clinicians will have a 1.5% fee reduction in 2015.  
+
+Roy said: put a number in a box and pray.
+Another dear colleague, who is involved with the APA, was kind enough to figure out the details for me and to actually follow up with me when I would have wandered off and forgotten about this, so let me share all his wisdom with you.
+
+1.  This has nothing to do with 'meaningful use.'
+2.  You need to do this for one patient, one time in 2013, to avoid a 1.5% Medicare fee cut in 2015. (I confirmed this with the APA)
+3.  This is not an incentive thing, it avoids a fee cut but does not get you a fee increase.  That takes more work then I can even begin to think about.
+----
+Starting with the box, to find the one to put the number in:
+Medicare claims are submitted on a HCFA-1500 form.  There are spaces for 6 dates/services.
+On one line, do as usual and put the date, the place of service, and the CPT code (for example 99213) and the corresponding fee.
+On a second line, you may have the same date, place of service, and an add on code (for example +90833 for psychotherapy), or you may not.
+When you're done with the CPT codes, go to the next empty line and add the date, the place of service, and the box you're going to use is the one below the last entered CPT code (the column is labeled CPT/HCPCS). Here you will add a "G" or "F" code, explained below, to report a measure.
+----------
+Now that you have the box, here's how to pick the code/number.
+There are 259 reportable measures.  Psychiatry boils down to 12 or 13.  If you want an easy answer, scroll down to the red text.
+
+Here are some of the many the options:
+For a patient with major depression being seen for a psych eval, a new patient eval, or a routine E/M visit (99212-99215):
+~Enter G8126 if the patient with a new episode of depression has been treated with an antidepressant for 12 weeks/84 days during the acute phase of treatment
+~Enter G8128 if the patient was not an eligible candidate for antidepressants or did not have a new episode of MDD
+~Enter G8127 if the patient with a new episode of depression is not documented as being treated during the entire 12 week acute treatment phase.
+
+If you don't like those options, there are codes for medication reconciliation after d/c from an inpatient unit, or if you do an advanced care plan with a patient over aged 65.  
+One easy option might be 1123F: Advance care planning not documented, reason not otherwise specified.
+
+Other measures relate to DSM-5 which I am so far ignoring, so I'm not typing them in here.
+
+For patients with major depression:
+G8932: Suicide risk assessed at the initial evaluation
+3092F: Major Depressive disorder in remission
+G8933 Suicide risk not assessed at the initial evaluation, reason not given.
+
+Documenting medications in the medical record including otc meds/supplements/herbals:
+G8427 documented medications to the best of your ability
+G8430 patient is not eligible for medication documentation (huh?, go figure)
+G8428: meds not documented, reason not given.
+
+There are measures for screening for depression in patients older than age 12, but I'm skipping those here.  There are also coordination of care codes that I'll skip.
+
+Haven't found one you like yet?  Here are more:
+3016F: patient screened for unhealthy alcohol use with a systematic screening method
+4004F patient screened for tobacco cessation intervention  and counseled/treated if a smoker
+1036F Current tobacco non-user
+
+So basically, you can pick one non-smoking Medicare patient, put the date, and put 1036F, and then enter the fee for the service which is $0.00.   If your computer doesn't allow a $0 fee, put $0.01. That will keep you from a 1.5% fee cut in 2015.  Unless, of course, I'm wrong.
+
+The prayer, apparently, is non-specific and any religion will do.   

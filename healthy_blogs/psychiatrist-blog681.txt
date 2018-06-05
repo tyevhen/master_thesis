@@ -1,0 +1,26 @@
+ 
+Sunny CA recently asked me my thoughts about the use of solitary confinement in light of allegations that this can cause mental illness.
+
+My short answer to this is, "Don't believe everything you read in the media about solitary confinement."
+
+When I first started working in corrections I started with the same assumption, that locking someone in a single cell might cause something called the "SHU syndrome". The exact symptoms that make up the SHU syndrome vary a bit but the gist of it is psychosis with disruptive or self-injurious behavior.
+
+Once I had some experience under my belt working in maximum security and control unit environments, I started to question this theory because I just wasn't seeing the new onset psychosis that everybody suggested should be happening. I reviewed the literature and discovered that some of the articles that were repeatedly cited about this were written by psychiatrists who were plaintiff's experts in class action suits involving longterm segregation. I also found out that the articles describing SHU syndrome were no more than series of case report studies. In the classic Grassian article about solitary confinement, the author even admitted that he had to encourage the inmates to report their symptoms! And there were no well controlled studies about it. I did find a series of four papers in the British Medical Journal that did repeated measures of various psychological test batteries on inmates, and compaired scores against the subjects' accumulated incarceration history. These papers found no deleterious effects from confinement in general, but was not specific to segregated confinement. Another study from Canada (I think Wormith was the first author) found no negative effects, but this was a short term (just a few months) study.
+
+The best designed research on the effects of longterm segregation was just published this past November. The University of Colorado researchers studied a few hundred inmates who were taken to disciplinary adjustment hearings and were at risk for longterm segreation. They compared those who were transferred to segregation with those who were returned to general population, and had an additional control group of inmates in the prison psychiatric hospital who also had disciplinary and behavioral problems. They compared the mentally ill inmates to the non-mentally ill inmates in all three settings over time (Ad Seg, Gen Pop and psych infirmary). They did testing every three months over the course of one year.
+
+They used tests that measured eight different symptom dimensions, in addition to ratings done by the clinical and correctional staff (the BPRS).
+
+Here, in a nutshell, are their findings as quoted from the executive summary with the "bottom-line" conclusions in bold-face:
+
+"The results of this study were largely inconsistent with our hypotheses and the bulk of literature that indicates AS (administrative segregation) is extremely detrimental to inmates with and without mental illness. We hypothesized that inmates in segregation would experience greater psychological deterioration over time than comparison inmates, who were comprised of similar offenders confined in non‐segregation prisons."
+
+"In examining change over time patterns, there was initial improvement in psychological well‐being across all study groups, with the bulk of the improvements occurring between the first and second testing periods, followed by relative stability for the remainder of the study. "
+
+"We stated that offenders in segregation would develop an array of psychological symptoms consistent with the SHU syndrome. As already discussed, all of the study groups, with the exception of the GP NMI group, showed symptoms that were associated with the SHU syndrome. These elevations were present from the start and were more serious for the mentally ill than non‐mentally ill. In classifying people as improving, declining, or staying the same over time, the majority remained the same. There was a small percentage (7%) who worsened and a larger proportion (20%) who improved. Therefore, this study cannot attribute the presence of SHU symptoms to confinement in AS. The features of the SHU syndrome appear to describe the most disturbed offenders in prison, regardless of where they are housed. In fact, the group of offenders who were placed in a psychiatric care facility (SCCF) had the greatest degree of psychological disturbances and the greatest amount of negative change."
+
+This study describes exactly what I see. The inmates who end up in solitary confinement have significant problems to begin with, but segregation doesn't necessarily make them worse.
+
+The ACLU and other advocacy organizations are understandably not happy with this study and you can find the major criticisms just by Googling "Colorado solitary confinement." The study itself is not so easy to track down but I found a link Colorado Longterm Segregation study.
+
+Thanks for asking the question Sunny, it's a topic that I've been particularly interested in.

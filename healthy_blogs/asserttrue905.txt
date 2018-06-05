@@ -1,0 +1,7 @@
+Over the holidays I decided to wade into the murky waters of OpenOffice development. I was quickly up to my neck in mud.
+
+It turns out I'm not the only one. Key OOo insiders are acutely aware that the barriers to participation in OOo development are way too high (keeping community participation in OOo development way too low).
+
+It's not just that finding all the code is hard or that the C++ codebase is around 7 million lines of code. It's that a full compile-and-build of OOo takes 15 hours on a typical desktop PC. If you can get it to build at all.
+
+Some of the entry-barrier issues are more fully discussed in Jens Heiner Rechtien's 31 Dec 2006 blog.

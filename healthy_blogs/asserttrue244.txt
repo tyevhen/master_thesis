@@ -1,0 +1,19 @@
+Hachette and Amazon are locked in a pricing dispute that's gone on for some time now. It may eventually be resolved, although frankly, it could well go unresolved, too; Hachette doesn't have to cave in to Amazon's demands. Hachette may well hold its hard-line position forever (and suffer the consequences in terms of poor placecment on Amazon's sites, shipping delays by Amazon on Hachette books, and so forth) . But many people believe the dispute will eventually be resolved. Is there a way for investors to come out ahead?
+
+Bear in mind, none of what follows constitutes investing advice. I mention it as a hypothetical scenario.
+
+Here's how some investors would play this situation. We know that if the dispute is suddenly resolved, there's a good chance Amazon shares will go up in value. But there's also a chance Hachette will pull the plug on Amazon and announce a deal with another (r)etailer, in which case Amazon shares would likely plummet. A resolution to the dispute could send AMZN shares sharply higher, or sharply lower.
+
+This is a classic example of a situation in which an options trader would hope to make money on a straddle. A straddle is where you buy a call option and a put option (one is a bullish bet; the other a bearish bet), simultaneously, at the same strike price.
+
+Let's say you think the dispute will be resolved in the next 30 days. You might decide to buy an October AMZN call option for $16.05 (full contract price: $1605, 100 shares), at the $315 strike. An October 2014 put is $13.95. Total cost: $3000. (These prices are based on the 8 Aug 2014 closing prices.)
+
+If the Hachette dispute is resolved and the dispute resolution moves AMZN share price by $30 (which is not unreasonable; it's less than 10% of Amazon's current share price), one option will move into the money and the other will move out of the money. Currently, a $30 into-the-money move on the call makes it worth $37.30 while a $30 out move makes its worth $5.25. On the put, a $30 move makes it worth either $33.20 (if the stock goes down $30) or $4.55 (if the stock moves up). In one case you end up with a total of $4185 and in the other case you end up with $3845. Your initial investment was $3000.
+
+If you think the dispute won't resolve in September (and there's certainly no indication that it will), you could choose to buy January options. The prices of the options will be higher but the straddle would still work, in theory. The problem with all options contracts, though, is that they suffer substantial price decay over time (for January contracts, figure roughly ten to twelve cents a share per day, per option). Bottom line, 40 days' worth of waiting could cost you $800+ in decay (on one call and one put). So there's a substantial penalty for having to wait. And it looks like this dispute could go on for some time. In fact, it could go on forever, since the parties are not obligated to reach an agreement.
+
+Also, bear in mind there's no guarantee AMZN stock price will move $30/share when the Hachette dispute is resolved (if indeed it ever is resolved). It could move a lot less, or not at all.
+
+So use caution. This is far from a risk-free strategy.
+
+Disclaimer: Consult your investment advisor (I am not one) before doing any trades.

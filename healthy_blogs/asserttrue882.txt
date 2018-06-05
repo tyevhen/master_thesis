@@ -1,0 +1,22 @@
+Ever since Java 1.4.2 came out, I've been a big fan of java.beans.XMLEncoder, which lets you serialize runtime objects (including the values of instance variables, etc.) as XML, using just a few lines of code:
+
+
+   XMLEncoder e = new XMLEncoder(
+                      new BufferedOutputStream(
+                          new FileOutputStream("Test.xml")));
+   e.writeObject(new JButton("Hello, world"));
+   e.close();
+
+This is an extraordinarily useful capability. You can create an elaborate Swing dialog (for example) containing dozens of nested widgets, then serialize the whole thing as a single XML file, capturing its state, using XMLEncoder (then deserialize it later, in another time and place, perhaps).
+
+A favorite trick of mine is to serialize an application's key objects ahead of time, then JAR them up and instantiate them at runtime using XMLDecoder. With a Swing dialog, this eliminates a ton of repetitive container.add( someWidget) code, and similar Swing incantations (you know what I'm talking about). So it cleans up your code incredibly. It also makes Swing dialogs (and other objects) declarative in nature; they become static XML that you can edit separately from code, using XML tools. At runtime, of course, you can use DOM and other XML-manipulation technologies to tweak serialized objects before instantiating them. (Let your imagination run.)
+
+As an aside: I am constantly shocked at how many of my Java-programming friends have never heard of this class.
+
+If there's a down side to XMLEncoder, it's that it will only serialize Java beans, or so the documentation says, but actually the documentation is not quite right. (More on that in a moment.) With Swing objects, for example, XMLEncoder will serialize widgets but not any event handlers you've set on them. At runtime, you end up deserializing the Swing object, only to have to hand-decorate it with event handlers before it's usable in your application.
+
+There's a solution for this, and again it's something relatively few Java programmers seem to know anything about. In a nutshell, the answer is to create your own custom persistence delegates. XMLEncoder will call the appropriate persistence delegate when it encounters an object in the XML graph that has a corresponding custom delegate.
+
+This is (need I say?) exceptionally handy, because it provides a transparent, interception-based approach to controlling XMLEncoder's behavior, at a very fine level of control. If you have a Swing dialog that contains 8 different widget classes (some of them possibly containing multiple nested objects), many of which need special treatment at deserialization time, you can configure an XMLEncoder instance to serialize the whole dialog in just the fashion you need.
+
+The nuts and bolts of this are explained in detail in this excellent article by Philip Milne. The article shows how to use custom persistence delegates to make XMLEncoder serialize almost any Java object, not just beans. Suffice it to say, you should read that article if you're as excited about XMLEncoder as I am.

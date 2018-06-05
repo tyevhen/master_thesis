@@ -1,0 +1,23 @@
+For the past several months, I've been privileged to be allowed to test Acrobat 10, which has now been released as the Acrobat X family. Now that I'm finally at liberty to discuss actual features in detail, I can give some impressions of the software. Overall, the news is good. Very good.
+
+The biggest news is that by virtue of a serious UI makeover, Acrobat has gotten much easier to use; it no longer feels quite so heavy and monolithic. Adobe has done an excellent job of moving little-used commands out of view while putting more-frequently-used tools and commands in logical places (and letting the user configure toolbars as needed). There are now only 5 main menus instead of 10, for example. The product has scored a gigantic (and much needed) usability win, as far as I'm concerned.
+
+The Save as Word functionality has undergone a significant, long-overdue improvement in quality.
+
+Forms creation/editing is easier, thanks to the aforementioned UI overhaul. I'm getting things done in fewer clicks now. For heavier-duty form-design tasks, Acrobat Pro and higher (on Windows) will ship with LiveCycle Designer ES2. I'm of two minds about that. On the plus side, LiveCycle Designer offers superior forms-creation tools and comes with a nice assortment of prebuilt templates. As form designers go, LiveCycle's tooling is right up there with the best of the best. On the down side, forms you create with LiveCycle are (as before) not editable using the standard form-design tools of Acrobat. So you're stuck either in LiveCycle Designer mode or Acrobat-native form-design mode. And LiveCycle Designer makes it very hard to add scripts to form elements. I haven't tested the most recent Designer, but the version that shipped with Acrobat 9 has not proven (in my experience, at least) to be very stable, and on the whole, I remain somewhat disappointed with the relatively primitive integration between Acrobat and LiveCycle Designer. The sooner Adobe can make LiveCycle forms compatible with Acrobat, the better.
+
+Acrobat X introduces a notion of Actions. The ability exists to standardize processes in an organization/department by combining multiple tasks into a single Action that can run on single or multiple files and that can be accessed through a single click. Users can author a new Action through File > PDF Actions > Create.
+
+Enterprise customers of Acrobat X will no doubt laud the product's integration with SharePoint:
+
+You can open files hosted on SharePoint from Acrobat or Reader's Open dialog by browsing to a mapped drive or a WebFolder under "My Network Places".
+When a PDF is opened from SharePoint, you have the ability to independently check that PDF in and out, similar to Office, via an option in the File Menu.
+SharePoint is accessible from all of Acrobat or Reader's Open and Save dialogs: e.g., if there’s a dialog that prompts you to browse for a file, you can browse to a SharePoint hosted file just like a local file. And if there’s a dialog that prompts you to save a file, you can save to SharePoint just like you can save to your local drive.
+If the SharePoint system requires that version information be specified when the user checks in a PDF into SharePoint, Acrobat/Reader will prompt the user to provide that information.
+The ability to save search results in PDF and CSV file formats is a nice plus, as is the new .xlsx export functionality.
+
+Adobe Reader has been enhanced with the ability to create sticky notes and highlight text on PDF documents. Also, the Adobe Reader browser plug-in is now a 32/64-bit universal plug-in which supports Safari running either 64-bit (default) or 32-bit.
+
+What's missing from Acrobat X? The JavaScript API still offers no Selection API. (I blogged about this before.) Also, the Net.HTTP API remains a disappointment: It's possible to do AJAX-like (asynchronous) POSTs programmatically, in JavaScript, but only from an application-scoped script (a so-called "folder-level" script), not a document-level script. And I couldn't get HTTP GET operations to work at all.
+
+But overall, my quibbles with Acro X are few. On the whole, I think it's the best major new release of Acrobat to happen in many years, and customers should be quite happy with it.

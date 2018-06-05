@@ -1,0 +1,42 @@
+I've been using JavaScript for almost two decades now, but somehow I've managed to avoid learning jQuery until just recently, mostly out of laziness but also because of a lingering yet torrid love-hate relationship with "syntax sugar" programming patterns. The best thing I can say about jQuery is that it has a seductively compact and powerful syntax. The worst thing I can say about jQuery is this.repeat(previousStatement).
+
+For better or worse, I've had to begin dabbling in jQuery recently to save myself from the horror of old-school bare-knuckle DOM parsing. You know what I'm talking about: Nested loops with lots of calls to getElementsByTagName( ) followed up with hand-parsing of innerHTML. Who wants to do all that when you can use the oh-so-cute $(selector).each( ) construction?
+
+The trouble with cute/compact syntax (as any recovering Perl user will gladly tell you in return for a bottle of cheap sherry) is that it's write-only. When you go back to look at something a week later and see 15 lines' worth of JS functionality rolled up into a shockingly crisp (yet thoroughly opaque) jQuery one-liner, you often wish you'd gone ahead and written those 15 homely lines of JavaScript in the first place, instead of giving in to that one irresistibly sexy, powerful line of jQuery that's oh yeah BTW also self-obfuscating.
+
+Nonetheless, if you do a lot of page-scraping (as I do when visiting bioinformatics sites), the time savings of being able to parse a page with jQuery can be formidable. Who can resist grabbing all rows of a table with $("tr")? Who can resist iterating over them with .each()?
+
+I tend to use the online apps at genomevolution.org quite heavily. The great folks who maintain that site have a nice way of serving up prodigious amounts of data in easy-to-use interactive forms, but sometimes you just want to harvest the data from a table and be done with it. Take the page I created at http://genomevolution.org/r/9726, which is based on a list of 100 unique bacterial species in the group known as Alphaproteobacteria. If you go to that page and scroll over to the far right, you'll see a column header labeled "Codon Usage." Underneath that label is a "Get All Codon Tables" link. Click that link and be prepared to wait about two minutes as the codon data loads for each organism. It's worth the wait, because when you're done, you're looking at color-coded codon usage frequencies for all 64 codons, for all 100 organisms.
+
+Suppose you just want the codon data in text form, to analyze later? Scraping the raw data out of the HTML page is a royal bitch, because whether you know it or not, that page has tables embedded in tables embedded in tables. Parsing the DOM by hand is (shudder, wince) well nigh unthinkable.
+
+Go to http://genomevolution.org/r/9726 and click "Get All Codon Tables" under the "Codon Usage" column heading. Allow a minute or two for codon data to load. Meanwhile, Control-Shift-J opens the Chrome console. (Select the Console tab at the top of the window if it's not already selected.) Paste the following code into the console. Hit Enter. Savor the power.
+
+
+codonData = [];
+
+function process( ) {
+
+    var CODONS_COLUMN  = 15;
+
+    var rowdata =  jQuery( 'td', this );
+    var codonUsage = rowdata[ CODONS_COLUMN ].textContent.split(/(?=CCA)/)[1]; 
+    codonData.push( codonUsage ); 
+}
+
+$('tr[id^=gl]').each( process ); // oh jQuery, must you tease me so?
+  console.log( codonData.join("\n") );
+
+All of this was originally a single statement, with an inline callback function (in typical jQuery fashion). I decided to unroll it into more verbose, easier to understand form, lest my head explode two weeks from now trying to re-read and re-figure-out the code.
+
+This bit of code does some pretty typical jQuery things, such as grab all rows of a table with $('tr'), except that in this case I most certainly do not want all rows of all tables in the HTML page (which would be hundreds of rows of extraneous stuff). The rows I need happen to have an "id" attribute with a value that begins with "gl." The construction $('tr[id^=gl]') is jQuery's syntax for selecting table rows that have an id-attribute that begins with "gl."  (The ^= here means "begins with." You could signify "ends with" using $= instead of ^=.)
+
+The process() callback fetches all table columns for the current row using the jQuery( 'td', this ) construction, which means gives me a jQuery object representing all "td" elements under the DOM node represented by this. In the callback context, this refers to the current jQuery node, not the window object or Function object. If you choose (as I did not) to declare your callback with arguments, as in function myCallback( argA, argB), then argA will be the index of the current item and argB will be this.
+
+If you're wondering about the regex /(?=CCA)/, I need this because ordinarily the codon data would look like this:
+
+Codon Usage: The Bacterial and Plant Plastid Code (transl_table=11) CCA(P) 1.18%CCG(P) 1.58%CCT(P) 1.17%CCC(P) 1.37%CGA(R) 0.32%CGG(R) 1.32%CGT(R) 1.82%CGC(R) 2.54%CAA(Q) 1.07%CAG(Q) 2.84%CAT(H) 1.59%CAC(H) 0.89%CTA(L) 0.48%CTG(L) 4.58%CTT(L) 1.96%CTC(L) 0.84%GCA(A) 2.94%GCG(A) 2.14%GCT(A) 2.31%GCC(A) 3.90%GGA(G) 0.90%GGG(G) 1.74%GGT(G) 2.11%GGC(G) 3.23%GAA(E) 3.92%GAG(E) 1.36%GAT(D) 3.76%GAC(D) 1.49%GTA(V) 1.08%GTG(V) 3.01%GTT(V) 2.19%GTC(V) 0.81%ACA(T) 1.82%ACG(T) 1.49%ACT(T) 0.57%ACC(T) 1.83%AGA(R) 0.30%AGG(R) 0.31%AGT(S) 0.61%AGC(S) 1.33%AAA(K) 2.01%AAG(K) 1.60%AAT(N) 1.39%AAC(N) 1.64%ATA(I) 0.59%ATG(M) 2.56%ATT(I) 2.88%ATC(I) 1.59%TCA(S) 0.65%TCG(S) 0.47%TCT(S) 1.37%TCC(S) 1.34%TGA(*) 0.14%TGG(W) 1.47%TGT(C) 0.46%TGC(C) 0.70%TAA(*) 0.14%TAG(*) 0.03%TAT(Y) 1.47%TAC(Y) 0.90%TTA(L) 0.61%TTG(L) 1.67%TTT(F) 2.41%TTC(F) 1.22%
+
+Notice that first line ("Codon usage: The Bacterial [blah blah]"). I just want the codon data, not the leader line. But how to split off the codon data? Answer: Use a lookahead regular expression that doesn't consume the match. If you split on /CCA/ (the first codon) you will of course consume the CCA, never to be seen again. Instead, use (?=CCA), with parentheses (absolutely essential!) and the parser will look ahead to find an upcoming CCA, then stop and match the spot right before the CCA without consuming the CCA.
+
+I'm sure a true jQuery expert can rewrite the foregoing code in a much more elegant, compact manner. For me, elegant and compact aren't always optimal. I've learned to value readable and self-documenting over elegant and opaque. Cute/sexy isn't always best. I'll take homely and straightforward any day.

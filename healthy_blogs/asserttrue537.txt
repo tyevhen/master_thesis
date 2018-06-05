@@ -1,0 +1,48 @@
+A classic example of rampant feature excess and poor UI design: Eclipse.
+
+As you know if you've been following my previous posts, I've been thinking a lot, lately, about feature richness in software. What does it mean, to the user, to have a feature-rich product? When are additional features really needed? Is it possible to have too many features? Is there a "sweet spot" for feature richness (or a point of diminishing return)? Is it possible to build too many features into a product, or is that question best recast in terms of how features are exposed via the UI (or perhaps the API)?
+
+Fair warning: I offer many questions, but few answers.
+
+My gut tells me that more often than not, feature richness is a curse, not a blessing; an embarrassment, not something for Marketing to be proud of.
+
+When a customer sits down to use a product and he or she notices an excess of functionality, it conveys an impression of waste. It suggests that the maker of the product willingly tolerates excess and doesn't understand the less-is-more aesthetic.
+
+From a purely economic point of view, a customer who sees an excess of functionality wonders why he is being forced to spend money on things he might never need.
+
+The customer might also get the impression (without even trying the product!) that the product is hard to learn.
+
+For these and other reasons, people involved in software design should be asking themselves not how feature-rich a product should be, but how feature-spare.
+
+Does anybody, at this point, seriously question that it is more important for an app to do a small number of mission-critical things in a superior fashion than to do a larger number of non-mission-critical things in acceptable fashion?
+
+I have two word processing applications that I use a lot. One is OpenOffice Writer; the other is Wordpad. The former is Battlestar Galactica, the latter Sputnik. Ironically, I often find myself using Wordpad even though I have a much more capable word processor at my disposal. I use Wordpad to capture side-thoughts and sudden inspirations that I know I'll come back to later, when I'm further along in the main document. These side-thoughts and incidental epiphanies are sometimes the most creative parts of whatever it is I'm writing.
+
+It's ironic that I will use the most primitive tool available (preferentially, over a much more powerful tool) when capturing my most creative output.
+
+I don't think I'm alone in this. I'm sure a lot of programmers, for example, have had the experience of writing a Java class or JavaScript routine in Notepad (or the equivalent) first, only to Copy/Paste the code into Eclipse or some other heavyweight IDE later.
+
+Why is this? Why turn to a primitive application first, when capturing fresh ideas and "inspired" content?
+
+Speaking for myself, part of it is that when I'm having a peak creative moment, I don't have time to sit through through the ten to thirty seconds it might take to load OpenOffice, Eclipse, or Photoshop. Creative moments have very short shelf life. Any speed bumps on the way to implementing a new idea are creativity-killers. An app that loads in one second or less (as Wordpad does) is priceless.
+
+But that's not the whole explanation, because quite often I'll turn to Wordpad even when OpenOffice Writer is already running!
+
+I think that's because when I'm having a peak-creative moment, I don't want any distractions. I want to work close to the document, with no extraneous features distracting me or slowing me down in any way whatsoever. I don't want to be tempted to choose a different font, reset margins and tabs, redo paragraph formatting, worry about spellcheck, etc., while I'm capturing my most important thoughts. Just knowing that extraneous features exist slows me down.
+
+Also, I find I often need more than one clipboard instance. I'll often open multiple Wordpad windows just to cache certain text passages until I can figure out whether or not I want to use them (and in what order) in my main document.
+
+I'm sure there are other, deeper reasons why I turn to lightweight programs before using supposedly "superior" heavyweight alternatives. The fact that I can't articulate all the reasons tells me the reasons probably run quite deep. Software makers, take note.
+
+I'll say it again: an application that has a large excess of features is a liability, both to the customer and the company that makes the software.
+
+The larger the number of things an app is capable of doing, the more likely it is the user will:
+be frustrated with program load time
+feel intimidated by the product
+need to consult documentation
+call the help desk
+spend money on third-party books and training
+forget how certain features work (and spend time re-learning how to use those features)
+feel pain at upgrade time, when menus and palettes and dialogs and prefs and workflows are "improved" over the last version of the software, requiring yet more (re)learning
+
+Bottom line, when it comes to feature richness, more is not better. More is less. Sometimes a lot less.

@@ -1,0 +1,19 @@
+A cascading menu in Firefox. (An example of GUI 1.0 design.)
+
+
+I'm not a human factors expert (therefore I could easily be wrong on this), but it seems to me that where GUI-driven applications are concerned, certain fundamental human factors questions have either been overlooked or not investigated fully. For example:
+How many features can you pack into a program before you reach some kind of usability limit? Are there any fundamental usability limits relating to feature count, or can feature count go on forever? 
+What does it mean to have a product with ten thousand features? What about a hundred thousand features? Can such a product be considered "usable" except on a superificial level?
+For a program with thousands of features, what's the best strategy for exposing those features in a GUI? Need features be hidden in some hierarchical manner, where the most-used features are easiest to get to, second-tier features are next-easiest to get to, and so on, until you reach the really obscure features, which are presumably hardest to drill down into? Or is that kind of model wrong? Should all features be treated equally? Should the user be in charge of exposing the features he or she wants to expose (and be able to choose how they're exposed)?
+How does feature richness relate to user satisfaction and/or "perceived usability"? Is it all just a matter of good GUI design? What metrics can one use to measure usability? 
+In analyzing a program's GUI, has anyone ever created a complete command-tree for all UI elements (down to individual dialog-control level), in some kind of graphical format, and overlaid a heat map on the tree to see where users spend the most time?
+Are current GUI motifs (menus, submenus, menu commands, dialogs and sub-dialogs, standard dialog controls, wizards, palettes, toolbars with icon-based commands) adequate to meet the needs of today's users? How adequate? Can we even measure "how adequate" with meaningful metrics?
+It seems to me that most of the original thinking on these sorts of matters was done thirty years ago or so, with the advent of Apple's Lisa and Macintosh computers (plus work done before that at Xerox Parc); and we've been stuck in the world of GUI 1.0 ever since.
+
+So that brings up yet another question: Is anyone working on GUI 2.0? (If so, who?) I would put touchscreen gestures in the GUI 2.0 category. (Is there anything else that belongs in that category?)
+
+It seems to me software companies (including companies that develop web apps) should be concerned with all these sorts of questions.
+
+I get the impression (based on the amount and quality of GUI design work that went into things like the iPhone, iPad, and iPod Touch) that Apple does, in fact, take these sorts of questions seriously. But does anyone else?
+
+I don't see much evidence of other software companies taking these questions seriously. Then again, maybe I'm just not paying attention. Or maybe I shouldn't be asking these questions in the first place. As I said at the outset, I'm not a human factors expert. I'm merely an end user.

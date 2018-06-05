@@ -1,0 +1,81 @@
+Most genomes, whether human or bacterial, contain significant numbers of pseudogenes (that is, genes that are presumed to be inactive due to internal stop codons, frameshift errors, or other serious defects). The usual presumption is that such genes are dormant or dead and thus are not expressed as proteins, since the proteins would be severely truncated or contain nonsense regions, etc.
+
+However, we know that in Mycobacterium leprae (the leprosy bacterium), some 43% of the organism's 1,116 pseudogenes are transcribed. While most of the transcripts are no doubt used in some kind of regulatory capacity, it would be surprising if not a single transcript got translated into protein.
+
+One sign that a protein gene is highly expressed is the presence, upstream of the start codon, of a strong Shine Dalgarno sequence. This is a special sequence of bases that serves as a binding area for 16S ribosomal RNA. The Shine Dalgarno sequence serves to increase the translational efficiency of the genes that have such signatures. (Not all do.) Generally, they are found ahead of high-priority/highly-expressed genes (such as genes for ribosomal proteins). Absence of a SD sequence doesn't mean the gene doesn't get translated. Many genes carry no SD signal.
+
+I created scripts that looked at all 1,116 pseudogenes in M. leprae, to detect the occurrence of Shine Dalgarno sequences in the 20-base-pair region upstream of what would normally be the start codons of said genes. Intriguingly, 31% of pseudogenes carry a length-4 SD sequence (nearly 7 times the number of such sequences expected to occur by chance). By comparison, 50.6% of normal genes in M. leprae carry a length-4 SD sequence.
+
+When I looked for length-5 SD signals, I found that 8.6% of pseudogenes carry such a signal, compared to 26.4% for regular genes. Length-6 signals were found for 33 pseudogenes (3% of the total of 1,116 pseudogenes) versus 176 normal genes (representing 10.9% of 1,604 normal genes). These numbers are about eight times higher than expected to occur by chance.
+
+These numbers are summarized in the table below, where I also show similar findings for genes and pseudogenes of Bordetella pertussis.
+
+Organism Data Set
+Motif Length
+Expected
+Found
+% of Genes
+M. leprae
+
+genes
+(n = 1604)
+SD6
+5
+176
+10.9%
+SD5
+25
+423
+26.4%
+SD4
+119
+812
+50.6%
+pseudogenes
+(n = 1116)
+SD6
+4
+33
+3.0%
+SD5
+18
+96
+8.6%
+SD4
+83
+346
+31.0%
+B. pertussis
+
+genes
+(n = 3377)
+SD6
+9
+493
+15.0%
+SD5
+49
+1032
+30.6%
+SD4
+259
+1939
+57.4%
+pseudogenes
+(n = 370)
+SD6
+0
+38
+10.20%
+SD5
+1
+89
+24.10%
+SD4
+11
+194
+52.40%
+
+B. pertussis preserves a higher proportion of SD signals in pseudogenes than does M. leprae. This is expected, since most B. pertussis pseudogenes are still "in frame," whereas most (but not all) M. leprae pseudogenes harbor frameshifts.
+
+Length-5-or-longer SD signals occur at about one third the rate in psuedogenes of M. leprae that they do in normal genes of M. leprae, but still much higher than expected by chance. If 43% of pseudogenes are transcribed (as we know they are), and a third of those transcripts have strong enough SD sequences to facilitate translation, it means about 159 pseudogenes in M. leprae could be expected to have expressed protein products. Those products would, of course, be truncated and/or contain nonsense regions. Presumably, many would be marked for proteolysis (either by the tmRNA system or through other mechanisms).

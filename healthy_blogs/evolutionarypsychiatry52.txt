@@ -1,0 +1,35 @@
+Right on the heels of the little case study I wrote about last time came a paper in JAMA that made a bit of a splash in the news: Effects of Fructose vs Glucose on Regional Cerebral Blood Flow in Brain Regions Involved With Appetite and Reward Pathways.
+
+I know. Sounds like a nail-biter.
+
+Stone Temple Pilots: Pretty Penny (from 1994! Ancient history. I like the fresh time signature used in the song.)
+
+The paper is a Tale of Two Sugars, glucose and fructose. Fructose is somewhat sweeter than glucose, and it is metabolized differently (as those in the paleosphere are no doubt agonizingly aware). Fructose, for example, only causes slight bumps in insulin, which is known to work in the central nervous system to increase the satiety and decrease the reward value of food. Compared to glucose, fructose also doesn't increase a satiety hormone glucagon-like polypeptide 1, and fructose doesn't decrease levels of ghrelin, an appetite stimulating hormone.
+
+Let's translate into something simple rather than paperspeak:
+
+Glucose: Increases insulin, increases GLP-1, decreases ghrelin: all of which increase satiety and decrease reward seeking behavior.
+
+Fructose: Barely increases insulin, doesn't increase GLP-1, and doesn't decrease ghrelin, so after ingestion you will presumably still be hungry and looking for the next bag of skittles.
+
+In rats, if you inject fructose into the brain, it stimulates food-seeking behavior. If you inject glucose into the brain, rats decrease their food intake. Please do not inject fructose or glucose into your brain. And while that rat factoid is certainly interesting, I'm hoping that when you drink a vat of agave nectar*, much of the fructose doesn't get past the liver anyway, as it is pretty oxidizing and toxic in the bloodstream.
+
+In human and rat brains, appetite is controlled in the hypothalamus. Sleep kinda lives there too. It's also part of the HPA axis that makes up our stress response. And the researchers hypothesized that if fructose stimulates appetite more than glucose, it will increase blood flow in the hypothalamus and other reward areas of the brain. They rustled up some humans and stuck them in a functional MRI to measure brain blood flow, and out came some data.
+
+Here's another good STP song that you may not have heard, Atlanta (from No. 4)
+
+20 normal weight, non-diabetic "healthy" volunteers were used, 10 men and 10 women, average age 31.The women were all scanned during the follicular phase of their menstrual cycle. Each volunteer was scanned and blood samples were taken after an overnight fast. Then they drank a glucose and (on a separate day) a fructose sweetened drink and were scanned again after 60 minutes. The order of drinks was blinded and randomized. The drinks are described as 75g** of sweetener, plus cherry flavored water. Participants were asked to rate fullness, and serum levels of glucose, appetite hormones, insulin, etc. were measured at 10 minute intervals after injestion through the scanning. Serum levels of fructose were also examined, to see how much got past the liver.
+
+In a complimentary rodent experiment, they gave rats fructose IV and then measured the amounts of fructose that were in the brain to see if some made it through the blood brain barrier. Interesting.
+
+The results! Well, hypothalamic blood flow tended to decrease after ingestion of glucose (within 15 minutes) ingestion wheras it did not with fructose. At all time points, blood flow in the hypothalamus was decreased after glucose compared to fructose drinks (presumably meaning that appetite was decreased after the glucose ingestion but not decreased with fructose ingestion). Glucose also decreased activity in the brain's striatum, which fructose did not. Predictably, both plasma glucose and insulin increased with glucose ingestion, whereas there was very little increase with fructose ingestion.
+
+Plasma fructose in humans did increase after fructose ingestion compared to glucose (scary, and, duh), but levels of ghrelin and leptin were not different in the two groups. Another hormone, PYY, and then lactate was higher in the fructose drinkers. The glucose drinkers felt less hungry and more sated after drinking, whereas fructose drinkers still felt somewhat hungry and not quite as satisfied after the drink.
+
+In the rodent study, fructose in the plasma did translate to an increase in fructose in the brain (compared to a saline IV), and they found that the RNA for fructose transporters (GLUT5) were expressed in the hypothalamus, liver, and kidney.
+
+So, for a small study, rather interesting. Big difference in straight up fructose vs. glucose in how the brain and appetite centers react, and one would tend to think from the results that glucose decreases appetite and reduces food-seeking behaviors, whereas fructose doesn't really fill you up. Of course, no one drinks straight fructose unless you are glopping agave nectar into your tea, and it would have been interesting to see what the soda version of HFCS (from memory, I think it is 55% fructose, 42% glucose) did compared to straight-up glucose. And fizzy (hard to blind that one)! And cherry-flavored! Someone get me some healthy volunteers and an enormously expensive functional MRI machine!
+
+
+*don't drink a vat of agave nectar
+** the typical oral glucose tolerance test is 50g of dextrose in an orange-flavored concoction.

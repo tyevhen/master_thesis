@@ -1,0 +1,19 @@
+Adobe CQ 5.5 makes it easy to preview mobile-device content layouts on any of hundreds of popular devices.
+The new release of Adobe's Web Experience Management solution, otherwise known as Adobe CQ Web Content Management 5.5, is out, and it's a major new release. The release cycle for this particular version of Adobe CQ started March 1, 2011 and went through 25 iterations of quality assurance, bug fixes, and testing, ending February 20, 2012. The total number of customer related issues addressed in this release was 296.
+
+In case you're not familiar with Adobe CQ WCM 5.5, this is the product formerly known as Day Communique (used by McDonalds, Mercedes, and other Fortune 500 customers to manage their web properties). It's a unified web content management suite designed to let digital marketers create, manage, deploy, and optimize online experiences across Web, social, and mobile channels, typically in multiple languages, across multiple geos.
+
+Add-on modules provide extended functionality for Multi-Site Management, Marketing Campaign Management, Mobile and tablet support, plus Social Collaboration, including Blogs, Forums, and Calendaring.
+
+An important complement to Adobe CQ WCM 5.5 is Adobe CQ DAM 5.5, which is a digital asset management system for enterprise-level organizations that need to manage non-trivial quantities of media assets with complex and diverse uses for different target audiences.
+
+A year ago, Adobe rolled out some initial integrations between Adobe CQ and the Omniture-based SiteCatalyst and Test&Target products. With CQ5 5.5, this integration has deepened, with additional integrations to other Adobe products, most notably:
+Creative Suite: Adobe’s flagship software now integrates seamlessly with CQ5.5’s Digital Asset Management (DAM) via Drive or Bridge. Creative teams can now adjust a photo, push it directly to the web, and then get analytic feedback on how photo versions are performing—all without ever leaving Creative Suite.
+Scene7:  The integration with CQ 5.5 has made it much easier for companies in retail, hospitality, travel, or CPG to take advantage of Scene7’s dynamic personalization capabilities.
+Search & Promote: Site search components now come out-of-the-box (as long as you’ve bought a Search & Promote license). This is an interesting integration since the convenience of adding faceted search to your site via a drag-and-drop UI is quite compelling.
+SiteCatalyst and Test&Target: While an integration with these two former Omniture products existed in 5.4, the presentation layer in 5.5 is now more intuitive and plays nicely with the personalization features.
+A more detailed overview of the integration with Adobe Online Marketing Suite can be found here.
+
+I'll expand on some of the specific improvements made to Adobe CQ 5.5 in a followup blog post, but in the meantime, if you're anxious to drill down on some of the particulars, you might want to take a quick glance at the Release Notes.
+
+Meanwhile, the product's complete online documentation is here.

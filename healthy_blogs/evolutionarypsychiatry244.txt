@@ -1,0 +1,25 @@
+The sleep and insomnia literature is vast enough to make one... well, overwhelmed.  New textbooks, then, can be a nice resource.  But textbooks are a bit of a gamble - some are fantastic, and others are disorganized and hideously boring.  Like the one I'm reading now.  But I spent some $$ and I'm powering through. (Today we're in chapter 7, pages 68-82) 
+
+Insomnia.  There are various types.  Chronic, acute, secondary, primary.  And then there are the sub-varieties- difficulty getting to sleep, difficulty maintaining sleep, early awakening, and non-restorative sleep.  10-20% of the population has chronic insomnia, and the societal costs are huge (poor productivity, car accidents, mood disturbance, irritability, poor academic performance, tension, headaches, and GI problems, to name a few.)
+
+A quarter of those with chronic insomnia have primary insomnia.  That is, these folks just don't sleep well for no particularly good reason.  EEG and neuroimaging findings seem to suggest a general case of hyperarousal.  Like being on cocaine without the cocaine (cocaine intoxication would be a cause of secondary insomnia).  High cortisol levels, high CRH response to stress.  Elevated alpha and beta wave "power" and diminished delta wave power.  Primary insomniacs are alert, and there's no two ways about it.
+
+Serotonin, norepinephrine, dopamine, and histamine are all now thought to be wakefulness-promoting neurotransmitters.  These neurotransmitter concentrations will be highest while awake, low during slow wave sleep, and lowest during REM sleep. 
+
+Sleep promoting neurotransmitters include GABA and adenosine.
+
+Acetylcholine is seen in wakefulness, but also thought to promote REM sleep.  Activation of cholinergic neurons by GABA seems to initiate REM sleep in rats.
+
+But now let's break up the activities of our new friend, orexin.  Orexin if you recall is a neurochemical responsible for promoting appetite and wakefulness made and released in areas in and around the hypothalamus.  Fibers from the orexin neurons reach out to innervate most brain regions, including the brainstem, cortex, and spinal cord.  Orexin neurons discharge regularly during wakefulness, and sputter to a stop when our EEGs start to slow and synchronize during sleep.  They begin to fire again in short bursts prior to waking up.  Orexin excites almost all the wakefulness-promoting neurons (acetylcholine, dopamine, norepinephrine, and serotonin neurons).  Narcoleptic dogs in research seem to lack some orexin receptors.   
+
+There is quite a bit of evidence that various types of stress affect orexin.  However, the effects can differ depending upon the type of stress (cold vs. immobilization, for example), or age (old vs. young rats - presumably shivering and/or tied up in these experiments).  CRH, corticosterone and the gluococortocoids seem to increase orexin.  This will increase wakefulness and increase appetite.
+
+Whew.  I'm exhausted already.  A bit of different music today (Pixies, Where Is My Mind).
+
+Classical depression is often linked with insomnia.  Seems that stress steroid hormones induce orexin, which induces wakefulness.  Orexin will jack up serotonin (and the other wakeful neurotransmitters), which will then (if all is going well) induce negative feedback on orexin.  But say your serotonin machinery isn't running efficiently in the first place.  So you burn it out with too much wakefulness, then you don't have the negative feedback.  So you end up awake and grumpy.  This is one theory of depression.  I'm not sure it holds water, entirely, especially as depression promotes sleepiness OR insomnia and weight gain OR weight loss.  But between the different neurotransmitters and the different negative feedback, issues with any one of those systems could cause issues with sleep, mood, and appetite.
+
+By the time you are depressed enough to be suicidal, your orexin levels in the CSF will drop.  Maybe at this point your hypothalamus has just plumb given out.  Who knows.
+
+Tying it all together:
+
+Primary chronic insomnia is thought to be mediated by hyperarousal.  Stress seems to activate CRH, which activates orexin, which will leave you watching the Home Shopping Network in the wee sma's.  Over time, your entire neural network will get exhausted, and your serotonin and dopamine depleted, leaving you without negative feedback to shut down the orexin, and thus exhausted, hungry, and depressed.  Good night!

@@ -1,0 +1,55 @@
+I had the pleasure of dealing with another Pharmacy Benefits Manager (PBM) recently.
+
+It all starts with a fax from a pharmacy anywhere in the United States.  The usual pharmacy fax that looks like a telegram.  I know that because I can recall seeing railroad telegraphers in action in the 1950s and know what telegrams look like.  Pharmacy faxes have that appearance.  A partial Rx was listed on the front basically the drug and number of tablets with no instructions.  The "date of request" was actually 5 days earlier than the date I got the fax.  I pulled up the record and called the 800 number and listen to the usual disclaimers about why I might be recorded.  I don't hear the real reason.
+
+The conversation went something like this:
+
+PBM1:  "Can I verify the patient's identification number?"
+Me:  I gave the 10 digit number
+PBM1:  "Was that _ _ _ _ _ _ _ _ _ _?"
+Me:  "Yes"
+PBM1:  "Can I verify the patient's name and date of birth?"
+Me:  I recite that information.
+PBM1:  "Can I verify your name?"
+Me:  I say my name.
+PBM1:  "Can I verify your title?"
+Me:  "Staff psychiatrist."
+PBM1:  "Can I verify your secure fax number?"
+Me:  I look it up and say it.
+PBM1:  "Can I verify your office number?"
+Me:  I state my phone number.
+PBM1:  "Can I verify the medication?"
+Me:  I state the name of the generic medication.
+PBM1:  "Well I am going to have to transfer you to a pharmaceutical benefits manager.  I also need to tell you that person will need to do the same verifications that I just did.  Is there anything else I can help you with this morning?"
+Me: (suppressing the remark that they really have not done anything for me so far except waste my time) "No I guess not."
+
+At that point I am connected to a different line and listen to the same disclaimers about being recorded.  I am eventually connected to the second staff person who goes through the first nine steps of the verification process again and then gets into a whole new area:
+
+PBM2:  "Can this person not take the full dose of the medication?"
+Me:  "What do you mean?"
+PBM2:  "The medication in this case seems like a lower dose.  Can they not tolerate the full dose?"
+Me:  "Let me say that I am reading this out of the record and I assume it is the same record you have, because I am looking at an exact copy of the prescription.  I am covering for another physician and his prescription clearly states that the patient is to get two weeks of the medication and take three tablets a day."
+PBM2:  "OK I have to fax this information to the pharmacist.  The turn around time is 48 to 72 hours unless I mark it as an expedited review.  Then you can get it back in 24 hours.  Do you want me to mark it as expedited?"
+Me:  "I don't know what difference it will make.  Today is Friday and there is nobody in this clinic on the weekend.  The prescription is already delayed by 5 days.  I don't know what difference an expedited review is going to make."
+PBM2:  "All right I will send it to the pharmacist.  Is there anything else I can help you with today?"
+
+More wasted time.  The entire length of time it took to listen to the recordings, recite data that the PBM already had to two different people and not get an answer on the "Prior Authorization" was 20 minutes.  Not only that but this company continues to use me as their surrogate in that they are not contacting the pharmacy but sending me another fax to deal with in the next 24-72 hours.
+
+This is a simple vignette that illustrates the malignant effects of business and Wall Street on the practice of medicine in the United States today.  I don't want to leave out the effect of every state and federal politician since Bill and Hillary Clinton suggested that giving businesses unprecedented leverage over physicians would be a good idea.  If you read the vignette you have seen how a business can waste at least 20 minutes of a physician's time,  prevent a patient from getting a timely prescription refill, and in the end leave the physician responsible for what is a business decision made to make more money for a company that has no direct responsibility to the patient.  And all of these manipulations are for a generic low cost medication.  A reader might not realize that physicians often see 10-20 people per day and in many practices have only 15-20 minutes to see each patient.  That means that they could easily spend as much time getting a single prescription approved as they did assessing the patient.  The additional business genius here (how many MBAs did it take to think this up?) is that by sending the final fax back to the physician rather than the pharmacist, it leaves the physician on the hook for being blamed for the prescription not being refilled.  How many times have you heard from a pharmacist: "Your doctor's office did not call us back yet?".  In how many cases was it due to delay that I just described?  To recap, it takes the PBM anywhere from 5-8 days to handle a decision about a medication that I turned out in 20 minutes.  But wait a minute, it takes the PBM 5 - 8 days plus 20 minutes because this decision was already made a week ago by a physician.
+
+Hoax is not a strong enough word.
+
+George Dawson, MD, DFAPA
+
+
+Supplementary 1:  I could not fit this in to the above post but I also thought about how medical businesses are caught up in customer satisfaction surveys to show how great they are.  In that case they are banking on the fact that they can use physician qualities or psychological tricks rather than real measures of medical quality to get "performance scores" that they can use for marketing purposes.  I would suggest that anyone who is handed a customer survey by a health plan clinic or hospital remember their pharmacy experience when they complete that form.  Let them know that you are very dissatisfied that your prescription was delayed or changed just so one of their contractors could make a few bucks.
+
+Supplementary 2:  I have several posts on this blog about PBM and managed care delaying techniques.  I came across and excellent post by a financial blogger on how her interaction with the same insurer has changed over time.  I would really like to see more people come out with their experiences and go public.  Feel free to post it here, but don't name the actual company.  Post only your experience.  I know for a fact that PBMs monitor this blog, because I got called by one of their VPs within 12 hours of naming the company.  I will only be able to do that  when I am no longer employed.
+
+Supplementary 3:  Just a reminder that this is not my first prior authorization post and it probably won't be the last:
+
+Prior Authorization - A Legal Document?
+
+25 minutes is 25 minutes - The Prior Authorization Rip Off Continues
+
+Prior Authorizations - An Incredible Waste of Time

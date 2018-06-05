@@ -1,0 +1,33 @@
+I thought I'd share my iPhone experience, not that it has anything to do with psychiatry, but I know a lot of our readers and listeners are Apple fanfolks, including yours truly. (Full disclosure: I own a whopping 9 shares of Apple stock, so assume some bias.)
+
+As you may already know, Apple released it's 2nd version of its cell phone, the iPhone 3G (not a third generation phone, but the "3G" refers to its use of a third generation cellphone network) on Friday, July 11, 2008, at 8am local time 'round the world. Our Grand Rounds post on June 24 foreshadowed this release. Unfortunately, Friday's release was a disaster, and the dust has not even settled yet.
+
+Apple ran out of its old iPhone in stores over a month ago, so demand has been building, as well as interest in the 3G's upgrades, which include a faster cell network, a regular-size headphone jack that does not require carrying around an adapter, and a price that is about half that of the first phone.
+
+The usual Apple build-up and mystique contributed to people starting to get in line for the iPhone a full week ahead of release date (this is insane). Even my going to stand in line at 7am was a bit much, as I'm sure I could have gone the next day, walked in and got one.
+
+Anyway, on the left is a picture I took with my Treo (I've had Palm devices since the original Palm Pilot way back in 1996) after getting in line, with about 100 people in front of me. Two hours later, by the time I reached the front of the line to get into the store, there were another 150 or so people behind me. Note that there were two other line opportunities at the mall... the AT&T store and the AT&T kiosk.
+
+The ratios of people standing in line went like this: Apple:AT&T:Kiosk::25:5:1. The buzz in the line related to guesses about how many 16GB iPhones the Apple store had in stock versus the other two stores. It would be interesting to find out if the line proportions mirrored the stock proportions... you know what they say about the wisdom of crowds. Unfortunately, none of the stores' workers would tell us how many they had in stock, which is not very smart, as there were many reports of pissed off AT&T line standers getting upset when the manager later emerged, predictably telling them that they had no more of the precious phones in stock.
+
+As we got closer to the front, I measured the pace of people leaving the store at about 1 person every 2 minutes. Nine people away from entering the store, and then people stopped coming out of the store (and we stopped going in). We found out that the same thing happened at the AT&T store (which we could see from where we were). Soon after, an Appler came out to tell us that the servers handling the phone activations were down, apparently crashing under the heavy load.
+
+After a bit more waiting, a gush of people came out, iPhone bags in hand. But they didn't have that gleeful look on their face. One of them told us that the servers were still down, and that they'd have to activate their phones at home via iTunes. (This is how it was done with the first iPhone, but AT&T insisted on in-store activations this time to reduce the number of phones that get sent internationally to get unlocked later, so they can be used with any cell network.)
+
+We started moving again and the rest of the experience was uneventful (fortunately, given that my bladder was extremely full by then). I walked out with an unactivated iPhone and was able to get it activated later that evening.
+
+
+So, what went wrong?
+
+It looks like that someone woefully miscalculated the combined effect of the following things happening all on the same day:
+
+
+-a zillion in-store iPhone activations
+-the release of an update to the iTunes software, version 7.7 (a 50MB download)
+-the release of a firmware update (iPhone 2.0) to the 6 million first-gen iPhone and iTouch devices
+-the release of a new iTunes App store (as in Application Store)
+-the conversion of Apple's .Mac service to the new Mobile Me service
+
+On top of all that, existing iPhone users who tried to update their firmware found that their iPhone was now as useful as an iBrick.
+
+The postmortem analysis points to iTunes, not AT&T, as the Achilles heel in the fiasco. Apple has traditionally provided excellent service, so this experience has been particularly painful for many Apple watchers. Hopefully, they will do better next time.

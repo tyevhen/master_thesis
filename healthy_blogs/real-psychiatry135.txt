@@ -1,0 +1,38 @@
+Drawing of Pain Matrix from reference 2 with permission.
+
+
+
+One of the main problems with the assessment and treatment of chronic pain is that there are no quantitative or even good qualitative measures of whether pain exists and how much pain is really there.  The current crisis of opioid overprescription began as an initiative to treat pain more aggressively and that started based on the use of a 10 point scale to estimate pain.  There are many problems associated with that approach but the main one is that it is completely based on the patients self report.  Self report is probably not the best measure when prescribing medications with a significant secondary gain component.  Since that scale is used as a basis for potentially high risk therapies - better metrics would be very useful.
+
+That brings me to two papers that I caught a little earlier this year in JAMA Neurology on the Pain Matrix.   The first is a research letter on the pain matrix.  The authors define the pain matrix as the set of brain structure that are activated by nociception or pain perception.  As a general example they describe the general brain structures like the anterior cingulate cortex, thalamus, and insula.  They cite evidence that these activated structures are considered a possible biomarker for drug discovery and legal proceedings.  The paper is designed to test the veracity of this potential biomarker for pain.  Their model was the administer mechanical noxious stimuli to subjects with congenital insensitivity to pain.  These subjects had SCN9A mutations in the sodium channel of sensory neurons that results in loss of pain sensation but preservation of tactile sensation.  For a discussion of the polymorphisms of this gene see reference 3 and the link on Congenital Insensitivity to Pain (CIP) (4). There were two pain free subjects and 4 controls.  All subjects were scanned with a 3-T fMRI.  They were also asked to rate the stimuli on two dimensions - sensation and pain using a 0 (no pain or sensation) to 10 (most intense pain or sensation).
+
+The test subjects and control reported the same responses to sensation in terms of the subjective ratings with mean ratings(standard deviations) of 4.6(0.5) and 4.4(1.2) respectively.  The painful stimulus was not rated as painful by the subjects but at a level of 3.2(1.8) by the controls.  Most importantly there were no differences on fMRI scanning between the groups with similar levels of activation seen in the thalamus, anterior cingulate gyrus, insula, and pain matrix as a whole.
+
+The fMRI results of the pain matrix response in normal controls and patients who are congenitally unable perceive are extremely interesting.  Both groups had similar tactile sensation.  The authors suggest that caution must be used when interpreting the imaging of this pain matrix for studies looking at the treatment of chronic pain.  At another level, they seem like another addition to a long line of neuroimaging studies that do not seem to correlate very well with what they claim to represent.  An accompanying editorial by Geha and Waxman discusses the fact that the pain matrix has been validated in hundreds of studies using different nociceptive input.  They point out that some researchers equate activation of the pain matrix with the conscious perception of pain.  They review some of the evidence against the pain matrix argument.  One group has shown that activation of the pain matrix is multimodal.  They show how context (monotonous versus novel stimuli) and multisensory and multimodal processing is important.  These authors point out that they have shown fMRI activity in the pain matrix in chronic pain patients without any stimulus.  There cite a study that looks at how the pain matrix is activated in the subacute stages of chronic pain (6-12 weeks) and then as it becomes chronic at up to one year it shifts to emotional circuitry in the medial prefrontal cortex.  The authors also describe emotional and reward related decision making by the ventral striatum and medial prefrontal cortex, and how that activity decreases when chronic pain is successfully treated with carbamazepine while other areas of the pain matrix were unchanged.  Plasticity is also cited as being important both at the clinical level with some basic science support showing that hippocampal neurogenesis was necessary to develop chronic pain behavior in rodents.        
+
+This research is extremely interesting at two levels.  The first is a possible route to quantitative assessments of chronic pain.  A lot of that will depend on a lot more data on the resting state of these brain systems and what changes can be consistently measured.  Having lived through the era of quantitative EEGs - I see too many similarities here to not be skeptical.  It is also not possible to do fMRI studies on chronic pain patients - there are just too many.  Like most psychiatric disorders we need a rapid, inexpensive marker that our patient likely has chronic pain and a measure of severity would be useful.  The second level is broadly important and that is figuring out how human consciousness occurs and how the individual conscious states of chronic pain patients differs.  
+
+Until then - I will be paying close attention to the arguments for and against the pain matrix and research papers that use this description.
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  Salomons TV, Iannetti GD, Liang M, Wood JN. The "Pain Matrix" in Pain-Free Individuals. JAMA Neurol 2016 Jun 1;73(6):755-6. doi: 10.1001/jamaneurol.2016.0653. PubMed PMID: 27111250.
+
+2:   Geha P, Waxman SG. Pain Perception: Multiple Matrices or One? JAMA Neurol 2016 Jun 1;73(6):628-30. doi: 10.1001/jamaneurol.2016.0757. PubMed PMID: 27111104.
+
+3: Tang Z, Chen Z, Tang B, Jiang H. Primary erythromelalgia: a review. Orphanet Journal of Rare Diseases. 2015;10:127. doi:10.1186/s13023-015-0347-1.
+
+4:  Congenital Insensitivity To Pain (CIP).  Genetics Home Reference.  National Library of Medicine.  Link.
+
+
+
+
+Attributions:
+
+1:  From reference 2 above.  The figure is used with permission of the American Medical Association from JAMA Neurology per the above reference.  License Number 3897150095337;  License Date:
+Jun 26, 2016

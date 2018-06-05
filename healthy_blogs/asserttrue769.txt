@@ -1,0 +1,19 @@
+I don't pretend to be an architect, but sometimes I wonder if APIs shouldn't be the starting point of product development, rather than an afterthought.
+
+Yesterday, I suggested that if there were such a thing as a middleware API maturity model, "intentional API design" would have to be one of the middle levels. But I think (in fact I know) it's possible to do better than that. It's possible to make API design the sharp edge of the wedge, in software development.
+
+This is not a new concept. Joshua Bloch and others have advocated early design of APIs, rather than letting APIs trail product design (as currently practiced). By early design, I mean that the APIs literally are written first, before the software itself.
+
+A lot of software development happens this way, of course: You draw UML diagrams, identify key interfaces, write mock methods, etc., before writing "real" code. That's fine, but it's not quite the same as defining an API.
+
+API-first design means identifying and/or defining key actors and personas, determining what those actors and personas expect to be able to do with APIs (i.e., what are the possible use-cases, user narratives, or stories that encapsulate the business problems these people need to solve), and -- very important -- trying to understand the mental model each actor brings to the problem space. The mental model will drive architectural and design decisions at various levels (for example, it will suggest what kinds of business objects each user thinks in terms of) and will keep the overall process on a track toward good usability.
+
+It's not necessary to overspecify the API at the outset, the way most products are overspecified at the requirements stage. You can begin writing mock code immediately. The nice thing about writing to an API is that you find out very quickly whether it is serving your needs; you learn where the holes are. That means an API-first design process is, to a degree, self-guiding.
+
+An overspecified API is your enemy. In the end, it will constrain the user in funny ways, and if you use the API as the core of your development, it will constrain your developers, too.
+
+And that brings up the most important reason to consider API-first design, which is that you get a tool for creating the product itself. Your developers end up using the API to write the product. Early API mocks are the basis of unit tests. There's no downstream costs to "adding on" an API later, because it's already core. When the API is finally delivered to customers, its capabilities have been thoroughly tested (by your own R&D team, who used it to build the product).
+
+So at the top level of the (fictional) Middleware API Maturity Model (if such a thing existed), there'd no doubt have to be a nirvana level called "API-driven design," characterized by the well-known Dogfood Pattern (tm), where you consume your own API as part of everything you build. Most vendors practice this to a greater or lesser extent already, but if you start from a strategy of API-first design, the degree of API reuse can be very high indeed.
+
+I know of only a couple of R&D organizations that are aggressively and systematically applying an API-first design methodology right now. I have a feeling the number will grow. It's too good an idea not to.

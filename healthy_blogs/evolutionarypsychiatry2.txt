@@ -1,0 +1,17 @@
+We've been struck by a harder than usual winter here in the Boston suburbs, and the spring bounceback, where increased light meets slow-clogged sidewalks and freezing temperatures, has been worse than in times past. Insomnia is a major problem along with irritability and reversed sleep wake cycle.
+
+In the coming month a couple of blog posts on sleep hygiene and solutions for more serious insomnia will be published on the 9blog.
+
+I've just now posted a blog about major mental illness and the genetics of seasonality at Psychology Today.
+
+In the mean time, I've been wanting to expound on genetics and psychiatry for quite a bit. In the past few years, companies have been courting the psychiatrist, enticing us to get some genetic information about our patients. The jury is out scientifically as to whether that information is useful in the general population. However, I have begun to do genetic profiles on patients, and have found it to be quite clinically useful.  Beware the tyranny of the anecdote...but I must say I'm a proponent of genetic testing for various reasons, but not always a proponent of the slick genetic testing companies.
+
+The genetic profiles offered now will give you, first and foremost, information about the metabolism of psychiatric medications. How important is this issue? Well, the large STARD trial used the antidepressant citalopram, which is metabolized through the 2D6 pathway. Poor metabolizers (who might experience increased side effects) in this pathway are up to 10% of whites and less so in other races. Ultrarapid metabolizers exist as well (http://en.wikipedia.org/wiki/CYP2D6). The numbers are enough to be important when it comes to establishing how effective the medication might be in a popualtion wide study.
+
+There are genetic polymorphisms in how we metabolize all psychiatric medications, and a genetic clue as to what to expect can be helpful in most people. However, these first level genetics are only one part of the metabolism of medications. We have pharmacogenetics, pharmicodynamics, and pharmicokinetics, and just because you metabolize a medicine as expected does not mean it will work, and it doesn't mean you don't have side effects.
+
+In my use of these genetic tests, I've found some other findings to be more useful than the cytochrome p450 profile. One is if certain medicines are more likely to work (the serotonin reuptake receptor promoter region gene, discussed here) and the methylation profile. In the test I've used the methylation data is limited to the C677t data, but I've been able to turn around some serious longstanding resistant depressions with the addition of methylfolate.
+
+I've been interested in methylfolate in a while, but nothing convinces a person to actually buy and take methylfolate like a genetic profile that says they don't metabolize folate well. Patients who've tried many antidepressants suddenly find they work with the addition of the right folate support in extraordinary ways.
+
+The latest psychiatric magazines and journals are laden with genetic studies. It is the future of medicine. I'm concerned that a company charges $4000 for a pretty report on meds and genome of a few genetic polymorphisms when you can get all your raw genetic data for $99 at 23andme, and the methylation profile for free at geneticgenie.org. Hopefully in the future we can get this vital data for a reasonable price, and use caution to interpret the results.

@@ -1,0 +1,5 @@
+The other day, I happened upon a long list of CSS editors, arranged chronologically (newest tools first). I haven't tried any of them except Stylizer, which (beware) lays down the .NET 2.0 framework as part of its install process. (Allow 10 minutes.) Stylizer has a really beautiful UI but is far from being the point-and-click WYSIWYG stylesheet designer I've been looking for. (It's really just an editor; you do a lot of typing.) Although I must say, Stylizer beats the living crap out of most other free (or crippled-down eval-version) CSS editors I've seen, which all tend to look like this unfortunate travesty.
+
+Does anybody else see the irony in the fact that most CSS editors are unbelievably fugly? I mean, if anything cries out for a decent visual design tool with eye-pleasing widgets, it would have to be a CSS editor. But most CSS tools (at the freeware level, anyway) look like they were designed by Eclipse programmers on bad acid.
+
+I guess this is the ultimate example of programmers not knowing how to design user interfaces, and design experts not knowing how to program. Maybe it's no wonder 99% of CSS editors look like Notepad in a 3-piece suit.

@@ -1,0 +1,27 @@
+Why is everything in technology being declared dead these days?
+
+The Burton Group got huge PR mileage last January when one of its 12 vice presidents smugly declared "SOA Is Dead." Bell-clangers throughout the blogosphere latched onto it immediately as if John Lennon had come back to life as an IT savant.
+
+The only problem with the Burton VP's oh-so-keenly-insightful declaration is that it's not original. David Chappell made the same declaration in August 2008 at TechReady7, Microsoft's semi-annual internal technical conference in Seattle.
+
+But it turns out Hurwitz & Associates made the claim in October 2007.
+
+And Jeff Nolan of Venture Chronicles declared "SOA Is Dead" in a blog back in April 2006.
+
+All of which led Robin Bloor to declare recently: "The People Who Think SOA is Dead, Are Dead."
+
+Of course, SOA isn't the only thing that's dead. Other recent death sentences include:
+
+Web Services are dead
+SOAP is dead
+Web Content Management is dead
+Cloud computing is dead
+JSR process is dead
+Java itself is dead
+IT is dead
+
+It seems to me that declarations of this sort are the kind of thing a publicity-grabbing publicity grabber does to grab publicity.
+
+I think the only thing that's dead is imagination and originality on the part of certain analysts, journalists, and industry figures who, unable to think of something more meaningful to talk about in speeches and blogs, take cheap shots at technologies and processes that are still useful, still used every day, and (ultimately) still quite able to fog a mirror.
+
+What do you think?

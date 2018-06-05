@@ -1,0 +1,9 @@
+Friend and colleague Pascal Barbier pointed out to me the other day that Adobe will soon stop supporting/developing its free SVG Viewer plug-in for web browsers. As of January 2007, Adobe will simply abandon the SVG Viewer.
+
+Although this move is certainly consistent with Adobe's longterm Flash strategy, I don't think it's motivated by anything Flashy. (Call me naïve.) Adobe already supports SVG in most of its products and will soon leverage SVG in Acrobat via PxDF. Support for SVG goes on. Just not in the browser.
+
+The move mostly affects Internet Explorer users, since SVG support is native in Firefox. But let's face it, how many IE users even have the Adobe plug-in? How many IE users have ever tried to view an SVG page? (How many can even spell SVG?)
+
+I don't blame Adobe (or any company) for abandoning a development-intensive non-product that requires huge gobs of time and money to support. But that raises the question: Why doesn't Adobe donate its Viewer code to the open-source community? This is a great opportunity, after all, for Adobe to win badly needed points in the F/OSS world. From a P.R. standpoint, it's Something Very Good.
+
+Surely they'll figure it out.

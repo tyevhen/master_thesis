@@ -1,0 +1,16 @@
+In yesterday's post, I showed how to render an image into an HTML5 canvas element (and then operate on it with canvas API calls). When you've made changes to a canvas image, the time may come when you want to save the canvas as a regular PNG image. As it turns out, doing that isn't hard at all.
+
+The key is to use canvas.toDataURL('image/png') to serialize the image as a data URI, which you can (of course) open in a new window with window.open( uri ). Once the image is open in a new window (note: you may have to instruct your browser to allow popups), you can right-click on the image to get the browser's Save Image As... command in a context menu. From there, you just save the image as you normally would.
+
+The following code can be added to yesterday's example in order to create a button on the page called Open as PNG...
+
+function createPNGButton( ) {
+
+ var button = document.createElement("input");
+ button.setAttribute("type","button");
+ button.setAttribute("value","Open as PNG...");
+ button.setAttribute("onclick",
+  "window.open(canvas.toDataURL('image/png'))" );
+ document.body.appendChild( button );
+}
+As you can see, there's no rocket science involved. Just a little HTML5 magic.

@@ -1,0 +1,45 @@
+Allen Frances has been a public critic of the DSM process and as an expert he frequently gets his opinions out in the media.  Today he has an op-ed piece on the New York Times that is a more general version of a more detailed post on the Health Care blog.  His main contention is the stakeholder argument and that is that there are too many stakeholders both public and professional to allow the American Psychiatric Association to maintain its "monopoly" on psychiatric diagnosis.  I will attempt to deconstruct his argument.
+
+He discusses the earlier DSM versions as revolutionizing the field and the associated neuroscience but then suggests that diagnostic proliferation has become a central problem and the only solution is political arbitration.  What about the issue of diagnostic proliferation?  The number of diagnostic entities per DSM are listed below:
+
+DSM-I, 268 entities
+DSM-II, 339 entities 
+DSM-III, 322 entities
+DSM IIIR, 312 entities
+DSM-IV, 374 entities
+DSM-V,  370 - 400 entities (depending on final form)
+
+In terms of the total diagnostic entities, I have not seen any stories in the media pointing out that the total number of diagnoses may end being less than DSM-IV.  I have also not seen any discussion of major diagnoses where that is clearly true, such as the elimination of schizophrenia subtypes.   Other issues on diagnostic proliferation that are not discussed are the other required diagnostic system in medicine - the International Classification of Diseases 9th Revision or ICD-9.   The recent modification the ICD-10 has undergone a revision and the total number of diagnoses has increased from 14,000 to 68,000 diagnosis codes.  A fourfold increase.  The number of potential codes for a fractured kneecap has gone from 2 to 480 or more than the total potential codes in DSM5. 
+
+I have also not seen any discussion of the role of psychiatrists in making a psychiatric diagnosis.  Psychiatric diagnosis does not depend on looking up a diagnosis in a catalog of symptoms.  It involves being trained in psychopathology and knowing the patterns of these illnesses.  The patterns of psychotic disorders and the other main diagnostic groupings have basically been unchanged across DSMs.  Psychiatrists make clinical diagnoses based on these major groupings and not the total number of diagnostic entities.
+
+Further evidence that the total number of diagnostic categories is unlikely to have any impact on the number of people diagnosed with mental illness in any given year comes from the distribution of diagnostic codes in an outpatient setting. For 2006-2007, there were approximately 58 million ambulatory care visits for mental disorders. 92% of those visits were for 10 major diagnostic categories that have not changed in recent DSM revisions. It is not likely that new diagnostic categories will significantly impact the remaining 8% or 4.8 million visits per year.
+
+In a study more specific to psychiatry, the number of psychiatric ICD-10 codes used in Danish Psychiatric Central Registry.  The data  represented 1,260,097 diagnoses from 1,041,589 discharges of 653,754 patients from in- and outpatient treatment episodes.  Forty nine of the diagnostic codes accounted for 75% of all the diagnoses (Munk-Jørgensen, et al). 
+
+The "medicalization of normality" is another argument.  The media routinely runs stories about the percentage of the population that is "mentally ill" based on DSM diagnoses.  One of the common stories is the estimate that as many as 50% of the population has a DSM diagnosis over the course of the year.  There is never a critical look at that statistic.  The first dimension is whether any percentage should be too high or too low.  For example, would anyone be surprised to learn that 100% of the population has a medical diagnosis in the previous year?  With a high prevalence of gastroenteritis and respiratory infections - probably not.  The second dimension speaks directly to the issue of threshold for an illness.  One of the key papers in this area shows that although the one year prevalence using DSM criteria may be high, limiting the diagnoses to severe disorders reduces the prevalence to 8%.
+
+The use of high prevalence numbers for mental illness based on DSM diagnoses also ignores the extensive Epidemiological Catchment Area (ECA) work that estimated lifetime prevalence.  Readers are generally not told that the methods used include addictive disorders and neurological disorders that cause cognitive impairment.  Would anyone doubt that 32% of adults would report a psychiatric disorder that included an addiction or cognitive impairment at any point in their lifetime?
+
+Similarly there has been the repeated criticism that psychiatrists were going to start treating grief like clinical depression.  I have never seen that approach anywhere in my career spanning psychopathology seminars, journal articles, and continuing education courses.  Any psychiatrist with a clue knows the difference between grief and depression and at some point they have probably been tested on that difference.  What psychiatrists know that is not public knowledge is that a small number of grieving people actually develop a depression that is indistinguishable from clinical depression and it may have to be treated that way.  Knowing the difference is part of psychiatric expertise and you really cannot write it down as sentences in a manual.  In fact, it is a grave  mistake to equate a manual of diagnostic criteria with the clinical expertise and methods of psychiatry.
+
+Dr. Frances correctly points out that the other common media theory that DSM diagnoses are driven by the pharmaceutical industry is a myth.  He continues on to suggest that the public and other mental health professionals somehow have a stake in the DSM and that organized psychiatry has frozen them out.  He concludes: “Psychiatric diagnosis is too important to be left exclusively in the hands of psychiatrists.”  I don’t understand how the specialty who invented the technology, who is trained and tested on it, and who is focused on a comprehensive view of psychopathology that extends beyond it should somehow give way to political considerations.  As he points out – there are always political considerations – even in science.  I would suggest that there is no such thing as “independent scientific review” of anything that psychiatry does.  There are many ways to address issues of professional bias in terms of including a diagnosis or not.
+
+The arguments against the DSM and psychiatric influence vary across the usual spectrum of there being no such thing as a psychiatric diagnosis to there are too many diagnoses to the fact that psychiatric diagnoses are nonspecific.  There is no practical way to incorporate that spectrum into a diagnostic manual that is designed for psychiatrists to make clinical diagnoses and do research.  The single most important fact that is left out of these debates is that psychiatrists are effective in treating serious mental illness and they are undoubtedly more effective now than they have been in the past.  That is the only reason we need a DSM and that is why it stays squarely in psychiatry.
+
+George Dawson, MD, DFAPA  
+
+
+Frances A.  Diagnosing the DSM.  New York Times May 11, 2012.
+
+Frances A.  DSM5 begins its belated and necessary retreat.  Health Care Blog May 10, 2012.
+
+Kessler RC, Avenevoli S, Costello J, Green JG, Gruber MJ, McLaughlin KA,
+Petukhova M, Sampson NA, Zaslavsky AM, Merikangas KR. Severity of 12-month DSM-IV disorders in the national comorbidity survey replication adolescent supplement
+Arch Gen Psychiatry. 2012 Apr;69(4):381-9.
+
+Munk-Jørgensen P, Najarraq Lund M, Bertelsen A. Use of ICD-10 diagnoses in Danish psychiatric hospital-based services in 2001-2007. World Psychiatry. 2010 Oct;9(3):183-4.
+
+Regier D, Kaelber CT.  The Epidemiological Catchment Area Program:  Studying the Prevalence and Incidence of Psychopathology. in  Textbook in Psychiatric Epidemiology eds.  Ming T Tsuang, Mauricio Tohen, and Gwnedolyn EP Zahner.  John Wiley and Sons, 1995. p141.
+
+Schappert SM, Rechtsteiner EA. Ambulatory medical care utilization estimates for 2007. National Center for Health Statistics. Vital Health Stat 13(169). 2011. (see Table 7.)

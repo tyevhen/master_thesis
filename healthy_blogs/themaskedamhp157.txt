@@ -1,0 +1,80 @@
+Blog Reader: Hi there, Masked AMHP. What’s this post all about when it’s at home, then?
+
+Masked AMHP: Hello, Blog Reader. Nice of you to drop by. This fascinating yet also informative post is all about how to fill in statutory forms correctly.
+
+BR: Oh really? I think, perhaps, I’ll be off then. The Not So Big Society Blog has got some interesting stuff…
+
+MA: Not so fast! This is really important! AMHP’s and doctors completing Mental Health Act forms have to get them right!
+
+BR: Why’s that then?
+
+MA: Because if they don’t, the whole detention could be completely illegal! Ultimately, it could lead to the patient being subject to unlawful imprisonment and they could sue!
+
+BR: That sounds bad.
+
+MA: It is bad! That’s why AMHP’s have it drummed into them from the very beginning the importance of filling in the forms correctly!
+
+BR: You’re using a lot of exclamation marks today, Masked AMHP.
+
+MA: I’m sorry. I was getting a bit over excited. I’ll try to avoid exclamation marks from now on! Oops! Oops.
+
+BR: Now calm down, have a cup of chamomile tea, and tell me all about it.
+
+MA: It’s all in The Mental Health (Hospital, Guardianship and Treatment) Regulations 2008 (SI 2008/1184). This states that there are certain statutory forms that have to be used for compulsory admissions and other legal aspects of the MHA, and these regulations give the wording that has to be used on the forms.
+
+BR: Ah, yes! The dreaded pink forms, without which an AMHP is as powerless as a new born kitten!
+
+MA: Yes. Although the forms don’t have to be pink. You see it’s the wording on the forms which is statutory, not the forms themselves – you could write them out by hand if you wanted, as long as you used the wording set out in the Regulations. These forms set out the information that has to be provided to the managers of a hospital in order for them to be able legally to receive and detain the patient. As the Code of Practice says: (13.2) “Regulations require specific statutory forms to be used for certain applications, recommendations, decisions, reports and records under the Act. The forms are set out in the regulations themselves.” Para 13.5 goes on to say: “People who sign applications and make the supporting medical recommendations must take care to comply with the requirements of the Act. People who act on the authority of these documents should also make sure that they are in the proper form, as an incorrectly completed or indecipherable form may not constitute authority for a patient’s detention.”
+
+BR: Otherwise the patient could sue their asses!
+
+MA: I’m not too keen on your terminology, but essentially that’s right. I always tell my AMHP trainees, or in fact anyone who’ll listen, that an AMHP’s responsibility for the assessment and admission of a patient under the Mental Health Act does not end until the patient is tucked up in the hospital and the papers have been accepted. The Reference Guide states clearly that detained patients “are treated as having been ‘admitted’ when the relevant application was received on behalf of the managers.” In other words, the assessment process does not end until the paperwork has been checked and signed off.
+
+BR: How do you make sure that happens?
+
+MA: It’s always best practice to go with, or at least to follow, the patient to hospital, and then not leave until someone authorised to do so has scrutinised the documents and made sure they are legally sound. That way, if there are any mistakes, at least on the AMHP’s form, they can be rectified while the AMHP is still there. I’ve recently come across a situation where the on call AMHP filled in their application form, then sent the papers off with the patient, who was being taken to the hospital by the police, but did not go themselves. When the patient arrived at the hospital, the person who received the forms discovered that the AMHP had put the name of the wrong hospital on the form. You see, the psychiatric unit was on the same site as the general hospital, but they were different Trusts. The AMHP had put the name of the general hospital on the form instead of the psychiatric unit. Although their address was the same, as the forms therefore related to a different hospital, the admission had no legal authority.
+
+BR: What happened?
+
+MA: The hospital admitted them as an informal patient. They could then have legally detained them under Sec.5(2) if necessary.
+
+BR: But what if the hospital is a long way away? Does the AMHP still have to go?
+
+MA: Ideally, yes. I’ve had to go as far as 100 miles with a patient where there’s either been a bed shortage at the local hospital or they’ve needed to be admitted to a special unit, such as a children’s ward or a secure unit.
+
+BR: Is there no way round it?
+
+MA: Well, there is – you can fax the forms through to the hospital in advance if it’s a long way away – that way, they can be scrutinised and approved in principle before the patient actually gets there. I’ve done that once or twice.
+
+BR: So if a form has a mistake on it, does that make it illegal?
+
+MA: Not necessarily. That’s where “rectifiable and non-rectifiable errors” come in. The CQC have a useful document called Scrutinising and rectifying statutory forms for admission under the Mental Health Act 1983. It gives examples of errors that can be rectified (although it’s a bit more vague when it comes to defining non-rectifiable errors). This document says that:
+Documentary irregularities fall into three broad groups:
+♦ Those that are both incapable of retrospective correction and sufficiently serious to render the patient’s detention invalid.
+♦ Those that may be rectified within 14 days after admission, but which, if not rectified, are sufficiently serious to render the application invalid at the expiry of that period.
+♦ Errors and omissions that, even if they are not corrected within the statutory period, are not sufficiently serious to render the admission application invalid.
+Sec.15(1) MHA allows 14 days for rectifiable errors on forms to be corrected.
+
+BR: So, what are “rectifiable errors” then?
+
+MA: They are usually fairly minor things, like minor errors in the address or name of the patient, or not crossing out things that needed to be, or leaving blank spaces where you should have written something. An example might be not crossing out the bit on the application referring to being unable to identify the nearest relative, when in fact you have identified the nearest relative. But they can be bigger errors, such as two doctors from the same clinical team providing recommendations. As long as you get another medical recommendation within 14 days, you’re all right.
+
+BR: And what about errors that make the detention invalid?
+
+MA: I’ve already given one example. A failure to sign a form is another fatal error. Another one would be a form completed by someone not authorised to complete the form, for example an application made by someone who was not actually an Approved Mental Health Practitioner. Another would be using the wrong forms. I can remember one particular admission. I was on night duty, and was called out to do an assessment by the GP. However, by the time I arrived at the patient’s home, the patient had already gone off to hospital in an ambulance. When the ambulance arrived at the hospital, the patient was brought onto the ward, clutching a single pink piece of paper in their hand. This turned out to be a Nearest Relative Application form! The Nearest Relative had completed the first part of the form, and the GP had then written in a space on the back “I certify that this person should be detained under the Mental Health Act” and had then signed it!
+
+BR: You’re using exclamation marks again.
+
+MA: Sorry.
+
+BR: Have you ever made any serious mistakes when completing an application, Masked AMHP?
+
+MA: Me? The Masked AMHP? Made a serious mistake on an application? Well, I have actually. It was a woman with a history of bipolar affective disorder who would from time to time become manic and require detention under the MHA. She was well known to me, as I had had to detain her under Sec.3 on a number of occasions. One day there was a request to assess her under the MHA, so I set up the two doctors and went to her house. She was in the street behaving in an erratic manner. The police attended, and took her to the police station under Sec.136. I told the two doctors, who then went to see her at the police station. By the time I had arrived, they had already assessed her, and gave me a completed joint medical recommendation. I then assessed her myself, completed an application under Sec.3, and the police agreed to take her to hospital. I then followed in my car, with the pink forms on the passenger seat. Being a stickler, I double checked the paperwork as I was driving, and then realised with horror that the doctors had completed a joint recommendation for a Sec.2, not a Sec.3. I pulled into the next layby and hurriedly completed an application for a Sec.2 to make the whole thing legal.
+
+BR: Do you feel better for getting that confession off your chest, Masked AMHP?
+
+MA: I do, as a matter of fact.
+
+BR: Perhaps you’d better go and have a lie down, now. And keep away from the exclamations marks!
+
+MA: Perhaps I will.

@@ -1,0 +1,11 @@
+Steve Jobs today unveiled Apple's latest cool new device, the iShrink.  The handheld device is the latest Cupertino offering for its e-health initiative, following in the steps of its highly successful iKG for monitoring the heart, and the iXRay Nano.
+
+The iShrink follows the iPhone form factor, while adding an alcohol breathalyzer to detect the user's alcohol level.  Initially aimed at the emergency psychiatry market, the electronic psychiatric aide also capitalizes on its camera, microphone, and accelerometer.  The accelerometer is usually used to detect screen orientation, but new software can analyze rapid changes, resulting in the ability to distinguish among a Parkinsonian tremor, a lithium tremor, and EPS.  It can even detect objective akathisia, according to Apple's Chief Medical Officer, Dr. Benjamin Rush.  "This does not replace the psychiatrist, but helps busy E.D. physicians get a better assessment before deciding to order a psych consult."
+
+The camera's facial recognition software can detect the amount of lid lag, helpful in assessing for thyroid conditions and also intoxication, while also looking for tardive dyskinesia movements.  The microphone can assess for slurred speech, and uses the Dragon Dictate engine for speech recognition.  Software written by psychiatrists and programmers at the University of Maryland provides cognitive behavioral therapy, and the software can be updated via iTunes in response to the most up-to-date evidence-based medicine findings.  If a psychiatrist is  recommended, the iShrink can also be used to contact a telemedicine psychiatrist, who can interact with the E.D. physician and with the patient in real-time.
+
+"It can even be used to listen to our podcasts on My Three Shrinks," notes psychiatrist Dr. Roy.  His colleague, Dr. Clink Shrink, noted "What I like best about it is that you can use it to go to iTunes and write a review."
+
+While the price of the iShrink is a steep USD$599 (much more than the iPhone 3G at USD$199), many groups feel it is worth the expense.  But not everyone feels the hot new device is worth all the attention.  Dr. Dinah from the Shrink Rap blog said, "I can't even figure out how to use the darn thing, and if I got one I'd surely spend all my time on it, so forget it."
+
+The iShrink will be available on July 11 in 62 countries.

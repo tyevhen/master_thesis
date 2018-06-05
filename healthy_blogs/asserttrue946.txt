@@ -1,0 +1,3 @@
+Some revealingly candid dialog has been going on over at Loud Thinking regarding the slow, relentless heat death of WS-*. (Random quote: Getting your head around all the WS-* stuff is like trying to eat an elephant.)
+
+Someone asked David Heinemeier Hansson whether he thought SOAP had legitimate uses or was, to the contrary, simply evil. DHH tactfully replied that SOAP mostly seems unnecessary. "So SOAP feels more like the doorknob to the gates of hell," he concluded. "In itself, a doorknob is hardly evil. But once you turn..."

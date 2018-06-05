@@ -1,0 +1,1 @@
+ecma 's revision working group just published a draft spec of what will hopefully become by next summer javascript this is the first major upgrade to the javascript language in almost a decade guaranteed to take ajax to the next level

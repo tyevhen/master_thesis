@@ -1,0 +1,55 @@
+Acrobat has a mind-destroyingly rich JavaScript API (with hundreds upon hundreds of methods and properties, on dozens of object types), but one thing it sorely lacks is a Selection object. Bluntly put, you can't write a line of code that fetches user-selected text on a page. Which sucks massively, because in any modern browser I can do the equivalent of
+
+document.getSelection( )
+
+to get the text of the user's selection (if any) on the current page. In Acrobat, alas, there's no such thing (using JavaScript, at least). If you want to write a plug-in to do the requisite magic using Acrobat's famously labyrinthine C++ API, be my guest (I'll see you at Christmas). But it seems like overkill (doesn't it?) to have to write a C++ plug-in to do the work of one line of JavaScript.
+
+Fortunately, there's a workaround. I nearly fell off my barstool when I happened onto it.
+
+It turns out (follow me now) you can get the exact location on a page of an annotation (such as a Highlight annotation) using the Acrobat JavaScript API; and you can programmagically get the exact location on a PDF page of any arbitrary word on that page. I thought about those two facts for awhile, and then a light bulb (~40 watt Energy Saver) went off in my head: If you're willing to use the Highlight annotation tool to make selections, and if you are willing to endure the indignity of iterating over every word on a page to compare each word's location to the known location of the Highlight annotation, you can discover exactly which words a user has highlighted on a page. It's a bit of a roundabout approach (and wins no awards for elegance), but it works.
+
+The first thing you have to know is that Acrobat lets you do
+
+getAnnots( page )
+
+to obtain a list of Annotation objects (if any exist) on the specified page. (Just specify the zero-based page number: 0 for page one of the document, etc.)
+
+The second thing you have to know is that every Annotation has a gazillion properties, one of which is the list of quads for the annotation. A quad simply contains the annotation's location in rotated page space. The key intuition here is that every annot has a bounding box (think of it as a rectangle) with an upper left corner, an upper right corner, and so on (duh). Each corner has x,y coordinates in page space (double duh). Since there are four corners and two coords for each, we're talking about eight floating-point numbers per quadrilateral (i.e., per quad).
+
+Okay. Cache that thought.
+
+Now consider that in the land of PDF, every word on a page also has a bounding box. And Adobe kindly provides us with a JS method for obtaining the bounding-box coordinates of the Nth word on a page:
+
+getPageNthWordQuads( page, N )
+
+Therefore it's possible to build a function that accepts, as arguments, an Annotation and a page number, and returns an array of all words on that page that intersect the quad space of the annot in question. Such a function looks like this:
+
+function getHighlightedWords( annot, pagenumber ) {
+       var annotQuads = annot.quads[0];
+       var highlightedWords = new Array;
+       // test every word on the page
+       for (var i = 0; i < getPageNumWords(pagenumber); i++) {
+               var q = getPageNthWordQuads( pagenumber ,i )[0];
+               if ( q[1] == annotQuads[1])
+                  if ( q[0] >= annotQuads[0] &&
+                       q[6] <= annotQuads[6] )
+                           highlightedWords.push(getPageNthWord( pagenumber ,i ));
+       }
+       return highlightedWords;
+}
+
+
+// Test the function:
+// Note that this test assumes there is at least one
+// annotation on the current page:
+page = this.pageNum; // current page
+firstAnnot = getAnnots( page )[0];
+words = getHighlightedWords( firstAnnot, page );
+
+We can safely compare quad coords for exact equality thanks to the fact that when Acrobat puts a Highlight annot on a page, it sets the annot's quad location to (exactly) the word's location. There's no "off by .0000001" type of situation to worry about.
+
+Something to be aware of is that functions that return quad lists actually return an array of quads, not a single quad; you're usually interested in item zero of the array. (And recall that a quad is, itself, an array -- of eight numbers.)
+
+I tested the above function in Acrobat 9 using Highlight annotations and (voila!) it seems to work.
+
+Now if Adobe will get busy and add a proper Selection object to its JavaScript API, I can turn off the 40-watt bulbs and hop back on my barstool, and get some real work done.

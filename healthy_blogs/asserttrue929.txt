@@ -1,0 +1,3 @@
+This online facial-compositing app is the weirdest thing ever. It lets you merge facial features (from actual photos) together to create your own police composite sketches, kind of.
+
+I spent 30 minutes fooling with it. Everything came out looking like Pia Zadora.

@@ -1,0 +1,20 @@
+At the risk of recreating a wikipedia article, we need to lay some groundwork here and discuss the structure of normal sleep. Of course it is never as simple as that - normal sleep architecture changes throughout the life cycle. However, the basics are similar for everyone except perhaps preemies.
+
+Sleep is defined using EEG readings (where you have a bunch of leads taped to your head, and the electrical output of the brain is measured on a polysomnography - which also includes muscle measurements and eye movement measurements to be completely accurate.) In general, all stages of non-REM sleep are characterized by a slowing and deepening of the waveforms as we get deeper and deeper into sleep. When we are awake but zoning out, or meditating, we have a type of waveform detected on the EEG called an "alpha wave." When the alpha waves start to become theta waves, we've progressed to stage 1 sleep. In general, someone who has been awakened from stage 1 sleep will not think he or she was actually sleeping. (Think Dad nodding in his chair on Sunday afternoon, and when you bug him, he blinks and goes back to watching the game as if nothing happened).
+
+EEG tracing of stage 1 sleep with mostly theta waves and some alpha
+
+
+A few minutes into stage I, if all goes well, you go to stage 2, and then after another few minutes into stage 3 and 4. These last two stages are characterized by "delta waves" and are commonly referred to as "slow wave sleep" and represent the deep, refreshing sleep. After about an hour or a little more (total for 1-4), normal adults will transition to REM sleep, where eyes move rapidly and large muscle groups are paralyzed. This stage is when a lot of dreaming occurs (though dreaming also happens during slow wave sleep). REM sleep waves are somewhere in between stage I and wakefulness - in fact, the sleep scientists rely on the muscle readings and eye movement readings to distinguish between someone who has woken up, and someone who is in REM sleep.
+
+
+Once the REM cycle is finished, one drops down through stage 1-4 again. The cycle repeats itself every 90 minutes or so (for newborns, every 45 minutes) throughout the night, though the last couple of cycles one spends more time in REM sleep and less time in slow wave sleep.
+
+Normal sleep architecture
+
+
+A couple of important things - the first cycle or two are the ones where we spend the most time in the deep, refreshing slow wave sleep, so it is vital that these cycles are of good quality. In classic Major Depressive Disorder, for example, patients will often never reach full slow wave sleep throughout the night, thus the common complaint of insomnia, feeling constant fatigue, irritability, or being too easily awakened. These same patients typically aren't hungry and lose weight. In "atypical" depression, seasonal affective disorder, or bipolar disorder, some patients will actually spend too much time in slow wave sleep. They also feel lethargic, and will be hungry and tend to gain weight.
+
+Alcohol consumed close to bedtime will tend to decrease sleep latency (that is, the amount of time from being awake to being asleep when we go down for the night), increases the length of time to get to REM sleep, and increases slow wave sleep for the first half of the night. However, the second half of the night, there will be more wakefulness, more REM sleep, and less slow wave sleep. Alcohol is the most common go-to substance that chronic insomniacs use to get some shut-eye, and overall it decreases the quality and efficiency of sleep.
+
+All told, sleep problems and fatigue arise from a complicated array of too much or too little in a number of neurochemical systems. There are natural chemicals promoting wakefulness, and chemicals promoting sedation as part of the circadian rhythm, and issues with any of these can lead to complaints of poor sleep, insomnia, or fatigue. I hope to get to more of the details in future posts!

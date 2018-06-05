@@ -1,0 +1,11 @@
+By now, you've probably heard of OpenCalais, the free (as in free) online metadata-extraction service. If you haven't heard of it (my God, man, where have you been?) you should drop what you're doing right now (yes, now; I'll wait) and go immediately to the OpenCalais web site and drink from the fire hydrant. This is a game-changer in the making. You owe it to yourself to be on this bus with both feet.
+
+Basically, what we're dealing with here is Metadata-as-a-Service: OpenCalais is a text analytics web service (created by Thomson Reuters) with SOAP and REST APIs. It's "open" not in the sense of source code, but of open access. Anyone can use the service for any reason (commercial or personal). Calais point man Thomas Tague explains the motivations behind OpenCalais in a Rob McNealy podcast interview, remarkable for (among other things) Tague's surprising explanation of why a megalith like Reuters would offer such a powerful, valuable online service for free.
+
+I've been experimenting with the API (more on that tomorrow) and I have to say, I'm impressed. You can query the OpenCalais service, sending it text in any of several formats, and receive metadata back in your choice of RDF, "text/simple", or Microformats (great if you're wanting big lists of rel-tags). The "text/simple" format is great for entity extraction, and I'll give source code for how to do that tomorrow.
+
+Response data comes back in your choice of XML or JSON. So yeah, it means what you think it means: Text analytics is now the province of AJAX. And it's free. Mash away.
+
+Like I say, I've been experimenting with the APIs, and I've come up with a fairly impressive (if I may say so) little demo, written in JavaScript, that will erase any residue of doubt in anyone's mind as to how powerful the Metadata-as-a-Service metaphor is. Return here tomorrow for the demo, with source code.
+
+Meanwhile, Twitter me at @kasthomas if you have questions. And please retweet this.

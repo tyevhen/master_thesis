@@ -1,0 +1,55 @@
+© 2010 Allen Institute for Brain Science. Allen Human Brain Atlas. Available from: human.brain-map.org
+
+
+
+I have been studying neuroanatomy for the past 37 years.  When I started out there was no Powerpoint.  All of the presentations and lectures were projections of actual sectioned or stained specimens, photographs, or combinations of images from journal articles.  The lecture notes were generally a patchwork of similar figures.  The texts were a self study manual by Sidman and Sidman (2) and Carpenter's Human Neuroanatomy (1).   My original neuroanatomy course focused primarily on functional neuroanatomy that focused on clinical syndromes that had to do with identifying cranial nerve, midbrain, and hindbrain lesions and the general organization of the central and peripheral nervous systems.  Some systems were discussed.  Papez version of the limbic circuit for example but there was very little aphasiology or behavioral neurology.  There was very little cortical localization for that matter.  Mt speculation is that the neuroanatomists of the time thought that most medical students would pick it up in clinical neurology.  In terms of motor function, there was an emphasis on the dorsal striatum and a discussion of the usual clinicopathological correlates - Wilson's Disease, Huntington's Disease and Parkinson's Disease.  There was not discussion of the broad array of movement disorders.
+
+Those early days of neuroanatomy were far from perfect.  There was no focus on the ventral striatum. despite the fact that Olds had discovered the median forebrain bundle and the reward system about 20 years earlier.   Diagrams about mesolimbic dopaminergic systems, even in pharmaceutical company literature were labelled according to conventions established in laboratory rats rather than the human brain.  There were a lot of deficiencies for anyone who learned neuroanatomy in the last two decades of the 20th century.  That is at least as far as I can tell.  I routinely teach a course on the neurobiology of addiction to physicians and residents where I usually say something like: "When I was in medical school most of the focus was on the dorsal striatum and the disease correlates.  Now we know that there is a ventral striatum that hang off the anterior and inferior aspect of the dorsal striatum.  I assume that you all have learned about these structures?"  That is generally followed by dead silence.  I am still uncertain about what that silence means.          
+
+You can't really study neuroscience as it relates to psychiatry without knowing a great deal of neuroanatomy.  Finding the right sources is critical.  There was a progression of neuroanatomy texts  for medical school but in my opinion none of them is better than Hal Blumenfled's text (3).  His text has excellent graphics that are organized to illustrate concepts.  The best example I can think of is Figure 14.10 in this text entitled Dopaminergic Projection Systems.  The diagram illustrates the striatum (dorsal striatum), limbic system, and prefrontal cortex and their connections to the midbrain structures via the mesolimbic, mesostriatal and mesocortical pathways.   The origins of these pathways in the substantia nigra pars compacta, ventral tegmental area, and ventral tegmental area plus ventral tegmental area are illustrated in the same diagram.  It is one of the best conceptual diagrams I have seen in the field.  When it comes to illustrations of the ventral striatum and nucleus accumbens the text depends on a photograph of a coronal section (fig. 18.4) through the nucleus accumbens very similar to the one illustrated below from the University of Michigan.
+
+The anatomy of this area of the brain is critical.  There are connections to the limbic system and hypothalamus.  Most medical school neuroanatomy texts lack both granularity and specific detail when is comes to the connectivity in this area.  A lot of the lack of granularity is based on the photographs and staining characteristics of the sections.  Blumenfeld's text talks about important structure in the area, neurotransmitter characteristics of some of those nuclei
+
+Paxinos, Mai, and co-authors offer a detailed text (4), a detailed human brain atlas (5), and an online site (6).  I am still using the second edition of the text and the atlas and there are third and fourth editions available at this time.  These texts were recommended to me by Dr. Heimer when I corresponded with him after taking his course on brain dissection.  There is probably no better paragraph illustrating the significant advance in the neuroanatomy of this area than in Chapter 21 of this edition on page 682.  It is the only page in the text that refers to the nucleus accumbens:
+
+".....The ventral region, which has been included in the term, the "substantia innominata," has now been histochemically identified as the ventral extension of the striatum.  In addition, the olfactory tubercle and the rostrolateral portion of the anterior perforated space adjacent to the lateral olfactory tract in primates are also included in the ventral striatum (Heimer, et al., 1999).  The remainder of the anterior perforated space appears to be a mixed area with elements of the putamen, extended amydala, the corticopetal cell complex, and the ventral extension of the pallidum."
+
+There have been some major developments along the way such as Heimer's formulation of the extended amygdala (8).  His work was based on an advancement in technology that allowed for clearer visualization of the connections between the basal forebrain and the amygdala (9).
+
+Enter the Allen Brain Atlas.  I have my favorite coronal section displayed at the top of this page per the Allen Brain Atlas terms of non-commercial use.  It is section 21 of 106 (numbered from the frontal pole).  I encourage anyone with an interest in human brain anatomy to go to the web site and look at coronal sections of the human brain.  Every coronal section has a smaller image of the location of the section on a lateral view of the brain. The image here is a standard image file (.jpg) and does not have the functionality of the web site.  As an example, on the web site there is a rollover feature that tells the exact structure under the cursor.  This is a very useful feature when studying the basal forebrain area and relationships between the nucleus accumbens, amygdala, and hypothalamus.
+
+The only other text that I have found to be very useful in the clinical applications of neuroanatomy is Scott Atlas text on the MRI of the brain and spine (10).  The graphics on the accompanying CD are excellent and very useful as orientation to MRI scanning.
+
+One of the problems with expensive texts is that they are not very useful or practical for teaching purposes.  I have tried to get permission from several texts to use the occasional graphic on this blog or for teaching purposes only to be confronted with very steep fees.  By steep, I mean on the order of a thousand dollars per graphic.  I consider that to be outrageous based in some cases on the publication date and the use for noncommercial not-for-profit teaching purposes.  In the case of reasonable fees, the licensing arrangement seems impractical.  As an example, I had a licensing arrangement at a reasonable rate but it involved me counting the number of PowerPoint slides for the number of students and submitting that fee on a regular basis.  I have no doubt that many lecturers are more organized than I am, but at 15-20 neuroanatomy based lectures per year to groups of various sizes I eventually gave it up and used publicly available material.
+
+The good news for psychiatrists is that neuroanatomy has never been more relevant.  It has become a clear basis for addiction psychiatry and neuropsychiatry.  The amount of material that is openly accessed for teaching purposes has never been better.  In clinical work, one of the few good features of the electronic health record (EHR) has been access to imaging in the digital format.  I used to have to go down to Radiology and trace abnormal images on note cards and occasionally reproduce them in the handwritten record.  In many systems it is possible to cut and paste the image of interest into EHR progress notes.
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+
+1:  Carpenter, Malcolm B.  Human Neuroanatomy.  7th ed.  Baltimore, MD: The Williams & Wilkins Company, 1976.
+
+2:  Sidman RL, Sidman M.  Neuroanatomy A Programmed Text: 1st ed. Baltimore, Maryland: Lippincott, Williams, and Wilkins, 1965.
+
+3:  Blumenfeld, Hal. Neuroanatomy Through Clinical Cases: 1st ed. Sunderland, MA: Sinauer Associates, 2002: p 595.
+
+4:  Paxinos G, Mai JK, eds. The Human Nervous System: 2nd ed. San Diego, California: Elsevier Academic Press, 2004.
+
+5:  Mai JK, Assheuer J, Paxinos G.  Atlas of the Human Brain: 2nd ed.  Amsterdam, Netherlands: Elsevier Academic Press, 2004.
+
+6:  Mai JK, Paxinos G, Voxx T.  Atlas of the Human Brain: 3rd ed.  Elsevier Science, 2007.
+This text is listed as the source material for http://teaching.thehumanbrain.info/ an open access neuroanatomy site that uses photographs from the book and other materials and is licensed for non-commercial use and teaching purposes by a Creative Commons 3.0 license - Attribution Non-Commerical - No Derivatives 3.0 Germany.
+
+7:  Haber SN, Gdowski MJ.  The basal ganglia. In: Paxinos G, Mai JK, eds. The Human Nervous System: 2nd ed. San Diego, California: Elsevier Academic Press, 2004:  676-738.
+
+8:  Heimer L. A new anatomical framework for neuropsychiatric disorders and drug abuse. Am J Psychiatry. 2003 Oct;160(10):1726-39. Review. Erratum in: Am J Psychiatry. 2003 Dec;160(12):2258. PubMed PMID: 14514480.
+
+9:  Elias WJ, Ray DK, Jane JA. Lennart Heimer: concepts of the ventral striatum and extended amygdala. Neurosurg Focus. 2008;25(1):E8. doi: 10.3171/FOC/2008/25/7/E8. PubMed PMID: 18590385.
+
+10:  Atlas SW, ed.  Magnetic Resonance Imaging of the Brain and Spine.  3rd ed.  Philadelphia, Pennsylvania: Lippincott Williams, and Wilkins, 2002.

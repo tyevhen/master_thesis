@@ -1,0 +1,3 @@
+From Adobe Technical Evangelist Ben Forta comes word that the LinkedIn Flex Developers Group is now full to capacity and can accept no more members.
+
+Apparently, LinkedIn groups can have a maximum of 3000 members, and that's how many the Flex-dev group now has. (I wonder who the genius was that hard-coded that limit?) Forta says he is sitting on 50-some-odd requests to join, and can't approve them. Moreover, he pinged LinkedIn Customer Services to ask if there was a way to raise that limit. He was told he can't approve any more requests. "If the limit gets raised," Forta says, "I'll let you know (and will approve those in the queue)."

@@ -1,0 +1,28 @@
+For several years I struggled with the concept of a mutated gene.  I asked questions like:
+What was mutated? 
+Why did it mutate? 
+Can the mutation be fixed?
+What does the mutation look like versus a healthy gene?
+What is binding and folding and why are they important?
+Ed, my resident biology professor, was very helpful in explaining the process.  However, I know it still isn’t totally clear to me and probably to others.  For that reason, I did a little more research and found a good resource for a lot of my unanswered questions.  “Genetics Home Reference” is a service of the U.S. National Library of Medicine.  
+
+Below are some excerpts from this service that might be helpful in explaining the Androgen Receptor.
+
+
+1.  What is the normal function of the Androgen Receptor (AR) gene?
+The AR gene provides instructions for making a protein called an androgen receptor. Androgens(*) are hormones (such as testosterone) that are important for normal male sexual development before birth and during puberty. Androgen receptors allow the body to respond appropriately to these hormones. The receptors are present in many of the body's tissues, where they attach (bind) to androgens. The resulting androgen-receptor complex then binds to DNA and regulates the activity of androgen-responsive genes. By turning the genes on or off as necessary, the androgen receptor helps direct the development of male sexual characteristics. Androgens and androgen receptors also have other important functions in both males and females, such as regulating hair growth and sex drive.
+
+In one region of the AR gene, a DNA segment known as CAG is repeated multiple times. This CAG segment is called a triplet or trinucleotide repeat. In most people, the number of CAG repeats in the AR gene ranges from fewer than 10 to about 36.
+
+
+  2.  How are changes in the AR gene related to Kennedy’s Disease?
+Spinal and bulbar muscular atrophy (Kennedy’s Disease) – is caused by mutations in the AR gene that results from an expansion of the CAG trinucleotide repeat in the gene.
+In people with this disorder, CAG is abnormally repeated from 38 to more than 60 times.
+Although the extended CAG region changes the structure of the androgen receptor, it is unclear how the altered protein disrupts nerve cells.
+Researchers believe that a fragment of the androgen receptor protein containing the CAG repeats accumulates within these cells and interferes with normal cell functions.
+This buildup leads to the gradual loss of nerve cells in the brain and spinal cord that control muscle movement.
+
+(*) Androgens are compounds that interact with androgen receptors in target tissues to bring about the effects similar to those of testosterone. Depending on the target tissues, androgenic effects can be on sexual differentiation; male reproductive organs, spermatogenesis; secondary male sex characteristics; libido; development of muscle mass, strength, and power. 
+  3.  What glossary definitions help with understanding AR?
+alopecia ; androgens ; atrophy ; base pair ; benign ; cancer ; cell ; dihydrotestosterone ; DNA ; endometrial ; gene ; hormone ; mutation ; nerve cell ; progression ; prostate ; protein ; puberty ; receptor ; somatic mutation ; syndrome ; testosterone ; tissue ; trinucleotide repeat
+You may find definitions for these and many other terms in the Genetics Home Reference Glossary.

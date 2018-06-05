@@ -1,0 +1,9 @@
+Every once in a while I'm humbled to find that there's a word, in computer science, for something fairly common, that I've never heard of before. Today's word? Thunk.
+
+According to Wikipedia, "thunk" may refer to:
+a piece of code to perform a delayed computation (similar to a closure)
+a feature of some virtual function table implementations (similar to a wrapper function)
+a mapping of machine data from one system-specific form to another, usually for compatibility reasons
+The original paper on thunks was P.Z. Ingerman's somewhat inscrutable (to me, at least) piece in Communications of the ACM, Vol. 4, No. 1 (1961).
+
+I am, as I say, humbled to find that I did not know the term thunk. All this time, I thought it was the past tense of think.

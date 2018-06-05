@@ -1,0 +1,337 @@
+Mycoplasma genitalium is a super-tiny bacterial parasite of the human urinary system, causing about 15% of urinary infections in men. Its genome, encoding just 476 protein-coding genes, is often cited as the smallest genome of any organism that can be grown in pure culture. The genome is so small that scientists have for years used M. genitalium as a kind of litmus test for the essentiality of genes: If a particular kind of gene exists in M. genitalium (the reasoning goes), it must be truly essential for life.
+Mycoplasma genitalium
+
+Recently, I looked at the genome of M. genitalium from the point of view of latent nucleic-acid secondary structure. (Secondary structure refers to the ability of a single strand of DNA or RNA to base-pair with itself.) I probed each gene with a script designed to detect intragenic self-complementing regions of length eleven (so-called 11-mers), the idea being that complementary runs of bases shorter than that might occur at a high rate by chance. Given M. genitalium's base composition stats (adenine being most prevalent, at 36.24% of all bases in protein-coding message regions, thymine being next-most-abundant, at 32.21% of protein-coding bases), the most likely 11-mer, 'AAAAAAAAAAA', could be expected to occur by chance once every 70,672 bases. In actuality, that particular 11-mer doesn't occur in the M. genitalium genome, but if it did we could expect around 8 occurrences of it in a genome of 528,500 base pairs. Instead, what we actually find are 749 occurrences of complementary 11-mers in 283 genes.
+
+The procedure used to check for 11-mers is as follows (in pseudocode):
+
+for ( i = 0; i < genes.length; i++ )  // for each gene
+    for ( k = 0; k < genes[i].length - 11; k++ ) // for all bases
+        sequence = genes[i].substring( k, k + 11 ) // get 11 bases
+        complement = getReverseComplement( sequence ) 
+        if ( genes[i].match( complement ) ) // a match exists
+        if ( matchNotWithinMask( mask ) ) // not inside a previous match
+        if ( matchNotInsideSequence( sequence ) ) // not inside sequence 
+             matches++    // count it as a hit
+             updateMask( )  // update mask
+
+Note that with even-length sequences it would be important to guard against self-matching sequences, since a sequence like AGCT is its own reverse-complement. With length-11 sequences this is not an issue. Nevertheless, it's possible for successive matches to overlap, and I wrote a check to guard against that. That's what  matchNotWithinMask( mask ) and updateMask() are all about.
+
+It should go without saying, but I'll say it anyway: 749 complementing 11-mers in 283 genes is a very substantial (and quite unexpected) amount of internal complementarity. The question is: What's the purpose of all that (putative) secondary structure?
+
+One possibility (which I've talked about in a previous post) is that the secondary structure allows for thermostatic control of gene expression. RNA thermometers are a well established phenomenon and it could be that M. genitalium needs sensitive control over thermal expression of certain genes.
+
+Another possibility is that many genes incorporate magnesium-, manganese-, or calcium-sensitive riboswitches. RNA is a potent chelator of metal ions, particularly doubly-charged ions like Mg+2, which is smaller than sodium or potassium (with twice the charge) and thus has unusually high charge density. It's possible that under conditions of osmotic stress (with high influx of water and low ion concentrations) certain mRNAs relax or uncoil and thereby become translatable. If this is true (if certain genes are under osmotic control), we might expect to find that many M. genitalium genes with high secondary structure potential are membrane-targeted genes tasked with managing the import and export of various things. And that's indeed what we find.
+
+Further below, I present a table with the top 100 M. genitalium genes containing the most putative secondary structure based on the 11-mer probe outlined above. The table shows the gene name, gene product or function (where known), gene size in base pairs, and the number of complementing 11-mers in the gene. The genes tend to fall into only a few categories. About a third of the genes (34 out of 100) are DNA- or RNA-binding genes. A dozen genes are transporters or permeases; another 12 fall in the category of "other membrane-associated genes" (these are marked with asterisks); and ten encode lipoproteins. Sixteen are "hypothetical proteins" (which should probably be reannotated as proteins of unknown function, since we can be fairly sure the genes are expressed).
+
+It's interesting that so many genes with (putative) secondary-structure potential are nucleic acid processing genes. Among genes in this category are ten genes that either acylate or modify transfer RNAs. What's interesting about the latter group is that most involve tRNAs for non-polar amino acids (alanine, leucine, isoleucine, valine, phenylalanine, and methionine). The reason this is interesting is that non-polar amino acids are extensively used in membrane-associated proteins. Thus we have a situation, possibly, in which osmo-switches (osmotically sensitive mRNAs) control the expression of tRNA synthetases for amino acids used in membrane proteins.
+
+It is quite possible that some of the (few) metabolic genes listed in the table are membrane-associated. This is likely true for phosphomannomutase, UDP-galactopyranose mutase, and glycerophosphoryl diester phosphodiesterase, for example. Also interesting is that 2,3-bisphosphoglycerate-independent phosphoglycerate mutase from Thermoplasma has been shown to be manganese-stimulated. Riboswitch modulation of such an enzyme would not be unexpected.
+
+Altogether, 34 to 37 out of 100 genes listed in the table are membrane-associated, and another 7 are tRNA synthetases involving non-polar amino acids (heavily used in membrane proteins), tending to support the hypothesis that M. genitalium uses secondary structure of mRNA (and/or ssDNA) to modulate gene expression in osmotically sensitive manner.
+
+Table 1. Genes with high secondary structure potential in M. genitalium. Genes marked with asterisks are membrane-associated genes other than transporters or permeases. The final column shows the number of complementary 11-mer pairs found in the gene.
+Gene Product
+Size (bp)
+11-mers
+MG_468 ABC transporter, permease protein
+5353
+22
+MG_064 ABC transporter, permease protein, putative
+3997
+17
+MG_218 HMW2 cytadherence accessory protein *
+5419
+16
+MG_386 P200 protein
+4852
+15
+MG_414 conserved hypothetical protein
+3112
+13
+MG_075 116 kDa surface antigen *
+3076
+12
+MG_422 conserved hypothetical protein
+2509
+12
+MG_244 UvrD/REP helicase
+2113
+11
+MG_191 MgPa adhesin *
+4336
+11
+MG_292 alanyl-tRNA synthetase
+2704
+10
+MG_018 helicase SNF2 family, putative
+3097
+10
+MG_298 chromosome segregation protein SMC
+2950
+10
+MG_345 isoleucyl-tRNA synthetase
+2689
+9
+MG_338 lipoprotein, putative
+3814
+9
+MG_307 lipoprotein, putative
+3535
+8
+MG_031 DNA polymerase III, alpha subunit, Gram-positive type
+4357
+8
+MG_080 oligopeptide ABC transporter, ATP-binding protein
+2548
+8
+MG_321 lipoprotein, putative
+2806
+7
+MG_340 DNA-directed RNA polymerase, beta' subunit
+3880
+7
+MG_069 PTS system, glucose-specific IIABC component *
+2728
+7
+MG_390 ABC transporter, ATP-binding/permease protein
+1984
+7
+MG_525 conserved hypothetical protein
+1996
+7
+MG_226 amino acid-polyamine-organocation (APC) permease family protein
+1480
+6
+MG_378 arginyl-tRNA synthetase
+1615
+6
+MG_192 P110 protein
+3163
+6
+MG_312 HMW1 cytadherence accessory protein *
+3421
+6
+MG_328 conserved hypothetical protein
+2272
+6
+MG_341 DNA-directed RNA polymerase, beta subunit
+4174
+6
+MG_291 phosphonate ABC transporter, permease protein (P69), putative
+1633
+5
+MG_001 DNA polymerase III, beta subunit
+1144
+5
+MG_411 phosphate ABC transporter, permease protein PstA
+1966
+5
+MG_136 lysyl-tRNA synthetase
+1474
+5
+MG_336 aminotransferase, class V
+1228
+5
+MG_261 DNA polymerase III, alpha subunit
+2626
+5
+MG_430 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+1525
+5
+MG_053 phosphoglucomutase/phosphomannomutase, putative
+1654
+5
+MG_195 phenylalanyl-tRNA synthetase, beta subunit
+2422
+5
+MG_260 lipoprotein, putative
+2299
+5
+MG_277 membrane protein, putative *
+2914
+5
+MG_366 conserved hypothetical protein
+2005
+5
+MG_250 DNA primase
+1825
+4
+MG_447 membrane protein, putative *
+1645
+4
+MG_254 DNA ligase, NAD-dependent
+1981
+4
+MG_003 DNA gyrase, B subunit
+1954
+4
+MG_397 conserved hypothetical protein
+1702
+4
+MG_096 conserved hypothetical protein
+1954
+4
+MG_334 valyl-tRNA synthetase
+2515
+4
+MG_141 transcription termination factor NusA
+1597
+4
+MG_241 conserved hypothetical protein
+1864
+4
+MG_278 GTP pyrophosphokinase
+2164
+4
+MG_012 alpha-L-glutamate ligases, RimK family, putative
+865
+4
+MG_123 conserved hypothetical protein
+1417
+4
+MG_266 leucyl-tRNA synthetase
+2380
+4
+MG_119 ABC transporter, ATP-binding protein
+1696
+4
+MG_068 lipoprotein, putative
+1426
+3
+MG_047 S-adenosylmethionine synthetase
+1153
+3
+MG_456 conserved hypothetical protein
+1006
+3
+MG_122 DNA topoisomerase I
+2131
+3
+MG_421 excinuclease ABC, A subunit
+2866
+3
+MG_223 conserved hypothetical protein
+1237
+3
+MG_375 threonyl-tRNA synthetase
+1696
+3
+MG_364 expressed protein of unknown function
+676
+3
+MG_185 lipoprotein, putative
+2107
+3
+MG_423 conserved hypothetical protein
+1687
+3
+MG_067 lipoprotein, putative
+1552
+3
+MG_008 tRNA modification GTPase TrmE
+1330
+3
+MG_306 membrane protein, putative *
+1183
+3
+MG_242 expressed protein of unknown function
+1894
+3
+MG_040 lipoprotein, putative
+1777
+3
+MG_281 conserved hypothetical protein
+1672
+3
+MG_259 modification methylase, HemK family
+1372
+3
+MG_204 DNA topoisomerase IV, A subunit
+2347
+3
+MG_216 pyruvate kinase
+1528
+3
+MG_229 ribonucleoside-diphosphate reductase, beta chain
+1024
+3
+MG_187 ABC transporter, ATP-binding protein
+1759
+3
+MG_094 replicative DNA helicase
+1408
+3
+MG_184 adenine-specific DNA modification methylase
+955
+3
+MG_303 metal ion ABC transporter, ATP-binding protein, putative
+1075
+3
+MG_045 spermidine/putrescine ABC transporter, spermidine/putrescine binding protein, putative
+1453
+3
+MG_051 pyrimidine-nucleoside phosphorylase
+1267
+3
+MG_004 DNA gyrase, A subunit
+2512
+3
+MG_385 glycerophosphoryl diester phosphodiesterase family protein *
+712
+3
+MG_360 ImpB/MucB/SamB family protein
+1237
+3
+MG_457 ATP-dependent metalloprotease FtsH *
+2110
+3
+MG_065 ABC transporter, ATP-binding protein
+1402
+3
+MG_419 DNA polymerase III, subunit gamma and tau
+1795
+3
+MG_295 tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+1105
+3
+MG_072 preprotein translocase, SecA subunit *
+2422
+3
+MG_464 membrane protein, putative *
+1159
+3
+MG_089 translation elongation factor G
+2068
+2
+MG_439 lipoprotein, putative
+820
+2
+MG_309 lipoprotein, putative
+3679
+2
+MG_032 conserved hypothetical protein
+2002
+2
+MG_194 phenylalanyl-tRNA synthetase, alpha subunit
+1027
+2
+MG_137 UDP-galactopyranose mutase
+1216
+2
+MG_203 DNA topoisomerase IV, B subunit
+1903
+2
+MG_021 methionyl-tRNA synthetase
+1540
+2
+MG_029 DJ-1/PfpI family protein
+562
+2
+MG_255 conserved hypothetical protein
+1099
+2
+MG_314 conserved hypothetical protein
+1333
+2

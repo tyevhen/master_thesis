@@ -1,0 +1,203 @@
+The graphs you get from ZunZun.com (the free graphing service) are pretty neat, but one shortcoming of ZunZun is that it won't generate histograms. (Google Charts will do histograms, but unlike ZunZun, Google won't give you SVG output.) The answer? Convert a ZunZun graph to histograms yourself. It's only SVG, after all. It's XML; it's text. You just need to edit it.
+
+Of course, nobody wants to hand-edit a zillion <use> elements (to convert data points to histogram rects). It makes more sense to do the job programmatically, with a little JavaScript.
+
+In my case, I had a graph of dinucleotide frequencies for Clostridium botulinum coding regions. What that means is, I tallied the frequency of occurrence (in every protein-coding gene) of 5'-CpG-3', CpC, CpA, CpT, ApG, ApA, ApC, and all other dinucleotide combinations (16 in all). Since I already knew the frequency of G (by itself), A, C, and T, it was an easy matter to calculate the expected frequency of occurrence of each dinucleotide pair. (For example, A occurs with frequency 0.403, whereas G occurs with frequency 0.183. Therefore the expected frequency of occurrence of the sequence AG is 0.403 times 0.183, or 0.0738.) Bottom line, I had 16 expected frequencies and 16 actual frequencies, for 16 dinucleotide combos. I wanted side-by-side histograms of the frequencies.
+
+First, I went to ZunZun and entered my raw data in the ZunZun form. Just so you know, this is what the raw data looked like:
+
+0 0.16222793723642806
+1 0.11352236777965981
+2 0.07364933857345456
+3 0.08166221769088752
+4 0.123186555838253
+5 0.12107590293804558
+6 0.043711462078314355
+7 0.03558766171971166
+8 0.07364933857345456
+9 0.07262685957145093
+10 0.033435825941632816
+11 0.03459042802303202
+12 0.055925067612781175
+13 0.042792101322514244
+14 0.019844425842971265
+15 0.02730405457750352
+16 0.123186555838253
+17 0.12232085101526233
+18 0.055925067612781175
+19 0.05502001002972254
+20 0.09354077847378013
+21 0.07321410524577443
+22 0.03319196776961071
+23 0.028600012050969865
+24 0.043711462078314355
+25 0.043328337600588136
+26 0.019844425842971265
+27 0.0062116692282947845
+28 0.03319196776961071
+29 0.04195172151930211
+30 0.011777822917388797
+31 0.015269662767317132
+
+I made ZunZun graph the data, and it gave me back a graph that looked like this:
+
+
+
+Which is fine except it's not a histogram plot. And it has goofy numbers on the x-axis.
+
+I clicked the SVG link under the graph and saved an SVG copy to my local drive, then opened the file in Wordpad.
+
+The first thing I did was locate my data points. That's easy: ZunZun plots points as a series of <use> elements. The elements are nested under a <g> element that looks like this:
+
+<g clip-path="url(#p0c8061f7fd)">
+
+I hand-edited this element to have an id attribute with value "DATA":
+
+<g id="DATA" clip-path="url(#p0c8061f7fd)">
+
+Next, I scrolled up to the very top of the file and found the first <defs> tag. Under it, I placed the following empty code block:
+
+<script type="text/ecmascript"><![CDATA[
+// code goes here
+
+]]></script>
+
+Then I went to work writing code (to go inside the above block) that would find the <use> elements, get their x,y values, and create <rect> elements of a height that would extend to the x-axis line.
+
+The code I came up with looks like this:
+
+
+
+// What is the SVG y-value of the x-axis?
+// Attempt to discover by introspecting clipPath
+
+function findGraphVerticalExtent( ) {
+   var cp = document.getElementsByTagName('clipPath')[0];
+   var rect = cp.childNodes[1];
+   var top = rect.getAttribute('y') * 1;
+   var bottom = rect.getAttribute('height') * 1;
+   return top + bottom;
+}
+
+
+// This is for use with SVG graphs produced by ZunZun,
+// in which data points are described in a series of
+// <use> elements. We need to get the list of <use>
+// nodes, convert it to a JS array, sort data points by
+// x-value, and replace <use> with <rect> elements.
+
+function changeToHistograms( ) {
+
+   var GRAPH_VERTICAL_EXTENT = findGraphVerticalExtent( );
+
+   // The 'g' element that encloses the 'use' elements
+   // needs to have an id of "DATA" for this to work!
+   // Manually edit the <g> node's id first!
+   var data = document.getElementById( "DATA" );
+
+   // NOTE: The following line gets a NodeList object,
+   // which is NOT the same as a JavaScript array!
+   var nodes = data.getElementsByTagName( "use" );
+
+   // utility routine (an inner method)
+   function nodeListToJavaScriptArray( nodes ) {
+
+       var results = [];
+
+       for (var i = 0; i < nodes.length; i++)
+          results.push( nodes[i] );
+
+       return results;
+   }
+
+   // utility routine (another inner method)
+   function compareX( a,b ) {
+       return a.getAttribute("x") * 1 - b.getAttribute("x") * 1;
+   }
+
+   var use = nodeListToJavaScriptArray( nodes );
+
+   // We want the nodes in x-sorted order
+   use.sort( compareX ); // presto, done
+
+   // Main loop
+   for (var i = 0; i < use.length; i++) {
+
+       var rect =
+           document.createElementNS("http://www.w3.org/2000/svg", "rect");
+       var item = use[i];
+       var x = item.getAttribute( "x" ) * 1;
+       var y = item.getAttribute( "y" ) * 1;
+       var rectWidth = 8;
+       var rectHeight = GRAPH_VERTICAL_EXTENT - y;
+       rect.setAttribute( "width", rectWidth.toString() );
+       rect.setAttribute( "height", rectHeight.toString() );
+       rect.setAttribute( "x" , x.toString() );
+       rect.setAttribute( "y" , y.toString() );
+
+       // We will alternate colors, pink/purple
+       rect.setAttribute( "style" ,
+           (i%2==0)? "fill:ce8877;stroke:none" : "fill:8877dd;stroke:none" );
+
+       data.appendChild( rect ); // add a new rect
+       item.remove(); // delete the old <use> element
+   }
+
+   return use;
+}
+
+As so often happens, I ended up writing more code than I thought it would take. The above code works fine for converting data points to histogram bars (as long as you remember to give that <g> element the id attribute of "DATA" as mentioned earlier). But you need to trigger the code somehow. Answer: insert onload="changeToHistograms( )" in the <svg> element at the very top of the file.
+
+But I wasn't done, because I also wanted to apply data labels to the histogram bars (labels like "CG," "AG," "CC," etc.) and get rid of the goofy numbers on the x-axis.
+
+This is the function I came up with to apply the labels:
+
+
+   function applyLabels( sortedNodes ) {
+ 
+    var labels = ["aa", "ag", "at", "ac", 
+      "ga", "gg", "gt", "gc", "ta", "tg", 
+      "tt", "tc", "ca", "cg", "ct", "cc"];
+
+      var data = document.getElementById( "DATA" );
+ var labelIndex = 0;
+
+ for (var i = 0; i < sortedNodes.length; i+=2) {
+     var text = 
+              document.createElementNS("http://www.w3.org/2000/svg", "text");
+     var node = sortedNodes[i];
+          text.setAttribute( "x", String( node.getAttribute("x")*1 +2) );
+          text.setAttribute( "y", String( node.getAttribute("y")*1 - 13 ) );
+          text.setAttribute( "style", "font-size:9pt" );
+          text.textContent = labels[ labelIndex++ ].toUpperCase();
+          text.setAttribute( "id", "label_" + labelIndex );
+          data.appendChild( text );
+      }
+   }
+
+
+And here's a utility function that can strip numbers off the x-axis:
+
+   // Optional. Call this to remove ZunZun graph labels.
+   // pass [1,2,3,4,5,6,7,8,9] to remove x-axis labels
+   function removeZunZunLabels( indexes ) {
+ 
+ for (var i = 0;i < indexes.length;i++) 
+    try {
+   document.getElementById("text_"+indexes[i]).remove();
+   }
+  catch(e) { console.log("Index " + i + " not found; skipped.");
+   }
+   } 
+   BTW, if you're wondering why I multiply so many things by one, it's because the attribute values that comprise x and y values in SVG are String objects. If you add them, you're concatenating strings, which is not what you want. To convert a number in string form to an actual JavaScript number (so you can add numbers and not concatenate strings), you can either multiply by one or explicitly coerce a string to a number by doing Number( x ).
+
+The final result of all this looks like:
+
+
+Final graph after surgery. Expected (pink) and actual (purple) frequencies of occurrence of various dinucleotide sequences in C. botulinum coding-region DNA.
+
+Which is approximately what I wanted to see. The labels could be positioned better, but you get the idea.
+
+What does the graph show? Well first of all, you have to realize that the DNA of C. botulinum is extremely rich in adenine and thymine (A and T): Those two bases constitute 72% of the DNA. Therefore it's absolutely no surprise that the highest bars are those that contain A and/or T. What's perhaps interesting is that the most abundant base (A), which should form 'AA' sequences at a high rate, doesn't. (Compare the first bar on the left to the shorter purple bar beside it.) This is especially surprising when you consider that AAA, GAA, and AAT are by far the most-used codons in C. botulinum. In other words, 'AA' occurs a lot, in codons. But even so, it doesn't occur as much as one would expect.
+
+It's also interesting to compare GC with CG. (Non-biologists, note that these two pairs are not equivalent, because DNA has a built-in reading direction. The notation GC, or equivalently, GpC, means there's a guanine sitting on the 5' side of cytosine. The notation CG means there's a guanine on the 3' side of cytosine. The 5' and 3' numbers refer to deoxyribose carbon positions.) The GC combo occurs more often than predicted by chance whereas the combination CG (or CpG, as it's also written) occurs much less frequently than predicted by chance. The reasons for this are fairly technical. Suffice it to say, it's a good prima facie indicator that C. botulinum DNA is heavily methylated. Which in fact it is.

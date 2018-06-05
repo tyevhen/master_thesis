@@ -1,0 +1,32 @@
+I had forgotten that the good Dr. Su sent me a link to a dietary trial of ketogenic diets in kids with autism a few months ago. He reminded me of this himself when he quoted some comments I made in a recent blog post, but then "Paleo Guy" extraordinaire earned bonus margarita mixes for his machine by reminding me yet again and sending me a link to a complimentary paper that is an excellent review of ketosis in general.
+
+I will get back to posting on sleep. It's just the continuing sleep deprivation I've been experiencing makes the reading of the sleep textbook a bit too painful. However, I'm committed to restoring good sleep hygiene habits and no more twitter at 3am. In addition, each little beastie now has an LED nightlight play toy thingie that switches off after 30 minutes. They get huggable freedom from fear of the dark, and we all get blessed nighttime blackness. Win win. We'll just ignore the shutting down of the melatonin with the 30 minutes of LED glow. It's better than leaving the hall light on all night.
+
+Right. Dr. Su's paper. It is a study of 30 kids from Crete with autism who were placed on a ketogenic diet for 6 months in 1999. They went on a "John Radcliffe" version of a ketogenic diet, consisting of 30% medium chain triglyceride oil, 30% fresh cream, 11% saturated fat (oops! overshooting the USDA 2011 guidelines by a bit), 19% carbohydrates, and 10% protein along with vitamin and mineral supplements. The kids were placed on the diet in 4 week intervals, followed by 2 weeks of anything goes, so on and off. The kids' urine was tested with ketostix and their serum checked for beta hydroxybutyrate (a ketone) to measure the amount of ketosis. After 6 months, the diets were discontinued, and the kids were evaluated monthly for another 6 months.
+
+At the beginning of the study, 2 of the 30 kids met criteria for mild autism, the rest were more severe. Interestingly enough the premise of the study was to presumably improve mitochondrial efficiency in the brain via ketosis (using ketone bodies as fuel rather than glucose). 11 years later a small study did in fact confirm that kids with autism often have problems with mitochondrial efficiency.
+
+23 kids tolerated the diet beyond the initial 4 weeks, and of those, 5 more discontinued the diet due to lack of improvement during the first few cycles. Of the remaining 18 kids, two boys improved enough in symptoms to be taken out of the special school and placed in mainstream education. Overall the 18 ketogenic kids "presented with improvements in their social behavior and interactions, speech, cooperation, stereotypy, and... hyperactivity, which contributed significantly to their improvement in learning."
+
+The kids who did not stay on the diet were the most severely affected by autism, and the ones who had the best response were ones most mildly affected. Another interesting fact from the study is that the kids maintained their improvements through the two week washout periods and in the 6 months after the study was over. None of the kids had any complications (such as poor weight gain or selenium deficiency) seen in other trials of ketogenic diets in kids with epilepsy.
+
+Overall (using the original sample size of 30), 26.66% of the kids benefited significantly from the diet. The researchers also have a nice explanatory paragraph about the biochemistry of ketosis and how it favors the relaxing inhibitory neurotransmitter GABA over the excitatory, and in excess, neurotoxic glutamate:
+
+"The increase of ketone bodies maintains the synaptosomal content of γ-aminobutyric acid (GABA) at a higher level, a phenomenon that may contribute to the beneficial effect of a ketogenic diet in children with epilepsy and perhaps children with autistic behavior. Other researchers, in an attempt to clarify the manner in which ketone bodies increase the synaptosomal content of GABA, showed that the metabolism of ketone bodies to acetyl coenyzme A results in a decrease of the pool of brain oxaloacetate, which is consumed in the citrate synthetase reaction. As less oxaloacetate is available for the aspartate aminotransferase reaction, thereby lowering the rate of glutamate transamination, more glutamate becomes accessible to the glutamate decarboxylase pathway, thus favoring the synthesis of GABA."
+
+Couldn't have said it better myself!
+
+Well, this wasn't a large study or a blinded study and there was no control, but for some kids, the improvement was exceptional, and ketosis didn't have to be strictly maintained. My personal preference is not to live in ketosis, but rather to dip in on occasion via 16 or 24 hour fasting and some very low carb breakfasts after overnight fasts. This study seems to suggest that dipping into ketosis can have benefit for brain energetics, though the kids went through a larger scale "dip" than I ever have.
+
+And, once again, dietary therapies prove to be exceedingly beneficial for some, but won't do much of anything for others. It would be important for any parent of an autistic child to know that ahead of time before pinning one's hope on a ketogenic diet. On the other hand, autism is currently incurable, and a ketogenic diet seems like a nice weapon to have in the arsenal against this disease.
+
+(Put in the links and fixed some of those bizarre sentence structures.  I shouldn't be allowed to blog when sleep-deprived.)
+
+Edited to add links to the rest of my posts on autism.  I cover gluten-free diets, inflammation, mitochondria, vitamin D, theories about the pathology:
+
+Diet and Autism1
+Diet and Autism 2
+Autism and Vitamin D
+Autism 4 - Inflammation Speculation
+Brain Efficiency, Pediatric Edition
+Autism and Interpregnancy Interval

@@ -1,0 +1,15 @@
+In the last few days I've begun to sink my teeth into the CMIS (Content Management Interoperability Services) standards documents a little bit. Digesting it all is going to take a while. The docs are not too big (yet), but I'm a slow reader.
+
+One thing that's a little weird to me is that the drafts of the standard (available at the above link) carry a Copyright notice on behalf of EMC, IBM, and Microsoft.
+
+I find this peculiar for a standards document that is supposed to be the collaborative work of numerous industry players (including Alfresco, Oracle, Open Text, and others). I'm sure it just means that the particular instance-documents comprising the draft of the standard were written by people from EMC, IBM, and Microsoft, and the companies in question decided (based on some sort of policy emanating from Legal) to assert ownership over the instance-docs.
+
+Why have a copyright at all, though? This is going to be an industry standard, not an EMC standard, or an IBM or Microsoft standard. Copyright means you and I and others can't reproduce the document without permission. (It does say "All rights reserved.")
+
+Someone will say "Well, this is the way IETF does it," or "This is the way [XYZ] does it," which of course is silly. That's not a defense. IETF shouldn't copyright anything either.
+
+What does copyrighting a standards document achieve? Is it supposed to prevent bastardization of the standard by someone else who tries to publish a different version of it? That's not what copyright does. Copyright does not establish the "sole authoritative source-ness" of a document. It does not say "This is the Truth, this is the one true document defining the Standard." That's the job of the standards body. OASIS decides what the true CMIS standard consists of. And that "truth" can reside in an uncopyrighted work, just as easily as in a copyrighted work.
+
+Putting copyrights on standards just does not make sense to me. It doesn't achieve anything except to inhibit reproduction and dissemination of the primary docs. Which is usually not a goal of the standards process (or shouldn't be). Standards should be widely disseminated. Copyright is designed to defeat that.
+
+A nit, perhaps. But for me, not.

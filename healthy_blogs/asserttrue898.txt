@@ -1,0 +1,8 @@
+Projects under the heading "Google Apps" don't tend to excite me very much these days, but this one is too good to go unmentioned.
+
+Google Charts is a simple REST-style API for creating graphs and charts on the fly, such as this one:
+
+
+
+Details here:
+http://code.google.com/apis/chart/#encoding_data

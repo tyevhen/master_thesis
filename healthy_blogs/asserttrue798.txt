@@ -1,0 +1,12 @@
+function getVitalInfoFromUser( ) {
+
+  var up = "LackOfSomethingToDoException";
+
+  // if user Cancels, exit ungracefully
+  
+  var userInput = prompt ( "Enter something:", "[here]" );
+
+  if ( null == userInput || userInput.length == 0 )
+     throw up; // puke and die
+
+}

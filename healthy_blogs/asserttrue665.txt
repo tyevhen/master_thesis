@@ -1,0 +1,199 @@
+I like to do a bit of 2D and 3D graphics programming in my spare time. The trouble is, Java gets a bit heavy at times, and I look for ways to test new ideas quickly. Testing ideas quickly means scripting. But how do you get at pixel values with JavaScript?
+
+The answer is, you write a super-simple Java class that can load an image and hand off pixels to the JavaScript context. The following is such a class.
+/*
+ImageMunger
+Kas Thomas
+http://asserttrue.blogspot.com/
+
+Public domain code.
+
+All it does is open an image, display it in a window,
+and run a script file. Usage:
+
+ ImageMunger  myimage.jpg  myscript.js
+
+The JavaScript file will (at runtime) have two global variables,
+Panel and Image, in scope. They correspond to the
+ImagePanel inner class instance and the BufferedImage
+that's displaying in the panel. That way, your script
+can easily manipulate the image and/or the panel.
+
+*/
+import java.awt.Graphics;
+import java.awt.image.BufferedImage;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.OutputStream;
+import javax.imageio.ImageIO;
+import javax.swing.JComponent;
+import javax.swing.JFrame;
+import javax.script.ScriptEngine;
+import javax.script.ScriptEngineManager;
+
+public class ImageMunger {
+
+   // This inner class is our canvas. We draw the image on it.
+   class ImagePanel extends JComponent {
+
+           BufferedImage theImage = null;
+
+           ImagePanel( BufferedImage image )           {
+                   super();
+                   theImage = image;
+           }
+
+           public BufferedImage getImage( ) {
+                   return theImage;
+           }
+
+           public void setImage( BufferedImage image) {
+                   theImage = image;
+                   this.updatePanel();
+           }
+
+           public void updatePanel() {
+
+                   invalidate();
+                   getParent().doLayout();
+                   repaint();
+           }
+
+           public void paintComponent( Graphics g ) {
+
+                   int w = theImage.getWidth( );
+                   int h = theImage.getHeight( );
+                   g.drawImage( theImage, 0,0, w,h, this );
+           }
+   }  // end ImagePanel inner class
+
+   // We need to keep a reference to the ImagePanel:
+   public ImagePanel theImagePanel = null;
+
+   // Constructor
+   public ImageMunger( String [] args ) {
+
+           parseArgs( args );
+
+           // open image
+           BufferedImage image = openImageFile( args[0] );
+
+           // create window
+           theImagePanel  = new ImagePanel( image );
+           JFrame gMainFrame = new JFrame();
+           gMainFrame.setTitle( args[0] );
+           gMainFrame.setBounds(50,80,
+           image.getWidth( )+10, image.getHeight( )+10);
+           gMainFrame.setDefaultCloseOperation(3); // dispose
+           gMainFrame.getContentPane().add( theImagePanel );
+           gMainFrame.setVisible(true);
+
+   }
+
+   ImagePanel getImagePanel( ) {
+
+           return theImagePanel;
+   }
+
+   BufferedImage openImageFile( String fname ) {
+
+           BufferedImage img = null;
+
+           try {
+                   File f = new File( fname );
+                   img = ImageIO.read(f);
+           }
+           catch (Exception e) {
+                   showMessage("Trouble reading file.");
+                   e.printStackTrace();
+           }
+
+           return img;
+   }
+
+   public static void runScriptFromFile( String fileName,
+   ScriptEngine engine ) {
+
+           try {
+                   engine.eval(new java.io.FileReader( fileName ));
+           }
+           catch( Exception exception ) {
+                   exception.printStackTrace();
+                   showMessage( exception.getMessage() );
+           }
+   }
+
+
+   public static void showMessage(String s) {
+           javax.swing.JOptionPane.showMessageDialog(null, s);
+   }
+
+   void parseArgs( String[] args ) {
+
+           if ( args.length < 2 )
+           tellUserHowToUseThisApp( );
+   }
+
+   void tellUserHowToUseThisApp( ) {
+           showMessage( "Supply an image file name and a script file name." );
+   }
+
+   // main()
+   public static void main( String[] args ) {
+
+           ImageMunger munger = new ImageMunger( args );
+
+           // create a script engine manager & engine
+           ScriptEngineManager factory = new ScriptEngineManager();
+           ScriptEngine engine = factory.getEngineByName("JavaScript");
+
+           engine.put( "Image", munger.getImagePanel( ).getImage( ) );
+           engine.put( "Panel", munger.getImagePanel( ) );
+           engine.put( "args" , args );
+
+           // evaluate JavaScript code from file
+           runScriptFromFile( args[1], engine );
+   }
+}
+
+This Java app does two things, based on arguments provided on the command line. First, it opens an image of your choice (you supply the file path as the first command-line arg) in a JFrame. Secondly, it opens and executes the JavaScript file whose path you supply as the second command-line argument.
+
+Before executing the script, the Java app puts two variables, Image and Panel, into the JavaScript runtime scope. (These are references to the BufferedImage object, and the JComponent that renders it, respectively.) That way, it's easy to manipulate the image and/or its JComponent at runtime, using script.
+
+Here's an example. Suppose you want to convert a color JPEG into a grayscale (black and white) image. You would write a script like the following and put it in a .js file on disk. Then run the ImageMunger app and have it execute the script.
+
+
+// desaturate.js
+// Converts RGB image to grayscale.
+
+( function desaturate( ) {
+
+      if (Image == null) {
+              java.lang.System.out.println("Nothing to do; no source image." );
+              return;
+      }
+
+      var w = Image.getWidth();
+      var h = Image.getHeight();
+      var pixels = Image.getRGB( 0,0,w,h,null,0,w );
+      var tmp;
+
+      for ( var i = 0; i < pixels.length; i++ ) {
+
+              // get Green value
+              tmp = 255 & (pixels[ i ] >> 8);
+
+              // set Red, Green, and Blue channels the same
+              pixels[ i ] = (tmp << 16) | (tmp << 8) | tmp;
+      }
+
+      Image.setRGB( 0,0,w,h,pixels,0,w );
+      Panel.updatePanel( );
+} ) ( );
+
+No real magic here. The script just grabs pixels from the BufferedImage (via the Image global that we put into the JS scope), converts all pixels in the image to monochrome RGB values, stuffs the pixels back into the image, and requests a redraw of the ImagePanel (using the Panel global).
+
+No rocket science. Just quick-and-dirty pixel banging. Perfect if you're into peeking and poking pixels late at night but like to avoid getting Java under your fingernails just before climbing into a clean bed.

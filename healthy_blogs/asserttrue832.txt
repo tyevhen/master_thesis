@@ -1,0 +1,13 @@
+There's a truly fascinating interview with Ruby/Lisp/Scheme/C programmer (and onetime adware creator) Matt Knox over at http://philosecurity.org. Anybody who has always wondered how adware works, and why it's so infuriatingly difficult to get rid of, needs to read that interview.
+
+It so happens, I recently spent several hours ridding my son's machine of a particularly nasty adware furball. I was able to eradicate most of it, but there were some peculiar registry entries I couldn't get rid of no matter how I tried. Immutable registry entries.
+
+Now I know why such entries can exist.
+
+Matt Knox explains how, in his days working for Direct Revenue (the firm Eliot Spitzer sued a couple years ago, for -- ahem -- propagating Trojans), he created unwritable registry keys by exploiting a little-known difference between the Win32 API and the NT API. "Windows, ever since XP, is fundamentally built on top of the NT kernel," Matt Knox explains. "NT is fundamentally a Unicode system, so all the strings internally are 16-bit Unicode. The Win32 API is fundamentally ASCII. There are strings that you can express in 16-bit counted Unicode that you can’t express in ASCII." (Um, yeah: A Unicode string can contain 16-bit values in which the top 8 bits are zeros. In C, strings are null-terminated, so a Unicode string containing what appear to be null bytes might appear truncated to a process that was not expecting Unicode. )
+
+Matt continues: "That meant that we could, for instance, write a Registry key that had a null in the middle of it. Since the user interface is based on the Win32 API, people would be able to see the key, but they wouldn’t be able to interact with it because when they asked for the key by name, they would be asking for the null-terminated one."
+
+This is just one example (cited by Knox) of the countless Microsoft design weirdnesses that have led to the tragic security mess that is Windows. This sort of thing is why the Spybot database now contains almost a half a million entries, and also why Norton security updates (and Windows updates) will soon be eating 99 percent of available CPU cycles from machines connected to the Internet. And if you read between the lines of Matt Knox's interview, you'll understand that the mischief is really only just beginning.
+
+Take my advice. Read the interview. It's an eye-opener.

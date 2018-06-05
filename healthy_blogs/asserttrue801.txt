@@ -1,0 +1,41 @@
+Matt Asay blogged the other day (as did Michael Nygard) on why enterprise software is so shockingly bad. I couldn't help but smile sadly, nod my head, and wipe a virtual tear from my cheek.
+
+Obviously not everything in the world of enterprise software is poorly done (there are some exciting things going on out there, after all), but the fact is, you and I know exactly what people mean when they say that enterprise software sucks.
+
+Enterprise software is typically big, slow, and fugly, for starters. The GUI (if there is one) is often a usability disaster. Sometimes there are strange functionality holes, or things don't work the way you'd expect. And of course, a lot of the time the software is just plain unstable and ends up detonating.
+
+I've worked in R&D for two software companies, one large and one small. Both companies made Java enterprise software, and rest assured, we shipped our share of chunkblowers.
+
+In one case, we had created a sizable collection of connectors (priced around $15K each) designed to let our customers integrate with popular products from SAP, JD Edwards, Lawson, PeopleSoft, Siebel, IBM, and others. I took classroom training on some of the "remote systems." And I was mortified by how inferior the user-facing pieces of some very expensive middleware products are, compared to the desktop software I use every day.
+
+When I first arrived in the enterprise software world (a wide-eyed noob), it was a shock to the senses. I noticed a number of things right off the bat:
+
+1. Data (and in particular, data integrity) matters more than anything else. You can throw exceptions all day long. Just don't lose any data.
+
+2. Getting the job done is top priority. How you get it done doesn't matter as much as getting it done. If mission-critical software somehow manages to "do the job" (no matter how poorly), life goes on. If not, the world comes to an end.
+
+3. Most user interfaces are designed by developers. (Which is kind of like letting welders do plastic surgery.)
+
+4. Usability testing (if it happens at all) happens near the end of the development cycle, after it's too late.
+
+5. Customers, alas, don't know any more about good UI design than you do. They can only tell you what doesn't work.
+
+6. An easy installation experience is not perceived as having anything to do with solving business problems (it's orthogonal), hence it's not a priority, hence software installation and setup tends to be a brutally punishing experience.
+
+7. "Interoperability" and "standards friendly" means putting everything in XML (using your own inscrutable custom schema that no one else uses), then describing all of your one-off proprietary interfaces in WSDL so you can tell your customers you have a Web Services API.
+
+8. If your customers aren't finding the software easy to use, it's because they didn't get enough training.
+
+9. If the software is too slow, it's because you need a bigger machine.
+
+10. Frequently heard phrases: "There's a fixpack coming." "Did you look in the logs?" "You're the first person to report this."
+
+In a macro sense, enterprise software ends up being disappointing for two main reasons, I think. First, the process surrounding enterprise-software procurement and deployment is typically somewhat thick, involving large numbers of stakeholders and a fair amount of bureaucracy. The more bureacracy there is, and the more people that get involved, the greater the likelihood of a failed exercise in groupthink. A lot of really poor decisions get made by well-meaning people working together in large committees. Bottom line: a flawed procurement process leads to situations where "all the checkboxes are checked" yet no one is happy.
+
+The second thing is, making a good software product is hard. It requires extra effort. And that means extra cost. Manufacturers don't like extra costs. So there's a substantial built-in incentive to turn out software that's "good enough" (and no better).
+
+McDonalds didn't get to be the most successful company in the fast-food business (the IBM of food, if you will) by producing great food. It's important to be clear on that. They produce food that's good enough, and they do it at a price point that hits a sweet spot. (And they have a delivery mechanism that allows customers to consume the product the way they want to, such as in the car on the way to someplace else.) Secret sauce has little to do with any of it.
+
+I do think things are getting better. Enterprise software doesn't suck as much as it did ten years ago (or heaven forbid, twenty years ago). The pace of change has certainly quickened. Iterations are faster. Competitive pressures are higher. And customer expectations are rising.
+
+It's still pretty bad out there, though. Which is either a curse or an opportunity, depending on where you sit and how you want to look at it.

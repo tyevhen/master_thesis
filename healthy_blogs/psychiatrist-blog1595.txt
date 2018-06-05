@@ -1,0 +1,7 @@
+SAMHSA reports [pdf] on Major Depression rates for various occupations, finding that 7% of full-time workers have had a Major Depressive Episode over the past year.
+
+People in the personal care (childcare, eldercare) and food and beverage service (waitstaff, bartenders, food prep, etc) had the highest rates, at 10% (women in this group had the highest of all rates, at nearly 15%).
+
+Engineers, architects, and surveyors had the lowest rates.
+
+The report is based on interviews of over 107,000 people, and uses a DSM4-based questionnaire to determine past-year depressive episodes. One of their main points is that employers lose $30-44 billion annually due to employee depression.

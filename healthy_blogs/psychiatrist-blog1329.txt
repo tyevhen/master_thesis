@@ -1,0 +1,28 @@
+I don't know where most people go when they want to look up DSM4 diagnostic criteria on mental illnesses, but Mindsite.com looks like THE place to be.
+
+I Googled dsm4|"dsm 4"|dsmiv|"dsm iv" (to get all iterations of possible searches -- no, I didn't expand it to the other 8 options of adding "TR" with or without a space), and here are the top 5 hits:
+PsyWeb: has some illness criteria, though 3 of their 6 nav links are to Xanax, Valium, and Ativan, pages which contain Buy Xanax Here ads (first link lists "DSM Disoders" ... smells fishy to me).
+Wikipedia: nice history of the DSM.
+AllPsych: lists many more of the DSM4 diagnoses, and includes Symptoms, Etiology, Treatment, and Prognosis.
+DSM-IV-TR: this is the official APA site, though it does not have any DSM4 content on it, nor does is list in its FAQs where to buy it (huh?).  It does list the contact email for copyright permission requests.
+PsychNet-UK: which lists a portion of the diagnoses including Criteria, Cause, Treatment, and Pharmacotherapy.
+So, Mindsite lists 9 different chapters of the DSM (Mood Disorders, Sleep Disorders, Personality Disorders, etc) and lists the FULL TEXT from the following DSM sections:
+Diagnostic Criteria
+Diagnostic Features
+Associated Features & Disorders, including Lab Findings and Physical Exam Findings
+Course
+Specific Culture, Age, & Gender Features
+Prevalence
+Familial Pattern
+Differential Diagnosis
+Specifiers
+Recording Procedures
+Take a look at their Major Depression page to get a feel for how complete this is.  It feels like I have the actual DSM book right in front of me.  This is the most complete version of the DSM on the web that I am aware of.  (No, this is not a paid endorsement... I am genuinely impressed with the content here.)  They also have illness "portals", containing links to diagnostic tests and community discussion sections.  There's probably more here... let us know what else you find in the Comments.
+
+I interviewed David Eraker, Mindsite's founder and CEO, by email over the past month or two and learned some other bits about his site:
+they pay big bucks to the APA to license the DSM-IV-TR content, so it is legit.
+at this point, the revenue model is advertising, but I haven't seen any of that yet.
+contains about half of the DSM4.
+at least 28 diagnostic tests, most from the WHO's CIDI, which was developed at Harvard.
+he prefers Redfin to Zillow.
+I hope to get him on a podcast soon (if we can ever get back to doing them... we will!) to tell us more about their plans.

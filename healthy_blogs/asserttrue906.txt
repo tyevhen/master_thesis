@@ -1,0 +1,5 @@
+Juergen Schmidt (who gave a talk at last week's Javapolis conference on why Java programmers should get more involved with OpenOffice) blogged yesterday about the prospect of using JRuby for OOo development:
+
+I also met two Sun colleagues Thomas Enebo and Charles Oliver Nutter, two of the JRuby core developers, and brainstormed a little bit with them about the support of JRuby in OpenOffice.org. JRuby comes directly with Java in the future and the integration work into NetBeans is ongoing. So it would be great to have a good support for JRuby from UNO as well. JRuby as one of the main scripting languages for OpenOffice.org with a smart integration in NetBeans is a really cool idea and I hope that we can deliver something in this direction. We will see what's possible and when!
+
+Some interesting podcasts from Javapolis (including quite a few on agile development) are here.

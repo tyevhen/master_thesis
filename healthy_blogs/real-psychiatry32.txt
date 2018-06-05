@@ -1,0 +1,58 @@
+A couple of days ago it became general knowledge that Equifax, one of the major credit reporting agencies in the US was hacked and information on up to 143 million people was exposed.  To make matters worse, the theft occurred from the company's own identity theft monitoring division called TrustedID Premier.  Like most identity theft prevention companies they charge a monthly fee for monitoring your credit transactions and monitor credit card transactions  by number.  They generally store more personal identification information than is found on a typical credit report.  According to Bloomberg financial news Social Security numbers, addresses, driver’s license data, and birth dates were available to the hackers.  It took a few days but the agencies eventually picked up on the fact that Equifax was going to provide a year of free credit protection in return for a waiver that the person getting the protection was not going to sue the company.  The Bloomberg piece quotes an attorney saying that Equifax could be facing and $70 billion in claims and a multibillion dollar class action lawsuit has already been filed.  It goes on to point out that the consumers are limited by arbitration, but in practical terms they are also limited by the sheer scope of trying to collect damages from massive corporations.
+
+I have followed consumer reporting since it all started back in the 1970s.  Originally it was just one company and the data was held in a safe.  With the evolution of information technology in the 21st century the landscape has evolved into three national credit reporting agencies Equifax, Experian, and TransUnion.  There are longstanding concerns about the accuracy of the data they keep in credit reports, the rating system, consumer access, and dispute resolutions.  The fact that all of the information is stored under Social Security Number identifiers is significant for two reasons.  One is the promise that Congress made to the American people when Social Security was introduced - the the Social Security Number would never be used as a national identifier.  At the most it would be used within the government for identification purposes.  Today all credit reporting information is linked to SSNs and the numbers are bought and sold on the black market by the tens of millions.  Reason two is that this is this wholesale loss of control over the SSN has been the single most important cause of identity theft.
+
+According to the US Department of Justice - 17.6 million people or about 7% of the US population over the age of 16 was a victim of identity theft in 2014.  Although half of these incidents are rapidly resolved with minimal losses the scope of the crime results in total losses to victims of $15.4 billion.  The DOJ study shows that social consequences of the theft (life stress) are a direct correlate with the length of time that it takes to resolve the incident.  Commercial losses are estimated to be about twice of the loss to victims.  The typical way that a victim of identity theft learns about the problem is that they are notified by a business.  There is no standard protocol for dealing with the problem.  A minority of people report it to the police and if they do they are likely to receive a police report number.  Businesses in general were very lax in doing anything about the theft.  The usual recommendation is complete the affadavit that the consumer did not take the money himself, but now hacking and identity theft is so common that the federal government has a special website to be of assistance called IdentityTheft.gov.
+
+Most Americans would find that the wholesale facilitation of identity theft would be infuriating enough on its own merit.  But consider for a moment that they general processes that resulted in this problem are generally applied to any number of businesses including health care.  A few of the common points are listed in the table below.  The only possible difference is that data breaches of health care systems are much more common.
+
+Industry
+Credit Reporting
+Managed Care
+Invented by Congress?
+Yes
+Yes
+Protected by state and federal laws and regulations?
+Yes
+Yes
+Use Social Security Numbers as unique identifiers?
+Yes
+Yes
+Legally mandated limits on privacy?
+Yes
+Yes
+Mandated use by every citizen – no opt out?
+Yes
+Yes
+Civil Liability limited by law?
+Yes
+Yes
+
+
+The parallels are uncanny and the results are the same.  Large protected industries that at some level can trade in consumer privacy and generally act with impunity.   Like the explicit and implicit protections against lawsuits that the credit reporting industry has - the managed care industry is protected from lawsuits by ERISA.  Managed care companies themselves can essentially do what they want in terms of reimbursing doctors, paying for medications, setting rates and copays.  They set their own standards and advertise these standards as quality.  The real quality these businesses add is negligible to less than negligible. To get treated in these systems prospective patients need to agree to play by all of these limitations including the fact that medical and private information will be released to any payers and "protected entities", including companies that may be interested in selling the patient a product to treat one of their chronic illnesses.
+
+I never cease to be amazed at how passive Americans are when it comes to allowing elected officials to barter way their privacy rights and money to businesses.  The credit reporting industry did not exist before a few entrepreneurs convinced Congress it was a good idea and and the legal and regulatory landscape was set to to favor those businesses to the point that they are essentially monopolies.  With few exceptions, the consumer needs to pay for the information that they are collecting on him or her if they are interested in the reports and then again if they are making a significant financial deal.  They are not allowed to opt out of a system that puts them at risk all of the time.  It is easy to see how these systems engender a fatalistic and in some cases nihilistic attitude in many Americans. 
+
+That is not likely to change until elected officials stop treating their citizens like they are cannon fodder for the businesses they invented in the halls of Congress.      
+
+George Dawson, MD, DFAPA
+
+
+
+
+Reference:
+
+Polly Mosendz and Shahien Nasiripour.  Equifax’s Hacking Nightmare Gets Even Worse For Victims https://www.bloomberg.com/news/articles/2017-09-08/equifax-s-hacking-nightmare-gets-worse-thanks-to-arbitration-clause  September 8, 2017, 6:38 PM CDT
+
+
+
+Attribution:  Graphic at the top dowmloaded from Shutterstock per their standard agreement.  Artist is TippaPatt  - labelled as: "Digital alarm icon and low angle view modern office buildings in blue tone with network connection concept, smart city and wireless communication network, IOT internet of things conceptual image."
+
+
+Supplementary:
+
+Jerri-Lynn Scofield.  Wolf Richter: Worst US Consumer Data Hack Ever? Equifax Confesses.  naked capitalism.  September 11, 2017.
+
+Good article on how to protect yourself from the Equifax hack and a good quote on how to view your relationship with credit reporting companies:
+
+"And remember: you’re not their customer; you’re their product."

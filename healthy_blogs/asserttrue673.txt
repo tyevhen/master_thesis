@@ -1,0 +1,18 @@
+Blue lines: Hadoop
+Red lines: Solr
+
+
+
+A quick check of Google Trends shows that Apache Solr (the search server based on Lucene) and Hadoop (the open-source implementation of MapReduce) are popular query terms -- and becoming more popular by the day. (For links to the news stories labelled with flags 'A', 'B', 'C', etc., go to this Google Trends page.)
+
+Likewise: Job trend data from Indeed.com leaves little doubt that Hadoop and Solr skills are increasingly in demand:
+
+
+
+
+
+
+
+hadoop,solr Job Trends hadoop jobs - solr jobs
+
+Bottom line? If you're a developer, enrichening your Hadoop and/or Lucene+Solr skills can only be considered a good investment.

@@ -1,0 +1,18 @@
+Yet another meta-analysis with the same damn result -- antidepressants for most cases of depression are placebos. This is in a paper with authors including Jay Amsterdam, Richard Shelton, and Jan Fawcett, who are not exactly cut from the Peter Breggin mold. This was based on six studies which compared antidepressant to placebo in patients who had a wide range of depression severity. Key results:
+Mild to moderate depression: Effect size of d = .11, which is tiny (and was not statistically significant)
+Severe depression: Effect size of d = .17, which is pretty darn small (and not statistically significant)
+Very severe depression: Effect size of d = .47, which is moderate.
+
+Hmmmm. Not looking so hot. Of course, anyone who has paid attention to the clinical trial literature on antidepressants over the past 10 years or so already knew this. But now it's in JAMA, so a wider audience may now pay attention. Or ignore it. Good marketing usually beats science, so maybe this won't make any difference.
+
+Antidepressants for all but very severe depression: All the benefits of placebo plus the added bonus of side effects. Sign me up! To quote the authors: "What makes our findings surprising is the high level of depression symptom severity that appears to be required for clinically meaningful drug/placebo differences to emerge, particularly given the evidence that the majority of patients receiving ADM in clinical practice present with scores below these levels." In other words, most people who receive antidepressants would likely have done just as well on placebo (without the side effects).
+
+A few other posts on the topic:
+The long-lasting placebo effect
+Sexual side effects of SSRIs
+Paxil: How to lie
+The much-vaunted public health benefits of antidepressants
+Antidepressants offer weak efficacy for all but most severe depression
+Hiding negative data on antidepressants
+Suicidal tendencies? Nah, not here
+I've linked the abstract of the latest JAMA study here. Enjoy.

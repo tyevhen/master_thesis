@@ -1,0 +1,203 @@
+I wrote yesterday about the fact that the Internet as a whole has a lot of non-human traffic, while social media sites, in particular, have tons of bots, spammers, zombie accounts, and "fakes."
+
+Six months or so ago, I began collecting some data of my own, using the Fake Followers app at http://www.socialbakers.com/twitter/fakefollowercheck/ (which is currently down for maintenance, unfortunately). There are many such apps online. I liked this one because it broke out Twitter followers into "suspicious," "inactive," and "good" categories. Suspicious accounts are ones that have no profile pic (just an egg), no bio, and/or no followers. Inactives are, of course, accounts that seldom, if ever, tweet; abandoned accounts, basically.
+
+I ran the Fake Followers app on a bunch of popular accounts, including many popular authors and media accounts. Bear in mind, some of these numbers are six months old, and there is no guarantee as to accuracy, in any case; I'm relying on SocialBakers (makers of the Fake Followers app) to know what they're doing.
+
+Account
+% Suspicious
+% Inactive
+% Good
+Followers
+KasThomas
+1
+0
+99
+271K
+InkMuse
+3
+2
+95
+104K
+Contently
+4
+2
+94
+36K
+KMWeiland
+5
+2
+93
+27K
+LukeRomyn
+4
+4
+92
+384K
+ChuckWendig
+4
+5
+91
+34K
+theCreativePenn
+6
+4
+90
+60K
+WriteIntoPrint
+4
+7
+89
+83K
+GuyKawasaki
+10
+2
+88
+1.4M
+CalvinHelin
+8
+4
+88
+1.9M
+ceebee308
+4
+9
+87
+505K
+BigThink
+10
+5
+85
+68K
+scobleizer
+13
+4
+83
+413K
+LinkedIn
+11
+6
+83
+766K
+AnneRiceAuthor
+12
+8
+80
+87K
+Adobe
+13
+14
+73
+330K
+StephenKing
+23
+8
+69
+513K
+WSJ
+37
+6
+57
+5M
+Facebook
+30
+20
+50
+13.9M
+PauloCoelho
+38
+12
+50
+9.5M
+WritersDigest
+38
+17
+45
+501K
+TimOreilly
+36
+20
+44
+1.8M
+DannySullivan
+35
+22
+43
+401K
+ChuckPalahniuk
+40
+19
+41
+501K
+dickc
+42
+19
+39
+1.3M
+BritneySpears
+51
+11
+38
+39M
+NYTimes
+56
+10
+34
+13.2M
+Twitter
+58
+14
+28
+32M
+Buzzfeed
+57
+17
+26
+1.5M
+KatyPerry
+72
+9
+19
+57.8M
+Medium
+71
+13
+16
+793K
+BarackObama
+76
+10
+14
+46.4M
+TheEllenShow
+75
+12
+13
+32.4M
+
+The accounts with 50% or fewer "good" follows are highlighted in pink. Among them is @dickc, the account of Twitter CEO Dick Costolo. The account with the fewest "good" followers is @TheEllenShow, with @BarackObama coming up close behind.
+
+@NYTimes ranks poorly (just below @BritneySpears), which naturally makes one wonder: Does having a large Twitter account automatically mean you'll acquire a ton of suspicious followers? I tried to get some insight into this by plotting the "non-good" percentage (% suspicious plus % inactive) against account size, in what I call the Bogosity Graph:
+
+Percent bogus followers (x-axis) and account size (in thousands, y-axis).
+
+I think the graph says two things. First, lots of points spread out along the bottom, which means it's definitely possible to have lots of fake followers even if your Twitter following is small. (Which we kinda knew.) Secondly, as you go up the y-axis, it's clear that once you get past 5 million followers, the odds are good that half or more of your followers will be bogus. In fact, it's virtually guaranteed.
+
+I think it's possible to understand what's happening to large accounts this way: When you first join Twitter, you're prompted to follow certain large accounts. Probably less than half of new Twitter signups stick around. Most lose interest right away, or were only there out of morbid curiosity and decided to leave immediately, etc. So celebs and media sites get stuck with tons of inactive followers (abandoned accounts), through no fault of their own.
+
+The "no fault of their own" argument doesn't apply across the board, though, because it's absolutely obvious, if you use a tool like tweepi.com, that many would-be Twitter celebs have deliberately pumped up their follower counts by buying followers. (In a future post, maybe I'll call out some of these clowns by name.)
+
+Why @Twitter and @dickc don't clean up their accounts, I don't know. It speaks poorly of Twitter that its own corporate account has mostly bogus followers. Don't you think?
+
+ ☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms lie. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+☙ ❧ 
+  I want to thank the following great folks who retweeted me yesterday on Twitter. My advice? Follow these guys. They retweet!
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

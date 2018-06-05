@@ -1,0 +1,24 @@
+You'd think (wouldn't you?) that it would be easy to change the native printing size of a PDF document from A4 to U.S. Letter, or vice versa. I'm not talking about simply printing the document out with "Shrink to Printable Area" enabled in the Scaling part of the Print dialog. (There are several problems with this.) I'm talking about actually changing the native format of the document itself from A4 to Letter or vice versa. I'm talking about changing the actual page size. It turns out there is no easy way to do this in Acrobat Professional.
+
+At first, I thought I could use the Crop dialog to resize the pages of my A4 document, growing the margins by 25 points on the left and right sides (to make the page 8.5 inches wide) and shrinking the page by 8 or 9 points at top and bottom (to make the page 11 inches tall). But to do it, you need to enter a negative margin size for left and right margins. Acrobat won't let you do that.
+
+The trouble with "Shrink to Printable Area," incidentally, is that it simply downsizes the A4 page by about 6% (retaining the A4 aspect ratio), pinning the page(s) to the top of the print area, which causes the page to have a large amount of white space at the bottom. (In other words, the page is no longer centered vertically.) Call me fussy, but this won't do. I want the page centered, to my liking, on a Letter-size area, with no downsizing at all. (The A4 document in question already has plenty of margin space; it doesn't need more. The pages simply need to be cropped and centered.)
+
+Javascript to the rescue. It turns out Acrobat Professional's Javascript API exposes a couple of helpful methods that allow me to do just what I need to do. The getPageBox() method will tell you what the native size of the doc's pages is, in points (or is it picas?). It turns out an A4 page is 842 tall by 595 wide. A Letter-sized page is 792 by 612.
+
+The method that gets the job done is called setPageBoxes(). For consistency, it should probably have been named setPageBox(), but Adobe decided setPageBoxes() was more descriptive. Either that or someone just wanted to be perverse.
+
+In any event, setPageBoxes() has four parameters: The first is the box type value (a String), which is one of Crop, Media, Art, Bleed, or Trim. The second parameter is the (zero-based) page number at which to start cropping. The third param is the ending page number. The final parameter is an array of four numbers representing the new left, right, bottom, and top coordinates of the (final cropped) page, in rotated user space.
+
+The magic lines of code that worked for me are as follows:
+
+var rect = [ -9,812,603,20];
+this.setPageBoxes("Crop",0,276,rect);
+
+I typed those lines in the Javascript console in Acrobat Professional, highlighted them with the mouse, and clicked Control-Enter to execute the code. Very quickly, Acrobat cropped all 277 pages of my A4 document.
+
+I played around a little to get the top and bottom margins where I wanted them (because the doc's original margins are a little too generous at the top and too skimpy at the bottom of the page). Note, however, that rect[1] minus rect[3] equals 792 and rect[2] minus rect[0] equals 612, which means the final page size is 8.5 by 11. (Recall that there are 72 points in an inch.)
+
+Note, by the way, that you can use negative numbers in the rect array. This means you can expand a page on the lefthand side, using Javascript, whereas (as I mentioned earlier) you cannot do this in Acrobat's Crop UI, where negative numbers are not allowed. Very very handy.
+
+So there you have it. If ever you need to resize an A4 document to Letter size (or vice versa), now you know how. You just need a copy of Acrobat Professional.

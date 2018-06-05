@@ -1,0 +1,18 @@
+I like things that go fast, and that includes code that runs fast. With JavaScript (and Java, too), that can be a challenge. So much the better, though. I like challenges too.
+
+When someone asks me what's the single best way to speed up "a slow script," naturally I want to know what the script is spending most of its time doing. In browser scripting, it's typical that a "slow" script operation either involves tedious string parsing of some kind, or DOM operations. That's if you don't count programmer-insanity sorts of things, like creating a regular expression object over and over again in a loop.
+
+The two most important pieces of advice I can give on speeding up browser scripts, then, are:
+
+1. Never hand-parse a string.
+2. Don't do DOM operations in loops (and in general, don't do DOM operations!).
+
+No. 1 means don't do things like crawl a big long string using indexOf( ) to tokenize-as-you-go. Instead, use replace( ) or a split( )/join( ) technique, or some other technique that will basically have the effect of moving the loop into a C++ native routine inside the interpreter. (The general approach is discussed in a previous post.) An example would be hit-highlighting in a long run of text. Don't step through the text looking for the term(s) in question; use replace( ).
+
+No. 2 means to avoid looping over the return values from getElementsByTagName( ) -- in fact, don't call it unless you have to -- and get away from doing a lot of createElement( ), appendChild( ) types of things, especially in loops, and especially in functions that get called a lot (such as event handlers for mouse movements). How? Use innerHTML wherever possible. In other words, create your "nodes" as Strings (markup), then slam the final string into the DOM at the last minute by setting the parent node's innerHTML to that value. This moves all the DOM reconfiguring into the browser's native DOM routines, which it'll happen at the speed of compiled C++. Don't sit there and rebuild the DOM yourself, brick by brick, in JavaScript, unless you have to, which you seldom do.
+
+There are other techniques for avoiding big speedups, but they're more situational. And I'm still learning, of course. I'm still trying to find out what all the lazily-invoked "big speed hit" operations are in Gecko that can suddenly be triggered by scripts. The situational speed hits can sometimes be addressed through caching of expensive objects, or reuse of expensive results (a technique known as memoization; good article here). The Mozilla folks have put a lot of work into speeding up the JavaScript runtimes, but remember, the fastest runtime environment in the world can be brought to its knees by poor choice of algorithms.
+
+Obviously it's not always possible to employ the two techniques mentioned above, and in certain cases the performance gain is not impressive. But in general, these remain underutilized techniques (from what I can tell), which is why I bring them up here.
+
+If you have additional techniques for speeding up JavaScript, by all means, leave a comment. I'm interested in hearing your experiences.

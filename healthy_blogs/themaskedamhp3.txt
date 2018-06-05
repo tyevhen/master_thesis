@@ -1,0 +1,41 @@
+It is a disciplinary offence for a GP not to have
+a stethoscope around their neck at all times
+An AMHP recently emailed me about whether or not a patient’s GP should be involved when they are being assessed under the Mental Health Act. The argument among the emailer’s AMHP colleagues appeared to revolve around whether an attempt should invariably be made to contact a GP and have them involved in the assessment if at all possible, or whether doing this without consulting with the patient first would amount to a breach of confidentiality.
+
+I’ll deal with these two issues separately.
+
+Does contacting a patient’s GP in relation to a MHA assessment amount to a breach of patient confidentiality?
+
+In my view, this is an absurd position to have. The Reference Guide states:
+
+AMHPs must… be satisfied that detention in a hospital is the most appropriate way of providing the care and medical treatment the patient needs. In making that decision, AMHPs are required to consider ‘all the circumstances of the case’. In practice, that might include the past history of the patient's mental disorder, the patient’s present condition and the social, familial, and personal factors bearing on it, the other options available for supporting the patient, the wishes of the patient and the patient’s relatives and carers, and the opinion of other professionals involved in caring for the patient. (para 8.32)
+
+The AMHP therefore has a duty to obtain as much background information as possible about a patient in preparing for a MHA assessment. The AMHP explicitly needs to consult with a wide range of people, and since a patient’s GP may know them very well, it would be ridiculous not to at least make an attempt to contact them. Indeed, it is often the GP who has initiated the request. The Code of Practice confirms: “AMHPs should also consult wherever possible with other people who have been involved with the patient’s care” (para 14.69)
+
+It just does not make sense professionally to withhold information relating to their patient from a GP, and indeed the Code goes on to say:
+
+Having decided whether or not to make an application for admission, AMHPs should inform the patient, giving their reasons. Subject to the normal considerations of patient confidentiality, AMHPs should also give their decision and the reasons for it to… the patient’s GP, if they were not one of the doctors involved in the assessment (14.100)
+
+While the Code does bring up issues of confidentiality, I do not think the GP is one from whom such information should be withheld. Potential breaches of confidentiality are more likely to arise when consulting with, or obtaining information from, neighbours or other interested parties not related to the patient. In accordance with para14.100, our local AMHP Service writes to the patient’s GP to give the outcome of a MHA assessment as a matter of course.
+
+Should GP’s be involved in MHA Assessments?
+
+GP’s are mentioned in the Code of Practice, but only in relation to limited functions under the MHA. For example, in relation to the function of Second Opinion approved doctors (SOAD) when it suggests that a GP may be consulted in connection with a part 4A certificate (for authorising treatment). GP’s are also mentioned in para 34.12, in relation to constructing an after-care plan under the Care Programme Approach.
+
+However, both the Reference Guide and the Code of Practice stress the importance of assessing doctors having previous knowledge of the patient in question. The Reference Guide states:
+
+At least one of the doctors should, if practicable, have had previous acquaintance with the patient. Preferably, this doctor should have treated the patient personally. (para 8.40)
+
+Para 14.73 reiterates this virtually verbatim. While this may be the patient’s community psychiatrist, their GP will of course also qualify. It does not matter if the GP has only treated them for physical ailments.
+
+If it was the GP who referred the patient for a MHA assessment, I will try to speak with them about the reasons for the referral, and ascertain whether there may be any physical factors affecting the person’s presentation, and of course, whether the GP has referred them first to the Crisis Team or Dementia Intensive Support Team, as this would constitute less restrictive options.
+
+If it appears there is a need to conduct a formal assessment, I will see whether or not the GP is able to take part in the assessment. If the GP has a particularly good relationship with the patient, and many do, it could be very advantageous for the GP to attend the assessment.
+
+This, however, is where the AMHP may encounter problems. In practice, GPs are frequently unable, or unprepared, to attend an assessment. They generally have other pressing commitments, such as their surgery. However, they will often be able to provide a medical recommendation. This saves having to find two S.12 doctors to attend the actual assessment.
+
+In my experience, GPs will generally find time to see the AMHP at their surgery and provide time to complete a medical recommendation (although as most GPs rarely get involved in providing medical recommendations, they will need help with completing the form legally.)
+
+Involving the GP in the process certainly fulfils the Code’s recommendation to have a doctor with “previous acquaintance”. Indeed, it can perversely often be even more difficult to get the patient’s own consultant to attend the assessment, or even to provide a medical recommendation.
+
+So it is certainly preferable to involve the GP if possible, as the alternative is the less desirable option of having two S.12 doctors who do not have previous acquaintance. Indeed, the MHA and the Code are so clear about the importance of this that if neither of the doctors had previous acquaintance, an AMHP has to give detailed reasons on their application explaining why it was not practicable.

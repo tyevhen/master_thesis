@@ -1,0 +1,33 @@
+I made some pretty bold claims the other day in my post on Alzheimer's and ApoE.  I want to look more closely at some of the studies cited yesterday, and to ask some critical questions to see if we can make sense of it all.  The exciting thing about a blog is that I'm not the only one looking at all of this information - if you have a bright idea, please chime in with a comment or two.
+
+We have three hypotheses I'm trying to sort out with as much elegance and common sense as possible:
+
+A: High Cholesterol and Bad dietary Fats (or inflammation from a bad fatty diet) cause (or are a part of causing) Alzheimer's disease.  In other words, The Lipid Hypothesis of Alzheimer's Disease
+
+B: Cholesterol is absolutely vital to the brain, and a low-fat diet in addition to inflammation and genetic vulnerability causes Alzheimer's disease.
+
+C: Cholesterol and diet have absolutely nothing to do with Alzheimer's disease.
+
+First, "Cholesterol as a risk factor for dementia and cognitive decline: a systemic review of prospective studies with meta-analysis."  The long and short of this study (which reviewed data from 18 other prospective studies and 14,331 people with 3 to 29 years of follow up) - High total cholesterol in midlife (prior to age 60) is associated with a higher risk of Alzheimer's Dementia and Vascular Dementia (a type of dementia caused by multiple little strokes).  However, low serum cholesterol in late life seemed to be part of the prodrome for Alzheimer's Dementia, especially in those with the genetic vulnerability (ApoE4 allele).
+
+Secondly, a study I cited yesterday:  "High cholesterol in late life associated with a reduced risk of dementia." Nearly 400 people were examined from age 70 up through age 88.  The subjects in the top quarter of total cholesterol levels at age 70 and 79 had reduced risk of dementia at age 79-88.  Total triglycerides had no correlation.
+
+Third!  In a previous study I cited way back, serum cholesterol seemed to match up with the amount of cholesterol that is found in the brain:  "Fatty acid composition in postmortem brains of people who completed suicide."
+
+And finally, In Alzheimer's patients, fatty acids in the cerebral spinal fluid are low.  Super low.  "Reduced levels of cholesterol, phospholipids, and fatty acids in cerebrospinal fluid of Alzheimer disease patients are not related to apolipoprotein E4."  Phospholipids, total cholesterol, and free fatty acids were reduced compared to controls in the post-mortem CSF of 30 neuropathologically confirmed cases of Alzheimers (compared to 31 controls).
+
+Another important bit of info - while ApoE4 confers higher risk of Alzheimer's, most people who develop Alzheimer's (especially late in life) do not have ApoE4.
+
+And one last bit of important info - myelin is the insulation on the wires of the central nervous system.  It helps messages be transmitted over long distances.  The main cells that make and repair myelin in the central nervous system are called oligodendrocytes.  Part of what these cells do is to make sulfatides.  Sulfatides are known to be depleted in early Alzheimer's disease (1), and ApoE and sulfatides work together to clear out amyloid plaque in Alzheimer's disease (2).  Cholesterol is absolutely vital to maintaining and repairing the myelin sheath.  Therefore, in Alzheimer's we have a shoddy myelin sheath combined with low CSF cholesterol levels. 
+
+Back to our three hypotheses: 
+
+A: Fat is Bad and will KILL you.  I reviewed the pro-Lipid Hypothesis data here and found it wanting.  It was mostly hand-waving and fear of lipotoxicity - which is the idea that saturated fat (in combination with hyperglycemia!! My goodness, how does one get hypergycemia?  Though eating lots of fat?  Or lots of sugar?  You tell me.) can cause the endoplasmic reticulum of your cells to self-destruct.  Or something.  Lipotoxicity never made much sense to me, and I've read a rather large number of papers on it.  But the Alzheimer's evidence is that high total cholesterol in mid-life is associated with increased risk of dementia in later life.  I break it down thusly:  High cholesterol in midlife is associated with inflammation, trans fats, and other yucks.  If your system is out of whack enough to produce the high  cholesterol to try to repair the inflammatory damage, something seriously bad is going on, and will be going on for the remaining decades of your life, lest you try to fix it.  Hey, how would we fix it?  Well, we could follow our ancestors and do a paleolithic style diet, go traditional and try a Mediterranean sytle diet, or we could stay on the SAD and take cholesterol-lowering drugs, or we could go on a super low fat Ornish-style diet.  What do you think the majority of the people diagnosed with high cholesterol in mid-life do? 
+
+B: Fat is Good.  Your brain is 60% fat.  Low fat diets and cholesterol-lowering drugs are disastrous for the brain.  Huge shout-out here to Stephanie Seneff and her web essay, "ApoE-4, The Clue to Why Low Fat Diet and Statins may Cause Alzheimer's."  She leads the way to this study:  "Midlife Serum Cholesterol and Increased Risk of Alzheimer's and Vascular Dementia Three Decades Later."  Free full text!  Hooray - nearly 10,000 people as part of the Kaiser database in California were followed for a long period of time, from the 70s to the 90s. We had all sorts of info about blood pressure, cholesterol levels, everything.  And, just like the first study I cited, high cholesterol in middle age was associated with higher risk of dementia 30 years later.  But wait a minute - these folks were part of a managed care plan with managed care doctors who no doubt followed the party line and prescribed lipid-lowering drugs.  How did that turn out?  "Information on lipid-lowering treatments, which have been suggested to decrease dementia risk [3], was not available for this study."
+
+Not available?  Really?  Kaiser Pemanente doesn't have the cholesterol-lowering drug usage of its members available for this study?  Well, a newer study has come out.  "Can statins prevent or help treat Alzheimer's disease?"  And the answer is, so far, no!  Also, they "were not detrimental to cognition in... systemic review."
+
+Ack.  We are left with an exponentially increasing incidence of Alzheimer's disease compared to other diseases (femur fractures) which increase linearly with age (4), which to me suggests environmental factors.  Does Alzheimer's have nothing to do with diet or cholesterol (hypothesis C)?  I don't think so.  It is known that if you are >85 years old, high cholesterol imparts a survival advantage.
+
+So you tell me.  What makes more biologic sense?  Is Alzheimer's caused by high cholesterol or diminished by high cholesterol? 

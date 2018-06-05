@@ -1,0 +1,47 @@
+Most color pickers, I find, aren't terribly helpful. Fortunately, though, it's relatively easy to create your own. All you have to do is generate a rainbow swatch and capture mousedowns or mousemoved events as the user hovers over the swatch, and sample the color under the mouse pointer. The trick is creating a good color swatch. The answer is a few lines of server-side JavaScript.
+
+The swatch shown here (which has colors ranging from pure white at the top of the swatch, to 100 percent saturation at the bottom) was created by varying the red, green, and blue color channels sinusoidally, with each channel phase-shifted slightly. Code for this is shown below. To run the script, you can use the little ImageMunger app I gave code for in a previous post. (The app puts globals Image and Panel in scope. See previous post for details.) Just point the app at an image file of (say) dimensions 200 x 200 (or whatever), and let the script fill the image with colors. Be sure to use JDK6.
+
+/* colorpicker.js
+* Kas Thomas
+* 02 February 2010
+* Public domain.
+*
+* Run this file using ImageMunger:
+* http://asserttrue.blogspot.com/2010/01/simple-java-class-for-running-scripts.html
+*/
+
+( function main() {
+
+     w = Image.getWidth();
+     h = Image.getHeight();
+     pixels = Image.getRGB(0, 0, w,h, null, 0,w);
+
+     var x,y,spanx,spany;
+     for (var i = 0; i < pixels.length; i++) {
+             x = i % w;
+             y = i / w;
+             spanx = x/w;
+             spany = y/h;
+             pixels[ i ] = rainbowPixel( spanx,spany );
+     }
+     Image.setRGB(0, 0, w,h, pixels, 0,w);
+     Panel.updatePanel();
+
+     function rainbowPixel( xspan, yspan ) {
+
+             blue =  255 - yspan*255 * ( 1.0 + Math.sin( 6.3*xspan ) )/2;
+             green = 255 - yspan*255 * ( 1.0 + Math.cos( 6.3*xspan ) )/2;
+             red =   255 - yspan*255 * ( 1.0 - Math.sin( 6.3*xspan ) )/2;
+
+             return (red << 16) + (green<<8) + blue;
+     }
+
+})();
+Note that this technique can be adapted to PDF image-maps quite easily (as shown here). It is also the basis of a (pure Java) plug-in for the National Institutes of Health's freeware ImageJ program.
+
+Future projects:
+Instead of sampling the color under the mouse pointer, retrieve the target color procedurally by back-calculating the color based on the x-y coordinates of the mouse.
+Rewrite the rainbowPixel() method to space the color channels out by 120 degrees (2-pi-over-3 radians) instead of 90 or 180 degrees. (In the code shown above, blue and green channels are phased 90 degrees apart; blue and red are 180 degrees apart.)
+Make it so that colors range from pure white at the top of the swatch to black at the bottom, with full saturation in the middle of the swatch.
+Write a version in slider controls can be used to control the phase angles of the 3 color channels.

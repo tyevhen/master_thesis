@@ -1,0 +1,15 @@
+Oh boy. Here we go again. A study published online ahead of print at the Journal of Clinical Psychiatry notes that among Oregon Medicaid patients who received a prescription for an atypical antipsychotic:
+52% had a depression diagnosis
+34% had an anxiety diagnosis
+15% had a PTSD diagnosis
+
+But only 15% had a schizophrenia diagnosis and 27% had a bipolar diagnosis. So... the majority of atypical scripts were written off-label. Seroquel was the most frequently prescribed atypical, followed by Zyprexa, then Risperdal.
+
+Doses less than what are typically given to treat schizhophrenia or bipolar disorder (subtherapeutic dosing) were quite common. As in 86% of Seroquel scripts were subtherapeutic, 59% of of Risperdal scripts, and 48% of Zyprexa prescriptions. Wait, am I calling for higher doses of these drugs? That doesn't sound like me at all, right? Don't worry, I haven't lost my mind (I think).
+
+Here's the deal. The authors suspect that a lot of these low-dose prescriptions are being written to manage agitation and as sleep aids. The authors note that there are likely less expensive/more effective medications for such conditions. Not to sound too cavalier, but one could also recommend behavioral treatment to help with sleep as well. Nah, that's crazy talk -- not enough money to be made in that.
+
+Primary care docs were more likely than psychiatrists to dish out low-dose antipsychotics. I guess that the Viva Zyprexa marketing blitz was a success after all. Thanks to Daniel Hartung and collagues for their study, which provides another insight into the wonderful world of atypical antipsychotics as a treatment for everything imaginable. Sorry to beat a dead horse with my zillionth post about the topic of atypicals, but isn't this getting just a teeny bit out of control?
+
+
+Daniel M Hartung, Jennifer P Wisdom, David A Pollack, Ann M Hamer, Dean G Haxby, Luke Middleton, Bentson H McFarland (2008). Patterns of atypical antipsychotic subtherapeutic dosing among Oregon Medicaid patients Journal of Clinical Psychiatry DOI: ej07m03658

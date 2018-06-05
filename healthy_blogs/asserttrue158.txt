@@ -1,0 +1,43 @@
+If you want to become the next Buzzfeed, I have good news and bad news. The good news is: It's never been easier to curate a great-looking news page. Excellent free tools exist. (More of which, in a minute.) The bad news is, no one's going to read what you post, unless it's by accident. If you're looking to build community around your Paper.li page, good luck.
+
+A bit of context: Blogging was supposed to be A Big Thing, until social media came along and (supposedly) moved all discussion away from blog Comments sections, toward Facebook and other "timelines." So now, blogging is dead and social sites rule. That's the consensus view, more or less.
+
+But the reality is (as usual) a bit more nuanced. As Pinterest, Snapchat, WhatsApp, and Flickr were quick to notice, what people really gravitate to are images, not snippets of text. Facebook has always known this; they've leveraged imagery almost since the beginning. (Twitter wisely added image-embedding fairly quickly.) Graphical timelines rule. Text-only timelines, by and large, aren't as successful (except maybe for Hacker News and Reddit, outliers that buck the trend).
+
+Meeker Report / Via om.co
+Stats for daily photos shared online show pretty clearly what's going on. People want to share pics. Do people want to see all these pics? That's another question. I'm not so sure.
+
+Nevertheless, under the "graphical content is king" theory, we can begin to understand the success of something like Buzzfeed as a triumph of photo-driven content bits over long-form reportage; just as we can grok the failure of Google+ as a basic unwillingness to grasp the importance of image streams. (Early on, Google+ was not terribly graphical. It cost them bigtime.)
+
+Even if we back out the Selfie Nation piece of all this, there's a lot of good graphical content online now, and such content will remain popular for good reason. I can skim a couple dozen blogs an hour (maybe; with concerted effort). I can skim a couple hundred headlines an hour, if they're in a plain list format (as with top.st or Hacker News). But I can probably "skim" two thousand photos an hour, because it's what my brain is good at.
+
+Contrast this with trying to skim a YouTube video. (Very hard to do, and there's no app for it. Google? Are you listening?) Worst of all is trying to speed-listen to a podcast. Can't be done. In the Attention Span Wars, therefore, video and audio formats are bound to suffer, going forward, due to (how shall we say?) spacetime constraints.
+
+The ideal presentation vehicle is thus arguably a Digg-like palette of tiled news stories that look like:
+
+
+The standard Diggtile is 360 pixels square and devotes about 50% of its acreage to an image, around 25% to the headline and kicker, and the remainder to a text blurb, credits, and social-sharing buttons. This 2:1:1 formula (graphic:head:text) seems to hit a cognitive sweet spot.
+
+And now you can hit it, too, with the aid of specialized aggregation apps like Paper.li, Scoop.it, Flipboard, and RebelMouse, which allow even the rankest untrained non-journalist to glom together a polished-looking turd tiled "news page" in seconds, armed with little more than a bookmarklet and a Twitter stream. (See my earlier post, An Orgy of Curation, for details.)
+
+The question is whether anyone will visit your news page (or will you be left with a weak stream? bwah-ha-ha), and I think the answer here is the same as with blogs (where there's ten thousand people whispering and nobody listening) and social timelines (ditto). Add another ditto for curated pages of the Paper.li variety. Nobody cares what you think of Obama, and no one much cares that "the Joe Blow Daily is out!" Paper.li claims to have 3.7 million users curating 50 million stories a week (or is it per day?) but SimilarWeb shows Paper.li with only 2 million visits a month, which means the only people reading Paper.li pages are the people who create them.
+
+Paper.li is withering (deservedly, in my opinion) under competition from better-designed services like RebelMouse, Scoop.it, and Flipboard, which have superior content-management tools and offer better hope of letting you gain a following. I created a news page at Scoop.it that got over 500 views in the first week, before my free one-week trial of Scoop.it Business ran out and the analytics went dark. After two weeks, my RebelMouse news page got to 242 views with very little promotion (and the analytics still work).
+
+In terms of page appearance, I like Flipboard's design the best, although it truncates headlines willy-nilly (and analytics have yet to show any views, for my page). In comparing bookmarklet performance, Flipboard's snappiness completely aces the pack, with Scoop.it a close second. (But: Flipboard's "bookmarklet" is technically not a bookmarklet. It's a Chrome extension.) The Paper.li bookmarklet blows major chunks. It's slow, fugly, has a clumsy UI, and makes me log in again. (All of which applies to their main app as well.)
+Flipboard truncates headlines dynamically depending on the viewing environment and window size.
+Scoop.it is a fantastic service, allowing you to Scoop any web page in real time (using the handy bookmarklet) and have it show up immediately as a tweet in your stream and as a news item in your page. But the down side is that the shortened URLs that show up in your timeline can be mistaken by users for a direct link to a story, when in fact the user gets brought to the story's tile in your Scoop.it page. That gets old fast. Twitter users are accustomed to going directly to a story rather than being indirected through someone's landing page. (When I get double-routed through someone's landing page, I start to get annoyed.)
+
+As I mentioned in my earlier post, Flipboard is fast becoming the 800-pound gorilla in curationism, with 18 million users (and upwards of 200,000 newbies a day), which I think can only spell trouble for underdogs in what's already a too-crowded market. What's Flipboard doing right? The consumer-facing UI is drop-dead gorgeous (on all devices), the admin UI is very good (but not great), the curation tools rock, and did I mention it looks good on all devices? Last month, when a post on this blog went viral (analysis here), almost half the traffic (46%) was from Zite, which (decoded) means Flipboard. By contrast, I have yet to see Paper.li or Scoop.it show up, even as a blip, in my blog analytics.
+
+So if you're wondering how to increase the wattage on your social megaphone, you can try adding a curated page to your mix. Or you can internalize the message about graphics (above) and start adding pictures to everything you blog or tweet, which is (honestly?) probably about the smartest thing you could do right now.
+
+ ☙ ❧ 
+
+Hey listen, the following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression. 

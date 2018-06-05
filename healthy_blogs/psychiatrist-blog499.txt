@@ -1,0 +1,23 @@
+NBC-4 News Clip from Doreen Gentzler (May 16, 2012)
+What’s your mental health number?
+This is the question that the Bipolar Collaborative is asking, using its WhatsMyM3 screening tool [PubMed]. “Many other illnesses have a 'number' that one can track – cholesterol, high blood pressure, diabetes. What’s the number for mental health?” asks Michael Byer, president of M3 Information, based in Bethesda, Md.
+~from Clinical Psychiatry News
+
+Today's USA Today newspaper ran a story titled, "Screening for mental illness? Yes, there's an app for that," by Michelle Healy.
+
+
+WhatsMyM3 is a validated, 3-minute tool that screens for symptoms of depression, bipolar disorder, PTSD, and anxiety, and can be used to monitor changes in symptom severity over time.
+
+One of the developers, Michael Byer, approached me about a year ago for my opinions on development and use of the screening tool. Disclosure: After reviewing the research and seeing how useful it is, I have become more involved in the organization, becoming an adviser to the group that was started nearly ten years ago by past NIMH chief, Robert Post MD. (listen to podcast #63)
+
+It differs from other mental health screening tools, such as the PHQ-9 and the MDQ, in that these are all unidimensional -- they only measure one domain of symptoms. The M3 is multidimensional, measuring four areas of symptoms. Furthermore, when compared to results from the standardized interview tool, the Mini International Neuropsychiatric Interview (the MINI measures for 15 different mental illness diagnoses), WhatsMyM3 provides a total mental health score that is 83% sensitive in finding true positives and 76% specific in finding true negatives. In addition to the total score, there are four subscores, one each for depression, bipolar, PTSD, and anxiety.
+
+Put another way, the negative predictive value of the total score is 89%, meaning that if you score under the threshold, there is an 89% chance that you do not have any mental health diagnosis by the MINI. As with most screening tests, you want the negative predictive value to be high so that you don't have to subject the "negatives" to more specific testing. The positive predictive value, or PPV, is generally lower for screening tests. It is 65% for WhatsMyM3, meaning that if you score positive (total score >= 33 and positive for functional impairment), the odds of you having a diagnosis is almost two-thirds. A clinical evaluation can then help to determine if you do have a diagnosis. (Note: this tool cannot give you a diagnosis; it can only describe your relative risk of having, or not, a diagnosis.)
+
+What people have found to be most helpful is using WhatsMyM3 to monitor their symptoms over time once they do have a diagnosis. This can be done for free on the website, or for $2.99 using the iPad or iPhone apps, or the Android app. For mental health clinicians, they can download the free M3Clinician iPad app and then screen their own patients. For about a dollar per screen, they can register their patients who want to track their symptoms over time and share their scores with the clinician. Primary care providers also purchase screens, and can even obtain insurance reimbursement by billing for an annual health risk assessment. The patient reports can be viewed by logging into m3clinician.com.
+
+A sample report for a fake patient can be viewed here.
+
+I think this sort of tool, or app, is exactly the sort of mHealth thing that empowers consumers to better manage and become engaged in their health care needs. This is happening in other areas, like diabetes, heart disease, and obesity. Mental health is also making great strides in mHealth.
+
+I should also point out here that the folks at M3 Information were the only ones to take us up on our offer of a free "advertisement" on Shrink Rap in return for donating at least $200 to our NAMIWalk for Mental Health Month (we don't typically accept display ads). A logo ad will be running soon on Shrink Rap soon for two weeks in recognition of their charitable donations. It will look like this and link to the iPhone and Droid apps. [We received no money ourselves from M3 nor from NAMI. We've never accepted any money from Pharma companies, nor does M3.]

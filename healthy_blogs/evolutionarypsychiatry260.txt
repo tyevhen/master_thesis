@@ -1,0 +1,61 @@
+Funny thing is, not even a month ago I was commenting over at Dr. Parker's Diabetic Mediterranean Diet blog that there weren't really any studies about ketogenic diets and Alzheimer's and dementia.  There were a few case reports that it was helpful, to be sure, but nothing much on Pubmed. Which is disappointing, because if you know anything about (very low carb or coconut oil heavy) ketogenic diets, you know that they should reduce inflammation, enhance energy efficiency, and decrease hyperinsulinemia, all of which are implicated in the pathogenesis of Alzheimer's. 
+
+Thank heavens I follow Dr. Eades' twitter feed.  In December 2010 and January 2011 not one, but two academic papers have come out related to dementia and ketogenic diets or glucose metabolism.  So here they are:
+
+
+Dietary ketosis enhances memory in mild cognitive impairment
+
+In this study, researchers did the obvious thing and put 23 older folks with mild cognitive impairment (MCI, a type of early dementia) on a very low carbohydrate diet or their normal diet for 6 weeks.  Most people with MCI will progress to Alzheimer's, and MCI is important, because at this point your brain still has more than a fighting chance.  Interventions at this point, if they work, might mean you don't progress to Alzheimer's.
+
+Oh dear, here is a depressing quote from the article:
+
+Contemporaneous with the developing dementia epidemic
+is an epidemic of obesity and associated metabolic disturbance.
+Currently, 64% of the USA adult population is overweight and
+34% obese (Flegal et al., 2010). It is projected that by the year
+2030, 86% will be overweight and 51% of adults in the USA
+will be obese (Wang, 2008). Likewise, diabetes prevalence is
+accelerating, particularly in the aging population (National
+Institute of Diabetes and Digestive and Kidney Diseases,
+2008). Hyperinsulinemia, which is a precursor to type 2 diabetes,
+occurs in more than 40% of individuals aged 60 and
+older (Craft, 2005; Ford et al., 2002).
+
+So the elders were recruited, given a battery of cognitive tests, then randomized to either a high carbohydrate diet (>50% of calories) meant to mimic an ordinary older American's diet, or a very low carbohydrate diet (10-20g of carbohydrate daily) for six weeks.  Protein, fat, and calories were not restricted.  "All subjects were advised to choose monounsaturated fats when possible, although this was not controlled." 
+
+At the beginning of the studies, the subjects were pretty ordinary older Americans (though anyone with frank diabetes was excluded).  They tended to be overweight, had normal fasting glucose, but were at the high end of fasting insulin levels.  Fasting insulin levels correlated with waist circumference.
+
+After six weeks, the ketogenic diet group got skinnier waists, lower fasting glucose and lower fasting insulin (which shouldn't be a surprise for anyone).  Ketone bodies were measurable in the urine of the very low carb subjects, and total calorie intake was also lower - fat and protein were not significantly different than the high carb group, however.  Basically the low carb folks ditched the carbs and didn't replace them, resulting in lower calories overall.
+
+And the brain effects?   Memory was improved in the low-carb subjects, but not the tests of executive functioning (like trailmaking tests), suggesting a specific hippocampal and parahippocampal effect of ketones in the brain.  Very interesting!
+
+On balance, these preliminary data provide evidence that
+dietary ketosis by means of carbohydrate restriction can provide
+neurocognitive benefit for older adults with early memory
+decline and increased risk for neurodegeneration.
+
+Got it!  Moving on.
+
+Second paper is Brain fuel metabolism, aging, and Alzheimer's Disease from the January 2011 edition of Nutrition.  This paper is a review article rather than a study, with lots of interesting evidence for shoddy glucose metabolism in animal and human studies of Alzheimer's disease.  I like this paper because it targets every piece of dietary insult on our brain that a Kitavan avoids just by being a horticulturist and not subsisting on a diet of *insert the vast majority of foods in the middle aisles of the modern Western grocery store here* - and the Kitavan happens to avoid dementia at the same time.  Poor glucose metabolism, poor omega 3 (DHA status), and poor mitochondrial function are all found time and time again in folks with Alzheimer's, especially those with the ApoE4 allele or a maternal family history of Alzheimer's dementia.
+
+This paper is 18 pages long and rather amazing, but I'll skip to the ketogenic part here:
+
+Nevertheless, two observations in particular support the notion
+that the neurons affected in AD are still functional: (1) in AD,
+brain ketone uptake is apparently normal or at least less
+impaired than is glucose, and (2) there is a functional
+response to nutritional supplements that increase brain fuel
+availability, particularly ketones. Hence, if brain fuel metabolism
+could be optimized or even partially returned toward normal, the
+risk of further cognitive decline may diminish. Raising plasma
+ketones to 0.4-0.5 mM would contribute to 5-10% of the brain’s
+energy requirements (Fig. 3), which is equivalent to the early
+cortical glucose deficit in those genetically at risk AD. Such
+a mild, safe level of ketonemia is achievable with ketogenic
+supplements, so if implemented before symptoms develop, it
+seems plausible that they could diminish the risk of further
+metabolic deterioration and clinical onset of cognitive decline.
+
+Ketogenic supplements would mean medium chain triglycerides, such as coconut oil, which the Kitavans eat in spades. 
+
+I know, the prescription is very nearly always the same on my blog.  The scientific explanation to get to the prescription in different disease states are often very different.  Avoid the neolithic dietary agents of disease (I count them as many paleo types do as wheat, fructose, and vegetable oils), not to mention other novel fake foods we were never designed to eat, just to be safe.  Ratchet down the carbs if you have love handles or metabolic syndrome.  Dabble with ketosis by intermittent fasting, coconut oil, very low carb, or all three depending on your own personal brain status.  There's plenty left to eat that is gorgeous and yummy.  And you get to keep your brain.

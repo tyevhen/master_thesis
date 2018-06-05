@@ -1,0 +1,11 @@
+The other day, I wanted to take a look at my Firefox bookmarks file. I could have exported my bookmarks to an HTML file using the Organize Bookmarks dialog, but instead I wanted to just use the existing bookmarks file (the private copy Firefox already uses). It turns out Firefox keeps archives of your bookmarks in
+
+C:\Documents and Settings\[USER]\Application Data\Mozilla\Firefox\Profiles\bookmarkbackups
+
+(on Windows)
+
+and they are formatted as JSON! Trouble is, the JSON text has no newlines or tabs or other spacing, so if you open the bookmarks file in Notepad, you'll see One Big Huge Line of unformatted text.
+
+Unformatted JSON is ugly. But fortunately, there's an answer.
+
+Over at http://archive.dojotoolkit.org/nightly/dojotoolkit/dojox/gfx/demos/beautify.html there's an online form that will beautify (pretty-print to your screen) any raw JSON that you paste into the form. It does an exceptionally nice job. Give it a try if you have a need to reformat JSON source.

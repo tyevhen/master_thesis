@@ -1,0 +1,29 @@
+I highly recommend the two commentaries in the New England Journal of Medicine this week.  The first was written by McHugh and Slavney and the second by  Friedman.  Like Allen Frances they are experienced psychiatrists and researchers and they are likely to have unique insights.  I may have missed it, but I am not aware of any of these authors using the popular press to make typical political remarks about the DSM.  Those remarks can be seen on an almost weekly basis in any major American newspaper.
+
+McHugh and Slavney focus interestingly enough is the issue of comprehensive diagnosis and opposed to checklist diagnoses.  It reminded me immediately that the public really does not have the historical context of the DSM or how it is used.  It also reminded me of the corrosive effect that managed care and the government has had on psychiatric practice with the use of "templates" to meet coding and billing criteria in the shortest amount of time.   Finally it reminded me of the bizarre situation where we have managed care companies and governments combining to validate the concept of a checklist as a psychiatric diagnosis and court testimony by experts suggesting that it is negligent to not use a checklist in the diagnostic process.
+
+McHugh and Slavney summed up in the following three sentences: “Checklist diagnoses cost less in time and money but fail woefully to correspond with diagnoses derived from comprehensive assessments. They deprive psychiatrists of the sense that they know their patients thoroughly. Moreover, a diagnostic category based on checklists can be promoted by industries or persons seeking to profit from marketing its recognition; indeed, pharmaceutical companies have notoriously promoted several DSM diagnoses in the categories of anxiety and depression.” (p. 1854)
+
+In my home state, the PHQ-9 is mandated by the state of Minnesota to screen all primary care patients being treated for depression and follow their progress despite the fact that this was not the intended purpose of this scale and it is not validated as an outcome measure.  The PHQ-9  is copyrighted by Pfizer pharmaceuticals.
+
+The authors go on to talk about the severe limitations of this approach but at some point they seem to have eliminated the psychiatrist from the equation. I would have concerns if psychiatrists were only taught checklist diagnoses and thought that was the best approach, but I really have never seen that. Politicians, managed care companies, and bureaucrats from both are all enamored with checklists but not psychiatrists. They also talk about the issue of causality and how that could add some additional perspective. They give examples of diagnoses clustered by biological, personality, life encounter, and psychological perspectives. Despite its purported atheoretical basis, the DSM comments on many if not all of these etiologies.
+
+Friedman's essay is focused only on the issue of grief and whether or not DSM5 would allow clinicians to characterize bereavement as a depressive disorder. That is currently prevented by a bereavement exclusion and DSM-IV and apparently there was some discussion of removing it. He discusses the consideration that some bereavement is complicated such as in the situation of a bereaved person with a prior episode of major depression and whether the rates of undertreatment in primary care may place those people at risk of no treatment.
+
+There can be no doubt that reducing a psychiatric diagnosis to a checklist loses a lot of information and probably does not produce the same diagnoses. There is also no doubt that the great majority of grieving persons will recover on their own without any mental health intervention. Both essays seem to minimize the role of psychiatrists who should after all be trained experts in comprehensive diagnoses (the kind without checklists). They should be able to come up with a diagnostic and treatment formulation that is independent of the DSM checklists. They should also be trained in the phenomenology of grief and the psychiatric studies of grief and realize that it is not a psychiatric disorder.  If they were fortunate enough to be trained in Interpersonal Psychotherapy they know the therapeutic goals and treatment strategies of grief counseling and they probably know good resources for the patient.
+
+The critiques by all three authors are legitimate but they are also strong statements for continued comprehensive training of psychiatrists. There really should be no psychiatrist out there using a DSM as a "field guide" for prescribing therapy of any sort based on a checklist diagnosis. Primary care physicians in some states and health plans have been mandated to produce checklist diagnoses.  The public should not accept the idea that a checklist diagnosis is the same as a comprehensive diagnostic interview by psychiatrist.
+
+That is the real issue - not whether or not there is a new DSM.
+
+George Dawson, MD DFAPA
+
+
+
+McHugh PR, Slavney PR. Mental illness--comprehensive evaluation or checklist?
+N Engl J Med. 2012 May 17;366(20):1853-5.
+http://www.nejm.org/doi/full/10.1056/NEJMp1202555?query=TOC 
+
+Friedman RA. Grief, depression, and the DSM-5. N Engl J Med. 2012 May
+17;366(20):1855-7.
+http://www.nejm.org/doi/full/10.1056/NEJMp1201794?query=TOC

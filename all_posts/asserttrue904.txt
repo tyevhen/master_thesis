@@ -1,0 +1,1 @@
+it turns out jdk comes with a javascript console facility so that you can play with rhino interactively from a command line look for a file called jrunscript exe in your jdk 's bin directory a pretty good article on java javascript integration in java can be found on the sun developer network site right here

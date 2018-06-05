@@ -1,0 +1,19 @@
+Harold McCracken has written a piece about Flash's origins and current condition. He lists a number of reasons why Flash finally flipped the TOO_ANNOYING bit. Among them:
+
+Flash got unreliable. "On some of my computers," McCracken observes, "in some some browsers, it works fine. But while I was writing this post in Google Chrome, I got a message saying Flash had crashed–and the whole browser was rendered unusable."
+
+Flash got cumbersome. Says McCracken: "I went through a bout of it constantly telling me I needed to allocate more memory–which was a problem in itself. Even worse: The interface it provided for doing so was hopelessly confusing."
+
+Flash got abused. "Especially by misguided Web designers who built pointless intro screens that did absolutely nothing for consumers except make it harder to get anything done on the site in question. (If I were Adobe, I’d bribe sites if necessary to dump Flash intros–they’ve been enormously damaging to the software’s reputation.)"
+
+Flash didn’t evolve fast enough in the right direction. "For eons," McCracken says, "Macromedia and Adobe have failed to seize the opportunity to make Flash as important in the mobile world as it has been on the desktop."
+
+I agree with many of McCracken's points. But I also think Flash's problems are much easier to sum up than this. To my way of thinking, the main problems with Flash are simply:
+
+It's proprietary. Adobe could have guaranteed a future for Flash by making it 100% open and putting its governance in the hands of a standards body. Right now, the last thing the Web needs is a major graphics format that's (largely) closed and under the tight control of one company.
+
+It relies on plug-in technology, which makes it a nuisance, as all plug-ins are. People don't want to run plug-ins in their browsers, especially resource-hungry plug-ins that are in frequent need of upgrading.
+
+It's arcane. Flash is an unfamiliar, quirky format with a significant learning curve. It's nonstandard. People have enough standard technology to learn without having to go to school on nonstandard proprietary boutique formats. If there's a choice between learning HTML5 and learning Flash, people are going to (wisely) choose HTML5. At this point, you're not doing your resume any good by showcasing "Flash" skills on it.
+
+All in all, Adobe has a big problem on its hands. And it's probably too late to do anything about it. The tipping point, I think, has been reached. Flash will ebb. Mark my words.

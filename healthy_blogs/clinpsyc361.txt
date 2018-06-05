@@ -1,0 +1,7 @@
+This allegedly easy upgrade to New Blogger is still a bit troublesome. Some of my posts look odd in Internet Explorer. I need to fool with my template. In the meantime, I've figured out (with a lot of help) the evil line of code that caused me to get dropped from Google, so that should be fixed.
+
+Update: Martha post fixed. I also accidentally beheaded my blog (took the head out of the template) and then reattached it. The operation appears to have been successful, but we'll see.
+
+For anyone else who has the joy of switching from old Blogger to new Blogger, make sure that you check out this link.
+
+Thanks to several readers for their helpful input on (hopefully) resolving this problem.

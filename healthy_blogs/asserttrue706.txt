@@ -1,0 +1,56 @@
+Mozilla Jetpack is an interesting beast, sitting (as it does) at the crossroads of Spidermonkey and XPCOM. It brings JavaScript programmers within a stone's throw of the imressive XPCOM API with its 1450 interfaces and 890 components, plus it unlocks a world of cross-platform AJAX capabilities and local data persistence. Mind you, Jetpack does not actually hand you the keys to the entire XPCOM universe; that may come later. Right now you just get access to certain wrapped objects. But there's more than enough power under the hood to give Greasemonkey a run for the money.
+
+If you're already familiar with Greasemonkey, you'll grok the basics of Jetpack instantly. A fundamental pattern is firing a script when a page loads in Firefox (except, you have to start thinking in terms of "tabs," not pages). So for example,
+   jetpack.tabs.onReady( callback );
+
+function callback( doc ) {
+// do something
+}
+This is a pretty common pattern. Your callback function is triggered when the target document's DOMContentLoaded event is fired. You can manipulate the DOM in your callback before the page actually renders in the browser window. So for example, you might want to filter nodes in some way, rearrange the page, make AJAX calls, attach your own event handlers to page objects, or wreak any manner of other havoc, before the page is actually displayed to the user. This is a standard Greasemonkey paradigm.
+
+The "We're not in Kansas any more, Toto" feeling starts to hit you when you realize that your script can walk the entire list of open tabs and vulture any or all DOMs and/or window objects, for all frames in all tabs; something you can't do in Greasemonkey, since GM is scoped to the current window.
+
+Also, you have access to jQuery. So if you want to see how many links a page contains, you can do:
+   var linkCount = $('a').length;
+and that's that. If you're not already a jQuery user, you'll want to vault that learning curve right away in order to get max value out of the Jetpack experience. It's not a requirement, but you're shortchanging yourself if you don't do it.
+
+Developing for Jetpack takes a little getting used to. First, of course, you have to install the Jetpack extension. The direct download link, at the moment, is here, but it could go stale by the time you read this. If so, go straight to https://jetpack.mozillalabs.com/.
+
+To get to the development environment, you have to type "about:jetpack" in Firefox's address bar and hit Enter. When you do that, you'll see something like this:
+
+
+
+There are several links across the top of the page (Welcome, Develop, etc.). It's not obvious that they are links, because they are not in the usual shade of blue and aren't underlined. Nevertheless, to do any actual code development in the embedded Bespin editor, you have to click the word "Develop" (which I've circled in red above). This brings up a page where, if you scroll down, you'll see a black-background text editor console.
+
+
+
+NOTE: Not visible in this screenshot are the final two lines of code:
+
+var ONCE_A_MINUTE = 1000*60;
+setInterval( getTweet, ONCE_A_MINUTE );
+
+Note that right under the console, you'll find the words "try out this code." (See red arrow.) They are not highlighted by default and thus show no evidence of being clickable. But if you roll your mouse over the words, they get a grey highlight as shown here.
+
+Note: If you make an edit to your code and click "try out this code" a second time, you may find that nothing happens until you refresh the entire page in the browser. Fortunately, you don't lose your work. But it feels scary nonetheless to refresh the page immediately after making a code echange.
+
+I find it really odd that Jetpack has these obvious user-interface design gaffes. These aren't bugs but straight-out poor UI design decisions. What makes it so odd is that some world-class UI experts (such as Aza Raskin) are involved with Jetpack. Guys. Come on. I mean, really.
+
+Maybe I'll do a code runthrough (for something a little more interesting than the above code) next time. For now, note that the code shown above makes use of Jetpack's built-in Twitter library (which wraps Twitter API functions and simplifies some of the AJAX calls, although I don't know why I should have to learn Jetpack's own Twitter API now). The code shown above simply checks Twitter every 60 seconds for any updates created by a particular user (me, in this case). If a new update is found, the relevant tweet is shown in a toaster notification in the bottom righthand corner of the desktop:
+
+
+
+So far so good. But what if you want to give your script to a friend? How does your friend install it? Surely not by using the Bespin console?
+
+Well, assuming your friend has installed the Jetpack add-on already, you can give him or her the script in a text file called something like myscript.jetpack.js. Or better yet, put that script online somewhere. Then you also need to have a page somewhere that contains this line in the HTML (in the head portion):
+
+<link rel="jetpack" href="myscript.jetpack.js" name="TabList">
+
+When your friend opens the page that contains this line, a warning-strip will appear at the top of the Firefox window saying that the page contains a script; do you want to install it? Answer yes, and you get a big scary red page that, if you scroll to the bottom, has these buttons:
+
+
+
+Obviously, you need to click the button on the right. At that point, the script will be installed and "live."
+
+There's a lot more to Jetpack development than what I've described here, but this should be enough to get you started. Next time I'll present a (marginally) more meaningful code example so you can get yet another taste of what Jetpack has to offer. Then I'll get back to blogging about more important things, like the hazards of chewing gum while programming, or the high cost of not doing adequate usability testing.
+
+Or maybe I'll just sit back, put my feet up, and tweet.

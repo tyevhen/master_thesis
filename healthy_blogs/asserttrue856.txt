@@ -1,0 +1,11 @@
+Google's Douwe Osinga has come up with a freaky little online app that turns the almighty Google hash engine into an oracle (not to be confused with Oracle). All you do is enter a word or two into the text box, and wait. The app will do a Google search on your words, find the next "suggested" word and print that, then it will remove the first word of your search string, add the found word, and repeat.
+
+Quite often, the app generates a disarmingly logical response. For example, this morning when I entered "JavaFX will," the reply came back: "javafx will be open sourced monday."
+
+Occasionally you learn something you didn't know. "Richard Stallman" brings back a response of "richard stallman founder of the free african american press."
+
+Interestingly, "top secret" brings back nothing.
+
+Sometimes the app produces garbage. Or is it poetry? When I entered "Sun will," I expected something like "lay off thousands." Instead I got: "sun will shine lyrics by stone roses that are not newly completed and that are in earth orbit but more likely at the top of the mark is to show that the flds not only persevered they fought back they didnt".
+
+e e cummings lives!

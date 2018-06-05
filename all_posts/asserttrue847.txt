@@ -1,0 +1,1 @@
+i did n't realize until just now that there is a spring like inversion of control framework for flex , called prana available under a bsd license seeing something like prana makes me wonder how many other staples of the java world will be emulated by flex folk very interesting indeed

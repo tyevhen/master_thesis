@@ -1,0 +1,49 @@
+Today, the amazing Victoria sent me a paper that is way too great to pass up: Depression and altered serum lipids in cynomolgus monkeys consuming a Western diet*
+
+I know, it's monkeys, not humans.  But these researchers actually took the connection between diet, cardiovascular disease, and depression seriously, and found a reasonable animal model that covered everything.  More or less.  They are lipophobes, but with a spoonful of sugar, they did eventually discover that the omega 6 fatty acids go down in the most alarming way... and couldn't find a way to directly blame the sat fat.  But that's the punch line.  Let's throw out a few facts and then get to the set-up.
+
+First off:  Your brain is 60% fat, and, even more importantly, the important neuronal plasma membranes are 30-50% of the fish-derived (and you-are-dreaming-if-you-think-you-can-get-enough-from-flax) omega 3 DHA.  Yeah.  That much.   Arachidonic acid (AA), derived from the pro-inflammatory omega 6 fatty acids, is the other major PUFA in the brain. (DHA is widely distributed throughout the brain, AA is found primarily in the white matter - the gray matter is where a lot of the actual neuronal communication takes place.  White matter is more like wiring.)
+
+One of the main differences between traditional and ancestral diets and our Western diet is the vast excess of omega 6 PUFAs, primarily in the form of Doritos and Hidden Valley Ranch and Hellmans Real (ahem) Mayonnaise, I mean stuff fried in and composed primarily of vegetable seed oils such as corn or safflower or soybean oil.
+
+I'll quote the article here:
+
+Several studies suggest that patients with clinical depression have either an elevated ratio of circulating long chain ω6:ω3 PUFAs, or just low circulating long chain ω3 PUFAs. There is a 60-fold variation across countries in annual ﬁsh consumption and a strong inverse relationship between national per capita ﬁsh consumption and the prevalence of depression. Early clinical trials suggest that dietary ﬁsh oils reduce signs and symptoms of depression in some, but not all patient populations 
+And just to reinforce the fact that these monkeys are rather reasonable models of human-like depression - these female monkeys respond to stress via depressive-behaviors (certain depressed postures, decreased movement) which is accompanied by changes in the hypothalamic-pituitary adrenal axis in a similar way to humans experiencing depression.  They also show decreased hippocampal volumes, ovarian function changes, serotonergic system changes, and changes in serum cholesterol similar to humans with depression.  Depressed female cynomolgus monkeys also develop four times the coronary atherosclerosis as their non-depressed counterparts.
+
+So, the actual experiment.  32 monkeys were placed on an "atherogenic Western diet."  (I'm sure they meant the crystalline cholesterol + butter, beef tallow, and lard.  I'm a bit suspicious of the sucrose and the safflower oil, myself.  And was there any choline?)
+
+Diet composition was the following:
+
+Casein
+Lactalbumin
+Dextrin
+Sucrose
+Alphacel (this is "non-nutrative bulk" otherwise known as "fiber")
+Lard
+Beef tallow
+Butter, lightly salted (guessing this was not Kerrygold ;-)
+Safﬂower oil (linoleic)
+Crystalline cholesterol (yum!)
+Complete vitamin mix
+Mineral mix
+Calcium carbonate
+Calcium phosphate
+
+Diet composition (% of calories): 38.3% carbohydrate, 42.4% fat, and 19.4% protein
+with 0.28 mg/cal cholesterol.  I'm not sure what sort of "Western" diet this is supposed to mimic - it looks a lot like milky sugar in animal fat and vegetable oil sprinkled with cholesterol to me.  Where are the grains?  But that's okay, I suppose.  Adding the grains might add an extra variable that we would have to parse out, and now we don't have to. 
+
+When you get to the actual fat content, it was about 60% saturated, 30% monounsaturated, and 10% PUFA.  But the PUFA omega 6-3 ratio was a whopping 25:1, and to add insult to injury, there was 0.00 DHA or EPA. 
+
+So what happened?  The monkeys were put on this diet for a total of about two years and observed for signs of depression, and several body and serum measurements were taken. 
+
+Interesting and significant developments - a whopping 42% of the monkeys developed depressive behavior.  The depressed monkeys tended to eat less and have a lower BMI (this is actually typical for a classic depression and more short-term severe depressive episodes - people tend to gain weight over the long term or in atypical depression).
+
+The researchers compared fasting lipids of the 6 saddest monkeys compared to the 6 happiest ones.  (Measures of depression included the amount of time spent in depressed postures and pretty objective signs of depression.  They did not have the monkeys fill out the depression scales we tend to use for humans).  The sad monkeys had higher total cholesterol, but lower HDL (I would call this a cholesterol pattern consistent with inflammation).  The happier monkeys had lower total cholesterol and a higher HDL.
+
+The researchers also broke down the fatty acid composition of the monkeys' plasma - there was no correlation between saturated fats and the amount of depression (which does not surprise me or the readers of Evolutionary Psychiatry, I would hope).  However, the depressed monkeys had significantly (42%) higher circulating omega 6 fatty acid (which would also mean that the higher circulating omega 6 fatty acids would match up with those monkeys with higher total cholesterol and lower HDL.  Hmmmmmm) than the nondepressed monkeys.  Omega 3 fatty acids were not much different between the two groups (possibly because they got so little omega 3 anyway).
+
+So there you have it.  There was no control, which is problematic.  It would be nice to know how much depressive behavior these monkeys have in the wild, and in a similar captive situation but with their Indonesian forest diet flown in.  But I think that if you are a female cynomolgus monkey who is apt to be in a stressful subservient social position, you ought not to eat a diet of omega 6:3 PUFA in a ratio of 25:1.  I'm guessing that a moratorium on soybean oil mayonnaise for the human animals out there might be a good idea too. 
+
+ 
+*Chilton FH, et al, Depression and altered serum lipids in cynomolgus monkeys consuming a Western diet, Physiol Behav (2010), doi:10.1016/j.physbeh.2011.01.013

@@ -1,0 +1,13 @@
+AJAX and Ruby are driving a lot of changes in how people do web programming. Witness the resurrection of the hoary concept of continuations (otherwise known as goto in a tuxedo).
+
+The basic notion of a continuation is that it lets you exit from a scope (using neither a return statement nor a "throw" nor a continue nor a break), go do something else, then reenter the original scope as if nothing happened. In fact, if you serialize the continuation, you can come back months later, and continue in a new thread.
+
+It may help to think of a continuation as a snapshot of the current call stack and program counter. The main intuition is that if you can save off enough information about the current execution context, you can reenter that context at your leisure, kind of like hitting Play again after Pausing a video to go make popcorn.
+
+The concept of continuations has been around a long time. In fact, the formalisms around continuations were invented in order to talk meaningfully about the goto statement. But the goto entered lexical leper status after Dijkstra famously savaged it. By 1980, no self-respecting programmer (outside of the Scheme community -- a leper colony in its own right) would speak the word aloud, much less use it in a program.
+
+And yet, goto is a reserved word in Java.
+
+The reason continuations are important to Web 2.0 is that they hold the key to making AJAX scalable. Continuations enable a threadless polling architecture that would be hard to achieve (cleanly) any other way.
+
+I'll have more to say on continuations. In the meantime, if you want to wrap your head around it further, I strongly recommend reading about Cocoon's use of continuations.

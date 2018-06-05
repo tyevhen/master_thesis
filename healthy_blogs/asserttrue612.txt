@@ -1,0 +1,54 @@
+Praise ye mighty gods on Mt. Olympus: It is, in fact, possible to do AJAX from Acrobat. That's the good news. The rest of the news is (how shall we say?) not entirely salutary, and certainly not well documented. But it's pretty interesting nonetheless.
+
+While it's certainly good news that you can do AJAX from Acrobat, Adobe (for whatever reason) has chosen not to follow the well-accepted idiom (in the Web world) of allowing AJAX code to run in the context of a web document. In other words, you can't just put your AJAX code in a PDF (as a field script in a form, say), then serve the PDF and expect to phone home to the server while the user is interacting with the PDF document. Instead, Adobe requires that you put your AJAX calls in a folder-level script, which is to say a static file that lives on your hard drive in a special subpath under your /Acrobat install path. This is roughly the equivalent of Firefox requiring that all AJAX be done in the context of a Greasemonkey script, say, or in the context of Jetpack. Hardly convenient.
+
+The magic comes in a method called Net.HTTP.request(), which is part of the Acrobat JavaScript API. (You'll find it documented on page 548 of the JavaScript for Acrobat API Reference, April 2007 edition.) Due to security restrictions (supposedly), this method cannot be used in PDF forms, nor in a "document context," nor even in the JS console. It must specifically be used in a folder script.
+
+If you look in your local Acrobat install hierarchy, you'll find a folder under /Acrobat called /Javascripts. What you need to do is create an ordinary text file, put your code inside it, and save that file (with a .js extension) in your /Javascripts folder. Acrobat will then load that file (and execute its contents) at program-launch time.
+
+If you're paying attention, you'll notice right away that this means developing AJAX scripts for Acrobat is potentially rather tedious in that you have to restart Acrobat every time you want to test a change in a script.
+
+Something else you're going to notice when you actually get around to testing scripts is that Acrobat pukes (gives a security error) if you don't explicitly tell Acrobat to trust the particular document that's open while you're running the script. This makes relatively little sense to me; after all, if it's a folder script (running outside the document context), why do I have to have a document open at all, and why do I now have to designate that doc as trusted? As we say in aviation, Whiskey Tango Foxtrot.
+
+Whatever. Jumping through the hoops is easy enough to do in practice: To specify the doc as trusted, go to the Edit menu and choose Preferences (or just hit Control-K). In the dialog that appears, choose Security (Enhanced) from the list on the left, then click the Add File button and navigate to the document in question. Once you do this, you can run the AJAX code in your folder-level script.
+
+But wait. How do you run the script? What's the user gesture for triggering a folder script? The answer is, you need to include code in the script that puts a new (custom) menu command on the File menu. The user can select that command to run the script.
+
+Without further head-scratching, let me just show you some code that works:
+
+ajax = function(cURL) {
+    var params =
+    {
+            cVerb: "GET",
+            cURL: cURL,
+            oHandler:
+            {
+                    response: function(msg, uri, e,h){
+                            var stream = msg;
+                            var string = "";
+                            string = SOAP.stringFromStream( stream );
+                            app.alert( string );
+                    }
+            }
+    };
+
+    Net.HTTP.request(params);
+}
+
+app.addMenuItem({ cName: "AJAX", cParent: "File",
+    cExec: 'ajax( "http://localhost/mypage");',
+    cEnable: "event.rc = (event.target != null);",
+    nPos: 0
+});
+
+Read the code from the bottom up. The app.addMenuItem() call at the bottom adds a new menu command, "AJAX", to Acrobat's File menu. When the command fires, it executes the code in cExec. For now, you can ignore the code in cEnable, which simply tests if a document is open. (The AJAX menu command will dim if there's no open PDF doc.)
+
+Before going further, let's take note of the fact that the magical Net.HTTP.request() method needs one parameter: a parameter-block object. The parameter block, in turn, needs to have, at a bare minimum, a cURL property (containing a URL string pointing to the server resource you're trying to hit) and a cVerb property (containing one of 'GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', or 'HEAD', or one of the allowed WebDAV verbs, or 'MKCALENDAR'). Optionally, the request block can also have a property called oHandler that will have its response() method called -- asynchronously, of course -- when the server is ready to respond.
+
+So the basic notion is: Craft a param block, hand it to the Net.HTTP.request() method, and let params.oHandler.response() get a callback.
+
+So far, so good. But what should you do inside response()? Well, when response() is called, it's called with four arguments. The first is the response body as a stream object (more about which in a minute). The second is the request URL you used to get the response. The third is an exception object. The fourth is an array of response headers. This is all (sparsely) documented in Adobe's JavaScript for Acrobat API Reference.
+
+What's not so well documented by Adobe is what the heck you need to do in order to read a stream object. I'll spare you the suspense: It turns out the stream object is a string containing hex-encoded response data. The easiest way to decode it is to call SOAP.stringFromStream() on the stream, as illustrated above.
+
+There's more -- lots more -- to doing AJAX from Acrobat (I haven't yet touched on authentication, for example, or WebDAV, or even how to do POST instead of GET), but these are the basics. If you end up doing something interesting with AcroJAX, be sure to add a comment below. And if you want to know how to do Acrobat AJAX against an Apache Sling repository, watch my blog space at dev.day.com. I'll be writing about that soon.

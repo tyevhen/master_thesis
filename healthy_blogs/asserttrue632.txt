@@ -1,0 +1,8 @@
+Yesterday's visitorship numbers by browser type (click to enlarge).
+Chrome-users (blue) edged out Firefox users (green) for the first time.
+
+Yesterday, as luck would have it, was the first day (since I've been monitoring Google Analytics for this blog) that more visitors to this blog surfed here using Chrome than using any other browser. In second place? Firefox.
+
+Out of 1247 total visits to this blog yesterday, 484 came from Chrome users. Some 461 visits came from Firefox users. IE accounted for just 120 visits.
+
+The beginning of a trend? Or the ending of one, perhaps? You decide.

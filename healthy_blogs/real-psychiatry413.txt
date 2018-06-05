@@ -1,0 +1,44 @@
+This month's Harvard Business Review has an interesting article on managing technical professionals entitled:  "How Google Sold Its Engineers on Management."  One of the secondary goals of this blog is to point out how people who manage physicians are not only technically inept but in many cases openly hostile to the physicians they manage.  That is largely because the entire system is based on artificial productivity measures and practically all of the management is focused on how to get more artificial productivity out of physicians.  A classic example of this kind of management focuses on how many deeply discounted patient visits are seen per day.  Other tasks like chart checks, telephone calls, paperwork of various kinds, and the tremendous burden of managing the electronic health record and all that involves are not counted as productivity of any sort.  Physicians are basically expected to do all of that plus teaching and lecturing on their own time.  In one system where I worked you were given points for being a good citizen and eligible for some trivial reimbursement if it was apparent that you were doing more than cranking out RVUs (the standardized measure of productivity).
+
+This whole system of management is archaic in that it is a system that was set up to manage production workers and not knowledge workers with technical expertise.  Physician managers seem oblivious to the fact that the product of their organization rests solely in the expertise of their doctors.  A healthcare organization will only be that good and it is in the interest of that organization to retain and develop the careers of the best physicians they can find.  That is not the prevailing way that employed physicians are managed.  In fact, physicians are micromanaged and their decisions are routinely second guessed.  In the worst case scenario, if the physician disagrees with the financially based decisions of their managers they can be fired or politically scapegoated for not being a team player.  Some physicians may be subjected to several of these confrontations per day often over trivial cost savings.  In psychiatry for example, the arguments often arise over length of stay considerations where there is a set reimbursement for a hospital stay and the manager wants the person out sooner so the hospital can make more money.  The patient care goals of the physician based on their technical expertise and the financial goals of the case manager are discrepant.  That conflict is compounded by the fact that the managers do not have the professional credentials or the accountability of the physicians they are literally ordering around.
+    
+How do they do it at Google?  I consider engineers and doctors to be equivalent professions.  They  both require years of study and ongoing study.  They both have professional codes of conduct.  If there is any management on the technical side, engineers and physicians both want those people to have the best technical qualifications.  In that context the HBR article was interesting.  At one point Google wanted to try a completely "flat management system" with no managers.  Many of the engineers thought that it might recreate an academic environment similar to graduate school and produce a similar level of excitement and creativity.  That model resulted in upper management being flooded with human resources issues.  They eventually developed a system of managers with few layers designed to reduce micromanagement.  The example given was that some of the managers have up to 30 engineers reporting to them.  According to the engineer interviewed for the article: "There is only so much you can meddle with when you have 30 people on your team, so you have to focus on creating the best environment for engineers to make things happen."  This is a foreign concept in managed care.  Not only are physicians micromanaged but their work environment if frequently manipulated by various managers to decrease both their productivity and work-life balance.  It is a set up for burnout and suboptimal intellectual performance.
+
+The following table is a good example of the differences between how Google manages their engineers to remain a state of the art engineering company with an emphasis on technical expertise.  There are very few medical organizations that have a similar focus.  The ones that do are usually criticized by managed care companies and dropped from their networks for being "too expensive."  As a physician ask yourself which environment you would prefer to work in.  Imagine working on the most exciting and intellectually stimulating team you have ever worked on in your training compared with where you currently work.  As a patient, the question is no less significant.  Do you want a physician who is excited about practicing medicine, who is intellectually stimulated, and not burned out or do you want a physician as they are currently managed?
+
+
+Google Managers
+
+Physician Managers
+Micromanagement is prevented
+
+Micromanagement is the rule of the day
+Work environment is optimized for engineering work
+
+Work environment is optimized for managers
+Respect for technical expertise and problem solving rather than title and formal authority.
+
+Strictly chain of command often flows from people with no technical expertise.
+Good manager empowers the team.
+
+Good manager empowers themselves and their boss.
+
+Helps with career development.
+
+At the minimum does not care about career development and at the worst may try to actively interfere with professional career.
+
+Has technical skills to help and advise the team.
+
+Has no technical skills and often has no medical degree or license.
+Productive and results oriented.
+
+Productivity is measured in adjusting physician productivity units
+
+
+I used to work in a clinic that was analogous to Google in that we were: "A clinic built by physicians for physicians."  Our mission was to provide care to all people irrespective of their ability to pay.  We did not have a lot of resources, but we were good at our mission.  The collegial atmosphere was excellent and we did not make a lot of money.  It was an incredible learning environment where psychiatrists routinely interacted with colleagues from all specialties.  It was acquired by a managed care company and was managed less and less like Google.  Today all of its management parameters rest fully on the right side of the table.
+
+The best management for knowledge workers is known.  Why don't we see it applied to physicians?
+
+And yes, that is a rhetorical question.
+
+George Dawson, MD, DFAPA

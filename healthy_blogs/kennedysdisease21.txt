@@ -1,0 +1,27 @@
+Profiles of Young Researchers
+
+In an earlier post called, "The Nine Stages," I mentioned "Hope" was the ninth stage. I ended the post by saying, "With acceptance, and armed with the additional knowledge that researchers were working diligently towards finding a treatment and potentially a cure, I discovered something that had been missing recently in my life – Hope." In another post, "Another Ray of Hope on the Research Front," I commented, "how fortunate we are that another generation has picked up the baton and continues to move towards the finish line (finding a treatment or cure). As long as someone is carrying the baton, we have hope."
+
+In this post, I wish to recognize another researcher who is carrying the baton:
+
+Isabella Palazzolo, Ph.D., is a researcher for the Massachusetts General Institute for Neurodegenerative Diseases (MIND), at the Massachusetts General Hospital, Harvard Medical School, in Charlestown, MA.
+
+Bruce: Why did you decide to focus your research on Kennedy's Disease?
+
+Isabella: My first interest, when I was still in undergraduate school, has always been the neurons. When I met my first mentor, Angelo Poletti, I discovered the motor neurons, and I found it extremely interesting how those tiny cells in our spinal cord can modulate the movements of all our body for our entire life. I think the equilibrium inside those cells is amazing and I am really curious to understand it better, to find what goes wrong in disease and how to fix it.
+
+Bruce: Do you personally know anyone with Kennedy's Disease?
+
+Isabella: I feel lucky, because three years ago I had the occasion to join the KDA meeting. That event gave me a bunch of new reasons to study and work on Kennedy's disease. Everyone that I met, patients and patients' families, was and is a real example of dedicated, lovely, brave people. I believe the meeting with you guys (the KDA Conference) in Atlanta 2006 was really the changing point for my scientific life.
+
+Bruce: Briefly summarize what you are currently working on and why you feel it is important in KD research.
+
+Isabella: I've been working for the past three years in Dr. Fischbeck's lab, under the supervision of Maria Pennuto. Both these people should be acknowledged for what I have done so far. As I said before, my starting point is the equilibrium in the motor neuron. I believe it is extremely important to imagine being in the motor neurons: there, the AR is in solution, and in contact with other proteins around it. It is charged, positively and negatively, and the charge on the surface regulates the way it communicates and interacts with other proteins. When polyQ is expanded, interactions between proteins change and the AR becomes toxic. So, I decided to study how I can change them again, in order to reverse/counteract the toxicity of the polyQ. I think that attaching a phosphate group [phosphorylation] or a molecule of ubiquitin [ubiquitination] is a good tool to change protein-protein interactions. Thus, I studied the consequences of AR phosphorylation by Akt, a kinase that was protective in Huntington's Disease also. We found that this phosphorylation is indeed protective, in cells, in flies and in a mouse model with SBMA (Kennedy's Disease). My interest now is to understand why, what happens to the phosphorylated-AR in the motor neurons. I think this study is important because it highlighted a potential therapy for SBMA (Kennedy's Disease). Akt activity can be stimulated by Insulin-like growth factor I (IGF-1), and we demonstrated that IGF-1 is protective in cells and mice. I also think it is important to identify what happen to the phosphorylated AR as this might identify new targets for therapies, and will hopefully help to understand the mechanisms of the disease.
+
+Bruce: What are your aspirations (career goals)?
+
+Isabella: I really like translational research. Now, I have just started my PhD and I did bring some SBMA in my new lab. I would love to keep working on neurodegenerative diseases and SBMA in particular. My long-term question is once again how can I use post-translational modifications [=phosphorylation/ ubiquitination/ ecc] to target mutant proteins and reduce their toxicity, and what is the mechanisms behind.
+
+Bruce: Is there anything else interesting you would like to mention?
+
+Isabella: I would like to thank once again all my previous and current mentors: Angelo Poletti, for teaching me all that I know about the AR, Maria Pennuto and Kurt Fischbeck, for being such great examples of successful and determined scientists, and Dimitri Krainc, for is open-minded approach to science and for giving me the possibility to keep working on SBMA in his lab. Last, but not least, thanks again to the KDA association meeting. It is really motivating.

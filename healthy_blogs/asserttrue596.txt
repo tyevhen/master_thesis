@@ -1,0 +1,17 @@
+Yesterday, I made it through Day One of developer training at Day Software's Boston office. It was an interesting experience.
+
+There are eight of us in the class. Interestingly, two of the eight enrollees have little or no Java experience (one is not a developer); most of the rest have varied J2EE backgrounds. All are (as you'd expect) relatively new Day customers. One is from an organization that is trying to migrate away from Serena Collage. The organization in question chose Day over Ektron partly on the basis of the flexibility afforded by Day's Java Content Repository architecture, which is relatively forgiving when it comes to making ad hoc changes to the content model over time. (We spent a fair amount of time discussing David Nüscheler's Seven Rules for Content Modeling.)
+
+We spent much of the morning talking about architecture, standards, and the Day technology stack, which is built on OSGi, JCR (JSR-283), Apache Jackrabbit, and Apache Sling. Surprisingly (to me), OSGi was an unfamiliar topic to a number of people. The fact that bundles could be started and stopped without taking the server down was, for example, a new concept for some.
+
+All of us were given USB memory sticks containing the Day Communiqué distribution (and a training license), and we were asked to install the product locally from the flash drive. A couple of people had trouble getting the product to launch (they received the dreaded "Server not ready, browser not launched" message). In one case, it was a firewall issue that was easily resolved. In another case, someone was using Java 1.3 (the product requires 1.5, minimum). A third person had trouble getting WebDAV to work on Windows 7. I noticed, in general, that the people with the fewest problems (all the way through the class) were using Macs.
+
+We were shown how to access the CQ Servlet Engine administration console, the CRX launchpad UI and Content Explorer, and the Apache Felix (OSGi) console, as well as the CRXDE Lite integrated development environment -- a very nice browser-based IDE for doing repository administration and JSP development, among other tasks.
+
+We were also shown how to (and in fact we did) set up author and publish instances of CQ on our local drives, and replicate content back and forth between them.
+
+In the afternoon, we did a variety of hands-on exercises designed to show how to create and manipulate nodes and properties in the repository; how to create folder structures; how to create templates; and finally, how to create components and Pages. (At last, we got our hands dirty with JSPs.)
+
+Some students had trouble getting used to the fact that in JCR, everything is either a node or a property. "Folders" in the repository, for example, are actually nodes of type nt:folder. If you use WebDAV to drag and drop a file into a folder, the file becomes a node of type nt:file and the content of the file is now under a jcr:content node with a jcr:data property holding the actual content. It requires a new way of thinking. But once you get the hang of it, it's not hard at all.
+
+Day Two promises to be interesting as we take a closer look at Sling, URL decomposition and script resolution, and component hierarchies. Hopefully, we'll get even more JSP under our fingernails!

@@ -1,0 +1,17 @@
+A very unusual and surprising property of protein-coding genes is that if a codon A appears with a certain frequency in genes, the reverse-complement codon of A will also have a similar frequency of occurrence. For example: If CTT (leucine) appears at a frequency of 1%, the reverse complement codon AAG (lysine) will also appear at roughly 1%. If CGT (arginine) appears at 0.2%, ACG (threonine) will appear at around 0.2%. (These are whole-genome frequencies.)
+
+This correlation is strongest (r=0.75) for organisms with a high genomic G+C content, such as Streptomyces griseus, and lowest (r=0.28) in low-GC organisms like Clostridium botulinum.
+
+This is a very peculiar property, when you think about it. We don't usually imagine an organism being constrained in its choice of codons for a particular protein. If a particular protein calls for a huge amount of leucines (CTTCTTCTT) we don't imagine that there's a requirement for an equivalent quantity of AAG to be used somewhere else. And yet, the correlation between frequency-of-occurrence of a codon and its antisymmetric twin is, as I say, surprisingly high in many organisms.
+
+This sort of thing is very hard to explain without invoking a theory of proteogenesis that involves antisense proteins. Imagine a poly-lysine gene of AAA repeated 100 times. The gene gets duplicated on the opposite strand. Now the original strand has 100 AAAs and a run of 100 TTTs. If a reading frame opens up on the TTT stretch (and the protein is beneficial to the organism; it survives), there is now codon/anticodon parity of the kind I'm describing, between codons in the poly-lysine gene and the poly-phenylalanine (TTT) gene.
+
+Why does this relationship hold for high-GC organisms but not as much for low-GC organisms? Probably because antisense genes in high-AT organisms contain a lot of stop codons (TAA, TGA, TAG, which by the way occur at about the same frequencies as TTA, TCA, and CTA, respectively). The presence of few stop codons in high-GC antisense genes gives those genes a chance to be expressed and evolve further. Of course, if you buy this theory, it tends to argue for a "GC World"  scenario in which the early proteosome evolved from GC-rich double-stranded genomes.
+
+To illustrate the unusual correlation I'm talking about, I took the codon frequencies of Pseudomonas fluorescens PF01 (genome-wide) and made a graph that plots the frequency of occurrence of each codon on the x-axis, versus the frequency of occurrence of the corresponding reverse-complement codon on the y-axis. (So if CTA occurs at 0.3% and TAG occurs at 0.2%, I plot a point at [0.3,  0.2].) The SVG graph (below) is interactive: You should be able to hover over a point and see a tooltip that shows the identity of the corresponding codon, and its reverse twin, and their respective frequencies.
+
+NOTE: If your browser does not support SVG, a PNG copy of the graph is here.
+
+The symmetry pattern is expected: For every codon/anticodon there's a corresponding anticodon/codon pair with frequencies swapped. What's more important than the symmetry pattern is the fact that frequency values in Y increase monotonically in X and vice versa, with a correlation coefficient in this case of r=0.63 (F-statistic 41, p < .001). This means that codons tend to occur at about the same frequencies as their reverse complement codons. There are outliers, to be sure, but the overall trend is statistically solid.
+*{stroke-linecap:square;stroke-linejoin:round;}
+Leave a comment if you have any thoughts on what's going on here.

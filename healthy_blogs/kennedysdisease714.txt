@@ -1,0 +1,24 @@
+The Kennedy’s Disease Association announced the recipients of the 2016 research Grants. The following projects have been awarded $50,000 each. Congratulations!
+
+Dr Bilal Malik, Professor Greensmith’s Lab, UCL, Institute of Neurology, UK
+
+Targeting pathways of disease in Spinal Bulbar and Muscular Atrophy (SBMA)
+
+Spinal and Bulbar Muscular Atrophy (SBMA), also known as Kennedy’s disease (KD), is adult-onset slowly progressing rare inherited neuromuscular disorder that primarily affects males. As yet there are no effective treatments that can cure the disease or delay its progression. The disease is primarily characterized by muscle weakness and wasting, and degeneration of motor neuron cells within the spinal cord and brain.
+
+Our aim is to establish why motor neurons and muscles degenerate in SBMA by investigating the genes and pathways that underlie disease. The identification of changes that occur early in disease may identify the mechanisms responsible for disease and help establish novel therapeutic targets. This proposal offers the unique opportunity to undertake a comparative study of two platforms that model SBMA, each with its own merits: i) a well-characterized mouse model in which muscle and motor neurons can be examined at various stages of disease, and ii) human cell models, including stem-cell derived motor neurons and patient muscle cells acquired from biopsies. By comparing and contrasting the changes in gene expression in these models of the specific cells affected in SBMA we hope to identify the key changes in gene expression that take place early in disease, identifying a common signature in the pathways of pathology. The results of this study will not only help define novel therapeutic targets with a greater level of confidence by analyzing several complimentary models of SBMA, but also allow us to test treatment strategies in a human cell model of the disease.
+ ________________________
+
+Dr. Janghoo Lim, Yale University School of Medicine
+
+The role of VCP in the pathogenesis of Kennedy's disease
+
+Spinal and Bulbar Muscular Atrophy (SBMA; Kennedy’s Disease) is a neuromuscular disease that affects motor neurons and skeletal muscles. The symptoms of SBMA include progressive weakness of the limbs and facial muscles, as well as difficulty with speaking and swallowing.  SBMA is an X-linked disease that primarily affects men, and is caused by a polyglutamine expansion in the gene Androgen Receptor (AR). The polyglutamine expansion in AR makes the protein toxic, and can lead to the formation of protein aggregates inside of cells as well as cell death. SBMA is one of nine different polyglutamine expansion disorders that are linked to neurodegeneration. How polyglutamine expanded AR causes SBMA is still being studied, and there are no effective therapeutics available. In order to better understand the mechanisms that cause SBMA and translate these results into the development of effective therapeutics, my proposal aims to assess how the protein Valosin-Containing Protein (VCP) is involved in SBMA.  VCP plays a role in breaking down mutant or damaged proteins, and has been studied in other neurodegenerative disorders. Based on our preliminary data, we hypothesize that VCP can regulate the expression and/or the activity of polyglutamine expanded AR. Our proposal will examine how VCP affects the development of protein aggregates and cell death in SBMA. We will use cell culture models and fruit flies, both of which are commonly used to study SBMA. This research will help develop a more thorough understanding of what causes SBMA, and provide important information when developing new therapeutics for this devastating disease.
+_________________________
+
+Manuela Basso, Ph.D., Assistant Professor, Laboratory of Transcriptional Neurobiology, Centre for Integrative Biology, University of Trento, Italy
+
+Insights into the molecular pathology of SBMA: Targeting PRMT6 to attenuate the disease
+
+
+In collaboration with the Laboratory of Dr. Pennuto, we have recently discovered that a protein, called PRMT6, exacerbates the toxicity induced by mutant androgen receptor, while its inhibition rescues it in cells and flies. Our strategy is to develop a therapy that preserves AR physiological functions while abolishing the toxicity acquired upon polyglutamine expansion. Thus, we propose to silence PRMT6 both via selective pharmacological inhibitors and via gene-silencing to choose the best system to move our studies in pre-clinical models.

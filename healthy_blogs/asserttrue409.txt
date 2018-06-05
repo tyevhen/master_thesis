@@ -1,0 +1,31 @@
+When I was in grad school (U.C. Davis) in the late 1970s, the bacterial world was simply the prokaryotic world, and vice versa. There hadn't yet come a distinction between eubacteria and Archaea. But now we know, or think we know, that prokaryota come in two fundamental flavors: the true bacteria (eubacteria), and the Archaea (primitive extremophiles). If you were to want to count organelles (mitochondria, chloroplasts, others) as a third fundamental grouping, I suppose you could, with some justification.
+
+At this writing, about 400 distinct Archaeal isolates, belonging to around 75 genera, have been DNA-sequenced. You can see a list of them by going to http://genomevolution.org/CoGe/OrganismView.pl?org_desc=Archaea and looking in the Organisms box. You'll see over 200 organisms listed, but bear in mind they belong to only about 75 genera. (Most genera are represented by more than one species and/or more than one isolate per species, in other words.)
+
+Salt-loving Archaea species have been found growing in borax-saturated
+desert ponds. The species growing in this small lake produce a
+carotenoid pigment that gives the water a pink appearance.
+The Archaea were once thought to be exclusively anaerobes, but it turns out there are a couple dozen aerobic (or facultatively anaerobic) genera in the group. In my own spare-time research, I've found that about 20% of the 75 sequenced Archaeons (all of them obligate anaerobes) have a catalase gene. (Catalase is the enzyme that breaks hydrogen peroxide down to water and oxygen.) Oddly, very few of the aerobic Archaea (except for the Halobacteriaceae group) show any evidence of having catalase. This is exactly the reverse of what's expected. In the rest of the living kingdom (from bacteria to higher plants and animals), aerobes universally have catalase; strict anaerobes don't have catalase (or at least, they aren't supposed to; but see this post for some surprising exceptions).
+
+This is a hugely unexpected finding: Many anaerobic Archaeons have catalase, but not all aerobic ones do. Some enterprising grad student should tackle this and make a thesis project out of it.
+
+In case you're that student, here are some additional clues.
+
+Let's back up for a second and look at the Big Picture. No matter where on the Tree of Life you go, catalases come in only a few major types. (See the excellent 2003 review paper by Chelikani, Fita, and Loewen for details.) For example, there are heme-containing and non-heme catalases. Most of the time, what we think of as "catalase" is heme-containing catalase (and yes, that means it contains iron). In the heme-containing group, you have monofunctional catalase as well as bifunctional catalase-peroxidases or hydroperoxidases (katG). The monofunctionals come in big- and small-subunit varieties. (The biggies have subunits of 75 kDa or more and comprise just over 2100 base-pairs of DNA. The smalls have subunits under 60 kDa and typically top out at 1500 base-pairs.)
+
+Here's what you really need to know: Within the monofunctionals, there are three clades (major subgroupings) of catalase. Clades 1 and 3 are small-subunit enzymes. Clade 1 is primarily of plant origin and is relatively rare in bacteria (the best-known examples probably being katX of Bacillus subtilis and catF of Pseudomonas syringae). Clade 3 takes in a huge number of catalases from bacteria, fungi, and various eukaryotes. (For Clade 3, think Staphylococcus catalase.)  Clade 2 is the large-subunit enzyme (think E. coli katE catalase).
+
+The multifunctionals tend to be large (over 2100 base-pairs of DNA).
+
+The non-heme catalases contain manganese instead of iron and are not your typical catalases. Let's leave it at that.
+
+What do the Archaeons produce? From what little probing I've done, it seems the anaerobic Archaeons that have catalase use a modified Clade 3 type of enzyme that has little in common with other Clade 3 catalases. A few of the methane producers show good sequence agreement with Bacteroides fragilis catalase, but most anaerobic Archaeal catalases do not show good sequence concordance with any known eubacterial catalases. So it's entirely possible that a fourth clade of purely Archaeal small-subunit catalases (unlike anything else in the plant or animal worlds) awaits characterization.
+
+The aerobic Archaeons that have catalase are all halophiles (members of the Halobacteriaceae), and all have large-subunit multifunctional peroxidases similar to those of the Cyanobacteria.
+
+Mysteries waiting to be solved:
+Why is it the aerobes Sulfolobus, Pyrobaculum, and Aeropyrum do not appear to have catalase? Is it that they don't have catalase, or do they have some as-yet-undiscovered new type of catalase?
+Why is it that certain methane-generating anaerobes (e.g., Methanosarcina) have Clade 3 catalases but the rest of the methane-producing Archaea have catalases that don't match anything else in the living world? Did the former group get their catalase(s) by way of horizontal gene transfer from anaerobic eubacteria?
+Did the multifunctional catalases of the Halobacteriaceae originally come from cyanobacteria (perhaps by way of plasmids)?
+What overlap, if any, exists between Archaeal catalases and the catalases of algal chloroplasts?
+If you find the answers to any of these, let me know!

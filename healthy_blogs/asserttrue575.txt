@@ -1,0 +1,57 @@
+Lately I've spent some time programming against the <canvas> API. Predictably, I encountered all the common beginner's mistakes, and had to work through them. Along the way, I learned a number of useful things about canvas programming, some basic, some not-so-basic. Here's a quick summary:
+
+1. To avoid security errors, always serve your HTML (and scripts) from the same server as any images you're going to be working with. (Corollary: Don't "serve" your HTML and images from the local filesystem. That's a sure way to get security errors.) Install a local instance of Apache web server (or some other web server) and serve content to your browser from localhost, if need be.
+
+2. If you're modifying pixels using context.getImageData( ), use putImageData( ) to draw back to the image, and be sure to supply all 3 arguments to putImageData( )! Here is a common pattern:
+
+function doSomething() {
+
+var canvasData =
+ context.getImageData(0, 0, imageObj.width, imageObj.height);
+
+ for (var x = 0; x < w; x++) {
+   for (var y = 0; y < h; y++) {
+       var idx = (x + y * w) * 4;
+       var r = canvasData.data[idx + 0];
+       var g = canvasData.data[idx + 1];
+       var b = canvasData.data[idx + 2];
+
+      // do something to r,g,b here
+
+       canvasData.data[idx + 0] = r;
+       canvasData.data[idx + 1] = g;
+       canvasData.data[idx + 2] = b;
+   }
+ }
+
+// draw it back out to the screen:
+context.putImageData(canvasData, 0, 0);
+}
+
+Notice the three arguments to putImageData(). The final two args are the x and y position at which to draw the image. If you forget those two args, expect errors.
+
+
+3. You can draw offscreen by simply creating a canvas element programmatically. Like this:
+    imageObj = new Image();
+   imageObj.src = "http://localhost:4502/content/lena.png";
+      
+   function getOffscreenContext(imageObj) {
+      var offscreenCanvas = document.createElement("canvas");
+      offscreenCanvas.width = imageObj.width;
+      offscreenCanvas.height = imageObj.height;
+      return offscreenCanvas.getContext("2d");
+   }
+
+If you use this function (or one like it), you can keep an offscreen copy of your image around, which can be extremely handy.
+
+4. You can save programmatically created/modified images offline. The trick is to slurp the canvas into a data URL and then open or display that URL in a new frame or window where you can right-click it to get the usual image-save options from the browser. Something like this:
+
+myImage = canvas.toDataURL("image/png"); 
+window.open( myImage );  // opens in new window as a PNG
+
+This serializes the image as a (big, huge) data URL, then opens the image in a new window. The new window contains a PNG image, plain and simple.
+
+5. Any time you assign a value to canvas.width or canvas.height, you will wipe the canvas clean! This is both weird and handy. Just doing canvas.width = canvas.width will instantly erase the canvas.
+
+
+6. When all else fails, consult the HTML 5 Canvas Cheatsheet.

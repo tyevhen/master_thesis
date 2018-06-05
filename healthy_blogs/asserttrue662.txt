@@ -1,0 +1,56 @@
+The somewhat blurry image on the left was sharpened, to produce the image on the right, using the two dozen or so lines of JavaScript code shown further below (run in conjunction with the ImageMunger Java app; see text for details).
+
+As with contrast adjustment, sharpening an image can be thought of as an exercise in weak signal amplification. Generally it means making the differences between neighboring pixels more noticeable. You can do this by brute-force analysis of pixels, of course, but area operators -- kernel-based convolutions -- are the clean way to go.
+
+A convolution kernel is a 2D matrix of numbers that can be used as coefficients for numerical operations on pixels. Suppose you have a 3x3 kernel that looks like this:
+1 2 1
+2 0 2
+1 2 1
+As you loop over all pixels in the image, you would, for any given pixel, multiply the pixel itself by zero; multiply the pixel directly above the given pixel by 2; also multiply by 2 the pixels to the left, right, and below the pixel in question; multiply by one the pixels at 2 o'clock, 4 o'clock, 8 o'clock, and 10 o'clock to the pixel in question; add all these numeric values together; and divide by 9 (the kernel size). The result is the new pixel value for the given pixel. Repeat for each pixel in the image.
+
+In the example just cited, the kernel (1 2 1 etc.) would end up smoothing or blurring the image, because in essence we are replacing a given pixel's value with a weighted average of surrounding pixel values. To sharpen an image, you'd want to use a kernel that takes the differences of pixels. For example:
+ 0 -1  0
+-1  5 -1
+0 -1  0
+This kernel would achieve a differencing between the center pixel and pixels immediately to the north, south, east, and west. It would cause a fairly harsh, small-radius (high frequency) sharpening-up of image features.
+
+It turns out, Java has good support for kernel-based 2D convolutions of images using java.awt.image.Kernel and java.awt.image.ConvolveOp. It takes only a few lines of JavaScript to run a convolution kernel against a JPEG (or other image) to achieve sharpening of the image; see code listing below. (A few days ago, I posted code for a small Java app -- called ImageMunger -- that opens an image of your choice and runs a script against it. You may want to use that app to run the following code.)
+
+kernel = [ .25, -2, .25,
+        -2, 10,  -2,
+       .25, -2, .25 ];
+
+function normalizeKernel( ar ) {
+
+  for (var i = 0, n = 0; i < ar.length; i++)
+  n += ar[i];
+  for (var i = 0; i < ar.length; i++)
+  ar[i] /= n;
+
+  return ar;
+}
+
+kernel = normalizeKernel( kernel );
+
+k = new java.awt.image.Kernel( 3,3,kernel );
+convolver = 
+new java.awt.image.ConvolveOp( k,
+ java.awt.image.ConvolveOp.EDGE_NO_OP,
+       null);
+
+
+target =
+  new java.awt.image.BufferedImage( Image.getWidth(),
+       Image.getHeight(),Image.getType() );
+
+g = target.createGraphics( );
+g.drawImage( Image, null,0,0 );
+g.dispose();
+Image = convolver.filter( target, Image );
+Panel.updatePanel( );
+Recall that the ImageMunger app I talked about here a few days ago exports a couple of global variables to the JavaScript context: namely, Image (a handle to the BufferedImage) and Panel (a reference to the JComponent in which the image is being displayed). With the aid of those globals and appropriate calls to JRE methods, it's very easy to run a convolution. Easy and fast: Expect to process around a thousand pixels per millisecond.
+
+Future projects:
+Programmatically generate and initialize large kernels. Have a slider-based UI that performs interesting initializations of kernel values.
+Kernel-based sharpening tends to preferentially add high frequencies to an image, which can be problematic in images that have lots of areas of high-frequency noise. Create a "smart sharpen" algorithm that dynamically tunes the frequency of the sharpening (kernel values) according to the natural "humm" (the natural frequencies) of the area or areas that are being sharpened.
+As a side benefit of the foregoing, create a sharpening algorithm that won't sharpen JPEG artifacts.

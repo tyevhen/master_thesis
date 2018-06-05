@@ -1,0 +1,106 @@
+As a student of all things weird and wonderful, I have this horrible habit of stopping what I'm doing, in the middle of the work day, to investigate this or that oddball idea (making a Detour to Codeville), and then five minutes later, an hour's gone by (but I've learned a heck of a lot).
+
+That's kind of what happened yesterday, when I suddenly had to know not just how many words are in my latest book (I already knew that: 128,331) but what the total vocabulary of the book is: how many unique words. OpenOffice doesn't tell you that.
+
+Thus began what should have been a five-minute coding adventure. But if you're a coder, you know I'm talking code-talk here, because five-minute coding adventure actually means hour-long bumbling misadventure leading to multiple head-slap Aha! moments, a few of which I just have to share with you in terms of graphs. Prepare to be amazed. (Fast-forward to the graphs, if you don't speak code.)
+
+Getting the vocab count on my book Of Two Minds wasn't that hard. First, I had OpenOffice output the book as HTML, then I opened it in Firefox and (in a Scratchpad window) typed the following code:
+
+  var text = document.body.textContent;
+
+  var wordMatch = /\b\w+('|-)?\w*\b/gi; // magic
+
+  var theWords = text.match( wordMatch );
+
+  var vocab = new Object; // get counts here
+    for ( var i=0; i != totalMatches; i++ )
+   if ( theWords[i].toLowerCase() in vocab )
+     vocab[ theWords[i].toLowerCase() ]++; // bump count
+   else
+     vocab[ theWords[i].toLowerCase() ] = 1; // start counting
+
+  var results = [];  // collect results here
+
+  for ( var k in vocab )
+    results.push( [ k, vocab[k] ] );
+
+The magic is in the regular expression /\b\w+('|-)?\w*\b/gi, which is geek for "match a word boundary, \b, followed by one or more letters (\w+), optionally followed by an apostrophe or hyphen, followed by zero or more (*) word characters \w, followed by a word boundary \b, and do this globally in case-insensitive manner (gi)."
+
+Thus, this regex will match can't as well as cant, but wouldn't've correctly matched wouldn't've, nor overly-hyphenated-expressions (treating each of those as two words). Close enough, though, right?
+
+The other lines of code show how to tally unique words in an Object, which in JS is just a hash table (a table that will essentially let you use 'anyArbitraryText' as a key to store and look up values).
+
+Once I had the results (all unique words) stored in a results array, I decided why not sort the array by word frequency? Bear in mind each array member is, itself, a mini-array of [ word, count ].
+
+  function comparator(a,b) {
+     var count1 = a[1];
+     var count2 = b[1];
+     return count2 - count1;
+  }
+
+  return results.sort( comparator );
+
+All of this gets wrapped in a function, returning the sorted results array.
+
+Okay, so now the fun begins, because not only can I look at results.length to get the vocabulary count (which turns out to be huge: over 14,000) but I can now make a graph of word count by rank order. First I should tell you that around 1,000 "junk words" showed up in my initial attempt at a vocab count, due to things like single-letter matches of people's initials in footnotes ("R. L. Smith" gives three "words"), and other mischief, so I later modified the magic regex (inserting a \w) to force recognition of just two-letters-or-longer words. Which gave a vocab count of 12,886.
+
+The top 20 words, by the way (minus one-letter words) are:
+
+Word Count
+the 4990
+of 3430
+to 3237
+and 2516
+in 2344
+that 1654
+it 1487
+you 1333
+for 1325
+is 1163
+was 1048
+with 866
+on 850
+or 836
+at 725
+as 659
+be 638
+but 635
+not 623
+my 577
+
+Geeks already know what's coming next. When you make a graph of word counts versus rank index, you find a curious phenomenon. Harvard linguistics professor George Kingsley Zipf was first to become fixated on the weird fact that the most frequent word, in English (or any other language), will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, and so on, implying a power law, which means (skipping some math here) that if you plot the logarithm of a word's rank against the log of its frequency (count), you should get a straight line. Here's the plot for Of Two Minds:
+
+Zipf plot of word frequency (count) vs. rank order for words in Of Two Minds. Click to enlarge.
+As you can see, to a first approximation, the top 250 words in Of Two Minds show a striking power-law distribution pattern. Classic Zipf Law. I could have chosen the middle 1,000 words and gotten the same graph. (One of the characteristics of power-law relationships is that they are scale-invariant. Any part of the curve looks like any part of the curve.)
+
+But here's the interesting thing. Since the code was already written (and trivial to modify), I decided to extract the vocabulary of 3-letter words and see if Zipf's Law applied to just those words. The graph I got looked like this:
+
+Zipf plot of 3-letter words in Of Two Minds.
+The Zipf relationship still holds (arguably). Three-letter words obey Zipf's Law. Of course, being a degenerate code whore  experimenter, I decided to go a step further and investigate 5-letter words. Surely 5-letter words are too perverse and unique in their special context requirements to obey any "power law"? This is the graph:
+
+Zipf plot of 5-letter words in Of Two Minds.
+A bit wavy, but still arguably a Zipf Law example.
+
+At this point, drunk with power, I decided to wield my world-destroying code-wrangling abilities in a new way: I looked at the stats for my top 50 Tweets (you can download a spreadsheet of your Twitter statistics, from Twitter), sorted the "impressions" numbers (to rank them), then did a plot of log impressions versus log rank, and guess what?
+
+My top 50 Tweets of all time, plotted as log impressions vs. log rank.
+
+A classic Zipf Law situation (again)! If anything, the relationship of Tweet traffic to rank order is more Zipf-like than the relationship of word frequency to word rank.
+
+So at this point, I'm thinking: "Okay, I know that if I do the same trick using blog traffic, I'm apt to see a power-law relationship again." But I've also long suspected that a couple of high-traffic posts (with way higher than normal traffic) are acting as honeypots for bots and spiders. Can Zipf's Law be used forensically, to detect out-of-whack numbers in a set of traffic stats?
+
+I did a plot of log traffic vs. log rank for the last 270 posts on this blog:
+
+Log traffic vs. log rank for 270 posts on this blog.
+Notice the bulge caused by the 3rd and 4th points (from the left) on this plot. Those two blog posts, "Science on the Desktop" and "Nitric Oxide, Antidepressants, and Sexual Side Effects," with combined traffic of over 300,000 page-views, have always struck me as being bot-bait, because as worthy as those two posts are, I can't see how they'd draw that much human traffic, really, and the traffic numbers just keep piling on, week after week; are people really coming back to those posts over and over again? I think not. I think our friend G.K. Zipf is telling us that the two points that don't fit the left part of this curve are spurious. In other words, a Zipf plot has forensic utility, because it can tell you which points do not obey the power law and are therefore errant in some fashion.
+
+Zipf Law, a.k.a. power-law (Pareto), distributions are worth taking time to understand, because they underlie so many natural phenomena. Zipf-Pareto distributions accurately describe the size of craters on the moon, word frequencies in languages, sales curves for bestselling books, intensity of solar flares, citations of scientific papers, wealth distribution, city-size distribution, and many other natural distributions. (See this excellent paper for details.) This is a fundamental phenomenon of nature, with huge forensic implications, because (think about it), if Zipf-Pareto describes bestselling book stats, you should be able to detect whether an author is "gaming the system" by looking for books whose sales stand out to an incredible degree. In any system that follows Zipf-Pareto laws, outliers (points that don't fall on the curve) are suspect; they have forensic importance, potentially.
+
+Aren't you glad you took this Detour to Codeville with me? You can join the main highway again now. Coffee break's over. Back to standing on our heads.
+
+Have you joined the mailing list? What are you waiting for? 
+ 
+
+☙ ❧
+
+I want to thank the following great tweeps for retweeting me yesterday. Click into these profile pics and Follow these people on Twitter! They retweet!

@@ -1,0 +1,5 @@
+I have always wondered how easy or hard it might be to write a program that can crack CAPTCHAs (those messed-up-text thingies you have to decipher in order to leave a comment on certain blogs or get a new account on Gmail, such as shown here). Two researchers give a great account of how they cracked Yahoo's Gimpy CAPTCHA system at http://www.cs.sfu.ca/~mori/research/gimpy/. Their algorithm works over 90 percent of the time. I don't know how old their work is or whether Yahoo has changed its CAPTCHA system in the interim. But it is interesting work nonetheless.
+
+It is interesting to reflect on the fact that even a CAPTCHA-cracking algorithm with a dismal success rate (say 10 percent) is still plenty good enough for spammers who need to be able to create bogus e-mail accounts by the thousands via crackbots.
+
+Judging from the amount of spam that gets by my spam filters every day, I'm pretty sure professional spammers are creating better and better CAPTCHA-defeating algorithms every day.

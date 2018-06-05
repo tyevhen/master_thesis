@@ -1,0 +1,13 @@
+The astonishing finding (widely reported) that Adobe Photoshop is on the list of top-ten most wanted Linux applications tells me a couple of things.
+
+It pretty clearly says that GIMP needs to suck a lot less.
+
+Secondly, it tells me Adobe Systems doesn't really care about the Linux market (much less the community).
+
+Adobe's Pam Deziel admits that the shrinkwrap giant has known for some time (well before the Novell survey) about the pent-up demand for a Linux version of Photoshop, based on its own research.
+
+So in other words, Adobe has known for some time that it could make money tomorrow by offering a commercial version of Photoshop on Linux. It chooses to leave this money on the table (shareholders be damned). Not a big enough market, says Adobe.
+
+How, then, does Adobe explain the fact that it currently offers a Solaris version of FrameMaker 7.2? FrameMaker has nowhere near as many users as Photoshop, and Solaris is nowhere near as popular as Linux.
+
+Adobe's story is nowhere near making sense.

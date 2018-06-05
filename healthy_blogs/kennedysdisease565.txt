@@ -1,0 +1,15 @@
+A press release from U.C. – San Diego provides a new glimmer of hope in determining the cause and possible treatment of Kennedy’s Disease (SBMA).  The actual link to the article is: 
+http://health.ucsd.edu/news/releases/Pages/2014-04-16-mutant-protein-linked-to-sbma.aspx
+
+An excerpt of the article is shown below: 
+A new therapeutic target for Kennedy’s disease and a potential treatment  
+
+In the new paper, a team led by principal investigator Albert La Spada, MD, PhD, professor of pediatrics, cellular and molecular medicine, and neurosciences, and the associate director of the Institute for Genomic Medicine at UC San Diego, propose a different therapeutic target. After creating a new mouse model of SBMA, they discovered that skeletal muscle was the site of mutant protein toxicity and that measures which mitigated the protein’s influence in muscle suppressed symptoms of SBMA in treated mice, such as weight loss and progressive weakness, and increased survival.    
+ 
+In a related paper, published in the April 16, 2014 online issue of Cell Reports, La Spada and colleagues describe a potential treatment for SBMA. Currently, there is none.
+ 
+The scientists developed antisense oligonucleotides – sequences of synthesized genetic material – that suppressed androgen receptor (AR) gene expression in peripheral tissues, but not in the central nervous system. Mutations in the AR gene are the cause of SBMA, a discovery that La Spada made more than 20 years ago while a MD-PhD student. 
+ 
+La Spada said that antisense therapy helped mice modeling SBMA to recover lost muscle weight and strength and extended survival.  
+ 
+“The main points of these papers is that we have identified both a genetic cure and a drug cure for SBMA – at least in mice. The goal now is to further develop and refine these ideas so that we can ultimately test them in people,” La Spada said.

@@ -1,0 +1,23 @@
+It never ceases to amaze me that we're still, in some ways, hamstrung by the mechanical legacy of the Industrial Revolution in our day-to-day computing. The best example is probably the QWERTY keyboard, which impairs usability for millions of computer users daily.
+
+As you probably know, the QWERTY layout, conceived by James Densmore and patented by Christopher Sholes in 1878, was specifically designed to make it difficult for people to type fast on early typewriters. In other words, it was purposely designed and implemented as a usability antipattern. Fast typing caused jamming of mechanical typewriter keys, which were (in Densmore's time) returned to their original "rest" position by weights, not springs. We continue to live with the QWERTY legacy-layout today even though it is well accepted that other keyboard layouts (for English, at any rate) are much more usable.
+
+The best-known alternative layout for Latin-based alphabets is the Dvorak keyboard, which dates to the 1930s. The U.S. Navy did a study in World War Two that found that typing speed was 74 percent faster for Dvorak than for QWERTY, and accuracy better by 68 percent. Other studies (both by private industry and government) have tended to confirm this general result, although there's a considerable cult movement (given impetus by a 1990 article in the Journal of Law and Economics) claiming Dvorak usability to be nothing more than urban legend. (See further discussion here.)
+
+The studies of Dvorak typing accuracy have produced some interesting results. It's instructive to compare the most-mistyped English words for QWERTY users versus Dvorak users.
+
+The mere fact that your fingers travel dramatically less interkey distance when using Dvorak layout means less wrist, finger, and arm movement; thus Dvorak presents the potential for reduced risk of muscle fatigue and injury. This alone would seem to argue for more widespread adoption.
+
+Interestingly, variants of Dvorak are available for Swedish (Sworak), Greek, and other languages. Also, there's a single-handed-typing version of Dvorak, to help with accessibility.
+
+So, but. Let's assume for sake of argument that Dvorak is demonstrably better in some way (speed, accuracy, accessibility, risk of wrist injury) than QWERTY. Why are we still using QWERTY?
+
+It seems an influential 1956 General Services Administration study by Earle Strong, involving ten experienced government typists, concluded that Dvorak retraining of QWERTY typists was cost-ineffective. This study apparently was instrumental in sinking Dvorak's prospects, not so much because people put stock in its results as because of the government's role as a market-mover. The practical fact of the matter is that the U.S. Government is one of the largest keyboard purchasers in the world, and if a large customer convinces manufacturers to settle on a particular device design, it becomes a de facto standard for the rest of the industry, whether that design is good or not. (Today that sort of reasoning is less compelling than in the 1960s, but it's still a factor in market dynamics.)
+
+It turns out to be fairly easy to configure a Vista or Windows XP machine such that you can toggle between QWERTY and Dvorak with Alt-Shift, the way some people do with English and Russian layouts. Basically, to enable Dvorak, you just go to Control Panel, open the Regional and Language Options app, choose the Keyboards and Languages tab, then click the Change Keyboards button, and in the Text Services dialog, click the Add button. When you finally get to the Add Input Language dialog (see below), you can go to your language and locale, flip open the picker, and see if Dvorak is one of the listed options. In U.S. English, it is. (Click the screen shot to enlarge it.)
+
+
+
+If you have tried the Dvorak layout yourself, I'd be interested in hearing about your experiences, so please leave a comment.
+
+In the meantime, I hope to give the Dvorak layout a try myself this weekend, to see how it feels. In all honesty, I doubt I'll stay with it long enough to get back up to my QWERTY typing speed. But then again, if it improves my accuracy, I'll have to consider staying with it a while, becuase frankly my accuracy these dsya sucks.

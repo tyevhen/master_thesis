@@ -1,0 +1,35 @@
+On 22nd May 2014 the Court of Appeal heard the appeal by Wiltshire Council ([2014] EWCA Civ 712), who were in dispute with Hertfordshire County Council over who was responsible for Sec.117 aftercare for SQ.
+It’s sometimes astonishing to see the lengths (and legal expense) that local authorities go to in order to avoid accepting responsibility for Sec.117 aftercare. But then providing aftercare can be a very expensive business.
+It’s not unknown for local authorities to place troublesome Sec.3 patients in care homes in neighbouring authorities under Sec.117 aftercare, in the knowledge that the placement is of dubious suitability and may quite possibly break down. This then precipitates an assessment under the Mental Health Act conducted by the local AMHP service and a fresh detention under Sec.3 in the new local authority’s area – who then have to take responsibility for future aftercare.
+
+I know this sort of reprehensible behaviour is hard to believe, but it does happen from time to time.
+
+Anyway, to get back to Wiltshire v. Hertfordshire. SQ was born and lived in Wiltshire until 1995. He had been an adult mental health service user since 1989. In 1995, a court made him subject to Sec.37 with restrictions under Sec.41. He remained detained under Sec.37/41 in various hospitals outside Wiltshire until 2009, when he was discharged with a condition that he reside in a staffed hostel in Hertfordshire.
+
+Two years later, in 2011, he was recalled to a hospital in Hertfordshire. On 20th February 2014 he was again conditionally discharged to the same accommodation in Hertfordshire.
+Following his recall, Wiltshire attempted to transfer Sec.117 aftercare responsibility to Hertfordshire. Hertfordshire refused to accept this.
+
+Wiltshire requested judicial review of this decision, which was rejected twice. They then appealed to the Court of Appeal.
+
+People who make a study of these cases will be aware of the intricacies of the meaning of the word “residence”. Local authorities, used to, and strangely often still do, try to apply the term “ordinary residence” to the duty of provide aftercare under Sec.117.
+
+In fact, “ordinary residence” has nothing to do with the Mental Health Act at all. It is a definition which only has meaning under the National Assistance Act 1948.
+
+There’s a rather useful Department of Health Publication called Ordinary Residence: Guidance onthe identification of the ordinary residence of people in need of communitycare services, England. This document states:
+
+“Responsibility for the provision of accommodation and community care services under sections 21 and 29 of the 1948 Act is largely based on the concept of “ordinary residence”. However, there is no definition of “ordinary residence” in the 1948 Act. Therefore, the term should be given its ordinary and natural meaning subject to any interpretation by the courts.”
+  It goes on to say that ordinary residence “is the place a person has voluntarily adopted for a settled purpose for short or long duration. Ordinary residence can be acquired as soon as a person moves to an area if their move is voluntary and for settled purposes, irrespective of whether they own, or have an interest in, a property in another local authority area. There is no minimum period in which a person has to be living in a particular place for them to be considered ordinarily resident there, because it depends on the nature and quality of the connection with the new place.”
+The document goes on to point out that with Sec.117 the duty falls on the authorities “for the area in which the person concerned is resident or to which the person is sent on discharge by the hospital in which the person was detained.” It stresses (using bold type) that: “the term “resident” in the 1983 Act is not the same as “ordinarily resident” in the 1948 Act and therefore the deeming provisions (and other rules about ordinary residence explained in this guidance) do not apply.”
+So what of this recent judgment? This case shows Wiltshire trying desperately to extricate themselves from their Sec.117 duties.
+Wiltshire was seeking decisions on “whether the recall to hospital in 2011 resulted in SQ being owed a fresh duty under section 117 on leaving hospital in 2014; and secondly, if so, whether SQ was for the purposes of Section 117 “resident” in Hertfordshire’s area as at the date of the recall in 2011.”
+
+While there was “no dispute that, when SQ was conditionally discharged from hospital for the first time on 2nd March 2009, he was “resident” in Wiltshire for section 117 purposes”, Wiltshire was keen to establish that his prolonged residence in the accommodation in Hertfordshire meant that he was now “resident” within the meaning of the MHA in Hertfordshire.
+
+The Court of Appeal gave this short shrift. It observed that “Wiltshire did not suddenly cease to be the local services authority in whose area SQ was “resident” for section 117 purposes because on discharge he was sent to an address in Hertfordshire”.
+
+They also dismissed the contention that there were two distinct periods of detention, on the basis that, unlike a Sec.3, where someone can be discharged from the order, then detained again following a fresh assessment, the recall of a conditionally discharged patient continues to arise from the original court order, and “the chain of causation has never been broken.”
+
+The judgment concludes: “I consider it clear that where a person has been made subject to a hospital order with restrictions, then conditionally discharged, then recalled to hospital, and then conditionally discharged for a second time, for the purposes of s 117(3) of the Act he is still to be treated as “resident in the area” of the same local authority as that in which he lived before the original hospital order was made. This makes it unnecessary to consider whether or not a fresh duty to provide after-care services arose on SQ’s second discharge earlier this year. Whether the duty is a fresh one or a continuing one, on the facts of this case it is Wiltshire’s duty.”
+
+Using the same argument, these residence issues could equally apply to a patient made subject to Supervised Community Treatment following detention under Sec.3.
+  What is clear from this case is that, despite a growing body of case law establishing the meaning of “residence” for Sec.117 aftercare, local authorities are still trying to evade their duties.

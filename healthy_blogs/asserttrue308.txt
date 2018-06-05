@@ -1,0 +1,28 @@
+Virology (the study of viruses) is undergoing a quiet revolution. The discovery of the mammoth mimivirus and the NCLDV family of super-large viruses (with genomes equivalent in size and complexity to that of a small bacterium) have forced a reexamination of the nature and role of viruses in the biosphere.
+
+Traditionally, viruses have been seen as stray grabbags of genetic material whose genes are limited to replication functions (plus a few structural genes for capsid proteins), presumably mostly derived from host DNA. This point of view is now officially defunct. Many viral genes have no analog in the host world, and increasingly, large DNA viruses are found to contain genes for enzymes traditionally thought of as metabolic. (See the remarkable paper by Monier et al., "Horizontal gene transfer of an entire metabolic pathway between a eukaryotic alga and its DNA virus," in Genome Research, 2009.)
+
+The freshwater ciliate Paramecium bursaria is familiar to
+generations of biology students. The many green inclusions are
+Chlorella algae, living symbiotically inside the Paramecium.
+Even knowing this, I was stunned to find, recently, while browsing proteins at UniProt.org (yes, I need to get a life), that a virus of the Chlorella alga contains a gene for ATCase: aspartate transcarbamylase. (Don't worry, I'll explain.) A dozen strains of this virus have been DNA-sequenced, and they all contain a gene for ATCase (and you can see them here).
+
+Just so you know what the heck I'm talking about: The freshwater ciliate Paramecium (see photo) can often be found living in a symbiotic partnership with members of the algal genus Chlorella. The algae cells, living inside the Paramecium, allow the Paramecium to survive in high-sunlight/low-nutrient conditions. It's often said that the Paramecium also provides a means of locomotion for the otherwise non-motile algae. What's ironic is that the Chlorella genome has been found to contain flagellar genes (even though the alga itself doesn't swim), but that's another story.
+
+Most organisms in this world are vulnerable to viral infection, and it turns out Chlorella is no exception. Chlorella can become infected with PBCV-1 (Paramecium bursaria Chlorella virus), which is a DNA virus with a comparatively large 330-kilobase-pair genome. The latter genome has an amazing 800+ open reading frames, meaning it can (in theory) be encoding as many as 800+ genes, which is huge. Most of the gene sequences correspond to "uncharacterized proteins," at this point. We don't know what most of these proteins do.
+
+We do know what ATCase does. Aspartate transcarbamylase (also called aspartate carbamoyltransferase) is one of the best-studied enzymes in the history of enzymology. It catalyzes the first step in the biosynthesis of pyrimidines (e.g. uracil, cytosine, and thymine), which are essential for making RNA and DNA. Hence, virtually all living cells have this enzyme (even genome-reduced organisms like Buchnera aphidicola have it). But no viruses have it—except for the Paramecium bursaria Chlorella virus, that is. (In a quick check of the UniProt database, I was unable to find another virus that has this enzyme, although I found a tantalizing report in the literature from decades ago describing a several hundred percent increase in ATCase activity in virus-infected cowpea and soybean leaves.)
+
+It's interesting that the Chlorella virus isn't happy merely to use the host's existing pyrimidine pool. It brings its own copy of ATCase to speed things along, suggesting (perhaps) cytoplasmic pyrimidine nucleotide levels may be rate limiting (a bottleneck) for this virus's replication and transcription. Other viruses solve this problem by bringing their own nucleases with which to break down host RNA and DNA. The Chlorella virus has plenty of those as well.
+
+Certainly, if the Chlorella virus is actually making 800+ gene products, it's going to need a lot of uracil. But the virus also has genes for polysaccharide production, and uracil nucleotides are needed for those too. Whatever the reason, PBCV has decided it needs to bring its own ATCase gene.
+
+So the $64,000 question is: Where did this gene come from? Is it derived from Chlorella's own ATCase? Is it bacterial or archaeal? Is it uniquely viral?
+
+I ran a quick phylogenetic analysis of ATCase protein sequences from a handful of organisms using the phylogeny tools at http://www.phylogeny.fr. Here's the phylogeny tree I came up with:
+
+
+
+Reading from the top down, the first two organisms (Halorubrum and Thermococcus) are archaeons: single-cell extremophiles. The next four organisms, ending with E. coli, are bacteria. Notice that the PBCV virus (in blue-green) comes in a branch containing (underneath it) the host cell, Chlorella variabilis, two land plants (Genlisea, which is a carnivorous plant, and Glycine max, which is the soybean), and two algae (Chlamydomonas and Volvox). The clear implication is that the viral ATCase and the modern-day Chlorella ATCase both came from an ancient ancestor that pre-dates modern plants. (Note: For tips on how to interpret phylo-trees of this sort, be sure to check out the excellent post, How to Read a Phylogenetic Tree.)
+
+Strange and wonderful: that's virology for you.

@@ -1,0 +1,15 @@
+Just in time for Halloween, a post about candy, children, and behavior problems.  For many years, parents have noted an association between certain foods and their children's behavior.  "If he eats candy he's out of control."  "If she has anything with red dye in it, she'll be up all night."
+
+These observations have caused many parents to have intimate knowledge of ingredient lists of food items, searching for things like sunset yellow, tartrazine, sodium benzoate, carmoisine, ponceau 4R, allura red, and quinoline yellow.  Avoiding these can be challenging -- find a processed food without sodium benzoate.
+
+Double-blind, placebo-controlled trials have shown that artificial food colors have a significant effect in children with ADHD.  However, many have not been convinced of the association, given a lack of plausible explanations for how this range of food additives could cause behavior changes, including inattention, impulsivity, and overactivity.  Granted, any child will have these characteristics at times, but the Attention Deficit Hyperactivity Disorder (ADHD) diagnosis is reserved for those with such severe symptoms that they interfere with home and school functioning.  And, even in toddlers and 4th-graders without ADHD, food additives have been shown to have and adverse behavioral effect (McCann et al, 2007).
+
+Most of the treatments for ADHD have direct effects on the brain chemical, dopamine.  Indeed, genes influencing the dopamine system (eg, DRD4, DAT1) have been found to be involved.  Yet, there has not been clear evidence of a connection between food additives and dopamine.  There have been some observations that certain food dyes can provoke the release of histamine, causing hives and itching but also inattention, hyperactivity, and dopamine release in prefrontal brain areas.
+
+In the October issue of "the green journal" (American Journal of Psychiatry), McCann's group analyzed six genetic polymorphisms (I explained these here) involving genes affecting dopamine and histamine (Stevenson et al, 2010) in the same group of general population kids (not just those with ADHD) from the 2007 study.  What they found provides one possible explanation for why these additives cause behavior problems.
+
+They found that two polymorphisms in the histamine enzyme gene, HNMT, and one in the dopamine transporter (DAT1) gene, were associated with inattentive and hyperactive symptoms when kids were given juice with the additives in it, compared with juice without the additives.
+
+Meaning that children with these specific polymorphisms (think a genetic code swap, like the difference between "their" and "thier") will have an enhanced effect of histamine on their brain's histamine (H3) receptors and an altered effect of dopamine on the brain.
+
+So, what's it mean?  It means those parents were right, of course.  And, for foods that are targeted for children, the food industry now should pay attention (!) to finding alternatives to these artificial chemical additives.

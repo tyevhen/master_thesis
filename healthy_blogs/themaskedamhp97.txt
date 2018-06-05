@@ -1,0 +1,60 @@
+If you’ve ever been detained under the Mental Health Act, or if you’ve ever been involved in an assessment, you will at some point have seen the Approved Mental Health Professional produce a set of pink forms, which the AMHP and the doctors then fill in.
+
+The filling in process is usually done out of the sight of the patient (in the kitchen, or outside in the AMHP’s car). Once completed, the AMHP then informs the patient that they have been formally detained under the MHA and will have to go to hospital.
+
+These forms are rarely shared with the patient. Once the patient has been admitted, the forms are filed away, either in the patient’s medical records or in the Mental Health Act Administrator’s office. After that, generally only the Care Quality Commission will see them when they conduct periodic hospital inspections.
+
+So what’s actually on those forms?
+
+The majority of detentions under the MHA are either under Sec.2 or Sec.3. Sec.2 is for assessment, while Sec.3 is for treatment. More rarely, a Sec.4 is used, which is an application for assessment in an emergency.
+
+The Registered Medical Practitioners’ Forms
+Registered Medical Practitioners are qualified doctors. The doctors fill in their own forms, which are actually only recommendations that a patient should be detained, as it is the AMHP who makes the final decision.
+
+If the doctors see the patient at the same time, they can fill in a Joint Medical Recommendation. If they see the patient separately, they must fill in separate Medical Recommendations.
+
+The doctors have to put their own name and office address, as well as the name and address as the patient.
+
+On these forms, the doctors must say when they last examined the patient. Each doctor must also state if they had “previous acquaintance” with the patient – in other words, that they have had some contact with the patient in the past. They must also state if they are “approved under Sec.12 of the Act as having special experience in the diagnosis or treatment of mental disorder”. This means that they are either a practicing psychiatrist or that, being a GP for example, they have had extra training and have therefore been “approved”.
+
+At least one of these doctors must be Sec.12 approved. It is desirable, but not essential, for at least one of the doctors to know the patient. However, if neither of them knew the patient, the AMHP must explain on their own form why it was not possible to get a doctor who did know the patient.
+
+For Sec.2 and Sec.4, they have to state that “this patient is suffering from a mental disorder of a nature of degree which warrants the detention of the patient in hospital for assessment (or assessment followed by medical treatment) for at least a limited period.”
+
+For Sec.3 they have to state that “this patient is suffering from mental disorder of a nature or degree which makes it appropriate for the patient to receive medical treatment in a hospital.”
+
+For Sec.2, Sec.3 and Sec.4 they also have to state whether or not the patient ought to be detained in the interests of the patient’s own health, the patient’s own safety, and/or with a view to the protection of others. However, for Sec.3 they additionally have to state that the patient “should receive treatment in hospital” and that that treatment “cannot be provided unless the patient is detained under Sec.3”.
+
+In all cases, the doctors then have to write down in detail the reasons why they have these opinions. For a Sec.3 they also have to state at which hospital or hospitals appropriate treatment is available.
+
+Although often the two doctors assess the patient at the same time, this is not always the case. Where the doctors have not assessed the patient together, then there must not be more than five clear days between the two recommendations. This means, for example, that if the first doctor examined the patient on a Monday, then the second doctor’s examination should not be later than the following Sunday.
+
+The doctors have to sign and date their recommendations. For a Sec.4, because it’s an emergency, and the detention only lasts for a maximum of 72 hours, they also have to put the time.
+
+Sec.4 is a bit different from Sec.2 & Sec.3, as it is only used for emergencies. Only one medical recommendation is needed. However, the doctor has to state on the recommendation that “compliance with the provisions of Part 2 of the Act relating to applications under Sec.2 [ie having two medical recommendations] would involve undesirable delay” and must give the likely length of time of that delay and state what risk such a delay would pose to the patient or other people.
+
+The AMHP’s Forms
+The AMHP is making an Application for Admission, either for assessment or for treatment. The first thing that the AMHP has to fill in on any application form is the name and address of the hospital to which the patient is to be admitted. The AMHP therefore has to know where the patient is going to be admitted before he or she can complete the form. This can at times lead to a delay in completing the application, as it can often be hard to find a bed.
+
+The AMHP then has to put his or her name and office address on the form as the applicant, as well as the name and address of the patient, and must also state that he or she is an Approved Mental Health Professional and give the name of the local social services authority who approved them.
+
+For Sec.2 and Sec.3 the patient’s Nearest Relative needs to be identified if possible. For a Sec.2, the AMHP either has to identify the NR or another person who has been authorised to act as such, and to state whether or not they have informed that person of the application and the right of that person to order the patient’s discharge.
+
+For a Sec.3, the AMHP has to state that the NR or proxy has been consulted by the AMHP, and state that that person has not objected to the application being made. If the AMHP has not consulted with the NR, they have to give reasons why it was impracticable to do so.
+
+If the AMHP has either not been able to find out who the NR is, or believes that the patient has no NR, then in both cases, the AMHP has to state this on the form.
+
+The AMHP has to explicitly state that they have interviewed the patient  and are satisfied that detention in hospital is “in all the circumstances of the case the most appropriate way of providing the care and medical treatment of which the patient stands in need.”
+
+In all cases, if the assessment was undertaken by a doctor or doctors who did not know the patient prior to assessment, the AMHP has to give reasons why they were unable to get doctors who did know the patient.
+
+The AMHP has to sign and date the Application. Only then, after all the forms have been fully completed, is the patient formally liable for detention.
+
+General notes
+The AMHP and the doctors have to give the date when they assessed the patient. In the case of Sec.4, they also have to give the precise time.
+
+Both the medical practitioners’ forms and the AMHP’s forms have to have the name and address of the person being detained. These should be identical on both the doctors’ forms and the AMHP’s forms. However, the name does not have to be correct to be legal. For example, I once had to detain a person who was in Charwood police station but who was from another part of the country. He was therefore unknown to anyone in Charwood. The name he gave police was “Charlie Bangles”, so this was the name that we put on our section forms. He was then admitted to a hospital in his home area. When we arrived there, it was discovered that, as he was actually a professional entertainer, this was his stage name, not his real name. However, this made no difference to the legality of his detention.
+
+The forms consist of a combination of written statements which the AMHP or doctors agree to by means of signing the form, statements that can be crossed out according to the circumstances, and spaces for free text.
+
+The exact wording of the forms is laid down in a statutory document called “Mental Health Regulations 1983”. It is the wording of the forms that constitutes the legal document, not the form itself. This means that, although traditionally the forms are printed on pink paper, they can be on any colour of paper. They can even be handwritten. In a rare flash of humour, Richard Jones in the Mental Health Act Manual states that in an emergency, where the printed forms were not to hand: “an alternative course of action would be to remove the appropriate pages from this Manual.”

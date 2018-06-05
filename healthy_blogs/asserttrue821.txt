@@ -1,0 +1,33 @@
+There was an outbreak of the bogus "visiting this web site may harm your computer" warning-page redirection on Google this morning. Apparently there have been occurrences of this phenomenon before (judging from blogs going back to 2007). You run a search on Google, and all of a sudden every hit has a warning link under it that says "visiting this web site may harm your computer", and if you try to go to the page in question, you get directed to a Google warning page that urges you not to go to the actual page you want.
+
+On Twitter, people began labelling the problem #GOOGLEMAYHARM, which of course is phonetically similar to GOOGLE MAYHEM.
+
+Naturally, I went to work on a Greasemonkey script to fix the situation. And naturally, in the time it took me to write the script, Google fixed the silly redirection thing.
+
+In any event, if you are seeing the "harmful site" warning, here's a Greasemonkey script that should allow you to bypass the Google redirection page:
+
+// ==UserScript==
+// @name           GoogleHitFixer
+// @namespace      fixer
+// @include        http://www.google.com/*
+// ==/UserScript==
+
+// Routes around the bogus warning page that says
+// "visiting this web site may harm your computer"
+
+// Public domain. Author: Kas Thomas
+
+( function main( ) {
+
+    var signature = "interstitial?url";
+
+    var address = location.toString( );
+
+    if ( address.indexOf( signature ) == -1 )
+       return;
+ 
+    var newUrl = address.split( "?url=" )[1];
+
+    location.href = newUrl;
+
+} )( );

@@ -1,0 +1,75 @@
+In 2011, Ludolf Luehmann, an IT manager for Shell, warned the World Petroleum Conference in Doha that the company had suffered an increased number of cyber-attacks. Luehmann said Shell and others in the industry were experiencing a "new dimension" of attack which could leave physical machinery at serious risk.
+
+This was no idle speculation. In 2013, a Council on Foreign Relations report, citing data from a Houston-based security company, Alert Logic, stated that the U.S. energy sector, including oil and gas producers, was hit by more targeted malware attacks from April to September (2012) than any other industry. (See this Reuters story and also this esecurityplanet.com story.)
+
+Exxon's Torrance, California refinery blew up on February 18, 2015.
+(LA Times)
+In 2014, Symantec described a Russian cyber attack, named Energetic Bear, in which malware got into computers at power plants, energy grid operators, gas pipeline companies, and industrial equipment makers. Most of the targets were in the United States and Spain. The rest were across Europe. (Story by CNN Money here.) In the best-case scenario, the hackers only took sensitive information. At worst, they gained the ability to hijack control systems.
+
+Prior to 2011, oil-and-gas cyber attacks, such as the series of Chinese Night Dragon attacks, were mainly focused on stealing proprietary business data. But post-2011, attacks have gotten progressively uglier.
+
+In 2012, Chevron reportedly discovered a version of Stuxnet virus in its systems. Stuxnet targets Siemens control systems; it was allegedly used by the U.S. to attack Iranian uranium-enirchment centrifuges.
+
+Also in 2012, Iran blamed Israel for a cyber-attack on its oil drilling platforms.
+
+An August 15, 2012 cyber-attack on Aramco was successful in "wiping out what Aramco said was the hardware on 85% of the oil giant’s devices," according to a WSJ report. A Saudi consultant working with government and telecom internet-security experts, speaking anonymously, told WSJ the virus had been introduced by a hand-carried USB memory stick.
+
+The Council on Foreign Relations report mentions that oil-and-gas malware can now, in theory at least, "cause the flow of natural gas through a pipeline to grind to a halt, trigger an explosion at a petrochemical facility, or do damage to an offshore drilling rig that could lead to an oil spill." (Story here.)
+
+But maybe it's not just theory.
+
+The Exxon Explosion
+In February 2015, an explosion ripped through Exxon's refinery in Torrance, California, injuring four people and causing damage that will take at least six months to repair.
+
+The investigation into the Exxon explosion has thus far focused on overpressurization of an electrostatic precipitator (a pollution control device) at the refinery.
+
+Side view of Exxon refinery unit showing both sides blown out.
+(Reuters)
+How overpressurization could happen, though, in a state-of-the-art refinery with millions of dollars of process-control monitoring equipment in place, measuring every aspect of plant operation (in some refineries, there are even sensor systems capable of monitoring metal corrosion as it's happening, in real time), has not been explained. The idea that something as basic as a pressure excursion could go undetected by sophisticated safety systems strains credulity.
+
+Exxon is not saying if cyber-terrorism is a possibility in the Torrance incident. But how could it not be?
+
+Exxon claims on its corporate website that "on average, our cybersecurity screening programs block more than 80 million emails, 90 million Internet access attempts, and 30,000 other potentially malicious actions each month." 
+
+How Vulnerable Are Refinery Control Systems?
+Refineries are managed through Industrial Control Networks (ICNs) consisting of:
+Industrial Control System (ICS) devices, such as Control components; PLC, DCS, SCADA, RTU, HMI, etc.
+Network Components, Fieldbus network, Control network, routers, switches, firewall, etc.
+As explained, in broken English, by the SESAMO (Security and Safety Modelling) group, funded by a multinational consortium called ARTEMIS:
+In recent years, advances in ICT have enabled the construction of systems for monitoring and control of industrial processes [to] allow remote and centralized administration of facilities distributed in the territory by using wireless and internet connections. To achieve this, was broken the isolation that has historically characterized the process networks doing that these were connected to corporate networks, resulting that typical of these problems, virus, trojans, malicious code, denial of services attacks, OS vulnerabilities and applications exposure, etc. become a problem of industrial systems in a significant increase in risk of cyber attacks, always more sophisticated and targeted, to impaired production processes.
+English translation: To achieve remote monitoring, industrial control systems that were previously air-gapped (physically isolated) have been brought onto wireless networks. But doing so has, of course, made the systems more vulnerable to attack.
+
+But it's worse than that, because in many cases, industrial control systems are required to run continuously for months, without interruption. That means not allowing automatic security updates (or any updates, generally speaking). Nuclear reactors, for example, typically run on 18-month cycles, and any downtime can be extremely costly. (In some countries, fines of £33,000 an hour can be imposed by the industry regulator in case of a shutdown.)
+
+According to a story by ComputerWeekly.com, "It is not uncommon for organizations responsible for critical infrastructure to continue running control systems even though a malware infection has been detected."
+
+Many industrial control systems, of course, run on microprocessor boards with extremely limited computing resources, making it impracticable, in many cases, to run even custom-written antivirus software, never mind bloatware from McAfee or Norton.
+
+Going Naked
+What makes the situation particularly dire (not just for corporations but for their stockholders) is that oil companies are uninsured, in case of cyber-attack. In insurance parlance, this means energy companies are "going naked."
+
+"Energy companies have no insurance against major cyber-attacks," reinsurance broker Willis Group Holdings was quoted as saying in a 2014 Reuters story. "Most insurance products currently available will cover minor things such as data losses or downtime caused by IT issues, but not major events like explosions." Willis said the lack of coverage stems, specifically, from a clause included in most energy sector insurance agreements over the past 10 years that explicitly excludes loss or damage caused by software, viruses or other malicious computer code.
+
+Covered or not, oil companies are bringing unprecedented quantities of oil to market, and there seems little question that the stakes, in terms of cyber-threats, are getting higher by the day. Moscow-based security firm Kaspersky was quoted by BBC as saying: "We certainly are in a different world than where we were 18 months ago. What we're starting to see is an increase in targeted attacks. We know critical systems, like those in oil production, are vulnerable to attack."
+ 
+Copyright 2015 by Kas Thomas. Contact the author at authorzone@hushmail.com.
+
+ ☙ ❧ 
+
+In Other News
+Yesterday a story at the Daily Beast reported on the fact that China now officially admits what we all knew was true all along, which is that China has a massive cyber-warfare capability (dwarfing the North Koreans) and is engaged in digital mayhem worldwide daily. Meanwhile, various people (myself included) have noticed that China traffic has slowed to nothing, in recent months, in Google Analytics, for many U.S. sites. Have you checked your analytics lately? On this blog, China traffic has gone from No. 6 for all-time traffic to off the charts (invisibly small) currently. This blog used to see 40,000 visits a month from China. It's now no longer even a tenth that. Where did the packets go? Are they being filtered by carriers? Filtered by Google (which hosts this blog)? It makes you wonder.
+
+
+ ☙ ❧ 
+
+Everything You Know about Mental Illness is Wrong
+Well, maybe not everything. But a lot. Don't believe me? Take a look at my book Mental Health Myths Debunked, available for download free at NoiseTrade. Have you been told depression is biochemical, or that antidepressants work for most people? Have you been told electroshock therapy is scientifically well proven (and safe, and effective)? Have you been told antidepressants take weeks to work? Have you been told that one form of therapy (CBT, for example) is more effective than another? If so, you've been told myths. Now it's time to learn the facts: What does the scientific literature really say about these issues? Get the unvarnished truth in this book. The ePub and PDF versions are free, and unlocked. All you have to do is download.
+
+  ☙ ❧
+
+The following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.    

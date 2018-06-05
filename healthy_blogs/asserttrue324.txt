@@ -1,0 +1,21 @@
+Yesterday, I gave a high-level overview of some of the tools available, in the English language, for describing noise. Now comes more of a practical exercise: how to portray a noisy-crowd scene in a novel or short story (or other narrative account)? 
+
+In the comic novella I'm writing, I have a scene that takes place in a crowded restaurant bar. (The restaurant is a fictional place called Joy Joy in Palo Alto, California.) The main character's last name is Schremp. The setup: Schremp and his office mate (Dixon) have decided to hit Joy Joy for a drink on their way home from work. But it's happy hour. The place is bustling. It's loud and getting louder. The question is how to indicate that, convincingly, in the narrative.
+
+The obvious way is to have one character say to another: "Boy it's loud in here!" (And maybe, just to emphasize the point, have the other character cup his ear and say: "What?") Nothing wrong with that, actually, except that it has only momentary impact. It's using noise as a prop. I want the noise to be more than a prop; I want it to be an integral part of the ambiance of the scene, a kind of additional main character, if you will, palpable, always lurking, ready to intrude.
+
+In the scene's opening line, I begin with quickly telling, rather than showing, the atmosphere:
+    The crescendo of cacophony at Joy Joy hadn't yet reached full-on Happy Hour earbleed level, but the din was prodigious; so much so that Dixon had to go back out the front door to the sidewalk to check his voicemail while Schremp, securing the last empty stools at the bar, fetched two tall glasses of Buttface Amber (one of the featured microbrews-of-the-day) from the red-suspendered, all too jolly bartender-du-jour.
+This is both a tell and a show. The "show" part is Dixon having to go back outside to check his voicemail because it's too loud inside. Note, incidentally, the use of a musical term ("crescendo"), which sets up additional music vocabulary later.
+
+A bit further on, which is to say after a few lines of dialog, I explain in the narrative that the background noise has become so excessive, Schremp is having to raise his voice to be heard. So, another tell. (Maybe not the best solution.)
+
+Schremp, at one point, scans the bar looking for signs of his new girlfriend. This is a good chance to underscore the crowded nature of the place; hinting (through visuals) at the potential for noise. 
+
+Fast-forward past another half-page of dialog. I have Dixon asking Schremp to repeat himself ("What did you say? I can't hear you..."): Back to show rather than tell. 
+
+At this point, I immediately break off into some exposition about the noise situation. (I don't claim this is the optimal thing to do. It's what I'm happiest with at the moment.) Here's what I finally came up with:
+     Joy Joy was fast approaching the Fire Marshall's room-capacity limit (or so Schremp supposed), the place packed now with clamorous roisterers intent on pushing the decibel envelope beyond airline baggage-handler recommended maximums. Cocktail glasses (three in a waitress's hands at once) clinked and clacked, cash register slamming shut as someone's stool-leg stuttered across the floor nearby ("What can I getcha?"), burly guffaws competing with soprano laughter, a sudden swoosh of street noise as fresh celebrants burst through the main entry door, wine cork's thoppp! providing a grace-note to a distant woman's rising arpeggio of giggles—the thrum of a vox humana orchestra tuning up. 
+So again, a mix of tell and show. Talk of decibel limits (these two guys are engineers, BTW) and clamorous roisterers, followed by examples of some noise-sources, with recourse to musical terminology (soprano, grace-note, arpeggio), culminating in the suggestion of an orchestra tuning up. The scene ends with Schremp and Dixon discussing the noise situation and how they would fix it with technology: barroom active noise suppression (BANS). 
+
+How would you describe a noisy bar in a restaurant? Feel free to leave a comment below.

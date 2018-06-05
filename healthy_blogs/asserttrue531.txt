@@ -1,0 +1,23 @@
+F-111A cockpit.
+Expand your mental image of what a "device" is, for a moment.
+
+I'm sure you'd be willing to agree that a fighter jet is an extremely complex, high-functionality device. Yet it has to have a usable human interface (or else it's not worth much). How does one provide a highly usable interface for such a complex "device"?
+
+In the 1960s, the way to do it was as shown in the accompanying photo of the cockpit of a General Dynamics F-111A. You don't have to be a pilot to appreciate the fact that the "user interface" to the F-111A was (let us say) intimidating in its complexity. Is such an interface usable? Apparently it was. Over 500 of these aircraft flew, with the cockpit design shown in the photo.
+
+F-22 Raptor cockpit.
+Fast-forward to 2005, which is when the Lockheed Martin/Boeing F-22 Raptor went into service. The F-22A has a useful load (max weight minus empty weight) of about 40,000 pounds, which is essentially the same as for the F-111A. In almost all other respects, the planes are miles apart. The F-22A has vastly greater capabilities than the F-111A; so much so, that the two airplanes shouldn't really be compared. But the point is, the F-22, despite being a much more sophisticated and capable  aircraft than the F-111A, has a much simpler human interface (see photo).
+
+What happened between 1964 and 2005? Human factors research happened.
+
+First, human factors experts realized that anything that could be considered a visual distraction is a potential safety hazard. Therefore, consolidate (and hide, if you can) as many doodads as possible. Naturally, the advent of processor-driven electronics made it possible to integrate and automate many of the functions that were previously exposed to crew, thus reducing the overall interface footprint. A good example is Fully Automated Digital Engine Control (FADEC) technology. In the F-111A, pilots had to monitor half a dozen engine gauges showing turbine inlet temperature and other indications of engine status. In a modern jet, a computer monitors and regulates such things. The pilot doesn't need to get involved.
+
+An important feature of modern cockpits (which has little or nothing to do with technology per se) is that important items in the interface (e.g. display screens) are made larger than less-important elements. Human factors experts quickly realized that the worst possible thing to do is simply make all gauges (or groups of gauges) a "standard size" regardless of importance.
+
+Advances in digital display technology made it possible to consolidate data from multiple gauges onto one display surface (which might have several display modes). This also reduces footprint, even though the biggest "gauges" (which are now screens) have actually gotten bigger.
+
+Yet another outcome of human factors research was (is) that color displays are easier for the brain to parse than a wall of black-and-white data. Likewise, graphical visualizations of data (if done correctly) are easier to comprehend than numeric representations.
+
+The overall principle at work is, of course, that of simplification combined with functional organization. To fly an aircraft, the pilot needs to have flight information (airspeed, altitude, rate of climb or descent, angle of bank and/or rate of turn, heading), navigational information (terrain information, aircraft position, some indication of desired course and deviation from desired course, distance to waypoint), and the ability to operate avionics. (Avionics include radios used for communication; transponders to make the aircraft show up on ground radar; navigational receivers, such as GPS, and aids to navigating the glidepath to a landing; weather-avoidance gear; and autopilots.) In a military aircraft, the only major additional functional group is the fire-control (weapons management) system. So in other words, the major functional groups are few in number: They include flight information; navigational information; avionics; and fire control. Within each of these groups, you apply the standard principles of consolidation, appropriate visualization, and size differentiation (important things bigger, less important things smaller).
+
+All of these principles can be adapted to GUI-intensive software. It's up to you (and your human factors experts) to decide how.

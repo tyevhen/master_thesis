@@ -1,0 +1,60 @@
+The catalase test is simple: Add a drop of hydrogen
+peroxide to a sample of bacteria on a microscope slide and see
+if it fizzes. Anaerobes (even aerotolerant ones, such as Streptococcus
+pyogenes) won't fizz because they lack catalase. Aerobic bacteria
+produce oxygen bubbles, as on the right.
+I remember the first time I was introduced (as a young bacteriology student) to the catalase test. You scrape a colony of bacteria off the surface of an agar dish, rub it onto a microscope slide, then take an ordinary eyedropper filled with 3% hydrogen peroxide and drop a big fat drop of liquid onto the little slimy smudge of bacteria. If the smudge begins to fizz vigorously, like Alka Seltzer, the bacteria are catalase-positive. If no fizzing happens, they're catalase-negative.
+
+The fizzing happens because of an enzyme called catalase that promotes the conversion of hydrogen peroxide to water and molecular oxygen:
+
+2 H2O2 → 2 H2O + O2
+
+For the last hundred years, every student of bacteriology has been taught that the reason aerobic bacteria (and indeed all aerobic life forms, up to and including humans) have catalase is that hydrogen peroxide is severely toxic and must be gotten rid of, lest it form highly reactive hydroxyl radicals:
+
+ H2O2 → OH + OH
+
+
+The OH radicals, being extremely reactive chemically, will attack just about anything: DNA, RNA, proteins, lipids, mucopolysaccharides, what have you. Hydroxyl radicals are toxic. Catalase provides a way of neutralizing peroxides so that no radicals can form.
+
+Anaerobic organisms, the story goes, lack catalase because they live in oxygen-poor environments where things like peroxides don't form. So-called strict anaerobes are actually killed by exposure to air. The reason they die when they come in contact with air (supposedly) is that in the presence of oxygen they experience an endogenous buildup of peroxides that (in the absence of catalase) go on to form toxic free radicals that, in turn, eventually cause damage to DNA, proteins, lipids, and other macromolecules.
+
+That's the official dogma on peroxides, free radicals, and catalase.
+
+The only trouble is, as with so much other dogma in this world, it's completely wrong.
+
+And it would all be harmless prattle if it just applied to bacteria. But unfortunately, this bit of assumption-laden dogma about peroxides and free radicals leads to some rather fanciful notions about the role of "oxidative stress" in ordinary metabolism. The notion that peroxides and free radicals (so-called Reactive Oxygen Species) are harmful has led to the spending of billions of research dollars on"oxidative stress" and ways to stave off "oxidative damage" to DNA, proteins, etc. It has led to billions of dollars of misleading advertising around foods "rich in antioxidants." (And it has actually led to clinical trials of antioxidants like beta carotene and Vitamin E in which people died needlessly, something I'll discuss in more detail in a future post. For now, you might want to refer to this paper.)
+
+Suppose that, rather than accepting the catalase-as-detoxifier/peroxides-as-evil theory at face value, we ask some fundamental questions. Such as:
+
+What's the evidence that anaerobes exposed to air actually die of peroxide poisoning? 
+If peroxides are poisonous, why are there no anaerobes that have catalase? (If there's survival value for aerobes to have catalase, surely there's even more survival value for an anaerobe to have it?)
+If catalase exists to protect aerobic cells from peroxide poisoning, then we should expect catalase-knockout mutations to be lethal, or at least gravely deleterious, yes?
+
+Let's review some basic facts. First, hydrogen peroxide is not toxic at low concentrations. It is, in the words of one researcher, "poorly reactive: it does not oxidize most biological molecules including lipids, DNA, and proteins" (Halliwell et al., "Hydrogen peroxide: Ubiquitous in cell culture and in vivo?", IUBMB Life, 50: 251–257, 2000, PDF here). Concentrated hydrogen peroxide is toxic (it's a disinfectant), but at the dilute concentrations found in living cells, hydrogen peroxide isn't doing anything harmful to DNA, proteins, or lipids. The situation is analogous to that of hydrochloric acid. At high concentrations, HCl will eat through skin. Put a couple liters into an 80,000-liter swimming pool, though, and you can drink the stuff. So it is with peroxide.
+
+Secondly, peroxides are ubiquitous in living systems (again see the Halliwell paper). In higher life forms H2O2 is produced in vivo by monoamine oxidase, xanthine oxidases, various dismutases, and other enzymes, under homeostatic control. There's substantial evidence that hydrogen peroxide is a widely used signalling molecule (see references 21 to 26 in the Halliwell paper) and recent work has shown a role for hydrogen peroxide in reparative neovascularization. Recruitment of immune cells to wounds likewise appears to require hydrogen peroxide.
+
+Far from being toxic, hydrogen peroxide is an important biomolecule, essential to ordinary metabolic processes. There is zero evidence that hydrogen peroxide does anything harmful in living tissues, at the concentrations normally found in vivo.
+
+If hydrogen peroxide were toxic, we'd expect that a mutation that knocks out catalase would mean certain death for the host organism. After all, with no catalase to break down H2O2 to oxygen and water, hydrogen peroxide would simply accumulate until reaching toxic levels. But it turns out, naturally occurring catalase-negative mutants of Staphylococcus aureas have been reported (laboratory-created catalase-negative mutant strains of E. coli and other organisms are known as well). Catalase-knockout mice have been created, and they develop normally. Humans lacking normal catalase were first identified in the early 1950s when a Japanese doctor found that pouring hydrogen peroxide onto a patient's infected gums caused no foaming. The catalase-negative condition in humans is known as acatalasemia or acatalasia. It results in no pathology except an increased tendency toward periodontal infection.
+
+Catalase does serve an important function in aerobic organisms (having nothing to do with detoxification). With catalase, the oxygen in hydrogen peroxide can be scavenged for (re)use in respiration. This is important because every oxygen molecule is worth 38 ATP molecules in the aerobic breakdown of glucose. (ATP, adenosine triphosphate, is the high-energy molecule that powers the chemical machinery of cells. Without ATP, metabolism grinds to a halt.) By comparison, anaerobic breakdown of glucose (which is to say, fermentative breakdown) yields only 2 ATP molecules per sugar molecule. It's very much in the cell's interest to recycle the oxygen from hydrogen peroxide rather than let it go to waste. Catalase makes that reuse possible.
+
+Anaerobic bacteria obtain energy solely from fermentation. They have no use for oxygen. Therefore they have no use for catalase. A catalase gene would simply be extra genetic baggage for an anaerobe. It would confer no survival value.
+
+It's astonishing to me that the catalase myth (the version of the myth that says catalase exists to detoxify hydrogen peroxide so as to keep the cell from dying of free-radical-induced damage) has survived for well over a hundred years without anyone questioning it. I see the myth repeated all over the Internet as if it's Gospel. Never do I see any substantiating research referenced in support of it. It's just propagated from one unquestioning drone to another.
+
+Why? Why do myths like this take hold in science? Why do otherwise intelligent scientists cling to them and perpetuate them, regurgitating them in textbooks and handing them down to new generations of students?
+
+I think the answer is, because it makes a good story, and as human beings we value a good story more than we value checking out the story to see if it's true (providing it's a suitably satisfying story).
+
+Before there was science, stories were all the human race had as a way of trying to understand the universe. If someone told a good enough story, and  the story provided a satisfying-enough explanation of something, the story endured. Some of humankind's most cherished stories have survived for thousands of years. They survive, in many cases, even if they're not verifiably true.
+
+With science, the theory is the unit of storytelling. If a theory seems to fit the facts, it's accepted. If, on closer inspection, a story is found not to fit the facts, it will still be accepted by many people, if it's a satisfying enough story. 
+
+The ancient Greeks knew the earth was not flat. (According to Diogenes Laertius, "Pythagoras was the first who called the earth round; though Theophrastus attributes this to Parmenides, and Zeno to Hesiod.") Nevertheless it took centuries for flat-earth theory to fall into disrepute, and even to this day there are people who find flat-earth theory satisfying.
+
+So it is with scientific theories. Good stories (and that's all scientific theories are: stories) have staying power. Even when they're wrong.
+
+
+For more on the Oxidative Stress Theory of Aging (and why it's wrong), see my blog at Big Think.

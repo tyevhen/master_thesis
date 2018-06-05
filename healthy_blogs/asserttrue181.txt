@@ -1,0 +1,127 @@
+A while back, I promised I would share the fugly hack I'm using to scrape Twitter profile pics (as live links) to use at the bottom of each blog post. (Scroll to the bottom to see what I mean.) The code ain't pretty, but it works. And it's fast.
+
+You don't have to know JavaScript to use the code: In Firefox, open a Scratchpad window (Shift+F4); or in Chrome do Control-Shift-J to get a console window. Be sure your active browser tab is the Twitter Notifications timeline view. Paste the code (below) into the scratchpad window. In Firefox, do Control-L to run the code. (Results show up in the Scratchpad itself.) In Chrome, hit Enter (return). You should get a dump of a lot of raw HTML. Copy and paste that into your web page. (Good luck getting Wordpress to display it the way you want! But at least you now have the raw HTML.)
+
+You may have to scroll sideways to see all the code. The code was formatted using http://hilite.me/.
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+/*
+You want all classes "stream-item-content clearfix stream-item-activity stream-item-retweet stream-item-activity-me"
+You want all <a> nodes within that.
+*/
+
+function getRTers() {
+  
+  var tClass = 'stream-item-content clearfix stream-item-activity stream-item-retweet stream-item-activity-me';
+  var cl = document.getElementsByClassName(tClass);
+  var r = []; // for caching the hits
+  var lut = {}; // for unduping the hits
+  
+  for (var i = 0; i < cl.length; i++) {
+    
+    var item = cl[i];
+    var a = item.getElementsByTagName('a');
+    if (!a) throw "There is no spoon.";
+    
+    // dig all links out
+    for (var j = 0; j < a.length; j++) {
+      
+      var hasImg = a[j].getElementsByTagName('img');
+      
+      // no avatar(s)? just move on
+      if (!hasImg || hasImg.length == 0)
+         continue;
+      
+      // need to ensure expanded URL, not relative URL
+      var username = a[j].href.toString();
+      a[j].setAttribute('title', username);
+      a[j].setAttribute('href', username);
+      
+      var result = a[j].outerHTML;
+      
+      if (username in lut) // undupe
+          continue;
+      lut[username] = 1; // mark as visited
+      
+      r.push(result);  // save the markup
+      
+    }
+  }
+  return r; // return the hits
+}
+
+
+ // Now use the function:
+
+ var r = getRTers();
+ r.join('\n') + '\n' + r.length; // displays in console
+
+The code relies on the fact that the retweet nodes are contained in a special class with a big huge long name. How did I figure out the huge name? I used Firefox's Inspect Element (right click on any part of any web page and choose Inspect Element from the popup menu).
+
+Not much else to explain here, really. I do go to the trouble of unduplicating the links. For that, I use a lookup table (although I'm not using it to look anything up):
+
+var lut = {};  // new object (aka lookup table)
+
+In JavaScript, an object is just a hashed list, which you can think of as an array that uses text to index into the array instead of a number. (Of course, under the covers it's all numbers, but that's not our concern.) You can do
+
+lut[ "whatever text you want" ] = 1;
+
+and the number one gets associated with the index string "whatever text you want". There's no magic to the number one, in the above code. I have to use something to mark the index as taken. It could just as well have been 'true' or zero or Math.PI, or whatever.
+
+When you're done, in any case, you get the HTML markup that produces this lovely mosaic:
+
+
+
+And those are the wonderful people who retweeted me yesterday. I want to thank each and every person shown above. Please follow these great people. They retweet!
+
+Have you joined the mailing list? What are you waiting for? 

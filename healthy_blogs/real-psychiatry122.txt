@@ -1,0 +1,82 @@
+I went into my favorite coffee shop the other day for my usual mocha.  They typically post a trivia question of the day that gives you a 10 cent discount on the coffee.  After a conference with a recent focus on neuroscience it was interesting to see a question about the number of thoughts per day.  My wife ventured a guess.  I asked the barista for the source and all that she could tell me was: "We get it off the Internet like most of our questions."  No footnote or reference available.  The source was not difficult to find.  It was a typical Internet site that has never impressed me as a knowledge source, but it did have a link to the original paper.  It turns out to be a neuroscience site - The Laboratory of Neuroimaging (LONI) at UCLA.  Read the fine print at the bottom of this page for qualifiers on what counts as a thought.  I looked for any papers on this estimate on the web site as well as Medline and did not come up with anything.
+
+Irrespective of the methodology the question poses interesting questions for clinical psychiatrists if they are comfortable outside the confines of the DSM.  How much attention is being paid the the baseline conscious state of the patient and why might that be important?  What is their stream of consciousness every day?  Is it disrupted by mental illness or addiction?  To what extent is that stream of consciousness broken up into daydreams, memories, and fantasies?  To what extent is it impacted by a process that is not even suggested by the DSM?  The best example that I can think of is boredom.  Being easily bored can be a diagnostic criterion, but it seems to be an uneasy mental state on its own.  People who are bored get driven to do things to alleviate boredom and sometimes those activities are very risky.  Are the thoughts mentioned in the coffee shop question memories, fantasies, or daydreams? Why the large number?  I am not aware of brief frequent thoughts.  My stream of conscious thought is comprised of more coherent stories or images.
+
+I did a Grand Rounds on fantasy and daydreaming about 15 years ago.  There has never been much quantitative work on fantasy.  There were some new research approaches to daydreaming being used at the time and I incorporated some of those references into the presentation.  I don't recall the exact number of daydreams per day but they were considerably less than 100.  The only research approximating the numbers of thoughts per day may be the research on the exact number of spoken words per day.  This research has generally been a comparison between men and women and a test of which sex speaks the most words.  Those numbers across different cultures and sampling periods range from 12,867 to 24,051 words per day (5).  Standard deviation were large and the authors conclude that on the average both sexes spoke about 16,000 words per day.  To me speech and language is unconsciously processed thought, but even counting all of those words does not get us to the level of the coffee shop question.  Do the authors believe that they have a way to capture tens of thousands of unconsciously processed thoughts?  I am very interested in hearing how they arrive at these figures.
+
+The research in this area has since moved into the area of the wandering mind.  Wandering mind is defined as a cognitive focus on information unrelated to the immediate sensory input or task on hand.   It would include daydreams, fantasies, and the typical stream of consciousness that every person experiences at times throughout the day.  The critical research questions include when is mindwandering adaptive as is the case of generative fantasies and when it is maladaptive?  Smallwood, et al (7) have written an excellent brief review of how mindwandering can negatively impact medical decision making and the cognitive performance of physicians.  They point out that fatigue, depression, and circadian rhythm disturbances can lead to increased mindwadering with negative consequences by decoupling attention to the external environment from the necessary memories, patterns and access to decision-making that are the physician's cognitive set.      
+    
+The question also involves neuroscience.  Is there a physical representation of this process in the brain and what is it?  Neuroscience tells us that the brain has a Default Mode Network (DMN).  It was initially noted to be a network of brain regions that remain active during functional brain imaging studies in the absence of an external task.  These studies typically involve an active task for the research subject and the resulting brain image is analyzed as a response to that stimulus.  It was determined that this DMN comprises the system that allows for internal dialogue and stimulus-independent thought.  The physical representation includes a primary system comprised of the anterior medial prefrontal cortex (aMPFC) and the medial posterior cingulate cortex (PCC) communicating with two subsystems.  The medial temporal lobe subsystem is comprised by the retrosplenial cortex (RSP), parahippocampal cortex (PHC), hippocampal formation (HF), the ventral medial prefrontal cortex (vmPFC), and the posterior inferior parietal lobule (pIPL).  The dorsal medical prefrontal cortex subsystem is comprised of the temporal pole (TempP), the lateral temporal cortex (LTC), the temporoparietal junction (TPJ), and the dorsal medial prefrontal cortex) (1).  Some groups differ on the physical representation of this system and some groups use Brodmann area designations.  I drew a slightly different model based on Sporn's text (6) with some obvious distortion due to the lack of a three dimensional representation (the rTC should be folded over to the right temporal area away for the medial view):
+
+
+
+Subsequent research has shown that the DMN may be implicated in several psychiatric disorders (2). Several functions for the DMN have been proposed that cut across a number of disorders including mind-wandering when no specific external stimulus is present, memory consolidation, to possibly maintain a baseline level of arousal, to divide attention across tasks and for continuity across time (3).  Disruptions and functional disconnects to the DMN have been studied for a number of psychiatric disorders.  If the conceptualization is correct it is useful to think about the implications of functional or anatomic disconnects or hyperconnects to other systems.
+
+How is all of this relevant to psychiatry?  Consider the case of two patients with severe depression.  They both have insomnia, anhedonia and decreased appetite.  They both have typical depressogenic thought patterns including abundant self criticism, hopelessness, and suicidal thoughts without intent to harm themselves.  The only difference is that one of these patients has intense rumination about a job loss.  This patient was downsized along with 50 other people.  The job loss was a straight business decision rather than any performance deficiency.  The patient without rumination is treated with standard methods and recovers.  The patient with intense rumination does not.  The depression and rumination persists despite multiple antidepressant trials.  The degree of disability persists.  There is not much guidance about how to treat this person from a biological standpoint.  It comes down to empirical drug trials and additional treatment for what has been considered anxiety, psychosis, or possible obsessive compulsive disorder.  I have seen these patients recover with detoxification from drugs or alcohol, treatment with antipsychotics, treatment with electroconvulsive therapy, but not treatment with benzodiazepines.  Will the cognitive neuroscience that incorporates models of the wandering mind and default mode network offer fast and more effective treatments?  I think that we may already be seeing that.  Mayberg's classic 2005 article (8) explicitly testing the network hypotheses about treatment resistant depression with deep brain stimulation was a start.  That literature has greatly expanded since that point.
+
+There has been an explosion of network based theories of both psychopathology and normal conscious thought in the past decade.  These models are increasingly relevant as psychiatry is dragged out of a receptor and reuptake protein based discipline, where the practitioners may have a vague idea of where those receptors are located and what they really might be doing.  It was a necessary second step, but only neuroscience will get us to better models and models that we can apply to the treatment of unique individuals.  Psychiatrists have a critical decision to make at this point.  Are we going to remain stuck in a diagnostic and treatment paradigm that clearly applies to a minority of the people with mental illness or are we going to embrace the science that will both allow us to treat everyone better and give us a more complete understanding of human consciousness?
+
+Learning about the Default Mode Network is a good starting point.  
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1;  Barron, DS, Yarnell S.  Default Mode Network: the basics for psychiatrists.  Fundamentals of neuroscience in psychiatry.  National Neuroscience Curriculum Initiative.
+
+2:  Mohan A, Roberto AJ, Mohan A, Lorenzo A, Jones K, Carney MJ, Liogier-Weyback L, Hwang S, Lapidus KA. The Significance of the Default Mode Network (DMN) in Neurological and Neuropsychiatric Disorders: A Review. Yale J Biol Med. 2016 Mar 24;89(1):49-57. eCollection 2016 Mar. Review. PubMed PMID: 27505016; PubMed Central PMCID: PMC4797836
+
+3: Mason MF, Norton MI, Van Horn JD, Wegner DM, Grafton ST, Macrae CN. Wandering minds: the default network and stimulus-independent thought. Science. 2007 Jan 19;315(5810):393-5. PubMed PMID: 17234951; PubMed Central PMCID: PMC1821121.
+
+4: Stafford JM, Jarrett BR, Miranda-Dominguez O, Mills BD, Cain N, Mihalas S,Lahvis GP, Lattal KM, Mitchell SH, David SV, Fryer JD, Nigg JT, Fair DA. Large-scale topology and the default mode network in the mouse connectome. Proc Natl Acad Sci U S A. 2014 Dec 30;111(52):18745-50. doi: 10.1073/pnas.1404346111. Epub 2014 Dec 15. PubMed PMID: 25512496
+
+5: Mehl MR, Vazire S, Ramírez-Esparza N, Slatcher RB, Pennebaker JW. Are women really more talkative than men? Science. 2007 Jul 6;317(5834):82. PubMed PMID:17615349.
+
+6: Olaf Sporns.  Networks of the Brain.  MIT Press.  Cambridge, Massachusetts, 2011.
+
+7: Smallwood J, Mrazek MD, Schooler JW. Medicine for the wandering mind: mindwandering in medical practice. Med Educ. 2011 Nov;45(11):1072-80. doi: 10.1111/j.1365-2923.2011.04074.x. PubMed PMID: 21988623. (link to free full text).
+
+8: Mayberg HS, Lozano AM, Voon V, McNeely HE, Seminowicz D, Hamani C, Schwalb JM,Kennedy SH. Deep brain stimulation for treatment-resistant depression. Neuron. 2005 Mar 3;45(5):651-60. PubMed PMID: 15748841.
+
+9: Christoff K, Irving ZC, Fox KC, Spreng RN, Andrews-Hanna JR. Mind-wandering asspontaneous thought: a dynamic framework. Nat Rev Neurosci. 2016 Nov;17(11):718-731. doi: 10.1038/nrn.2016.113. PubMed PMID: 27654862
+
+
+Supplementary 1:
+
+Olaf Sporn's book Networks of the Brain is an excellent resource to study this topic and to try to catch up on a decade of research:
+
+
+
+
+
+
+
+Supplementary 2:
+
+Default Mode Network links that are relevant for psychiatrists (unedited):
+
+"default mode network" dementia
+
+"default mode network" addiction
+
+"default mode network" "bipolar disorder"
+
+"default mode network" schizophrenia"
+
+"default mode network" ADHD 
+
+"default mode network" depression
+
+"default mode network" anxiety
+
+"default mode network" mind-wandering
+
+"default mode network" day dreaming
+
+
+Supplementary 3:
+
+The answer to the coffee shop question is a.

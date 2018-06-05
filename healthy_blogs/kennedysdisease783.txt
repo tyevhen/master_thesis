@@ -1,0 +1,18 @@
+I found the link to this article on the Kennedy’s Disease DownUnder Facebook page. You can read the entire article by clicking on the Title below. The ability to reproduce motor neurons that are the age of the patients could be helpful in studying the progression as well as potential treatments.
+Scientists create new motor neurons out of skin cells
+
+
+“… Scientists have converted human skin cells from adults directly into motor neurons without going through a stem cell state.
+
+Motor neurons drive muscle contractions, and their damage underlies devastating diseases such as amyotrophic lateral sclerosis and spinal muscular atrophy, both of which ultimately lead to paralysis and early death. Scientists working to develop new treatments for neurodegenerative diseases have been stymied by the inability to grow human motor neurons in the lab.” …
+
+“… The new technique makes it possible to study motor neurons of the human central nervous system in the lab. Unlike commonly studied mouse motor neurons, human motor neurons growing in the lab would be a new tool since researchers can’t take samples of these neurons from living people but can easily take skin samples.
+
+Avoiding the stem cell phase eliminates ethical concerns raised when producing what are called pluripotent stem cells, which are similar to embryonic stem cells in their ability to become all adult cell types.” …
+
+Importantly, avoiding a stem cell state also allows the resulting motor neurons to retain the age of the original skin cells and, therefore, the age of the patient. Maintaining the chronological age of these cells is vital when studying neurodegenerative diseases that develop in people at different ages and worsen over decades.
+
+“… In this study, we only used skin cells from healthy adults ranging in age from early 20s to late 60s,” says senior author Andrew S. Yoo, an assistant professor of developmental biology at Washington University School of Medicine in St. Louis. “Our research revealed how small RNA molecules can work with other cell signals called transcription factors to generate specific types of neurons, in this case motor neurons. In the future, we would like to study skin cells from patients with disorders of motor neurons. Our conversion process should model late-onset aspects of the disease using neurons derived from patients with the condition.” …
+
+
+“…The ability of scientists to convert human skin cells into other cell types, such as neurons, has the potential to enhance understanding of disease and lead to finding new ways to heal damaged tissues and organs, a field called regenerative medicine. …”

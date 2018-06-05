@@ -1,0 +1,15 @@
+Java is slow, piggish, and breaks otherwise-stable software with every new release. We all know that. Or at least Sun Microsystems does: Read this incredible internal Sun memo (dating to 2003, but still very much applicable).
+
+"Within Sun, Java is not viewed as a satisfactory language for the construction of commercial applications."
+
+"That our Java implementation is perceived as inappropriate for many uses is supported by internal documents and policies."
+
+A great, great memo, filled with priceless insights.
+
+One of my personal favorites:
+
+"Our experience in filing bugs against Java has been to see them rapidly closed as 'will not fix'. 22% of accepted non-duplicate bugs against base Java are closed in this way as opposed to 7% for C++."
+
+A particularly noteworthy aside concerns one engineer's desperate quest to circumvent resource exhaustion on Solaris Servers by implementing a particular daemon using J2ME code (yes, that's right: J2ME).
+
+You have to read this memo for yourself. If you're like me, you won't know whether to laugh, cry, or go to work for the circus.

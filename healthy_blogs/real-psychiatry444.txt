@@ -1,0 +1,83 @@
+There is an interesting study in the July JAMA Psychiatry on the treatment of first episode psychosis (FEP).  The authors conclude that this is the first study that shows major advantages of an antipsychotic discontinuation strategy over maintenance therapy.  FEP has always been a topic of interest to me because for 22 years I ran an inpatient unit and about 10% - 20% of the admission were patients with FEP.  For the purposes of the study FEP encompassed the diagnoses of schizophrenia, schizophreniform   disorder, schizoaffective disorder, brief reactive psychosis, delusional disorder and psychotic disorder not otherwise specified (NOS).  There were no diagnoses of mood disorders or organic disorder with psychotic symptoms.  Thirty six percent had a comorbid alcohol or substance use disorder.  In the original study 7 years earlier, 128 patients were randomized into a DR (dose reduction/discontinuation) and MT(maintenance treatment) arms.  A few things are striking as I look at this study.  The first is the relatively small N of patient in the study and the diagnostic heterogeneity.  In the subgroup analysis at 7 years (Figure 3.) there were a total of 5, 6, 8, and 14 patients in the subgroups.  Some of the diagnostic categories imply more chronicity than others.  
+
+From an experimental standpoint I have concerns about the addition of that last three categories - delusional disorder, brief psychotic disorder, and psychotic disorder-NOS.  In my experience, delusional disorder is often not associated with much functional impairment and patients often do not benefit from or want to take any medications.  They can be engaged in psychotherapy but maintaining them in therapy is often problematic unless there is an associated crisis in their lives.   Brief psychotic disorders also have a good prognosis.  I recall presenting data to families concerned about this problem based on a review of what was primarily Scandinavian literature from the 1980s suggesting that up to 50% of patients with a diagnosis of "brief reactive psychosis" experienced remissions.  Schizoaffective disorder has similar problems with the manic subtype having a course and prognosis similar to bipolar disorder and the depressive subtype having a course and prognosis similar to schizophrenia.  In clinical practice it is extremely common to see bipolar patients misdiagnosed with schizoaffective disorder and I have always wondered how that impacts on the studies of course and prognosis.  At any rate, adding these diagnostic categories (31% of the total sample) biases this study toward better outcomes.
+
+The dose of haloperidol is interesting.  I started to practice inpatient psychiatry in an era of very high dose antipsychotic medication.  It did not take long to figure out that this was a bad idea.  It also did not take long to look at the basic science behind antipsychotic medication dosing.  A key figure in the early days of dopamine receptor pharmacology was Phillip Seeman, PhD who wrote an excellent review in American College of Neuropsychopharmacology's The Fourth Generation of Progress.  His graph of D2 receptor dissociation constants versus free neuroleptic in plasma water correlated well with antipsychotic dose provided a sound rationale for lower doses and also monitoring plasma levels of antipsychotics.  In my experience the only people who need higher doses of antipsychotics are rapid metabolizers of a particular drug with lower than expected levels.  With haloperidol that usually translates to a dose of 2-4 mg/day.  That is consistent with the dose ranges in the diagram in Figure 2 of this paper.  There is also a distinct group of people who have such neurotoxicity from antipsychotic medications that they should probably never take them.  That is also why I am member of the Movement Disorder Society.
+
+Another interesting aspect of this paper is the psychopathology ratings.  When I noticed the diagnostic heterogeneity and the likelihood of remission, the logical question is what the ratings show.  In this study the  Positive and Negative Syndrome Scale (PANSS).  I had experience   with the brief versions of these scales.  Each dimension is rated on a 7 point Likert scale from 1 (normal) to 7 (extremely severe).  The PANSS is widely accepted as being psychometrically valid.  There is not a consensus on the interpretation of scoring and what might mean remission.  In this study we have to track back to the original description of the sample (3) and we observe the average baseline PANSS P score as 9.9 for the DR groups and 10.7 for the MT group.  The average PANSS N score was 13.1 for the DR group and 14.0 for the MT group.  For the purpose of contrast, the authors of this article expressed their concern about the interpretation of PANSS scores illustrate their concern by presenting ratings for an agitated patient with schizophrenia and paranoia.  The PANSS P score of 28 had improved to 24 by the end of the study and the PANSS N score was unchanged at 22.  
+
+The overall context for the references here are important to keep in mind.  The authors original experiment (3) was an 18 month follow up of FEP following 6 months of remission of positive symptoms according to the PANNS.  It basically showed at that point that only 20% of patients can discontinue medications in the acute phase and that the relapse rate was twice as high with the DR than the MT strategy (43 versus 21%).  The current article (2) recruited members of the original trial and did the same intervention after 6 months of remission and assigned them to DR and MT groups and showed that the DR patients had twice the symptomatic and functional recovery rate than the MT patients (40.4 vs. 17.6%).  Looking at the baseline and study completion PANNS score for both studies yields the following:
+
+All PANNS scores are  mean(SD)
+Study 1
+Study 2
+Baseline
+End of Trial
+Baseline
+End of Trial
+DR
+MT
+DR
+MT
+DR
+MT
+DR
+MT
+PANNS P
+9.9(2.8)
+10.7(3.0)
+11(4.3)
+10.8(3.8)
+9.79(2.96)
+10.78(3.15)
+PANNS N
+13.1(4.6)
+14.0(5.6)
+12.1(5.2)
+13.3(6.2)
+12.87(4.8)
+13.96(5.51)
+PANNS G
+24.6(6.2)
+26.4(6.9)
+24.7(7.3)
+24.9(6.7)
+25.27(6.44)
+26.45(6.62)
+
+Although I could not find PANNS scores for the end of the second study, the scores in all categories across studies are strikingly similar.  PANNS, BPRS, and CGI scores have recently been investigated by Leucht, et al who conclude that a change of a 10 point reduction of a PANSS score was the equivalent of mild clinical improvement and a 50% reduction was consistent with “much improvement” in an acutely ill non-refractory sample (5).
+
+I think the reasonable conclusions from this study are:
+
+1.  Mildly symptomatic populations with FEP may be cautiously tapered off low dose antipsychotics over time and experience better functional recovery.  Tapering earlier in the course has a higher risk of relapse.
+
+2.  The treatment recommendation for low dose antipsychotic medication in mildly symptomatic populations is sound practice according to this report.  Another important aspect is that minimal side effects were reported in standard measures in this study.  It is still common to find patients discharged from hospitals on the equivalent of 10-20 mg haloperidol and show up for their first outpatient visit with metabolic or neurological side effects.
+
+3.  FEP needs further study.  I suppose we can wait for a large initiative and I may have missed one in progress, but the best approach at this time would be for large clinics and hospital based programs to all develop FEP clinics staffed by interested staff and networked to share information.  This study highlights that following the remission of psychotic symptoms is not enough and the common practice of following people in an outpatient “medication management” visit is not enough to restore functional capacity or quality of life.  There is also the question of the availability of psychotherapy for people who can successfully taper off antipsychotic medications and for those who cannot.  I have found that psychotherapy is often a useful treatment for people who cannot tolerate low dose antipsychotic medication.
+
+4.  The authors describe reasonable concerns about their study including that fact that they may have selected the “best half” of the subjects from the original trial.  The subjects that were nonparticipants in the second study were described at “functioning at a lower level, less adherent to therapy and more difficult to engage.” But it is difficult to see that in the rankings at baseline.  They also point out that the raters were not blind and suggest that probably would not account for the degree of difference.  Based on studies of clinics that deal well with certain chronic disease (like cystic fibrosis) motivated clinicians with a stake in the treatment method and outcome clearly can make a difference and that might be reflected in ratings.  They discuss a mechanism to account for gains in functional capacity in the DR arm and that is basically less impairment of dopamine signaling and possible impairment in drive, motivation and functional capacity.  They recommend follow up studies of up to 7 years “or longer” in duration to look at these trends.
+
+Finally, there is really no reason why principles discovered in an FEP study or a psychotherapy study of psychosis cannot be applied to patients who have histories of recurrent psychotic episodes.  Highly motivated clinicians can apply these treatment modalities if they have the opportunity.  It is really no different than large scale (but much better funded) efforts in other specialties where the treatments and outcomes are in a state of flux.  A good example would be electrophysiological ablation of atrial fibrillation.  There has been some opinion about the implications of this study for the idea of life-long maintenance therapy but it is equally damning for the model of seeing patients in 15 minute visits and asking them about positive symptoms and medication side effects.  There has always been a need for a much broader focus on cognition and functional capacity.
+
+George Dawson, MD, DFAPA
+
+1: McGorry P, Alvarez-Jimenez M, Killackey E. Antipsychotic Medication During the
+Critical Period Following Remission From First-Episode Psychosis: Less Is More.
+JAMA Psychiatry. 2013 Jul 3. doi: 10.1001/jamapsychiatry.2013.264. [Epub ahead of print   PubMed PMID: 23824206. 
+
+2: Wunderink L, Nieboer RM, Wiersma D, Sytema S, Nienhuis FJ. Recovery in
+Remitted First-Episode Psychosis at 7 Years of Follow-up of an Early Dose
+Reduction/Discontinuation or Maintenance Treatment Strategy: Long-term Follow-up
+of a 2-Year Randomized Clinical Trial. JAMA Psychiatry. 2013 Jul 3. doi:
+PubMed PMID: 23824214. 10.1001/jamapsychiatry.2013.19. [Epub ahead of print]
+
+3: Wunderink L, Nienhuis FJ, Sytema S, Slooff CJ, Knegtering R, Wiersma D. Guided
+discontinuation versus maintenance treatment in remitted first-episode psychosis:
+relapse rates and functional outcome. J Clin Psychiatry. 2007 May;68(5):654-61.
+PubMed PMID: 17503973.
+               4:  Kay SR, Fiszbein A, Opler LA. The positive and negative syndrome scale (PANSS)
+for schizophrenia. Schizophr Bull. 1987;13(2):261-76. PubMed PMID: 3616518.
+
+5: Leucht S, Kane JM, Etschel E, Kissling W, Hamann J, Engel RR. Linking the
+PANSS, BPRS, and CGI: clinical implications. Neuropsychopharmacology. 2006
+Oct;31(10):2318-25. Epub 2006 Jul 5. PubMed PMID: 16823384.

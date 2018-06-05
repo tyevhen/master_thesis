@@ -1,0 +1,49 @@
+With the advent of sites like genomevolution.org (where you can download genomes, create synteny graphs, run BLAST searches, and do all sorts of desktop bioinformatics), it's ridiculously easy for someone interested in comparative genomics to . . . well, compare genomes, for one thing. And if you look at enough gene sequences, a couple of things pop out.
+
+One thing that pops out is that most codons, in most genes, begin with a purine (namely A or G: adenine or guanine). Also, codons typically show the greatest GC swing in base number three. These trends can be seen in the chart below, where I show average base composition (by codon position) for three well-studied organisms. For clarity, base-one purines are shown in bold and base-three G and C are shown highlighted in yellow.
+
+Organism
+Codon base
+A
+G
+C
+T
+S. griseus
+1
+0.166 0.434 0.287 0.112
+2
+0.224 0.219 0.295 0.261
+3
+0.037 0.394 0.530 0.038
+E. coli
+1
+0.256 0.343 0.238 0.161
+2
+0.291 0.181 0.222 0.304
+3
+0.186 0.285 0.261 0.265
+C. botulinum
+1
+0.395 0.299 0.094 0.210
+2
+0.374 0.136 0.161 0.328
+3
+0.442 0.108 0.064 0.383
+
+Streptomyces griseus is a common soil bacterium that happens to have very high genomic G+C content (72.1% overall, although you can see that in base three of codons the G+C content is more like 92%).
+
+E. coli represents a middle-of-the-road organism in terms of G+C content (50.8% overall), while our ugly friend Clostridium botulinum (the soil organism that can ruin your whole day if it finds its way into a can of tomatoes) has very low genomic G+C content (around 28%).
+
+Even though these organisms differ greatly in G+C content, they all illustrate the (universal) trend toward usage of purines (A or G) in the first position of a codon. Something like 59% to 69% of the time (depending on the organism), codons look like Pnn, where P is a purine base and 'n' represents any base. This is true for viruses as well as cellular genomes.
+
+This pattern is so universal, one wonders why it exists. I think a credible, parsimonious explanation is that when protein-coding genes look like PnnPnnPnn... (etc.) it makes for a crisp reading frame. It's easy to see that a +1 frameshift results in a repeating nPn pattern and a +2 frameshift results in repeats of nnP. These are easily distinguished from Pnn.
+
+There are benefits for a PnnPnnPnn... reading frame. In a previous post, I showed that when most of a gene's codons have a pyrimidine in base two, the resulting protein gets shipped to the cell membrane. (This is a simple consequence of the fact that codons with a pyrimidine in position two tend to code for hydrophobic, lipid-soluble amino acids.) Because a +1 reading-frame shift produces repeats of nPn, the Pnn "default" pattern means that +1 frameshifted gene products, if they occur, won't get shipped to the cell membrane. This is an extremely important outcome, because membrane proteins are, in general, highly transcribed and under strong selective pressure. In addition to specifying antigenic properties and determining phage resistance, membrane proteins make up proton pumps, secretion systems, symporters, kinases, flagellar components, and many other kinds of proteins. They determine the cell's "interface" to the world. They also maintain cell osmolarity and membrane redox potential. Messing with membrane proteins is bound to be risky. Much better to keep frameshifted nonsense proteins away from the membrane.
+
+Fairly strong support for this notion (that Pnn codons provide a crisp reading frame) comes from studies of naturally occurring frameshift signals in DNA. We now know that in many organisms, certain "slippery" DNA signals (usually heptamers, like CCCTGAC) instruct the ribosome to change reading frames. (See, for example, "A Gripping Tale of Ribosomal Frameshifting: Extragenic Suppressors of Frameshift Mutations Spotlight P-Site Realignment," Atkins and Björk, Microbiol. Mol. Biol. Rev. 2009. Also, for fun, be sure to check out some of the papers on quadruplet decoding, which leaves room for alien life forms with 200 amino acids instead of 20.) The "slippery heptamer" frameshift signals that have thus far been identified tend to contain runs of pyrimidines.
+
+Also tending to support the "Pnn = crisp reading frame" notion is the fact that stop codons (TGA, TAA, TAG) look like pPP (where 'p' is a pyrimidine and 'P' is a purine). Again, a crisp distinction.
+
+As for why purines were chosen (and not pyrimidines) to begin the Xxx pattern, again I think a fairly parsimonious answer is available: ATP and GTP are the most abundant nucleoside-triphosphates in vivo. These are the energy sources for nucleic-acid and protein synthesis, respectively.
+
+A prediction: If we run into an alien life form (in the oceans of Europa, say) and it turns out to be the case that UTP (instead of ATP) is the "universal energy molecule" in that life form's cells, then that life form's codons will probably begin with U and form Unn triplets (or Unnn quadruplets, perhaps) a higher-than-average percentage of the time.

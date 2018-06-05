@@ -1,0 +1,25 @@
+A few days ago I gave a detailed front-to-back tutorial on how to do a bit of bio-hacking. I showed how to quickly get the amino acid sequences for 25 versions of the Hsp40 (DnaJ) heat shock protein, as produced by 25 different organisms, then create a graph of arginine content versus lysine content for the 25 organisms (all bacterial and Archaea). The resulting graph looked something like this:
+
+Lysine and arginine (mole-fraction) in the DnaJ protein of 50 microorganisms.
+
+In this particular graph there are 50 points, because I went back to UniProt and added 25 more organisms to the mix, to see if the trend line would hold true. (The correlation actually got stronger: r=0.82.) The graph clearly shows that as lysine concentration goes up, arginine concentration goes down. Does this graph prove that lysine can take the place of arginine in DnaJ? That's not exactly what the graph says, although it's a worthwhile hypothesis. To check it out, you'd want to look at some AA sequence alignments to see if arginine and lysine are, in fact, replacing each other in the exact same spots in the protein, across organisms. Certainly it would be reasonable for lysine to replace arginine. Both are polar, positively charged amino acids.
+
+I should point out that the organisms in this graph vary greatly in genomic G+C content. The codon AAA represents lysine, and experience has taught me (maybe you've noticed this too, if you're a biogeek) that lysine usage is a pretty reliable proxy for low G+C content. If you check the codon usage tables for organisms with low-GC genomes, you'll see that they use lysine more than any other amino acid. In Clostridium botulinum, AAA accounts for 8% of codon usage. In Buchnera it's 9%. Low G+C means high lysine usage.
+
+Likewise, organisms with low G+C quite often have a disproportionately low frequency of 5'-CpG-3' dinucleotides in their DNA (much lower than would occur by chance). The technical explanation for this is interesting, but I'll leave it for another day. Suffice it to say, organisms with low CpG tend, by definition, not to use very many codons that begin with CG, all of which code for (guess which amino acid?) arginine.
+
+To see if the arg-lys inverse relationship holds for higher organisms, I gathered up DnaJ sequences for 25 plants. The results:
+
+Same idea as above, but this time using data for 50 plants (instead of bacteria).
+
+Same negative relationship. However, note one thing: The scale of the graph's axes do not match the scale of the axes in the previous graph (further above). In this graph, we're seeing a very narrow range of frequencies for both Arg and Lys. Fortunately, ZunZun's interface makes it easy for us to re-plot the plant data using the same axis scaling as we had for our bacterial data. By constraining the x- and y-axis limits, we can re-visualize this data in an apples-to-apples context:
+
+The plant data, re-plotted with the same axis scaling as used in the bacterial plot further above.
+
+If you compare this graph carefully to the first graph, at the top of the page, you'll see that the points lie on pretty much the same line.
+
+Just for fun, I went back to the UnitProt site and searched for DnaJ in insects (Arthropoda, which technically also subsumes crustacea). Then I plotted the bug data using the same x- and y-axis scaling as for the bacteria:
+
+
+Same graph, this time for 62 insect DnaJ sequences.
+The insect points tend to cluster higher in the graph, and much further to the left than for plants, indicating that the arthropods seem to like Arg and don't much care to use Lys. The moral, I suppose, is that if your diet is lacking in arginine, you should eat fewer plants and more insects.

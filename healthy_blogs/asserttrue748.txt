@@ -1,0 +1,23 @@
+I've found, over the years, that in almost every successful field of technology there's a "killer app," a category-leader so strong as to be universally understood as the archetype of success in a given domain. Conversely, when a technology lacks a killer app, it tends to be very telling. It says something about the future of that technology.
+
+Take Java, for example. When Java first arrived, there were high hopes for its success based on the "write once, run anywhere" mantra. Applets started showing up all over the Web. But on the desktop, no killer apps. And even in the applet world, no killer apps, just a bunch of little games and academic demos. (Java's "killer app," the thing that would ensure its place in history, didn't really arrive until 1999: something called J2EE.)
+
+So when a new technology-space like RIA comes along, with contenders having fancy names like AIR, Silverlight, or JavaFX, I sit back and wait for a "killer app" to emerge, signalling the appearance of a likely winner (or at least a contender with a future ahead of it) in the multi-way battle.
+
+JavaFX was late to the party, so I continue to give it the benefit of the doubt, but it looks stillborn to me at this point (and I think the Oracle acquisition of Sun may delay progress with JavaFX until far past the point where it can regain ground against Adobe Flex/AIR). One thing we can all agree on is that there is no killer JavaFX app. In fact I can't even name a JavaFX app. Not a single one. "But it's too early," someone will say. To the contrary, my friend: It may be too late.
+
+Silverlight has the full mass and motive power of the Microsoft juggernaut behind it, and for that reason we can't dismiss it (yet). But again, where are the killer apps? Shouldn't we have seen one by now? Shouldn't it be possible to walk up behind someone at any gathering of programmers, tap a total stranger on the shoulder, and get an immediate answer to the question: "Can you name a really cool Silverlight app?"
+
+Yes, it's early.
+
+And then there's Adobe with its shiny new AIR technology, built atop half-open, half-closed Flash and Flex infastructure, an alluring platform with the not inconsiderable advantage of being built, largely, on ActionScript (hormone-enriched JavaScript). It's fun, it's pretty, it's new. But where are the killer apps?
+
+Actually, there's a class of killer apps built around AIR now. (Maybe you've noticed?) It's called the Twitter Client. TweetDeck, Twhirl, AlertThingy, Toro, the list goes on and on. (Many of these are not just Twitter clients, of course. Some are perhaps better called social clients, since they interact with other services besides Twitter.)
+
+Does this mean Adobe has won the RIA wars? No, of course not. But it sure has a nice head start.
+
+What we need to see now is whether additional killer-app categories start to emerge around AIR. If AIR progresses beyond the point of supporting fun little SoCo apps, things could get very interesting (for users of cell phones, palm devices, PCs, netbooks, laptops, readers, and who-knows-what-else) in a hurry.
+
+If not -- if AIR remains the province of waist-slimming Twitter clients and zero-calorie RSS feed readers -- then we may have yet another evolutionary dead end along the lines of (dare I say it?) Java Man.
+
+Time will tell.

@@ -1,0 +1,59 @@
+Alcohol use disorders after gastric bypass procedures are a significant complication of this surgery.  I typically see people who have developed the disorder after the gastric bypass procedure.  The majority of those procedures these days are Roux-en-Y (RYGB).  The surgical mechanics of RYGB are widely available and I am not going to review them here.  This post is about how the procedure can change a person into a problem drinker endangering both their health and in some cases leading to substantial weight gain after initial losses from the bypass procedure.  Although there are other surgical techniques used for gastric bypass that also lead to this complication RYGB is the most common technique and is more likely to be studied.  In the figures above, blood alcohol levels are determined in individuals who had undergone RYGB surgery after ingestion of alcohol.
+
+One of the well known principles in addiction medicine is that overuse of any potentially addictive substance generally follows pharmacological principles especially as tolerance to a drug develops.  Other factors such as economics, whether a drug can be used by a particular route, and biologically determined sensitivities to drugs can modify that basic concept.  To illustrate, most current opioid users with addiction problems started by using prescription painkillers.  They may have modified the original prescription pills by crushing them and either smoking or snorting them.  In some cases, they crush the pills, dissolve them, crudely filter them and inject them.  In this case they are trying to optimize the time to peak drug concentration Tmax and maximum drug concentration Cmax for maximum effect.  In the case of alcohol, it is generally too dangerous to use by the inhaled or intravenous route.  The effects are limited by absorption and elimination by zero order kinetics.
+
+The graphics at the top of this page are from reference 1. It shows the results of blood alcohol concentration of 5 RYGB patients after drinking a solution of 40% vodka and orange juice calculated to contain 0.3 gram per kilogram body weight. The vodka and orange juice mixture was adjusted to contain a 50:50 mix of vodka:orange juice. Mean dose of ethanol given was 26.9 ± 2.3 grams or about 2 standard drinks consumed over a period of 5 minutes. On the graphs alcohol concentration is given as mg/dl. In the US, the current legal driving limit is 80 mg/dl or 0.08%. The researchers decided to look at the time from 0-10 minutes apart from 0-60 minutes because previous work started the measurements at 10 minutes.  The other point to notice in these graphs is that there is no control group.  That is unfortunate given the variable methods (alcohol dose and consumption time) that are used to determine the pharmacokinetics of alcohol in research papers that look at this question.
+
+A comparison with control subjects in the literature can be done, but I could not find any studies that used a dose of 0.3 g/kg of ethanol.  Many studies used a dose of 0.6 g/kg.  The study used in the comparison below used a dose of 0.8 g/kg ingested over 30 minutes.   Comparing Tmax and Cmax for the study on RYGB patients to a study of 12 healthy male controls shows the following differences:
+
+
+
+Male controls (n=12)
+RYGB patients (N=5)
+Cmax (mg/dl)
+106
+138.4
+Tmax (min)
+60
+5.4
+
+
+Experimental differences aside. the Cmax and Tmax for alcohol in the RYGB patients are markedly different.  The time to peak alcohol levels was only 5.4 minutes in the RYGB group and at that time the average Cmax easily exceeded the legal driving limit on what amounts to 2 standard drinks.  Although the study did not correlate the rapid peak of alcohol with effects, they are readily observed by any clinician interested in how intoxicants affect the conscious state of the patient.  People typically tell me that they feel immediate intoxication or in some cases blackout.  The intoxication is a rapid sense of euphoria combined with an immediate cessation of negative mood states.  In the case of blacking out, this is a frequent end point with severe alcohol addiction.  Many people are self professed "black out drunks" and that is their preferred endpoint of acute intoxication and the goal of subsequent drinking sessions.  These states are highly reinforcing for susceptible people and probably explain the greater than expected occurrence of alcohol related disorders following RYGB surgery.  Looking at the prevalence of alcohol use disorder (AUD) before and after RYGB surgery, Mitchell, et al found that 8% had AUD within the 3 year post op period including 48% who had no prior history of AUD.  Including a more permissive screening tool the number increased to 18.4% and 40.6% respectively.  A previous study  showed that the prevalence of AUD symptoms was greater in year 2 post gastric bypass surgery (9.6%) and was associated with a number of preoperative variables including RYGB, male sex, smoking, and regular alcohol consumption before the procedure.
+
+The studies that look at the prevalence of alcohol use are interesting.  From the perspective of an addiction psychiatrist who only sees patients selected for addiction, observing the effect of scale is significant.  As an example, the patients who I see with this problem are predominantly women and practically all of them did not have an alcohol use problem prior to surgery.  In many cases they did not drink alcohol.  Practically all had undergone RYGB but there were also people with other bypass procedures. 
+
+An additional research question has been whether the anatomic changes in RYGB lead to changes in the brain and central nervous system that changes addictive behavior.  The model used for these investigations have been obese rats that have undergone RYGB and intravenous self administration of alcohol and drugs.  That model would eliminate pharmacokinetic considerations from oral administration with rapid increases in plasma concentration in a short while.   Rats with RYGB self administer intravenous alcohol and opioids at a higher rat than rats that have not had gastric bypass surgery suggesting a centrally mediated mechanism more independent of gut absorption (5,6).  One set of authors (5) proposed that in obesity there is blunted dopamine and ghrelin signalling.  They make the case that leptin and ghrelin both affect dopaminergic signalling in the reward system. (see diagram - click to enlarge).  
+
+
+
+
+
+Despite being well known to eating disorder and addiction specialists, I don't think the phenomenon of alcohol overuse in gastric bypass patients is well known.  It has implications for informed consent for this surgical procedure, some risk factor modification, and follow up.  It also may have implications for the diagnosis and treatment of alcohol use disorders.  As an example, binge drinkers and blackout drinkers are a known subset the population of people with alcohol use disorders.  Does this group have any similarities with the population of RYGB patients who develop alcohol use disorders?  What would pharmacokinetic studies of alcohol in this group show?  If a profile of peptide hormone changes in the RYGB group is defined - should that be studied in binge and blackout drinkers as well?
+
+These might lead to useful endophenotypes for alcohol use disorder that could lead to treatment interventions.
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1:  Steffen KJ, Engel SG, Pollert GA, Li C, Mitchell JE. Blood alcohol concentrations rise rapidly and dramatically after Roux-en-Y gastric bypass. Surg Obes Relat Dis. 2013 May-Jun;9(3):470-3. doi: 10.1016/j.soard.2013.02.002. PubMed PMID: 23507629; PubMed Central PMCID: PMC4487806.
+
+2:  Jones AW,  Jönsson KÅ.  Between subject and within subject variation in the pharmacokinetics of ethanol.  Br J Clin Pharmac 1994; 37: 427-431.
+.
+3:  Mitchell JE, Steffen K, Engel S, King WC, Chen JY, Winters K, Sogg S, Sondag C, Kalarchian M, Elder K. Addictive disorders after Roux-en-Y gastric bypass. Surg Obes Relat Dis. 2015 Jul-Aug;11(4):897-905. doi: 10.1016/j.soard.2014.10.026. PubMed PMID: 25862182; PubMed Central PMCID: PMC4430439.
+
+4:  King WC, Chen JY, Mitchell JE, Kalarchian MA, Steffen KJ, Engel SG, Courcoulas AP, Pories WJ, Yanovski SZ. Prevalence of alcohol use disorders before and after bariatric surgery. JAMA. 2012 Jun 20;307(23):2516-25. doi: 10.1001/jama.2012.6147. PubMed PMID: 22710289; PubMed Central PMCID: PMC3682834.
+
+5:  Polston JE, Pritchett CE, Tomasko JM, Rogers AM, Leggio L, Thanos PK, Volkow ND, Hajnal A. Roux-en-Y gastric bypass increases intravenous ethanol self-administration in dietary obese rats. PLoS One. 2013 Dec 31;8(12):e83741. doi: 10.1371/journal.pone.0083741. PubMed PMID: 24391816; PubMed Central PMCID: PMC3877092.
+
+6:  Biegler JM, Freet CS, Horvath N, Rogers AM, Hajnal A. Increased intravenous morphine self-administration following Roux-en-Y gastric bypass in dietary obese rats. Brain Res Bull. 2016 May;123:47-52. doi: 10.1016/j.brainresbull.2015.08.003. PubMed PMID: 26304761; PubMed Central PMCID: PMC4761525.
+
+
+
+Attributions:
+
+1.  Figure at the top of this post is used with permission from copyright holder Copyright © 2013 American Society for Metabolic and Bariatric Surgery. Published by Elsevier Inc. All rights reserved through license 4007221260909 via the Copyright Clearance Center.
+
+2.  Figure at the bottom is from VisiScience and is used per their licensing agreement.

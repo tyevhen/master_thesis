@@ -1,0 +1,64 @@
+One of the primary duties of an AMHP is to interview someone who is being assessed for admission under the Mental Health Act “in a suitable manner”.
+
+The Act states: “Before making an application for the admission of a patient to hospital an approved mental health professional shall interview the patient in a suitable manner and satisfy himself that detention in a hospital is in all the circumstances of the case the most appropriate way of providing the care and medical treatment of which the patient stands in need.” (Sec.13(2)
+
+The Code of Practice does not have a great deal to say about exactly how an AMHP should interview “in a suitable manner”. It does recommend that the patient should have an opportunity to see the AMHP alone, or in the company of someone with whom the patient feels comfortable, if possible. It also suggests that “it is not desirable for patients to be interviewed through a closed door or window” (5.54), stating that this would be acceptable only where “other people are at serious risk.” It is not clear whether this includes the AMHP.
+
+The Reference Guide to the Act offers some additional guidance as to what interviewing “in a suitable manner” entails, stating that this should take into account "the patient’s age and understanding and any hearing or linguistic difficulties the patient may have” (2.31).
+
+Some Case Law has further elucidated what constitutes interviewing “in a suitable manner”. One of these is R (on the application of M) v The Managers, Queen Mary’s Hospital [2008]. The judge concluded in this case that the purpose of the interview is achieved where the AMHP “attempts to communicate with the patient, but she fails to respond, or responds inappropriately, in a manner suggesting that she does indeed require treatment.”
+
+Another case is M v South West London & St. George’s Mental Health NHS Trust, Court of Appeal (Civ Div) 7th August 2008. This case concerned a woman with a diagnosis of bipolar affective disorder who had been detained under Sec.2. She was then going to be assessed under Sec.3, but she attempted to avoid this by telling her solicitor that she was not well enough to be assessed (she was in A&E with pancreatitis). Nevertheless, she was interviewed by the doctors and ASW (at the time) and was detained. She objected to this on the grounds that the interview had not been conducted properly and the detention was therefore illegal. The Judge, however, concluded that even a short interview could be considered as sufficient, and also that the cooperation or otherwise of the patient being interviewed was not required.
+
+This Case Law should provide comfort to AMHP’s who not unusually encounter people who are less than enthusiastic about being assessed under the MHA. I have certainly had situations in which I have had to follow a patient around the house, attempting to interview him, or where they have refused to answer questions or cooperate in any way with the process. Some of them have abruptly left the interview when they have cottoned on to what is happening.
+
+Here are some basic guidelines, then, about how to interview "in a suitable manner".
+
+Location
+The interview should take place in the least threatening or least restrictive way possible.
+
+Unless the patient has been demonstrated to be dangerous, they should not be interviewed in a police cell, but should be seen in an interview room if at all possible. There are now many specially designed S136 suites around the country, so interviewing at the police station is now less likely than in the past.
+
+(Having said that, I recall on one occasion interviewing a patient through the flap in the cell door. He was a fly weight boxer with bipolar disorder who was manic. He was naked from the waist up, was flexing his muscles in a distinctly intimidating manner, and I knew he had already assaulted several police officers. Despite being in handcuffs, I was not taking any chances. When he was eventually admitted to hospital, he managed to do a back flip out of one of the windows and successfully escaped.)
+
+If the patient is being interviewed in hospital, this should ideally take place in an interview room rather than the patient’s room, and certainly in private and out of earshot of other patients.
+
+Many assessments, of course, take place in the patient’s own home. In these situations, the patient often has more control over the process. However, the AMHP not only has the legal duty to conduct an interview, but also the legal power to ensure that this takes place, even if the patient does not wish to cooperate.
+
+Ultimately, you may not have much choice over location. On one occasion I had to interview someone in a churchyard in the middle of the night, when the police had been called after someone walking their dog had found a man lying prostrate on a grave stone, stripped to the waist, with his chest covered in blood from self inflicted wounds.
+
+On at least two occasions, I have had no choice but to interview the patient through a closed door. The alternatives I assessed as being disproportionate or counterproductive.
+
+Inappropriate Circumstances
+There are specific circumstances in which it is not possible to attempt to interview at all: if the patient is unconscious, for example, or too heavily sedated to be able communicate, or if they are clearly intoxicated with alcohol or under the influence of drugs. However, that is not to say that the AMHP should refuse to assess if even a whiff of alcohol is detected – it has to be a matter of judgment of the specific circumstances – chronic alcoholics may never be sober, but still be capable of being interviewed and assessed.
+
+Other people
+The AMHP will generally be with at least one doctor, and it does make sense for them to interview the patient together. This can also serve to prevent duplication which the patient could find irritating or distressing. However, there may be circumstances in which the fact of the AMHP not being a medical person could put the patient more at ease, so consideration should be given to offering to interview alone, if it is safe to do so.
+
+Assessments at home can involve large numbers of people: I have certainly regularly had situations in which, as well as the patient, their relatives, two doctors and an AMHP being present, there have also been several police officers, an ambulance crew, and an assortment of student professionals of various types. This can be very intimidating, and the AMHP should seek to minimise the pressure this may place on the person being interviewed.
+
+Facilitate communication
+It is vital to take into account any specific communication needs the patient may have. This would include obtaining an interpreter if the patient does not have English as their first language, or using someone who knows sign language if the patient is hearing impaired. The use of a Makaton interpreter may be required with someone with a severe mental impairment. I wrote at length about one particularly unusual situation, with a young woman who was Portuguese and hearing impaired, and who had her own unique way of communicating with her mother, who also did not speak English (Lost in Translation).
+
+Explain the purpose of the interview
+The AMHP is required to introduce themselves and explain the purpose of the interview. My typical introduction would go along the following lines:
+
+“Hello, my name is The Masked AMHP. I am an Approved Mental Health Professional. I have been asked to assess you to see if you need to be detained in hospital under the Mental Health Act.”
+
+The AMHP is required to display identification when acting as an AMHP.
+
+Obtain necessary information
+The AMHP should already have obtained as much background information as possible from relatives and carers, medical records, and other involved professionals such as the GP, a community nurse, a social worker, or the police, but obtaining corroboration (or contradiction) from the patient is just as important.
+
+The AMHP should find out as much as possible about the patient’s past and present circumstances, and their medical and psychiatric history, including information about risk behaviour (suicide attempts, assaults, etc.). The implications for the carers of the patient’s behaviour is also very important.
+
+Although the AMHP will have had an account of the specific symptoms being displayed that have precipitated the assessment, it is important to try and elicit these symptoms from the patient at first hand. Sometimes this is easy – the patient may have so little control over their symptoms that they are displaying clear signs such as pressure of speech or grandiose delusions. They may be very controlled but willing to cooperate, therefore revealing frank evidence of the existence of suicidal intent and plans, or so distressed by their symptoms that they want to tell you what is happening to them. On one occasion I knocked on the door of someone I was visiting to assess. As soon as he answered the door, the patient cried out: “Thank God, you’ve come! I’m begging you to take me to hospital! The TV’s talking to me! It’s awful!”
+
+At other times, the patient may be very guarded, and unwilling to acknowledge that they have any symptoms at all. In such situations, it may be necessary to explore their thought processes at considerable length in order to be satisfied that they are indeed experiencing signs of severe mental illness.
+
+Be sensitive
+In all circumstances, the AMHP needs to behave with sensitivity to the needs of the patient. Being subject to a formal assessment can be a terrifying ordeal, and the AMHP needs to be acutely aware of the power imbalance inherent in the role and act accordingly.
+
+This is a summary of factors that an AMHP should take into account when conducting an assessment under the MHA. Ultimately, the situations in which an AMHP finds themselves are unique to each case, and it has to be a matter for the professional judgment of the AMHP as to what constitutes interviewing “in a suitable manner”. As long as the AMHP can show that they have acted in good faith and with due professional diligence, and records any difficulties they have encountered and steps taken to try to overcome them, then they will have discharged their legal duties.
+
+So what unusual situations have readers of the blog found themselves in (either as AMHP’s or interviewees) – and how did you deal with it?

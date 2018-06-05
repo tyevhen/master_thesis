@@ -1,0 +1,454 @@
+With permission, I am stealing this entire post from Psych Practice, a NYC psychiatrist who was kind enough to go through a step-by-step How To Guide for determining and documenting the Evaluation and Management coding for the new CPT codes we'll be using in January.  And thank you to Becca who found this for me.  Now if someone could translate it into exactly what one needs to do when using these E/M codes in combination with the psychotherapy codes, that would be wonderful.  
+
+
+
+E;M Coding, in All Its Glory
+
+There are three key components to E&M level of care: history, exam, and medical decision making. Each of these components has requirements for meeting the various levels of care. You need 2 out of 3 of these components to reach a specified level of care. For example, if you have an extended problem focussed history, but only 2 exam elements, you can still meet criteria for a 99213 provided your medical decision making is of low complexity. It sounds confusing, but it’ll become clearer as we move along. The details for each of these components follow, after which I’ll give some examples.
+
+
+Table 1
+
+
+Level Of Care Requirements (2 out of 3 needed)
+Level of Care
+Hx
+Exam
+MDM
+99212
+Problem Focussed
+1-5
+Straightforward
+99213
+Extended Problem Focussed
+>6
+Low Complexity
+99214
+Detailed
+12 from 2 or more organ systems
+Moderate Complexity
+99215
+Comprehensive
+2 from each of 9 organ systems
+High Complexity
+
+Let’s look at each of the three components.
+
+1. History:
+History is broken into 4 parts, namely, CC, HPI (or Interval History for an established patient), ROS, and PFSH (past medical, family, and social history).
+
+CC is the presenting complaint for that session, and can be related to the diagnosis. 
+
+Examples: “Anxiety”, or “F/U for Anxiety”
+
+In case you were wondering, a CC is required for all notes, not just the initial evaluation.
+
+
+HPI or Interval History is comprised of the following elements:
+• Location 
+• Quality
+• Severity 
+• Duration 
+• Timing
+• Context
+• Modifying Factors
+• Associated Signs and Symptoms
+
+HPI is considered “ Brief” if it includes 1-3 of these elements, and “Extended” if it includes > 4 elements or 3 stable conditions.
+
+Example: The patient c/o worsening anxiety x 1 week with panic symptoms that occur intermittently, on average once per day, last for 5 minutes, and are brought on unexpectedly by unclear precipitants.
+
+This would qualify as an extended interval history because it includes 4 elements: severity, duration, timing, and context (or 5 if you include modifying factors).
+
+
+ROS includes pertinent positives and negatives. There are fourteen individual systems recognized by the E/M guidelines:
+• Constitutional (e.g., fever, weight loss) 
+• Eyes
+• Ears, Nose, Mouth, Throat
+• Cardiovascular
+• Respiratory
+• Gastrointestinal
+• Genitourinary
+• Musculoskeletal
+• Integumentary (skin and/or breast)
+• Neurological
+• Psychiatric
+• Endocrine
+• Hematologic/Lymphatic 
+• Allergic/Immunologic
+
+Even in Psychiatry, it is possible to review more than one organ system.
+
+Example: ROS positive for GI upset, SOB, diaphoresis, and dissociative feelings.
+
+This example could arguably include GI, Respiratory, and Psychiatric. However, it’s unclear what the liability is if you’re calling SOB respiratory, and then not listening to the patient’s lungs.
+
+
+PFSH -Pertinent Past Medical, Family, Social History
+
+
+Past Medical History: a review of past illnesses, operations or injuries, which may
+include:
+
+
+Prior illnesses or injuries  
+Prior operations
+Prior hospitalizations
+Current medications
+Allergies
+Age appropriate immunization status
+Age appropriate feeding/dietary status
+
+
+Family History (FH): a review of medical events in the patient’s family which may include information about:
+
+
+The health status or cause of death of parents, siblings and children
+Specific diseases related to problems identified in the Chief Compliant, HPI, or ROS
+Diseases of family members which may be hereditary or place the patient at risk
+
+Social History (SH): An age appropriate review of the patient’s past and current activities which may include significant information about:
+Marital status and/or living arrangements 
+Current employment
+Occupational history
+Use of drugs, alcohol or tobacco
+Level of education
+Sexual history
+Other relevant social factors
+Example: Patient is a graduate student in Physics, about to defend his dissertation.
+
+Note: You DO NOT need to re-record a PFSH if there is an earlier version available on the chart. It is acceptable to review the old PFSH and note any changes. In order to use this shortcut, you must note the date and location of the previous PFSH and comment on any changes in the information since the original PFSH was recorded. For example, if you are seeing an established patient in the office you can write: “Comprehensive PFSH which was performed during a previous encounter was re-examined and reviewed with the patient. There is nothing new to add today. For details, please refer to my previous note in this chart, dated 11/23/2004.” ( From EMUniversity.com)
+
+
+
+Table 2
+
+
+Levels Of History (3 out of 3 needed)
+Level of Hx
+HPI
+ROS
+PFSH
+Problem Focussed
+Brief
+None
+None
+Extended Problem Focussed
+Brief
+1 System
+None
+Detailed
+Extended
+2 Systems
+1
+
+An example to clarify: In order to be able to bill for an E/M 99213 code, you need to refer to Table 1, above, where you note that the required history is an extended problem focussed history. In order to determine what constitutes an extended problem focussed history, you refer to Table 2, where you note that a brief HPI and 1 ROS are enough to qualify.
+
+
+2. Psychiatric Medical Exam -Includes the following elements:
+• Speech
+• Thought Processes
+• Abnormal/Psychotic Thoughts 
+• Associations
+• Judgement
+• Orientation Time/Place/Person 
+• Memory
+• Attention Span/Concentration 
+• Language
+• Fund of Knowledge
+• Mood/Affect
+• General Appearance
+• Muscle Strength/Tone
+• Gait/Station
+• Vital Signs (> 3)
+• Other
+
+
+Table 3
+
+
+Levels of Psychiatric Exam
+Level of Care
+# elements on exam
+99212
+1-5
+99213
+>6
+99214
+12 from 2 or more organ systems
+
+Example:
+• Speech-normal rate, rhythm, volume, speaks English with an accent 
+• Thought Processes-coherent
+• Judgement-good
+• Fund of Knowledge-excellent
+• Affect-anxious
+• General Appearance-messy hair, not wearing socks, otherwise well-groomed.
+
+This example includes 6 Psychiatric exam elements, and would therefore qualify as a 99213 level of care exam.
+
+
+3. Medical Decision Making - EMUniversity MDM
+
+This part is a little tricky. You can check out the link, but I’ll try to summarize.
+It seems as though you can raise the E/M code depending on the complexity of your decision-making. But how the complexity is determined is, well, complex.
+
+Referring back to Table 1, you’ll note that there are 4 levels of MDM: 
+
+
+Straightforward
+Low Complexity
+Moderate Complexity
+High Complexity
+
+Each of these, in turn, is broken down into 3 parts: 
+
+
+Problem Points
+Data Points
+Risk
+So get ready for more tables.
+
+Table 4, Levels of MDM (2 out of 3 needed)
+
+Overall MDM
+Problem Points
+Data Points
+Risk
+Straightforward
+1
+1
+Minimal
+Low Complexity
+2
+2
+Low
+Moderate Complexity
+3
+3
+Moderate
+High Complexity
+4
+4
+High
+
+Let’s look at how each of these parts is determined.
+
+
+Table 5 Problem Points
+
+Problem
+Points
+Self Limited or Minor (max of 2), e.g. common cold
+1
+Established Problem, Stable or Improving
+1
+Established Problem, Worsening
+2
+New Problem, no additional w/u planned, (max of 1)
+3
+New Problem, additional w/u planned
+4
+
+Example: “Patient with h/o anxiety, worsening over the last week,” would generate 2 problem points.
+
+
+Table 6, Data Points
+
+Data Reviewed
+Points
+Review or order clinical labs (1 pt total, not 1 for each)
+1
+Review or order radiology (except echo or heart cath)
+1
+Review or order medicine tests (e.g. PFTs, EKG)
+1
+Discuss test with performing physician
+1
+Independent review of image, tracing or specimen
+2
+Decision to obtain old records
+1
+Review and summation of old records
+2
+
+Example: “Ordered PFTs for SOB,” would earn 1 data point.
+
+Table 7, Risk-only need 1 from any level, use highest risk present (from EMUniversity.com)
+
+
+Minimal Risk Low Risk Moderate Risk
+High Risk
+•One self- limited or minor problem (e.g., cold, insect bite, tinea cor- poris)
+•Labs: EKG, E EG, CXR, UA, Ultrasound Echo, KOH prep
+•Rest
+•Gargles •Elastic bandages Superficial dress-
+•ings
+•Two or more self- limited or minor problems
+•One stable chronic ill- ness, (e.g., well con- trolled HTN, DM2) •Acute uncomplicated illness or injury (e.g., cystitis/ rhinitis) •Physiologic tests without stress •Non- cardiovascular imaging with contrast
+•Over the counter drugs
+•Minor surgery without
+•risk factors •PT/OT
+•IV fluids without additives
+•One or more chronic illness, with mild exacerbation or progression
+•Two or more stable chronic illnesses •Undiagnosed new problem with uncer- tain prognosis (e.g., lump in breast) •Acute illness with systemic symptoms (e.g., pyelonephritis, colitis)
+•Physiologic tests with stress
+•Prescription drug management
+•Minor surgery with risk factors
+•Elective major surgery without risk
+•factors
+•IV fluids with additives
+•Chronic illness with severe exacerbation or progression •Illness with threat to life or bodily function (MI, ARF, PE) •Abrupt change in neurological status (TIA, weakness) •Cardiovascular imaging with contrast (arteriogram, cardiac cath) with risk factors •Elective major surgery with risk factors
+•Emergency surgery •Parenteral controlled substances
+•Drugs requiring intensive monitoring for toxicity
+•Decision for DNR or to de-escalate care
+
+
+ Example: “Worsening anxiety,” would qualify as moderate risk.
+
+
+Now let’s look at a complete note, and determine which E/M level it qualifies for:
+
+
+Einstein, Albert     DOB: 03.14.1879     Date of Visit: 11 11 12
+
+Start:1:45p    Stop:2:30p      Total face to face time: 45 min
+
+CPT: 90836, E/M ?????
+
+CC: F/U for Anxiety
+
+Interval Hx: The patient c/o worsening anxiety x 1 week with panic symptoms that occur intermittently, on average once per day, last for 5 minutes, and are brought on unexpectedly by unclear precipitants, in the context of his upcoming dissertation defense.
+
+ROS: Pt. reports intermittent panic symptoms, including GI upset, SOB, and dissociative feelings.
+
+PFSH: Patient is a graduate student in Physics.
+
+PME:
+Speech-normal rate, rhythm, volume, speaks English with an accent
+Thought Processes-coherent
+Judgement-good
+Fund of Knowledge-excellent
+Affect-anxious
+General Appearance-messy hair, not wearing socks, otherwise well-groomed.
+
+Dx: Anxiety NOS 300.00
+
+Current Meds: Zoloft 100mg qd.
+
+Side effects: No side effects or adverse reactions noted or reported.
+
+Allergies: NKDA
+
+Labs: ordered-none, reviewed-none
+
+Psychotherapy Note: Discussed with patient his automatic thoughts, and the specific concerns he has about his dissertation defense. Reviewed relaxation techniques with patient.
+
+Plan:
+Continue current medication
+f/u 1/week psychotherapy
+
+First, the History:
+
+The Interval History includes at least 4 elements-severity, duration, timing, and
+context. This makes it extended.
+
+The ROS includes 3 systems, GI, respiratory, and psychiatric.
+
+The PFSH includes one element of Social History, namely, that the patient is a graduate student in Physics. Listing the allergies as NKDA may also qualify as one element of PFSH.
+
+Referring back to Table 2, History:
+
+Level of Hx
+HPI
+ROS
+PFSH
+Problem Focussed
+Brief
+None
+None
+Extended Problem Focussed
+Brief
+1 System
+None
+Detailed
+Extended
+2 Systems
+1
+
+Extended HPI, 2 ROS, and 1 PFSH qualify as a detailed history.
+
+Now the Psychiatric Exam:. 
+
+6 elements are noted, speech, thought, judgement,
+fund of knowledge, affect, and general appearance. 
+
+And the MDM:
+
+Anxiety is an existing problem for the patient. Since it is worsening, this earns 2 problem points.
+
+Referring to Table 6, it is clear that there are no data points.
+
+And finally, risk. A chronic illness with mild exacerbation is considered moderate
+risk.
+
+Referring to Table 4, levels of MDM:
+
+Overall MDM
+Problem Points
+Data Points
+Risk
+Straightforward
+1
+1
+Minimal
+Low Complexity
+2
+2
+Low
+Moderate Complexity
+3
+3
+Moderate
+High Complexity
+4
+4
+High
+
+In this case, the overall MDM would be of Low Complexity, since 2 out of 3 elements are needed. 
+
+To sum it all up, we look at Table 1, Levels of Care:
+
+Level of Care
+Hx
+Exam
+MDM
+99212
+Problem Focussed
+1-5
+Straightforward
+99213
+Extended Problem Focussed
+>6
+Low Complexity
+99214
+Detailed
+12 from 2 or more organ systems
+Moderate Complexity
+99215
+Comprehensive
+2 from each of 9 organ systems
+High Complexity
+
+Since there is a detailed history, but only 6 exam elements and MDM of low complexity, this visit would qualify for a 99213 E/M code.
+
+Now, if the patient also carried a diagnosis of depression, and this was stable, this would earn a total of 3 problem points, 2 for the worsening anxiety, and 1 for the stable depression. And 3 problem points would move the MDM up to moderate complexity. And since only 2 out of the 3 key components are required for level of care, a detailed history and MDM of moderate complexity would qualify as a 99214, which is reimbursed at a higher rate.
+
+Overall, this is a pretty complicated business. It adds extra work to note-writing, and it’s not really suited to Psychiatry, and certainly not to high frequency psychotherapy or psychoanalysis. And I suspect that since this is completely new, and doesn’t fit neatly into nice little well-established, categorized boxes, insurance companies will also be confused about it. Or the’ll say they are so they can withhold payment. 
+
+Posted by Psychpractice at 11:37 AM
+Email This
+BlogThis!
+Share to Twitter
+Share to Facebook
+Labels: billing, coding, cpt, E/M, practice, psychiatry, psychotherapy

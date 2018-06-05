@@ -1,0 +1,9 @@
+Another great Mozilla feature: pretty-format a serialized DOM tree. The following code will serialize an entire web page and pretty-format the markup:
+
+var serializer = new XMLSerializer( );
+var str = serializer.serializeToString( document.documentElement );
+var pretty = XML( str ).toXMLString( );
+
+As mentioned in my earlier post about XMLSerializer, the XML you get isn't perfect: element names come out ALL CAPS for some weird reason. And you get a bunch of automatic entity substitutions, most of which you probably want, others of which will simply break things if you try to deserialize the text back into a DOM later. (Forget about easy roundtripping.) But overall, it's a really useful trick.
+
+I was hoping maybe this trick would also (as a free bonus) pretty-format any embedded scripts inside CDATA sections, but of course no such luck. In fact, due to automatic entity substitution, <![CDATA[ gets converted to &lt;![CDATA[, which is hilarious in a sad kind of way.

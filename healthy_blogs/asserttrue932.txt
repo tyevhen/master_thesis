@@ -1,0 +1,5 @@
+My nomination in the category of "best AJAX-based Word workalike" for this week is Zoho Write, one of a suite of impressive Zoho apps. It took a while (30sec) for Firefox to pull down all 51 external .js scripts, but when the app opened, it was a thing of beauty. Imagine my abject stupefaction upon using the Import button to suck in a complex (many tables, many fonts) .sxw file, and seeing it open without errors, looking just the way it should! Yes, Zoho Write handles OpenOffice files. Just as Nature intended.
+
+Unlike a lot of Web2.0 apps, Zoho is not the product of a teenager locked in a closet. Behind the Z-suite is a ten-year-old company, AdventNet, with offices around the world.
+
+This is starting to get exciting.

@@ -1,0 +1,15 @@
+I finally had an opportunity to use Yahoo Pipes to do something useful.
+
+The quest: Create a super-feed that aggregates a bunch of different Google developer blogs (12 in all), including AJAX Search API, Gears, Gadgets, OpenSocial, Open Source, Mashup Editor, Web Toolkit, App Engine, Google Code, iGoogle, Desktop, and Data API blogs. And: Show the most recent 8 entries for each of the 12 blogs.
+
+Also: Make a searchable version of same, so that you can do a search for (let's say) "Atom" across all 96 latest blog entries in the 12 categories.
+
+I was inspired to create this Pipes-app (plumbingware?) when I saw the recent press release concerning ArnoldIT's Google monitoring service. The ArnoldIT aggregator is dubbed "Overflight" (for reasons known only to the CIA, perhaps).
+
+I was disappointed to find that Overflight is not available as an RSS feed. It also is not searchable. Hence, I went ahead and mashed together my own version of Overflight using Pipes.
+
+As it turns out, I was able to create the Pipe app in a matter of 90 minutes or so (around half an hour longer than I'd budgeted). I didn't have time to aggregate all 74 Google blogs, so I focused just on twelve developer blogs. The resulting app is at Google Developer Blogs Super-Feed, which you can subscribe to here. The keyword-search version is here. (It supports single words or exact phrases.)
+
+I confess I was skeptical, at first, as to whether the performance of a Pipes app that draws together 96 content items from 12 feeds could possibly be acceptable. It turns out to be amazingly fast. Even the queryable version is fast. I have yet to run a keyword or key-phrase search that takes more than 4 seconds to bring back results.
+
+If you haven't tried Pipes yet, you should definitely spend a few minutes exploring it. It's a bit klutzy and constraining (in my experience), and it's sure to frustrate many a grizzled Java or C++ developer. But as a visual Web-app designer, it's an interesting approach. Here's hoping Yahoo takes it a bit further.

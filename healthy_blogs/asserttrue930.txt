@@ -1,0 +1,13 @@
+A friend at work showed me Gabbly, which is an AJAX IM-chat pushlet that gives the appearance of putting a chat window over the top of any web page you choose (kind of like gmail-chat).
+
+Odd thing is, it even worked for us when we set the URL to a secure wiki page inside the company firewall.
+
+We promptly exited our Gabbly session and began chatting about it on Groupwise Messenger (our company standard). The whole experience was freaky and left us with serious security worries. Especially when Firefox crashed on me within minutes of leaving the Gabbly-iframed page.
+
+According to a discussion at Ajaxian, Gabbly is indeed vulnerable to cross-site scripting attacks. But I'm equally worried about things like Gabbly JS code being able to walk up to the _top frame and read a supposedly secure container page (not to mention issues around Gabbly.com slurping our plaintext conversation in real time). Likewise, there's nothing stopping the Gabbly server from stomping on any Javascript code that's already in-scope in your page.
+
+The thought of people using a 3rd-party-hosted chat app like this at work scares the hell out of me.
+
+But that's the trouble with things like shorttext.com, ajaxwrite.com, and other free-neato-trendy AJAX "services": They require you to rely on the trustworthiness of the host. I put it too delicately. These are man-in-the-middle applications.
+
+User beware.

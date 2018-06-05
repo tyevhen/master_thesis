@@ -1,0 +1,104 @@
+Is the Mental Health Act falling down a legal black hole?
+There are horrible yawning legal black holes in the Mental Health Act. Unless they are properly addressed, they could make it impossible to practice within the law. And they’re mainly to do with the current national bed crisis.
+
+The other day I went out to assess Joe. He was a young man who was living with his parents. I assessed him with two psychiatrists, and we decided that he needed to be detained under Sec.2 for assessment. The two doctors completed a joint medical recommendation. However, as I knew that there was no bed available, I was unable to complete my application. I therefore had no choice but to leave Joe where he was with his father.
+
+A few minutes later, his father called to say that Joe had packed a bag and left. The father reported him as missing. I discussed the situation with the local police, explaining that he had been assessed under the MHA and it was considered that he needed to be detained, but could not be as no hospital had been identified.
+
+The following day, I received a call from the duty police inspector at an international airport. He told me that Joe had been apprehended as he was about to board a plane to Manila in the Philippines. He was now in their custody, detained under Sec.138 MHA. Sec.138 relates to patients who are liable to be detained under the MHA but have absconded.
+
+I had to tell him that Sec.138 did not apply, as he was not actually detained.
+
+There then ensued an interesting discussion about the patient’s legal status.
+
+Because in law, as a Sec.2 application had not been completed, he was not a detained patient, nor was he “liable to be detained”. The police were therefore holding him illegally, until such time as I was able to obtain a hospital bed and put the name of a hospital on my Sec.2 application form.
+
+There is a well documented nationwide crisis in the provision of mental health services. Both Andy McNicoll of Community Care and the BBC have been documenting the extent of this crisis in recent months.
+
+One consequence of the lack of suitable psychiatric beds is its impact on the ability of AMHP’s and other mental health professionals to fulfil their legal duties, and it is resulting in long delays between assessment and admission, and patients then having to be transported hundreds of miles to hospitals far away from their homes and relatives.
+
+The Health Service Journal, on 14 August 2014, reported that between 2011-12 and 2013-14 there had been an overall cut in funding of 2.3% in Mental Health Trusts. The numbers of  psychiatric beds consequently decreased as follows:
+•        2011-12           20768
+•        2012-13           20061
+•        2013-14           19922
+
+This was at a time of increased demand for beds because of the Recession and cutbacks to public services in general, which invariably has a deleterious effect on the mental health of the Nation as a whole.
+
+They also reported that numbers of patients sent out of area because there were no beds in their locality increased 56% between 2011-12 and 2012-13 to 1,785.
+
+A very recent example is reported here. This involved a known patient who was held in police custody in Norfolk for over 24 hours because there were no beds anywhere within the entire Norfolk & Suffolk Foundation Trust area. He was eventually admitted to a hospital in Brighton, over 160 miles away.
+
+So all this is creating intolerable situations, in which AMHP’s and the police are finding themselves in a legal limbo.
+
+Let me illustrate this with a Venn diagram. (Mental Health Cop is very keen on Venn diagrams).
+
+First of all, there is the Law.
+  The Law encompasses the legislation relating to people with mental disorders, which includes the Mental Health Act, the Mental Capacity Act, and the Human Rights Act.
+
+And then there is Reality.
+
+Reality is the world in which AMHP’s, the Police, and others actually live.
+
+Here are the two together.
+
+The Law and Reality unfortunately do not overlap perfectly. There is an area of reality which lies outside the law. And that is where Joe, and too many others, find themselves.
+
+AMHP’s and the Police are having to deal with these legal limbos on a daily basis.
+
+Here are a few other real life scenarios that I or my colleagues have had to deal with.
+
+1. David is arrested for affray and is taken to the local police station. It becomes apparent to the custody sergeant that he may be mentally disordered, and requests an assessment under the MHA.
+An AMHP and 2 doctors assess David, decide he needs to be detained, but are unable to make an application because no bed is available.
+The police have concluded their investigations and have decided to take no further action, and intend to bail him. There is therefore no longer any legal authority to continue to hold him in police custody.
+What happens next?
+
+ 2. As an AMHP, you’ve completed an application under the MHA, which makes the patient liable for detention. The patient is in the ambulance, on the way to Hospital X, under your authorisation, and you’re following behind.
+You then receive a call from the bed managers to say that unfortunately, there is no longer a bed available at Hospital X.
+Suddenly, you do not have valid paperwork, and there are no longer any legal grounds to hold the patient.
+How do you proceed?
+
+3. As an AMHP, you have made a decision to detain Norman under Sec.3 MHA.
+You consult with the Nearest Relative, Norman’s mother, who has not made an objection to the application.
+The bed managers eventually find a bed, but it is 200 miles away.
+You discuss this with the NR, who wants Norman to be admitted to the local unit, and she now objects.
+What do you do next?
+
+There are local initiatives, sticking plaster jobs mainly, to try patch these holes. Our local constabulary have recently issued guidance to the police and AMHP’s in an attempt to address some of these dilemmas.
+
+In Scenario 1, David,  the local advice is as follows. AMHP’s are instructed to write in the custody record:
+
+“I have conducted a full Mental Health Act assessment in the company of Dr --- and Dr ---, and we have determined that [detained person’s name] should be detained under Section --- Mental Health Act. However, at this time there is no suitable bed available and therefore they are not yet formally detained under the Mental Health Act. Every effort will be made to find a suitable bed as a matter of urgency.”
+
+A risk based decision on the continuing detention of the person “outside of PACE and the MHA” should then be conducted jointly with the AMHP and the Detention Officer. These discussions and decisions should then be recorded in the custody record and a decision made “to either continue detention or to bail pending a bed becoming available.”
+
+While I am impressed at this document’s valiant attempt to deal with this dilemma, I must say I am intrigued by the concept of detaining a person “outside of PACE and the MHA”. This can only be a legal Limbo.
+
+And what if a decision is made to “bail pending a bed becoming available”? Surely, if the patient/prisoner is aware that they are bailed, but not yet detained under the MHA, there is nothing to stop them from leaving the premises and potentially disappearing completely off the radar.
+
+In Scenario 2 – what the hell do you do? You can hardly instruct the ambulance to stop on route and drop the patient off at the side of the road.
+
+The Code of Practice does have something to say about this scenario. Para 4.99 states:
+
+“In exceptional circumstances, if patients are conveyed to a hospital which has agreed to accept them, but there is no longer a bed available, the managers and staff of that hospital should assist in finding a suitable alternative for the patient. This may involve making a new application to a different hospital… A situation of this sort should be considered a serious failure and should be recorded and investigated accordingly.”
+
+I think I would be inclined to continue the journey to the hospital, on the basis that they are still at least theoretically “liable for detention”, and then argue the toss once we were there. But the Code does not suggest how the patient may legally be held while another bed is found, and they could conceivably have a case for unlawful imprisonment during that limbo period.
+
+Then there is Scenario 3, Norman.
+
+Under Sec.3 MHA, a patient can only be detained if the nearest relative does not object. The refusal of the NR on discovering there is no nearby hospital would therefore mean that the patient cannot be detained.
+
+It is possible to displace the nearest relative in certain circumstances. A county court can displace the NR if: “the nearest relative has objected unreasonably to an application for admission for treatment” (Para8.6 CoP).
+
+But could that be done in this situation? I think it would be difficult to argue successfully that this particular NR had “objected unreasonably”. After all, would you like your unwell relative being taken many miles away from home, where it would be almost impossible to visit them?
+
+And in any case, the amount of time it would take to make an application to court would make it unfeasible.
+
+Some AMHP’s have suggested that we should refuse to assess a patient at all if no bed has been identified. The problem with this is that it is expressly against the law. Sec.13(1) MHA explicitly states:
+
+“If a local social services authority has reason to think that an application for admission to hospital… may need to be made in respect of a patient within their area, they shall make arrangements for an approved mental health professional to consider the patient’s case on their behalf.”
+
+Having then assessed the patient, if the AMHP is “satisfied that such an application ought to be made in respect of the patient” then they have a duty to make that application.
+
+While an AMHP can decide not to make an application, they cannot refuse a request to make an assessment. The absence of a hospital bed to which to admit the patient does not absolve them of this duty.
+
+So until NHS Clinical Commissioning Groups (CCG’s) are prepared to meet their obligations under para4.75 of the Code (they are “responsible for commissioning mental health services to meet the needs of their areas” and “should ensure that procedures are in place through which beds can be identified where required”) it looks like it’s still going to be left to the poor AMHP’s (and the police) to try to prevent these legal black holes from enveloping everything and finally making the Mental Health Act unworkable.

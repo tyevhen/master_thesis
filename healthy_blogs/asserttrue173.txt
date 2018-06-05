@@ -1,0 +1,55 @@
+Back in the late 1970s, when I worked for The Mother Earth News, all anyone talked about was how the planet was running out of oil. It seemed obvious (from Paul Ehrlich's The Population Bomb, a bestseller then) that an exploding world population would quickly outstrip even OPEC's capacity to produce oil from finite reserves.
+
+That's all turned out to be nonsense. We're awash in oil now, and likely will be for the forseeable future.
+
+
+Why so much oil all of a sudden? Short answer: Cheap money (post-2008-meltdown) fueled a trillion-dollar frackathon, and shale seemed like a good idea when oil was $100 a barrel. (And by the way, don't think that fracking is simply about natural gas. It's also oil.) Years of CapEx expansion by domestic producers, ridiculous frenetic pursuit of frackable muck, hideous "investment" in deep-water rigs, and more, have combined to bring unprecedented amounts of crude online, with the result that current U.S. inventories (excluding the Strategic Petroleum Reserve) have reached an 80-year high, at 444.4 million barrels for the week ended 27 February. And very soon, there'll be no place left to store the stuff (at least, on the ground, in North America) because total storage capacity in the U.S. is "only" 510 million barrels. Cushing, Oklahoma is already 70% full and East Coast tank farms are at 85%. (Coastal China is said to be full-up as well.)
+
+It doesn't help, of course, that Exxon had a major refinery explode in Torrance on 18 February. Contrary to rumor, the explosion had nothing to do with a planned labor action; it had everything to do with the plant being in turnaround (to switch to summer-grade auto fuel production) when an electrostatic precipitator flashed over. The refinery will be offline at least six months, reducing U.S. oil drawdown by 4.6 million barrels a month. (There are another 147 refineries in the U.S., but most are already at full capacity.)
+
+February and March are big maintenance months for refineries, with many switching over to summer fuel production. This takes even more refining capacity offline, short term. Crude inventories will continue to build.
+
+All of which is leading to a serious environmental hazard, because with no place on dry land to store excess oil, much of the world's crude oil oversupply will end up on the ocean, in VLCCs and ULCCs (very and ultra-large crude carriers, otherwise known as supertankers). Combine this with increasingly uncertain weather due to global climate change, and you have the potential for a disaster here or there.
+
+A VLCC supertanker.
+In 2009, after the oil sell-off, 100 million barrels of oil ended up on tankers, in ships that can hold from half a million (VLCC) to 3 million (ULCC) barrels of crude each. Merril Lynch (Bank of America) predicts the volume of oil stored on tankers could rise to 55 million barrels by the end of the second quarter. That's conservative, in my view. It could easily be twice that.
+
+Total capacity is hard to know. While there are at least 4,000 tankers of 10,000 long tons DWT or greater worldwide, there are probably fewer than 500 supertankers (and only a handful of ULCCs), total, in the world. Total floating capacity is probably in the 200-million-barrel range.
+
+Relatively few of the largest ships are more than 20 years old, but one can well imagine that with oil storage costs skyrocketing, many mid-size and smaller ships (of uncertain vintage) will be brought out of mothballs, because the money to be made storing oil on ships is irresistible.
+
+Day rates for VLCCs, a year ago, averaged $40K to $50K. Day rates sailed through the $70K mark in January 2015, however, and will probably go well north of $100K, for any ships that haven't already been booked, before 2015 is over. Many oil companies are locking in one-year rates to keep prices well below these levels.
+
+Until the recent decline in oil prices, storage costs were a nominal 25 cents a barrel per month for dry land or $1-and-change for sea storage, but those rates are now history.
+
+Skyrocketing storage costs can be expected to drive an ever-steepening contango in the oil futures market, with distant months becoming dear. Many refiners try to maintain a 50:50 hedge of near vs. dear months, so ironically, pump prices may not necessarily come down for motorists any time soon, even if oil crashes through $40 (spot), which some are predicting.
+
+How to play the contango? Buy stock in a supertanker operator. Here are some possibilities:
+
+Symbol Company Market Cap
+TK Teekay Corporation 3.19B
+TGP Teekay LNG Partne... 2.89B
+FRO Frontline Ltd. 1.98B
+TOO Teekay Offshore P... 1.95B
+SFL Ship Finance Intl... 1.44B
+NAT Nordic American T... 905.66M
+DPBSF DAMPSKIBSSELSKABET N 886.20M
+DHT DHT Holdings Inc 629.99M
+NAP Navios Maritime M... 277.79M
+ASC Ardmore Shipping ... 265.43M
+
+You can dig through these one by one if you want, but for my money (disclosure: I own a stake), the top choice is Teekay (TK), with far more ships than most, solid financials, and upward trending profitablity even before the recent oil glut. (Do your own due diligence before investing, of course.)
+
+I have a friend who thinks the oil glut is some kind of OPEC conspiracy; that it might be driven by market manipulations, etc. We know that's hogwash. It's mostly a supply problem (and partly a demand problem). How do we know this? Because of the copper-to-gold ratio. As the U.S. Energy Information Administration explains:
+Copper has uses in infrastructure and manufacturing and its price is closely tied to expectations of future economic growth. Gold, on the other hand, tends to increase during times of market volatility and uncertainty. When the copper-to-gold ratio rises (falls), it indicates that expectations for economic growth are increasing (decreasing). From July 1 to February 5, the copper-to-gold ratio fell by 15%, while the price of Brent crude oil fell by 50% in that time. The lower copper-to-gold ratio implies that demand-side concerns were partially responsible for the recent decline in oil prices. The larger decline in crude oil prices relative to the copper-to-gold ratio indicates that excess supply in crude oil markets has also contributed to lower oil prices.
+We can't stupidly blame "the Arabs." That would be jingoistic, silly, and wrong. The U.S. imports only 85 million barrels of oil per month from OPEC countries (not all of which are Arabic, of course). By contrast, we import 122 million barrels a month from Canada. If we're going to point fingers at foreigners, we need to be fingering Canadians, not "Arabs."
+
+But let's not be fingering Canadians, if you don't mind. Let's just, you know, be friends.
+
+☙ ❧
+
+I've made some improvements to my Twitter timeline-scraping code and can now thank even more people for retweeting me. The following list (of people who retweeted me yesterday) might still not be 100% complete, but it's more complete than it would have been with my old code. (Please follow the folks shown below. They retweet! Click their pictures; the pics are live links.)
+
+If you enjoyed this post, won't you pass the link along on social media? Thanks. Meanwhile, have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

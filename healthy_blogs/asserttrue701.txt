@@ -1,0 +1,65 @@
+I haven't played with Jetpack all that much since I last wrote about it. I did write a script that collects all the URLs and page titles of all open Firefox tabs and displays them in a table, so that I can Save the table and be able to return to a given tab configuration any time I want. Right now I just save the page to disk manually. But a proper implementation would use Jetpack's persistence API (and a nice UI) to make the process easier.
+
+But that got me thinking. Why is it Firefox doesn't already offer this capability? First let's define what we're talking about. I'm thinking there should be a special name (an agreed-upon technical term) for a particular collection of open tabs in a browser. The name I propose is simply ensemble. At the moment, I have 4 tabs open in Firefox: The Blogger editing window, Twitter's Search page, the Mozilla Jetpack contest page, and Google. I should be able to Save this configuration off as a named collection; let's call it "The tabs for that Jetpack followup blog." That's an ensemble.
+
+Tomorrow at this time I might very well have 20 tabs open, including cmswire.com, several CMS Watch pages, Central Desktop (which we use a lot at CMS Watch), Files Anywhere (ditto), Google Calendar, Gmail, and who knows what else. At the moment, in my day job, I'm doing a bit of writing about Oracle Universal Content Management, and yesterday I had six different PDFs (UCM documentation) open in Firefox tabs, plus all the usual nonsense. I'd like to be able to capture all of those tabs as one named collection, one ensemble, that I can passivate (and reanimate later, at my leisure).
+
+Am I missing something? Can Firefox already do this? Yes yes, I realize that I can quit Firefox and have my current tab configuration saved for the next time I start Firefox, but that's not at all the same as saving off different named, tagged ensembles (saving them at any time, not just quitting time) that I can choose to reinstate later.
+
+I know there are services out on the Web where I can dump collections of bookmarks. That's not what I want. I want to do everything from within Firefox.
+
+At any rate, the code I'm using right now to get the titles and URLs of all open tabs and display them in a table onscreen looks like this:
+
+jetpack.tabs.onReady( renderTabList );
+
+function renderTabList( doc ) {
+
+var TRIGGER_PAGE = "tabs.htm";
+var tabs = jetpack.tabs;
+var currentUrl = doc.location.href;
+
+if ( currentUrl.indexOf( TRIGGER_PAGE ) == -1 )
+ return; // only fire when tabs.htm loads
+
+var markup = "<table>";
+
+for ( var i = 0; i < tabs.length; i++ ) {
+
+ var title =
+    $( tabs[ i ].contentDocument ).find( "title" ).text( );
+
+ var url = tabs[ i ].url;
+
+ if ( url.indexOf( TRIGGER_PAGE ) != -1 ||
+   url.indexOf( "about:") != -1 )
+    continue;  // don't include ourselves
+
+ function shorten( str, limit )
+    str.length > limit ?
+        str.substring( 0, limit ) + "...  " : str;
+
+ title = shorten( title, "...   " );
+
+ var visibleUrl = shorten( url, "...  " );
+
+ markup += "<tr>";
+ markup += "<td>" + title + "</td>";
+ markup += "<td>" + visibleUrl.link( url ) + "</td>";
+ markup += "</tr>";
+   }
+
+markup += "</table>";
+
+$( doc ).find( 'div' ).html( markup );
+}
+
+
+It's ugly code and I'm sure it can be improved in a hundred different ways, but hey, it's just a proof of concept, so if it blows up no one loses their hands.
+
+I wrote the shorten( ) macro, btw, before I realized Jetpack had an ellipsify() method.
+
+In conjunction with the script, I use a dummy HTML page called tabs.htm that just contains a single <div> in the body. That's where I attach the table of results.
+
+Nothing special, I know.
+
+How about you? Have you written any Jetpack code lately? (Are you entering the contest?) If so, please tell me about it. I'd like to know what you're doing and what your impressions are of Jetpack so far. My overall impression of Jetpack remains positive. I'm anxious to see where it'll take us next.

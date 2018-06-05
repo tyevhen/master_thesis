@@ -1,0 +1,50 @@
+When talk therapy works, it can work wonders. When it doesn't work (which is a fair amount of the time), all bets are off, because anything can happen.
+
+While psychiatric drugs are required to undergo efficacy testing before being released to the public, no efficacy requirements are placed on non-drug therapies. Talk therapy is just assumed to work for most people, and new therapies are routinely rolled out willy-nilly on live patients with no oversight by anyone and no guarantee of safety, much less efficacy.
+
+That's not to say some therapies haven't been subjected to controlled testing. In recent years, Cognitive Behavioral Therapy (CBT), in particular, has been the subject of hundreds of published trials. There's reason to believe, however, that many of the CBT trials are biased and that (as with drug trials that don't come out the way the researchers wanted) unflattering trials simply go unpublished.
+
+Cuijpers et al. in 2010 found substantial reason
+to suspect publication bias in 175 talk-therapy
+trials. Notice the asymmetry in this funnel plot.
+In a 2010 paper in The British Journal of Psychiatry ("Efficacy of Cognitive Behavioral Therapy and Other Psychochological Treatments for Adult Depression," 196:173-178, non-paywall-protected version here) Cuijpers et al. looked at published trials that made 175 comparisons between particular talk therapies and a control group. The funnel plot for these 175 trials (see graphic) strongly suggests publication bias. The majority of the trials (92) involved CBT.
+
+With drug trials, we usually think in terms of a med either helping or not helping. In reality, patients tend to follow one of three trajectories: the drug helps, it does nothing, or it actually makes the condition worse. (These trajectories exist for placebos as well.) Individual trajectories typically aren't reported in the literature (unless they culminate in adverse events, like suicide). Instead, they're lumped together into an overall score that shows yea-many-points average improvement on the Hamilton scale (or whatever), for the treatment arm as a whole.
+
+It's difficult to say how often therapy goes off the rails. But a meta-analysis of 475 talk-therapy outcome studies (reported in Smith, Glass, and Miller, The benefits of psychotherapy, Baltimore: Johns Hopkins University Press, 1980) found that 9% of the time, effect sizes were negative, meaning patients got worse in therapy. Shapiro & Shapiro found much the same thing in "Meta-analysis of comparative therapy outcome studies: A replication and refinement," Psychological Bulletin, 1982, 92, 581–604.
+
+In a 2006 paper, Charles M. Boisvert and David Faust ("Practicing Psychologists’ Knowledge of General Psychotherapy Research Findings: Implications for Science–Practice Relations," Faculty Publications. Paper 42, available here) tracked down the 25 most highly cited researchers in the Handbook of Psychotherapy and Behavior Change (4th ed.; Bergin & Garfield, 1994) and asked each one to agree or disagree with a number of assertions, including the statement: "Approximately 10% of clients get worse as a result of therapy." The average response to that statement was 5.67 on a scale of 1 to 7, where 1 meant "I'm extremely certain that the assertion is incorrect" and 7 meant "I'm extremely certain that the assertion is correct." (For comparison's sake, the statement "Therapy is helpful to the majority of clients" scored just 6.33.)
+
+While 10% seems to be an accepted ballpark figure for iatrogenic talk-therapy outcomes, the true number could be as high as 30% (see this paper).
+
+If we count incorrect diagnosis as a form of patient harm, two of the most harmful therapeutic tools in psychiatry are the Rorschach Test (or ink-blotch test) and the Thematic Apperception Test. Around 70% of normal individuals who take the Rorschach Test score as if they're seriously disturbed (Professor James M. Wood, Univ. of Texas, quoted here). In 2000, an extremely thorough meta-analysis found the Rorschach Test, the Thematic Apperception Test, and human figure drawing to have so many problems, not just with repeatability but with basic validity, that they shouldn't be used any more, basically.  
+
+In the much-cited "Psychological Treatments That Cause Harm," Perspectives on Psychological Science, March 2007 2(1):53-70 (PDF here), Emory University's Scott Lilienfeld identifies a number of different types of therapy that have been shown to have the potential to hurt patients more than they help them. Potentially harmful therapies identified by Lilienfeld include the following:
+
+Type of Therapy Adverse Outcome(s) Source of Evidence
+Critical incident stress debriefing Heightened risk for post-traumatic stress symptoms RCTs
+"Scared Straight" interventions Exacerbation of conduct problems RCTs
+"Facilitated Communication" False accusations of child abuse against family members Low base rate events in replicated case reports
+Attachment therapies (e.g., rebirthing) Death and serious injury to children Low base rate events in replicated case reports
+Recovered-memory techniques Production of false memories of trauma Low base rate events in replicated case reports
+DID-oriented therapy Induction of ‘‘alter’’ personalities Low base rate events in replicated case reports
+Grief counseling for bereavement Increases in depressive symptoms Meta-analysis
+Expressive-experiential therapies Exacerbation of painful emotions RCTs
+Boot-camp interventions for conduct disorder Exacerbation of conduct problems Meta-analysis
+DARE programs Increased intake of alcohol and other substances RCTs
+
+DID means Dissociative Identity Disorder; DARE refers to Drug Abuse and Resistance Education.
+
+Lilienfeld is quick to point out that even a therapy that's not bringing about actual deterioration in a patient's condition can be harmful if it delays seeking out a more effective therapy. For example, it's well known that behavioral therapies tend to be more effective than nonbehavioral therapies for obsessive-compulsive disorder, generalized anxiety disorder, and phobias. Some patients have spent years trying to cure a phobia, only to find that by switching therapists (and using a more appropriate therapy) the phobia becomes manageable after one visit.
+
+Lilienfeld and others have noted that negative outcomes tend to be far more frequent in treatment programs aimed at adolescents than those aimed at adults, especially in group-oriented programs, where social effects can overwhelm the therapy. Many examples of shockingly negative outcomes in youth programs can be found in the literature (start by reading this excellent paper by Rhule). Perhaps the most celebrated disaster (in the U.S., at least) is the Scared Straight program, which has repeatedly been shown to be counterproductive (actually increasing the odds of kids going to prison) yet has been rolled out to dozens of U.S. cities and continues to be the basis of popular TV shows. (See this meta-analysis.)
+
+
+Additional Reading
+See this unusual blog post that stirred an amazing 472 commenters to give their experiences with therapy gone awry. In the comment trail you'll find scores of fascinating outbound links to YouTube videos, books, forum discussions, and other resources.
+
+If you read only one academic paper on this subject, be sure it's Scott Lilienfeld's seminal 2007 paper, "Psychological Treatments That Cause Harm."
+
+If you've been abused in therapy: http://www.therapyabuse.org.
+
+Bates, Yvonne, editor (2006) Shouldn’t I Be Feeling Better By Now? Client views of Therapy. Houndmills, Basingstoke, Hampshire, UK: Palgrave McMillan. A book that presents a variety of views from a variety of kinds of patients.

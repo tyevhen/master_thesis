@@ -1,0 +1,54 @@
+JWH-018
+
+AMB-FUBINACA
+
+
+Synthetic cannabinoids have been a problem for over a decade.  There have been sensational news reports that typically occur as a result of aggressive and disorganized behavior when users are acutely intoxicated.  When these compounds initially started to appear on the scene, regulators were far behind the curve.  Some of the first forms were sold in head shops, wrapped in paper and labelled "Not For Human Consumption."  They went by names like K2, Spice, and Plant Food.  They are typically applied to shredded plant material so that they can be smoked.   The chemical structures of these compounds do not resemble typical cannabinoids and the synthesis is relatively straightforward.  That has facilitated black market production.  Apart from easy availability the other draw was that users could take these compounds and not have to worry about standard drug testing protocols in the work place.  The word on the street was that the synthetics were undetectable by typical urine toxicology and that was accurate.  Apart from isolated aggressive incidents there were also deaths associated with their use.  There were some epidemics that clustered in communities and eventually (like most drug epidemics) the sale of the compounds was prohibited and some head shop operators were prosecuted.
+
+From the standpoint of addiction practice, many of these compounds create a dangerous situation for the patient and a dilemma for treatment facilities.  They are highly addictive to some people and unless there is some familiarity with the concept of delirium producing drugs causing addiction, it may not be clear why anyone would continue to use them.  Many people are amnestic for what occurred when they were under the influence.  In some cases they develop life threatening conditions as a result of use and crave the drug when they are being acutely treated for the medical complications.  Another abused drug with this kind of dissociative profile is dextromethorphan.  When used in high doses it leads to delirium and hallucinations and can be highly addictive.
+
+
+The JWH designation represents the organic chemist John W. Huffman who synthesized the series of compounds as cannabinoid receptor agonists.  The goal of the research was to produce pharmacological probes to study cannabinoid receptors.  He is a coauthor on 30 papers in Medline.  There are several articles in the popular press including several that include his opinion about his original research being used to produce compounds for sale as street intoxicants.     JWH compounds have been in the medical literature since about 2005.  PubChem contains structural information on 281 JWH compounds, 367 protein targets, and 706 bioassays.  PubChem also allows the user to generate 2D and 3D structural similarity comparisons and bioactivity analyses - for example activity at the CB-1 and CB-2 receptor.  As the JWH compounds and other synthetics have evolved they follow a familiar pattern of the development of classes of addictive compounds - subsequent syntheses have increasing activity at the target receptor.
+
+There are other classes of synthetic cannabinoids in addition to the JWH compounds including UR-144, AKB4, AB-CHMINACA, AB-FUBINAC and others.  There are also a number of psychedelic phenethylamines 2C-B, 2C-I, 3C-E, 3C-I, and 2C-P that are often sold as equivalent drugs.  There are obviously no guarantees that purchases from non-medical sources results in the desired chemical or effect.  There is a also a class of synthetic cathinines referred to as Bath Salts, that are structurally similar to amphetamines and are often sold as mephedrone, MDPV, or methylone.  The total number of synthetics and the requirement of relatively sophisticated analysis for detection (gas or liquid chromatography-mass spectrometry) frequently leaves the acute care or addiction physician depending on history alone about what was ingested.
+
+The New England Journal of Medicine has a general review of the issue in the January 19, 2017 edition (1).  Full text of the article is available online.  The article details the current number of new psychoactive compounds as 540 with 177 identified synthetic cannabinoids in 2014.  They have an illustrated timeline of the evolution of these compounds from 2010 to 2016.  The most interesting aspect of the timeline is the evolution of a 50 fold increase in drug potency from JWH-018 in about 2010 to AMB-FUBINACA in 2016.
+
+They also provide an analysis of a mini epidemic of AMB-FUBINACA use in Brooklyn that occurred in 2016.  Of the 33 people exposed - 18 required transport to medical facilities.  An index case is described with features of a blank stare and unresponsiveness 13/15 on the Glasgow Coma Scale.  He had episodic groaning and slowed movement of his extremities.  The term "zombielike" was used as a descriptor but in psychiatry that term is used so frequently by patients and untrained observers that it lacks meaning. The patient was sweating and had normal vital signs with the exception of tachypnea with a respiratory rate of 21.  Screening labs, toxicology, and ECG were all normal.  He recovered in about 9 hours and was discharged.  The authors recovered the original herbal product labelled "AK-47 24 Karat Gold"  and sent that as well as biological samples (blood and urine) from 8 other users for analysis.
+
+The samples were analyzed with liquid chromatography-quadrupole time-of-flight mass spectrometry (LC-QTOF/MS).  AMB-FUBINACA was confirmed as the compound in the original packet of material.  The de-esterified product rather than the parent compound was confirmed in the blood and urine of the patients with serum concentrations from 66 to 636 ng/ml.  
+
+In the discussion the authors point out the potency increase with these synthetic compounds.  They illustrate the attractiveness to drug dealers and users - about $3800 of AMB-FUBINACA can produce about a half million dollars worth of product containing about 64 mg of the original compound sprayed over shredded plant material.  That is strong incentive for getting this drug out on the street.  They also discuss the role of inter-agency collaboration in identifying novel intoxicants during similar mini-epidemics.  In this case the entire timeline from case to molecular identification was 17 days.  In many toxicology cases that I have been involved with, it often takes that long to learn that the lab you are using is not able do the necessary analysis.
+
+Treating patients addicted to these compounds will be a challenge in the foreseeable future.  People who changed to synthetics just to escape drug testing in the workplace have ended up addicted to these compounds.  The psychoactive side effects of the compounds frequently results in a downward spiral of job loss, loss of relationships, and social isolation that goes along with the preoccupation of using the drug.  Explaining to the patient and their family that this is a potentially life-threatening addiction is not necessarily a deterrent to further use and fatal outcomes are possible.  Understanding the motivation for using a drug that has never been tested in humans, can result in the loss of days or an entire weekend, and can result in toxidromes that directly or indirectly lead to fatal outcome may be another sign that this is a neurobiologically mediated process that bypasses rational thought.
+
+Prevention would seem like it is the best approach but American society remains fascinated by intoxicants and Americans have plenty of money to spend on these drugs.  Like most political arguments the common sense approach of a better plan for living is lost between the poles of liberalized drug use and prohibition.  I hope that the people at highest risk for using these drugs can learn to avoid them without exposure.          
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+References:
+
+
+1. Adams AJ, Banister SD, Irizarry L, Trecki J, Schwartz M, Gerona R. "Zombie"Outbreak Caused by the Synthetic Cannabinoid AMB-FUBINACA in New York. N Engl J Med. 2017 Jan 19;376(3):235-242. doi: 10.1056/NEJMoa1610300. PubMed PMID:27973993. (free full text online).
+
+
+Attribution:
+
+Molecular structures at the  top of this post are generated from NLM PubChem interface and are public domain.
+
+
+Additional Analyses Available from PubChem:
+
+I ran two analyses for 281 and 279 JWH compounds.  Additional information is available if you run the analysis for yourself.
+
+
+
+
+
+Supplementary:
+
+I encountered some stories on the Internet about the chemists who originally synthesized these compounds in the course of their professional careers.  Some of them have felt badly about the morbidity and mortality associated with their use as street drugs.  Others have pointed out that they were not intended for human use and not tested in humans and therefore nobody should be using them.  Keeping in mind the profit motive suggested by the NEJM article and the incentives for gaming the system by finding compounds that are not on the Schedule of Controlled Substances, I don't think that there should be any question that the sellers and buyers of these drugs are responsible for the outcomes.

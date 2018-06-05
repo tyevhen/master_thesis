@@ -1,0 +1,22 @@
+Someone asked me the other day (in response to my earlier blog about job interviews) what question I would ask during a job interview if I could ask only one question. Which is, itself, a very interesting question.
+
+I initially responded by asking for more context, specifically: What kind of position am I trying to fill? Is the candidate in question applying for an R&D job (e.g., web-application developer)? Or is she applying for a software-industry position that requires no programming knowledge per se?
+
+In general, as a hiring manager, the thing that interests me the most is the person's ability to get work done, and in technology, that, to me, means I want someone who is an incredibly fast learner. There's no way you can come into a job already possessing 100% of the domain knowledge you're expected to have; some on-the-job learning is bound to be necessary. Beyond that, even when you've adapted to the job, constant learning is a requirement. I've never seen a tech job where that wasn't true.
+
+So one of my favorite interview questions is: "If you have a hard assignment that involves subject domains you know little or nothing about, what would be your approach to attacking the problem?"
+
+If the person's first words are "Consult Google," that's fine -- that's a given, actually. But I want to know more. Consult Google, sure (consult Wikipedia, maybe), but then what?
+
+What I don't want to hear as the very first thing is "Go ask someone in R&D" or "come and ask you." If your very first tactic is to disturb busy coworkers (without first doing any homework yourself), it means you're too lazy to at least try to find answers on your own. It also means you're inconsiderate of the value of other people's time. Newbies who ask questions on forums that could easily have been answered with a little prior research tend to get rude treatment on forums, for precisely this reason. You don't bother experts (with non-expert questions, especially) unless you've already done all the work you can possibly do on your own to solve the problem yourself. Only then should you bother other people.
+
+Some good answers to the question of "How would I attack a difficult problem" might include:
+Go straight to the authoritative source documentation. For example, if the problem involves E4X syntax, go read ECMA-357. If the problem involves XPath, go to the W3C XPath Language Recommendation. And so on. Go to the source! Then work your way out from there.
+See what's already been done internally, inside the organization, on this problem. That means consulting company or departmental wikis, reading internal documents (meeting minutes, business intelligence reports, etc.), reading source code and/or code comments, and so on.
+Find out who the acknowledged experts (in the industry) are on the subject in question and go look at their articles and blogs. Consult forums, too, if applicable. Post questions on forums, if you can do so without revealing private company information.
+If you have a friend who is knowledgeable on the subject, reach out to the person and pick his or her brain (again providing you're able to do that without revealing proprietary information about your current project). I don't care if you bother someone outside the organization with endless questions.
+Finally, if you need to, find out who inside the organization is the domain expert on the subject, and ask that person if you could have a little of his or her time.
+
+In summary, I need someone who is smart and a fast learner, but also resourceful and self-motivated.
+
+This post is getting to be longer than I thought, so I'll stop. Tomorrow I want to speak to the issue of what question I would ask an R&D candidate, if I could ask any question during a job interview. That'll be fun, I promise.

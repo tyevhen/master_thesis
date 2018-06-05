@@ -1,0 +1,42 @@
+From previous posts, I consider asthma to be a good comparison illness with mental illnesses for a number of reasons.  The diagnosis is frequently unclear.  There are no specific diagnostic tests for asthma.  Attending even a state of the art clinic for asthma usually consists at some point of filling out a subjective checklist of symptoms and disability - including the frequency that a rescue inhaler is used.  The majority of asthmatics are symptomatic with wheezing.  The symptomatic state is often considered a sign of compliance with treatment measures, but the reality is that asthma is difficult to treat and there is a strong environmental component to treating it.  Depending on the physician, environmental engineering like air filters, dust removal, and avoidance of certain allergens is typically discussed but less often than in the past.  The mainstay of treatment is corticosteroid inhalers with long acting beta agonists where the corticosteroid inhaler alone is not enough.  Some authors have defined endophenotypes that may represent different disease mechanisms.  The overall prevalence of asthma has increased significantly suggesting an environmental component.
+
+Additional epidemiology has shown that exposure to high microbial environments such as livestock exposure on traditional farms confers some protection in terms of the development of asthma.  The Amish are noted to have a decreased rate of asthma and allergic sensitization than non-farmers.  These factors led to a very interesting study in this week's New England Journal of Medicine.  In this study the authors elected to compare schoolchildren from both Amish and Hutterite families on a number of genetic and immunologic markers.  Sixty children were studied from both communities.  They were sex and age matched to within one year.  Half of the children were from an Amish community and half from a Hutterite community.  Both groups are from a similar European geography and on an SNP analysis of genetic association were strikingly similar in terms of comparison groups.  The main environmental variable was that the Amish farms were single family dairy farms and the Hutterite farms were communal mechanized farms.   Previous reports had determined that the Hutterite children had a higher prevalence of asthma (21.3% versus 5.2%) and allergic sensitization (33.3% versus 7.2%) than the Amish children.
+
+Blood tests were done on the children to determine immune markers.  The Hutterite group had higher levels of IgE to common antigens.  The Hutterite children also had increased eosinophils, decreased neutrophils and about the same number of monocytes as the Amish children.  Blood samples were screened for 26 cytokines and 23 were found.  Median cytokine levels of each were higher in the Hutterite group even when the known asthmatics were excluded (there were no asthmatics in the Amish group).  Gene expression profiles were also generated for all of the subjects and pathway analysis was done with a standard informatics based approach.  From these analytics the authors concluded that the most significant module in both the Hutterite and Amish children contained 43 genes.  Eighteen of the genes resulting in overexpression of tumor necrosis factor (TNF) and and interferon regulatory factor 7 (IRF7) were present in the Amish children.  Both of these proteins are important in the innate response to microbial stimuli.  
+
+The house dust experiment was conducted in a mouse model of asthma.  Dust extracts were administered intranasally over 4-5 weeks.  Hutterite dust produced airway hyperresponsiveness and eosinophilia in bronchoalveolar lavage specimens from the mice but the Amish dust did not.  Mice deficient in MyD88 and Trif - proteins required for innate immunity signaling (5a) did not respond to the inhibitory effects of Amish dust extract on airway hyperresponsiveness or eosinophilia as further evidence that innate immunity is involved.                          
+
+The authors and the accompanying editorial by Chatila (2) emphasize the importance of this study.  Amish dust is able to activate innate immunity by very specific mechanisms that led to its protective effects against allergic sensitization and allergic asthma. The authors cite the main deficiencies of the study as not looking at children younger than 6, limited dust sampling, and a sampling strategy of asthmatics that resulted in a higher numbers of Hutterite children with asthma.  The editorial suggests that the dose of dust to prevent or possible moderate asthma is not really determined.
+
+This was a very elegant study that has the potential to create novel therapies for an illness that is currently not very well treated.  It highlights that fact that polygenic illnesses, especially those representing complex systems and complex interacting systems are difficult to characterize but with modern methods of analysis we are getting closer.  It was not too long ago that many of the molecules listed in the diagrams at the top of this page were not known to exist.  The best example I can think of is the leukotrienes that were collectively known as Slow Reacting Substance of Anaphylaxis or SRS-A. (4).  Cytokines were also unknown.  The fact that all asthmatics are not alike and that some authors believe that clear endophenotypes exist suggests that in the genes and proteins mentioned in this article significant variation should be expected.  If these findings are accurate, it also points out the importance of slight differences in the environment in the development of asthma.          
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+
+1: Michelle M. Stein, B.S., Cara L. Hrusch, Ph.D., Justyna Gozdz, B.A., Catherine Igartua, B.S., Vadim Pivniouk, Ph.D., Sean E. Murray, B.S., Julie G. Ledford, Ph.D., Mauricius Marques dos Santos, B.S., Rebecca L. Anderson, M.S., Nervana Metwali, Ph.D., Julia W. Neilson, Ph.D., Raina M. Maier, Ph.D., Jack A. Gilbert, Ph.D., Mark Holbreich, M.D., Peter S. Thorne, Ph.D., Fernando D. Martinez, M.D., Erika von Mutius, M.D., Donata Vercelli, M.D., Carole Ober, Ph.D., and Anne I. Sperling, Ph.D. Innate Immunity and Asthma Risk in Amish and Hutterite Farm Children N Engl J Med 2016; 375:411-421; August 4, 2016; DOI: 10.1056/NEJMoa1508749
+
+2:   Talal A. Chatila, M.D., M.Sc. Innate Immunity in Asthma. N Engl J Med 2016; 375:477-479; August 4, 2016;  DOI: 10.1056/NEJMe1607438.
+
+3:  Chapter 2:  Innate Immunity in Peter Parham.  The Immune System, Third Edition.  Garland Science, Taylor and Francis Group, LLC.  New York.  2009.  pp 31-70.
+
+4:  Roitt I.  Essential Immunology, Third Edition.  Blackwell Scientific Publications, Oxford. 1977, p 157.
+
+5:  Links to Kyoto Encyclopedia of Genes and Genomes (KEGG):
+
+a) KEGG (MyD88-3 and trif):  Link
+                 b) Toll like receptor signaling:  Link
+                 c) NF- Kappa B signaling:  Link
+                 d) Innate immunity:  Link
+                 e) Adaptive immunity:  Link
+
+
+
+
+
+Attribution:
+
+Both graphics at the top of this page are from VisiScience.com and posted per their user agreement.

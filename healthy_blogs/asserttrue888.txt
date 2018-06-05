@@ -1,0 +1,19 @@
+Wasn't happening for me until I started with a fresh (empty) FF3 user profile. Vista seems to be the problem in all of this. GM on FF3 on WinXP works fine, but with Vista, GM doesn't install properly unless you zero out your FF3 profile first. At least, that's the state of things today as I write this (17 Sept 2008). Hopefully it will get fixed soon. Until then ...
+
+The procedure is:
+
+1. In FF3, go to Organize Bookmarks and export your bookmarks as HTML so you don't foolishly lose them.
+
+2. In the Vista "Start" panel, choose Run...
+
+3. Launch Firefox with a command line of "firefox -profilemanager".
+
+4. When the profile manager dialog appears, create a new profile.
+
+5. When FF launches, install Greasemonkey.
+
+6. Import your bookmarks.
+
+7. Exit Firefox. Return to step 3. When profile manager dialog appears, delete your old profile. (Or else leave it and have to contend with logging in to one or the other profile whenever FF launches.)
+
+Whew + sheesh.

@@ -1,0 +1,30 @@
+Yesterday, an awesome thing happened (besides the launch of my book), which was that my post of a couple days ago, "Why Google is the New Yahoo," not only got mentioned in but may actually have triggered a story on the Financial Times of London Alphaville website (free registration required). I was thrilled to see my name on a FT website.
+
+Dan McCrum, the writer of the story, said he was "struck" by a line from my blog, namely: "Along the way, there will be layoffs. Google’s R&D and G&A spending are out of control."
+
+McCrum decided to do some fact-checking behind me, and amazingly, he found out I wasn't kidding about the expense numbers. In fact, he produced some very neat graphs to prove it.
+
+I said "amazingly" because actually, my post was written in haste. When writing the original post, I only quickly scanned Google's financials (in order to get some revenue numbers), and my eyebrow went up when I happened to notice that in the most recent quarter, Google spent $2.81 billion on R&D (15.5% of top-line revenue). In the same quarter, Apple spent $1.9 billion on R&D (2.5% of top-line revenue).
+
+McCrum also produced this neat chart of Google's General and Administrative expenses:
+
+G&A at Google is now 9% of sales. As McCrum notes, Googlers "need an amazing campus to keep them happy." Oh yes, they need an amazing campus in California, plus a city block's worth of office space in lower Manhattan and (while we're at it) let's spend $1.2 billion to lease NASA's big hangar at Moffett Field to do what, exactly? Develop space hardware? Test-fly drones in secret? Park all of Larry and Sergey's exotic automobiles?
+
+Moffett Field hangar, now leased by Google.
+With ad revenues leveling off and expenses skyrocketing (G&A has quadrupled in 5 years), Google is headed for a financial meltdown, and when it happens, the company will need to shave $2 billion a year off its $16 billion/yr in R&D and G&A costs, which means, if we count the fully burdened cost of a Google employee at $200K per year, it needs to shave 10,000 jobs.
+
+Google has $100 billion in the bank, so the situation is hardly dire, but Wall St. likes to see expenses cut by some other method than hauling money out of the bank. They like to see a sound Income Statement, and very soon, Google's Income Statement will be anything but sound.
+
+On a percent-of-income basis, Google outspends Apple on R&D six-to-one. Where is that money going? Driverless cars, Google Glass, body odor patents. Stuff that doesn't have a chance in hell of generating revenue any time soon. On the one hand, Google is to be credited with thinking long-term, something American companies don't tend to do very well, but on the other hand, Google needs to execute well on the revenue side. Right now, most of its revenue is tied to search ads, which are receding in relevance. It competes, in the cloud space, with Amazon (which no one should have to do). Will that save the company? No. It would have, already, if it were going to.
+
+Google has no backup plan. They're counting on ad budgets remaining unchanged over the long term, and we know that's not how the ad world works. Ad revenues can go away quickly. (They get shifted to other eyeball-providers.)
+
+Don't kid yourself. If you work for Google, you need to spruce up your resume. Pronto.
+
+☙ ❧
+
+I want to thank the following people for retweeting me yesterday (click their pictures!):
+
+
+
+Don't forget to visit HackYourDepression.com and get some free sample chapters from my books! And add your name to the mailing list. Thanks!

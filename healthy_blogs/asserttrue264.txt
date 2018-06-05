@@ -1,0 +1,27 @@
+If you've ever been bitten by tiny red bugs in the garden, you're familiar with members of the Trombiculidae, a family of mites known variously as berry bugs, harvest mites, red bugs, scrub-itch mites, aoutas, or (in the southern U.S.) "chiggers."
+
+In the United States., the garden-variety chigger is basically harmless, but in much of the world this tiny arthropod comes with a very nasty endosymbiont known as Orientia tsutsugamushi, which is a bacterium related to the Rickettsia organisms that cause various tick-borne diseases. Throughout much of the Orient, O. tsutsugamushi infections (from chigger bites) cause scrub typhus, which begins with a rash and fever but can progress to a cough, intestinal distress, swelling of the spleen, abnormal liver chemistry, and ultimately pneumonitis, encephalitis, and/or myocarditis and even death. Treatment with doxycycline, azithromycin, or chloramphenicol is usually successful.
+
+The "harvest mite" (chigger) can carry scrub
+typhus, although U.S varieties are typically harmless.
+The sequenced genome for O. tsutsugamushi is available, and if you go to this link and click on "Click for features" at the bottom of the Dataset Information box you should be able to open up a table that shows the organism as having 1,182 protein-coding genes (quite a small number), plus an additional 1,994 pseudogenes (quite a huge number, by comparison). The "DNA Seqs" links in the table will let you download the DNA sequences of all the organism's genes and pseudogenes.
+
+This is an extremely unusual situation, in that we're dealing with a bacterium that has more pseudogenes (switched-off, defunct, damaged genes) than regular genes, something that can be said of no other bacterium of which I'm aware. The leprosy bacterium (Mycobacterium leprae) is famed for having approximately 1100 pseudogenes and 1604 "normal" genes. Astonishingly, Orientia tsutsugamushi reverses that ratio, and then some.
+
+We don't know for sure how old Orientia tsutsugamushi's pseudogenes are. A standard rule of thumb in biology is that microbial genomes experience one spontaneous mutation per chromosome per 300 generations. But this doesn't really help us decide how old Orientia's pseudogenes are, since the pseudogenes probably didn't arise one by one, indepedently, through accumulation of random mutations. More than likely, a massive pseudogenization event caused the simultaneous deactivation of a large, unknown number of the organism's genes (of which 1100 survive today as pseudogenes), much the same as has been hypothesized for M. leprae. We have good reason to believe M. leprae's pseudogenes are at least 9 million years old. It seems likely that the pseudogenes in Orientia are also quite old, or at least not terribly new.
+
+To get more perspective on this, I analyzed Orientia's pseudogenes from a couple of perspectives. What I found, first of all, is that the pseudogenes are shorter than their non-pseudo counterparts, averaging 700 bases in length (versus 879 for normal genes). This is similar to the case with M. leprae (where pseudogenes are 795 bases long and normal genes average 1,098). The average shorter gene length for Orientia vis-a-vis M. leprae is consistent with the fact that this is a greatly gene-reduced low-GC (30.5%) endosymbiont, whereas the Mycobacterium family is (in theory) free-living, with higher GC content (57.8% for M. leprae; 65% or more for tuberculosis species).
+
+I've written before about the fact that in most genes, in most organisms, codons tend to begin with a purine base. Therefore I decided to look at purine usage in base one of normal-gene codons versus pseudogene codons (pseudocodons?), finding the following distribution in normal genes:
+
+Purine usage in base one of codons in Orientia tsutsugamushi (N=346,326 codons). No pseudogenes were included in this graph. See the next graph (below) for pseudogenes.
+
+This graph leaves little doubt that most codons begin with a purine (A or G). The median AG1 value is 63.8%. Very few proteins lie to the left of x=0.50, and frankly some of those are probably misannotated as to reading frame.
+
+The situation with pseudogenes is quite a bit different:
+
+Purines in codon base one (AG1) of pseudogenes (N=462,933 codons) in Orientia.
+
+Here we see that purine usage in codon base one is not as strong (median 58.4%), although clearly, plenty of codons still show AG1 above 60%, implying that many pseudogenes are still "in frame" (not frameshifted).
+
+Interestingly, AG1 is not only higher in normal-gene codons than in pseudogene codons, it's also higher in codons associated with proteins of known function than for "hypothetical protein" genes. Only 41.3% of pseudogene codons have AG1 greater than 60%, whereas 66.7% of "hypothetical protein" genes have AG1 > 60% and 84.3% of genes with functional assignments have codon AG1 greater than 60%. This implies that some genes annotated as hypothetical proteins may, in reality, be pseudogenes that are incorrectly annotated. I'll return to that topic some other time.

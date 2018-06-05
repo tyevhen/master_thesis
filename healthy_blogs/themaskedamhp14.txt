@@ -1,0 +1,53 @@
+You need two doctors when conducting MHA assessments
+The use of doctors when conducting assessments under Sec.2, 3, or 4 of the Mental Health Act has to be done with care. The MHA stresses the importance of these medical practitioners either having special experience of mental disorder, or knowing the patient being assessed.
+
+Sec.12(2) MHA states:
+Of the medical recommendations given for the purposes of any such application, one shall be given by a practitioner approved … as having special experience in the diagnosis or treatment of mental disorder; and unless that practitioner has previous acquaintance with the patient, the other such recommendation shall, if practicable, be given by a registered medical practitioner who has such previous acquaintance.
+
+The medical recommendation forms for Sections 2, 3 & 4 require doctors to state whether or not they had had "previous acquaintance". There is a pre-printed statement on these forms stating “I had previous acquaintance with the patient before I conducted that examination”. This is a default statement, which has to be crossed out if the doctor has not had previous acquaintance.
+
+The Code of Practice expands a little on the issue of previous acquaintance:
+14.73 Where practicable, at least one of the medical recommendations must be provided by a doctor with previous acquaintance with the patient. Preferably, this should be a doctor who has personally treated the patient. It is sufficient for the doctor to have had some previous knowledge of the patient’s case.
+14.74 It is preferable that a doctor who does not have previous acquaintance with the patient be approved under section 12 of the Act. The Act requires that at least one of the doctors must be so approved.
+
+The intention of the MHA is that the ideal assessing team would consist of the patient’s GP, who would be intimately acquainted with the patient, but who probably would not also be Sec.12 approved, and a Sec.12 doctor, who is likely to be a psychiatrist, but who may not have previously had contact with the patient.
+
+However, in my experience, it is increasingly difficult to get a patient’s GP to attend a MHA assessment, whether in the community or in a hospital, as they are invariably too busy and understandably unwilling to abandon their surgery for what could be a protracted assessment process.
+
+This increasingly means that the AMHP has to use two Sec.12 doctors. The AMHP may be fortunate if one of these has had previous acquaintance with the patient.
+
+All of this raises two issues: what is meant by the term “previous acquaintance”, and what are the consequences of using two doctors, when neither of them have had “previous acquaintance”?
+
+The AMHP’s application forms for Sec.2 & 3 has a statement saying:
+If neither of the medical practitioners had previous acquaintance with the patient before making their recommendations, please explain why you could not get a recommendation from a medical practitioner who did have previous acquaintance with the patient.
+
+If this is the case, then the AMHP must write a detailed explanation on the form justifying this omission.
+
+The Reference Guide says this about previous acquaintance, which is the closest any of the guidance comes to giving a definition of “previous acquaintance”:
+At least one of the doctors should, if practicable, have had previous acquaintance with the patient. Preferably, this doctor should have treated the patient personally, but case law has established that previous acquaintance need not involve personal acquaintance, provided the doctor in question has some knowledge of the patient and is not ‘coming to them cold’.(para. 8.40)
+
+In fact, the Reference Guide likes this statement so much that it is repeated word for word later on, in para 28.41.
+
+Ann R (By her Litigation Friend Joan T) v Bronglais Hospital Pembrokeshire and Derwen NHS Trust [2001] EWHC Admin 792 is perhaps the case law to which this is referring.
+
+In this case, Ann R was a new patient to the GP in question. He had attended a meeting relating to the patient (but not relating to her mental health), had visited her for 5 minutes, and had scanned, but not read her medical notes. The Judge in the case held that prior “personal” acquaintance was not required. The GP had some knowledge of her background prior to the MHA assessment, and this was deemed to be all that was required.
+
+In another case, TTM v LB Hackney [2010] EWHC 1349 (Admin), TTM attempted, among other things, to declare that their detention under Sec.3 MHA was unlawful on the grounds that neither doctor had “previous acquaintance” with the patient.
+
+This was based on the fact that two doctors without “previous acquaintance” had provided the recommendations, even though doctors who knew the patient  were available. It was argued that external doctors were chosen because there was a division of opinion in the treating team. The court concluded that this was reasonable and took into account what was in the patient’s best interests, and therefore there was no breach of Sec.12(2). 
+
+Not satisfied with the overall judgment, TTM took the case to the Court of Appeal (TTM (by his litigation friend TM v (1) London Borough of Hackney; (2) East London NHS Foundation Trust; (3) Secretary of State for Health [2011] EWCA Civ 4)
+
+While the Court of Appeal upheld much of the patient’s case, they still concluded that there was no Sec.12(2) breach on the grounds that it had been reasonable to obtain two external opinions given the divergence of views between the treating doctors.
+
+To summarise: there is no requirement for a doctor to have detailed knowledge of a patient in order to establish “previous acquaintance”.  It is enough to have had brief contact, perhaps in connection with a medical examination for an ear infection some years ago, or even a telephone conversation with the patient. Indeed, it is enough simply to have read the patient’s medical notes.
+
+There are a number of valid circumstances in which an assessment can legitimately take place without a doctor with previous acquaintance. One example is an assessment I undertook just a few days ago. The police detained a man under Sec.136 following reports that he was knocking on neighbours’ doors and attempting to enter properties in the middle of the night.
+
+The police were unable to use a Sec.136 suite in the patient’s locality as a place of safety, as the local one was occupied. They therefore took him to a place of safety elsewhere in the county 30 miles away.
+
+It was impracticable for the GP  to attend because of the distance involved, and as the patient had had no previous involvement of any sort with secondary mental health services, there wasn’t a psychiatrist with previous acquaintance. I therefore used two local Sec.12 doctors to conduct the MHA assessment.
+
+A similar situation may also occur when someone is detained under Sec.136 while elsewhere in the country, and where a patient requires assessment under the MHA in the middle of the night, it is very common for there to be no doctor available who knows the patient.
+
+So it is just as well that there are justifications to the use of two doctors without previous acquaintance, otherwise the AMHP’s local authority could be liable to pay compensation for unlawful imprisonment.

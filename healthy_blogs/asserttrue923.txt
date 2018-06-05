@@ -1,0 +1,5 @@
+It's official: Ruby on Rails is about to edge past the Atkins diet for popularity.
+
+RoR has also overtaken West Nile virus.
+
+It has to be true. I saw it on Google Trends.

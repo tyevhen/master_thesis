@@ -1,0 +1,17 @@
+Gabitril (tiagabine) is an antiseizure medication from Cephalon, which just forked out a cool $425 million to settle charges that it marketed several drugs for unapproved conditions, including Provigil and Gabitril. Government investigators claimed that Gabitril was marketed as a treatment for anxiety, which is too bad considering that it struck out in three clinical trials against a placebo. Each study found no evidence that Gabitril was better than a sugar pill.
+
+Gabitril was also allegedly marketed as a treatment for pain. I was unable to locate a single controlled study examining the efficacy of Gabitril for pain, though there were a small number of uncontrolled (i.e., not very useful) studies suggesting that maybe Gabitril could be used to treat pain. Regarding sleep, the placebo-controlled trials I located did not suggest that the drug was particularly effective (1, 2). So we're looking at a drug with essentially no controlled evidence of efficacy being pushed for pain, sleep, and anxiety. Well-done, Cephalon.
+
+Some of the supporting evidence about the off-label marketing cases came from a sales rep who wore a wire to collect evidence on the company's marketing practices. Apparently a total of four company whistleblowers were involved. Shades of Peter Rost?
+
+Read more about the case at the Philadelphia Inquirer.
+
+PS. Cephalon published the negative anxiety Gabitril trials in June 2008. As is well-established, companies often fail to publish negative data about their
+products, so why is Cephalon being so open? A skeptic might note that with the legal case againt Cephalon gaining steam, it would look even worse if Cephalon was sitting on negative data. So perhaps knowing that bad publicity was coming due to the lawsuit led Cephalon to allow the negative anxiety results to be published, as they could state "Look at how open and honest we are." I'm just saying that it's a possibility.
+
+Reference for anxiety trials:
+Mark H. Pollack, Jane Tiller, Fang Xie, Madhukar H. Trivedi (2008). Tiagabine in Adult Patients With Generalized Anxiety Disorder Journal of Clinical Psychopharmacology, 28 (3), 308-316 DOI: 10.1097/JCP.0b013e318172b45f
+
+Update: Also read a related post at Health Care Renewal. It mainly discusses Cephalon's opiate-laced "perc-o-pops" (Actiq) approved to treat cancer pain, but marketed in a much broader manner.
+
+Follow-up mini-rant: Let's not excuse the physicians who jumped on board. Docs need to do a much better job of checking the evidence base, though when some of the evidence base consists of publishing the same data repeatedly and when negative trials are often not published, what kind of "evidence base" are we really talking about?

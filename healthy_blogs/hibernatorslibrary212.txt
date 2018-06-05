@@ -1,0 +1,75 @@
+One of the most difficult tasks for mental health workers is to clinically assess and diagnose mental illnesses - especially when comorbidity (having more than one mental illness) is so common. It usually begins with a psychological assessment through tests, observation, and interviews so the clinician can catalog the symptoms. Then the DSM-5 is consulted to give the diagnosis. 
+
+A clinician may focus the assessment in three ways - biological, psychodynamic, and behaviorally. 
+
+
+
+Biological approach
+
+For the sake of appropriate treatment, it is very important to make sure that the symptoms are not due to a physical rather than a mental illness. In my experience, many doctors shrug off certain types of symptoms as those of a mentally ill patient. For instance, when I fainted at work a while back I was told it was "anxiety." (And because it was diagnosed as a mental problem, my insurance didn't pay - but that's a problem to discuss on another day.) Granted, my fainting spell could have been anxiety-induced, but it could have been many things. 
+
+A more extreme example that I heard of from a doctor at a large university hospital was that a foreign patient (I can't remember his origin) kept coming in complaining that there was a worm in his head. The doctors kept shunting him off to mental health. Eventually, the man came back and said "There's a worm in my eye!" They looked, and sure enough there was a worm in his eye. (Possibly something like this?) Yeah. Sometimes the patient knows what he's talking about.
+
+
+
+
+Of course generally there aren't really worms in people's heads - but symptoms that seem mental could be due to head injuries, strokes, seizures, etc. There are a number of brain scans that can be performed to check for such problems. 
+
+One is computerized axial tomography (CAT) scan, which moves X-ray beam around the head to create a 2D image of the brain. CAT scans have become more rare because of the availability of magnetic resonance imaging (MRI). MRI quantifies magnetic fields affecting varying amounts of water content in tissue, thus giving a sharp image of different structures (or lesions / tumors) in the brain. 
+
+Another brain imaging technique is the positron emission tomography (PET) scan. PET scans measure the metabolic activity in the brain, thus allowing more clear-cut diagnoses to be made. PET can reveal problems that are not anatomically obvious. However, the images in PET images are low-fidelity and the scans are prohibitively expensive. 
+
+Functional MRI (fMRI) measures blood flow of specific areas of tissues, thus providing information about which areas of the brain are active. fMRI is the scan that helps researchers discover which parts of the brain are important for certain types of thoughts or activities. At the moment, it is more important in the research than in the clinical world, but there is some optimism that fMRI might eventually be used to map cognitive processes in mental disorders.
+
+
+
+Sometimes, a lesion hasn't developed enough to be recognizable by brain scans. In this case, neuropsychological tests can be performed to quantify a person's cognitive, perceptual, and motor performance to determine what parts of the brain might be affected. The neuropsychological assessment usually involves a battery of tests such as the Halstead-Reitan assessment for adults. This assessment is composed of 5 tests. 
+
+
+1. Halstead Category Test: Measures learning, memory, judgement, and impulsivity. Patient hears a prompt and selects a number 1-4. A right choice gets a pleasent bell sound and a wrong choice gets a buzzer. Patient must determine the underlying pattern in prompt-number combinations. 
+
+2. Tactual Performance Test: Measures motor speed, response to the unfamiliar, and the ability to use tactile / kinesthetic cues. A blindfolded patient is asked to place blocks in the correct spaces on a board. Then she draws the board from memory, without ever seeing the board.
+
+3. Rhythm Test: Measures attention and concentration. The patient listens to 30 pairs of rhythmic beats and must determine whether the pairs are the same or different.
+
+4. Speech Sounds Perception Test: Determines whether patient can identify spoken words, and measures concentration, attention, and comprehension. Nonsense words are spoken, and the patient must choose the word from a list of four printed words.
+
+5. Finger Oscillation Task: Measures the speed at which the patient can press a lever.
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+References:
+
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 4: Clinical Assessment and Diagnosis. Abnormal Psychology, sixteenth edition (pp. 101-127). Pearson Education Inc.

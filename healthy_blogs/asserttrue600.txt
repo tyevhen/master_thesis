@@ -1,0 +1,183 @@
+The original image ("Lena"), left, and the same image transformed via Smart Sobel (right).
+
+Last time, I talked about how to implement Smart Blur. The latter gets its "smartness" from the fact that the blur effect is applied preferentially to less-noisy parts of the image. The same tactic can be used with other filter effects as well. Take the Sobel kernel, for example:
+
+float [] kernel = {
+2, 1, 0,
+1, 0,-1,
+0,-1,-2
+};
+Convolving an image with this kernel tends to produce an image in which edges (only) have been preserved, in rather harsh fashion, as seen here:
+
+
+Ordinary Sobel transformation produces a rather harsh result.
+
+This is an effect whose harshness begs to be tamed by the "smart" approach. With a "smart Sobel" filter, we would apply maximum Sobel effect to the least-noisy parts of the image and no Sobel filtering to the "busiest" parts of the image, and interpolate between the two extremes for other parts of the image.
+
+That's easy to do with just some trivial modifications to the Smart Blur code I gave last time. Without further ado, here is the code for the Smart Sobel filter:
+
+import java.awt.image.Kernel;
+import java.awt.image.BufferedImage;
+import java.awt.image.ConvolveOp;
+import java.awt.Graphics;
+
+public class SmartSobelFilter {
+
+   double SENSITIVITY = 21;
+   int REGION_SIZE = 5;
+
+   float [] kernelArray = {
+           2, 1, 0,
+           1, 0, -1,
+           0, -1,-2
+
+   };
+
+   Kernel kernel = new Kernel( 3,3,  kernelArray  );
+
+   float [] normalizeKernel( float [] ar ) {
+           int n = 0;
+           for (int i = 0; i < ar.length; i++)
+           n += ar[i];
+           for (int i = 0; i < ar.length; i++)
+           ar[i] /= n;
+
+           return ar;
+   }
+
+   public double lerp( double a,double b, double amt) {
+           return a + amt * ( b - a );
+   }
+
+   public double getLerpAmount( double a, double cutoff ) {
+
+           if ( a > cutoff )
+           return 1.0;
+
+           return a / cutoff;
+   }
+
+   public double rmsError( int [] pixels ) {
+
+           double ave = 0;
+
+           for ( int i = 0; i < pixels.length; i++ )
+           ave += ( pixels[ i ] >> 8 ) & 255;
+
+           ave /= pixels.length;
+
+           double diff = 0;
+           double accumulator = 0;
+
+           for ( int i = 0; i < pixels.length; i++ ) {
+                   diff = ( ( pixels[ i ] >> 8 ) & 255 ) - ave;
+                   diff *= diff;
+                   accumulator += diff;
+           }
+
+           double rms = accumulator / pixels.length;
+
+           rms = Math.sqrt( rms );
+
+           return rms;
+   }
+
+   int [] getSample( BufferedImage image, int x, int y, int size ) {
+
+           int [] pixels = {};
+
+           try {
+                   BufferedImage subimage = image.getSubimage( x,y, size, size );
+                   pixels = subimage.getRGB( 0,0,size,size,null,0,size );
+           }
+           catch( Exception e ) {
+                   // will arrive here if we requested
+                   // pixels outside the image bounds
+           }
+           return pixels;
+   }
+
+   int lerpPixel( int oldpixel, int newpixel, double amt ) {
+
+           int oldRed = ( oldpixel >> 16 ) & 255;
+           int newRed = ( newpixel >> 16 ) & 255;
+           int red = (int) lerp( (double)oldRed, (double)newRed, amt ) & 255;
+
+           int oldGreen = ( oldpixel >> 8 ) & 255;
+           int newGreen = ( newpixel >> 8 ) & 255;
+           int green = (int) lerp( (double)oldGreen, (double)newGreen, amt ) & 255;
+
+           int oldBlue = oldpixel & 255;
+           int newBlue = newpixel & 255;
+           int blue = (int) lerp( (double)oldBlue, (double)newBlue, amt ) & 255;
+
+           return ( red << 16 ) | ( green << 8 ) | blue;
+   }
+
+   int [] blurImage( BufferedImage image,
+   int [] orig, int [] blur, double sensitivity ) {
+
+           int newPixel = 0;
+           double amt = 0;
+           int size = REGION_SIZE;
+
+           for ( int i = 0; i < orig.length; i++ ) {
+                   int w = image.getWidth();
+                   int [] pix = getSample( image, i % w, i / w, size );
+                   if ( pix.length == 0 )
+                   continue;
+
+                   amt = getLerpAmount ( rmsError( pix ), sensitivity );
+                   newPixel = lerpPixel( blur[ i ], orig[ i ],  amt );
+                   orig[ i ] = newPixel;
+           }
+
+           return orig;
+   }
+
+   public void invert( int [] pixels ) {
+           for (int i = 0; i < pixels.length; i++)
+           pixels[i] = ~pixels[i];
+   }
+
+   public BufferedImage filter( BufferedImage image ) {
+
+           ConvolveOp convolver = new ConvolveOp(kernel, ConvolveOp.EDGE_NO_OP,
+           null);
+
+           // clone image into target
+           BufferedImage target = new BufferedImage(image.getWidth(), image
+           .getHeight(), image.getType());
+           Graphics g = target.createGraphics();
+           g.drawImage(image, 0, 0, null);
+           g.dispose();
+
+           int w = target.getWidth();
+           int h = target.getHeight();
+
+           // get source pixels
+           int [] pixels = image.getRGB(0, 0, w, h, null, 0, w);
+
+           // blur the cloned image
+           target = convolver.filter(target, image);
+
+           // get the blurred pixels
+           int [] blurryPixels = target.getRGB(0, 0, w, h, null, 0, w);
+           invert( blurryPixels );
+
+           // go thru the image and interpolate values
+           pixels = blurImage(image, pixels, blurryPixels, SENSITIVITY);
+
+           // replace original pixels with new ones
+           image.setRGB(0, 0, w, h, pixels, 0, w);
+           return image;
+   }
+}
+To use the filter, instantiate it and then call the filter() method, passing a java.awt.image.BufferedImage. The method returns a transformed BufferedImage.
+
+There are two knobs to tweak: SENSITIVITY and REGION_SIZE. The former affects how much interpolation happens between native pixels and transformed pixels; a larger value means a more extreme Sobel effect. The latter is the size of the "neighboring region" that will be analyzed for noisiness as we step through the image pixel by pixel. This parameter affects how "blocky" the final image looks.
+
+Ideas for further development:
+Develop a "Smart Sharpen" filter
+Combine with a displacement filter for paintbrush effects
+Overlay (combine) the same image with copies of itself, transformed with various values for SENSITIVITY and REGION_SIZE, to reduce "blockiness"

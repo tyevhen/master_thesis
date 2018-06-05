@@ -1,0 +1,11 @@
+The Mozilla Labs crew continues to put a surprising amount of muscle behind Jetpack. I note with interest that Mozilla is looking to hire an engineer (http://3.ly/ic3) and a PM (http://3.ly/4Uf) specifically to work on Jetpack. The fact that Mozilla is creating two new positions (in this economy, especially) tells me they're committed to the Jetpack project. It's not just a (forgive me) "fly by night" affair.
+
+In addition, I think it's interesting that Mozilla Labs recently announced a Jetpack Liftoff code contest, which ends October 15, 2009. The grand prize winner will receive an ASUS Eee PC 1000HE Black Netbook computer (ARV: $399). The runner-up prize winner will receive stickers and a t-shirt (ARV: $100).
+
+Version 0.5 of Jetpack is set to hit tomorrow night, with a Labs blog about it the following morning.
+
+More exciting to me personally is the fact that the API has expanded significantly. I won't run through any of the new methods here (even though I know you're dying to hear about them in excruciating detail right this minute), but you can sneak a peek at the doc here.
+
+It will be interesting to see what comes out of the contest. Jetpack is at a pivotal point in its career right now. It badly needs a Killer App. It's kill or be killed, in the browser world, and frankly the world doesn't want for APIs at this point. So it behooves MozLabs to slam-dunk this one. If it were me, I would have upped the ante and made the grand prize for the code contest a little grander: a real jetpack. It doesn't say much to give away a $400 netbook, IMHO. (At the very least, give away a fully tricked-out Powerbook. And maybe a claw hammer signed by IceT.)
+
+But then, what do I know about running a contest? I barely know which end of the claw hammer to pound the keyboard with.

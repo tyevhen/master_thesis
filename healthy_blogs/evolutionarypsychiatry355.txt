@@ -1,0 +1,22 @@
+In my last post on the link between low cholesterol and suicide, I made note of some general trends between low cholesterol, suicide (particularly violent suicide), accidents, and violence, and raised some questions about the safety of cholesterol-lowering drugs. I didn't find any researched link between statin therapy and suicide, though one study showed that a statin reduced the ability of a certain serotonin receptor to do its job (linked below). My takeaway point from the post was that, hey, cholesterol is important and needed in the brain. Obliterating the ability of our liver to make cholesterol may have some untoward mental health side effects.
+
+Since then, I've kept an eye out for more information, and a few interesting snippets have come up. Current Psychiatry has a decent article this month, "Cholesterol, mood, and vascular health. Untangling the relationship."
+
+Some interesting facts from the article:
+
+1) 1/4 of the body's free cholesterol is found in the central nervous system
+2) Depleting cholesterol impairs the function of the serotonin 1A receptor and the serotonin 7 receptor, and reduces the ability of the membrane serotonin transporter to do its thing. (Serotonin is made within nerve cells and needs to be transported outside into the synapse between the nerve cells to work. If the transporter isn't functioning, we have a Big Problem).
+3)Cholesterol is also needed for forming a nerve synapse (also Important) and making myelin.
+4) Cholesterol may be involved in GABA and NMDA receptor signaling, opioid signaling, and the transport of excitatory amino acids.
+
+Just to be crystal clear - low serotonin is associated with violent suicide, impulsive acts, hostility, and aggression. We need plenty of cholesterol in the brain to have all our serotonin machinery work properly. Low cholesterol is also associated with suicide and violence. If you have low cholesterol, of course it does not mean you will be suicidal. Suicide is, fortunately, rare, and will have multiple predisposing causes.
+
+So the paragraph above, with its caveat, brings up an interesting and actionable hypothetical question - does lowering cholesterol with medication predispose you to suicide or violence? The first cholesterol-lowering drugs were not statins. And an early analysis of the primary prevention trials of the non-statins showed a doubling of the risk of violent death or suicide. Oops. (I also linked the J-LIT trial in my previous post, which showed a 3-fold increase in suicide or accidents with statin therapy, though the increase was not statistically significant).
+
+A later case-controlled study showed that statin users had a lower risk of depression than patients on non-statin lipid-lowering drugs. The LIPID study followed 1130 patients on pravastatin for 4 years, and found no changes in (self-reported) anger, impulsivity, anxiety, or depression. Pravastatin doesn't cross the blood-brain barrier very well. Simvastatin, a very commonly used statin, crosses it quite readily - but why this would be important may be interesting. HMG Co-A reductase inhibitors (statins) do most of their work in the liver, after all. But it turns out we have HMG Co-A reductase all sorts of places. These researchers found it in Chinese hamster ovary cells. And in these cells, administration of a statin reduced the ability of the serotonin IA receptor to work. Getting rid of the statin restored the serotonin IA receptor function.
+
+But there's another complication in examining the literature for statin side effects. Some studies excluded patients with psychiatric problems (1). And due to the ability of statins to cause birth defects, many trials have excluded any women of childbearing age. Just something to keep in mind.
+
+We are left with... well, a clinical trial is apparently underway to study the effects if pravastatin, simvastatin, or placebo on mood, sleep and aggression. We still don't know if low cholesterol causes suicide and aggression, or if it is a biomarker of depression. I'm convinced high cholesterol is just a biomarker for heart disease, after all, rather than a cause. Thus the whole question of why treat high cholesterol at all (though the magical anti-inflammatory statin effect may help younger men. With known heart disease.)
+
+My brain needs cholesterol! So does yours.

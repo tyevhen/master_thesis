@@ -1,0 +1,21 @@
+As a biologist, I find Darwin's theory hugely disappointing. It's better than the alternative (which is to believe in magic, basically), but not by much, sadly.
+Charles Darwin died before Mendel
+proved the existence of genes.
+
+As scientific theories go, the theory of evolution is easily the weakest of all major scientific theories. It's a commendable piece of work in its ability to stir discussion, but terrible in most other ways.
+
+To be useful, a scientific theory has to do a minimum of two things: explain what can be observed, and provide testable predictions. Darwin's theory is weak on the first count and useless on the second.
+
+Evolutionary theory explains practically nothing, because every explanation of the theory is rooted in "survival of the fittest," which is a circular notion, utterly content-free. "Fittest" means most able to survive. Survival of the fittest means survival of those who survive.
+
+Ironically, Darwin's landmark work was called On the Origin of Species. Yet it doesn't actually explain speciation, except in the most vacuous and speculative of terms. Of course, we can't set too high an expectation for Darwin, since he didn't live to see the publication of Mendel's work (the word "genetics" wouldn't exist until more than 20 years after Darwin's death), but still. Speciation is portrayed by Darwin as the outcome of the accumulation of small, gradual changes. That's all the explanation he offers.
+
+But the explanation is wrong. Or at least it doesn't accord well with the facts. It doesn't explain the Cambrian Explosion, for example, or the sudden appearance of intelligence in hominids, or the rapid recovery (and net expansion!) of the biosphere in the wake of at least five super-massive extinction events in the most recent 15% of Earth's existence.
+
+One of the most frustrating aspects of evolutionary theory (this is no fault of the theory's, though) is that it is so hard to test in the laboratory. The fact is, no one has ever seen speciation happen in the laboratory, under repeatable conditions, and until that happens we're at a distinct disadvantage for understanding speciation. (Incidentally, I don't count plant hybridization or breeding anomalies in fruit flies whose sexuality is under the control of microbial endosymbionts as examples of speciation.)
+
+When I was in school, we were taught that mutations in DNA were the driving force behind evolution, an idea that is now thoroughly discredited. The overwhelming majority of non-neutral mutations are deleterious (they reduce, not increase, survival). Most mutations lead to loss of function (this is easily demonstrated in the lab), not gain of function. Evolutionary theory is great at explaining things like the loss of eyesight by cave-dwelling creatures (e.g., bats). It's terrible at explaining gain of function.
+
+Even if mutations were capable of driving evolution, they simply don't happen fast enough to account for observed rates of speciation. In bacteria, the measured rate of 16S rRNA divergence due to point mutations is only 1% per 50 million years. And yet, there were no flowering plants on earth as recently as 150 million years ago! Does it take a biologist to see the disconnect?
+
+I bring all this up because I've spent some time recently doing genomics research aimed at exploring mechanisms for new-protein creation/differentiation (mechanisms not relying wholly nor even mainly on point mutations), and I wanted to set the stage for discussing that research here. Over the next week or so, I'll be presenting some new ideas and findings. Hopefully, we can put some much-needed flesh on Darwin by exploring testable notions of how new protein motifs can arise quickly (without reliance on magic).

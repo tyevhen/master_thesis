@@ -1,0 +1,7 @@
+One complaint I heard someone make recently, in the context of JavaScript not having a true inheritance model, is that there is no super() in JavaScript. Somebody, in a forum somewhere, actually whined and moaned about not being able to call super(). I believe the whiner was a Java programmer.
+
+There shouldn't be a super() in Java, either, though. That's the real issue.
+
+I'm flabbergasted that anyone thinks super() is a meaningful thing to have to write, in any language. What could be more obscure and arcane than super()? It's totally cryptic. It's shorthand for "go invoke a method of my parent that I happen to have intimate knowledge of. Never mind the side effects, I'm clairvoyant enough to understand all that, even if my parent's concrete implementation changed without my knowing it."
+
+I thought secret knowledge and hidden dependencies were supposed to be evil.

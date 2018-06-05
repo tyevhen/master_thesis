@@ -1,0 +1,19 @@
+Adobe, it seems, has a stimulus package of its own.
+
+I've noticed that more than one Adobe Systems "technology evangelist" has been trying to entice the jobless on Twitter to try Flex Builder for free.
+
+The tweets say: "Recently laid off? Looking to expand skills? DM me with your email address for a free license of Flex Builder."
+
+The message has been circulated by @tpryan, @ryanstewart, @sjespers, and @ddura, all Adobe Flash Platform Evangelists. Variations of it have been circulated by other Adobe evangelistas. To wit:
+
+@duanechaos took this approach:
+Anyone want a free Flex Builder License? Applies to out of work developers only as part of an Adobe Stimulus package. Contact me offline.
+@ashorten tweeted this:
+if you know someone who's unemployed who'd like to get skilled on Flex then tell them to email shorten at adobe.com and I'll help
+@mcorlan, an Adobe evangelist in Romania, posted:
+If you have been laid of and are looking to learn Flex, please email or DM me.
+Disclosure: I retweeted one of the original messages myself the first time I saw it, thinking it was just one nice Adobe guy's act of kindness. Then it turned out to be two nice Adobe guys. Then three nice Adobe guys. Then four. Then five. Then six.
+
+I don't know. I guess it's good that Adobe lets evangelists comp people on Flex Builder; and I guess it's good that Flexvangelists reach out this way to the recently-laid-off; but to exploit Twitter as an avenue for finding out-of-work programmers who might want to convert to the Flex religion? I don't know. I don't know.
+
+Something about it creeps me out.

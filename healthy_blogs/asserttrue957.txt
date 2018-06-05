@@ -1,0 +1,41 @@
+My new invented term for AJAX-using-E4X. Quick, somebody trademark it! (Not.)
+
+Javascript, XML, and Element Names
+So as E4X finds increasing use in the AJAX world, a potential stumbling block comesinto focus around hyphens and other non-word-characters in element names.
+
+The issue is this. E4X has a dot-syntax for XML objects that allows expressions like root.x.y to obtain the y element under an x element under the root. But when an element name contains a hyphen, this syntax breaks. Consider:
+
+var fragment =
+<content>
+<field>
+<display-label>Please approve.</display-label>
+</field>
+</content>;
+
+// Now try to access the display-label value
+var value = fragment.field.display-label;  // ReferenceError!
+
+
+The interpreter treats a hyphen as a minus-sign, of course, and since label hasn't been declared, it's undefined and unusable. If a variable named "label" does happen to exist in the current scope (e.g. you used var label in place of var value above), you won't get any error at all, since subtraction on two defined entities is always a legal production in Javascript.
+
+The Workaround
+Fortunately, E4X supplies an alternative syntax we can use.
+
+// Instead of this:
+var value = fragment.field.display-label;  // ReferenceError!
+
+// Do this:
+var value = fragment.field["display-label"];  // "Please approve."
+
+There's one more syntax breakage to deal with, and that involves the descendant-retrieval syntax. E.g., root..y returns a list of all y descendants under root, regardless of what level in the tree each one is at. This syntax obviously breaks down if y is something like data-item.
+
+The workaround is to use the E4X descendants() method.
+
+
+// Instead of this:
+var allLabels = fragment..display-label;  // error!
+
+// Do this:
+var allLabels = fragment.descendants("display-label");  // list of nodes
+
+Similar breakages and workarounds exist for E4X attribute syntax, the details of which are left as an exercise for the reader.

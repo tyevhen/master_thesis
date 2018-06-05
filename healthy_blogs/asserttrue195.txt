@@ -1,0 +1,27 @@
+I'm an altruist, but for totally selfish reasons.
+
+I do things for others—because it benefits me.
+
+I have a how-to book coming out in a couple of days (Hack Your Depression), as well as a mental-health memoir (Of Two Minds); and in the first book, one of the 35 techniques I advocate for promoting subjective well-being (which is a more useful term, I think, than "happiness") is performing random acts of kindness.
+
+A substantial amount of evidence exists to show that altruism and subjective well-being are correlated. It's not just a correlation, though. According to a recent paper at PLoS ONE, “Evidence even suggests a causality mechanism after a number of studies showed that people who performed random acts of kindness for a period of time were happier than those in the control group.”
+
+I cite additional research (as if any were needed) in Hack Your Depression. I think it's fairly obvious to anyone who's tried it that performing wanton, senseless, nonsensical acts of kindness (AOKs) does so much good, on so many levels, it almost doesn't warrant further discussion.
+
+I'm always looking for ways to sneak more random AOKs into my daily life. Earlier today I had a thought: I'm not doing enough for my Twitter followers. Why not promote some of them right here in the blog? So my thought is: maybe once a week (for starters) I'll put up a thank-you list, in graphic form (see below), of people who've recently retweeted me.
+
+ For example, here are 60 people who RT'd me in the last 24 hours or so:
+
+
+
+The icons are live links. Please click them! Reach out to these fine folks; follow them. Most will follow back. Why wouldn't you follow them? These guys actually retweet!
+
+I haven't quite gotten a plan together for how to harvest retweeters reliably. Mind you, I'm not using the Twitter API; I'm just scraping the native Twitter browser app with JavaScript to collect the links and icons. That has its down side in terms of not being exhaustive, because the Twitter app only tells you who the first 14 retweeters were. (It'll say "Joe B. and  35 others retweeted you," or whatever, above a row of 14 icons. Those are the icons I'm collecting.)
+
+Also, if I'm going to publish an icon Hall of Fame once a week, I'll need to run the collection script at least once a day, every day. (It takes only a few seconds. I do need to hook the script to a toolbar button, though.) I'll figure it out. Don't worry. It's not rocket surgery.
+
+In the meantime: If you want to appear in the weekly thank-you list right here on this blog, just retweet something of mine (@kasthomas) on Twitter. Then check back here throughout the week.
+
+If people find this useful, I'll roll it out on Author-Zone.com (my other site) as well as HackYourDepression.com (my other other site), and also I'll share the code here in case anybody else wants to try this senseless, wanton, random, nonsensical wantonness.
+
+Please visit HackYourDepression.com to follow the progress of my books. And tell a friend! Thank so much.

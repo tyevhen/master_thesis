@@ -1,0 +1,19 @@
+Silicon Alley Insider ran this graph of browser usage yesterday showing Chrome continuing to make inroads on Internet Explorer and Firefox. The headline was "Google Chrome Is Eating Microsoft's Lunch." I'm not sure the graph actually shows that. What the graph actually shows is:
+Internet Explorer's market share has been downtrending (quite convincingly) since late 2008.
+Firefox has apparently plateaued and in fact may be seeing some share deterioration in the last month or so, although there's not really enough data to call it a trend yet.
+Opera has seen its traditionally miniscule share go down, if anything, over time.
+Safari has "broken out" and is now a visible presence in the market -- which you really could not have said, prior to July 2009.
+Chrome has broken out and is a convincing third-place player.
+Chrome's break-out really became apparent around August 2009. Firefox's upward trajectory, on the other hand, stopped around three months later, in November 2009. Since then, Firefox has been treading water, and in the most recent month its adoption slope has actually gone negative, although this could be a onetime anomaly (it's too soon to tell).
+These numbers purport to represent global web browser market share. Just for fun, I'll present a different data set: Traffic from this blog, broken out by browser. The first pie-chart shows browser usage by visitors to this blog, for the period January 1 to March 8, 2010. The second chart shows browser usage for visitors to this blog in the period January 1 to March 8, 2009.
+
+Browser usage on this site, 1 Jan to 8 Mar 2010.
+
+
+Browser usage on this site, 1 Jan to 8 Mar 2009.
+
+What we can see is that, first of all, people who visit this blog are a very Firefox-centric group and always have been. That's not so unusual for "techie" blogs. But secondly, we can see that Chrome usage is up sharply over the past year (which agrees with the "global" data presented above) -- while Firefox usage is down sharply. Chrome usage more than tripled, going from 6.77% in 2009 to just over 25% in 2010, while Firefox usage sank from 64.09% to 48.92%. Internet Explorer usage went from 11.55% in 2009 to 7.78% in the same period in 2010.
+
+These numbers are based on total traffic of 8,588 visits in the period of 1 Jan to 8 Mar 2009 versus 51,701 total visits for the same period in 2010.
+
+You can draw your own conclusions. I conclude that Chrome is coming on strong -- and it is taking share away from Firefox every bit as much as from IE (at least among the type of users who visit blogs like this one).

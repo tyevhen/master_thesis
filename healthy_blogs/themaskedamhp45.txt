@@ -1,0 +1,54 @@
+The College of Social Work has just issued The Impact on AMHP Practice and Service Delivery by The Supreme Court Judgment on Deprivation of Liberty: P v Cheshire West and P & Q v Surrey County Council.
+This was authored by the eminent Emad Lilo, who is Vice Chair of TCSW AMHP Community and works as AMHP practice lead at Mersey Care Foundation Trust. He is well known for producing extraordinary annual social care conferences, some of which I have reported on this blog.
+
+This is an important document for two reasons.
+
+The first is that it is quite probably the last document The College of Social Work will ever issue, as the Government in their wisdom has seen fit to withdraw funding from TCSW with the consequence that the organisation will cease to exist by September.
+
+The second reason is that it provides important guidance for Approved Mental Health Professionals, Best Interests Assessors and their employers on how to negotiate the minefield that is the interface between the Mental Health Act and the Mental Capacity Act.
+
+Last year, the Supreme Court issued a judgement, P v Cheshire West and Chester Council and P and Q v Surrey County Council [2014] UKSC 19, which attempted to clarify when and how deprivations of liberty might arise for people lacking mental capacity.
+
+Lady Hale in the judgement offered a simple “Acid Test” to assist in determining whether someone suffered a Deprivation of Liberty. It revolved around two facts: that the person is not “free to leave”, and that they are subject to continuous supervision and control. She recommends that professionals should “err on the side of caution” when reaching a decision regarding potential deprivation of liberty, which means that AMHPs and BIAs should ensure they use their respective powers in such cases.
+
+These powers are essentially: to detain the patient under the MHA, to obtain an authorisation under the Deprivation of Liberty Safeguards, or if there is no other route, to obtain an order from either the Court of Protection or via the inherent jurisdiction of the High Court.
+
+You can read more about  the Cheshire West judgement on my blog here.
+
+TCSW surveyed 24 AMHP service providers across England and Wales in order to find out the impact that this Supreme Court decision had had on:
+·         AMHP practice and the use of the Mental Health Act
+·         The use of DoLS or MHA or MCA for admitting incapacitated patients to a mental health unit
+·         The use of DoLS or MHA or MCA for the provision of care/treatment to incapacitated patients already in a mental health unit
+·         What training/guidance is or should be made available to improve practice including effective and lawful implementation of the judgment
+As a result of this survey, the report makes a number of recommendations in order to ensure that all professionals and organisations working with people who are mentally incapacitated are practicing within the law and the spirit of the legislation.
+
+The report also provides some useful grids and flowcharts to assist in making decisions regarding the use of the Mental Health Act or DoLS.
+
+All but one service provider reported an increase in the burden of work carried out by AMHPs. One respondent noted:
+“We have seen an unprecedented increase in the number of MHA assessments being requested, and the number of patients being detained as a direct consequence of the CW ruling.”
+
+There has also been a corresponding increase in the level of requests for authorisations under the Deprivation of Liberty Safeguards. A respondent noted:
+“The dedicated BIA team has been expanded by recruitment of extra BIAs and admin staff as this is the main point of contact for inquiries. Despite these increases the BIA service cannot adequately respond to the increase in contact and demand.”
+
+The report observes:
+“The situation appears to be more challenging for certain local authorities where a large proportion of their Best Interests Assessors for DoLS are drawn from the AMHP service. The levels of activity have led to unprecedented pressure on already limited and stretched AMHP provision across the country.”
+
+The report also contains extensive discussion of the implications of the Cheshire West judgement in context of the new Code of Practice, and also examines the Law Society guidance issued on behalf of Department of Health.
+
+The MHA Code of Practice was revised subsequent to the Cheshire West judgement. It must therefore be concluded that the writers of the revised Code had the judgement in mind.
+
+Nevertheless, the Code contains some potentially alarming recommendations. For example, it states that "a person who lacks capacity to consent to being accommodated in a hospital for care and/or treatment for mental disorder and who is likely to be deprived of their liberty should never be informally admitted to hospital (whether they are content to be admitted or not)."(13.53)
+
+A consequence of this would appear to be that the MHA is almost invariably going to be used when someone lacking capacity needs to be admitted to hospital.
+
+However, Professor Richard Jones, author not only of the Mental Health Act Manual but also the Mental Capacity Act Manual, stated, “In my opinion, compliant mentally incapacitated patients can continue to be admitted informally under the authority of ss.5 and 6 of the MCA.  After admission, they can be assessed to see whether they satisfy the Acid Test. In any event, I do not see how the use of the MHA can be justified in anticipation of a possible future deprivation of liberty.”
+
+Neil Allen, a Barrister at 39 Essex Street Chambers and lecturer at Manchester University went on to say: “If I lack capacity and need to be admitted to a psychiatric ward to treat my mental disorder, if I object or would object if able to, use the MHA. If I am non-objecting, use MCA 5-6 to take me there and urgent DOLS with request for standard DOLS…. In deciding whether I object or would object, if in doubt Code says err on the side of caution (i.e. consider me to be objecting).”
+
+The report also looks at the Law Society guidance. In connection with conveyance, this states:
+
+“Transporting a person who lacks capacity from their home, or another location to a hospital by ambulance in an emergency will not usually amount to a deprivation of liberty. In almost all cases, it is likely that a person can be lawfully taken to a hospital or care home by ambulance under the wider provisions of the Act, as long as it is considered that being in the hospital or care home will be in their best interests.”
+
+I pick out these particular quotes as in my work as an AMHP and also having responsibility for triaging MHA assessment requests for my local authority, I am always keen to adhere to the MHA Code of Practice’s first principle, which is to use the least restrictive option wherever possible. I am therefore reluctant to use the powers of detention under the MHA if there are alternatives, including use of the MCA for people who lack capacity.
+The report makes a range of recommendations, including that AMHPs need to be familiar with the Mental Capacity Act and the Deprivation of Liberty Safeguards and need to be familiar with the key points from the Cheshire West judgment, that local authorities should increase the number of AMHPs to cope with the increased demand, that there needs to be additional training on the MHA Code of Practice, and that “hospitals, local authorities and care homes must work together locally to raise awareness and improve understanding of the MCA more widely and embed it in the health and social care culture.”
+This review can necessarily only outline what is contained in this important document. There is so much that is of relevance to professional decision making that I recommend all AMHPs, BIAs and others professionally involved with making decisions on behalf of people lacking capacity should read it in full.

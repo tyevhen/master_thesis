@@ -1,0 +1,44 @@
+It's that time of year when people put together lists of grand predictions for the coming 12 months (yawn), but when I started thinking of what my list of predictions would look like, I came up with only one prediction that I'm comfortable making, which is: 2016 will be the year Samsung Pay kicks Apple Pay's ass.
+
+I know, it's not exactly a set-the-world-on-fire prediction, but it's the best I could come up with.
+
+And I stand by it, because I've been working in the payments industry for a while now, and I've seen how the sausage is made, and yeah, it's crazy to think anything Samsung does could out-Apple Apple. But I'm here to tell you, Apple Pay is going to take it on the chin. All because of stone-simple copper wire technology.
+
+
+See that photo? See the weird copper-loop gizmo? That's what's inside a Samsung phone. That's the piece that kicks Apple's ass. Starting any minute now, and continuing throughout 2016. And beyond.
+
+If you're not a geek, stay with me, because I'm going to de-geekify all the Apple Pay baloney for you in about two seconds.
+
+The basis of Apple Pay is something called NFC, or near-field technology, which is kind of like walkie-talkie tech for letting your iPhone talk to credit-card machines (without making physical contact), okay, but the catch is, the credit-card machine (in order to participate) has to be one of the newer-fangled, next-generation machines built to do the NFC tango. Which most machines aren't.
+
+Obviously it's awesome (in theory) to be able to walk up to a check-out counter and wave your phone around and have a transaction go through, without your having to fish a plastic card out of your purse. That's an awesome concept. And it works great if you have Apple Pay on an iPhone and the merchant has a newer-fangled NFC machine. But most merchants don't have the NFC-style machinery, and honestly, can you blame them? Credit card gizmos are a hassle to upgrade. Just upgrading from magstripe to chip card capability is a pain, but going the extra mile for NFC? That's yet another level of upgrade hell. Most merchants aren't willing to do it just now.
+
+Will Graylin
+So in 2012, dig this, along come a couple of guys (Will Graylin and George Wallner) who decide to start a company called LoopPay, based on a really crazy idea: Put a copper-wire loop in a phone and use it to send out a disturbance in the Force (an old-school magnetic disturbance, not an NFC signal) specifically designed to spoof a card swipe, at a distance. You know that funky magnetic stripe on the back of your credit card? The one that's just a piece of magnetic tape embedded in the card, for cryin' out loud? The iron particles in that stripe are what the card machine responds to: You swipe the card through the slot, and the magnetized iron particles cause a ripple in the magnetic field between some sensors, and voila! Information is transferred. Well, imagine if you had a bunch of strong magnets taped to the back of a card and you could wave the card at the machine from a distance of a couple inches and achieve the same thing as a card swipe. The coil in a LoopPay device generates a magnetic field the old fashioned way, and does the same thing as tiny iron particles. It tricks a standard, non-NFC, old-school card swiper into thinking a credit card is nearby. It spoofs a swipe, at a distance. And yes, it's just that hacky. It's hilariously devious. It's low-tech. It's freakin' brilliant.
+
+George Wallner
+So yes, what you're thinking is right: If you've got a phone with LoopPay inside, you can trick a standard old-fashioned 1999-vintage card reader into thinking you're doing a mag-swipe, from a distance (i.e., "contactless"). No fancy NFC tech needed. No upgrades necessary. Even your merchant will be surprised.
+
+Samsung saw the Graylin/Wallner technology in action and said "Holy shit. We have to have this." They bought LoopPay and its patents, early in 2015, for about $250 million. A major, major gaffe for Apple.
+
+How's Apple Pay doing, by the way? Um, ah, well, you see, um . . . Read the headlines.
+New Data Shows Apple Pay Still Stuck In The Mud.  
+Research Study Shows Apple Pay Adoption is Slowing. 
+Apple Pay, One Year Later: Still Waiting to Catch On.
+And so on. Apple Pay is dead in the water, even without Samsung Pay stirring up trouble.
+
+Just hold your phone near the old-school magstripe swiper. Poof! Done.
+Samsung, meanwhile, is just getting started. Samsung Pay is just now appearing in the U.S. Over the next month or so, Samsung will be rolling out some new phone models, and the initial production run on the Galaxy S7 is said to be 5 million units. Yes, there are more iPhones with Apple Pay on them than Samsung phones with Samsung Pay, but the point is: Who's using Apple Pay? Practically no one. Who can accept Samsung Pay? Practically every merchant on earth.
+
+Who's going to win this? You decide.
+
+Need I say it? This blog reflects my own opinions, not those of my employer.
+
+❉
+
+A big thank-you to all the great people who retweeted me yesterday:
+
+
+
+Buy my books (or click to find out more, at least):
+Have you added your name to our mailing list?

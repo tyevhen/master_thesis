@@ -1,0 +1,33 @@
+In the midst of all the chaos this week came a very interesting diet/mental illness risk paper.  Particularly good because it comes from the premier psychiatry journal (that we in the biz call the "Green Journal" because the cover is… well…anyway): The American Journal of Psychiatry (and looks like the full text is available for free) --- Maternal antibodies to dietary antigens and risk of nonaffective psychosis in offspring.
+
+"Nonaffective psychosis" are psychotic disorders not related to major depressive disorder or bipolar disorder (both of which can cause psychotic symptoms during severe episodes).  The most common primary nonaffective psychosis will be schizophrenia, though there are a few other rarer disorders, such as delusional disorder.
+
+Lest we forget who the enemy is, it is inflammation.  Yes, our immune system, in the context of our modern lifestyle is often like an group of soldiers armed to the teeth with too much to do on one hand (all these modern epidemics of infections) and too little on the other (wherefore art thou, old friends?).  Lest we forget, without inflammation, we will die.  Our immune system is necessary, just like an army from time to time.
+
+To put the screws on schizophrenia risk, let's say now, with relative surety, that there is no single cause.  Schizophrenia isn't even a single disorder, but rather a variety of disorders with similar enough symptoms to be lumped together by that most imperfect of documents, the DSMIV.  But, a few things come up over and over when we look at the suspicious characters, and these things all go back to the immune system (inflammation), genetic risk, and those contributions to the pathology of schizophrenia (ultimately brain damage of a particular kind, a neurodegenerative disease).
+
+Risk factors for developing schizophrenia that I've heard over the years:
+
+Family history
+Urban
+Advanced paternal age (and to a lesser extent, advanced maternal age)
+Infections (particularly toxo and herpes)
+Birth in the winter months (could be associated with infections or…)
+...Low vitamin D at birth
+Complications during pregnancy or birth
+Cannabis use, particularly at a young age
+
+(before I forget, it's a beautiful day… Punching in a dream by Naked and Famous)
+
+So we get the usual hodgepodge of genetic risk (family history) plus environmental stress (particularly severe stressors that occur when the brain is forming) = increased risk of developing the disease(es).  Ultimately at a certain stage of development (typically late adolescence for men and about 10 years later for women), brain cells begin to die, signals misfire, and we end up with the typical symptoms.
+
+It makes perfect sense that if we have a sensitivity to something in our diet, inflammation will increase, and that risk for all sorts of autoimmune conditions and other chronic diseases will increase.  And, as we already know, there is an association between schizophrenia and celiac disease, and schizophrenia and weird wheat antibodies.
+
+So now, the new paper in the Green Journal.  It's one of those cool studies that are only possible in Scandanavian countries where you pay 70% of your income in taxes and the government keeps tab on all your health information from birth to death.  In this case, the neonatal blood samples of a whole population of folks were collected (everyone in born Sweden since 1975) and a sample of folks later diagnosed with schizophrenia and matched healthy controls were analyzed.  IgG antibodies (immune response) to gliadin (from wheat) and casein (from milk) were measured.  Newborns have immature immune systems and do not make IgG antibodies.  These antibodies must have been made by the mother and passed through the placenta in the late stages of pregnancy to the baby.
+
+Don't all run out and get expensive IgG tests to see if you are "sensitive" to foods.  I've never seen anything compelling to show me these tests were a reliable indicator of allergies.  Wheat is so commonly eaten that almost anyone with an inflamed or "leaky" gut will have IgG antibodies floating around… however, in this study, it was the 10% of folks who had the highest IgG signal to gliadin whose offspring had increased risk of schizophrenia.  IgG antibodies to casein were not linked to any increased risk.  If only the 5% of babies with the very highest levels of IgG antibodies to gliadin were consider, the odds ratio of developing schizophrenia later in life jumps to 2.5.  Don't get me wrong, the absolute risk will still be pretty low, but any time an odds ratio jumps to >2 one should prick up one's ears as it is an interesting finding.  These findings were not attenuated by adjusting for confounders.
+
+In general, a highly positive IgG test to gliadin means you have a risk of having celiac disease (though it is not one of the standard tests, which are typically measures of types of HLA genes, anti tissue transglutaminiase, and IgA to gliadin).  Did the moms with the highest IgG in this study have untreated celiac disease, and thus a fully flowered autoimmune disease with all the inflammation on board, affecting mom as well as fetus?  Sure, except full blown untreated maternal celiac disease is typically associated with malnutrition and small birth weight, whereas in this study there was no correlation between high anti-gliadin IgG and low birth weight.  In addition, while 90% of folks with celiac will have the HLA-DQA*0501 and DQB*0201 alleles, these alelles are not increased among folks with schziphrenia. 
+
+
+All told, once again we have a link between wheat and schizophrenia, one not explained by celiac disease alone.  More unveiling of the connection needs to be done.

@@ -1,0 +1,3 @@
+Seeing as how I've written a post or two before on the subject of performance optimization, I should perhaps point out that Sun Microsystems now has a resource page devoted to Java performance (tuning info, troubleshooting advice, white papers, best practices articles, etc.) at http://java.sun.com/docs/performance/.
+
+Also, the canonical advice on tuning Java for performance is still the 2005 white paper found at http://java.sun.com/performance/reference/whitepapers/tuning.html. Sun says this white paper is "a living document." But it hasn't changed since 2005, so you be the judge as to whether it can still fog a mirror.

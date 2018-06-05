@@ -1,0 +1,20 @@
+A study in today's American Journal of Psychiatry indicated that there was no effect for guanfacine (Tenex) in treating PTSD. Here we go:
+
+“There was no benefit at all, and there were several adverse side effects,” says lead author Thomas Neylan, MD, medical director of the PTSD treatment program at SFVAMC. “People with symptoms of PTSD should probably stay away from this drug and others of its type.”
+
+-- SNIP --
+Guanfacine and clonidine, another alpha-2 agonist, are commonly prescribed for PTSD symptoms.
+-- SNIP --
+The double-blind study compared the effects of guanfacine and an identical looking placebo pill on 63 male and female veterans at four VA medical centers in California and Hawaii. Twenty-nine participants were randomly assigned to take weekly doses of the drug, and 34 were assigned the placebo, for eight weeks.
+At the end of the study, the effect of guanfacine on PTSD symptoms was “zero,” and there were no differences between men and women or older versus younger veterans. In addition, the subjects who took guanfacine had significantly more somnolence, lightheadedness, and dry mouth than those who took placebo.
+The study authors conclude, “These results do not support the use of alpha 2 agonists in veterans with chronic PTSD.”
+Press Release Source.
+Part 2
+For a closer look, Forbes has a good story, to which we now turn, starting with a snippet from the article...
+"Guanfacine and clonidine are alpha-2 agonists, which means they bind to the alpha-2 receptor on brain cells, blocking the release of a neurotransmitter called norepinephrine, Neylan [study author] explained. Norepinephrine is the neural form of the stress hormone adrenalin. Psychiatrists have long known that PTSD patients have increased levels of norepinephrine activity in their brains.
+"So, from the start, the whole idea was very appealing -- you give a drug like guanfacine that blocks the effects of norepinephrine, and you'd hope to see some benefit," he said. "It made intuitive sense. It was a lovely idea."
+In fact, it was such an attractive idea that more than 20 review articles and guidelines, published in a variety of psychiatric journals, touted the use of guanfacine and clonidine in easing PTSD symptoms. But no one had ever put this idea to the test in a randomized, controlled trial."
+WOAH, HOLD ON!
+More than 20 review articles and guidelines pimped a treatment that had never been tested in a controlled clinical trial? That, my friends, is a synopsis of what is wrong with psychiatry. Treatment in the face of no evidence. Let me qualify that -- some treatments work reasonably well. But polypharmacy is highly abundant in real-world practice despite precious little supportive evidence. Off-label prescriptions are fine if there is a some supportive evidence (or perhaps after data-supported treatments have failed), but we all know that much off-label (and some on-label) prescribing is done without an eye toward clinical trial data. Honestly, how is it even possible that so many articles can recommend a treatment that has never been subjected to basic scientific scrutiny? This is making me think Neurontin all over again!
+To switch to a positive note, I'm happy to see a trial not showing efficacy published in AJP. Congratulations. It's nice when a negative study is not buried. Blunt talk from the authors is also appreciated.
+Of course, one could take the view that the trial, by not showing appropriate assay sensitivity, does not count as evidence, and thus, such negative trials should not be published. What am I talking about? Read more here.

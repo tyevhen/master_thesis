@@ -1,0 +1,19 @@
+I expect fairly soon we'll have a better idea how deep the Volkswagen diesel-emissions cheating scandal goes (and how wide: whether other auto companies have been doing similar things), but given the likelihood that VW's recordkeeping on this sordid business has been prototypically German, with a bewildering plethora of reports, logs, development schedules, funcional-requirements documents, GANTT charts, engineering change orders (ECOs or ECNs), etc., it's a wonder authorities have not seized massive numbers of IT systems and/or shut the company down, at least temporarily, as a precaution, to prevent evidence from "disappearing."
+
+I work in software development, so I know there have to be records. Plenty of records. The "dyno mode" detection algorithms on which the VW cheat depends would have required significant development effort. A go-ahead for the project would have come only after a feasibility analysis, a needs analysis, cost and ROI pro-formas (how much will this cost to do? how much money could we make, over what period of time?), and so on. Once the program was greenlighted, a project manager (and code name) would have been assigned. Approvals would have been recorded, up and down the chain of command.
+
+The idea that this might have been a rogue effort by a couple of employees (or some oversight by management) is nonsense. The VW diesel cheat was a well planned software development effort, and as such it would have been accompanied by a project-management paper trail of titanic (or at least Teutonic) proportions.
+
+Somewhere, on a VW server, is a source control system (e.g. Subversion) containing all the firmware code, the progress reports, the QA scripts, the bugs (in a system like JIRA or Bugzilla), the ECOs, validation reports, dyno test results, the entire history of the "emission check defeat" project, start to finish. Every check-in, every bug fix, every item would have been recorded, with names, dates, etc. The complete dossier would be gigabytes.
+
+Which begs the question: Where are the whistleblowers? Where is the Edward Snowden of the VW case? Why has no car-company employee come forward? Is every VW employee so loyal, so willing to defend an obviously corrupt, immoral scheme, that no one will upload something to Wikileaks or speak privately to the press? How can workers be that loyal to a company that has clearly let its employees down?
+
+Hopefully, no records have been destroyed. (That would add a new level of criminality.) In the meantime, VW's servers should be seized. That's where the smoke's coming from.
+
+❉
+
+Thank you to all the crazy maniacs everyone who retweeted me recently:
+
+
+
+Follow these guys on Twitter. They retweet!

@@ -1,0 +1,38 @@
+I woke up today in one of those perilous half-dreamy states where you think you may have stumbled onto a Surprisingly Great Idea (an idea which might, on reflection, turn out to be shit, like the invention of the inside-out banana). My reverie ended up taking me, a few minutes later, to a fascinating (to me) post by Thomas Hühn called Myths about /dev/urandom, which only a programmer could love. But my brain was blocking on an InsufficientCaffeineError and I only haltingly made my way through Hühn's piece, until finally I refilled my cup a few times, and then everything was percolicious. (My Great Idea was downgraded thereby to Good, but that's not bad for a Sunday morning, right?)
+
+It's all about randomness. Which is a slippery subject indeed.
+
+For a layman, none of this will matter much (because it gets very abstruse very quickly), but the essence is: high-quality random numbers are hard to come by, and UNIX has always distinguished between pseudorandom numbers (algorithmically computed numbers), as provided by the /dev/urandom service, and non-deterministic random-looking numbers as provided by /dev/random. The problem with pseudorandom numbers is that they're pseudo. They come in a definite sequence that, if you know the algorithm (and the starting value), can be predicted. Non-deterministic numbers are numbers that may not meet tests of randomness but have the virtue of not being strictly predictable even in theory because they derive from real-world events that can't be anticipated. So for example, if I find a hair on the floor in my office, I can't know in advance how many microns long the hair is, even in theory. There's no known way to precalculate that. But if you pick up all the stray hairs from the office floor and measure their lengths, the variations might or might not meet a true measure of randomness.
+
+Okay, that was a janky example. Mea cuppa. I'm still two cups short of a load.
+
+[ refills mug ]
+
+The reason any of this matters is that for certain Really Important Things, like picking the seed value for a random number that will get used in opening an SSL connection, you want a non-deterministic value, something no hacker could predict even in theory. UNIX (and Linux) will give you such a number in /dev/random, but you might have to wait an unknown amount of time for it, because /dev/random blocks until sufficient entropy has been gathered. Where does this "entropy" come from and why do you have to wait for it? It comes from such janky things as inter-interrupt timings (the amount of time between keystrokes or mouse moves, for example), which are not terribly abundant; compared to the speed at which a CPU ticks, keystroke deltas come along at a glacial pace. Bottom line, if you open enough SSL connections at once, you can starve some UNIX machines for entropy (if they're waiting on /dev/random). The machine will block. Which is bad. That's a kind of vulnerability in its own right.
+
+It turns out FreeBSD and others don't block (except once, at startup, while waiting for entropy to build up); /dev/urandom and /dev/random are the same device, on those machines. Linux saves some built-up entropy into a seed file that gets rolled over to the next startup.
+
+Many specialists have come to the view that the /dev/random "blocking" phenomenon is a needless bogeyman, and maybe it is. To me, it's just kind of an interesting bit of lore.
+
+I used to care deeply about these sorts of things when I worked at Novell (who bought UNIX from AT&T years ago, before acquiring SuSE Linux), back when I was on the Inventions Committee. We cared a lot about identity management, and that meant caring a lot about cryptography and related matters.
+
+So (to go back to the beginning) what was the Great Idea I woke up with? Basically, I thought of one more source of non-deterministic entropy that could be folded into the entropy pool on UNIX machines. It occurred to me that Java's gc() method, the famous "do a garbage collection" method that isn't guaranteed to run (how hilarious is that?), should return a value immediately. It should return the time, in milliseconds, since the last garbage collection. Garbage collection events are non-deterministic (a known source of mayhem in the Java and .NET worlds). Why not harness that, for entropy purposes?
+
+The problem is, GC events don't happen very often. (But neither do interrupts.) So to make this idea practical, you'd probably want to be able to collect gc() return values across a network of machines, to moot the availability problem. You would need to filter the collected responses appropriately to extract the net entropy from the responses (in case there's a man in the middle trying to overwhelm you with non-entropy), but entropy whitening is a well-known art, blah blah blah. Ideally, you want the collecting machine to have its own (secret) dispositioning algorithms for accumulating entropy from certain nodes, dropping input from others, etc., based on node reputations, as covered in a patent I did several years ago with Stephen R Carter.
+
+If none of this "entropy" stuff makes sense to you (I don't blame you), it might help if you took a look at my post, Information Theory in Three Minutes (which got 57,929 views!), which introduces the concept of Shannon entropy.
+
+It might also help if I switched to decaf. But that's another matter.
+Bernie Thoughts
+@berniethoughts
+IMAGINE AN INSIDE OUT BANANA—TERRIBLE
+2:49 AM - Jan 15, 2016
+1,431
+786 people are talking about this
+Twitter Ads info and privacy
+Come on. That's funny.
+❉
+
+Buy my books (or I'll shoot this dog):
+
+Have you added your name to our mailing list?

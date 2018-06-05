@@ -1,0 +1,55 @@
+Let's begin with the Harvard Mental Health Letter (April 2010 page 4). HMHL just loves to rain on my "diet and mental health" parade:
+
+"Researchers have long disagreed about whether gastrointestinal problems may underlie some symptoms of autism spectrum disorders. This has not stopped some researchers and celebrities from promoting theories and special "autism diets" with no scientific support. Yet these unfounded recommendations might appeal to grieving and vulnerable parents who are heartbroken about a child's sudden developmental regression."
+
+Wow. That's harsh. I hope to use the next several posts to explore some of the theories behind what might be causing austim and to see just how wacky and dangerous these diets really are.
+
+Autism spectrum disorders (autistic disorder, Asperger's disorder, Rett's disorder, childhood disintegrative disorder, and pervasive developmental disorder not otherwise specified, together known as "ASDs") seem to impair a child's ability to communicate and interact with other people. ASDs are also characterized by ritualistic or repetitive behaviors, such as tapping fingers or head banging, or picking. Autistic children in general are more picky than children without ASDs, and temper tantrums around unsatisfactory meal times can be extreme. (A decent point is that restricting a picky child's menu by going gluten and casein free could be a nutritional issue.) Constipation is also more common among kids with autism, and it seems that kids with ASDs frequently experience abdominal pain, stool leakage, bloating, and reflux (1).
+
+The Harvard Mental Health Letter is blunt, at this point: "There is not enough evidence to support special "autism diets" that eliminate casein... or gluten." Previous studies were not properly done, or too small, or didn't even use standard measures to diagnose autism in the first place. There is only one double-blind, crossover trial of casein and gluten free vs. regular diets (not sure how you really double-blind that but okay), of 15 children with ASDs, and after 12 weeks the diet seemed to have no effect (2). Some of the parents felt the intervention trial was more successful than the independent reviewers.
+
+All right, all right, we get the picture, Harvard Mental Health Letter. But let's step back a bit. What is autism, and what causes it? Well, there is no universal theory, no consistent genetic findings (though autism does seem to run in families sometimes), and no agreed upon biological mechanism for what causes autism (3). Some researchers feel it is a brain development problem. Others wonder if autism is a set of disorders similar to phenylketonuria (where an inability to metabolize a certain amino acid can lead to progressive mental retardation, brain damage, and seizures, but can be averted by not eating that amino acid, phenylalanine).
+
+The whole idea that gluten-free casein-free diets might be useful for autism is based on theories that exorphins (protein fragments that act as opiates) from gluten and casein might make it through the intestinal barrier and go on to act on the brain, causing harm. A similar theory is at work in gluten-free diets and schizophrenia. One very interesting tidbit of information: kids with autism and their family members seem to have leakier guts than families without autism (4). (Here's a finding which makes the Harvard Mental Health Letter's statement that researchers are promoting "autism diets" with no scientific support, seem, well, cranky. To be fair, the largest and best gluten-free casein-free diet trial was published in April of 2010 too, and the leaky gut study I'm looking at is epublished ahead of print, meaning it doesn't seem to even be officially published yet.)
+
+Wait a minute. Back up. How does one measure a leaky gut? Well, to test the gut integrity, one can drink a solution of metabolically inert sugars, like lactulose and mannitol, and in a person with a leaky gut, those sugars will end up in the urine (this is called an IPT test). In addition, a leaky gut tends to be an inflamed gut, and one can skip intestinal biopsies and check fecal calprotectin (FC), a protein produced by intestinal granulocytes. Lots of FC in your poop apparently means you probably have an inflamed bowel. Of course celiac disease is associated with inflamed, leaky guts, so the researchers in the study took 90 kids with autism spectrum disorders and 146 of their first-degree relatives, and also 64 children and 146 adult controls. Everyone was given an IPT test, some were checked for FC, and all the kids with autism were screened for celiac (using anti-tTG antibodies, IgG anti-gliadin antibodies, and IgA anti-gliadin antibodies, anti-endomysium antibodies, and the genetic testing for HLA DQ2 and 8). Relatives and controls with abnormal IPT and FC tests were similarly screened for celiac.
+
+Sounds interesting! What are the results?
+
+
+Abnormal leaky gut - the IPT test (a higher percentage of lactulose and mannitol in the urine)
+Adult controls = 4.8%
+Child controls = 0%
+ASD patients = 36.7%
+Relatives = 21.2%
+(p<0.0001)
+
+Pathological fecal calprotectin (FC - measure of gut inflammation)
+ASD patients = 24.6%
+Relatives = 11.7%
+(Due to budget constraints, FC was only measured in controls who had an abnormal IPT test - none of them had FC values above the normal range)
+
+ASD patients and celiac testing
+Genetic predisposition for celiac (+HLA DQ2 and/or DQ8): 32% of kids with "leaky" IPT test
+Genetic predisposition for celiac (+HLA DQ2 and/or DQ8): 35.9% of kids with normal IPT test
+Gastrointestinal symptoms: 45.5% of kids with "leaky" IPT test
+Gastrointestinal symptoms: 47.4% of kids with normal IPT test.
+Positive AGA IgA: 1.6% +/- 2.5%
+Positive AGA IgG: 13.8% +/- 24.2%
+Positive tTG: 1.04% +/- 0.91%
+EMA: all negative
+
+
+Relatives and celiac testing
+Positive AGA IgA: 0.8% +/- 0.4%
+Positive AGA IgG:8.4% +/- 5.9%
+Positive tTG: 3.0% +/- 3.7%
+EMA: all negative
+
+Well! That's a mixed bag. The overall findings - there seems to be a subgroup of kids with autism and their close relatives who have leaky guts. The celiac findings are a little more all over the place. GI symptoms seemed to have no correlation with gut leakiness, meaning the standard recommendation to investigate for celiac or intestinal barrier problems only in autistic kids with GI symptoms seems to fly in the face of scientific findings.
+
+Perhaps more importantly, "gluten itself augments IPT" (in other words, makes gut leakiness worse in cellular models (5)(6)(7)). "We can hypothesize that subjects with ASD are gluten-sensitive.... and hence their intestinal barrier function [abnormalities] will ameliorate with with a gluten-free diet. The well-recognized intestinal mucosal effects of gliadin - the major component of gluten - would justify a treatment with gluten-free diet in ASD."
+
+There is a lot more to discuss. But for now, I'll leave the above information to simmer for a little while.
+
+The bottom line from this post:  The clinical trials evidence for gluten-free, casein free diets is poor, so far (though I'll go over what I consider to be the best study later this week).  BUT, there is newer evidence of a rather large subset of kids with ASDs who have an especially leaky gut, and the susceptibility to the leakiness seems to be genetic.  You are not going to find these kids by looking at patients with celiac markers or by looking at patients with GI symptoms.

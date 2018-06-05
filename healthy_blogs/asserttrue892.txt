@@ -1,0 +1,9 @@
+I downloaded Chrome today and immediately started using the JavaScript console. It's pretty nice, but if you're already accustomed to Firebug in Firefox, it's no substitute. Also, what good is Chrome if you can't use Greasemonkey scripts with it?
+
+The JS engine is presumably based on Spidermonkey (since the Chrome guys apparently used a lot of Mozilla code to slap this thing together). But they forgot to include E4X. And so help me, I haven't figured out how to enter a newline in the console without triggering an eval( ). In other words, I can only enter one line of code at a time, and then I have to execute it. As soon as I hit Enter, CR, Control-Enter, etc., the code on the current line executes. Oh well...
+
+As a browser, this thing is not terribly impressive, from what I can tell.
+
+In any case, Chrome itself strikes me as too fugly to deal with. I'm not sure which I'd rather do: spend a work-day using Chrome as my main browser, or jam prickly-pears into both my eyes at once.
+
+I think I'll stay with Firefox until Chrome gets out of beta. Which (if it's like Gmail) it never will.

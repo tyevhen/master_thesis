@@ -1,0 +1,2 @@
+There's a poignant table at Google Blogoscoped that gives a detailed breakdown of 87 Google "products" and services, with an explanation of how they work and what they cost.
+The interesting part is that only about 20 of the 87 have an associated revenue model. True, you only need one good one (one really profitable product). But still, why so much entropy?

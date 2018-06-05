@@ -1,0 +1,7 @@
+I keep running into situations in user interfaces for well-known products where the Cancel button is misused. A typical scenario involves a configuration dialog, one that perhaps has several tabs. Because there are so many configuration options, you might spend several minutes on this one dialog, checking checkboxes and entering string values. When you're done, you look for a Done button -- and find none. Is there a Finish button, perhaps? No. An "Accept These Settings" button? No. Just a Cancel button.
+
+Do you see what's wrong with this picture? Cancel does not mean Done. It does not mean "I'm finished now, so accept my changes and save my work and dismiss this dialog."
+
+Let's be clear, Cancel means (or should mean) one thing only: Let me back out of the current operation as if nothing had happened.
+
+UI designers, take note. Please. Don't make me use "Cancel" to get out of a dialog after I know I've just made important changes to the state of the program.

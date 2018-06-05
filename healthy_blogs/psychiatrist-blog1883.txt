@@ -1,0 +1,17 @@
+NeoNurseChic had asked us how we make our podcasts.  After writing it up, I thought it might help someone else if it got put up here.  It's not as hard as it sounds.
+RECORD.  I record it in GarageBand (Female radio voice... doesn't really matter... whatever sounds best with your mic).  (If you haven't got a Mac yet, what are you waiting for?).
+EDIT.  Edit out stuff you don't want... mostly athe beginning and end.
+MARKERS.  Add in markers if desired... must first click on the podcast track to enable this... add links or pics if desired.
+MUSIC.  Add opening and closing music, as well as musical bumpers to signal transitions... I put these in the Jingles track, but it doesn't really matter... fiddle with the volume of this track so that it sounds right, fading in and out smoothly.
+TAGS.  Edit your Episode Info items... the "Description" is what appears in iTunes to the right of your podcast... it is just one line, so I make the description pretty telegraphic.  You can put more detail in the <itunes:summary> tag in the XML file (this is what you see if you click on the little gray "i" button to the right of the description in iTunes). 
+SAVE.  When it's all done, click on Share in the menu, then the bottom choice (Export podcast to disk), which saves it as an .M4A file.
+XML.  Revise your XML file accordingly (that's a whole 'nother set of instructions, so I hope you have that one down).  There's a good guide at http://www.apple.com/itunes/store/podcaststechspecs.html.
+FIX XML.  Upload the XML file to your server and then validate your feed.  I use feedvalidator.org. Fix any problems... I always have problems... usually because I forget to use the codes for the 4 punctuation symbols that XML files do not allow in the tags (such as "&amp;" for "&", "&apos;" for an apostrophe, and "&quot;" for a quote).
+UPLOAD.  Use iTunes to convert the M4A file into an MP3 file, then upload both versions to your server.
+PING.  Finally, ping itunes with your new feed (it's like speaking another language, isn't it?).  The Apple link above tells you how to do this.  This tells iTunes to update its files with your new podcast.
+LATHER.
+RINSE.
+REPEAT.
+You're done!
+technorati tags:howto, podcast, garageband, mac, xml
+Blogged with Flock

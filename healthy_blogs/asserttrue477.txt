@@ -1,0 +1,58 @@
+As medical and epidemiological mysteries go, autism is surely among the most shocking and tragic. Autism has been on the rise for decades, but now it's reached unbelievable levels. In 1975, only one in 5000 children in the U.S. was affected by autism. Now it's one child in 88, making it more common than schizophrenia.
+
+I'm old enough to remember a day when autism was so uncommon that most people had barely heard of the word or knew what it meant. When I was growing up, I never saw an autistic child nor knew of anybody who had one. Today, autism is known to every pediatrician and every school system in the U.S., and sad to say, it's no longer unusual to know someone (or be someone) whose family has been touched by it.
+
+
+The sheer rate of increase in autism's prevalence rules out any kind of purely genetic explanation. The genes for autism existed before 1975. Why are they only being expressed at high rates now?
+
+Autism is better-defined and more diagnosable now than in 1975, but even increased efficiency of diagnosis can't explain the sheer magnitude of the rise in autism.
+
+So if genetics and diagnostic vigilance can't explain the rise, what are we left with? Environment, obviously.
+
+In the 1990s, a theory began to take hold that autism is a rare (but obviously not rare enough) side-effect of the DTP vaccine, which protects children against diphtheria, tetanus, and pertussis. The DTP vaccine was developed in 1981 and its introduction coincides with the beginning of the upswing in autism. Mothers of autistic children were, of course, the first to notice what was happening. Predictably, the medical establishment (along with their shills in the FDA, the US Public Health Service, the National Institutes of Health, CDC, and the Health Resources and Services Administration) dismissed the vaccine theory outright and warned the nation that to avoid vaccinating children against such dreaded widespread killer diseases as tetanus, diphtheria, and whooping cough would be a calamity of earth-shattering, history-ending proportions.
+
+But then along came the thiomersal controversy. Which is a "controversy" in the same sense that lung cancer due to smoking is a "controversy" and global warming is a "controversy."
+
+Thiomersal (outside the U.S. it's spelled thimerosal) is what we used to call, back in the day, Merthiolate (an Eli Lilly trade name). It was that awful orange-colored crap that stung like hell when you put it on your skinned knee after you fell off your red three-speed Schwinn trying to turn a sharp corner at 97 mph. Incredibly, the makers of DTP vaccines added this neurotoxic mercury-containing poison to their products for the purpose of giving vaccines longer shelf life.
+
+In 2007, the USPHS and AAP determined that thiomersal should be removed from vaccines as a "purely precautionary measure," despite a joint announcement by these same agencies (plus FDA) that there was and is no connection whatsoever between thiomersal, as used in vaccines, and autism.
+The label clearly says FOR EXTERNAL USE ONLY. Why then
+do we allow its use in influenza and DTP vaccines?
+
+With great whining and complaining, vaccine manufacturers began taking their products off the market and/or removing the mercury from their DTP formulations. Today there is one remaining DTP product containing thiomersal. Its name is Tripedia and it's made by Sanofi Pasteur, Inc. Sanofi reportedly stopped making the thiomersal-laced version of the vaccine as of 2011, but it didn't pull any from shelves, so it's conceivable that there is still some inventory out there. Regardless, the current DTaP version of Tripedia "may contain trace amounts (<0.3 mcg) of mercury left after postproduction thimerosal removal." (See footnote to this table.)
+
+If you go to http://www.fda.gov/downloads/biologicsbloodvaccines/vaccines/approvedproducts/ucm101580.pdf and look at the complete drug description sheet on the Tripedia vaccine, you'll find, buried in the small print, this statement:
+Adverse events reported during post-approval use of Tripedia vaccine include idiopathic thrombocytopenic purpura, SIDS, anaphylactic reaction, cellulitis, autism, convulsion/grand mal convulsion, encephalopathy, hypotonia, neuropathy, somnolence and apnea.
+Sanofi has (to my knowledge) never published its raw data, so there is no way to know how many children in its study populations developed autism.
+
+It hardly matters, because eventually the truth came out. Reports showing a link between thiomersal and autism began appearing in journals like Experimental Biology and Medicine (see this study) and Developmental Neurorehabilitation (this study). In Geier and Geier's report in Exp Biol Med (June 2003) Vol. 228 No. 6, 660-664, we find a remarkable statement:
+We were initially highly skeptical that differences in the concentrations of thimerosal in vaccines would have any effect on the incidence rate of neurodevelopmental disorders after childhood immunization. This study presents the first epidemiologic evidence, based upon tens of millions of doses of vaccine administered in the United States, that associates increasing thimerosal from vaccines with neurodevelopmental disorders.
+It's worse than that, though. This top secret internal CDC document tells the results of CDC's own unpublished study on the link between thiomersal and neurological disorders in children. (N = 76509. A very large population of "study subjects.") Remarkably, it contains a graph of the dose-response curve for thiomersal and autism. That's right. The association between thiomersal and autism is not only real, it has a straightforward correlation to dosage.
+
+As a government agency charged with protecting public safety, you'd think the Centers for Disease Control would've immediately blown the whistle on the vaccine-makers, or at least called for a halt to thiomersal's use pending further investigation. It did no such thing. CDC kept a lid on its internal study and instead published work showing "no consistent significant associations" between thiomersal and "neurodevelopmental outcomes." (As it happens, the lead author on CDC's published study, Thomas Verstraeten, was also the author of the covered-up internal study. After the "public" study was published, Verstraeten left CDC to work for GlaxoSmithKline, which makes DTaP vaccines Pediarix, Infanrix, and Kenrix, plus the influenza vaccine FluLaval, which is known to contain thiomersal. Details of this unseemly story can be found here. Interested readers will also want to look into details of the 2000 Simpsonwood CDC conference.)
+
+Meanwhile, some of the earlier research showing no connection between thiomersal and autism has (not surprisingly) been called into question. By the same token, anti-thiomersal research by the Geiers (who as professional "expert witnesses" have a huge financial stake in this matter) has also been called into question. But the Geiers (and CDC) are not the only ones to have found a link between thiomersal and autism. See this 2009 study as well as this article on CDC's data manipulation efforts. Also read this 2011 article and draw your own conclusions about the objectivity of scientific researchers in this area.
+
+I should add that by CDC's own admission, vaccines of all kinds are, to this day, allowed to contain (and many do contain) egg proteins, aluminum salts, thiomersal (present in many flu vaccines, interestingly), formaldehyde, and MSG. If you were wondering why people get headaches 5% to 40% of the time (depending on the vaccine) after being vaccinated for something, now you know.
+
+Thiomersal (aka thimerosal)
+Is this the end of the story? Not really. The rise in autism has been so sharp, for so long, that thiomersal alone probably can't explain the statistics. But we know that infants, because their brains are fast-growing and because their blood-brain-barrier is poorly developed, are far more sensitive to neurotoxins (like lead and mercury) than older children. The notion that any amount of mercury should be allowed in children's vaccines is outrageous.
+
+Speaking for myself, I would never knowingly give a child of mine a vaccine containing mercury, even if there were no links to autism. (The fact that there are still doctors out there arguing in favor of putting mercury in vaccines is astonishing. See also "Thimerosal to Return to Vaccines?", published 15 Feb 2013.)
+
+We should be asking: Are diphtheria, tetanus, and pertussis such serious health hazards that we need to be giving 6-week-old babies DTaP shots? (Six weeks is the accepted starting point for giving the first of several DTaP shots. Some doctors recommend infants get four doses in their first year. According to CDC: "The fourth dose may be administered as early as age 12 months, provided at least 6 months have elapsed since the third dose.")  
+
+What can you do if you suspect your child suffered an adverse effect (autism or something else) following vaccination? You can file a claim with the Vaccine Injury Compensation Program. This program exists for the specific purpose of providing compensation to children who've suffered serious adverse effects from any childhood vaccine. The compensation covers medical and related expenses, lost future income, and up to $250,000 for pain and suffering. The average payout is $850,000, and don't worry, Republicans, it's fully funded by vaccination customers themselves, who pay an extra 75 cents per vaccine for this protection. Not that any amount of "compensation" will give a brain-damaged child, or the child's parents, their lives back.
+
+So now we know. Autism might never be totally preventable. And thiomersal probably can't account for 100% of the 50-fold increase in autism over the past 40 years. (Some of it can be accounted for by psychiatric medications. See tomorrow's post.) But a good start in preventing autism is to protect your child from heavy metals, especially mercury (and especially before the age of four). And: do your own research on subjects like this. The medical industry has shown that it can't be trusted.
+
+
+Further Reading
+
+Autism and Vaccines around the World: Vaccine Schedules, Autism Rates, and Under 5 Mortality, Generation Rescue, Inc. (2009)
+
+Aluminum in Vaccines: What You Should Know, The Children's Hospital of Philadelphia (2012). Note: Amazingly, this report says it's perfectly okay to have 4 mg of aluminum injected into your infant in the first six months of life.
+
+Thimerosal Content in Some US Licensed Vaccines (Updated 2 May 2012).
+
+Note: If you found this blog useful, please publicize it via your favorite social (or other) medium. Permission is given in advance for you to quote any part of this post at length. Thank you!

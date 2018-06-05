@@ -1,0 +1,66 @@
+I blogged last summer about Using Mozilla Jetpack to save tab ensembles, giving a bit of POC-quality code, but now Davide Ficano has done a proper job of things and written a Jetpack script that lets you name and persist open-tab states, using a very natural set of UI gestures.
+
+TabGroup Organizer allows you to save all open tabs as a group and then reopen all with a click. After installation, a new multifolder icon (that gives rise to a context menu when right-clicked) is present on the statusbar in the lower-right corner of the browser window:
+
+
+
+Using this Jetpack script, I can finally save tab ensembles and come back to them later -- a real productivity win, for me. Thank you, Davide!
+
+And since the code is open-source, I'm going to reproduce it here (scroll sideways to see the parts that don't wrap):
+
+jetpack.future.import("menu");
+jetpack.future.import("storage.simple");
+
+var tabGroupStorage = jetpack.storage.simple;
+
+jetpack.statusBar.append({
+      html: "<img src='data:binary;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADdgAAA3YBfdWCzAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGiSURBVDiNrZUxayJBGIafb9zWU6ukEQ7ObuEIpEqTMiDslf6L%2Bxd3%2F%2BT%2BQlKkszqEg8AWiiI2SghiI6dyiDP7pQi72birNwm%2BMDDMzPt%2BL%2FO9Oyuqig9E5AwIASnZVmCkqo%2BvK6r%2FHcB5r9eb7na7xFqbWGt1byRxHD8Bn1OO%2BDgWkRtr7f1sNjt4ptlsEgRBpKp3AIHXPUBgjAGgXq8XNpfLJSICYDKCiNRbrVYEaPICBXDOqXMuUVWt1WpfPA28OgEuR6PRr9TRRyAiqeM3wgBMp9ODpBSVSoXFYsFwOCTfm81mw3g8BvgqIg%2Bq%2BhjkSdVq9aiz%2BXzOarWi3W4XHAJYa3%2F2%2B%2F3vInKVCRtjSg%2FnMRgMiKKIY%2BkIw%2FAcCN8lbK3FNx2Z8Hq9ptvtvmnE%2FnwymRwtnEcmHMcxnU6HU6UjyC%2BCfzrKri1vKtiv5JOOQygIA5mYTxN9hf8YY74BF865HycTVtW%2FwK2I%2FDuF40LzUpR9977I80qFfcn7KG1eSjLGsN1u%2FW0eKFpw3Gg0PiRaKJI%2BfyLyCbim%2FGf5Xvx%2BBkJNxrS0dvEEAAAAAElFTkSuQmCC' width='20px'>",
+      onReady: function(doc) {
+              jetpack.menu.context.set([
+              {label: "Save Tabs...",
+                      command: function() {
+                              var win = jetpack.tabs.focused.contentWindow;
+                              var name = win.prompt("Enter the name for tabs group");
+                              if (name) {
+                                      var arr = [];
+                                      jetpack.tabs.forEach(function(tab) {
+                                              arr.push(tab.url);
+                                      });
+                                      tabGroupStorage[name] = arr;
+                                      jetpack.storage.simple.sync();
+                              }
+                      }},
+              {label : "Restore tabs",
+                      menu: new jetpack.Menu({
+                              beforeShow : function(menuitem, context) {
+                                      menuitem.set([]);
+                                      for (var i in tabGroupStorage) {
+                                              menuitem.add({label : i + " (" + tabGroupStorage[i].length + ")", data : i});
+                                      }
+                              }}),
+                      command : function(menuitem) {
+                              tabGroupStorage[menuitem.data].forEach(function(url) {
+                                      jetpack.tabs.open(url);
+                              });
+                              jetpack.storage.live.lastUsedGroup = menuitem.data;
+                      }},
+              {label: "Delete Group...",
+                      command: function() {
+                              var win = jetpack.tabs.focused.contentWindow;
+                              if (typeof (jetpack.storage.live.lastUsedGroup) != "undefined") {
+                                      if (win.confirm("Delete the current group '" + jetpack.storage.live.lastUsedGroup + "'?'")) {
+                                              delete tabGroupStorage[jetpack.storage.live.lastUsedGroup];
+                                              delete jetpack.storage.live.lastUsedGroup;
+                                      }
+                              } else {
+                                      win.alert("You must select a group from menu before delete it");
+                              }
+                      }},
+              ]);
+      }
+});
+The data URL -- the big long line near the top that contains
+data:binary;base64,iVBORw0K ...
+-- is of course the raw bytestream for the multifolder icon. The rest of the code is more or less self-explanatory. It uses the jetpack.storage.simple mechanism for persistence.
+
+Nice going, Davide Ficano. Ten thumbs up!

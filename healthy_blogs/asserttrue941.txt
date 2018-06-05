@@ -1,0 +1,19 @@
+Several weeks ago, I was reading the doc for Rhino 1.6.2 and came across a mention of support for a new Continuation object. I didn't think much of it. After letting it drop, I returned to it later, looking for examples on the Web of real-world uses of Rhino Continuations. I quickly found a poster child in Apache Cocoon. And another one in Jetty 6.
+
+Then I realized the Web was RIFE with examples of people trying to bring continuations support to various web frameworks. In fact, continuation servers are sprouting all over the place, with funny names like Seaside, Wee, Lakeshore, Continuity, Borges. Written in a variety of languages.
+
+
+Continuation Servers
+Server Language  
+Borges Ruby
+Continuity Perl
+Lakeshore Java
+Seaside smalltalk  
+Wee Ruby
+
+
+So why the fuss over continuations? The short answer is that it offers an elegant way to keep track of session state in a multi-user client-server app. You end up writing code that looks compact, linear, and obvious, rather than the typical MVC pasta-pile.
+
+But the benefits go far beyond elegant state management. There are payoffs in scalability and efficient use of resources as well.
+
+If you want to grok the basic paradigm shift (and you have time to read only one article), invest a few minutes reading this brilliant minitorial. You just might have a Mega-Aha Moment.

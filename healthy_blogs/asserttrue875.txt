@@ -1,0 +1,47 @@
+I don't know why it took me so long to realize that there's an easy, fast way to obtain the average of two RGB pixel values. (An RGB pixel is commonly represented as a 32-bit integer. Let's assume the top 4 bits aren't used.)
+
+To ensure proper averaging of red, green, and blue components of two pixels requires parsing those 8-bit values out of each pixel and adding them together, then dividing by two, and crafting a new pixel out of the new red, green, and blue values. Or at least that's the naive way of doing things. In code (I'll show it in JavaScript, but it looks much the same in C or Java):
+
+
+   // The horribly inefficient naive way:
+
+   function average( a,b ) {
+
+      var REDMASK = 0x00ff0000;
+      var GREENMASK = 0x0000ff00;
+      var BLUEMASK = 0x000000ff;
+      var aRed = a & REDMASK;
+      var aGreen = a & GREENMASK;
+      var aBlue = a & BLUEMASK;
+      var bRed = b & REDMASK;
+      var bGreen = b & GREENMASK;
+      var bBlue = b & BLUEMASK;
+
+      var aveRed = (aRed + bRed) >> 1;
+      var aveGreen = (aGreen + bGreen) >> 1;
+      var aveBlue = (aBlue + bBlue) >> 1;
+   
+      return aveRed | aveGreen | aveBlue;
+   }
+
+That's a lot of code to average two 32-bit values, but remember that red, green, and blue values (8 bits each) have to live in their own swim lanes. You can't allow overflow.
+
+Here's the much cleaner, less obvious, hugely faster way:
+
+
+   // the fast way:
+
+   MASK7BITS = 0x00fefeff; 
+
+   function ave( a,b ) {
+      
+      a &= MASK7BITS;
+      b &= MASK7BITS;  
+      return (a+b)>>1;
+   }
+
+The key intuition here is that you want to clear the bottom bit of the red and green channels in order to make room for overflow from the green and blue "adds."
+
+Of course, in the real world, you would inline this code rather than use it as a function. (In a loop that's processing 800 x 600 pixels you surely don't want to call a function hundreds of thousands of times.)
+
+Similar mask-based techniques can be used for adding and subtracting pixel values. Overflow is handled differently, though (left as an exercise for the reader).

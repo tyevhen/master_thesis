@@ -1,0 +1,149 @@
+Corticosterone, a stress hormone
+(source)
+Why have we evolved to 'feel' stress? What are the implications of stress on the behavior of the animal?   Those are all relatively easy questions that we can probably give a cursory answer to at this time.  In every-day thinking, we evolved to have the ability to 'feel' stress to serve as a motivator, which plays out behaviorally in order to accomplish goals.  It is a motivator to write the next paper, reach the project's deadline, or, from a more evolutionary perspective, such things as go out and find food, find a mate, or build a shelter to stay safe.  These are the cursory answers.
+
+
+But, if one takes a closer look from a psychological and/or neuroscientific viewpoint, and truly investigates these questions, the answer is complex and remains, for the most part, unanswered.  Right now, if you're coming from a science background, stop reading and just take a second to think about (A) how percepts from the world (the sensory information) inform our mind to let us know this sensorial information is a stressor, (B) the regions of the brain involved in this activation once it is or before it is 'realized', (C) our physiological and behavioral reactions to stress, and (D) how our mind and thoughts inform our future analysis of the percepts.  Just some interesting questions to think about.
+
+
+
+Here, I will give brief descriptions of stress at the molecular and cellular level, and I will also describe two popular behavioral tasks used in rodent research to try and quantify/observe the responses after experiencing a stressful event.
+
+
+
+after the jump, HPA axis, receptors, behavioral responses involved in the stress response...
+
+
+
+
+Stress: Molecular & Cellular Level
+
+
+
+Stress = interruption of normal homeostatic conditions
+
+
+
+Quick Refresher: Stress Hormone Overview at the Molecular Scale
+
+ Zooming all the way down to the molecular level, let's take a look at the hormones involved in stress.
+
+When a stressor is detected, the VPN of hypothalamus releases
+CRH, which prompts the anterior pituitary
+to release ACTH.  This release stimulates the adrenal medulla
+to release glucocorticoids, which have a wide-spread
+affect on the body and signals to the brain, through GR
+and MR receptors, to inhibit further CRH release
+(source)
+In general, when one perceives a stressful situation, the (limbic)-hypothalamic-pituitary-adrenal (HPA) axis is activated.  The HPA axis is a set of neuroendocrine responses to a stressful situation.   The paraventricular nucleus of the hypothalamus secretes corticotropin-releasing hormone (CRH) and vasopressin, which are both part of the neuroendocrine system, classified as neurotransmitters and hormones (...animal physiology class is all coming back...).  Vasopressin is an anti-diuretic, polypeptide hormone responsible for the body's conservation of water and plays a key role in the regulation of homeostasis.  CRH is also a polypeptide hormone and is responsible for stimulating further stress hormones. CRH is carried to the anterior lobe of the pituitary gland and vasopressin to the to the posterior lobe of the pituitary.  CRH stimulates the synthesis and release of adrenocorticotropic hormone (ACTH), which is then released into the bloodstream and stimulates the adrenal glands.  The adrenals are two endocrine glands that sit on top of the kidneys.  They are composed of the adrenal cortex (outer portion of the glands) and the adrenal medulla (inside portion of the gland).  This is where the fun stuff comes in...  Once these glands are 'activated,' synthesis and release of the main stress hormone begins.  Stress hormones have wide-spread effects throughout the body.  Specific receptors are located in a variety of locations, including many regions of the brain (there are a variety of stress hormones and receptors that are present all throughout the body, and these hormones are termed 'pleiotropic,' meaning they have varying effects depending on the organ they affect; for more detailed reading and links to the hormones and other things, see here)
+
+
+
+These stress hormones need to bind somewhere and shut off further release or else we would be in a perpetual state of dysregulation and homeostasis would fail to exist at all.  Two of the most common stress hormones are glucocorticoids and mineralocorticoids.  Mineralocorticoids are responsible for the retention of salt and water in order to maintain internal homeostasis.  Glucocorticoids are responsible for maintaining the synthesis of glucose, which is an important player in how our organs maintain their energy and is also included in normal homeostasis.  From this, you can see that release of stress hormones in general is to restore homeostasis, or the resting physiological conditions of the body (such as temperature, pH, water balance, etc.).   Stress can be fundamentally characterized as the disruption of homeostasis and these stress hormones are released in order to combat this dysregulation.  This is the definition of stress on the cellular, physiological level.
+
+
+Highest density of GRs and MRs are in: lateral septum, hippocampus,
+hypothalamus, brain stem (source)
+One region that is critical for the negative feedback of the stress response is the hippocampus (what a magical brain region), among other neuroanatomical loci, including the septum, hypothalamus, and brain stem, which have the highest densities, as seen on the figure on the left, of these receptors.  Glucocorticoids and mineralocorticoids bind to their receptors (GRs and MRs).  These receptors tell the brain to shutdown further release of CRH and vasopressin.  The most important hormone of glucocorticoids is cortisol in humans or corticosterone in rodents (referred to further as 'cort'). At rest, MRs are saturated with cort because of their high affinity for this hormone, while GRs are only approximately 20% saturated.  As the animal becomes stress, however, GRs become more and more occupied by cort, as MRs are already saturated (for a review, see Joels, 2007).  Within the hippocampus, the dentate gyrus and the CA1/subiculum have the highest density of MRs (104 and 144 fmol/mg protein, respectively), and the dentate gyrus contains by and large the highest density of GRs (133 fmol/mg protein) in the hippocampus proper. the highest density of GRs in the brain and outside of the hippocampus is in the lateral septum (195 fmol/mg protein).  A substantial amount of GRs are also located in the paraventricular nucleus (PVN) of the hypothalamus, the locus coeruleus of the brainstem, and the amygdala (not shown in figure above) (Reul & de Kloet, 1985). 
+
+
+
+Zooming out a bit more (but staying in the realm of cells): how cort acts upon different regions of the brain.  Maggio and Segal (2007) found a "striking" difference in the response to cort directly applied to different regions of the hippocampus.  Behaviorally, there appears a double dissociation between the dorsal and ventral hippocampus.  The dorsal hippocampus mediates spatial navigation and memory, while the ventral hippocampus is more involved with emotional regulation, such as anxiety-like behaviors (see below) (Bannerman et al., 1999, 2002).  Cellularly, too, the hippocampus responds differently along the septo-temporal/dorso-ventral axis.  It was found that, in the ventral pole of the hippocampus, it was harder to express LTP as compared to the dorsal pole.  However, and this is where the fun stuff begins, exposure to an acute stressor (acute swim stress) before the rats were sacrificed, reversed this apparent lower expression of LTP; now, the ventral hippocampus expressed robust LTP while the rest of the hippocampus (e.g. dorsal half) was suppressed! Indeed, corticosterone directly applied to the slices showed the same results as when the animal experienced behavioral stress (swim stress) ...a link to the behavioral dissociation....?  Through the use MR and GR agonists and antagonists (see above section for details), LTP in the ventral half was mediated by MRs, while the inhibited LTP by GRs.
+
+
+
+
+Side note: the lateral septum has 'pacemaker cells' that set the tempo for theta activity recorded in the hippocampus...  I wonder, how does stress and theta rhymicity generation relate/is influenced...  anyone know anything on this topic?
+
+
+
+
+Stress: Behavioral
+
+
+
+Stress = if observed behaviors are characteristic of experiencing anxiety or depressive episodes, we assume the animal is enduring (or has endured) stress
+
+
+
+So, how do these receptors and wacky homeostatic milieu translate into stress at the behavioral level?  It's all in the location of these receptors.  In the figure above, notice how the highest proportions are in the areas intimately related to the stress/depression/anxiety/fear areas.  This is not a coincidence - function often follows structure (or vice verse, however you want to view it)!  Stress and fear (which one comes first?) are common components to anxiety and depression.  Though, not all stress leads to acute or chronic anxiety and/or depression (read a great post on acute and chronic stress on anxiety-/depressive-like behaviors at the Functional Neurogenesis blog).  I will highlight some basic characteristic behaviors of anxiety (if you want a more clinical application of anxiety, see my previous post on anxiety disorders).  In rodents, anxiogenic behaviors are often manifested in situations that exaggerate fear, such as in approach-avoidance tasks.  In rodents, some of these task that are ethologically sensitive to anxiety-like behaviors include the elevated plus maze, novelty suppressed feeding task, open field exploration arena, shock probe defense burying task, among many others.  Here, I will focus on rodent tasks; however, many of these same general principles can be extended to humans (though, they can manifest themselves in different ways and to a wide varying degree). 
+
+
+
+
+
+
+Elevated Plus Maze
+ (source)
+In the elevated plus maze (left), which is raised off the ground to promote anxiety,  the rodent is placed at the cross-roads of the arms.  Two arms are enclosed and two are open.  Normal rats (if all goes perfect) will stay in the enclosed arms most of the time, with only occasional wandering to the open arms.  The rat really doesn't want to expose itself to potential predators in the wide open and also prefers the enclosed arms as not to fall!  However, there is a conflict that arises, as the rodent has a natural propensity to explore novel areas.  So, there is a drive to the open arms, especially if one puts food out there!  Time in the open arms, closed arms, cross-road, entering/exiting arms are measured.  If one is to administer anxiolytic drugs, such as benzodiazipines or SSRIs, or give hippocampal lesions (bing bing bing of what cellular mechanisms are destroyed!), the rat will then spend far greater amounts of time in the open arms and show less anxiety-like behaviors.
+
+
+
+
+
+Open Field Exploration / Novelty Suppressed
+Feeding task (source)
+In the novelty suppressed feeding (NSF) task, an arena (right) is in a well-lit room.  A food reward is placed in the center.  The rodent is started at the edge of the arena and the amount of time to approach and consume (take a bite of) the food is recorded.  This, too, produces an approach-avoidance behavior, such that the rodent wants the food and to explore the novel space; however, it also wants to avoid venturing out into the open and offering itself to potential predators.  Anxiolytics or hippocampal lesions will decrease the latency to consume the reward, as the animal is less inhibited to avoid and the "weight" is given to the approach behavior; the hippocampus is believed to play a significant role in the behavioral inhibition system (see previous posts here and here) (Gray & McNaughton, 2000).  In addition, reports from Santarelli (2003) have shown that blockade of adult neurogenesis impairs the benefits bequethed by SSRIs on this NSF task, though this may be a strain-specific effect (see Holick, Lee, Hen, & Dulawa, 2008); hippocampal lesions (Best & Orr. 1973) and anxiolytic drugs (Bodnoff, et al., 1988), for quite some time, have been known to normally decrease the latency to approach and consume novel food.  An additional note on adult neurogenesis, Snyder et al. (2011) showed that, in mice lacking adult neurogenesis, after enduring acute restraint stress, latencies on NSF task were longer as compared to wild-type mice that did and did not experience restraint stress AND compared to other mice lacking adult neurogenesis but did not experience the stress.  This leads to the possibility that adult neurogenesis 'buffers' the stress response.
+
+
+
+
+
+Stress: Cognitive
+
+
+
+....rats/mice stress on a cognitive level?  Who knows! see my latest blog post for details
+
+
+
+
+If you would like a cognitive snapshot of anxiety, which is often the outcome of chronic stressors (? at least they are probably correlated), see my other blog post here.  One particular note, though...  I think we all agree that stress, along with several other genetic and non-genetic factors, leads to anxiety and depression.  What is debated is whether anxiety and depression are separate disorders or both lie on the same spectrum.  I think that anxiety and depression are along the same spectrum and that one defining feature between the two is (cognitive and physiological) arousal levels and ambiguity about threat.
+
+
+
+If you do encounter stress (which you will), think of all the connections between the areas listed above.  Such a complicated process occurs seamlessly and in an instant.  Wonderful stuff.
+
+
+
+
+
+
+
+References:
+
+
+Bannerman, D. M., et al. (1999).  Double dissociation within the hippocampus: a comparison of dorsal, ventral, and complete hippocampal cytotoxic lesions.  Behav Neurosci, 113(6), 1170-1188. (here)
+
+
+
+Bannerman, D. M., et al. (2002).  Double dissociation of function within the hippocampus: spatial memory and hyponeophagia.  Behav Neurosci, 116(5), 884-901. (here)
+
+
+Bodnoff, S. R., Suranyi-Cadotte, B., Aitken, D. H., Quirion, R., & Meaney, M. J. (1988).  The effects of chronic antidepressant treatment in an animal model of anxiety.  Psychopharmacology, 95, 298-302.
+
+Best, P. J. & Orr, J. Jr. (1973).  Effects of hippocampal lesions on passive avoidance and taste aversion conditioning.  Physiology and Behavior, 10, 193-196.
+
+Gray, J. A. & McNaughton, N. (2000) (2nd ed.). The neuropsychology of anxiety: an enquiry into the functions of the septo-hippocampal system.  Oxford Psychology Series.  Oxford University Press, USA. 
+
+
+Holick, K. A., Lee, D. C., Hen, R. & Dulawa, S. C. (2008).  Behavioral effects of chronic fluoxetine in BALB/cJ mice do not require adult hippocampal neurogenesis or the serotonin 1A receptor.  Neuropsychopharmacology, 33, 406-417. (here)
+
+Joels, M. (2007).  Role of corticosteroid hormones in the dentate gyrus. Progress in Brain Research, 163, 355-370. (here)
+
+
+Maggio, N. & Segal, M. (2007).  Striking variations in corticosteroid modulation of long-term potentiation along the septotemporal axis of the hippocampus.  J Neurosci, 27(21), 5757-5765. (here)
+
+
+McNaughton, N. & Corr, P. J. (2004).  A two-dimensional neuropsychology of defense: fear/anxiety and defensive distance. Neurosci Biobehav Rev, 28(3), 285-305. (here)
+
+
+Reul, J. M. & de Kloet, E. R. (1985).  Two receptor systems for corticosterone in rat brain: microdistribution and differential occupation.  Endocrinology, 117, 2505-2511. (here)
+
+
+
+Santarelli, L., et al. (2003).  Requirement of hippocampal neurogenesis for the behavioral effects of antidepressants.  Science, 8, 805-809. (here)
+
+
+
+Snyder, J. S., et al. (2011).  Adult hippocampal neurogenesis buffers stress responses and depressive behaviour.  Nature, 476, 458-461. (here)

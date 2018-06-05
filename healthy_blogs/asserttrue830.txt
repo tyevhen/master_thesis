@@ -1,0 +1,13 @@
+This is an incredibly sad day for me.
+
+Dr. Dobbs Journal, one of the great programming resources of the late DOS/early Windows era, has finally died, a victim (ironically) of the Internet's triumph over pulp-and-ink.
+
+The venerable programmer's magazine hasn't exactly gone away entirely: It will (somewhat sadly) continue as "Dr. Dobbs Report — A Special Software Development Monthly Section in InformationWeek Magazine."
+
+But that, too, has the smell of death about it.
+
+To say that I owe a lot to DDJ is an understatement. DDJ was a critical part of my programming education. Allen Holub's early DDJ articles on the newfangled C language taught me a huge amount about programming and profoundly influenced my development as a coder. (Eventually, in 1991, I even wrote an article myself for DDJ.)
+
+It's a sad thing, this disappearance of the printed word, this seemingly unstoppable deprecation of protons and neutrons. Magazines, newspapers, books, music CDs -- all on the endangered species list. Is all of human culture destined to be disseminated by coax cable and microwave radiation?
+
+If you'll excuse me, I have to be alone right now.

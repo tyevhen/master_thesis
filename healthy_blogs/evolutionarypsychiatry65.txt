@@ -1,0 +1,31 @@
+New study seen on twitter (as I see most cool stuff, partly because I can't really bear facebook and am pretty bad about checking out the usual blogs these days).
+
+The Strokes. Last Night.
+
+The Study (free full text): Older Women, Depression, Omega 3 Ratios, Inflammation, and Supplementation
+
+Bam. I'm getting all Emeril about it because finally we are getting some thoughtful and complete studies. We're talking measuring the plasma membrane ratios of omega 3 to omega 6, supplementing, measuring again, and measuring inflammatory markers as well as response to supplementation. These studies are not phoned in by the statisticians after they whip up another algorithm on the supercomputer over at HSPH.*
+
+Here we have a small randomized placebo-controlled trial of 22 elderly (66-95 y/o) depressed females given omega 3 supplementation (2.5 grams daily of an EPA/DHA 2:1 mix for 8 weeks) and 24 given a placebo (parrafin oil, lemon flavored, just like the other--known for being insoluble in water, poorly absorbed, and flammable). Not only were pre and post depression scales measured, but so were plasma membrane omega 6/3 ratios (measured as AA/EPA in HUMAN SUBJECTS, Chris Barrera), and lots of inflammatory markers (notably CD2, CD3, CD4, CD8, CD16, CD19 and the cytokines IL-5 and IL-15. What, no IL-6 and TNFa?  Little evolutionary psychiatry joke**).  (But it is important to remember that depression is associated with T cell dysfunction, particularly the regulatory T cells that but the kibosh on inflammation).
+
+The paper proper begins with a rather awkward but correct statement: "An unbalance in polyunsaturated fatty acid (PUFA) status is observed in various pathological conditions, especially in chronic and/or degenerative diseases associated with antioxidant system deficiency."
+
+Low DHA in the central nervous system has been associated with all sorts of badness, such as depression, anxiety, ADHD, and dementia. The elderly seem to be particularly at risk, because their ability to change other forms of omega 3 to the long chain forms needed in the CNS is decreased compared to younger folks. (Less delta6 desaturase activity.)
+
+Results!
+
+Rachmaninov (Vocalise for Violin).
+
+After 8 weeks, only the intervention group with the omega 3 had a significant decrease in the Geriatric Depression Scale scores. AA/EPA ratio were significantly higher in depressed patients than in healthy ones (from another group of healthy, non-depressed elderly women who were not taking omega3 supplementation). Not surprisingly, the AA/EPA ratio decreased significantly in those taking the omega 3 supplement in the depression group, which correlated with the decreased depression scores. Ratios did not change in the placebo group or in the "healthy" group.
+
+Inflammatory markers were significantly correlated with being depressed at the beginning of the study (not exactly a newsflash) but were not correlated at the end of the study, though there were some shifts in markers. Hey, it was only 8 weeks.
+
+I like this study a lot, for several reasons. They used an omega 3 supplement with EPA greater than DHA, which are the only sorts of supplements shown to be effective in depression. They used an inert placebo (coconut oil is another acceptable substitute) in lieu of olive oil or (gasp) omega6 oil. They measured plasma ratios, depression scores, and inflammation.
+
+I also learned something very interesting that I didn't know before, which is that mood stabilizers, particularly lithium, have been associated with greater AA turnover and increased DHA in the plasma membranes in the frontal cortex. One more mechanism whereby lithium is an essential micro nutrient? Maybe. One more reason to consider that we don't fully understand nutrition or the brain but we should probably take in a reasonable amount of these? Yes.
+
+Stabby thinks we should add vitamin E as well.
+
+*There is something to be said for supercomputers and 100,000 person data sets. But I'm not going to eat corn oil and kashi.
+
+** from the study "numerous studies have indicated major depression as an inflammatory state with elevated levels of proinflammatory cytokines, e.g. Interleukin IL-6, IL-12, interferon (IFN)-γ [15], IL-1 and tumor necrosis factor (TNF)-α [16]. For this reason we decided to evaluate cytokines that have not yet been sufficiently studied to date, such as IL-5 and IL-15, in this study."

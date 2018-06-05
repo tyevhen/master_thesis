@@ -1,0 +1,64 @@
+Adobe's Touch Apps, running on the iPad, will open new markets.
+Adobe's latest quarterly numbers are out, and while the market reaction has been distinctly negative (the stock plunged 4% mere minutes after numbers were released), I think it's possible the market has missed the bigger picture.
+
+The company's total revenue for the quarter ending March 2, 2012 was $1.045 billion, up from $1.027 billion for the same quarter last year. Operating income was $288.9 million versus $302.3 million for the same period a year ago, with the drop coming because of higher operating expenses (mostly relating to sales and marketing) in Q1 of FY2012.
+
+Net income saw an unpleasant 21% YOY drop, to $185.2 million for Q1 of 2012 compared to $234.6 million for Q1 of last year. Diluted net income per share came in at $0.37 for the quarter (versus $0.46 for Q1 of 2011).
+
+Analysts and pundits seized on the net-income drop as evidence of a slowdown in Creative Suite sales ahead of the much-anticipated release of CS6 later this quarter. Some also tried to read into this a decline in Document Services business and/or deceleration in LiveCycle business. (In truth, Doc Services is flat but not down.)
+
+Where things get tricky, of course, is in trying to extrapolate from the current state of Adobe's business to the state of the business, say, six months from now.
+
+Let's just go ahead and run through the bear case first, then follow up with the bull case, and finally, my own take.
+
+
+The Bear Case
+
+Bears like to point to the following factors:
+LiveCycle business is decreasing. The company has, in fact, expressed downward guidance on LiveCycle, to the tune of possibly as much as $150 million in FY2012 (although in the conference call, it was noted that LiveCycle business is actually doing better than expected and will most likely not be down a full $150 million on the year).
+CS6 could be late, and meanwhile customers have put purchases on hold pending the release of CS6 (5.5 is already seen as "last year's version").
+Even if CS6 is not late, Adobe is trying to transition customers from a perpetual-license model to a recurring-charge (subscription-based) model, and this could represent a difficult transition.
+Revenues will decelerate if customers start paying by subscription (month to month) instead of buying a single Photoshop (or other product) license all-at-once.
+Because of Flash, Adobe may not be able to participate fully in Apple-platform success.
+The company is making a big bet on its Creative Cloud strategy, and the payoff from that may take longer than expected.
+
+The Bull Case
+
+The bullish case for Adobe starts with pent-up demand for CS6. It's always possible that CS6 could be late (just as any software release can be late), but with as much riding on CS6 as there is, you can bet Adobe won't let schedules slip if it can be avoided.
+
+Bulls will point out that the transition to a subscription-based model is not likely to be terribly disruptive, because Adobe in fact plans to continue to offer perpetual licenses in parallel with its subscription business, so that customers can choose whichever payment mode they want.
+
+And while it's true Adobe will lose a certain amount of "revenue front-loading" if people suddenly move to the subscription model, this will likely be offset by the availability of new customers who otherwise couldn't afford (or don't want) the big bite of a full Photoshop purchase.
+
+Likewise, although it's true that Flash has no future in mobile devices (something Adobe acknowledged back in November), Adobe does have a big investment in HTML5 technology, which should clear the way for greater involvement with the iOS platform.
+
+
+My Take
+
+I like to look at this from the standpoint of catalysts that could move the needle for ADBE stock. And I think there are, indeed, several catalysts that people have either overlooked or are slow to comprehend the possible impact of.
+
+Let's start with the (often-avoided) fact that Adobe has long had a significant worldwide problem with piracy. Simply put, there are tons of unlicensed copies of Photoshop, Illustrator, Acrobat, etc. out there in the wild. An utterly staggering opportunity presents itself if Adobe were able to recapture even a portion of that lost revenue.
+
+Exactly that opportunity is implicit in the subscription pricing model. When the "entry cost" for owning an Adobe product drops from almost $1000, to perhaps $50 (or just $9.95, for a Touch App), it means a lot of illegal users will suddenly consider becoming legal users.
+
+That's big.
+
+Another catalyst: Adobe's total addressable market is set to grow by an incredible 60 million people or more as the company begins to penetrate the iPad user base with Touch Apps. It's probably safe to say that a large percentage of the iPad user base has never bought an Adobe product before (certainly not for the iPad!). This is an enormous opportunity for Adobe to connect with a whole new generation of customers. (Bear in mind, Touch Apps are in the sweet spot for most iPad users, at $9.95.)
+
+Since you probably won't want to store gigabytes of photos or artwork on your iPad, this also becomes an important springboard for Creative Cloud adoption. In addition to giving people a place to store files (and an easy way to sync them to web-connected devices), Creative Cloud gives users access to thousands of web fonts and an easy way to try other Adobe tools without going through a huge download and installation process. This is potentially a very big win for Adobe.
+
+Another Adobe catalyst that doesn't get its fair share of coverage has to do with the pain of web development. These days, it's not enough to develop apps or content for just one device (such as a laptop): You also want your app (or content) to run, and look good, on multiple devices (phone, tablet, etc.). But developing content or apps for multiple targets is an enormous pain, because it typically involves multiple development cycles using multiple tools on multiple devices. Adobe is taking aim at this problem with powerhouse tools like Dreamweaver, InDesign, and Flash Builder that allow you to do all your development work in one place, and debug the results (using appropriate emulation) in one place, then assemble and deploy your finished product to any target (iOS, Android, Windows, Mac, whatever).
+
+And by the way, don't be misled by the name Flash Builder. You can use Flash Builder to output your work in HTML5. It doesn't just output Flash.
+
+As far as I know, Adobe is the only major software vendor that has succeeded in bringing advanced cross-platform development tools to market.
+
+Think of how many developers are working on apps (and/or content) right now for Apple iOS. Think of how many are targeting Android. Think of Windows. Think of MacOS. Add it all up. That's the total addressable market for the tools I just mentioned.
+
+I'll mention just one other catalyst for Adobe, which has to do with its enterprise business. In 2009, Adobe completed its acquisition of Omniture, and a year later it acquired the former Day Software (whose WCM products power the websites of McDonalds, Mercedes, and other Fortune 100 customers). More recently, the company acquired Efficient Frontier, a leader in multichannel and auction-based digital advertising optimization across search, display, and social media. Adobe's Digital Marketing business unit is completing the integration of these platforms to provide a uniquely compelling story for any enterprise that wants to create, manage, deploy, and optimize the consumption of potentially very sophisticated digital content on the Web, in multiple languages, across multiples geos, on multiple devices. Adobe is just beginning to monetize this breathtakingly comprehensive offering, and I think it's fair to say the downstream revenues from it will be measured in the multiple billions of dollars and/or Euros, etc. But that's another article unto itself.
+
+I can think of additional catalysts (I haven't even touched on Project Primetime, for example), but it should be evident by now that the outlook for Adobe isn't constrained to how many copies of Photoshop can be sold to how many Mac or PC owners. It's a far, far bigger story than that.
+
+ADBE stock (P/E: 20) has been trading recently in the low 30s, with a 52-week range of $22.67 to $35.99. The stock is 90% institutionally owned and the company has a market capitalization of approximately $17 billion.
+
+Disclosure: The author has a long position in this company's stock.

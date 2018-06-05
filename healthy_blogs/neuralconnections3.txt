@@ -1,0 +1,82 @@
+source
+In my previous post, Stress: Receptors and Responses, I focused more on defining stress at various levels. What that post lacks, however, is a focus on threat appraisal, or the detection and classification of stimuli, and the adaptation to future stress based on a prior stress history. I will take a look at how plasticity, specifically in the hippocampus, adds a layer of flexibility that aids in stress adaptation response.
+
+With life, stress is an inevitable by-product and challenges our homeostatic equilibrium.  Stress serves two broad purposes: it signals potential physical or psychological damage and also provides a learning opportunity for adaptation. How and what we define as a stressor is very subjective. Psychological processes, such as the perceived distance and magnitude of a threat 1, often play an integral role in the way we cope with these situations and interact with the environment.  
+
+(more on threat appraisal and adaptation after the jump)
+
+
+
+
+Threat Appraisal
+
+Threat appraisal can broadly be defined along the lines of classification of events or stimuli into threat-safety-innocuous categories that are made based on their relevance to the goal trying to be achieved and their perceived emotional valence and its effect on physiological arousal 2.   The process of threat appraisal, and importantly re-appraisal, is an integral part in coping to future, often similar, events. 
+
+A normal amount of attention paid to threatening stimuli in the world is quite handy.  However, persons with some stress-related traits and disorders have augmented threat appraisal in the form that they spend an enhanced amount of time focusing on and trying to quell the stress associated with the threat, or what is thought to be a threat, to their well-being.  This process is often accompanied by a negative bias in how a stimulus is perceived and interpreted 3 and, because of this, heightened threat detection and appraisal takes valuable cognitive resources away from the individual.  
+
+source
+The hyperactivity of the hippocampus and/or amygdala, and thus the irregular information processing, may be responsible for negatively weighting associations 4 and the interaction with the frontal regions dictates which stimuli in the environment are paid attention to and manage the appraisal process itself, and so the loop persists. There is suggestive evidence that, indeed, these core regions are responsible for the generation of appraisal and categorization of threats 5–9 (see previous post about these areas in anxiety). This is obviously a nice and compact loop (right) that is overly simplified and not the entire story.  
+
+
+A re-appraisal process is often used in Cognitive-Behavioral Therapy to put psychological threats into perspective, or re-frame and give more cognitive control or weight and less emotional weight to the stimulus or event, if their threat magnitude is exaggerated 2,10. Curiously, some individuals complete this (re-)appraisal process quite easily and can adapt to similar future stressors, while others, particularly those with anxiety and panic disorders, have a higher degree of difficulty, leading to inappropriate generalization and weaker adaptation responses to future stressors.  
+
+
+
+
+
+
+Threat Adaptation
+
+Why is future stress responding, based on a previous stress history, so important? The ability to flexibly adapt to future stress is needed to interact successfully and optimize decisions in the environment.  This flexibility that enables stress adaptation, broadly, is the deployment of a behavioral and/or cognitive repertoire that aids in the neutralization process, which is the efficient termination of the stress response once the threat is removed or soon there afterwards11. However, when this threat appraisal process is hindered, such that the threat reaches a magnification that is objectively disproportional to what is necessary to neutralize it, as is often the case with clinical anxiety disorders, successful coping and adaptation mechanisms are weaker, if present at all, and the organism fails to enhance decisions or choices.
+
+What contributes to this cognitive and behavioral flexibility?  The brain is not a static machine that does the same thing day in and day out.  It is a robust organ that allows for, shall we say, degrees of freedom in our mental and behavioral capacities.  If this were not the case, people, and indeed life itself, would be quite boring.  Neural plasticity is one way that degrees of freedom are added.  
+
+The hippocampus*, which contains some of the highest levels of stress hormone receptors and is exquisitely sensitive to psychological stress, has many forms of neural plasticity. These hormones enhance adaptation in the short-term but, if this stress persists and enters into a chronic state, pathophysiology of some form of anxiety or depression will likely begin to form.  
+
+
+
+
+''Model of hippocampal plasticity showing structural alterations in response to stress: atropy of CA3 pyramidal neurons and decreased neurogenesis of dentategyrus granule cells. Stress results in powerful effects on the hippocampus, partlybecause of the high levels of glucocorticoid receptors expressed in this brain region.Stress results in at least two major actions in two different subfields of thehippocampus. Repeated stress causes atrophy or remodeling of CA3 pyramidalneurons, decreasing the number and length of apical dendrites. Administrationof glucocorticoids causes a similar effect, and decreased expression of brain-derived neurotrophic factor (BDNF) could contribute to pyramidal cellatrophy. Stress also decreases the proliferation of newborn granule cells in the dentate gyrus, and glucocorticoid administration mimics this effect. Chronic antidepressant administration can reverse the atrophy of CA3 neurons and blockthe downregulation of neurogenesis in the dentate gyrus. The effects of antidepressant treatment occur via acute regulation of serotonin (5-hydroxytryptamine [5-HT]) and norepinephrine (NE) and the regulation of intracellular signaling and gene expression. mf, mossy fibers; sc, Schaffer collaterals." source
+
+
+To add these degrees of freedom, or the ability for means of adaptability to vary, one form of plasticity is modulating the excitability of pyramidal neurons, or the readiness to send signals, within the hippocampus CA fields by varying the amount of circulating stress hormones levels. The excitability influences long-term potentiation and long-term depression, believed to play an important role in learning  13. 
+
+A second form is adult neurogenesis within the dentate gyrus, a region of the hippocampus, that persists in producing new granule neurons throughout life.  The magnitude of replenishment of the new neurons is also influenced by stress hormones.  Circulating hormone levels can result in neuronal death and inhibition of cellular proliferation but at times can promote survival of these neurons that is seemingly related to aversive and rewarding experiences 12. 
+
+A third form is the dendritic, or the part of the neuron that receives the firing, remodeling in response to stress hormones, particularly within the CA3 region of the hippocampus.  Again, this remodeling does not normally occur with short-term stressors but if it persists, the length of these processes becomes shorter and debranching occurs.  A mechanism to stop this neurotoxicity is by blocking the excitatory amino acid receptors  13.
+
+
+
+Measuring Threat Appraisal
+
+How do we objectively measure threat appraisal if it is subjective?  There is no easy way to pop into another person's mind and experience their mental experiences. We must rely on physiological and defensive-safety behavioral measures in all species, and the additional added bonus of self reports in humans, which then must be compared to a control group.  
+
+
+Particular behavioral tasks that go beyond language, and thus have been successfully translated from rodents and monkeys to humans, are fear conditioning and fear-potentiated startle responding, along with physiological measures, such as heart rate, blood pressure, etc. and neural activity or BOLD and other oxygenation signals.  These latter signals must be coupled with behavior to give a clear context of the appraisal itself. 
+
+
+Invasive techniques include permanent and reversible, or temporary, lesion studies that aid enormously in telling us about normal functioning of that neuroanatomical region or regions. To understand the genetic component, rodents can be bread for high/low stress responding and clinical studies can use humans that exhibit stress-related traits or are diagnosed with stress-related disorders, such as clinical anxiety.  These genetic studies can greatly expand our knowledge about not only the genomics underlying stress but also how the interaction with the environment can influence future stress appraisal.  
+
+
+
+
+In sum, both short-term and long-term stressors, e.g. from early in life, modulate appraisal and threat adaptation processes and have a profound impact on neuronal plasticity.  This plasticity adds a layer of flexibility to cognitive and/or behavioral resources, which can lead to adaptation, in future circumstances.  If this is hindered, adapting to one's environment based on similar stressors is impaired and interferes with such things as decision making, attention, and other psychological processes.
+
+
+
+* Note: Other areas, such as the amygdala and prefrontal areas, also show a wide range of plasticity.  In order to not write a book chapter, I'll forgo describing those areas any further.
+
+
+1.        McNaughton, N. & Corr, P. J. A two-dimensional neuropsychology of defense: fear/anxiety and defensive distance. Neurosci. Biobehav. Rev. 28, 285–305 (2004) pdf source.
+2.        Britton, J. C., Lissek, S., Grillon, C., Norcross, M. A. & Pine, D. S. Development of anxiety: the role of threat appraisal and fear learning. Depress. Anxiety 28, 5–17 (2011). pdf source
+3.        Beck, A. T. & Clark, D. A. Anxiety and depression: An information processing perspective. Anxiety Res. 1, 23–36 (1988). link
+4.        McNaughton, N. Cognitive dysfunction resulting from hippocampal hyperactivity--a possible cause of anxiety disorder? Pharmacol Biochem Behav 56, 603–611 (1997). pdf source
+5.        Adhikari, A., Topiwala, M. a & Gordon, J. A. Single units in the medial prefrontal cortex with anxiety-related firing patterns are preferentially influenced by ventral hippocampal activity. Neuron 71, 898–910 (2011). pdf source
+6.        Likhtik, E., Stujenske, J. M., Topiwala, M. A., Harris, A. Z. & Gordon, J. A. Prefrontal entrainment of amygdala activity signals safety in learned fear and innate anxiety. Nat. Neurosci. 17, 106–13 (2014). link source
+7.        Adhikari, A., Topiwala, M. a & Gordon, J. A. Synchronized activity between the ventral hippocampus and the medial prefrontal cortex during anxiety. Neuron 65, 257–69 (2010). pdf source
+8.        Seidenbecher, T., Laxmi, T. R., Stork, O. & Pape, H.-C. Amygdalar and hippocampal theta rhythm synchronization during fear memory retrieval. Science 301, 846–50 (2003). pdf source
+9.        Ochsner, K. N., Bunge, S. A., Gross, J. J. & Gabrieli, J. D. E. Rethinking feelings: an FMRI study of the cognitive regulation of emotion. J. Cogn. Neurosci. 14, 1215–29 (2002). pdf source
+10.      Clark, D. A. & Beck, A. T. Cognitive theory and therapy of anxiety and depression: convergence with neurobiological findings. Trends Cogn. Sci. 14, 418–24 (2010). link source
+11.      McEwen, B. S. & Gianaros, P. J. Stress- and allostasis-induced brain plasticity. Annu. Rev. Med. 62, 431–45 (2011). pdf source
+12.      Glasper, E. R., Schoenfeld, T. J. & Gould, E. Adult neurogenesis: optimizing hippocampal function to suit the environment. Behav. Brain Res. 227, 380–3 (2012). link source
+13.      McEwen, B. S. Plasticity of the hippocampus: adaptation to chronic stress and allostatic load. Annals of the New York Academy of Sciences, 933, 265–277 (2001). link source

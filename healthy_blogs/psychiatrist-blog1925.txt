@@ -1,0 +1,58 @@
+I thought I'd follow in Clink's footsteps and blog about things I've learned at the conference I am attending. This is the annual meeting for the Academy of Psychosomatic Medicine (APM), which is the organization for C-L (Consultation-Liaison) Psychiatry. (What is that? It essentially involves taking care of folks with other medical problems who also have something going on in the psychiatric area. If you look at this year's program, you get a sense of what we are about.)
+Yesterday, I attended a 4-hour seminar on ECT. I don't do ECT, but it is done at my hospital. As Chairman of the department, I thought it was time for a refresher. Donald Malone and Leo Pozuelo presented (both from Cleveland Clinic). So here are some bullet points... (not to be used as medical advice...not warranted to be accurate)
+
+[Ed: Most of us psychiatrists know that memory problems with ECT is a concern and that there is a need for better data, but these folks here focused more on the nuts & bolts of ECT, so I won't get into the memory issues here. There are a couple links in the comments, as well. The above Wikipedia link also has some discussion about this. Thanks, Alison.]
+
+Schizophrenia is the 2nd most common diagnostic indication for ECT in the US (Major Depression is #1)
+86% response rate for initial treatment (50% after adequate med trials have failed)
+there are no absolute contraindications for ECT
+mortality risk ~1:10,000 (similar to that of any anesthesia)
+does not increase risk of spontaneous seizures
+common side effects: headache, muscle pain, nausea, same-day amnesia, same-day diminished cognition
+pre-tx with Toradol and 5HT-3 antagonist reduces SFX
+Consent issues
+get separate consent for maintenance ECT, as reason is different (prevent relapse, not treatment)
+with maintenance, re-do consent every 6 months or so (some do it every time)
+Procedure
+monitor BP, pulse, O2 sat, ECG, EEG, nerve stimulator
+pre-oxygenate w/100% O2, esp w/morbid obesity, respiratory dz
+continue oxygen after stimulus for a bit
+BEWARE dental complications... most common adverse event... use bite block
+Cardiac effects
+initial parasympathetic vagal discharge, with stimulus... can get asystole
+followed by increased sympathetic activity during clonic phase of sz
+then recovery phase, which can include both symp and parasymp
+can pre-tx with anticholinergic, like glycopyrolate or atropine
+Pre-ECT workup
+check for dental issues
+H&P current
+assess by anesthesiologist & ECT provider
+routine brain and spine imaging not necessary
+CBC, CMP, EKG, HCG
+Medical comorbidity
+Post-MI: most do okay; 4-6 wks after MI generally okay; beta-blockade
+CHF: optimize cardiac status before ECT; give all rx in AM w/sips H2O; monitor for incr CHF between tx's; esmolol
+AFib: usually okay; may convert to sinus; ?incr risk if not on AC
+Pacemaker: no need to turn off; do turn off VNS
+Epilepsy: may use flumazenil to decrease sz threshold in pts on chronic benzodiazepines; keep AEDs on board; stack the deck by hyperventilation, etomidate, caffeine
+Parkinson's: ECT may improve motor fn; halve the antiparkinsonian dose (eg, Sinemet); might decr ECT to 2x/wk
+Dementia: 2/3 improved mood; 1/2 improved cognition; electrode placement; 2x/wk; ?hold Aricept vs keep and adjust succinylcholine; may reduce agitation... occ used to treat severe agitation in dementia
+NMS: last line
+MS: no problem
+Pulmonary: may need to intubate w/COPD; take inhalers in AM
+Osteoporosis: use good muscle relaxation; use neurostimulator to assure good relaxation; ?check spine XR
+DM: give half of usual insulin in AM, 2nd half after breakfast; check BS; hold AM insulin if prone to hypoglycemia; usually hold AM oral hypoglycemics
+GERD: pre-tx with H2-blockers
+Glaucoma: use drops in AM; ECT can briefly incr IOP
+Pregnancy: does not typically affect FHT/uterine tone; monitor fetus in high-risk preg; get OB consult
+Increased risk
+increased ICP
+aneurysm/AVM
+bad cardiac dz
+recent stroke
+severe pulmonary disease
+Relapse after ECT: Sackeim (JAMA 2001)... relapse after ECT = 84% on placebo, 60% on nortriptyline, 39% on nortrip+lithium
+
+* * *
+Coming up ... Day 2 ... suicidality ... psychosomatic medicine ... alcohol withdrawal
+Blogged with Flock

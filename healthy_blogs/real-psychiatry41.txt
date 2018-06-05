@@ -1,0 +1,49 @@
+From Reference 1
+
+In the 1970s I was reading a lot of science fiction in the Peace Corps. One of those books had a story about a scientist who had figured out all of the mathematical equations for human behavior. Although it was clearly fiction that thought stayed in my mind over the decades. When I was doing quantitative EEG work in the 1990s, I thought about it but it was apparent that the statistical models being used for that work were not remotely related to the observed behaviors that these devices were trying to classify – and there was always some clinical variable (eg. Did the subject have an alcohol problem or traumatic brain injury?) – that seemed to make the equations even more approximate. An electrical engineer that I was working with was able to apply a complexity measure to the output from a single electrode from an EEG and demonstrate the expected decrease in complexity with neural networks in Alzheimer’s Disease. That metric was interesting but not at the level where second to second behaviors could be examined. It was more of a brain state function.
+
+That brings me to the recent article in JAMA Psychiatry entitled “Association of Neural and Emotional Impacts of Reward Prediction Errors With Major Depression”. Reward prediction errors are the difference between experienced and predicted rewards. The authors note that if the reward exceeds the expectation then “the value associated with the chosen option is increased, making it more likely to be chosen again.” As I read this, I thought about the case of chronic addiction where that is no longer the case and the maladaptive choice is made over and over again. I also thought about the subtler case of low frequency unexpected rewards. A common experience would be the “Aha” experience that universally occurs when problems are suddenly solved and exam questions answered after a unique insight is realized. As I tell my students, there is good evidence that if we put the person’s head into an fMRI scanner right at that instant that their nucleus accumbens would be lighting up. There does appear to be a lot more going on that the difference between experienced rewards and expected rewards.
+
+This study looked at the issue of whether depression attenuates ventral striatal reward prediction errors (RPEs) in a task that did not involve a significant learning component. It was already known that there were attenuated RPE signals in the ventral striatum of people with depression during reinforced learning. It was also known that in healthy controls RPE variation explains momentary mood fluctuations.
+
+The experiment itself consisted of two phases. In the first, a laboratory study looked at 34 subjects and 10 controls with diagnoses of depression after fairly rigorous exclusion criteria were applied at the clinical and fMRI level. The majority of the experimental group and half of the controls were women. It appears that all of the depressed patients were taking antidepressant medication. The subjects completed a risk decision task that did not require any learning and was designed so that performance by the depressed patients and controls was the same. The task consisted of 160 trials where the subject was asked to choose monetary gambles with two outcomes. The outcomes were given in real money. They were then asked to rate their happiness on an analog scale in response to the question: “How happy are you at this moment?” During the tasks, fMRI blood oxygen level dependent (BOLD) activity was measured. The MRI plane was optimized to view the ventral striatum. In the graphics both transverse and coronal MRI planes are depicted with the pixelated areas of interest in the ventral striatum.
+
+In the second phase of the experiment, the risky decision tasks was translated to a smartphone app, The Great Brain Experiment (http://www.thegreatbrainexperiment.com). A total of 1833 participants completed 30 choice trials and 12 ratings. They were not compensated.
+
+In terms of results, the depressed group and controls had similar earning on the probabilistic reward task ($7.75). Median reaction times and choice accuracy were also similar. Ventral striatal BOLD activity on the fMRI correlated with reward magnitude and did not differ between depressed subjects and controls. A lack of difference between these groups was also examined across reward magnitude, anhedonia, and antidepressant use and no differences were found.
+
+In the smartphone sample, the momentary mood computational model (see above equation) correlated with happiness ratings. The model worked better is severe forms of depression. Anhedonia did not correlate with the impact of RPEs but other depression questions on the Beck Depression Inventory-II did.
+
+The authors conclude that their results demonstrate that there is no impairment in “basic reward-related neural and emotional processes in depression in a non-learning context”. The dopaminergic RPE signal was the same in the depressed group and controls. They make the further arguments that dopamine signaling in the ventral striatum is complex and other factors are involved. They discuss a model from the literature that discusses the cognitive deficit in depression as one of goal directed reasoning based on a model of the causal structure of the world. They imply that dopamine at least in the studied reward systems may not have a central role in depression.
+
+The authors discuss a major limitation of their study in that only 9/32 subjects with depression were unmedicated. They discuss how they examined some parameters that suggests this effect was not significant. An ideal study would look at both the effects of severe depression (PHQ-9 score here was 15.8 [SD 4.7]) , no medications, and patients who have never been medicated. It might be useful to consider more rigorous elimination of other disorders affecting the ventral striatum. All things considered it is a useful look at an experimental paradigm that demonstrates the utility of brain imaging in applications that can be used on a wider population basis and whether or not they may be valid.
+
+The accompanying editorial by Rabinovich and Varona was interesting.  They make the argument that the global conscious state is too complex to be described by mathematical equations but various components are not.  They go on to describe their own model of global brain networks and how they interact with one another.  They suggest that brain networks are very similar and vary only in content and the complexity of their content.  As an example in the creativity process, the channels stay the same whether the process involves music, poetry, or mathematics.  They suggest the same processes are active in psychiatric disorders and illustrate cognitive and ritual heteroclinic channels in obsessive-compulsive disorder.  They suggest that these dynamic systems in the brain can be determined and can be quantitatively characterized by various means like the value of the Kolmogorov-Sinai entropy. Mathematically modeling the brain as dynamic systems has been around for some time.  I will have to review this work but it seems that it may not incorporate enough of the physical characteristics of the systems into the mathematics.
+
+Finally, I would be remiss if I did not mention the excellent review by Wang and Krystal (3) and well as many of their other articles on computational psychiatry.  Their definition of computation psychiatry is a discipline that seeks to incorporate the computational mechanism from a real neural network into its role in psychiatric disorders and the way a person actually functions.  This is an exciting approach because it represents the ultimate integration of all of the anatomy, physiology and pharmacology that we study into a real working system. It is exactly where the field needs to be heading.  I think there is a natural overlap with the study of human consciousness.
+
+These are exciting times and computational psychiatry is adding to that mix. 
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  Rutledge RB, Moutoussis M, Smittenaar P, Zeidman P, Taylor T, Hrynkiewicz L, Lam J, Skandali N, Siegel JZ, Ousdal OT, Prabhu G, Dayan P, Fonagy P, Dolan RJ. Association of Neural and Emotional Impacts of Reward Prediction Errors With Major Depression. JAMA Psychiatry. 2017 Aug 1;74(8):790-797. doi: 10.1001/jamapsychiatry.2017.1713. PubMed PMID: 28678984.
+
+2:  Rabinovich MI, Varona P. Consciousness as Sequential Dynamics, Robustness, andMental Disorders. JAMA Psychiatry. 2017 Aug 1;74(8):771-772. doi: 10.1001/jamapsychiatry.2017.0273. PubMed PMID: 28564683
+
+3:  Wang XJ, Krystal JH. Computational psychiatry. Neuron. 2014 Nov5;84(3):638-54. doi: 10.1016/j.neuron.2014.10.018. Epub 2014 Nov 5. Review. PubMed PMID: 25442941
+
+4: Keller K, Mangold T, Stolz I, Werne J. Permutation entropy: new ideas and challenges. Entropy 2017, 19(3), 134; doi:10.3390/e19030134
+
+Contains a section on Kolmogorov-Sinai Entropy and a discussion of EEG applications.
+
+5: Donoso M, Collins AG, Koechlin E. Human cognition. Foundations of human reasoning in the prefrontal cortex. Science. 2014 Jun 27;344(6191):1481-6. doi: 10.1126/science.1252254. Epub 2014 May 29. PubMed PMID: 24876345
+I included this reference as a great example of the network in the frontal cortex that are active in reasoning and activation of the ventral striatum during good decisions (the "aha effect").
+
+6: Piray P, Toni I, Cools R. Human Choice Strategy Varies with Anatomical Projections from Ventromedial Prefrontal Cortex to Medial Striatum. J Neurosci. 2016 Mar 9;36(10):2857-67. doi: 10.1523/JNEUROSCI.2033-15.2016. PubMed PMID:26961942.
+
+7: Jarbo K, Verstynen TD. Converging structural and functional connectivity oforbitofrontal, dorsolateral prefrontal, and posterior parietal cortex in the human striatum. J Neurosci. 2015 Mar 4;35(9):3865-78. doi: 10.1523/JNEUROSCI.2636-14.2015. PubMed PMID: 25740516.

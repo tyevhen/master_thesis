@@ -1,0 +1,37 @@
+Yesterday I offered a theory for new gene creation which might be called the Erroneous Translation Theory. Basically, I proposed that new proteins arise through frameshifted and/or reversed translation of nucleic acids (translation of antisense strands of DNA).
+
+Erroneous translation of DNA offers interesting possibilities for gain of function. (Recall that most point mutations result in loss of function, and one of the major criticisms of Darwinian theory is that evolution based on accumulation of point mutations cannot account for gain-of-function events.) Wholesale mistranslation via frameshift errors and/or wrong-strand transcription allow for the sudden emergence of entirely new classes of proteins. The unit of change is no longer the single base-pair polymorphism but the functional domain or motif.
+
+An important aspect of antisense-strand translation has to do with stop codons. In DNA, the sequences TCA, TTA, and CTA specify amino acids serine, leucine, and leucine, respectively. But when these three codons are complemented, then read in 5'-to-3' direction—in other words, when they're antisense-translated—they form the stop codons TGA, TAA, and TAG, which tell the cell's protein-making machinery to terminate the production of the current polypeptide. Thus, if a typical gene containing codons TCA, TTA, and CTA is translated "backwards," translation will end prematurely: It will end as soon as a stop codon is encountered.
+
+How important a consideration is this in the real world? Consider the following DNA sequence, which represents the gene for the cytidine deaminase enzyme of Clostridium botulinum:
+
+>Clostridium botulinum A strain ATCC 19397(v1, unmasked), Name: ABS32549.1, CLB_0040, Type: CDS, Feature Location: (Chr: 1, 37028..37465) Genomic Location: 37028-37465 ATGAATGATTATATAGAATATGCAATAATTGAAGCAAAAAAAGCATTAGCAATAGGAGAAGTACCTGTTGGAGCTATTATAGTTAAAGAAAATAAAATTATAGCAAAAAGTCATAATTTAAAAGAGTCATTGAAGGATCCAACAGCTCATGCAGAGATATTAGCTATAAAAGAAGCTTGCAATACAATACATAATTGGAGATTAAAAGGATGTAAGATGTATGTAACATTAGAACCATGTGCTATGTGTGCTAGTGCAATAATTCAATCTAGAATAAGTGAATTGCATATAGGAACCTTTGATCCAGTGGGAGGGGCTTGTGGATCAGTAGTAAATATAACAAATAATAGTTATTTAAAAAATAATTTAAATATTAAATGGTTATATGATGATGAATGTAGTAGAATAATAACAAATTTTTTTAAAAATATTAGATAA
+
+The above sequence is the "sense" strand of the DNA, in 5'-to-3' direction. The sequence below is the corresponding 3'-to-5' complementary sequence (in other words, what's on the antisense strand of DNA):
+
+TACTTACTAATATATCTTATACGTTATTAACTTCGTTTTTTTCGTAATCGTTATCCTCTTCATGGACAACCTCGATAATATCAATTTCTTTTATTTTAATATCGTTTTTCAGTATTAAATTTTCTCAGTAACTTCCTAGGTTGTCGAGTACGTCTCTATAATCGATATTTTCTTCGAACGTTATGTTATGTATTAACCTCTAATTTTCCTACATTCTACATACATTGTAATCTTGGTACACGATACACACGATCACGTTATTAAGTTAGATCTTATTCACTTAACGTATATCCTTGGAAACTAGGTCACCCTCCCCGAACACCTAGTCATCATTTATATTGTTTATTATCAATAAATTTTTTATTAAATTTATAATTTACCAATATACTACTACTTACATCATCTTATTATTGTTTAAAAAAATTTTTATAATCTATT
+
+When the antisense sequence is translated in the normal 5'-to-3' direction, the following amino acid sequence results:
+
+LSNIFKKICYYSTTFIII*PFNI*IIF*ITIICYIYY*STSPSHWIKGSYMQFTYSRLNYCTSTHSTWF*CYIHLTSF*SPIMYCIASFFYS*YLCMSCWILQ*LF*IMTFCYNFIFFNYNSSNRYFSYC*CFFCFNYCIFYIIIH
+
+This sequence of 146 amino acids (shown here using standard one-letter amino-acid abbreviations) contains 10 stop codons (depicted as asterisks). Any attempt to translate the antisense strand of the C. botulinum cytidine deaminase gene will result in (at best) a series of short oligopeptides.
+
+It's tempting to conclude that this is nature's ingenious way of preventing the occurrence of nonsense proteins. Translate the wrong strand of DNA by mistake, and translation quickly terminates. (In the above example, a stop codon occurs every 14 amino acids, on average.) But before you jump to that conclusion, consider the cytidine deaminase gene of Anaeromyxobacter dehalogenans strain 2CP-C:
+
+GTGGACGAGCGCGAGGCGATGCAGGAGGCGCTGGGGCTGGCGCGCGAGGCGGCGGCCCGCGGCGAGGTGCCGGTCGGCGCGGTGGCGCTGTTCGAGGGCCGCGTGGTCGGCCGCGGCGCGAACGCCCGCGAGGCGGCGCGCGATCCCACCGCGCACGCGGAGCTCCTCGCGATCCAGGAGGCGGCGCGCACCCTCGGGCGCTGGCGCCTCACCGGCGTCACGCTGGTGGTGACGCTCGAGCCCTGCGCCATGTGCGCCGGCGCCATGGTGCTCGCCCGCATCGACCGGCTCGTCTACGGGGCGAGCGATCCCAAGGCCGGCTGCACCGGCTCCCTCCAGGACCTGTCGGCGGACCCCCGGCTGAACCACCGGTTCCCGGTGGAGCGCGGCCTGCTGGCCGAGGAGTCCGGCGAGCTCCTCCGGGCCTTCTTCCGGGCCCGCCGGGGCGCCGGGAACGGAAACGGCAACGGCGGCGAGGGTTAG
+
+The translation of the antisense version of this gene is:
+
+LTLAAVAVSVPGAPAGPEEGPEELAGLLGQQAALHREPVVQPGVRRQVLEGAGAAGLGIARPVDEPVDAGEHHGAGAHGAGLERHHQRDAGEAPAPEGARRLLDREELRVRGGIARRLAGVRAAADHAALEQRHRADRHLAAGRRLARQPQRLLHRLALVH
+
+Which contains no stop codons! Why does one version of the gene give ten stop codons when anti-translated, whereas the other version gives zero stop codons? Clostridium botulinum has a genome G+C content of 28% whereas the DNA of Anaeromyxobacter dehalogenans has a G+C content of 74%. The two organisms favor entirely different codons. Anaeromyxobacter uses codons TCA, TTA, and CTA only 0.03%, 0%, and 0.02% of the time, respectively. Clostridium uses the same codons 1.72%, 5.62%, and 4.67% of the time—over 200 times more often than Anaeromyxobacter.
+
+Bottom line: Almost any gene in Anaeromyxobacter (or any high-GC organism, it turns out) can be antisense-translated without generating stop codons. Stop codons occur in antisense genes in inverse proportion to the amount of G+C in the gene.  
+
+If it's true that antisense-strand translation is (or has been) an important source of new proteins in nature, the foregoing observation is tremendously relevant, because it means successful reverse translation has likely occurred far more often in high-GC organisms than in low-GC organisms. It suggests that bacteria with high G+C content in their genomes may, in fact, have been the incubators of early proteins. It implies a "GC Eden" scenario in which early life forms had predominantly high-GC genomes. Low-GC organisms then arose through continuous "AT pressure," from large numbers of accumulated GC-to-AT transition mutations. (We know that GC-to-AT transition mutations occur at a much higher rate than AT-to-GC transitions; this fact is not in dispute.)
+
+Even so, we have to ask: What is the evidence for reverse (antisense-strand) translation having occurred in nature? Is there any such evidence?
+
+More on this subject tomorrow.

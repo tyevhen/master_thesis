@@ -1,0 +1,5 @@
+My love-hate relationship with Firefox is slowly shifting toward mostly hate. One reason: About every 7 to 10 days, I get a sudden crash where Firefox disappears except for the above dialog. Sometimes the Details button doesn't work. Making me wonder if Mozilla will even get the Crash Report after all.
+
+Clearly, in a situation like this, Firefox is crashing after an unchecked error. (Otherwise why does Mozilla need a complete Crash Report? Why not just get the error code? Answer: There is no error code. The program doesn't know why it quit.) My strong suspicion is that AJAX-intensive sites like Gmail and Twitter are running the program out of memory. Constant client-server AJAX chatter from endless polling is an invitation to memory leakage. (Plus see this post.)
+
+Someday I'll switch to Chrome 100%, but the way I work now is, I use Firefox for business-related browsing and Chrome for personal surfing. I like keeping them separate. I'll continue to use Firefox until the sad day comes when we part company forever. At that point, maybe I'll send flowers and a short, poignant good-bye note. Never to be seen again.

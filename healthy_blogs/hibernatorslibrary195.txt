@@ -1,0 +1,75 @@
+Depression is a surprisingly common mental health issue, affecting 17% of Americans at some point throughout their lifetimes. Depressions almost always are a result of a stressful life event, though not all of these depressions are severe enough or long enough in duration to be considered a mood disorder. 
+
+
+For instance, grief or bereavement often occurs when an individual has lost a loved one. Grievers tend to experience numbness and disbelief, yearning and searching for the lost person before acceptance that he is gone, disorganization and despair as realization is reached, and finally acceptance and reorganization of life. The DSM-IV had a bereavement exclusion for major depressive disorder (MDD): a person might not receive a diagnosis for MDD if he had experienced a major loss in the last two months. However, in a controversial move, this exclusion principle was left out of the DSM-5, allowing clinicians to diagnosis MDD soon after a major loss. 
+
+There are a surprising number of types of depression - many of them are well-known but not generally considered when we think about depression. For instance, postpartum depression is a negative mood response to the birth of a child. Feelings of changeable mood, crying easily, sadness, and irritability occur in 50 to 70 percent of women within 10 days of the birth. These symptoms generally subside on their own. 
+
+Another type of DSM-5 diagnosable depression is premenstrual dysphoric disorder. (That's right. PMS.) In order to get this diagnosis, one of four symptoms must occur a week before onset of menses, and disappear within the first couple of days after onset. Those four symptoms are: mood swings, irritability or anger, depressed mood or self-deprecation, and anxiety or being "on edge." 
+
+MDD is characterized by persistent symptoms that occur most of the day, every day for at least two weeks. The patient must either have a depressed mood or a loss of interest or pleasure (anhedonia). There is also a list of 7 symptoms, of which the patient must have 4: significant weight change, hypersomnia or insomnia, psychomotor agitation or retardation, fatigue, inability to concentrate, and recurrent thoughts of death. Untreated, these symptoms generally last 6 to 9 months. 
+
+There are several types of MDD. The specifiers are: "with melancholic features," "with psychotic features," "with atypical features," "with catatonic features," and "with seasonal pattern." 
+
+The melancholic patient awakens early in the morning, has depression that is worse in the morning, exhibits psychomotor agitation or retardation, loss of appetite, and/or excessive guilt. 
+
+Psychotic features are delusions or hallucinations that are "mood congruent" (in other words, they tend to be a very depressing psychotic experiences). One example is the belief that one's internal organs have completely deteriorated, leading to the depression. Patients with psychotic features generally experience extreme guilt and feelings that they deserve depression as punishment.
+
+Atypical features include more mood fluctuations than a person with MDD would usually experience. The patient's spirits might temporarily lift at a positive event. Other atypical features are increase in appetite, hypersomnia, arms and legs feel as heavy as lead, and being acutely sensitive to interpersonal reaction. 
+
+I find the description of atypical features to be interesting because in the times that I have experienced severe depression, I have experienced all of these symptoms. But apparently people with bipolar disorder tend to have atypical features to their depressive episodes. In fact, a person should not be diagnosed with MDD if they have ever experienced a manic or hypomanic episode, as I have. Another interesting difference between MDD and bipolar disorder is that those with bipolar tend to have much deeper depression than those with "unipolar" depression.
+
+Catatonic depressives experience extreme psychomotor retardation often to the point of complete immobility. They often stop talking as well. I have an aunt who experienced these symptoms for weeks at a time during her teenage years. Apparently, she would just sit at the kitchen table all day, every day. Not moving, not talking, just staring. I've asked my dad "didn't she eat or go to the bathroom or to bed?" He just answers "I don't know. I never saw her doing those things." 
+
+In order to be diagnosed with a seasonal pattern, you must have experienced two or more depressive episodes in the past two years that occurred at the same time of year, usually fall or winter, with a full remission at the same time of year, usually spring or summer. Sometimes the seasons can be switched - these patients tend not to get as much sympathy as those who get depressed in the winter. To get this diagnosis, non-seasonal depression must not have occurred in this 2 year period. 
+
+When depression occurs almost every day for most of the day for more than two years, the patient is generally diagnosed with persistent depressive disorder. "Normal" moods may occur, but they generally only last for a few days. This depression contains many of the same characteristics of MDD, though they are not as severe. Persistent depressive disorder generally lasts for 4-5 years, but can last longer than 20 years. It often starts during adolescence. This disorder is quite common, occurring with a lifetime prevalence of 2.5-6% in Americans. 
+
+Depression has been attributed to many biological causes. There is a genetic factor - people with family members who have MDD are more likely to develop MDD themselves. The serotonin-transporter gene, which is responsible for the uptake of serotonin in the brain, has a heritable mutation which makes depression much more likely. An imbalance of the neurotransmitters norepinephrine or serotonin is strongly associated with depression, and most anti-depressant medications target these neurotransmitters. 
+
+
+
+
+
+Another biological cause can be a dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis. In response to a perceived threat, norepinephrine signals the hypothalamus to release a signal which eventually leads to release of the stress hormone cortisol from the adrenal gland. Cortisol is not harmful for short periods of time, but long-term it can promote hypertension, heart disease, and obesity. It is hypothesized that during MDD, the signal stimulating cortisol release is continuously present in the system, or the feedback inhibition mechanism, which tells the adrenal gland that it should stop releasing cortisol, is not functional. The HPA axis is related to the stress response, which explains the onset of depression after stressful life events, and also explains the concurrence of depression with anxiety. 
+
+There are several theories about psychological causes of depression. In 1967, Aaron Beck proposed the cognitive theory of depression - which led to the development of cognitive behavioral therapy (discussed in my post Contemporary viewpoints on treating mental illness - psychology). Beck proposed that before experiencing depression, a person experienced dysfunctional thinking - these thoughts could be about oneself, about the world, or about one's future. Dysfunctional thinking may include: 1) all-or-none thinking, for example someone thinks he must get 100% on a test or he is a complete loser; 2) selective abstraction, which includes a tendency to focus on one negative event even if surrounded by positive events; and 3) arbitrary inference in which the individual jumps to a conclusion based on little to no evidence. (Examples of these are given in my previous post.) Although research shows that this dysfunctional thinking occurs during depression, research leaves it unclear whether dysfunctional thinking occurs prior to depression, suggesting that such thinking might not be the cause of depression, as theorized by Beck.
+
+There are also the hopelessness and helplessness theories of the psychological causes of depression. In these, the individual might feel incredibly pessimistic about the future, or incapable of having any impact on himself or his environment. A final theory is the ruminative theory, in which a person's tendency to roll negative thoughts over-and-over in her head leads to depression. Women tend to ruminate more than men, and they also are more likely to experience depression than men. But when a study controls for rumination, the sex difference disappears, suggesting that rumination has a strong impact on depression. 
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+References:
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 7: Mood Disorders and Suicide. Abnormal Psychology, sixteenth edition (pp. 212-262). Pearson Education Inc.

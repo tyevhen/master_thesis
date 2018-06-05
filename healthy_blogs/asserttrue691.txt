@@ -1,0 +1,14 @@
+As a professional jargon-whore I'm always fascinated to come across neologisms that have either just recently entered the geek lexicon or have been there for a while, but I just didn't notice. Such is the case with yak shaving, a term I frankly hadn't come across until yesterday.
+
+One of the better definitions I've seen so far for yak shaving is the following:
+1 March 2008, Zed Shaw, " You Used Ruby to Write WHAT?!" [5], CIO. Yak shaving is a programmer's slang term for the distance between a task's start and completion and the tangential tasks between you and the solution. If you ever wanted to mail a letter, but couldn't find a stamp, and had to drive your car to get the stamp, but also needed to refill the tank with gas, which then let you get to the post office where you could buy a stamp to mail your letter—then you've done some yak shaving.
+Shaw's explanation of finding a stamp to mail a letter is a little quaint (who mails letters any more?) and begs for more pertinent examples. I think most of us could easily come up with quite a few. Right away I'm thinking YSEE as a synonym for J2EE. Some others:
+Creating a Mozilla extension
+Hello World in OSGi
+Building a Flex app
+Doing a clean install of OpenCms on a virgin machine (i.e., a machine that doesn't already have JDK, Tomcat, MySQL) -- not difficult, just a lot of Yak shaving
+Getting almost any kind of enterprise software configured and running
+Installing a nontrivial application on Linux (and having to resolve dependencies)
+Again, the essential idea here isn't that what you're doing is difficult, just that it involves a lot of onerous tedium along the way to some worthwhile goal.
+
+What would you add to the above list?

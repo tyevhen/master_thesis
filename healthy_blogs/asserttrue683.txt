@@ -1,0 +1,37 @@
+How many of these favicons can you identify? (From left to right: Gmail, Google Calendar, FilesAnywhere, Twitter, Y-Combinator, Reddit, Yahoo!, Picasa, Blogger)
+
+Last week (excuse me a second while I tighten the straps on my tomato-proof jumpsuit) I was granted a patent (U.S.Patent No.7,594,193, "Visual indication of user role in an address bar") on something that I whimsically call the rolicon.
+
+In plain English, a rolicon is a context-sensitive favicon (favorites icon) indicating your current security role in a web app, in the context of the URL you're currently visiting. It is meant to display in the address bar of the browser. Its appearance would be application-specific and would vary, as I say, according to your security-role status. In other words, if you logged into the site in question using an admin password, a certain type of icon would appear, whereas if you logged in with an OpenID URI, a different icon would appear in the address bar; and if you logged in anonymously, yet a different icon would be used, etc.
+
+Now the inside story on how and why I decided to apply for this patent.
+
+First understand that the intellectual property rights aren't mine. If you look at the patent you'll see that the Assignee is listed as Novell, Inc. That's because I did the work as a Novell employee.
+
+Okay, but why do this patent? The answer is simpler than you think (and will brand me as a whore in some people's eyes). I did it for the money. Novell has a liberal bonus program for employees who contribute patent ideas. We're not talking a few hundreds bucks. We're talking contribute ten patents, put a child through one year of college.
+
+I have two kids, by the way. One is in college, using my patent bonuses to buy pepperoni pizzas as we speak.
+
+Now to the question of Why this particular patent.
+
+Novell has two primary businesses: Operating systems, and identity management. On the OS side, Novell owns SUSE Linux, one of the top three Linux distributions in the world in terms of adoption at the enterprise level. This puts Novell in competition with Microsoft. That competition is taken very seriously at Novell (and at Microsoft, by the way). Perhaps it should be called coopetition at this point. You may recall that in 2006, Novell and Microsoft entered into an agreement (a highly lucrative one for Novell: $240 million) involving improvement of the interoperability of SUSE Linux with Microsoft Windows, cross-promotion of both products, and mutual indemnification of each company and their customers on the use of patented intellectual property.
+
+Novell continues to take an aggressive stance on IP, however, and would just as soon keep ownership of desktop, browser, and OS innovations out of the hands of Redmond.
+
+As it happens, I was on Novell's Inventions Committee, and I can tell you that a lot of attention was given, when I was there, to innovations involving desktop UIs as well as UI ideas that might pertain to security, access control, roles, trust, or other identity-management sorts of things.
+
+One day, I was researching recent Microsoft patent applications and I noticed that Microsoft had applied for a patent on the little padlock icon that appears in IE's address bar when you visit a site using SSL. You've seen it:
+
+
+
+I was outraged. How dare they patent such a simple thing?
+
+I did more research and realized that favicons and browser adornments of various kinds figured into a number of patents. It wasn't just Microsoft.
+
+Coming up with the idea of a role-based favicon (and a flyout icon menu so you can select a different role if you don't want to use your current one) was pretty easy, and I was surprised no one had yet patented it. (Most good ideas -- have you noticed? -- are already patented.) It seemed obvious to me that Microsoft would eventually patent the rolicon idea if we (Novell) didn't. So I applied for the patent. The paperwork went to the U.S. Patent and Trademark Office on February 6, 2007. The patent was granted September 22, 2009.
+
+Would I ever have patented something like this on my own, had I not worked for Novell? No. Do I think it's a good patent for Novell to have? Yes. Am I sorry I got paid a nice bonus for coming up with what many people, I'm sure, would call a fairly lame piece of technology? Crap no.
+
+Do I think patents of this kind (or any kind) are good or right, in general? Hey. Today may be Sunday, but I'm no theologian. I don't take sides in the patent jihad. The patent system is what it is. Let it be.
+
+bookmark and share this

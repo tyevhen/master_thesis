@@ -1,0 +1,30 @@
+Codons have a peculiar symmetry property that's not much discussed, which is that if you look at codon usage in protein genes for an organism, every codon occurs at roughly the same frequency as its reverse-complement pair. For example, the codon GCT (alanine) has a reverse complement of AGC (serine). If GCT occurs at a high rate, AGC will occur at a similar high rate. If one is low in frequency, the other will be low too. I've written about this before, but I want to return to it one more time, because it's bizarre and crazy and deserves an explanation, and I'm hard pressed to come up with one.
+Usage frequencies for codons in Ktedonobacter racemifer. Click to enlarge.
+
+This correlation tends to be highest in organisms with genomes that have a high G+C content and lowest for organisms that have low G+C content. The Pearson coefficient ranges from about 0.8 (high GC) to 0.3 (low GC).
+
+I've never heard a good explanation for this phenomenon. I like to think aliens aren't to blame, though.
+
+One possible explanation is that many protein genes originated, long ago, as antisense proteins, following a gene duplication event. If a protein is made from the plus strand of gene X and the corresponding antiprotein is made from the minus strand of the same gene (X'), the X' copy will have different amino acids from the normal copy (of course) but the codon/anticodon usage rates will be the same. 
+
+Therefore, what we may be looking at is an echo (a reverse complement signal) from the distant past.
+
+Another possibility is that antisense regions become active in the process of gene duplications. Suppose a gene (Gene1) gets copied, but the copy (Gene2) gets clipped during the duplication. In its new location on the genome, Gene2 will exist without its original stop codon. The nearest naturally occurring stop codon may be 60 base pairs downstream. But underneath that 60-bp region might be another gene (Gene3) on the opposite strand. Ultimately, the copied gene overlaps the gene underneath it by 60 bp:
+
+Gene1 Gene2
+----> ---->
+        <-----
+         Gene3
+
+This is called a convergent overlap, and such overlaps are common in nature. They're seldom longer than 100 base pairs (and are often just a few base pairs long). Divergent overlaps also occur.
+
+Any kind of overlap will mean that an "antisense" signal will enter the codon pool.
+
+One thing is for sure: The correlation between occurrence rates of codons and their reverse-complements is too strong to be due to chance.
+
+A dramatic example of the kind of symmetry I'm talking about comes by way of a monster bacterium known as Ktedonobacter racemifer DSM 44963, which is a monster in the sense of sheer genome size: It has a 13.6-million-base-pair genome encoding a whopping 11,540 putative genes (plus 1,178 pseudogenes). The codon usage frequencies are shown in the graphic further above. Each codon is shown with the corresponding reverse-complement codon. The length of the bars corresponds to overall usage frequency (across all proteins in the genome). Frequencies for codon/reverse-complement pairs correlate strongly (r=0.799); too strongly to be by chance (p < 001).
+
+Out of curiosity, I checked the codon frequencies for yeast (Saccharomyces cerevisiae strain DBVPG1106), and the same sort of relationship (though not as strong) occurs:
+
+
+Again, to a first approximation, the frequency of a codon is dictated by the frequency of its reverse-complement cousin. It's interesting that the relationship is still visibly apparent even though Saccharomyces has a coding-region GC content of just 37.4%.

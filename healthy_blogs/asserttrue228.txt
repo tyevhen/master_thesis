@@ -1,0 +1,29 @@
+Alarmist stories at Gigaom, Arstechnica, and elsewhere have recently villainized Adobe Systems for collecting e-book analytics (in unencrypted form) from readers, surreptitiously. "Adobe is Spying on Users, Collecting Data on Their eBook Libraries," a headline from http://the-digital-reader.com blares. Arstechnica is shocked, shocked that people's reading habits are being monitored. And the data's being sent over the wire unencrypted! OH MY GOD!
+
+Give me a freakin' break.
+
+Let's get something straight. Amazon "steals" your reading stats every time you read an e-book. So does Apple. (See the WSJ story "Your Ebook Is Reading You.") Oh, and by the way, who do you think owns Goodreads (which knows a lot about your reading habits)? Amazon, that's who.
+
+Google processes your Gmail to uncover keywords that help it put customized Amazon ads in your face every day. Somehow that's not news, but the fact that Adobe slurps e-book analytics from users of Adobe Digital Editions is treated as if it's the scandal of the century.
+
+Analytics is a big (and I mean BIG) part of what Adobe does now. Do you remember when Adobe acquired Omniture in 2009 for $1.8 billion? What do you suppose that was all about?
+
+It was about analytics, that's what.
+
+Some of the largest web properties in the world run on top of Adobe's Experience Management suite. The latter ties world-class content management to world-class analytics solutions.
+
+Read up on Adobe's SiteCatalyst here.
+
+Arstechnica, by the way, is a Conde Nast property, and Conde Nast is a bigtime Adobe customer. So for Arstechnica to run a sensationalistic screed saying Adobe is stealing people's private reading data is a bit silly. Every time you visit Arstechnica's site, every detail of your visit is captured, rest assured.
+
+Folks, everything you do online is captured, measured, stored, analyzed, by someone, somewhere. Sure, Amazon knows how fast a reader you are, what you like to read, what you finish and don't finish reading, etc. Apple knows this stuff too. Adobe too.
+
+That world we used to live in where no one knew this stuff about you? That world before web analytics? The world of paper-and-ink books that could be read in private? That world is pretty much gone with the wind. Unless you do, in fact, still mostly read paper books. (As I do.)
+
+Let's drop the hysterics about Adobe "spying on readers." Everyone with a web connection is being "spied on" (if that's what you want to call it) nonstop, all the time.
+
+If you don't like it, write your Congressperson. Start a petition. Unplug from the Internet.
+
+But don't heap scorn on Adobe. That's just plain immature.
+
+Disclosure: I used to work for Adobe Systems. I do not work for them, in any capacity, today. These are my opinions. They come solely from me. No one handed them to me. Got it?

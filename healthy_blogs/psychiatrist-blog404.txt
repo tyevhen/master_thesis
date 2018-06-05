@@ -1,0 +1,26 @@
+For anybody who's interested, you can follow along with me as I learn about this stuff. I put the tape measure pic up because I'm learning about trauma treatment and outcome measures.
+
+I was curious about SAMSHA's National Center for Trauma-Informed Care so I did a little background reading based on material I found on their web site. (And if there's anybody reading involved in this who would like to jump in and provide more information, please do. Shrink Rap also allows guest posts!)
+
+It appears that this arose out of a SAMSHA initiative to encourage study of innovative program delivery systems. It was recognized that certain groups of people had severe and overlapping treatment issues. In other words, there were women with high levels of childhood abuse, adult violence, mental health issues and substance abuse. They wanted to figure out how to best provide treatment to these folks and they theorized that the key link or ingredient, a "cause" if you will, was the trauma history.
+
+A two-phase, multisite study was designed to look at this problem. (1) In the second phase, nine cities were selected to participate. They enrolled thousands of women in a variety of treatment settings. The women all had one or more of the three issues: trauma history, substance abuse and mental health problems. One key fault is that there was a non-random assignment of the patients: they were allowed to self-select the "intervention" versus "usual care" condition. Both the trauma and usual care groups provided mental health and substance abuse counselling. The trauma group was additionally provided a women-only therapy group that employed one of four trauma treatment recovery models. The usual care group provided some additional not clearly specified intervention (I didn't have time to read in detail, it sounded like a generic social skills group).
+
+The results were difficult to interpret because it turned out that two of the nine sites had significantly different study subjects. They had to break out certain sites from the rest to analyze the data. However, when pooled two interesting findings came out: the first was that a program that integrated all services (mental health, substance abuse and trauma/generic) was better than a program that offered disjunctive services. The second finding was that the more core services the patient used, there was a slight but significantly worse outcome. (2)
+
+Outcomes were measured at six and twelve months. Overall mental health scores were measured using the Global Severity Index (GSI) and the Brief Symptom Inventory (BSI). Mental health status was improved more when services where combined, even when there was no change in addiction severity. Traumatic symptoms also improved.
+
+What I take away from this is: integrated treatment is better.
+
+That doesn't surprise me. Maryland is reorganizing it's public health services to reflect this, and the Affordable Care Act also recognizes this. There's also been at least one study (I've got it pinned on my pInterest board) which showed that integrated care post-release can decrease felony recidivism.
+
+But improvement with integrated care does not prove that the treatment effect comes from treating the trauma. I think that's the mistake. This model can be useful for anyone with complicated co-occurring conditions, male or female, traumatized or not.
+
+OK, I'll shut up now. What's new with you, Dinah?
+
+
+
+******************************
+1. McHugo, et al. Women, Co-occurring disorders, and Violence Study: Evaluation design and study population. Journal of Substance Abuse Treatment 28: 91-107, 2005
+
+2. Morrissey et. al. Twelve-month outcomes of trauma-informed interventions for women with co-occurring disorders. Psychiatric Services 56: 1213-1222, 2005

@@ -1,0 +1,20 @@
+Hydrogen bonds (dotted lines) are only about
+5% as strong as covalent bonds (solid lines).
+
+Last Saturday, there was a fascinating discussion on Twitter about the power of weak connections. It was a real-time Tweetup held under the banner of #ideachat, the latter being a monthly Twitter Chat focused on the process of ideation, held every second Saturday of the month at 9:00 a.m. EST. (Ideachat bills itself as "a Salon for Twitter Thinkers About Ideas." It is founded by Angela Dunn, Idea Designer and Digital Consultant, aka @blogbrevity.)
+
+The discussion was loosely grounded in the work of Mark S. Granovetter, whose 1973 paper "The Strength of Weak Ties" (American Journal of Sociology, May 1973, pp. 1360-1380) is one of the most widely cited papers in sociology. (See also Granovetter's 1983 followup paper in Sociological Theory, "The Strength of Weak Ties: A Network Theory Revisited.")
+
+I won't try to recap the whole discussion here, since you can read the full transcript online elsewhere. Suffice it to say that in little more than an hour, 92 people contributed 695 tweets on the subject of how weak ties contribute to the spread of ideas in social networks. The discussion seemed particularly apropos given that almost none of the discussants knew each other except through the casual, transient contact afforded by Twitter and TweetChat (the tool used by most participants in the discussion).
+
+My main contribution to the discussion was to draw a parallel between weak social ties and the physical chemistry of hydrogen bonding. I pointed out that in chemistry, weak links (viz., hydrogen bonds) are responsible for much of what makes biomolecule behavior interesting. It's a hard point to try to make in 140 characters or less. But it's worth spending a minute thinking about.
+
+In chemistry, there are several types of chemical bond. The strongest type is the covalent bond: This is the kind of bond that connects the various atoms in a molecule (such as the hydrogens to the oxygen in water). About 5% as strong as the covalent bond is the hydrogen bond, which represents the weak electrostatic pull between electron-rich atoms and electron-poor atoms of different molecules. About an order of magnitude weaker still is the van der Waals force between atoms. Hydrogen bonds and van der Waals interactions are transient in nature, whereas covalent bonds are (for all intents) permanent, or at least long-lasting.
+
+It turns out that a lot of interesting chemical behavior arises from the short-lasting weak interactions that go under the name of hydrogen bonding. The concept of surface tension arises from it. Protein folding happens the way it does because of hydrogen bonding. The stickiness of adhesives is due to hydrogen bonding. (Epoxy, on the other hand, owes its strength to covalent bonds.)
+
+At one point in the #ideachat session, I asked (rhetorically) which is more useful, Scotch tape or Krazy-Glue? Someone later suggested a better analogy would have been duct tape, or even PostIt notes (which famously rely on an adhesive that is almost -- but not quite -- ineffective). You can do a lot of useful things with Krazy-Glue (which relies on covalent bonds to get the job done), but I can think of at least 100 times more things you can do with duct tape. Tape is incredibly more versatile, even though the mechanism by which its adhesive works is fundamentally at least 20 times weaker than the mechanism behind Krazy-Glue.
+
+In the same way, I tend to think that the weak ties engendered by things like Twitter tend, in the aggregate, to produce effects that are surprisingly far-reaching -- causing many tipping-points to be reached long before they otherwise would be.
+
+Whether you agree with my physical-chemistry analogies or not, I encourage you to take part in the next #ideachat, which is scheduled to happen on the eleventh of December at 9:00 a.m. Eastern U.S. time. Mark your calendar. I'll see you there.

@@ -1,0 +1,61 @@
+Admit it. You want to learn to program. But it's too scary. Right?
+
+Wrong. You are now about to write your first line of code. And by tradition (see, this is one of those "lore" things you have to learn), your first program must write the time-honored message "Hello World!" to an ouput device of some kind: a printer, a monitor, a piece of bread, whatever. In this case, the browser.
+
+So, just to the right, in the sidebar there? Do you see the text area where it says"Try Some JavaScript"? (Look just to the right.) In that first box, please now go ahead and type or copy/paste the following:
+
+alert("Hello World!");
+
+Then click the Evaluate button.
+
+Go ahead. I'll wait.
+
+When you clicked Evaluate, a small dialog (more of a monolog) appeared onscreen containing the text "Hello World!", because you told the JavaScript runtime (the part of the browser that runs JavaScript code) to invoke the built-in alert() function that, by convention, is available on the window object, in every browser that supports JavaScript.
+
+That wasn't so scary, right?
+
+Note: JavaScript has many built-in/always-available objects. (See them here.)
+
+One of the built-in objects is the Date object. You might try entering the following code in the text box:
+
+new Date();
+
+If you click Evaluate, the second text box will show the result of the evaluation. On my computer, right now, it shows Fri Mar 20 2015 08:29:29 GMT-0400 (Eastern Standard Time).
+
+Try multiplying the date by one:
+
+1 * new Date();
+
+You'll get a big long number like 1426854798059. This is the number of milliseconds since Jan. 1, 1970.
+
+Of course, JavaScript can do math for you. See if you can guess what the following expression will produce:
+
+1/2 * 5
+
+This code says "one divided by two times five." But does that mean one over two, times five, or does it mean one over two-times-five? There's only one way to find out: Evaluate. It means one-half, times 5, right? If you wanted one over two-times-five, you have to write 1/(2 * 5). The parens will keep things straight. Try it.
+
+One more quick code example. (Aren't you excited? You're writing code!) Try evaluating the following:
+
+window.scrollBy( 0, 100 );
+
+The result of the evaluation is undefined, but what you should have noticed is that the browser window jumped (scrolled) downward by 100 pixels the instant you clicked the Evaluate button.
+
+Question: How would you scroll upward, to the top of the page? You may have guessed that the two numeric arguments to the scrollBy() function represent horizontal and vertical scrolling amounts, in pixels. You saw that supplying 100 as the second argument caused a downward scroll. Therefore, supplying a negative number should cause an upward scroll, right? But how many pixels is it to the top of the screen? We don't know. We don't care. Try entering a really large negative number:
+
+window.scrollBy( 0, -99999 );
+
+This time, clicking Evaluate scrolls you right to the top of the screen.
+
+This is an illustration of hackery. We didn't know the right number to use, to get to the top of the screen, so as a hack, we tried an absurdly large negative number. We didn't have any idea whether using a large negative number might "break" the browser or cause some kind of JavaScript error, so (in the spirit of hackery) we simply tried it. And it worked; it got the job done, without breaking anything. No errors. No one got hurt. We scrolled to the top of the page.
+
+Congratulations. You hacker, you.
+
+
+ ☙ ❧ 
+
+The following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.       

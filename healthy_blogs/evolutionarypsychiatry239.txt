@@ -1,0 +1,29 @@
+A new paper was published this week - Low-dose lithium uptake promotes longevity in humans and metazoans.  Now, as a psychiatrist, I'm a lithium fan.  Apparently, it is an essential trace micronutrient (who knew) aside from the uses for decreasing suicide and helping mood stabilization. Want a primer - look at my blog post here.  (Here is the original lithium for treating mania paper by John Cade if you are interested.)
+
+Decreasing suicide?  Yes, well lithium is actually very good at keeping people alive.  Even those with bipolar disorder or major depression who have no real symptomatic improvement seem to have less suicidal thoughts and suicides while on lithium.  Very interesting.  But why?
+
+Let's start with some observational studies.  Back in 1989, Schrauzer and Shrestha published a paper called "Lithium in Drinking Water and the Incidences of Crimes, Suicides, and Arrests Related to Drug Addictions."  They took information about the lithium level in the water of  27 counties in the Great State of Texas.  Seems that counties with higher lithium levels in the water had a statistically significant decrease in the incidence of homicide, suicide, arrests for opiates and cocaine, and violent criminal behavior.  Now to put things into perspective, a high lithium water content translates to about 2mg of lithium a day.  Psychiatric doses start at 300mg daily. 
+
+From the 1989 paper:
+
+Lithium has previously been used to control episodic outbreaks of rage among prisoners and in the management of drug abusers.  Animal experiments have demonstrated that lithium suppresses cocaine-induced super sensitivity... the kindling phenomenon following the chronic application of ... a central nervous system stimulant, and head-twitching in response to the administration of mescaline.  Furthermore, lithium has been found to [improve] distractability... and produce improvement of selective attention to stimuli... it prevents behavioral alterations owing to social isolation, lowers aggressivity owing to confinement... and causes a normalization of spontaneous motor activity.
+
+ Wow!  That's a lot for one little trace mineral.  And observational studies from Japan seem to correlate - back in 2009, researchers there noted that suicide rates decreased with higher amounts of lithium in the water (1)(In Japan, rates of suicide have been distressingly high for the past 15 years - Japan has a suicide rate of 21 per 100,000 individuals per year vs. the US rate of 11 per 100,000 (3)).  And, with the newest paper, longevity in Japan increased with the amount of trace lithium in the water in humans, and the same trace amounts of lithium in a controlled experiment (equivalent to about 2mg of lithium daily) increased the lifespan of the C elegans worms (2)(due to the increased suicide rates in Japan, suicide was controlled for in the numbers, and lithium still seemed to increase longevity in the observational studies.).
+
+So, all old, that is rather interesting.  Trace amounts of lithium seem to improve human behavior in general, and no one knows why. 
+
+Basic science time - lithium looks a lot like sodium.  It has the same number of electrons in the outer shell - the molecule itself is a bit smaller, but the kidneys don't seem to be able to tell the difference.  And, perhaps, neither do the neurons.  So the addition of a bit of lithium to the matrix will decrease the overall sodium gradient in the brain, decreasing neuroxicity, and increasing the efficiency of brain energetics. From the Japanese drinking water, lithium, and suicide study:
+
+It can be speculated that very low but very long lithium exposure can enhance neurotrophic factors, neuroprotective factors and/or neurogenesis, which may account for a reduced risk of suicide.
+
+In addition, lithium is thought to modulate the system of second messengers in the brain, meaning they enhance certain signaling processes.
+
+The authors of these studies get rather enthusiastic, recommending supplementation at a level of about 2mg per day for human populations with the proposed effect to control behavior, increase longevity, and reduce suicide.
+
+On the negative side, some Swedish researchers tested thyroid effects of trace lithium in the water in some villages in the Peruvian Andes (3).  Some of these villages had some 10-20X the natural lithium in the food and water of the Japanese subjects, up to a maximum of 30mg daily (which is, of course, within an order of magnitude of the pharmacologic dose of 300mg).  They found that lithium in the water seemed to decrease active thyroid hormone levels and increase thyroid stimulating levels - lithium as a medicine will tend to cause hypothyroidism.
+
+In another interesting tidbit, they found that natural selenium levels in the water correlated with free T4 thyroid levels.  Only, thing is, selenium is supposed to act to help T4 become active thryoid hormone, T3.  So one would expect selenium levels to correlate with T3 levels and inversely correlate with T4. 
+
+So, all told, lithium is a natural component of drinking water, and observationally decreases suicide and general naughtiness, and increases longevity, but perhaps also decreases thyroid function. 
+
+Something to ponder.

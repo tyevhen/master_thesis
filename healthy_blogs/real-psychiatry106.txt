@@ -1,0 +1,57 @@
+I have been watching the controversy about "fake news"with amusement.  The clamor is a direct product of the unexpected results in the Presidential election.  In search of somebody to blame, the media is currently pointing fingers at Google and Facebook as incentivizing a process where any group of people can write fake news stories, have them published and generate ad revenue from both of those services.  An expert in Big Data pointed out (1) that this is a problem with algorithms and suggested hiring human judges of fake news.  That will help until we hit the artificial intelligence singularity - a point at which humans will have access only to the news that our machine overlords want us to have.  But isn't the fake news about a lot more than just software?
+
+Looking at the literal definition. there are different types of fake news.  Satire is the best example.  It is a staple of late night television comedy and satirical publications.  Implicit in this comedy is the capacity of the viewer to recognize immediately that it is fake and "get" the associated irony.  For various sub-populations who have difficult with social cues that may not be possible.  There is what used to be called propaganda or fake news with an agenda to control access to what information people have access to or how they think about it.   The implicit aspects of current fake news is that it is there to intentionally deceive but also profit by the structure of social media sites.      
+
+Like most news cycles, this is another story that strikes me as absurd at several levels.  First off, how hard is it to look at your Facebook feed and realize that some of the sources being posted by people with too much time on their hands are the equivalent of an e-mail attachment from an unknown source?  The Wild West nature of the Internet prevents me from making up websites for fake news.  The first 5 that I made up apparently exist.  Suffice it to say that even a slight amount of Internet common sense should preclude a lot of these stories from consideration.
+
+Secondly, is the concept of fake news really news to anyone?  I can recall arguing with my late father back in the 1970s about a book that was basically a collection of conspiracy theories about how one party or the other lost due to groups of powerful Kingmakers who were manipulating the electorate (sound familiar?).  But nothing slows down the outrage crescendo like publishing detailed and tedious theories in a book.  Immediate viewing by thousands of the outraged and outrageous creates a much better mob atmosphere.  The theme of a clueless electorate being manipulated in one direction or the other is a historical theme in America and probably most legitimate elections in the world.  Don't like my candidate - you must be clueless.  My candidate loses - I am going to ignore confirmation bias (among others) and write obsessively about why I think that happened.  I won't let any facts get in my way.  That basic process occurs whether or not there in an Internet or a Facebook or a Google.  The indignant losing side will always try to tip the landscape to their advantage in the future.  It is how we ended up with left and right wing media outlets in the first place.  It is basically why the United States has no politically viable third parties.
+
+Thirdly, most of what passes for credible scientific news is in a way fake news.  Ioannidis has famously stated that most published research is false due to the inherent practical limitations of research scale and confirmation bias (3).  His observation matches my experience over the past thirty years and I have posted some famous examples on this blog.  A lot of this information is vetted more rigorously than anything that you will find in the popular press and of course the researchers are generally not conscious of the falseness of their research.  It turns out that is even true for the hallowed meta-analyses and what has become the cottage industry of statistics (4).  That same study estimates that only 3% of these studies are useful and there is a very large non-publication bias.
+
+Fourthly, a lot of psychiatric fake news involves government spin to make the government and policy makers look good.  It coincidentally maintains a business structure that adds no value but extracts a lot of revenue from the system for "managing" care.  I have many posts that illustrate this fact.  Most recently, the Surgeon General's report would have you believe that the sad state of addiction treatment in this country had something to do with the fact that medical providers were ill equipped to treat addicts and they were just shuffled off to other community agencies.  That is very positive spin considering long standing policies by governments and their proxies to not pay for addiction treatment or in some cases the physical trauma effects of acute alcohol or drug intoxication.  That has been 30 years of rationing policies that were supposed to be stopped by parity legislation.  But that did not happen.
+
+Fifthly, does it make sense to separate bullshit from lies in the fake news category?  Harry Frankfurt's essay on the matter ads some perspective.  Are the producers of what people consider to be fake news - liars or bullshit artists or both?  A relevant question from a technical perspective.  Is fake news just part of the abundant bullshit that Frankfurt suggests is "one of the most salient features of our culture."  Are the people who want to stomp out fake news just deniers of the level of bullshit that we each have to negotiate every day?  Frankfurt's observation, that I happen to totally agree with - is given below:
+
+"The realms of advertising and of public relations, and the nowadays closely related realm of politics are replete with instances of bullshit so unmitigated that they can serve among the most indisputable and classic paradigms of the concept." (p. 22)
+
+It may be that the indignant are just angry that somebody has found another way to make money off of bullshit that they did not think of or have access to.
+
+Sixthly, psychiatry gets more than its fair share of fake news and again - a lot of that has been posted here.  I can say without a doubt that one of the largest fake news stories of 2015 was all of the fake news about the DSM-5.  Apocalyptic visions of what would happen when that book was released.  The horror of grieving patients being treated with antidepressants like they have been for decades by their primary care doctors.  The horrors of "medicalization" and "diagnostic proliferation".  The horrors of clueless psychiatrists and family physicians as helpless as Manchurian candidates against the hegemony of the DSM-5.  The philosophical horror of a manual with an implicit moral agenda about how people should live.  And it is written by (gasp) psychiatrists.  We cannot allow that to happen!   And of course the vast profits to be made on the diagnostic manual.  What really happened is best captured by a brief conversation I had with another specialist just  yesterday.
+
+MD:  "Is there a reference that explains what happened to the personality disorders in DSM-5"
+Me:  "Yeah there is a reference or two.  The organization is different but there is still a categorical approach to the major ones.  You don't really read the DSM-5 do you?'
+MD:  "No - the codes are basically the same.."
+Me:   "More importantly when you type "depression" into your EHR don't you get about 240 diagnostic codes..."
+MD:  "At least - it depends what the default is set at."  
+Me:  "That's my point.  Any general psychiatric diagnostic category in an EHR generates more diagnoses than are included in the DSM, even though the recent edition had fewer codes than the last edition.  And the only thing that counts are the ICD codes that phrase is attached to."
+
+That is the reality of the fake DSM-5 news.  Just to be clear - no cataclysmic events. No moral collapse.  No willy nilly assigning diagnoses to people randomly on the street.  No primary care physicians changing what they do or even reading the new manual.  Pretty much the same unimpressive tome that should really be of interest only to psychiatrists and then briefly.  There are more exciting things to read about psychiatry.
+
+Fake psychiatric news is some of the most abundant fake news in medicine.  It is a prime example of the types of fake news that exists out there and what some of the motivations are.  The number one read post of all time on this blog focuses on a Washington Post article, basically correcting what was said about the DSM-5, conflict of interest, primary care, and psychiatry.  Should that level of correction render it into the fake news category?  The fake news in psychiatry is so pervasive there are entire web sites dedicated to it.  Some of these web sites have an air of legitimacy until you read what is actually being said.  Some even attract psychiatrists who are apparently confused about the content or tenor of the site and don't seem to understand rhetoric.
+
+Just a few things to consider about the current fake news category - especially as it applies to psychiatry.  Fake news is here to stay - it is not some new problem introduced by Google or Facebook.  It is all a part of how society works, with a person or group of people seeking advantages over others.  In the USA we like to fool ourselves into thinking that we live in a fair society where everyone is equal.  We like to think that conflict-of-interest can be eliminated or at least managed.
+
+That is just more fake news.
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1:  Cathy O'Neil.  Social Media Companies Like Facebook Need To Hire Human Editors.  NYTimes Nov. 22, 2016
+
+2:  New York Times Opinion Pages:  How To Stop The Spread of Fake News.  NYTimes Nov. 22. 2016.
+
+3:  Ioannidis JP. Why most published research findings are false. PLoS Med. 2005 Aug;2(8):e124. PubMed PMID: 16060722.
+
+4: Ioannidis JP. The Mass Production of Redundant, Misleading, and Conflicted Systematic Reviews and Meta-analyses. Milbank Q. 2016 Sep;94(3):485-514. doi: 10.1111/1468-0009.12210. PubMed PMID: 27620683.
+
+Ioannidis concludes that despite the massive production of meta-analyses only 3% are "decent and clinically useful."
+
+
+
+
+
+
+      

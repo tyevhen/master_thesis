@@ -1,0 +1,157 @@
+If you took Bacteriology 101, you were probably subjected to (maybe even tested on) the standard mythology about anaerobes lacking the enzyme catalase. The standard mythology goes like this: Almost all life forms (from bacteria to dandelions to humans) have a special enzyme called catalase that detoxifies hydrogen peroxide by breaking it down to water and molecular oxygen. The only exception: strict anaerobes (bacteria that cannot live in the presence of oxygen). They seem to lack catalase.
+
+I've written on this subject before, so I won't bore you with a proper debunking of all aspects of the catalase myth here. (For that, see this post.) Right now, I just want to emphasize one point, which is that, contrary to myth, quite a few strict anaerobes do have catalase. I've listed 87 examples by name below. (Scroll down.)
+
+I have to admit, even I was shocked to find there are 87 species of catalase-positive strict anaerobes among the eubacteria. It's about quadruple the number I would have expected.
+
+If you're curious how I came up with a list of 87 catalase-positive anaerobes, here's how. First, I assembled a sizable (N=1373) list of bacteria, unduplicated at the species level. (So in other words, E. coli is listed only once, Staphylococcus aureus is listed only once, etc. No species is listed twice.) I then used the free/online CoGeBlast tool to run two Blast searches: one designed to identify aerobes, and another to identify catalase-positive organisms. In the end, I had all 1,373 organisms tagged as to whether each was aerobic, anaerobic, catalase-positive, or catalase-negative.
+
+It's not as easy as you'd think to identify strict anaerobes. There is no single enzymatic marker that can be used to identify anaerobes reliably (across 1,373 species), as far as I know. I took the opposite approach, tagging as aerobic any organism that produces cytochrome c oxidase and/or NADH dehydrogenase. (These are enzymes involved in classic oxidative phosphorylation of the kind no strict anaerobe participates in.) In particular, I used the following set of amino acid sequences as markers of aerobic respiration (non-biogeeks, scroll down):
+
+>sp|Q6MIR4|NUOB_BDEBA NADH-quinone oxidoreductase subunit B OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) GN=nuoB PE=3 SV=1
+MHNEQVQGLVSHDGMTGTQAVDDMSRGFAFTSKLDAIVAWGRKNSLWPMPYGTACCGIEF MSVMGPKYDLARFGAEVARFSPRQADLLVVAGTITEKMAPVIVRIYQQMLEPKYVLSMGA CASSGGFYRAYHVLQGVDKVIPVDVYIPGCPPTPEAVMDGIMALQRMIATNQPRPWKDNW KSPYEQA
+>sp|P0ABJ3|CYOC_ECOLI Cytochrome o ubiquinol oxidase subunit 3 OS=Escherichia coli (strain K12) GN=cyoC PE=1 SV=1
+MATDTLTHATAHAHEHGHHDAGGTKIFGFWIYLMSDCILFSILFATYAVLVNGTAGGPTG KDIFELPFVLVETFLLLFSSITYGMAAIAMYKNNKSQVISWLALTWLFGAGFIGMEIYEF HHLIVNGMGPDRSGFLSAFFALVGTHGLHVTSGLIWMAVLMVQIARRGLTSTNRTRIMCL SLFWHFLDVVWICVFTVVYLMGAM 
+>sp|Q9I425|CYOC_PSEAE Cytochrome o ubiquinol oxidase subunit 3 OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=cyoC PE=3 SV=1
+MSTAVLNKHLADAHEVGHDHDHAHDSGGNTVFGFWLYLMTDCVLFASVFATYAVLVHHTA GGPSGKDIFELPYVLVETAILLVSSCTYGLAMLSAHKGAKGQAIAWLGVTFLLGAAFIGM EINEFHHLIAEGFGPSRSAFLSSFFTLVGMHGLHVSAGLLWMLVLMAQIWTRGLTAQNNT RMMCLSLFWHFLDIVWICVFTVVYLMGAL
+>tr|Q7VDD9|Q7VDD9_PROMA Cytochrome c oxidase subunit III OS=Prochlorococcus marinus (strain SARG / CCMP1375 / SS120) GN=cyoC PE=3 SV=1
+MTTISSVDKKAEELTSQTEEHPDLRLFGLVSFLVADGMTFAGFFAAYLTFKAVNPLLPDA IYELELPLPTLNTILLLVSSATFHRAGKALEAKESEKCQRWLLITAGLGIAFLVSQMFEY FTLPFGLTDNLYASTFYALTGFHGLHVTLGAIMILIVWWQARSPGGRITTENKFPLEAAE LYWHFVDGIWVILFIILYLL
+>sp|Q8KS19|CCOP2_PSEST Cbb3-type cytochrome c oxidase subunit CcoP2 OS=Pseudomonas stutzeri GN=ccoP2 PE=1 SV=1
+MTSFWSWYVTLLSLGTIAALVWLLLATRKGQRPDSTEETVGHSYDGIEEYDNPLPRWWFM LFVGTVIFALGYLVLYPGLGNWKGILPGYEGGWTQVKEWQREMDKANEQYGPLYAKYAAM PVEEVAKDPQALKMGGRLFASNCSVCHGSDAKGAYGFPNLTDDDWLWGGEPETIKTTILH GRQAVMPGWKDVIGEEGIRNVAGYVRSLSGRDTPEGISVDIEQGQKIFAANCVVCHGPEA KGVTAMGAPNLTDNVWLYGSSFAQIQQTLRYGRNGRMPAQEAILGNDKVHLLAAYVYSLS QQPEQ
+>sp|P57542|CYOC_BUCAI Cytochrome o ubiquinol oxidase subunit 3 OS=Buchnera aphidicola subsp. Acyrthosiphon pisum (strain APS) GN=cyoC PE=3 SV=1
+MIENKFNNTILNSNSSTHDKISETKKLFGLWIYLMSDCIMFAVLFAVYAIVSSNISINLI SNKIFNLSSILLETFLLLLSSLSCGFVVIAMNQKRIKMIYSFLTITFIFGLIFLLMEVHE FYELIIENFGPDKNAFFSIFFTLVATHGVHIFFGLILILSILYQIKKLGLTNSIRTRILC FSVFWHFLDIIWICVFTFVYLNGAI
+>sp|O24958|CCOP_HELPY Cbb3-type cytochrome c oxidase subunit CcoP OS=Helicobacter pylori (strain ATCC 700392 / 26695) GN=ccoP PE=3 SV=1
+MDFLNDHINVFGLIAALVILVLTIYESSSLIKEMRDSKSQGELVENGHLIDGIGEFANNV PVGWIASFMCTIVWAFWYFFFGYPLNSFSQIGQYNEEVKAHNQKFEAKWKHLGQKELVDM GQGIFLVHCSQCHGITAEGLHGSAQNLVRWGKEEGIMDTIKHGSKGMDYLAGEMPAMELD EKDAKAIASYVMAELSSVKKTKNPQLIDKGKELFESMGCTGCHGNDGKGLQENQVFAADL TAYGTENFLRNILTHGKKGNIGHMPSFKYKNFSDLQVKALLNLSNR
+>sp|P0ABI8|CYOB_ECOLI Ubiquinol oxidase subunit 1 OS=Escherichia coli (strain K12) GN=cyoB PE=1 SV=1
+MFGKLSLDAVPFHEPIVMVTIAGIILGGLALVGLITYFGKWTYLWKEWLTSVDHKRLGIM YIIVAIVMLLRGFADAIMMRSQQALASAGEAGFLPPHHYDQIFTAHGVIMIFFVAMPFVI GLMNLVVPLQIGARDVAFPFLNNLSFWFTVVGVILVNVSLGVGEFAQTGWLAYPPLSGIE YSPGVGVDYWIWSLQLSGIGTTLTGINFFVTILKMRAPGMTMFKMPVFTWASLCANVLII ASFPILTVTVALLTLDRYLGTHFFTNDMGGNMMMYINLIWAWGHPEVYILILPVFGVFSE IAATFSRKRLFGYTSLVWATVCITVLSFIVWLHHFFTMGAGANVNAFFGITTMIIAIPTG VKIFNWLFTMYQGRIVFHSAMLWTIGFIVTFSVGGMTGVLLAVPGADFVLHNSLFLIAHF HNVIIGGVVFGCFAGMTYWWPKAFGFKLNETWGKRAFWFWIIGFFVAFMPLYALGFMGMT RRLSQQIDPQFHTMLMIAASGAVLIALGILCLVIQMYVSIRDRDQNRDLTGDPWGGRTLE WATSSPPPFYNFAVVPHVHERDAFWEMKEKGEAYKKPDHYEEIHMPKNSGAGIVIAAFST IFGFAMIWHIWWLAIVGFAGMIITWIVKSFDEDVDYYVPVAEIEKLENQHFDEITKAGLK NGN
+>sp|P0ABK2|CYDB_ECOLI Cytochrome d ubiquinol oxidase subunit 2 OS=Escherichia coli (strain K12) GN=cydB PE=1 SV=1
+MIDYEVLRFIWWLLVGVLLIGFAVTDGFDMGVGMLTRFLGRNDTERRIMINSIAPHWDGN QVWLITAGGALFAAWPMVYAAAFSGFYVAMILVLASLFFRPVGFDYRSKIEETRWRNMWD WGIFIGSFVPPLVIGVAFGNLLQGVPFNVDEYLRLYYTGNFFQLLNPFGLLAGVVSVGMI ITQGATYLQMRTVGELHLRTRATAQVAALVTLVCFALAGVWVMYGIDGYVVKSTMDHYAA SNPLNKEVVREAGAWLVNFNNTPILWAIPALGVVLPLLTILTARMDKAAWAFVFSSLTLA CIILTAGIAMFPFVMPSSTMMNASLTMWDATSSQLTLNVMTWVAVVLVPIILLYTAWCYW KMFGRITKEDIERNTHSLY
+>sp|Q6MIR4|NUOB_BDEBA NADH-quinone oxidoreductase subunit B OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) GN=nuoB PE=3 SV=1
+MHNEQVQGLVSHDGMTGTQAVDDMSRGFAFTSKLDAIVAWGRKNSLWPMPYGTACCGIEF MSVMGPKYDLARFGAEVARFSPRQADLLVVAGTITEKMAPVIVRIYQQMLEPKYVLSMGA CASSGGFYRAYHVLQGVDKVIPVDVYIPGCPPTPEAVMDGIMALQRMIATNQPRPWKDNW KSPYEQA
+>sp|Q89AU5|NUOB_BUCBP NADH-quinone oxidoreductase subunit B OS=Buchnera aphidicola subsp. Baizongia pistaciae (strain Bp) GN=nuoB PE=3 SV=1
+MKYTLTRVNISDDDQNYPREKKIQVSDPTKKYIQKNVFMGTLSKVLHNLVNWGRKNSLWP YNFGLSCCYVEMVTSFTSVHDISRFGSEVLRASPRQADFMVIAGTPFIKMVPIIQRLYDQ MLEPKWVISMGSCANSGGMYDIYSVVQGVDKFLPVDVYIPGCPPRPEAYIHGLMLLQKSI SKERRPLSWIIGEQGIYKANFNSEKKNLRKMRNLVKYSQDKN
+>sp|Q82DY0|NUOB1_STRAW NADH-quinone oxidoreductase subunit B 1 OS=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NCIMB 12804 / NRRL 8165 / MA-4680) GN=nuoB1 PE=3 SV=1
+MGLEEKLPSGFLLTTVEQAAGWVRKASVFPATFGLACCAIEMMTTGAGRYDLARFGMEVF RGSPRQADLMIVAGRVSQKMAPVLRQVYDQMPNPKWVISMGVCASSGGMFNNYAIVQGVD HIVPVDIYLPGCPPRPEMLIDAILKLHQKIQSSKLGVNAEEAAREAEEAALKALPTIEMK GLLR
+
+
+Astonishingly, certain bacteria that "everyone knows" are anaerobic turned up as aerobic when checked with the above Blast-query. (For example: Bacteroides fragilis, Desulfovibrio gigas, Moorella thermoacetica, and others.) It seems quite a number of so-called anaerobes have non-copper (heme only) cytochrome oxidases. (See this paper for further discussion.)
+
+In any event, my Blast search turned up 1,089 positives (putative aerobes, some facultatively anaerobic) out of 1,373 bacterial species. I tagged the non-positives as anaerobes.
+
+Of the 284 putative anaerobes, 87 scored positive in a Blast protein search (t-blast-n) for catalase. I used the following catalase sequences in my query: 
+
+
+>sp|B0C4G1|KATG_ACAM1 Catalase-peroxidase OS=Acaryochloris marina (strain MBIC 11017) GN=katG PE=3 SV=1
+MSSASKCPFSGGALKFTAGSGTANRDWWPNQLNLQILRQHSPKSNPMDKAFNYAEAFKSL DLADVKQDIFDLMKSSQDWWPADYGHYGPLFIRMAWHSAGTYRIGDGRGGAGTGNQRFAP INSWPDNANLDKARMLLWPIKQKYGAKISWADLMILAGNCALESMGFKTFGFAGGREDIW EPEEDIYWGAETEWLGDQRYTGDRDLEATLGAVQMGLIYVNPEGPNGHPDPVASGRDIRE TFGRMAMNDEETVALTAGGHTFGKCHGAGDDAHVGPEPEGARIEDQCLGWKSSFGTGKGV HAITSGIEGAWTTNPTQWDNNYFENLFGYEWELTKSPAGANQWVPQGGAGANTVPDAHDP SRRHAPIMTTADMAMRMDPIYSPISRRFLDNPDQFADAFARAWFKLTHRDMGPRSRYLGP EVPEEELIWQDPVPAVNHELINEQDIATLKSQILATNLTVSQLVSTAWASAVTYRNSDKR GGANGARIRLAPQRDWEVNQPAQLATVLQTLEAVQTTFNHSQIGGKRVSLADLIVLGGCA GVEQAAKNAGWYDVKVPFKPGRTDATQAQTDVTSFAVLEPRADGFRNYLKGHYPVSAEEL LVDKAQLLTLTAPEMTVLVGGLRVLNANVGQAQHGVFTHRPESLTNDFFLNLLDMSVTWA ATSEAEEVFEGRDRKTGALKWTGTRVDLIFGSNSQLRALAEVYGCEDSQQRFVQDFVAAW DKVMNLDRFDLA
+>tr|D9RGS2|D9RGS2_STAAJ Catalase OS=Staphylococcus aureus (strain JKD6159) GN=katE PE=3 SV=1
+MSQQDKKLTGVFGHPVSDRENSMTAGPRGPLLMQDIYFLEQMSQFDREVIPERRMHAKGS GAFGTFTVTKDITKYTNAKIFSEIGKQTEMFARFSTVAGERGAADAERDIRGFALKFYTE EGNWDLVGNNTPVFFFRDPKLFVSLNRAVKRDPRTNMRDAQNNWDFWTGLPEALHQVTIL MSDRGIPKDLRHMHGFGSHTYSMYNDSGERVWVKFHFRTQQGIENLTDEEAAEIIASDRD SSQRDLFEAIEKGDYPKWTMYIQVMTEEQAKSHKDNPFDLTKVWYHDEYPLIEVGEFELN RNPDNYFMDVEQAAFAPTNIIPGLDFSPDKMLQGRLFSYGDAQRYRLGVNHWQIPVNQPK GVGIENICPFSRDGQMRVVDNNQGGGTHYYPNNHGKFDSQPEYKKPPFPTDGYGYEYNQR QDDDNYFEQPGKLFRLQSEDAKERIFTNTANAMEGVTDDVKRRHIRHCYKADPEYGKGVA KALGIDINSIDLETENDETYENFEK
+>sp|P60355|MCAT_LACPN Manganese catalase OS=Lactobacillus plantarum PE=1 SV=1
+MFKHTRKLQYNAKPDRSDPIMARRLQESLGGQWGETTGMMSYLSQGWASTGAEKYKDLLL DTGTEEMAHVEMISTMIGYLLEDAPFGPEDLKRDPSLATTMAGMDPEHSLVHGLNASLNN PNGAAWNAGYVTSSGNLVADMRFNVVRESEARLQVSRLYSMTEDEGVRDMLKFLLARETQ HQLQFMKAQEELEEKYGIIVPGDMKEIEHSEFSHVLMNFSDGDGSKAFEGQVAKDGEKFT YQENPEAMGGIPHIKPGDPRLHNHQG
+>sp|P42321|CATA_PROMI Catalase OS=Proteus mirabilis GN=katA PE=1 SV=1
+MEKKKLTTAAGAPVVDNNNVITAGPRGPMLLQDVWFLEKLAHFDREVIPERRMHAKGSGA FGTFTVTHDITKYTRAKIFSEVGKKTEMFARFSTVAGERGAADAERDIRGFALKFYTEEG NWDMVGNNTPVFYLRDPLKFPDLNHIVKRDPRTNMRNMAYKWDFFSHLPESLHQLTIDMS DRGLPLSYRFVHGFGSHTYSFINKDNERFWVKFHFRCQQGIKNLMDDEAEALVGKDRESS QRDLFEAIERGDYPRWKLQIQIMPEKEASTVPYNPFDLTKVWPHADYPLMDVGYFELNRN PDNYFSDVEQAAFSPANIVPGISFSPDKMLQGRLFSYGDAHRYRLGVNHHQIPVNAPKCP FHNYHRDGAMRVDGNSGNGITYEPNSGGVFQEQPDFKEPPLSIEGAADHWNHREDEDYFS QPRALYELLSDDEHQRMFARIAGELSQASKETQQRQIDLFTKVHPEYGAGVEKAIKVLEG KDAK
+>sp|Q9Z598|CATA_STRCO Catalase OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) GN=katA PE=3 SV=1
+MSQRVLTTESGAPVADNQNSASAGIGGPLLIQDQHLIEKLARFNRERIPERVVHARGSGA YGHFEVTDDVSGFTHADFLNTVGKRTEVFLRFSTVADSLGGADAVRDPRGFALKFYTEEG NYDLVGNNTPVFFIKDPIKFPDFIHSQKRDPFTGRQEPDNVFDFWAHSPEATHQITWLMG DRGIPASYRHMDGFGSHTYQWTNARGESFFVKYHFKTDQGIRCLTADEAAKLAGEDPTSH QTDLVQAIERGVYPSWTLHVQLMPVAEAANYRFNPFDVTKVWPHADYPLKRVGRLVLDRN PDNVFAEVEQAAFSPNNFVPGIGPSPDKMLQGRLFAYADAHRYRLGVNHTQLAVNAPKAV PGGAANYGRDGLMAANPQGRYAKNYEPNSYDGPAETGTPLAAPLAVSGHTGTHEAPLHTK DDHFVQAGALYRLMSEDEKQRLVANLAGGLSQVSRNDVVEKNLAHFHAADPEYGKRVEEA VRALRED
+>Haloarcula marismortui strain ATCC 43049(v1, unmasked), Name: YP_136584.1, katG1, rrnAC2018, Type: CDS, Feature Location: (Chr: I, complement(1808213..1810405)) Genomic Location: 1808213-1810405
+MLKTVLMPSPSKCSLMAKRDQDWSPNQLRLDILDQNARDADPRGTGFDYAEEFQELDLDAVKADLEELMTSSQDWWPADYGHYGPLFIRMAWHSAGTYRTTDGRGGASGGRQRFAPLNSWPDNANLDKARRLLWPIKKKYGRKLSWADLIVLAGNHAIESMGLKTFGWAGGREDAFEPDEAVDWGPEDEMEAHQSERRTDDGELKEPLGAAVMGLIYVDPEGPNGNPDPLASAENIRESFGRMAMNDEETAALIAGGHTFGKVHGADDPEENLGDVPEDAPIEQMGLGWENDYGSGKAGDTITSGIEGPWTQAPIEWDNGYIDNLLDYEWEPEKGPGGAWQWTPTDEALANTVPDAHDPSEKQTPMMLTTDIALKRDPDYREVMERFQENPMEFGINFARAWYKLIHRDMGPPERFLGPDAPDEEMIWQDPVPDVDHDLIGDEEVAELKTDILETDLTVSQLVKTAWASASTYRDSDKRGGANGARIRLEPQKNWEVNEPAQLETVLATLEEIQAEFNSARTDDTRVSLADLIVLGGNAAVEQAAADAGYDVTVPFEPGRTDATPEQTDVDSFEALKPRADGFRNYARDDVDVPAEELLVDRADLLDLTPEEMTVLVGGLRSLGATYQDSDLGVFTDEPGTLTNDFFEVVLGMDTEWEPVSESKDVFEGYDRETGEQTWAASRVDLIFGSHSRLRAIAEVYGADGAEAELVDDFVDAWHKVMRLDRFDLE
+>sp|B2TJE9|KATG_CLOBB Catalase-peroxidase OS=Clostridium botulinum (strain Eklund 17B / Type B) GN=katG PE=3 SV=1
+MTENKCPVTGKMGKATAGSGTTNKDWWPNQLNLNILHQNSQLSNPMSKDFNYAEEFKKLD FQALKVDLYMLMTDSQIWWPADYGNYGPLFIRMAWHSAGTYRVGDGRGGGSLGLQRFAPL NSWPDNINLDKARRLLWPIKKKYGNKISWADLLILTGNCALESMGLKTLGFGGGRVDVWE PQEDIYWGSEKEWLGDEREKGDKELENPLAAVQMGLIYVNPEGPNGNPDPLGSAHDVRET FARMAMNDEETVALIAGGHTFGKCHGAASPSYVGPAPEAAPIEEQGLGWKNTYGSGNGDD TIGSGLEGAWKANPTKWTMGYLKTLFKYDWELVKSPAGAYQWLAKNVDEEDMVIDAEDST KKHRPMMTTADLGLRYDPIYEPIARNYLKNPEKFAHDFASAWFKLTHRDMGPISRYLGPE VPKESFIWQDPIPLVKHKLITKKDITHIKKKILDSGLSISDLVATAWASASTFRGSDKRG GANGGRIRLEPQKNWEVNEPKKLNNVLNTLKQIKENFNSSHSKDKKVSLADIIILGGCVG IEQAAKRAGYNINVPFIPGRTDAIQEQTDVKSFAVLEPKEDGFRNYLKTKYVVKPEDMLI DRAQLLTLTAPEMTVLIGGMRVLNCNYNKSKDGVFTNRPECLTNDFFVNLLDMNTVWKPK SEDKDRFEGFDRETGELKWTATRVDLIFGSNSQLRAIAEVYACDDNKEKFIQDFIFAWNK IMNADRFEIK
+>sp|Q59635|CATB_PSEAE Catalase OS=Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228) GN=katB PE=3 SV=1
+MNPSLNAFRPGRLLVAASLTASLLSLSVQAATLTRDNGAPVGDNQNSQTAGPNGSVLLQD VQLLQKLQRFDRERIPERVVHARGTGAHGEFVASADISDLSMAKVFRKGEKTPVFVRFSA VVHGNHSPETLRDPRGFATKFYTADGNWDLVGNNFPTFFIRDAIKFPDMVHAFKPDPRSN LDDDSRRFDFFSHVPEATRTLTLLYSNEGTPASYREMDGNSVHAYKLVNARGEVHYVKFH WKSLQGQKNLDPKQVAEVQGRDYSHMTNDLVSAIRKGDFPKWDLYIQVLKPEDLAKFDFD PLDATKIWPGIPERKIGQMVLNRNVDNFFQETEQVAMAPSNLVPGIEPSEDRLLQGRLFA YADTQMYRVGANGLGLPVNRPRSEVNTVNQDGALNAGHSTSGVNYQPSRLDPREEQASAR YVRTPLSGTTQQAKIQREQNFKQTGELFRSYGKKDQADLIASLGGALAITDDESKYIMLS YFYKADSDYGTGLAKVAGADLQRVRQLAAKLQD
+
+The first of these is a cyanobacterial katG (large subunit) type of catalase, perhaps representative of primitive protobacterial catalase. The second sequence in the above list is classic Staphylococcus catalase (katE). The third is a manganese-containing catalase from Lactobacillus. (This brought the most hits, by the way.) The others are, in turn, katA catalase from Proteus and Streptomyces, two organisms that are far apart in genomic G+C content (and rather distant phylogenetically); an Archaeal catalase (even though none of the 1,373 species in my organism list was Archaeal in origin; but you never know whether a given bacterium may have obtained its catalase through horizontal gene transfer); then a known-valid anaerobic catalase from Clostridium botulinum, and finally a Pseudomonas katB catalase. The idea was to cover as much ground, phylogenetically and enzymatically, as possible, with big and small-subunit catalases, of the heme as well as the manganese variety, from aerobic and anaerobic bacteria of high and low genomic G+C content, as well as an archaeal catalase for good measure.
+
+Here, then, finally, is the list of 87 catalase-positive strict anaerobes:
+
+Acetohalobium arabaticum strain DSM 5501
+Alkaliphilus metalliredigens strain QYMF
+Alkaliphilus oremlandii strain OhILAs
+Anaerococcus prevotii strain ACS-065-V-Col13
+Anaerococcus vaginalis strain ATCC 51170
+Anaerofustis stercorihominis strain DSM 17244
+Anaerostipes caccae strain DSM 14662
+Anaerostipes sp. strain 3_2_56FAA
+Anaerotruncus colihominis strain DSM 17241
+Bacteroides capillosus strain ATCC 29799
+Bacteroides pectinophilus strain ATCC 43243
+Brachyspira hyodysenteriae strain ATCC 49526; WA1
+Brachyspira intermedia strain PWS/A
+Brachyspira pilosicoli strain 95/1000
+Candidatus Arthromitus sp. SFB-mouse-Japan
+Carnobacterium sp. strain 17-4
+Clostridium acetobutylicum strain ATCC 824
+Clostridium asparagiforme strain DSM 15981
+Clostridium bartlettii strain DSM 16795
+Clostridium bolteae strain ATCC BAA-613
+Clostridium botulinum A2 strain Kyoto
+Clostridium butyricum strain 5521
+Clostridium cellulovorans strain 743B
+Clostridium cf. saccharolyticum strain K10
+Clostridium citroniae strain WAL-17108
+Clostridium clostridioforme strain 2_1_49FAA
+Clostridium difficile QCD-37x79
+Clostridium hathewayi strain WAL-18680
+Clostridium hylemonae strain DSM 15053
+Clostridium kluyveri strain DSM 555
+Clostridium lentocellum strain DSM 5427
+Clostridium leptum strain DSM 753
+Clostridium ljungdahlii strain ATCC 49587
+Clostridium novyi strain NT
+Clostridium ramosum strain DSM 1402
+Clostridium saccharolyticum strain WM1
+Clostridium scindens strain ATCC 35704
+Clostridium spiroforme strain DSM 1552
+Clostridium sporogenes strain ATCC 15579
+Clostridium tetani strain Massachusetts substrain E88
+Coprobacillus sp. strain 3_3_56FAA
+Coprococcus comes strain ATCC 27758
+Coprococcus sp. strain ART55/1
+Dethiobacter alkaliphilus strain AHT 1
+Dorea formicigenerans strain 4_6_53AFAA
+Dorea longicatena strain DSM 13814
+Erysipelotrichaceae bacterium strain 21_3
+Eubacterium dolichum strain DSM 3991
+Eubacterium eligens strain ATCC 27750
+Eubacterium siraeum strain 70/3
+Eubacterium ventriosum strain ATCC 27560
+Flavonifractor plautii strain ATCC 29863
+Halothermothrix orenii strain DSM 9562; H 168
+Holdemania filiformis strain DSM 12042
+Lachnospiraceae bacterium strain 1_1_57FAA
+Lactobacillus curvatus strain CRL 705
+Lactobacillus sakei subsp. sakei strain 23K
+Mahella australiensis strain 50-1 BON
+Natranaerobius thermophilus strain JW/NM-WN-LF
+Oscillibacter valericigenes strain Sjm18-20
+Parabacteroides distasonis strain ATCC 8503
+Parabacteroides johnsonii strain DSM 18315
+Parabacteroides sp. strain D13
+Pediococcus acidilactici strain DSM 20284
+Pediococcus pentosaceus strain ATCC 25745
+Pelotomaculum thermopropionicum strain SI
+Pseudoflavonifractor capillosus strain ATCC 29799
+Pseudoramibacter alactolyticus strain ATCC 23263
+Roseburia hominis strain A2-183
+Roseburia intestinalis strain M50/1
+Ruminococcaceae bacterium strain D16
+Ruminococcus bromii strain L2-63
+Ruminococcus obeum strain A2-162
+Ruminococcus sp. strain 18P13
+Ruminococcus torques strain L2-14
+Sphaerochaeta pleomorpha strain Grapes
+Spirochaeta coccoides strain DSM 17374
+Spirochaeta sp. strain Buddy
+Subdoligranulum sp. strain 4_3_54A2FAA
+Tepidanaerobacter sp. strain Re1
+Thermoanaerobacter brockii subsp. finnii strain Ako-1
+Thermoanaerobacter ethanolicus strain CCSD1
+Thermoanaerobacter pseudethanolicus strain 39E; ATCC 33223
+Thermoanaerobacter sp. strain X514
+Thermosediminibacter oceani strain DSM 16646
+Treponema brennaborense strain DSM 12168
+Turicibacter sanguinis strain PC909
+
+Note that these are all bacteria; no archaeons are included. (And yes, there are catalase-positive anaerobes among the Archaea.) The reason you don't see Bacteroides fragilis (which is catalase-positive) on the list is that, as explained before, B. fragilis ended up being classified an aerobe by my cytochrome-oxidase-based initial search. Even though "everybody knows" B. fragilis is anaerobic.
+
+Incidentally, Blast searches were done with an E-value cutoff of 1e-5, to reduce the chance of false positives. (E-value is a measure of how likely it is that a given Blast match could have occurred due to chance. A threshold value of 1e-5 means the only matches that will be accepted are those that have less than a 1-in-100,000 chance of occurring by chance.)
+
+If you learn of any other catalase-positive anaerobes that should be on this list, do be sure to let me know!

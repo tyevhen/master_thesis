@@ -1,0 +1,20 @@
+I've always hated Java I/O with all its convoluted, Rube-Goldbergish special classes with special knowledge of special systems, and the legacy readLine( ) type of garbage that brings back so many bad memories of the Carter years.
+
+With JSR 203 (to be implemented in Java SE 7), we get a new set of future legacy methods. This is Sun's third major attempt in 13 years to get I/O right. And from what I've seen, it doesn't look good. (Examples here.) My main question at this point is where they got that much lipstick.
+
+The main innovation is the new Path object, which seems to be a very slightly more abstract version of File. (This is progress?) You would think any new I/O library these days would make heavy use of URIs, URLs, and Schemes (file:, http:, etc.) and lessons learned in the realization of concepts like REST, AJAX, and dependency injection. No such luck. Instead we have exotic new calls like FileSystem.getRootDirectories()and DirectoryEntry.newSeekableByteChannel(). It's like we've learned nothing at all in the last 20 years.
+
+When I want to do I/O, I want to be able to do something like
+
+dataSrc = new DataGetter( );
+dataSrc.setPref( DataGetter.EIGHTBITBYTES );
+dataSrc.setPref( DataGetter.SLURPALL );
+data = dataSrc.getData( uri );
+
+and be done with it. (And by the way, let me pass a string for the URI, if I want to. Don't make me create a special object.)
+
+I don't want to have to know about newlines, buffering, or file-system obscurata, unless those things are terribly important to me, in which case I want to be able to inject dependencies at will. But don't make me instantiate totally different object types for buffered vs. non-buffered streams, and all the rest. Don't give me a million flavors of special objects. Just let me pass hints into the DataGetter, and let the DataGetter magically grok what I'm trying to do (by making educated guesses, if need be). If I want a special kind of buffering, filtering, encoding, error-handling, etc., let me craft the right cruftball of flags and constants, and I'll pass them to the DataGetter. Otherwise, there should be reasonable defaults for every situation.
+
+I would like a file I/O library that is abstract enough to let me read one bit at a time, if I want; or 6 bits at a time; or 1024 bits, etc. To me, bits are bits. I should be able to hand parse them if I want, in the exact quantities that I want. If I'm doing some special type of data compression and I need to write 13 bits to output, then 3 bits, then 12, then 10, and so on, I should be able to do that with ease and elegance. I shouldn't have to stand on my head or instantiate exotic objects for reading, buffering, filtering, or anything else.
+
+I could write a long series of articles on what's wrong with Java I/O. But I don't look forward to revising that article every few years as each "new" I/O package comes out. Like GUI libraries and 2D graphics, this is something Sun's probably never going to get right. It's an area that begs for intervention by fresh talent, young programmers who are self-taught (not infected by orthodoxies acquired in college courses) and have no understanding at all of legacy file systems, kids whose idea of I/O is HTTP GET. Until people with "beginner's mind" get involved, there's no hope of making Java I/O right.

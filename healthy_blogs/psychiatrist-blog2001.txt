@@ -1,0 +1,33 @@
+Roy sent me a backchannel link about a clinical dilemma involving an inmate. At the time I dashed off a quick email response and didn't think too much about it. As coincidence would have it, I got a call this morning asking for advice about an almost identical situation. Fate has destined me to write about the topic of hot-potato patients, patients whose disposition is fraught with controversy.
+
+The basic facts of the clinical scenario, for those of you who don't feel like following the link, are that a psychiatric patient gets charged with assault for attacking a staff member. He gets sent to jail, where he throws urine on a nurse bringing him his medication. His public defender goes to court and tries to get the man transferred back to the same mental health center where the assault took place, alleging that in jail the defendant is not getting the psychiatric treatment he needs. The judge agreed that the inmate "needed to be in a mental facility immediately if not sooner" and mourned the fact that he didn't have the authority to arrange this.
+
+The problem with situations like this is that discussions usually deteriorate into arguments over diagnosis (eg. "He 'just' has a personality disorder.") or social policy (eg. "People with mental illnesses shouldn't be locked up."). While these issues are important---particularly considering the information presented by Roy about the lack of psychiatric beds---they are irrelevant to solving the current dilemma. The focus needs to stay on the clinical needs of the prisoner-patient.
+
+Security is a component of any treatment plan, a fact that free society care-providers sometimes forget. Even outpatient clinics need to have a security system and a plan for implementing it. Inpatient units must have security procedures. Each individual patient may require security either for their protection or for the safety of those around them. The security needs of this patient-prisoner need to be addressed along with his therapeutic needs.
+
+So let's see what this patient needs:
+
+Obviously he needs a locked facility from which he cannot escape or elope. Correctional facilities can provide this, but an inpatient psychiatric unit may not be able to. Even locked units don't always have the 'sally-port' component to make them truly escape-proof.
+
+The second need is for an isolation room within the facility. A patient who assaults others must be kept secluded, either in a segregation cell or in an inpatient seclusion room. Both the correctional and the mental health system can provide this, but inpatient units generally only have one or two of them while correctional facilities have more.
+
+One-to-one observation may or may not be required, depending on the clinician's assessment. Mental health facilites are more likely to be able to provide this than correctional facilities, although there will be a lot of variability depending upon the size of the correctional facility. Smaller facilites may only provide fifteen minute checks because they have too few staff members available to do continuous observation.
+
+Emergency medication can be provided either in jail or in the hospital, but only on a time-limited basis if the patient is imminently dangerous. If longer-term involuntary treatment is needed, the legal procedures for doing this usually must take place in a hospital. If the correctional facility doesn't have a psych infirmary, the staff may not have enough experience doing involuntary medication to handle this situation.
+
+Finally, when the prisoner-patient is ready to start coming out of seclusion, there must be enough security attendants to supervise him and the unit should also have some type of walking restraints available. Non-forensic hospitals usually don't have these kind of resources. Correctional facilities can do this easily with handcuffs, waist-chains and leg irons. Face shields or spit-guards are handy too.
+
+So let's see how the factors add up:
+
+Characteristic Jail Both Hospital
+Escape-resistant X    
+Isolation room   X  
+Observation   X  
+Walking restraints X    
+Security attendants X    
+Emergency medication     X
+Involuntary medication     X
+
+
+It's a close call. The thing to keep in mind is that the needs of the patient and the resources of each facility are going to change over time. The patient (hopefully) will get better and need less. The facility may have an unexpected event (eg. several acute patients at once) and have fewer resources available. This table doesn't give the absolute answer to all disposition questions but hopefully it will provide some guidance for the discussion.

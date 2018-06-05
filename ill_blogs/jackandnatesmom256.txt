@@ -1,0 +1,48 @@
+Trying to reorganize a bit here.  I am still working on a realistic supplement schedule and decided that since I use my iphone for most other appts/responsibilities (for God's sake I have an alarm on it that goes off at 3:45 every afternoon so I don't forget to go get Jack off of the bus- I mean what if I'm on a conference call?  It could happen), I might as well see if there was anything relevant for me in the app store.  I didn't find a schedule persay, but I did decide to upgrade my "Autism Lite" to "Autism Pro" for $4.99.  This app enables you to track your child's behaviors daily, including things like sleep, stimming, aggression, stress, bowel movements...when I upgraded I could create any category I wanted and I could track 2 children.  So I added a category for each supplement for each child, made them due daily, and then put in the behaviors that are relevant for each child.  Heck they even have the weather on there as an option in case you feel that is affecting your child's behavior.  This could come in so handy next time we go see the md- how much more accurate can you get right?
+
+Sometimes if I have a little box to check I feel more responsible to get that supplement into my kid.  Because if I am documenting his behavior, it is not good, and I didn't give all of his supplements to him, whose fault is that?  I am Catholic- I thrive on guilt!
+
+For those of you who are interested, here is some more information below.  Wish me luck.  Now to draw up the schedule itself and determine where I am going to hide this stuff....
+
+Autism Tracker Pro
+Autism Tracker can be life changing for families with an autistic child.  Here are some examples of what to track and analyze: Sleep, Stress, Weather, Happiness, Activity level, Behavior, …
+
+
+Explore Autism. Track what matters to your child and your family. Use the visual calendar and multi-item graphs to view an discuss patterns. Share individual events or entire screens with your team using email or protected Twitter groups. Collaborate with the Track & Share team to keep this app the best of its kind. Contact us.
+
+Navigate through Screens
+Swipe across the screen title. This will bring you to the next screen: Mood - Behavior - Food - Health - Report. Alternatively tap the Screens button and tap on the Screen name to jump there.
+
+Link to iPad screenshot: iPad Track screen
+
+Make an entry
+Several ways to make an entry. Use the way that works best for you: Tap the item on the Track screen. Choose the value. Save. Or use the calendar, double tap a date or tap the blue button “Make new entry”. Special feature: instant entry for Yes/No items: on iPhone tap the item to cycle through Yes, No, Check box. On iPad double tap the item. Or double tap a field in the calendar for instant Yes / No entries.
+
+
+Set up a new item
+Tap the “Edit” button on a Track screen. Tap the blue button “Add Item” button. Select the type of item. You can choose from
+Items that let you track if something happened or was done (Yes / No)
+Visual Scales (Pain Faces, Weather, Severity, etc.) 
+Number items to track things like time, weight, $, cups, pills, decimals, or count things (formats: 1 12 123 1234 1.1 1.12 12.1 123.1 0:00)
+Enter a name for your item. 
+Select a color for the item’s graphs.
+Add to badge counter to be reminded to enter data for the item. A red circle will appear on the Autism Tracker app icon showing how many items still need an entry for the day.
+
+Show on Screens. Select on which Track screens to display the item. The same item can be displayed on several screens. For example, the Stress item is shown on the Food, Mood, and Sleep screens. You only need to enter data once for an item and the information is updated on all relevant screens.
+Set up a new item - special settings
+Enter a Unit Label (for Numeric items). Example: cups, $, lbs, kg, hours
+
+Select Entry Icon (for Numeric items). You can select an icon from built-in icons, chose and scale an image from your image folder, or take and use a photo.
+Edit icons and labels (for Visual Scales). Tap on an icon or a label and edit it. Full customization - make Autism Tracker your app. Have you tried using photos of your different moods? 
+
+Total and Goals (for Numeric items and Visual Scales). For data entries that should be added up to reach a goal, select where your goal applies: for a day, a week, or a month.  E.g., 2 servings of fruit per day. The goal is adjusted automatically for different views (daily, weekly, monthly).
+For setting a weight goal, choose not to add up entries. You might want to start a graph at a higher value than zero to be able to spot changes more easily. E.g., if your weight is 190 lbs and your goal weight is 180 lbs, then starting the graph at 175 lbs will give you good visibility of weight changes and trends. For Visual Scales goal setting is simple, select an icon here to set it as the goal. 
+
+Active on days (for Yes / No items). Check on which days data should be entered. For example, practice Yoga on Tuesdays and Thursdays. A checkbox will appear on the Track screen on active days as a reminder. Data can be entered every day. However, only Yes or No entered for active days are considered for the weekly and monthly % of Goal Completed graphs.
+
+Remove an item from a screen
+Tap Edit. Tap item. De-select screens on which the item is displayed.
+Delete an item for good
+Tap Edit. Tap item. Tap red Delete button at bottom of screen.
+
+Graphs

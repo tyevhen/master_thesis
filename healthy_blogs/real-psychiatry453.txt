@@ -1,0 +1,66 @@
+Asthma is an annoying and sometimes fatal disease.  I have first hand experience with it because I have had asthma for at least 40 years.  Like many of my personal medical afflictions that I have posted about on this blog it was initially missed and not treated.  According to recent studies, that is still a common experience.  When I was a teenager, wheezing when mowing the lawn was apparently considered a normal reaction.  When I developed a more systemic reaction right in a physician's office, my parents were taken into an adjacent room and advised that it was apparently all "in my head" and it was some sort of psychosomatic reaction.  The psychosomatic reaction responded well to epinephrine injections and diphenhydramine.  Even when I was in medical school the treatment of asthma was shaky.  I was taking theophylline pills twice a day for several years and the patients I began treating for exacerbations of chronic obstructive pulmonary disease were all on aminophylline drips and corticosteroids.  We all had to memorize those protocols and of course know the mechanism of action (now invalidated) that was based on Sunderland's Nobel Prize winning work on cyclic AMP.  Today theophylline is considered a tertiary option for uncontrolled asthma rather than a first line treatment.
+
+ As a fourth year medical student, I presented a very well received seminar on "slow reacting substance of anaphylaxis" or SRS-A now known to be a mixture of leukotrienes.  Eventually the treatment of asthma changed and glucocorticoid inhalers became the treatment of choice for a while.  As any primary care physician or asthmatic patient knows - no two asthmatic patients are the same.  As an example, peak flow meters are routinely used to measure asthmatic control.  No matter how badly I am wheezing, I can always max out that peak flow meter.  Asthma is a complex disease with varied presentations and the current treatment algorithms are complex with varied medications.
+
+The diagnostic criteria of asthma seem relatively straightforward and are listed in the table below:
+
+Diagnosis of Asthma (see additional details in National Heart, Lung and Blood Institute reference) and reference 8 below:
+1.  Recurrent symptoms of airflow obstruction or airway hyperresponsiveness (eg. wheezing, chest tightness, cough, shortness of breath.)
+
+2.  Objective assessment as evidenced by:
+
+     A.   Airflow obstruction as least partially reversible by inhaled short acting beta2 agonists as demonstrated by any of the following:
+
+-        Increase in FEV1 of ≥ 12% from baseline
+-        Increase in predicted FEV1 of ≥ 10% from baseline
+-        Increase in PEF (liters/minute) of ≥ 20% from baseline
+                  B.   Diurnal variation in PEF of more than 10%
+     C.   No other causes of obstruction
+FEV1 = forced expiratory volume in 1 second (liters)
+PEF = peak expiratory flow
+
+Medicine texts have traditionally used breakpoints in the above parameters to distinguish mild, moderate and severe asthma.  Despite what seem to be clear diagnostic criteria a recent review (8) in the New England Journal of Medicine states:  "Most patients with asthma have mild persistent disease which tends to be underdiagnosed, undertreated, and inadequately controlled."  The reference cited in that review points out that only 1 in 7 patients achieved good control of their asthma.  
+
+There has been a sudden surge in research on asthma phenotypes, endotypes, and endophenotypes.  Endophenotypes are subtypes of a particular phenotype that are thought to have a common pathophysiological mechanism or in the case of psychiatry a biochemical, neurophysiological, neuropsychological maker that allows for the subclassification.  If you have attended any serious psychiatric genetics course in the past decade you have probably heard about endophenotypes.  Gottesman and Gould published a widely cited paper in the American Journal of Psychiatry in 2003 discussed the concept and its application in psychiatry.  There have been 132 references to papers on endophenotype in the Schizophrenia Bulletin alone, including a special theme issue.
+
+A group of 5 asthma endotypes have been suggested by Corren (7).  He uses the definition of endotype as "a subtype of a condition defined by a distinct pathophysiological mechanism."  The classification was a consensus of experts looking at clinical characteristics, biomarkers, lung physiology, genetics, histopathology, and treatment response.  The following 5 endotypes were identified.
+
+Asthma Endotypes
+Allergic Asthma
+Childhood onset, hypersensitivity to airborne allergens, Th2 mediated inflammatory process, eosinophilia of blood and airways, inhaled corticosteroids less effective, IgE antagonists are more effective. 
+Aspirin exacerbated respiratory disease (AERD)
+Chronic rhinosinusitis with nasal polyps, severe bronchospasm if NSAIDs are ingested, marked blood and airway eosinophilia, increased expression of leukotriene C4 synthetase, response to cysteinyl leukotriene receptor antagonists and 5-lipoxyenase inhibitors  
+Allergic bronchopulmonary mycosis (ABPM)
+Colonization of airways by Aspergillus fumigatus, increased fungal specific IgE and IgG, elevated blood eosinophil and total IgE levels, elevated airway eosinophils and neutrophils, requires oral corticosteroids and antifungals
+Late Onset Asthma
+Pulmonary function testing is more impaired than allergic asthma, marked eosinophilia in blood and airways, need oral corticosteroids.  May be mediated by IL-5.  
+Cross country skiing induced asthma (CCSA)
+Triggered by exposure to cold dry air and intense exercise, not usually due to allergies, inflammatory infiltrate consists of lymphocytes, macrophages, and neutrophils rather than eosinophils,  airway remodeling with thickened basement membrane, not usually responsive to inhaled corticosteroids.
+
+The tables on diagnosis and endophenotype are remarkable for their parallels with psychiatric diagnosis and research.  The available endotypes do probably not capture all of the clinical scenarios of asthma because patient behavior is a significant factor.  The endotype classification of asthma by experts is interesting in that it includes a treatment response dimension and this has been avoided in psychiatry at the diagnostic level.
+
+Like mental illnesses, asthma is a complex polygenic disease with considerable clinical heterogeneity.  Using endophenotype approaches very similar to the approaches that have been applied to the study of schizophrenia offers the hope that classification and treatments of subtypes will be more effective and the connection between the genetics of the illness, pathophysiological mechanisms, and subtype will become more apparent.  Although the parallels with mental illness are clear, asthma researchers and clinicians treating asthma have the advantage in that they can proceed without the stigmatization that only accompanies psychiatric disorders and psychiatrists.
+
+George Dawson, MD, DFAPA
+
+
+
+
+1: Barranco P, Pérez-Francés C, Quirce S, Gómez-Torrijos E, Cárdenas R, Sánchez-García S, Rodríguez-Fernández F, Campo P, Olaguibel JM, Delgado J; Severe Asthma Working Group of the SEAIC Asthma Committee. Consensus document on the diagnosis of severe uncontrolled asthma. J Investig Allergol Clin Immunol. 2012;22(7):460-75; quiz 2 p following 475. PubMed PMID: 23397668.
+
+2: Simon T, Semsei AF, Ungvári I, Hadadi E, Virág V, Nagy A, Vangor MS, László V, Szalai C, Falus A. Asthma endophenotypes and polymorphisms in the histamine receptor HRH4 gene. Int Arch Allergy Immunol. 2012;159(2):109-20. doi: 10.1159/000335919. Epub 2012 May 30. PubMed PMID: 22653292. 
+  3: Matteini AM, Fallin MD, Kammerer CM, Schupf N, Yashin AI, Christensen K, Arbeev KG, Barr G, Mayeux R, Newman AB, Walston JD. Heritability estimates of endophenotypes of long and health life: the Long Life Family Study. J Gerontol A Biol Sci Med Sci. 2010 Dec;65(12):1375-9. doi: 10.1093/gerona/glq154. Epub 2010 Sep 2. PubMed PMID: 20813793; PubMed Central PMCID: PMC2990267. 
+
+ 4: Bisgaard H, Bønnelykke K. Long-term studies of the natural history of asthma in childhood. J Allergy Clin Immunol. 2010 Aug;126(2):187-97; quiz 198-9.  doi: 10.1016/j.jaci.2010.07.011. Review. PubMed PMID: 20688204. 
+
+5: Chan IH, Tang NL, Leung TF, Huang W, Lam YY, Li CY, Wong CK, Wong GW, Lam CW. 
+Study of gene-gene interactions for endophenotypic quantitative traits in Chinese asthmatic children. Allergy. 2008 Aug;63(8):1031-9.
+doi: 10.1111/j.1398-9995.2008.01639.x. PubMed PMID: 18691306. 
+
+6: Thompson MD, Takasaki J, Capra V, Rovati GE, Siminovitch KA, Burnham WM, Hudson TJ, Bossé Y, Cole DE. G-protein-coupled receptors and asthma endophenotypes: the cysteinyl leukotriene system in perspective. Mol Diagn Ther. 2006;10(6):353-66. Review. PubMed PMID: 17154652.
+
+7. Corren J. Asthma phenotypes and endotypes: an evolving paradigm for classification.
+Discov Med. 2013 Apr;15(83):243-9. PubMed PMID: 23636141.
+
+8. Bel EH. Clinical Practice. Mild asthma. N Engl J Med. 2013 Aug 8;369(6):549-57.
+doi: 10.1056/NEJMcp1214826. PubMed PMID: 23924005

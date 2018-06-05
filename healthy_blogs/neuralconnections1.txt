@@ -1,0 +1,86 @@
+source
+What is needed in the recipe?
+intra-, inter-, extra-, and mysterious-hippocampal connectivity
+Serving Size: 1 hemisphere
+
+While being one of the most extensively studied structures amongst the subcortical and cortical tissues, the hippocampus has shown itself to have quite complex connectivity and still remains an enigmatic structure, both in terms of functional, local, and regional connectivity.  While great strides have been made through anatomical, electrophysiological, and image-based tracing, the hippocampal formation leaves much to be desired.
+
+With the advent of the 'human connectome project' and the 'rodent connectome project' (see references), mapping brain circuitry has never been visualized easier or more beautifully.
+
+Of interest to me, of course, is the hippocampal local and regional connectivity.  For an extensive, interactive version of the connections, check out here (right click 'Interactive Diagram PDF' and 'Save As')  From here, my references to any hippocampal connections will be in regards to the rodent, as many connections mentioned are shared within the human brain.
+
+Read more for connectivity of entorhinal cortex to hippocampus and beyond!
+
+
+
+Fig. 1 Burwell Lab
+The hippocampus (yellow in the figure) is a banana-shaped structure within the temporal lobe and a critical component in the limbic system.  Its main input comes from the adjacent entorhinal cortex and the majority of the output is sent out through the subiculum from area CA1.  It is classicaly described as a tri-synaptic pathway, receiving information from the entorhinal cortex, sending it along through the dentate gyrus, CA3, and CA1; however, this tri-synaptic pathway term seems a bit irrelevant when you look more closely.  For the entorhinal cortex alone sends projections to all CA subfields, the CA3 has projections that go to the fornix, has recurrent collaterals with itself, and has a back-projection to the dentate gyrus, and the subiculum sends projections back to the entorhinal cortex along with other cortical and subcortical regions.
+
+This brief summary will be straight-forward connectivity.  Some may be bored, but I think that it is rather exciting when you think of the extensive connections and the functional implications!
+
+This is meant to be a somewhat detailed primer of the major (largely) intra-hippocampal connections.  If you want the full treatment, get the interactive PDF above or read The Hippocampus Book (see references).
+
+Entorhinal Cortex:
+
+Because I will be focusing on the entorhinal cortex efferents, I will only say that the entorhinal cortex receives information from a variety cortical and subcortical regions: amygdala, olfactory bulb, cingulate cortex, temporal cortex and the orbital cortex (along with other frontal and parietal regions).
+
+Fig. 2. Entorhinal Cortex (see text to left for details) (source)
+
+
+
+
+
+
+The entorhinal cortex (EC) is known primarily as the cortical region that feeds into the hippocampus (green in fig 1; green/purple in fig. 2a/b).  The EC is divided in to the lateral (towards the outside of the brain) and medial (towards the middle of the brain) portions and composed of 6 laminar layers (I-VI) that are cytoarchitectonically distinct.  Commonly, EC orientation is described running in a diagonal (fig. 3e, yellow band running from upperleft (dorso-lateral) down to lower right (ventro-medial)).   As an overview, most of the dorso-lateral EC sends efferents out to the dorsal hippocampus, while the ventro-medial to the ventral hippocampus (fig. 2e/d, matching blue and purple in these subfigures; see below for more details).
+
+The EC sends two main projections to the dentate gyrus through the medial and lateral perforant pathways (fig. 3; MPP and LPP). The perforant pathway (pp) largely originates in superficial layer II of the EC (but also projections from layers III,IV,V,VI exist).  This pp innervates the supra- and infra-pyramidal blades of the dentate gyrus and the axons terminate in the molecular layer.
+
+There also exists longer projections to CA3 and CA1/subiculum (from layers II/III of the EC) pyramidal cells in the molecular layer.  The lateral and medial EC send projections directly to CA1 (known as the temporoammonic pathway) and are processed in different parts of the CA1 and subiculum along the transverse axis: lateral EC --> distal CA1/proximal subiculum, while medial EC --> proximal CA1/distal subiculum.  Along the septo-temporal (long) axis, dorsolateral EC project to the septal (dorsal) hippocampus, intermediate EC to the splenial (intermediate) hippocampus, and the ventromedial EC to the temporal (ventral) hippocampus (fig. 2e/d, matching blue and purple in these subfigures). These pp fibers bifurcate along the way and also send off collateral processes that innervate distal levels along the septo-temporal axis.  In addition, a return projection from the CA1/subiculum into the deep layers of the EC exists, which then can take 2 paths: 1) back into the DG from superficial layers like above, 2) or out to other neocortical regions.
+
+
+
+Hippocampus Proper:
+
+There are two major ways to enter the hippocampus: via the perforant pathway or via the pre-commissural branch of the fornix from the septal nuclei.
+
+The hippocampus proper is defined as the dentate gyrus and CA fields (CA1-4) that form two interlocking "Cs".  The dentate gyrus contains two main regions: the fascia dentata and the hilus.  It is made up of 3 prominent layers (below).  Because the dentate gyrus is located between the neocortex ("new cortex" with 6 laminar layers, like that of the EC) and the diencephalon, it is referred to as archicortex ("old cortex").  The subiculum, largely considered the output of the hippocampus, is a transition zone from 3 to 6 layers.
+
+Dentate gyrus has 3 prominent layers:
+hilus, granular layer, molecular layers (source)
+In the dentate gyrus, the deepest layer is known as stratum moleculare, which is divided into an outer (red in figure) and inner (yellow) portion.  This layer contains proximal dendrites and is the main synaptic junction for perforant path fibers from EC.  Commissural projections from the contralateral dentate gyrus and medial septal area are located here.  This region, too, is situated directly above the hippocampal fissure (separates dentate and CA1 field).  The layer below is the stratum granulosum (purple in figure), so named because it contains the cell bodies of granule cells, which are the main excitatory neurons in this area. The stratum multiforme, usually just referred to as the hilus or sometimes the polymorphic layer, is often considered a separate layer and sometimes is also referred to as CA4 (yellow/green in figure).  This layer is the house of inhibitory interneurons in the dentate gyrus and the mossy fiber projections pass through this region en route to CA3.  Neurons in the dentate are located along the granular layer (stratum granulare).  These neurons send projections to area CA3 (known as 'mossy fibers').  Neurons in area CA3 can send information out through the fornix, back project to dentate gyrus, re-excite themselves, or continue onto area CA1.
+
+
+layers of CA fields (source)
+The CA (Cornu Ammonis) fields, too, contain 3 distinct strata and house excitatory neurons known as pyramidal cells.  The alveus is the most superficial layer and contains the commissural fibers of pyramidal cells via the fimbria, a major source of output from the hippocampus.  Stratum oriens layer contains basal dendrites of the pyramidal cells and a large body of basket cells (inhibitory interneurons).  This strata includes fibers from the septal and commissural areas that are received from the contralateral hippocampus.  This region also contains the basal dendrites of the pyramidal cells.  The next layer is the stratum pyramidale, named so because it contains the soma, or cell body, of the pyramidal cell.  This layer in CA3 contains the mossy fiber connections and also houses interneurons.  The stratum moleculare is divided into sublayers.  The stratum lucidum is the thinnest layer and, in CA3, this area receives input from the dentate gyrus mossy fibers.  Stratum radiatum contains apical dendrites of the neurons in the s. pyramidale layer; in CA1, these dendrites form synaptic connections with the Schaffer collaters, which are the main axonal projections from CA3.  The stratum lacunosum, in CA1, contains synapses of the Schaffer collaterals and is also where the perforant path projects from the EC.  Stratum moleculare contains apical dendrites that extend here from s. pyramidale and these dendrites, in CA3, are where perforant path fibers synapse.  Typically, these last two sublayers are referred to as stratum lacunosum-moleculare.
+
+ If you want to see the main inputs and outputs of the hippocampus in action, check out here for their interactive diagrams.
+
+3D rendering of the hippocampus in layers: bottom = CA fields, middle = dentate gyrus, top = subiculum
+Overlaying the hippocampus proper is the retrohippocampus, which includes entorhinal cortex, para-subiculum, pre-subiculum, subiculum & post-subiculum
+
+3D images made using Brain Explorer ( available here )
+
+I was going to continue and write about hippocampal connections with the septal region, fimbria/fornix, subiculum, etc. and try to cover neurotransmission, but this post would then be incredibly long...  Another day!
+
+
+
+*I am not a neuroanatomist; so, as one would expect, this is by no means complete and/or detailed enough for a comprehensive connectivity guide.
+
+
+
+
+
+
+References:
+
+The Human Connectome Project: http://www.humanconnectomeproject.org/
+Rodent Temporal Lobe Connectome: http://www.temporal-lobe.com/index.php/Main_Page
+
+Per, A., Morris, R., Amaral, D., Bliss, T., & O'Keefe, J. The Hippocampus Book (Oxford Neuroscience Series). New York: Oxford University Press. 2006.
+(spare money? buy here! Highly recommend for in-depth anatomical description)
+
+Witter, M. P., Cappaert, N. L. M., van Strien, N. M. Hippocampus: Anatomy Primer.  www.Temporal-Lobe.com (here)
+
+http://neuroscience.uth.tmc.edu/s4/chapter05.html (awesome diagrams and videos!)
+
+http://krasnow.gmu.edu/cn3/main.html

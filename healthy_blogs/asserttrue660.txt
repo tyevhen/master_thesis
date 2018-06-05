@@ -1,0 +1,14 @@
+Five lines of JavaScript suffice to rotate the image on the left 180 degrees, at a processing speed of one million pixels per second.
+
+Rotating an image 180 degrees turns out to be extremely easy -- and as good an illustration as any that JavaScript doesn't automatically have to mean "slow." The test image shown here (a 600 x 446-pixel JPEG) was rotated 180 degrees using the script below in only 262 milliseconds -- quite literally the blink of an eye. (Note that to use this script, you need the small Java app -- ImageMunger -- that I wrote about a few days ago.)
+
+w = Image.getWidth();
+h = Image.getHeight();
+pixels = Image.getRGB( 0,0, w,h, null, 0, w );
+Image.setRGB( 0,0, w,h, pixels.reverse(), 0, w );
+Panel.updatePanel( );
+The key to what's going on is the call to pixels.reverse(). When you call getRGB() on a BufferedImage, Java hands you back all the image's pixels in a one-dimensional array. Simply rewriting the array in reverse order has the effect of causing the image to paint lower-right-corner-first (if you know what I mean). It rotates the image 180 degrees.
+
+The reverse() method of the Array object (built into JavaScript) is implemented in bytecode and runs at bytecode speed (as is true of all native methods). It means that the "main loop" (the pixel-reversal code) runs at compiled-code speed.
+
+The real lesson here is that if you want your JavaScript code to run fast, you should take advantage, whenever you can, of native methods of the language. Those methods are nearly always implemented as hand-optimized C or Java -- as I discussed in an earlier post. It's free speed. Don't let it go to waste.

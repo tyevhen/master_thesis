@@ -1,0 +1,34 @@
+A comment awhile ago asked me to summarize the entire theory of the septo-hippocampal system by Gray & McNaughton (2000) in five sentences...  now, you would need to read the entire book (below) to appreciate the depth and girth of this elegant, thorough, and simple theory, but I gave it a shot:
+
+
+
+
+1) The septo-hippocampal system detects conflict between two or more competing goals that are both highly activated (these goals can take many forms, e.g. escaping, food, threat, etc..), which ultimately leads to an approach-approach, approach-avoid, avoid-avoid behavior, depending on a number of factors.
+
+2) There is a distinct difference between fear (immediate threat, mainly controlled by amygdala with other areas) and anxiety (threat is possible but not here at present (uncertainty), mainly controlled, according to this theory, by the septo-hippocampal system, with of course its surrounding circuit connections with other areas, such as amygdala (so fear/anxiety overlap largely but they are distinct negative affective emotions) 
+
+
+3) Anxiety is mainly produced by the competition between two goals, ideas, etc, which is controlled/viewed by the septo-hippocampus, and this region tries to disambiguate this confusion/competition by largely inhibition or certain behaviors.
+
+
+4) This conflict of competing goals creates an uncertainty within the hippocampus and it generally tries to solve (via other circuitry to extra-hippocampal brain areas) this conflict through inhibition of prepotent behaviors (Do I approach or avoid this? A) Food with a certain chance of threat (anxiety), B) Let me try to get more information about the environment, first, and then assess the situation (anxiety)" or C) Hell no, run, freeze, escape, etc... (fear)).
+
+5) Many say that the hippocampus is largely (or solely?) spatial; however, many of these spatial deficits can be explained not in terms of spatial deficiency but in a more fundamental, basic mechanistic way, such as if you abolish the hippocampus, you abolish the inhibitory system that attempts to resolve competing goals, leading one to believe it is a deficit within the spatial domain (with which you are testing in say a Morris Water Maze) but is actually a deficit between trying to parse apart two or more competing goals (sensory cues, etc) -- destroy septo-hippocampus is rats and get spatial deficit... or is it because they cannot anymore chose where to go because of competing goals (e.g. sensory landmarks, or the wall, trying to escape in general).
+
+This is all a hierarchical defense system theory that relates to anxiety, fear, and memory.  
+
+
+Within the hippocampus, you can see beautiful organization,
+and, because it is often the case the function follows structure,
+these regions are believed to serve possibly different functions
+during information processing - "logical gates"
+Also, as a final note, and will not spend time on this, since it is outside this post (maybe a post later on this), within the hippocampus, the dentate gyrus, CA3, CA1, subiculum all serve as what they call, "logical gates," which enhance signal-to-noise ratio as well as determining what information is behaviorally important to the system at that time to modify motor programs.
+
+
+
+
+
+
+References:
+
+Gray, J. A. & McNaughton, N. (2000) (2nd ed.). The neuropsychology of anxiety: an enquiry into the functions of the septo-hippocampal system.  Oxford Psychology Series.  Oxford University Press, USA.

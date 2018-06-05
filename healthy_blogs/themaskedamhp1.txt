@@ -1,0 +1,54 @@
+This is by no means as straightforward an issue as it may seem, and can from time to time create difficulties and anomalies.
+
+While as a general rule, a person cannot be subject to more than one section of the MHA simultaneously, there are exceptions to this rule. There are also implications regarding whether or not certain sections can continue once a decision has been made.
+
+I’ll look at some examples.
+
+S.5(2)
+The Code of Practice states that S.5(2) cannot apply “to a patient who is already liable to be detained under section 2, 3 or 4 of the Act”(para18.7).
+
+If an informal hospital patient is detained under S.5(2) an AMHP has up to 72 hours to arrange an assessment with a view to detaining under S.2 or S.3. Once a decision has been made, and an application completed for S.2 or S.3, the S.5(2) detention ends. This also applies if the decision is made not to detain.
+
+The Code of Practice states: “Although the holding power lasts for a maximum of 72 hours, it should not be used to continue to detain patients after the doctor or approved clinician decides that, in fact, no assessment for a possible application needs to be carried out, or a decision is taken not to make an application for the patient’s detention.”(para18.20)
+
+Additionally, it needs to be borne in mind that detention under S.5(2) does not permit the patient to be moved from one hospital to another. If they are moved, for example from a general hospital to a psychiatric hospital, or vice versa, then the S.5(2) would automatically end.
+
+What about S.2 to S.3?
+Ah. If an AMHP assesses a patient who is detained under S.2 for assessment with a view to detention under S.3 for treatment, and makes the decision not to detain them, then, although best practice would be for the Responsible Clinician to discharge them from S.2, there is no requirement to do so, so the S.2 could legally continue to the end of the 28 day period of detention.
+
+There are situations in which this could be justified. An example that springs to mind is where a patient has been detained under S.2 and the request to detain under S.3 comes within the first couple of weeks of the original detention. The AMHP may consider that it is too premature to consider detention under S.3, which could last for up to 6 months, and may think that the patient’s condition could improve sufficiently over the remaining time of the S.2 to make further detention unnecessary.
+
+S.136
+A similar rule as that for S.5(2) applies for detention under S.136. If an AMHP and at least one doctor have assessed and decided that a patient detained under S.136 does not need to be detained under the MHA, the S.136 can remain in force only while any necessary arrangements are made for the disposal of the patient, such as arrangements for informal admission or transport home. The Code also points out that someone subject to S.135(1) or S.136 cannot be placed on S.5(2), since S.5(2) only applies to inpatients.
+
+The S.136 will also remain in force while arrangements are being made for a hospital that is able to take the patient if it has been decided to detain under S.2 or S.3. Of course, this will only apply until the end of the maximum length of detention of 24 hours.
+
+Assuming there is a bed, then the S.136 ends as soon as the relevant application has been made. As the patient is then liable to be detained, this authorises the AMHP, the police or any other relevant person to hold the patient in custody until they can be transferred to hospital.
+
+The same will apply for a patient detained under S.135(1) who has either been taken to a place of safety for assessment, or assessed at the place where the warrant has been executed.
+
+Guardianship (S.7)
+No-one can be detained simultaneously under both Sec.3 and S.7, as the Reference Guide states: “Once a patient subject to guardianship is admitted for treatment, the guardianship ceases.” (para8.99)
+
+However, a patient subject to Guardianship can be detained under S.2 (and S.4) (para30.36).
+
+Community Treatment Orders
+Possibly because Community Treatment Orders were added to the MHA 1983 by the 2007 MHA, many years after the original drafting, it gets rather more complicated.
+
+Because people can only be subject to a CTO if they are detained under S.3, people on CTO’s can be regarded as still subject to the original, latent, S.3.
+
+The Reference Guide states unequivocally that someone on a CTO cannot be made subject to S.5(2)(para8.72). It goes on to explain that “because patients on CTOs can be recalled to hospital for treatment if required, it should not be necessary to make applications for their detention.”(para8.96) The Code states that “where the person is known to be on a CTO and compulsory admission is indicated, the recall power should be used”(para18.17)
+
+You might think therefore, that no other sections of the MHA can be used with people on CTOs, but that is not necessarily the case. The Reference Guide recognises that in practice patients may end up being detained under other sections “if the people making the application do not know that the patient is on a CTO"(para8.96). It goes on to state:
+
+An application for admission for assessment under section 2 or 4 does not affect the patient’s CTO. Nor does an application for admission for treatment under section 3 if, before going onto a community treatment order (CTO), the patient had been detained on the basis of a hospital order, hospital direction or transfer direction under part 3 of the Act. (para8.97)
+
+So this does mean that a police officer, not being aware of a person’s status as being subject to a CTO, may legitimately detain someone under S.136.
+
+Consequently, an AMHP and a doctor would still need to assess in accordance with the requirements of S.136, but if they decided the person needed to be admitted to hospital, they could then make arrangements for their recall to hospital under the rules for a CTO.
+
+An application for detention for treatment under S.3 would automatically end a CTO, in the same way that a S.3 would end a Guardianship Order. However, the Code says, “an application for detention should not be made in respect of a person who is known to be on a CTO” (para15.17), so the correct procedure would be recall to hospital, followed by revocation of the CTO if necessary. That action will then reactivate the latent S.3.
+
+If in ignorance, perhaps because the person on a CTO has turned up in another part of the country, they are then detained under S.2 or S.4, the recall and revocation process can be initiated once the person’s true status is known, and once the S.3 had been restored, any other sections would cease to have effect.
+
+I hope that’s cleared up any confusion.

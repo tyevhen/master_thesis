@@ -1,0 +1,9 @@
+All this time, I've been thinking NaN is not a number. What an idiot I've been.
+
+In JavaScript:
+
+   typeof NaN == 'number'   // true
+
+And yet of course, NaN == NaN is false.
+
+There you go. Amaze your friends.

@@ -1,0 +1,15 @@
+The folks at High Scalability have rounded up some interesting observations on Amazon's success, based on a number of sources, including an interview with Werner Vogels (three years old but still interesting). Some of the bullet points make fascinating reading:
+Teams are small -- they are assigned authority and empowered to solve a problem as a service in virtually any way they see fit.
+If you have a new business idea or problem you want to solve, you form a team, but limit the team to 8 to 10 people because communication is hard. These are called two-pizza teams. That's because 8 to 10 is the number of people you can feed off two pizzas.
+"Work from the customer backward." Focus on value you want to deliver for the customer.
+Have a design that is as minimal as possible.
+Take it for granted stuff fails; that’s reality, embrace it. Go more with a fast reboot and fast recover approach. Create self-healing, self-organizing lights-out operations.
+Create a frugal culture. Amazon reportedly used doors for desks, in some cases.
+Settle arguments with A/B testing and Web Analytics. (Avinash Kaushik calls this getting rid of the influence of the HiPPOs: Highest Paid People in the Organization.) If you have a question about what you should do, simply code it up, let people use it, and see which alternative gives you the results you want. Let customers decide arguments with actual results.
+People’s side projects, the one’s they follow because they are interested, are often the ones where you get the most value and innovation.
+Innovation comes from the bottom. Those closest to the problem are in the best position to solve it.
+Any organization that depends on innovation must embrace chaos. Loyalty and obedience are not necessarily the best tools.
+Look for three things in interviews: enthusiasm, creativity, and competence. The single biggest predictor of success at Amazon.com was enthusiasm.
+To scale you have to partition (data), so you are left with choosing either high consistency or high availability for a particular system. (Brewer's CAP law.) You must find the right overlap of availability and consistency.
+Get big fast. The big guys like Barnes and Noble are on your tail. Amazon wasn't even the first, second, or even third book store on the web, but their vision and drive won out in the end.
+Developers are like artists; they produce their best work if they have the freedom to do so, but they need good tools. Have many support tools that are of a self-help nature. Support an environment around the service development that never gets in the way of the development itself.

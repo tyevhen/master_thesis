@@ -1,0 +1,92 @@
+I’m going to tell you a horrifying, but also a tedious and frustrating, true story. It’s all about trying to get an ambulance to transport an elderly man with dementia detained under the Mental Health Act from a care home to a hospital.
+
+The fact that the hospital is a private hospital 100 miles away from the care home should be immaterial…
+
+What ought to happen when a person, any person, is assessed under the Mental Health Act follows a particular routine.
+1. Arrangements for the patient to be assessed are made. This includes notifying the bed managers that a bed may be required, and arranging for two doctors, at least one of whom must be Sec.12 approved, to attend with the AMHP.
+2.The assessment takes place.
+3, A hospital is identified that will accept the patient.
+4. Arrangements are made for the patient to be conveyed to the hospital. An ambulance is usually the most suitable mode of transport.
+5, The patient is conveyed to hospital and admitted.
+
+The chronic nationwide shortage of psychiatric hospital beds, in our area especially for people with dementia, is now routinely meaning that the assessment process is suspended after step 2. It can be days, or even weeks, before a bed can be found and admission arranged. It is now very common in our area for this particular private hospital to be used almost as an additional ward for our local dementia patients.
+
+This hospital often visits the potential patient before making a final decision, which can take several days in itself, and if the patient is fortunate enough to be considered suitable, the hospital requires that they be admitted before 13:00 hrs on the day of admission.
+
+But even once a bed is identified and the patient can be formally detained under the MHA, we have been encountering problems with the local ambulance trust.
+
+Where a patient is in a care home, and the receiving hospital requires admission before 13:00 hrs, it makes sense to order the ambulance in advance, the previous day.
+
+That’s where our AMHP hub first encountered problems.
+
+It was my job as the duty Practice Consultant (see my previous blog post for an explanation of what a PC is) to ring the ambulance service and order the ambulance.
+
+However, I was told in very clear terms that the ambulance service was an emergency service, and could not be booked in advance. They could only dispatch an ambulance on the day, using the “traffic light” protocol agreed between the AMHP service and the ambulance service.
+
+Briefly, this arrangement prioritises the response times. A “red light” means that the patient is seriously distressed, the situation is critical, and they need to be taken to hospital as soon as possible. The ambulance will try to arrive within 30 minutes.
+
+An “amber light” means that the patient is less distressed, and the ambulance will endeavour to arrive within two hours, while a “green light” means that the patient is settled and in a safe place, and the ambulance will then arrive within four hours of  being requested.
+
+Generally, this system works well, although even for “red light” requests, ambulances can still be diverted to more urgent calls, such as cardiac arrests. I can’t complain about this.
+
+I pointed out that, as it was a “green light” request, if the AMHP service made the request at 08:45 hrs, at the start of the working day, if the ambulance did not arrive for 4 hours, then it would be impossible for the ambulance to get the patient to the hospital before the admission deadline, as the journey would take at least two hours.
+
+But the ambulance service were not to be swayed, as the request was not within what they were contracted to provide.
+
+In the end, my PC colleague who was on duty the following day had to ring the ambulance service from home at around 07:30 hrs in order to ensure that the ambulance would arrive in time to transport the patient the two hour journey to the hospital. In the event, the ambulance arrived at 10:45 hrs and dropped off the patient at the receiving hospital 5 minutes before the admission deadline.
+
+This was clearly an untenable situation, so our AMHP hub manager spent several days negotiating with the relevant Clinical Commissioning Group (CCG), who actually make the contracts with the ambulance trust, as to how this sort of situation could be avoided in future.
+
+By the time I was duty PC the next week, an agreement had been reached.
+
+The CCG contracts manager gave instructions that we were to ring a different number when wishing to arrange an ambulance in these circumstances. This was the number of the patients booking line. These ambulances were part of the local ambulance trust, but this particular service allowed routine booking of ambulances to transport patients in a range of situations.
+
+As it happened, another patient was in identical circumstances, so it was again my job to arrange for an ambulance to convey him to the same hospital by 13:00 hrs the following day.
+
+I rang the number, explained that the CCG contracts manager had told us to do this, and requested an ambulance for 09:00 the next day.
+
+The call handler was non-plussed. He went off to consult with several different people during the course of the call, before finally giving me not one but three reasons why they could not or would not convey this patient.
+
+Reason #1 Their service was not contracted to convey patients detained under the Mental Health Act.
+
+Reason #2 As both the hospital and the care home were private, this meant that the patient was not an NHS patient, and they would not in any case transport such a patient. (The fact that the hospital was being paid by the mental health trust/CCG, and hence the NHS, to receive and treat the patient appeared to make no difference).
+
+Reason #3 Even though their contract was with a CCG that explicitly covered the town in which the patient resided (it was in the name of the CCG), they didn’t actually, really, cover that area, as it was in another county.
+
+So I rang the CCG’s contracts manager and explained the difficulty I was having. She suggested I spoke to the contracts performance manager in the mental health trust.
+
+I spoke to this officer, who admitted that there appeared to be a gap in the contract, and told me to leave it with them.
+
+Somewhat to my surprise, an hour or so later I received a phone call from another call handler at the ambulance booking service. He took all the necessary details of the transport request, including his current medication regime, the fact that he was being prescribed lorazepam 4 times a day, and the fact that he was frail and would need wheelchair transfer. It was arranged that the patient would be collected from the care home at 09:00 hrs the following morning. I was even given a booking reference number.
+
+Success at last! Sanity had prevailed!
+
+Ah. An hour later I received a call from the patient ambulance booking manager. They had discovered Reason #4: their service was not contracted to take sedated patients. We would therefore have to make a request tomorrow morning.
+
+So it was again left that my colleague the next day had to make an early morning phone call to the usual ambulance service number.
+
+They initially tried to give a Reason #5 why they could not transport the patient. This was on the grounds that the hospital, being in another county, was outside the area they covered. However, this was withdrawn when it was pointed out that the ambulance trust covered a very large geographical area which explicitly included the county in question.
+
+They didn’t seem to be able to come up with a 6th reason, so eventually an ambulance crew picked the patient up and took him to hospital within the required time scale.
+
+What’s the significance of this in the wider scheme of things?
+
+This sorry failure to meet what would appear to be a straightforward request exemplifies a far deeper problem in the NHS:  privatisation by stealth.
+
+This has been happening gradually for many years. It goes all the way back to Margaret Thatcher’s government in the early 1990’s, which brought in the NHS & Community Care Act 1990. Among other things, this introduced the concept of the purchaser/provider split in the provision of social care, which was explicitly designed to encourage the use of private services. Whereas before, home care was provided in house, the Act required at least 80% of home care to be purchased from private organisations.
+
+In mental health, NHS trusts have been operating under various guises for many years, opening the way, at least in theory, for trusts to compete with each other in an internal market to provide services, while the introduction of clustering and “payment by results” in 2013 made it possible for packages of care and treatment for mental disorders to be “sold off” to private companies prepared to offer specific services. I discuss this in more detail in this blog post.
+
+The Health and Social Care Act 2012 disposed of Primary Care Trusts and replaced them with Clinical Commissioning Groups, supposedly led by clinicians, whose function was to purchase services from NHS Trusts – or indeed, private companies prepared to offer these services. Companies such as Virgin Care have stepped in and provide a range of health services, relieving the NHS of billions of pounds in the process.
+
+Apart from these private health care companies, there is now a well-established internal market within the NHS. While ostensibly this is designed to facilitate provision of services, in practice this does not necessarily happen. The example I have given highlights the problems with this artificial division of budgets.
+
+The problems I encountered in obtaining transport for a detained patient are entirely due to this bizarre internal market. The local Ambulance Trust, which is of course part of the NHS, has a range of contracts with the Clinical Commissioning Groups within its area.
+
+These contracts are not necessarily to provide a blanket ambulance service, but are written in such a way that very specific services are offered, and if a request does not fit with the wording of the contract, then the service will not be offered.
+
+It has long been established that the local ambulance trust will not convey patients out of its area, and will not convey patients requiring restraint. The AMHP service then has to rely on private ambulance services, at huge expense to the CCGs.
+
+Another local example of what would appear to be a nonsensical interpretation of a contract is that the local ambulance service will convey a patient detained under Sec.135(1) to a place of safety for the purpose of assessment, but if the patient is then detained  under the MHA and needs to be conveyed to a hospital, this transfer is not covered by the contract.
+
+It is difficult to understand how this system is of benefit to patients, and how it might save the NHS money.

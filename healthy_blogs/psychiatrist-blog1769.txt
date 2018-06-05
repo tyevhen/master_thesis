@@ -1,0 +1,27 @@
+See other Savage Chicken cartoons here
+
+The Psychology Of Altruism
+
+I saw a story in our local newspaper recently that summarized the results of a Johns Hopkins survey of people who volunteer for research projects. The projects they were looking at were Phase I clinical drug trials, in other words studies that are done using drugs on humans (as opposed to animal) subjects for the first time.
+
+It led to the obvious question: Who the heck would do something like that?
+
+Now, I knew a couple people who volunteered for studies when I was an intern. They were both rather adventurous, young, and somewhat in need of money. Looking back on it I could say that they were trusting people who believed that the researchers wouldn't do anything to seriously put them in harm's way and that they were also fully armed with the youthful denial of any possibility of death, disability or adverse consequences to many things they did.
+
+Some of the subjects in the survey reported that they essentially became professional guinea pigs, even travelling from state to state to make a relatively lucrative living (lying to the investigator in the meantime about their extracurricular research activities). However, about half the volunteers were employed at the institutions where the research was being done. They reported that volunteering made them feel good that they were helping people.
+
+That got me thinking about altruism in general. We have many examples of altruists in our society: parents, volunteer firefighters, soldiers, people who sign organ donor cards or send money to charitable organizations. What leads people to give up something when there is no immediate benefit to the giver? Or worse yet, when there are always people ready to take the benefit without ever making a sacrifice in return?
+
+There are religious motivations for altruism, but this being a psychiatry blog I thought it would be more relevant to look at the psychology and evolutionary biology of altruistic behavior. (Don't worry, I'll keep it short to avoid being snooze-worthy.)
+
+In The Ego And The Mechanisms Of Defense Anna Freud described the concept of "atruistic surrender". I'm admittedly nowhere near being an analyst, so if any reader out there has a better handle on this than I do feel free to enlighten me. As best as I can figure it out, altruistic surrender takes place when a patient's unconscious conflicts are triggered by superego suppression of impulses. To manage the resultant anxiety the patient projects the forbidden impulse onto someone else, identifies with that person, then works to help that person satisfy the impulse. For example: someone feels the urge to eat lots of gourmet food but this impulse triggers an unconscious conflict. The impulse is attributed externally: "I am not hungry. They are hungry," and the person throws herself into feeding the hungry or cooking extravagant meals for friends and family.
+
+Whew. This must be why analytic training takes years.
+
+The evolutionary perspective is much more simple-minded (lucky for me). A behavior survives for one of a few reasons: it's good for your relatives, it helps you have more kids or it improves your standing in the community. The weird thing about altruism is that it doesn't seem to do any of those things, yet you see the behavior in non-human species as well as insects. And if altruism didn't do something to enhance survival then all altruists would be extinct by now. What gives?
+
+This is where I get to refer to an economist---probably the only time we've mentioned economists on the blog even though the few I've known have been pretty terrific people. Robert Aumann and Thomas Schelling developed game theory in order to understand economic cooperation and conflict, but they ended up enlightening human behavior. They used mathematical models to prove that given enough time and enough opportunities for strangers to interact the altruists come out ahead economically the majority of the time. Later researchers showed that the "cheaters" (people who don't sacrifice) eventually get punished by the group by being denied opportunities to interact---no one wants to do business with them.
+
+And finally, now that we have this gee-whiz cool fMRI technique you can pretty much count on the fact that someone somewhere has taken a picture of an altruistic brain in action. One study showed that increased activity in the posterior superior temporal sulcus strongly predicted a person's likelihood for altruistic behavior. (And now that I've volunteered my time to write this summary I can practically feel my posterior superior temporal sulcus glowing.)
+
+So now when someone asks you why you volunteered for that activity that everyone else in the neighborhood is hiding in the attic to avoid, you can say: "Because given X number of trials involving Y individuals there's approximately Z percentage likelihood that I'll come out ahead by doing it." Or you can keep it simple: because it feels good.

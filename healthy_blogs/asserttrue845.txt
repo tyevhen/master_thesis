@@ -1,0 +1,45 @@
+I've worked for companies that are in Sun's situation (most recently Novell), and I have a few observations based on my years of watching hugely talented groups of people produce astoundingly good Java technology, only to see the Greater Organization fail to find a way to monetize it.
+
+Like Sun, Novell is a venerable tech company with an interesting past. It finds itself today in a situation (like Sun) where profitability is consistently miserable, but the balance sheet is good. The parallels between Sun and Novell are far-reaching. Both were started more than two decades ago (Novell in 1979, Sun in 1982) as hardware companies. Both soon found themselves in the operating-system business. Novell owned DR-DOS, which led to Novell DOS, which in turn became the boot loader for NetWare. Along the way, Novell acquired UNIX from AT&T.
+
+NetWare was an extraordinarily successful OS that Novell foolishly stopped supporting shortly after acquiring SUSE Linux in late 2003. I say foolishly because NetWare was a cash cow that required very little code maintenance to keep going, whereas SUSE Linux sucked Novell's coffers dry as the entire company pivoted in the direction of things that are extremely hard to make money on (viz., open-source software, something Novell had little experience with).
+
+Distraction destroys profitability (someone please make that a bumper sticker...), and this is something that has cost Novell and Sun a great deal of money over the years. Technology is exciting, and promising technologies have a way of siphoning attention away from more prosaic sorts of things, like finding and solving customer pain (i.e., making money).
+
+Technologists have a way of convincing themselves that some technologies are more worthy than others. And quite often, what happens is that people at the top who should know better become seduced into allocating large amounts of lucre to the promotion of money-losers (on the theory that eventually they are bound to become money-makers) while cash-cow products get money taken away (on the theory that "this product is a winner, it's throwing off cash like crazy; we don't need to promote it").
+
+I've started and run two successful businesses (including one that I launched in 1979, which is still in operation under a different owner, today) and I've seen friends and relatives start and run businesses, so I know first-hand what it takes to keep a business right-side-up; and I know some sure-fire techniques for making a successful business cartwheel out of control into a ditch, trailing black smoke.
+
+One of the main things I've learned is that you never promote a loser; you always put your money behind proven winners. Never take marketing or development funding away from a winner to promote something that is either a proven loser or not yet proven to be a winner. (That's too long for a bumper sticker. It should be on billboards.)
+
+Back to the software biz for a minute. Novell and Sun are both "operating system companies" to some degree. This already carries with it the stench of death. Being an OS company was a great thing back in the Carter years; it was lucrative in those days. It's not a great thing today. It siphons off money that is better deployed elsewhere. Microsoft (with its "Live" series of SaaSified product offerings) has recently gotten the message that the Web is the new OS, and the desktop is irrelevant as a metaphor. This is a huge paradigm shift for Microsoft. But they finally get it: They get that the future is in things like collaboration (human connectivity) and dynamic assembly of reusable content. They are starting to understand that infrastructure is not something customers want to have to know about; that everything that can be virtualized should be virtualized. Customers instinctively know this, even if they can't articulate it.
+
+So then, what's a Sun to do?
+
+First, stop worrying so much about the future and figure out what's making money now, so you can try to massively scale whatever that happens to be. Remember: Invest in winners, not losers. Find out what's working. Crank the volume full max on it.
+
+The next thing to do is obvious: Kill your losers. Utterly walk away from them, now, today, this minute. Redeploy the resources to your winners (or else sell them off).
+
+The very next thing to do is apply the foregoing principles to your people. Find the winners (the true contributors, the people who are making successful things successful) and reward them. Not just with money, but with whatever else they want: promotion, recognition, travel, alone time, or whatever. People are different. Most techies are not motivated by money.
+
+Likewise, identify and weed out the mediocre, the tired, the overly comfortable, the complainers and morale-killers; find the toxic individuals (they're everywhere) and remove them somehow. Just getting rid of the toxic people will cause those who are left to be more productive.
+
+Next, pivot the orgnization in the direction of innovation. This is exceptionally difficult to do. I was involved with the "Fostering Innovation" Community of Practice at Novell during a time when Novell was desperately trying to become more of an innovation-centric culture. One of the kneejerk things Novell did was increase the bonus paid to employees who contributed patentable inventions. Novell eventually was paying $4500 plus hundreds of shares of restricted stock for each invention accepted by the Inventions Committee (of which I was a member). What happened was that we got goofy submissions from all over the company, while certain senior engineers who knew how to game the system succeeded in making a nice side-living on patent bonuses.
+
+Innovation is fostered when you simply set innovative people free. Innovators will innovate for their own reasons; money has nothing to do with it. All you need to do is clear the path for these individuals. At Novell, as at Sun, there's a special honor reserved for senior people who have a track record of accomplishment. We called them Distinguished Engineers. These people were like tenured professors. They came to work in pajamas (not really) and did whatever they wanted, basically, with no fear of ever being fired.
+
+That's a stupid system. Tenured professorships lead to sloth. Not every Distinguished Engineer is a burned-out has-been on the dole, but some are, and it sets a bad example.
+
+Younger engineers (and others) who are proving their potential as innovators need to be recognized while they're at their peak. (The 45-year-olds with a track record of innvoation in the 1990s need to be considered for early retirement. Recognizing someone a decade too late serves no purpose.) What I advocate is a system of "innovation sabbaticals," awarded to budding innovators (of any age) who are doing Great Things and are likely to do more if set free.
+
+Finally, going forward, hire good people. This is any company's best and only salvation. It's the foundation for all success. When you have difficult problems to solve (as any troubled business does), hire very, very smart people who have no prior experience with the problems in question. That's how you get fresh answers that bear tasty fruit.
+
+This blog is already too long, so I'll stop. In a nutshell, what Sun needs to do is focus light on itself and conduct a pre-mortem. The first order of business is to find out which pieces of the business are profitable, and scale those. Then find out which pieces of the business are sucking cash, and amputate those. If that's two-thirds of Sun, so be it. It means Sun needs to be a third as big as it is now. It'll shrink down to that size eventually, so why spend time and money getting there the slow way? Go there now. Shareholders will applaud.
+
+And by the way, be clear on one thing: This is all about earnings-per-share. There is no other goal, no other agenda. Sun is a business. It's not a charity organization or a full-employment program for has-beens. Earnings per share comes first. Everything else follows.
+
+Find and reward (not necessarily with cash!) your best people. Get rid of the losers who are bringing morale and productivity down for everyone else.
+
+Set innvoators free. They will innovate for their own reasons. Just let them.
+
+And get out of the operating system business. The Web is the OS, for cryin'-out-loud. Even Microsoft has figured that one out.

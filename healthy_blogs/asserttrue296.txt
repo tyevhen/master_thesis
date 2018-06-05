@@ -1,0 +1,35 @@
+Few bacterial species have had as great an impact on humankind as the members of the Mycobacterium family, which encompass the causative agents of (among other ailments) leprosy, tuberculosis, and Crohn's Disease in humans, and Johne's Disease in farm animals. Leprosy is known from antiquity and continues to strike 200,000 or more people each year worldwide. Tuberculosis, which affects (subclinically) one in three persons worldwide, continues to kill well over a million people a year and has caused a billion deaths in the last two centuries, more than all the wars and genocides of history combined.
+
+The association of M. avium subspecies paratuberculosis (MAP) with Crohn's Disease is still considered controversial by some, but if in fact Koch's criteria have already been met, MAP adds millions more to the toll of human misery caused by Mycobacterial infection.
+
+Colonies of Mycobacterium have a
+characteristically waxy consistency.
+Shown here: colonies of M. tuberculosis.
+What are these bacteria? Where did they come from? How have they managed to be so successful in causing death and disease?
+
+The prefix "myco" means fungal, but these are not fungi we're talking about. Mycobacteria are soil- and water-borne bacteria that produce an extraordinarily complex cell wall containing not only the usual (for bacteria) peptidoglycans but also:
+Arabinogalactan
+Mycolic acids
+Lipoarabinomannan
+Extractable lipids including glycolipids, phenolic glycolipids (PGL), glycopeptidolipids (GPL), waxes, acylated trehaloses, and sulfolipids
+In contrast to most cell-wall fatty acids (which contain carbon-carbon double bonds susceptible to oxidation), mycolic acids are cyclopropanated and resistant to oxidation, not to mention extremely hydrophobic. The Mycobacterial cell wall thus presents a formidable physical barrier to antibiotics, and it was with considerable dismay that physicians realized, early on, that penicillin would have no benefit in treating tuberculosis. When an antibiotic that could attack M. tuberculosis was finally discovered (streptomycin), it resulted in a 1952 Nobel Prize for Ukrainian American Selman Waksman (although in reality the discovery was made by a post-doc in Waksman's lab, Albert Schatz).
+
+The Mycobacterial cell wall is famously complex, but it also has the curious habit of disappearing entirely, under nutrient-starvation conditions. Like many other bacteria, Mycobacteria can, under certain conditions, shed their cell walls and take on a so-called L-form morphology, in which cells (bounded only by a thin and osmotically vulnerable cell membrane containing just 7% of the usual amount of peptidoglycan) exist as protoplasts which are nonetheless able to reproduce and thrive, producing distinctive colonies on solid media and giving rise, in vivo, to tiny spherules that are often confused with Russell bodies in cancer biopsies. The medical significance of the mysterious L-forms is still debated, after more than 100 years.
+
+The very small red filaments here are cells of  
+Mycobacterium avium living inside lymph-node
+macrophages in an immunocompromised individual.
+One thing most Mycobacterial species have in common is slow growth. Cultures of M. tuberculosis and MAP often require weeks to develop, and M. leprae (which can't be grown in pure culture at all; it can be lab-grown only in the footpads of mice or armadillos) has the longest known generation time of any bacterium, at two weeks.
+
+Ironically, pathogenic strains of Mycobacterium seem to have evolved slow growth as a survival strategy. (This certainly makes them hard to treat with antibiotics. Most antibiotics are effective only in disrupting the growth of actively growing cells.) The lack of DNA mismatch repair enzyme systems (MutS, MutL, and MutH) may be an outcome of the fact that slow DNA replication in these organisms, in and of itself, ensures reasonably high-fidelity replication. On the other hand, lack of a mismatch repair system could be why pseudogenes (genes inactivated due to frameshifts or other errors) abound in Mycobacterial species. M. leprae famously has over 1000 pseudogenes; M. smegmatis strain JS623 harbors over 200 pseudogenes; M. canettii (strain CIPT 140010059) and M. rhodesiae (strain NBB3) both have over 100. (For a good review of Mycobacterial DNA repair systems, see this 2011 paper.)
+
+Unlike Yersinia pestis, the plague organism, which may be less than 20,000 years old (very young in bacterial species time), M. tuberculosis, as a species, appears to be at least 3 million years old, although this number should probably be considered a minimum age, subject to upward revision. (The species was thought to be only 35,000 years old as late as 2002, before a more detailed genetic analysis established the 3-million-year estimate of its age. The numbers should be viewed with caution, however, since they're based on mutation-rate assumptions derived from data for E. coli.)
+
+The question of how M. tuberculosis has managed to achieve its distinctive pathogenic profile is a matter of active ongoing research, and likely will be for a long time. A recent review article reminds us: "The [complete genome] sequence of the pathogen Mycobacterium tuberculosis strain H37Rv has been available for over a decade, but the biology of the pathogen remains poorly understood."
+
+Miscellaneous Links
+List of famous T.B. victims—Brontë family, Balzac, Kafka, Thoreau, Kant, Chekhov, Orwell, Schrödinger, Vivien Leigh, Arline Feynman (wife of the famous physicist), the list goes on.
+Tuberculosis in Literature and the Arts
+The T.B. Blues (Jimmie Rodgers, 1931) This song, famously covered by Leon Redbone (among others), was written by Rodgers after he contracted the disease at age 27. He died eight years later.
+World Health Organization TB Stats (landing page)
+The Tuberculosis Systems Biology Program

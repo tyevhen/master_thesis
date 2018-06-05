@@ -1,0 +1,38 @@
+If you follow a lot of people on Twitter, but some of them don't follow you back, and you'd like to know who, exactly, those insensitive, churlish dolts are that don't find your tweets amusing, I have a couple of practical tips for you (with a quick JavaScript lesson thrown in for good measure). Ready?
+
+First tip: Go to http://friendorfollow.com and enter your Twitter name in the box. When you click the magic button, you'll see a new page appear, with the little thumbnail headshots of all your non-followers lined up in a grid. A veritable wall of infamy.
+
+How do you harvest the usernames of these folks? Unfortunately, friendorfollow.com doesn't seem to have an Export button (unless I'm missing something). There doesn't seem to be any easy way to capture those names.
+
+Not to worry, though. You know JavaScript.
+
+If you're running Firefox, flip open the Firebug console (install Firebug first, if you haven't done so already; how can you live without it?) Copy and paste the following code to the console:
+
+// convert DOM to string
+
+markup =
+(new XMLSerializer).serializeToString( document.body );
+
+root = new XML ( markup ); // convert string to XML
+
+users = root..A.IMG.@alt; // magic E4X expression
+
+for ( var i = 0; i < users.length( ); i++ )
+console.log( users[i].toString( ) );
+
+
+When you run these lines of code, all the usernames of the folks whose thumbnails are shown on the page will be written to the "output" side of the Firebug console.
+
+Let's step through the code. The first line of code creates an XMLSerializer object (Mozilla API) and uses it to serialize the DOM starting with the 'body' node. We need to use an XMLSerializer here rather than just fetch the markup from innerHTML, because we don't want to have gnarly ill-formed HTML in the next step, lest we puke and die.
+
+With our pristine, "tidy" (if you will) markup, we create a new E4X XML object out of it via the XML constructor and assign the result to the cleverly named variable "root."
+
+In the highly magical third line of code, we use E4X notation to suck out all the descendent A elements (however many levels deep) under root that also have an immediate child of IMG with an attribute of "alt". The information we want (the username) is in the "alt" attribute of the IMG.
+
+Note: 'A' and 'IMG' are capitalized because the "tidying" process that occurs in step No. 1 results in capitalization of all HTML element names. This is an important bit of canonicalization, since XML is case-sensitive.
+
+The for-loop simply peels through our 'users' list and writes each name to the Firebug console using Firebug's console.log method. Note that the length of 'users' has to be obtained through a method call to length() rather than via direct property lookup, because 'users' is not an ordinary JavaScript array. It's an E4X node list. You have to use the length() method.
+
+With not much extra work, you could wrap all the user data up in html tags and build a new page on the fly, and make Firefox render it in the current window, if you wanted to. Or you can just print out the thumbnail images on a piece of paper, stick it to the wall, and find some darts.
+
+The choice is yours.

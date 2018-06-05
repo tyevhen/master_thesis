@@ -1,0 +1,16 @@
+The other day another research paper was published. Below is the abstract from the report. I have not read the entire report, but it appears to be a continuation of an earlier paper published on “The Natural History of SBMA.” I have asked our resident biology professor to provide his insight and will publish his comments should they possibly be of interest.
+
+
+
+Longitudinal changes of outcome measures in spinal and bulbar muscular atrophy
+Atsushi Hashizume, Masahisa Katsuno, Haruhiko Banno, Keisuke Suzuki, Noriaki Suga, Tomoo Mano, Naoki Atsuta, Hiroaki Oe, Hirohisa Watanabe, Fumiaki Tanaka and Gen Sobue
+Published: July 06. 2012
+
+Spinal and bulbar muscular atrophy is an adult-onset, hereditary motor neuron disease caused by the expansion of a trinucleotide CAG repeat within the gene encoding the androgen receptor. To date, several agents have been shown to prevent or slow disease progression in animal models of this disease. For the translational research of these agents, it is necessary to perform the detailed analysis of natural history with quantitative outcome measures and to establish sensitive and validated disease-specific endpoints in the clinical trials. To this end, we performed a prospective observation of disease progression over 3 years in 34 genetically confirmed Japanese patients with spinal and bulbar muscular atrophy by using quantitative outcome measures, including functional and blood parameters.
+
+The baseline evaluation revealed that CAG repeat length in the androgen
+receptor gene correlated not only with the age of onset but also with the timing of substantial changes in activity of daily living. Multiple regression analyses indicated that the serum level of creatinine is the most useful blood parameter that reflects the severity of motor dysfunction in spinal and bulbar muscular atrophy. In 3-year prospective analyses, a slow but steady progression was affirmed in most of the outcome measures we examined. In the analyses using random coefficient models that summarize the individual data into a representative line, disease progression was not affected by CAG repeat length or onset age. These models showed large interindividual variation, which was also independent of the differences of CAG repeat size.
+
+Analyses using these models also demonstrated that the subtle neurological deficits at an early or preclinical stage were more likely to be detected by objective motor functional tests such as the 6-min walk test and grip power or serum creatinine levels than by functional rating scales, such as the revised amyotrophic lateral sclerosis functional rating scale or modified Norris scale. Categorization of the clinical phenotypes using factor analysis showed that upper limb function is closely related to bulbar function, but not to lower limb function at baseline, whereas the site of onset had no substantial effects on disease progression.
+
+These results suggest that patients with spinal and bulbar muscular atrophy show a slow but steady progression of motor dysfunction over time that is independent of CAG repeat length or clinical phenotype, and that objective outcome measures may be used to evaluate disease severity at an early stage of this disease.

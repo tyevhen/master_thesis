@@ -1,0 +1,24 @@
+The following article published in Eureka Alerts is interesting. You can find the abstract of the study in the Journal of Neuroscience.
+
+
+
+MSU scientists put some muscle behind their research
+Michigan State University
+
+EAST LANSING, Mich. - Michigan State University researchers used an old-fashioned neurobiology technique to explore new avenues for treatments to reverse a late-onset neurodegenerative disease that robs men of the capacity to walk, run, chew and swallow. 
+
+The results were recently published in the Journal of Neuroscience.
+
+
+
+The MSU team has identified new molecular targets for recovering motor function in men afflicted with spinal and bulbar muscular atrophy. Also known as Kennedy's disease - named after the physician who discovered it in the 1960s - SBMA is a rare, recessive X-linked disease men inherit from their mothers. While SBMA is not typically lethal - that is, life span is on average normal - quality of life is profoundly affected. 
+
+The innovation in the MSU study led by Youfen Xu, senior research associate in MSU's Neuroscience Program, was her challenging of the current dogma: the assumption that motor dysfunction in SBMA is caused by degeneration of motoneurons. By studying recordings from muscle fibers, the researchers listened in on how disease affects the function of neuromuscular synapses in three different mouse models of SBMA. Xu hypothesized that if motor dysfunction is not caused by loss of motoneurons, then perhaps synaptic drive at the neuromuscular junction fails. Indeed, this is what she found. 
+
+"When I joined Cindy Jordan's research project to study the electrophysiological features of neuromuscular transmission in SBMA mouse models, I was surprised to find that no one in the field had yet looked to see whether the function of neuromuscular synapses was affected, and I was equally surprised to find that virtually all aspects of their function are disrupted," Xu said. "The fact that we find pretty much the same kind of dysfunction across three quite different mouse models of SBMA makes me suspect that we have stumbled on to core attributes of the disease in humans."
+ 
+In addition to Xu, the research team includes Cynthia Jordan, MSU professor of physiology and associate director of the Neuroscience Program; Casey Henley, academic specialist in the program; and Kathy Halievski, Ph.D. student. 
+
+Jordan said that these findings have caused a paradigm shift in the field and that, as a result of this work, scientists are now focusing on muscle as really driving the disease. 
+
+"This is exciting because gene therapy is possible for muscle; it's not really possible for motor neurons that are housed in bone inside the spinal cord," Jordan said. "Finding critical mechanisms in muscle - where the neuromuscular junction resides - means that we have, for the first time, uncovered accessible targets for potential treatments to reverse the disease."

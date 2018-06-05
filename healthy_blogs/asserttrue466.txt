@@ -1,0 +1,21 @@
+Google's use of "interest-based ads" alongside Gmail's windows may seem annoying (and it is), but for a certain group of people it's more than annoying. It's actually harmful. 
+
+Living with someone who has paranoid schizophrenia has taught me a lot about the condition. One thing I've learned is that schizophrenia's symptoms are complex and varied, and antipsychotic drugs do not ameliorate all symptoms equally. Hallucinations tend to respond better to the drugs than paranoia. That's Fact Number One.
+
+This "interest based" ad has nothing whatsoever to do with my interests.
+
+Fact Number Two is that paranoid schizophrenia is the most common type of schizophrenia. 
+
+Fact Number Three is that even in paranoid schizophrenia patients who have made a good recovery, episodes of paranoia can still sometimes be triggered by certain external stimuli. This is where Gmail comes into play.
+
+Every Gmail user, by now, has experienced the discomfiting deja vu that arises from seeing personalized ads next to an open e-mail. Two days ago, you may have written an e-mail to a friend in which you mentioned water pistols. Today, you write an e-mail to someone else and notice (along the right edge of the window) an ad with a blue headline: "Best prices on Glock semi-automatics." This is exactly the kind of thing that causes a person with paranoid schizophrenia to go into an ever-spiraling panic. Is Gmail reading my thoughts? Do Google engineers suspect me of murder? Am I being spied on by Homeland Security agents posing as Google employees? Did my friend that I wrote to two days ago betray me?
+
+Am I being urged to commit suicide with a handgun?
+
+By Google's own estimate, more than 425 million people worldwide use Gmail. It's likely that at least 3 million of them have schizophrenia. Many of those people have serious ongoing paranoia issues, even if they're responding well to medication. The last thing they need is to see paranoia-inducing sidebar links in their e-mail client every day.
+
+By the way, the screenshot above is one I took this morning while viewing an e-mail to me that had nothing whatsoever to do with firearms. For whatever reason, Gmail decided to show me an "interest based ad" on firearms training. Why? I don't know. I don't own a gun, don't plan on owning a gun, don't have any interest whatsoever in firearms training. No ad could be less "interest based" than this one.
+
+The problem here is that you can't turn sidebar ads off. "Web Clip" ads at the top of your e-mail window can be turned off (see this article to learn how), but the "interest based" ads cannot be turned off. At https://www.google.com/settings/u/0/ads/preferences/?hl=en you'll find: "Google tries to show you the most relevant ads, whether or not you're opted in to seeing personalized ads."
+
+If Google wants to do the right thing, it needs to provide paranoia sufferers a way to turn off all personalized ads. The way things stand now, Google's spooky interest-based ads are merely an annoyance to most of us. But for some, they're a threat to mental health.

@@ -1,0 +1,77 @@
+Organisms vary greatly in the GC (guanine plus cytosine) content of their DNA, and yet all organisms can still make ribosomal proteins, DNA and RNA polymerases, and the various other essential proteins of life, no matter what their DNA vocabulary limitations might be. A high-GC organism like Streptomyces can make a given enzyme (DNA polymerase, say) using mostly G and C bases in its DNA, but a low-GC organism like Clostridium botulinum can also make the same kind of enzyme, even though it uses mostly A and T in its DNA. How is this possible?
+
+It's possible in part because of the many synonyms for amino acids available in the genetic code. But it's a mistake to think the same amino acids are used in equal numbers by high-GC organisms and low-GC organisms. Organisms at opposite ends of the GC spectrum use different amino acids.
+
+I was curious to see which amino acids correlate most strongly with genomic GC, so I gathered codon usage statistics for 109 organisms of widely varying genomic GC content and used JavaScript to calculate Pearson correlation coefficients for all 20 amino acids with respect to  GC content. The results are shown in the following table.
+
+TABLE 1. Correlation (r) between amino acid usage and genome GC content (N=109 organisms). 
+
+Code
+Amino Acid
+r
+A
+Alanine (Ala)
+0.9634
+R
+Arginine (Arg)
+0.9495
+G
+Glycine (Gly)
+0.9472
+P
+Proline (Pro)
+0.9436
+V
+Valine (Val)
+0.7725
+W
+Tryptophan (Trp)
+0.7497
+H
+Histidine (His)
+0.4660
+L
+Leucine (Leu)
+0.3364
+D
+Aspartic Acid (Asp)
+0.3347
+T
+Threonine (Thr)
+0.3099
+C
+Cysteine (Cys)
+-0.1280
+Q
+Glutamine (Gln)
+-0.1668
+M
+Methionine (Met)
+-0.2863
+E
+Glutamic Acid (Glu)
+-0.4621
+S
+Serine (Ser)
+-0.6831
+F
+Phenylalanine (Phe)
+-0.8550
+Y
+Tyrosine (Tyr)
+-0.8983
+K
+Lysine (Lys)
+-0.9389
+N
+Asparagine (Asn)
+-0.9391
+I
+Isoleucine (Ile)
+-0.9558
+
+Ten amino acids correlate positively with GC and ten correlate negatively. Alanine and arginine have the strongest positive correlation with GC, while isoleucine and asparagine have the strongest negative correlation with genomic GC content. (But note that these data apply only to the 109 organisms studied. For the complete list of 109 organisms, see this post.)
+
+If you were to extract all the amino acids out of Clostridium botulinum (28% GC), you would get far more lysine than alanine. Conversely, if you were to hydrolyze all the proteins in Streptomyces griseus (GC 72%), you would find far more alanine than lysine.
+
+Interestingly, serine has six synonymous codons (AGT, AGC, CTA, CTG, CTC, CTT) and can just as easily be specified with G and C as with A and T; so overall, you'd expect little correlation with genomic GC. And yet serine use correlates strongly with low GC. In a sense, this is not surprising. Certain low-GC organisms (like Streptococcus) are known to produce serine-rich cell-coat proteins, some of which are important determinants of pathogenicity. But it may simply be that the high utilization of serine in low-GC organisms is related to one-carbon chemistry. Serine, after all, is the source of the methyl group that, by way of methylenetetrahydrofolate, converts dUMP to TMP (thymidine monophosphate, a DNA precursor). Any organism whose DNA is unusually rich in thymine (low in GC) will almost certainly be processing large quantities of serine. Serine is also a carbon source in the biosynthetic pathways for cysteine and methionine, both of which, like serine itself, are negatively correlated with genomic GC content.

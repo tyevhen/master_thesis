@@ -1,0 +1,3 @@
+It turns out JDK 6 comes with a JavaScript console facility so that you can play with Rhino interactively from a command line. Look for a file called jrunscript.exe in your JDK's /bin directory.
+
+A pretty good article on Java/JavaScript integration in Java 6 can be found on the Sun Developer Network site right here.

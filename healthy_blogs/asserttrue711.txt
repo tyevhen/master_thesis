@@ -1,0 +1,52 @@
+1 2 3 4 5 = 1
+5 4 3 2 1 = 2
+1 1 1 1 1 = 5
+2 2 2 2 2 = 1
+3 3 3 3 3 = 6
+4 4 4 4 4 = 2
+5 5 5 5 5 = 7
+6 6 6 6 6 = 3
+1 1 2 2 2 = 6
+3 3 4 4 4 = 7
+1 1 1 1 2 = 1
+1 1 1 1 3 = 6
+1 1 1 1 4 = 2
+1 1 1 1 5 = 7
+2 2 2 2 6 = 3
+2 2 2 2 5 = 7
+2 2 2 2 4 = 2
+2 2 2 2 3 = 6
+2 2 2 2 2 = 1
+6 1 1 1 1 = 2
+5 1 1 1 1 = 8
+4 1 1 1 1 = 5
+3 1 1 1 1 = 2
+2 1 1 1 1 = 8
+3 1 4 1 5 = ?
+
+This puzzle comes by way of a terrific blog post by James Marcus Bach, who in turn got the puzzle from Trey Klein. Bach candidly reports: "I found it difficult to solve. Took me a couple of hours."
+As a rule, I hate puzzles of the recreational (purposeless, do-nothing) sort -- colloquially known as brain-teasers -- simply because they accomplish nothing except to waste time and make me feel stupid. I either already know "the trick," or when I find out what the trick is, it turns out not to be useful for anything other than solving the puzzle in question. Then I feel cheated and stupid.
+
+But I'm inherently a masochist, so naturally, when I saw the above puzzle, I just had to try it. ;)
+
+I resolved not to spend more than two or three minutes on it, though.
+
+It turns out, I got the puzzle right, and it took me only a minute or so. You might want to stare at the numbers yourself for a couple minutes now, before reading the next paragraph.
+
+The supposed "answer" and its reasoning (involving a somewhat painful-looking formula with modulo arithmetic) is given here. I took a far more pragmatic approach. I looked only at occurrences of "5 =" and saw that in 3 out of 4 cases, a 7 appeared on the right-hand side of the equals sign. If this is some kind of casino game and I'm betting real money, and I see "5 =" come up again, I'm betting on 7 being the answer.
+
+I decided to reverse every line of the problem and try it again. I looked at each occurrence of "7 =". And again, 3 out of 4 times, "7 =" ends up paired with 5.
+
+That's it, I decided. The answer must be 7.
+
+It turns out 7 is the correct answer.
+
+"But you just guessed!" someone will say. "You didn't prove that the answer is 7."
+
+My retort is that neither did the person who wrote the explanation given here prove that the inevitable answer is 7, because he or she didn't prove that the given explanation is the only explanation that will work; he merely gave an explanation that is consistent with 7 being the answer.
+
+I'm 100% sure if I had 3 hours, I could come up with at least a couple of formulas that, given the input data shown above, will be consistent with an answer of 7. I can also come up with a couple of formulas that are consistent with an answer of 1. So which formula (out of these several formulae) is "correct"? Is any one formula provably the only possible correct one? That's the question. I'd argue it's not even possible to know if that question can be answered.
+
+Still, is it reasonable to attack a problem like this heuristically, and "bet" on an answer that seems (statistically) likely to be correct? Is it better to spend 3 hours arriving at a formula that's consistent with a given answer (but that could be "shot down" by a different formula later)? What kind of approach do you take if you're in an out-of-control spacecraft and you need an answer within 3 minutes or you'll burn up on re-entry? What if you're in the Titanic and have a full 24 hours' notice of icebergs ahead and need to decide on the correct heading to take? Do you "bet the farm" on a heuristic method -- or on a formula that seems right (and has the appearance of being rigorous, because it's so formulaic) but isn't provably correct?
+
+I think the approach you take depends on the situation, but it also depends on your personal working style. In the absence of a reason not to, I tend to take a heuristic approach. My style is not to waste time, even when I have time to waste. What's yours?

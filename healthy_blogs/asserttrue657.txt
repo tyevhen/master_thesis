@@ -1,0 +1,67 @@
+The Java Advanced Imaging API supports a number of interesting convolutions straight out of the box, and one of them is Sobel edge detection.
+
+The Sobel edge-detection kernel comes in two varieties, corresponding to horizontal edge detection and vertical edge detection:
+ 1  2  1
+0  0  0
+-1 -2 -1
+
+1  0 -1
+2  0 -2
+1  0 -1
+You can combine them, and/or run them serially against an image, to detect all edges in an image. And that's what the following code example (in JavaScript) does. You can run the following script against an image of your choice using the ImageMunger app I wrote about a few days ago. Be sure the Java Advanced Imaging JARs are in your classpath.
+/* Sobel.js
+* Kas Thomas
+* 31 January 2010
+* Public domain.
+*
+* An edge-detection routine using
+* Java Advanced Imaging.
+*
+* Requires Java Advanced Imaging library:
+* http://java.sun.com/products/java-media/jai/current.html
+*
+* Run this file using ImageMunger:
+* http://asserttrue.blogspot.com/2010/01/simple-java-class-for-running-scripts.html
+*
+*/
+
+jai = Packages.javax.media.jai;
+sobelH = jai.KernelJAI.GRADIENT_MASK_SOBEL_HORIZONTAL;
+sobelV = jai.KernelJAI.GRADIENT_MASK_SOBEL_VERTICAL;
+
+pb = new Packages.java.awt.image.renderable.ParameterBlock( );
+
+// ImageMunger puts "Image" in global scope:
+pb.addSource( Image );
+pb.add( sobelH );
+pb.add( sobelV );
+
+renderedOp = jai.JAI.create( "gradientmagnitude", pb );
+var image = renderedOp.getRendering().getAsBufferedImage();
+Panel.setImage( invertImage( image ) );
+
+// take BufferedImage as arg; flip all bits in all pixels
+function invertImage( image ) {
+
+var w = image.getWidth();
+var h = image.getHeight();
+var pixels = image.getRGB( 0,0, w,h, null, 0,w );
+
+for ( var i = 0; i < pixels.length; i++ )
+pixels[ i ] =~ pixels[ i ]; // flip pixel bits
+
+image.setRGB( 0,0, w,h, pixels, 0, w );
+return image;
+}
+
+If you run the Sobel operation by itself, you get a "negative" image, like so:
+
+
+
+If you want the inverted version of this image (see example further above), you need to invert the individual pixels of the image. The super-fast way to do it is with a lookup table, but you can also do the pixel inversion manually, in a loop, which is what I've done (for illustrative purposes). In JavaScript the pixel-inversion loop adds about one second of processing time for a 600 x 400 image. The Sobel filter by itself takes around a half a second.
+
+Sobel tends to be very sensitive to noise (it will feature-enhance specks and JPEG artifacts), so it often helps to smooth an image, first, with a blurring operation, prior to applying Sobel.
+
+Future projects:
+Write a "tunable" version of Sobel that can detect soft or hard edges, according to a tuning parameter.
+Write a version of Sobel that's tunable by color (viz., detecting just blue edges, or just black edges, or just medium-grey edges).

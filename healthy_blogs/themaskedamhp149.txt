@@ -1,0 +1,47 @@
+I am currently working with a woman who recently had an unfortunate encounter with the Charwood Police. Joan is a single woman in her 50’s. She works as a self employed nail technician. She is good at her job and has a loyal clientele. She has had no previous history of mental disorder.
+
+Joan was in her front garden one fine weekend Spring morning, gardening. Her sister was with her. Her sister was concerned about her mental state, as she had just finished with her boyfriend of several years, and her mood seemed to be very volatile. Her sister called the on-call doctor, who refused to come out, and suggested she call an ambulance, which she did.
+
+Instead of the ambulance arriving, three male police officers suddenly entered Joan’s garden and, apparently without attempting to talk to Joan, wrestled her to the ground. They managed to break her leg in the process. They then detained her under Sec.136 and took her to A&E. She was subsequently assessed under the Mental Health Act, detained under Sec.2 and admitted to Bluebell Ward, in a cast.
+
+I met Joan when she appealed against her detention and I was asked to provide a Tribunal Report. However, her Sec.2 was rescinded and she was discharged less than two weeks after admission. Since discharge, she has shown no signs of mental disorder.
+
+When I heard about the circumstances of her detention I was very concerned, to say the least, about the legality of the Sec.136.
+
+The MHA states (Sec.136(1)): “If a constable finds in a place to which the public have access a person who appears to him to be suffering from mental disorder and to be in immediate need of care or control, the constable may, if he thinks it necessary to do so in the interests of that person or for the protection of other persons, remove that person to a place of safety.”
+
+The Reference Guide to the Act (Ch 30.17) adds: “For these purposes, a “public place” can be taken to mean any place (whether indoors or outdoors) to which the public have access, whether by right, by explicit or implied permission, on payment, or otherwise.
+
+Richard Jones, in the Mental Health Act Manual, observes that this “probably includes: public highway, public access if payment is made, eg a cinema, public access at certain times of the day, eg a public house.”
+
+Is someone’s front garden a “public place” or “a place to which the public have access”? Although there is little Mental Health case law which examines this issue, there are a number of cases relating to other legislation in which this has been explored.
+
+In the case of R v Edwards (1978) in the Court of Appeal, it was found that, as far as the Public Order Act 1936 was concerned “the fact that the public can obtain access to a private house as visitors through the front garden does not make the garden a public place”.
+
+The Weightman’s legal website has an informative article examining this issue. In relation to someone’s front garden, they note:
+
+“With regard to the front garden of a private house, for example, we know that it will only fit the bill if members of the public can enter it without invitation (R v Bogdal [2008] EWCA Crim 1); and that in the case of a very small garden, it won’t be sufficient that someone standing there could reach a pedestrian on an adjoining highway. (R v Leroy Lloyd Roberts [2003] EWCA Crim 2753) But we only know that because of cases decided under the Public Order Act 1936 (R v Edwards (1978) 67 Cr App R 228), the Criminal Justice Act 1988 and the Dangerous Dogs Act 1991.”
+
+Based on these sources, then, it is reasonable to conclude that a front (or a back) garden does not constitute a public place within the meaning of Sec.136. The Police therefore acted unlawfully when they restrained Joan and then took her to a place of safety. Joan is taking legal action.
+
+While I do think that the Police are generally trying to act in the best interests of individuals when they invoke Sec.136, the typical copper on the beat does not necessarily understand the legal niceties of Sec.136. One such example was reported in Wigan Today on 30th November 2011, the case of Ms Atkinson, who died in hospital from a punctured lung.
+
+It was reported: “Police had been called… following reports of a woman acting aggressively to her partner. They found Ms Atkinson clearly distressed, screaming and waving her arms around. Because of her behaviour, police decided to section her under the Mental Health Act for her own safety and took her to hospital for help.”
+
+One of the officers during cross examination during the inquest stated: “After we detained Ms Atkinson and put her in the back of the van, PC Allen asked me to contact Leigh Infirmary and told me he'd detained her under Section 136 of the Mental Health Act. I hadn't really thought about what powers we had to detain her, I just wanted to do the right thing and get her to hospital as quickly as possible."
+
+I’m sure that these officers were just trying to do “the right thing”. I’ve assessed many people in police custody over the years, sometimes detained under Sec.136, and sometimes under arrest for a public order offence. At times it seems it was the custody sergeant who decided under which power the officers involved had brought them to the police station on their arrival.
+
+However, using Sec.136 when the mentally disordered person is not in a public place can cause more problems than it might solve. One such case is featured in a piece of Mental Health case law known as R (Sessay) v South London and Maudsley NHS Foundation Trust (2011) EWHC 2617 (QB).
+
+In this case, the police attended the home of a woman after concerns about her mental health were raised. They removed her from her accommodation and eventually brought her to a hospital where the police officers completed and handed in a document which they called a “Sec.5-6 MCA 2005 Form” which stated the basis upon which they considered the Claimant to lack capacity and upon which they had therefore used their “powers” under the MCA 2005 to bring her to hospital. The hospital rightly concluded that this had no legal authority, and told the woman that she was being detained under Sec.136. She was eventually detained under Sec.2.
+
+The Mental Capacity Act 2005 does not give anyone powers to remove a person from their home and forcibly take them to hospital. Once in a hospital, Sec.136 cannot be invoked because it is not a public place. As Richard Jones observes “an A& E dept waiting area is a public place, but a hospital ward is not, as it is a place to which only particular members of the public can attend at the request of the patient and with the permission of the hospital managers”.
+
+The police could not of course have used Sec.136 to remove this woman, as she was in her own home, again not a “public place”.
+
+The Court found, among other things, that her rights under Article 5 of the European Convention of Human Rights were infringed. It also stated that Sec.135 and Sec.136 were the exclusive powers available to police officers to remove persons to a place of safety, and that the hospital unlawfully detained her.
+
+Incidentally, I believe all this may answer the query posed by Rosemary Cantwell, a blog reader, who posted in the comments to my last post, Conveyance of Mentally Disordered Patients to Hospital, the following question: “Is it necessary to obtain Sec.136 to remove forcibly a person from hospital to a place of safety who is not under Sec.2 or Sec.3?”
+
+I do not know whether Ms Cantwell is referring to an actual case or a hypothetical situation. Either way, it is clear that a hospital ward cannot be considered to be “a place to which the public have access”, and Sec.136 could not therefore be used to remove an inpatient, or anyone else, from that place. However, if by “hospital” Ms Cantwell means a hospital reception area or A&E department, then Sec.136 could be used.

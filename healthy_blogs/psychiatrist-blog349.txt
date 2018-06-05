@@ -1,0 +1,28 @@
+Note: As I was writing this post, Pete Earley reran a post he wrote in 2010 about this identical topic. Spooky! Please go over to his blog and read what he has to say about it here.
+
+
+Now that states are moving to create registries of involuntarily admitted patients, I think the time has come to reconsider an old idea, specifically the use of of psychiatric advance directives (PADS).
+
+For those who have never heard of this idea, a psychiatric advance directive is a form of durable power of attorney. It's a document that a patient creates which states the kind of treatment the patient would like in the future, if he becomes ill and loses the ability to make treatment decisions. The document may designate a person the patient wants to make decisions on his behalf---a person known as a health care proxy---or may just list the patient's wishes about various things. Here is a partial list of the issues that get addressed in a psychiatric advance directive:
+
+- the choice of hospital the patient would like to be admitted to
+- an affirmative statement requesting admission
+- the types, frequency and dose of preferred medication
+- consent for use of seclusion or restraint
+- designation for care of children, property or pets
+- person to notify or next of kin designation
+- consent for use of electroconvulsive or ECT treatment
+
+Of course, the obvious thing about this list is that there is an assumption that the person is using it to request treatment when ill, but it can also be used to document which treatments, if any, the patient wants to refuse.
+
+But what if a patient uses an advance directive to refuse all treatment? Here likes the conundrum. What if the patient becomes violent or threatens someone else? What if the patient's condition deteriorates to the point that his life is in jeopardy? For example, someone who is catatonic and unable to eat or drink fluids? What if the patient is not dangerous or doing anything violent, but just needs supervision and nursing care (help bathing or dressing or eating) and can't live outside an inpatient unit? Should this person be allowed to stay in a hospital indefinitely (when there is a huge demand for psychiatric bedspace for voluntary patients) when a short course of involuntary medication might make them better enough to live independently, outside a hospital?
+
+And what if the patient wants treatment, but the advance directive dictates a treatment that is experimental, ineffective, or even potentially harmful? Should an advance directive be allowed to contain a patient's request for medical marijuana? In some states, the treating psychiatrist is bound by law to follow the instructions in an advance directive and there are civil penalties for not following them.
+
+Also, in certain cases an advance directive can be overridden by the court if the patient becomes dangerous to other patients. Depending on how the directive is written, it can also be revoked by the patient once he's in the hospital which makes the whole document rather pointless. Finally, many patients and doctors have either never heard of PADS or are not familiar enough with them to use them.
+
+This is why I'm putting up this post now. I think the PADS have potential utility and are certainly better than the outpatient commitment laws that many states have (and that our state is considering). To keep things simple, let's start with the assumption that the patient actually wants to be treated when they are sick but loses the ability to make that decision. (In other words, the patient agrees with the treatment in retrospect---ie. "I didn't like it, but I know it had to be done.")
+
+I'd like our readers to discuss this so we can figure out better ways to make them useful. Have you ever written or used a PAD (from either a psychiatist or patient standpoint)? What worked, what didn't? What would you like to see changed? How could it be improved? Do you have a better idea than a PAD?
+
+If you want more information before commenting, here's a one-stop-shopping site for PAD information.

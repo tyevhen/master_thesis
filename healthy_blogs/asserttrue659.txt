@@ -1,0 +1,34 @@
+Last time, I showed that you could rotate an image 180 degrees in what amounts to one line of JavaScript, basically just doing pixels.reverse( ). Rotating an image by an arbitrary amount (something other than 180 degrees) is almost as easy. It requires about 8 lines of code.
+
+JavaScript for doing the rotation with the Java Advanced Imaging API is shown below. JAI makes short work of this and a ton of other graphics transformations. All you have to do is be sure the JAI JARs are in your classpath. Then you can set up a transformation by creating a ParameterBlock with appropriate parameters (in this case, the x- and y-coordinates of the rotation origin, the amount of rotation in radians, and optionally a rendering hint as to what kind of pixel interpolation you'd like; in this case, we don't specify a hint and thus accept the default of INTERP_NEAREST).
+
+/*
+* rotate.js
+* Kas Thomas
+* 29 January 2010
+* Public domain.
+*
+* Requires Java Advanced Imaging library:
+* http://java.sun.com/products/java-media/jai/current.html
+*
+* Run this file using ImageMunger:
+* http://asserttrue.blogspot.com/2010/01/simple-java-class-for-running-scripts.html
+*/
+
+pb = new Packages.java.awt.image.renderable.ParameterBlock( );
+pb.addSource( Image );
+
+pb.add( new java.lang.Float(0) ); // x-origin
+pb.add( new java.lang.Float(0) ); // y-origin
+pb.add( new java.lang.Float( Math.PI/8) ); // rotation amount
+
+renderedOp = Packages.javax.media.jai.JAI.create( "rotate", pb );
+image = renderedOp.getRendering().getAsBufferedImage();
+
+Panel.setImage( image );
+
+Note that JAI expects parameters of type float, which is not what JavaScript provides by default. By default, numbers in JavaScript are doubles. So you have to explicitly create java.lang.Floats as shown.
+
+As in previous posts, I'm using my little ImageMunger app to run the script.
+
+Also, as with previous scripts, performance is quite good (through no fault of my own): rotation occurs at a rate of about 500 pixels per millisecond on a Dell Inspiron laptop with 2.2 GHz Intel Duo processor running (gack!) Windows Vista. Which ain't bad at all. I'll take 500-pixels-per-millisec throughput any day, on any OS.

@@ -1,0 +1,10 @@
+In today's edition of USAToday, there is an article titled Mental Health Spending is Up, New Medicare Data Shows.  
+
+The article notes:
+Medicare providers got more for mental health and specialty care including sports and sleep medicine in 2013, according to new payment data released Monday that shows which healthcare providers received the most money.
+Among the biggest changes:
+• Spending on psychiatry was up 9.3%, to $853 million
+
+Okay, so I want to point out that in 2013,  psychiatry changed how we code and there was the introduction of new CPT codes.  At the time, the complexity and absurdity of breaking down minute-by-minute break down of each session into psychotherapy versus evaluation/management seemed absurd, but we all eventually fell into breaking our appointments down into a set of codes that captures what we do.  It meant that bills sent to Medicare reflected an E/M portion plus a psychotherapy portion, and the result was a much higher amount that could be billed/charged then under the old "50 minute psychotherapy with medication management code."  
+
+So if you suddenly increase the amount that a service is compensated, why is it surprising that mental health spending went up?  Just sayin' .....

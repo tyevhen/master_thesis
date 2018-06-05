@@ -1,0 +1,58 @@
+Lately I've been experimenting with Google Webfonts, which is a terrific way to get started with webfont technology. The fonts are free and using them is a snap. Scroll down for a few sample fonts.
+
+Once you pick out the fonts you want to use, just insert a line like the following in the <head> section of your template. Note that this is all one line (ignore the wrapping):
+
+<link href='http://fonts.googleapis.com/css?family=Arbutus+Slab|Belgrano|Tinos:400,400italic|Ovo|Arapey:400italic,400|Alegreya:400italic,400,700|Ledger|Adamina|Andada' rel='stylesheet' type='text/css'>
+
+Right after that line, insert some style classes as follows:
+
+<style>
+.ovo  { font-family: Ovo, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+.arbutus  { font-family: Arbutus+Slab, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+.tinos  { font-family: Tinos, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+.arapey  { font-family: Arapey, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+.alegreya  { font-family: Alegreya, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+.ledger  { font-family: Ledger, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+.adamina  { font-family: Adamina, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+.andada  { font-family: Andada, Arial, serif; font-weight: 400;font-size:12pt;font-color:black; }
+</style>
+
+Note that you can put any name you want after the dot. For example, instead of ".ovo" you could name the class ".fancy" or ".whatever" or ".ovo12pt," but for maximum browser compatibility, don't start the class name with a number. For instance, don't use ".12ptOvo."
+
+Save your template, and you're ready to use the fonts. How? One way is to enclose a section of text in a <span> that invokes the class you want, like this:
+
+<span class="ovo">
+Text goes here. Blah blah blah.
+</span>
+
+Google provides hundreds of free fonts (again, see Google Webfonts for details), and many of them are outstanding. The serif fonts are less numerous and less varied than the sans-serif fonts Google provides, and there are no convincing "typewriter fonts" (which is a serious omission, IMHO), but you'll find no shortage of headline fonts. Check the character sets carefully, in any case, because many of the fonts provide only a basic Latin alphanumeric character set.
+
+For an even greater variety of fonts, be sure to check out Adobe's Typekit site.
+
+Here are some of my personal favorites from the Google collection:
+
+Ovo
+Nicole Fally's Ovo was inspired by a set of hand-lettered caps seen in a 1930s lettering guide. A medium-contrast serif font, Ovo has a noticeable yet agreeable linearity, with crisp features that provide good (though not excellent) legibility at a variety of sizes. This sample is 12pt and shows that the font itself is natively smaller than most fonts. Ovo's serifs and crossbars are slanted and adhere to a single common angle. This makes for a distinctive font but can become intrusive in long passages of text. Ovo is thus (arguably) better used for short and medium-length spans of text.
+
+Belgrano
+Belgrano is a slab serif type, initially designed for printed newspapers but now adapted for use on the web. It features coarse terminals and larger counterforms that allow it to work well in smaller sizes. (This sample is 10pt.) Letters of the alphabet that are closed but rounded ('o', 'b', 'p', etc.) tend to circumscribe slightly more white space in Belgrano than in fonts like Alegreya, giving a more open feel to long runs of text.
+
+Tinos
+Tinos was designed by Steve Matteson as a refreshingly stylish alternative to Times New Roman. It is metrically compatible with Times New Roman (giving about the same number of words per page, for example), even though it looks more condensed. Tinos offers good onscreen readability characteristics and comes with a superbly crafted italic version. In larger sizes, it quickly loses its "condensed" feel.
+
+Arapey
+Eduardo Tunni's first sketches of this typeface were made during a vacation in Arapey, a small town in the north of Uruguay, hence its name. While the font is reminiscent of Bodoni, the soft lines and finishes give the text a smooth, distinguished feeling. The font tends to look best at 12pt or larger sizes. This sample is 13pt.
+
+Alegreya
+Alegreya was chosen as one of 53 "Fonts of the Decade" at the ATypI Letter2 competition in September 2011. It was also selected in the 2nd Bienal Iberoamericana de Diseño competition held in Madrid in 2010. Originally intended for literature, Alegreya is more angular than Arapey and conveys a subtle variegation that facilitates the reading of long texts. The italic version shows just as much care and attention to detail as the roman version. There is also a Small Caps sister family. The font is natively somewhat small (this is a 12pt sample).
+
+Adamina
+An excellent general-purpose serif font for long-form text projects, Adamina was specifically designed for readability at small sizes. As a result, the x-height is increased and complex features (of the kind that contribute to contrast) are kept more controlled. One-sided flaring and asymmetrical serifs provide a pleasant reading experience; the font never feels intrusive. This is an 11pt sample with letter spacing increased by 0.01em and word-spacing set to 0.1em (because otherwise it can look a bit tight, especially at small point sizes).
+
+Ledger
+Much of Ledger's charm, as with Garamond, comes from its relatively heavy downstroke thickness compared to the almost frail stroke thickness at the tops of curved letters like 'o' and 'p'. That and the font's slightly more open character make Ledger a good alternative to Garamond-family fonts in larger sizes (though not smaller sizes). The letter forms feature a large x-height, good stroke contrast, and elegant wedge-like serifs and terminals, yielding a "distinguished-looking" font, again in the spirit of Garamond except with somewhat better screen readability.
+
+Andada
+Designed by Carolina Giovagnoli for Huerta Tipográfica, Andada shares many of Adamina's most agreeable features but, by virtue of being a slab-serif design, lacks the more refined flourishes (in ascenders and descenders, for example) of Adamina. Perhaps precisely because of the less-adorned design, many readers will prefer Andada over Adamina (or "Garamond-like" fonts) for long passages of text. 
+
+Note: If you found this post useful, please tweet it and/or share the link with a friend. Thanks!

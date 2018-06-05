@@ -1,0 +1,78 @@
+This post was inspired by a post on the Neuroskeptic.  The impression I get from that blog is that the average reader thinks that psychiatrists are a bunch of chuckleheads who know very little and that is probably why they are so ignorant of science.  The Neuroskeptic himself seems to be slighlty more tolerant but like most bloggers he has to stir the pot.  The focus of this post was to take a look at kappa statistics given in the article by Freedman on DSM5 field trials and a graphic supplied by the boringoldman blog and conclude that DSM5 reliabilities were not good, they were not as good as DSM-IV, and thankfully psychiatrists could just ignore the DSM if they wanted to.
+
+On the face of it all this seems like damning criticism.  Is there any defense from the neuroscientific opinion?  It turns out that there is and it comes from two sources.  The first is the common experience that most people have had who have any medical diagnosis in their lifetime.  Were you ever misdiagnosed?  Did you ever get a second opinion and find that the diagnoses by both doctors were so far apart that it was difficult to make a plan to address the problem?  I can give you one of many examples from my lifetime.  When I was a second year medical student I had several incidents of ankle pain.  I was assessed and ended up at an orthopedics clinic.   I had my ankle casted a couple of times, even though I had no history of trauma.  I finally woke up one night with excruciating left ankle pain and went to the emergency department.  I saw orthopedics again and they aspirated the joint.  They also asked my  wife to leave and asked me if I had possibly contracted gonorrhea somewhere.  I was given acetaminophen with codeine and discharged after about 8 hours.  A couple more weeks of pain and I finally got in to see one of the top experts in Rheumatology who finally made the diagnosis of gout.  At that point I had seen 4 or 5 other doctors and none of them had been able to correctly diagnose the cause of my ankle pain.  Calculating a kappa statistic for a comparison between the expert and the previous physicians would have resulted in a very low number.
+
+But the story doesn't end there.  As anyone with gout knows, it has varied presentations including inflammation that often seems to extend outside of the joint.  During my residency training a few years later I had acute right wrist pain.  The internist I saw decided he needed to aspirate my wrist joint and ended up aspirating a piece of the wrist joint into the syringe.  No diagnosis despite this procedure.  I demanded treatment for gout and of course it worked.  Several recurrences of wrist pain have resulted in misdiagnoses of cellulitis.  Keep in mind that I am not testing these doctors.  I am presenting to them and telling them I have gout and I think my wrist pain is an acute gout attack.  They are saying: "Well gout doesn't usually affect the wrist. I think this is cellulitis."  I have walked out of clinics and thrown the prescription for antibiotic away as I walked out the door.  I finally just got a supply of the anti-inflammatory medication that I need and treat these episodes myself rather than risk misdiagnosis by a physician who does not know much about gout.
+
+You could say this is all anecdotal.  I have more anecdotes about how I have been personally misdiagnosed and the anecdotes of an additional thousand people at this time.  I heard Ben Stein say: "At some point the anecdotal becomes the statistical" and this is a good example from medicine.  But what does the literature say about the reliability of diagnoses.  The diagnostic criteria for gout have been around longer than the DSM.  Another frequent criticism of psychiatric diagnosis is that there are no confirmatory tests for the diagnosis.  Numerous confirmatory tests for gout did not prevent misdiagnosis in my case.  
+
+That brings us to the second line of defense - kappa values that are documented in the medical literature.  Let me preface that by saying that compared to psychiatry, there are literally a smattering of kappas from other specialties.  The following table is a sample from this literature search:
+  
+
+
+observation
+kappa
+reference
+Scaphoid bone fractures diagnosed by radiologists
+0.51
+ de Zwart AD, et al.  Interobserver variability among radiologists for diagnosis of scaphoid fractures
+by computed tomography. J Hand Surg Am. 2012 Nov;37(11
+
+Reproducibility of serrated polyp diagnosis by pathologists
+0.38-0.557
+Ensari A, et al. Serrated polyps of the colon: how reproducible is their classification? Virchows Arch. 2012 Nov;461(5):495-504. doi: 10.1007/s00428-012-1319-7.
+
+Detection of anomalous origin of coronary arteries by CT
+0.65
+Jappar IA, et al. Diagnosis of anomalous origin and course of coronary arteries using non-contrast cardiac CT scan and
+detection features. J Cardiovasc Comput Tomogr. 2012 Sep-Oct;6(5):335-45.
+
+Skeletal muscle CT to idenitify various muscular dystrophies
+Overall 0.27 but in some cases 0.51 and 0.59
+ten Dam L, et al.  Reliability and accuracy of skeletal muscle imaging in limb-girdle muscular dystrophies. Neurology. 2012 Oct 16;79(16):1716-23.
+
+Criteria standards to diagnose CHF
+0.59-0.74
+Collins SP, et al. A comparison of criterion standard methods to diagnose acute heart failure. Congest Heart Fail. 2012 Sep-Oct;18(5):262-71.
+
+Spoke sign for otitis media
+0.21 (residents)
+0.24 (staff)
+0.61 (ENT residents)
+Sridhara SK, Brietzke SE. The "Spoke Sign": An Otoscopic Diagnostic Aid for
+Detecting Otitis Media With Effusion. Arch Otolaryngol Head Neck Surg. 2012 Oct
+15:1-5.
+
+Pediatric residents diagnosis of otitis media compared to ENT experts
+0.3
+Steinbach WJ, etal. Pediatric
+residents' clinical diagnostic accuracy of otitis media. Pediatrics. 2002
+Jun;109(6):993-8.
+
+Abnormal cardiac exam during sports screening
+0.1 (cardiology fellows)
+0 (fellows compared to staff)
+O'Connor FG, et al. A pilot study of
+clinical agreement in cardiovascular preparticipation examinations: how good is the standard of care? Clin J Sport Med. 2005 May;15(3):177-9
+
+
+
+
+
+
+
+What jumps out at you from the table?  The kappas from other specialties are widely variable and certainly no better than criticized values from psychiatry.  The fact that some of these kappas are based on interpretations of more uniform test data (radiology images or pathology specimens) seems to make little difference.
+
+Low interobserver consensus seems to be the rule rather than the exception in medicine.  Psychiatry is the only specialty that openly admits this.  Misdiagnosis is a universal phenomenon and I would argue that it is a basic element in the process of medical diagnosis.  Some have referred to it as the "art" of medicine, but I prefer a more scientific explanation.   From a neurobiological standpoint there is certainly the phenomenon of significant variability between people.  Medicine from the outset has always presented itself to practitioners as a field where rational analysis produces a logical result.  With the degrees of freedom inherent in biological systems that degree of certainty is an illusion at best.   Pretending that psychiatry is less reliable than any other field is an equally problematic illusion, but I guess it makes for good rhetoric.
+
+George Dawson, MD, DFAPA
+
+
+Freedman R, Lewis DA, Michels R, Pine DS, Schultz SK, Tamminga CA, Gabbard GO, Gau SS, Javitt DC, Oquendo MA, Shrout PE, Vieta E, Yager J. The Initial Field
+Trials of DSM-5: New Blooms and Old Thorns. Am J Psychiatry. 2013 Jan
+1;170(1):1-5.
+Maclure M, Willett WC. Misinterpretation and misuse of the kappa statistic. Am J Epidemiol. 1987 Aug;126(2):161-9. Review. PubMed PMID: 3300279.
+
+Yoshizawa CN, Le Marchand L. Re: "Misinterpretation and misuse of the kappa statistic". Am J Epidemiol. 1988 Nov;128(5):1179-81. PubMed PMID: 3189294.
+
+Singh H, Giardina T, Meyer AD, Forjuoh SN, Reis MD, Thomas EJ. Types and Origins of Diagnostic Errors in Primary Care Settings.JAMA Intern Med. 2013;173(6):418-425. doi:10.1001/jamainternmed.2013.2777

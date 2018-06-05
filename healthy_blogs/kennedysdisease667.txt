@@ -1,0 +1,8 @@
+JAMA Neurology published the following article in 2012. Another person living with Kennedy’s Disease recommended the article to me. The paper does a good job of explaining the condition to the layperson. 
+
+MolecularPathophysiology and Disease-Modifying Therapies for Spinal and Bulbar MuscularAtrophy
+Masahisa Katsuno, MD, PhD; Haruhiko Banno, MD, PhD; Keisuke Suzuki, MD, PhD; Hiroaki Adachi, MD, PhD; Fumiaki Tanaka, MD, PhD; Gen Sobue, MD, PhD
+
+“Spinal and bulbar muscular atrophy (SBMA), or Kennedy disease, is an adult-onset lower motor neuron disease characterized by slowly progressive muscle weakness and atrophy. The disease is caused by the expansion of a trinucleotide CAG repeat encoding a polyglutamine tract within the first exon of the androgen receptor (AR) gene. During the 2 decades since the discovery of the AR gene mutation in SBMA, basic and clinical research have deepened our understanding of the disease phenotype and pathophysiology. Spinal and bulbar muscular atrophy exclusively affects men, whereas women homozygous for the AR mutation do not fully develop the disease. The ligand-dependent nuclear accumulation of pathogenic AR protein is central to the pathogenesis, although additional steps, eg, DNA binding and interdomain interactions of AR, are required for toxicity. Downstream molecular events, eg, transcriptional dysregulation, axonal transport disruption, and mitochondrial dysfunction, are implicated in the neurodegeneration in SBMA. Pathogenic AR-induced myopathy also contributes to the degeneration of motor neurons. Several potential therapies, including hormonal manipulation, have emerged from animal studies, some of which have been tested in clinical trials.”
+
+Follow the title's link to the full article.

@@ -1,0 +1,40 @@
+2007: Feb | Jan . . . 2006: Dec | Nov | Oct | Sep
+FDA Drugs: March 2007
+
+Zenvia for "Involuntary Emotional Expression Disorder". Avanir Pharm received an "approvable letter" last October for its Zenvia, which is a combination drug of dextromethorphan/quinidine (DM/Q) used to treat what is otherwise known as labile affect or pseudobulbar affect, a brain condition where one will have uncontrollable bursts of laughing or crying without truly being happy or sad. This typically occurs after a stroke or with pseudobulbar palsy or ALS. The FDA had required more data, which the company recently provided at a meeting. The DM is an NMDA antagonist, and quinidine is being used here as a P450 CYP2D6 enzyme inhibitor, which makes the drug stick around longer. The FDA asked Avanir to resubmit a new NDA for a lower, safer dose.[PubMed]
+
+Cephalon gets yet another Warning Letter on Provigil. The FDA dinged Cephalon again in this Feb 27 letter about inappropriate marketing claims suggesting that Provigil is effective for certain conditions when these data have not been submitted or approved by the FDA.
+
+Marijuana-based Drug Gathering Data. Sativex is an oral spray containing two active compounds from the cannabis sativa plant being developed for several conditions, including MS-related spasticity, AIDS-related anorexia, and neuropathic pain. Given the fact that it is directly derived from pot plants and the U.S. paranoia about marijuana, I'm sure this drug has a long, uphill battle to get approved here. [PubMed]
+
+Prozac Labeling Change for Infants. The labeling information for Prozac/fluoxetine now has added info on the risk of Primary Pulmonary Hypotension (PPH) in drug-exposed newborns.
+PRECAUTIONS-PREGNANCY-NONTERATOGENIC EFFECTS. Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN). PPHN occurs in 1-2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality. In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy. There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk. The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
+I don't know if all SSRIs will get this language. The link goes to the original NEJM article.
+
+New FDA Info Sheets on:
+Invega/paliperidone
+Keppra/levetiracetam
+Trileptal/oxcarbazepine
+Permax Recalled. The FDA announced that the dopamine agonist, Permax (pergolide), has been voluntarily recalled due to concerns about damage to heart valves. Permax was used to treat Parkinson's disease and restless legs syndrome.
+
+Phase III Trials Started on Flurizan for Alzheimer's. This looks like a promising drug from Myriad to keep track of.
+
+Geodon Label Updated. The labeling info for Geodon (ziprasidone) was updated in the Patient Summary section, to include the black box warning about diabetes and also include the more recent indications for manic and mixed episodes of bipolar disorder.
+
+Symmetrel Label Updated. Apparently, there have been some reports of agranulocytosis (dangerous drop in White Blood Cell WBC count) with Symmetrel (amantadine), which is used as an antiviral, for Parkinsons, for pain, and probably a few other things. The labeling info now reflects this.
+
+FDA Adds Warnings on All Sleeping Pills. The FDA has asked that all makers of sedative-hypnotics, like Ambien, Sonata, and Lunesta, add warnings to their labels about (1) anaphylaxis (severe allergic reaction) and angioedema (severe facial swelling), which can occur as early as the first time the product is taken; and (2)
+complex sleep-related behaviors which may include sleep-driving, making phone calls, and preparing and eating food (while asleep). The warning affects the following 13 drugs and their manufacturers:
+Ambien/Ambien CR (Sanofi Aventis)
+Butisol Sodium (Medpointe Pharm HLC)
+Carbrital (Parke-Davis)
+Dalmane (Valeant Pharm)
+Doral (Questcor Pharms)
+Halcion (Pharmacia & Upjohn)
+Lunesta (Sepracor)
+Placidyl (Abbott)
+Prosom (Abbott)
+Restoril (Tyco Healthcare)
+Rozerem (Takeda)
+Seconal (Lilly)
+Sonata (King Pharmaceuticals)

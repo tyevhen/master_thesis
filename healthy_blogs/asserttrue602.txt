@@ -1,0 +1,66 @@
+The source image ("Lena") at left.
+
+
+Its pixel-distribution histogram.
+
+According to Wikipedia, "An image histogram is a type of histogram which acts as a graphical representation of the tonal distribution in a digital image. It plots the number of pixels for each tonal value. By looking at the histogram for a specific image a viewer will be able to judge the entire tonal distribution at a glance."
+
+It occurred to me that it shouldn't be that hard to get Google Charts to produce an image histogram, with just a few lines of code. And that turns out to be true. Around 30 lines of server-side JavaScript will do the trick.
+
+If you have JDK 6, run the command "jrunscript" in the console (or find jrunscript.exe in your JDK's /bin folder and run it). Then you can cut and paste the following lines into the console and execute them in real time. (Alternatively, download js.jar from the Mozilla Rhino project, and run "java -cp js.jar org.mozilla.javascript.tools.shell.Main" in the console.)
+
+The first order of business is to open and display an image in a JFrame. The following 9 lines of JavaScript will accomplish this:
+
+imageURL = "http://wcours.gel.ulaval.ca/2009/a/GIF4101/default/8fichiers/lena.png";
+IO = Packages.javax.imageio.ImageIO;
+image = IO.read( new java.net.URL(imageURL) );
+frame = new Packages.javax.swing.JFrame();
+frame.setBounds(50,80,image.getWidth( )+10,
+    image.getHeight( )+10);
+frame.setVisible(true);
+pane = frame.getContentPane();
+graphics = pane.getGraphics();
+graphics.drawImage( image,0,0,null );
+
+The next order of business is to set up a histogram table, loop over all pixel values in the image, tally the pixel counts, and form the data into a URL that Google Charts can use:
+
+function getMaxValue( array ) {
+
+for (var i = 0,max = 0; i < array.length; i++ )
+    max = array[ i ] > max ? array[ i ] : max;
+
+return max;
+}
+
+// get pixels
+width = image.getWidth();
+height = image.getHeight();
+pixels = image.getRGB( 0,0, width, height, null, 0, width );
+
+// initialize the histogram table
+table = (new Array(257)).join('0').split('');
+
+// populate the table
+for ( var i = 0; i < pixels.length; i++ )
+    table[ ( pixels[ i ] >> 8 ) & 255 ]++;
+
+maxValue = getMaxValue( table );
+
+data = new Array();
+
+for ( var i = 0; i < table.length; i++ )
+    data.push( Math.floor( 100 * table[ i ] / maxValue ) );
+
+data = data.join(",");
+
+url = "http://chart.apis.google.com/chart?chxt=y&chbh=a,0,0&chs=512x490&cht=bvg&chco=029040&chtt=histogram&chd=t:"
+
+// call Google Charts
+image = IO.read( new java.net.URL( url + data ) );
+
+// draw the resulting image
+graphics.drawImage( image,0,0,null );
+
+Note that we actually tally only the green pixel values. (But these are the most representative of tonal values in an RGB image, generally.) Table values are normalized against maxValue, then multiplied by 100 to result in a number in the range 0..100. Google obligingly plots the data exactly as shown in the above graphic.
+
+And that's about all there is to say, except: Why can't all graphics operations be this easy? :)

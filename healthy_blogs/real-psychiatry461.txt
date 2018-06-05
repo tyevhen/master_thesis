@@ -1,0 +1,22 @@
+The latest editorial in the Lancet has an illogical digression.  The brief note starts out by stating that there will soon be a revolution in psychiatry based on a genomics study published in the Lancet.  It concludes with a digression to a discussion of about the provision of mental health services across the lifespan with a pejorative connotation:
+
+"The child with ADHD at 7 years could be seen by a child psychiatrist, but at the age of 18 often loses access to mental health services altogether, until he presents with a so-called adult mental health problem. Substance misuse and personality disorders may complicate the picture."
+
+It seems to me that practically all adult psychiatrists would not have any difficulty at all in getting a history of an earlier diagnosis of ADHD and deciding how that would be treated.  I wonder if the Lancet's editors would make the same commentary on childhood asthma presenting to an Internal Medicine clinic.  Would that be "so-called adult asthma"?  The asthma example is instructive because it turns out that what physicians have been calling asthma for decades is more complicated than that.  Recent research has adopted the endophenotype/endotype methodology that has been used to study schizophrenia.  The reason why adults are seen by adult psychiatrists rather than child psychiatrists is the same reason why people stop seeing their pediatricians as adults.  Treating cormorbid substance misuse and personality disorders is just a part of that reason.
+
+As far as the idea that the future of psychiatry is set to change any more than the future of the rest of medicine consider the statement:
+
+"The future of psychiatry looks set to change from the current model, in which ADHD, bipolar disorder, or schizophrenia are considered as totally different illnesses, to a model in which the underlying cause of a spectrum of symptoms determines the treatment."
+
+If that were true, psychiatry would have suddenly catapulted into the most scientifically advanced medical specialty because currently there is no other medical specialty that treats illness based on an underlying genetic cause.   The Lancet's attached paragraph on access to services across the lifespan is accurate, but it really has nothing to do with the possible genetic revolution in psychiatric diagnosis.  If the services are anywhere near as bad in the UK as they are in the United States (Is public health rationing as bad as rationing done by corporations?) there is a widespread lack of services and disproportionate rationing relative to the rest of medicine.
+
+Until psychiatrists, psychiatric services, and mental illness are destigmatized there is no reason to think that a genetic revolution will mean more access to services.
+
+George Dawson, MD, DFAPA
+
+The Lancet.  A revolution in psychiatry.  The Lancet - 1 June 2013 ( Vol. 381, Issue 9881, Page 1878 ) DOI: 10.1016/S0140-6736(13)61143-5.
+
+Cross-Disorder Group of the Psychiatric Genomics Consortium.  Identification of risk loci with shared effects on five major psychiatric disorders: a genome-wide analysis.  The Lancet - 20 April 2013 ( Vol. 381, Issue 9875, Pages 1371-1379 ) DOI: 10.1016/S0140-6736(12)62129-1
+
+Hamshere ML, Stergiakouli E, Langley K, Martin J, Holmans P, Kent L, Owen MJ, Gill M, Thapar A, O'Donovan M, Craddock N. A shared polygenic contribution between childhood ADHD and adult schizophrenia. Br J Psychiatry. 2013 May 23.  [Epub ahead of print] PubMed PMID: 23703318.
+Larsson H, Rydén E, Boman M, Långström N, Lichtenstein P, Landén M. Risk of bipolar disorder and schizophrenia in relatives of people with attention-deficit hyperactivity disorder.  Br J Psychiatry. 2013 May 23. [Epub ahead of print] PubMed PMID: 23703314.

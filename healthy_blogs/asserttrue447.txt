@@ -1,0 +1,57 @@
+In science today, there's a huge problem: Way too many people are publishing way too many results that are way too positive.
+
+This problem isn't imaginary or speculative. It's rampant and well documented. Literature surveys have repeatedly uncovered a statistically unlikely preponderance of "statistically significant" positive findings in medicine [see Reference 1 below], biology [2], ecology [3], psychology [4], economics [5], and sociology [6].
+
+Positive findings (findings that support a hypothesis) are more likely to be submitted for publication, and more likely to be accepted for publication [7][8]. They're also published quicker than negative ones [9]. In addition, only 63% of results presented initially in Abstracts are eventually (within 9 years) published, and those that are published tend to be positive [10]. There's some evidence, too, that higher-prestige journals (or at least ones that get cited more often) publish research reporting greater "effect sizes" [11].
+
+Why is this a problem? When only positive results are reported, knowledge is being hidden. A false picture of reality is presented (e.g., a false picture of the effectiveness of particular drugs or treatment options). Lack of informed decision-making in health care is a serious issue, since lives are at stake. But even when lives are not at stake, theories go awry when a hypothesis is verified in one experiment yet refuted in another experiment that goes unpublished because "nothing was found."
+
+Another reason under-reporting of negative findings is a pressing problem is that meta-analyses and systematic literature reviews, which are an increasingly common and important tool for understanding the Big Problems in medicine, psychology, sociology, etc., suffer from a classic GIGO conundrum: The meta-analyses are only as good as the available input. If the input is fundamentally flawed in some way, odds are good that the meta-analysis will also be flawed. 
+
+In some cases, scientists (or drug companies) simply fail to submit their own negative findings for publication. But research journals are also to blame for not accepting papers that report negative results. Cornell University's Daryl Bem famously raised eyebrows in 2011 when he published a paper in The Journal of Personality and Social Psychology showing that precognition exists and can be measured in the laboratory. Of course, in reality, precognition (at least of the type tested by Bem) doesn't exist, and the various teams of researchers who tried to replicate Bem's results were unable to do so. When one of those teams submitted a paper to The Journal of Personality and Social Psychology, it was flatly rejected. "We don't publish replication studies," the team was told. The researchers in question then submitted their work to Science Brevia, where it also got turned down. Then they tried Psychological Science. Again, rejection. Eventually, a different team (Galak et al.) succeeded in getting its Bem-replication results (which were negative) published in The Journal of Personality and Social Psychology, but only after the journal came under huge criticism from the research community. (Find more on this fracas here and here and here.)
+
+Aside from the dual problems of researchers not submitting negative findings for publication and journals routinely rejecting such submissions, there's a third aspect to the problem, which can be called outcome reporting bias: putting the best possible spin on things. This takes various forms, from changing the chosen outcomes-measure after all the data are in (to make the data look better, via a different criterion-of-success; one of many criticisms of the $35 million STAR-D study of depression treatments), "cherry-picking" trials or data points (which should probably be called pea-picking in honor of Gregor Mendel, who pioneered the technique), or the more insidious phenomenon of HARKing, Hypothesizing After the Results are Known [12], all of which often occur with selective citation of concordant studies [13].
+
+No one solution will suffice to fix this mess. What we do know is that the journals, the professional associations, government agencies like FDA, and scientists themselves have have tried in various ways (and failed in various ways) to address the issue. And so, it's still an issue.
+
+A deterioration of ethical standards in science is the last thing any of us needs right now. Personally, I don't want to see the government step in with laws and penalties. Instead, I'd rather see professional bodies work together on:
+
+1. A set of governing ethical concepts (a explicit, detailed Statement of Ethical Principles) that everyone in science can (voluntarily) pledge to abide by. Journals, drug companies, and researchers need to be able to point to a set of explicit guidelines and be able to go on record as supporting those specific guidelines.
+
+2. Journals should make public the procedures by which disputes involving the publishability of results, or the adequacy of published results, can be aired and resolved.
+
+In the long run, I think Open Access online journals will completely redefine academic publishing, and somewhere along the way, such journals will evolve a system of transparency that will be the death of dishonest or half-honest research. The old-fashioned Elsevier model will simply fade away, and with it, most of its problems.
+
+Over the short run, though, we have a legitimate emergency in the area of pharma research. Drug companies have compromised public safety with their well-documented, time-honored, ongoing practice of withholding unfavorable results. The ultimate answer is something like what's described at AllTrials.net. It's that, or class-action hell forever.
+
+
+References
+
+
+
+1.
+Kyzas PA, Denaxa-Kyza D, Ioannidis JPA (2007) Almost all articles on cancer prognostic markers report statistically significant results. European Journal of Cancer 43: 2559–2579. [here]
+2.
+Csada RD, James PC, Espie RHM (1996) The “file drawer problem” of non-significant results: Does it apply to biological research? Oikos 76: 591–593. [here]
+3.
+Jennions MD, Moller AP (2002) Publication bias in ecology and evolution: An empirical assessment using the ‘trim and fill’ method. Biological Reviews 77: 211–222. [here]
+4.
+Sterling TD, Rosenbaum WL, Weinkam JJ (1995) Publication decisions revisited - The effect of the outcome of statistical tests on the decision to publish and vice-versa. American Statistician 49: 108–112. [here]
+5.
+Mookerjee R (2006) A meta-analysis of the export growth hypothesis. Economics Letters 91: 395–401. [here]
+6.
+Gerber AS, Malhotra N (2008) Publication bias in empirical sociological research - Do arbitrary significance levels distort published results? Sociological Methods & Research 37: 3–30. [here]
+7.
+Song F, Eastwood AJ, Gilbody S, Duley L, Sutton AJ (2000) Publication and related biases. Health Technology Assessment 4 [here]
+8.
+Dwan K, Altman DG, Arnaiz JA, Bloom J, Chan A-W, et al. (2008) Systematic review of the empirical evidence of study publication bias and outcome reporting bias. PLoS ONE 3: e3081. [here]
+9.
+Hopewell S, Clarke M, Stewart L, Tierney J (2007) Time to publication for results of clinical trials (Review). Cochrane Database of Systematic Reviews. [here]
+10.
+Scherer RW, Langenberg P, von Elm E (2007) Full publication of results initially presented in abstracts. Cochrane Database of Systematic Reviews. [here]
+11.
+Murtaugh PA (2002) Journal quality, effect size, and publication bias in meta-analysis. Ecology 83: 1162–1166. [here]
+12.
+Kerr, Norbert L. (1998) HARKing: Hypothesizing After the Results are Known, Personality and Social Psychology Review, 2(3):196-217. [here]
+13.
+Etter JF, Stapleton J (2009) Citations to trials of nicotine replacement therapy were biased toward positive results and high-impact-factor journals. Journal of Clinical Epidemiology 62: 831–837. [here]

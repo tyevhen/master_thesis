@@ -1,0 +1,53 @@
+Anyone who has taken time to dig into the data in an attempt to see how the American economy is really doing can't help but reach a startling conclusion, which is that we're all being lied to, essentially, by the Fed and other prosperity cheerleaders who think we're "in a recovery."
+
+The facts don't add up. We're being told unemployment is so low, the Fed now needs to raise interest rates; on the other hand, it's clear that way too many people who want to work can't find work (there are three unemployed people for every job opening in the U.S.), and GDP went negative in the first quarter. If GDP is negative for two quarters in a row, that's the definition of "recession."
+
+So who's right? Are we in a recession? Or are we in a recovery?
+
+The stock market is up (Nasdaq is up 18.6% from a year ago at this time). Some people (like Donald Trump and Carl Icahn, but there are many others) caution that we're in a stock-market bubble, a historic shift of assets caused by $4.5 trillion of QE. Others say no, stocks are properly valued right now because corporate profits are high.
+
+Who's right?
+
+It turns out there's a really interesting explanation of what's going on with corporate profits. I'll get to that in a minute. (Stay with me. It's worth it.) But first, let's dispense with the notion that unemployment is under control.
+
+I want to quote from a recent blog post by David Stockman. (Remember him? He was a Republican U.S. Representative from the state of Michigan and the Director of the Office of Management and Budget under Reagan.)
+[T]he Fed’s current “soft” target of 5.2% on the U-3 unemployment rate is downright ridiculous. When in the year 2015 you have 93 million adults not in the labor force—of which only half are retired and receiving social security benefits(OASI)—and a U-3 computational method that counts as “employed” anyone who works only a few hour per week—then what you have in the resulting fraction is noise, pure and simple. The U-3 unemployment rate as a proxy for full employment does not even make it as primitive grade school economics.
+At the present time, there are 210 million adult Americans between the ages of 16 and 68—to take a plausible measure of the potential work force. That amounts to 420 billion potential labor hours, if we accept the convention that all adults are at least theoretically capable of holding a full-time job (2,000 hours/year) and pulling their share of society’s need for production and work effort.
+By contrast, during 2014 only 240 billion hours were actually supplied to the US economy, according to the BLS estimates. Technically, therefore, there were 180 billion unemployed labor hours, meaning that the real unemployment rate was 42.9%, not 5.5%!
+Unemployment may not be 43%, but it certainly isn't 5.5%. That's a propaganda figure that bears no relationship to reality.
+
+It's likewise not credible to believe that an injection of $4.5 trillion into the banking system (via QE-based bond and mortgage buybacks) has had no effect whatsoever on the stock market. No government agency has ever introduced this large a distortion into the markets before. Some of the stock-market runup almost has to be because of QE.
+
+But aren't corporate profits driving stock prices? Aren't profits legitimately high? Yes. They are higher now than in the 2007 peak, just before the 2008 meltdown:
+
+
+What's driving profits? The answer is potentially long and complicated, but one of the major drivers is low labor cost:
+
+
+The cost of human labor as a percentage of final sales (shown above) has been dropping as businesses find more and more ways to get more done with technology, without having to rely so much on warm bodies.
+
+It turns out that most of the rest of the "high corporate profits" picture (first graph) can be explained by the fact that the most profitable corporations are becoming vastly more profitable than less-profitable corporations, due to the winner-take-all nature of the internet economy. The same income-inequality picture that emerges when you look at the top 10% of wage-earners (which produces a  sharply up-sloping curve, with all other earning groups having flat-lined) also emerges when you bracket companies by profitability. The richest companies are simply getting exponentially richer. Which drags overall ("average") profitability up.
+
+The results are clear when you separate corporations into five different brackets, by profit margin, and look at their profits over time, something Patrick O’Shaughnessy of O’Shaugnessy Asset Management has done recently at his blog:
+
+When corporations are separated into five bins, by profitability, and their profit margins compared over time (1963 to 2015), you see that around 1991, with the emergence of the Internet, the top group starts to pull away from other groups. Bottom performers took huge dives in the Y2k timeframe (after the Internet bubble burst) and in the 2008-20009 meltdown.
+
+Beginning around 1991, with the arrival of the Internet, top-performing companies see their profitability veer upward. (Bottom performers went off-the-chart low after the Internet bubble of 2000 burst, then again in 2008-2009.) The profit margin increase of the last 20 years has not been broad-based, shared by all companies in all brackets, but rather has been concentrated in the highest profit-margin group. Also, the effect is more pronounced for certain sectors (like technology and financials) than other market sectors.  (Patrick O’Shaughnessy has charts for various sectors on his blog. Be sure to take a look.) Today, the worst-performing quintile is at minus-13% or so, with the best-performing quintile at +22%.
+
+What's happening here is that companies like Google, Facebook, Microsoft, Apple, etc. are able to establish monopolies in their respectives spaces. They compete against themselves. There are no competitors, for those compaies. It's a winner-take-all environment. If you happen to establish yourself as top dog, the gross (and often, the net) profit margins are incredible. And the competition is locked out.
+
+So yes, corporate profits are doing well on average, but really, the average (as usual) is not a meaningful indicator of what's really going on.
+
+In reality, we have a mostly-fake (non-broad-based) recovery that's producing more and more structural unemployment (as technology displaces workers permanently from jobs, something I've blogged about many times before), with corporations using cheap, low-interest money (from the QE "wealth effect") to buy their own stock back rather than expand the business; and this is happening in an environment of sinking labor costs and rising barriers to entry, with the Internet guaranteeing a monopoly for certain highly successful companies. The result is that the richest companies are getting massively richer—wealth inequality at the corporate level.
+
+Is this a formula for a sustainable economic recovery? For a few very rich companies (and very rich individuals), it may be, but for the rest of us? We might as well be living in Greece.
+
+ ❧ 
+
+Please retweet this post! Many thanks to the great folks who retweeted me yesterday:
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

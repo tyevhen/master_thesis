@@ -1,0 +1,17 @@
+In all the hand-wringing discussions about XML's verbosity that I've read over the years, I have yet to hear anyone suggest simply truncating all closing tags to </>. In other words, if you've got
+
+<data>
+  <item>something</item>
+</data>
+
+why not just shorten it to
+
+
+<data>
+  <item>something</>
+</>
+
+
+Verbose closing tags are a pure waste of space (albeit required by XML spec). Abbreviated closing tags don't make the file any less parsable. When the parser encounters </> it knows that the closure is at the nesting level of the previous opening tag. If not, the XML was not well-formed to begin with.
+
+Verbose closing tags are just that. Unneeded verbosity.

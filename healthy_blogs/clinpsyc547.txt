@@ -1,0 +1,25 @@
+I have seen various estimates in the media that have generally capped out at a ten-fold increase in price for atypical antipsychotics compared to older meds. However, I'd seen figures a few years ago suggesting a much larger price gap, so I thought I'd do some digging.
+
+Here's what I found on Walgreens.com. These are monthly costs.
+
+Olanzapine (Zyprexa) 15mg: $554.98
+Risperidone (Risperdal) 4mg: $331.09
+Quetiapine (Seroquel) 500mg: $519.77
+Aripiprazole (Abilify) 20mg: $518.99
+Ziprasidone (Geodon) 100mg: $483.08
+
+Compared to:
+Haloperidol (Haldol) 5mg : $10.89
+Perphenazine 16mg: $29.83
+
+Looking like a lot more than a 10-fold difference in price, eh?
+
+Now, let's add in benztropine to control for some of the side effects commonly seen on haloperidol or perphenazine.
+
+Benztropine 2mg: $12.09
+
+We get a total of Haldol + benztropine of $22.98 per month and perphenazine + benztropine of $41.92. Thus, the cheapest new AP (Risperdal) is eight times as pricey as perphenazine + benztropine. Most of the comparisons with Haldol suggest that the price difference, even including benztropine as an adjunctive medication, is at least 20-fold. With perphenazine + benztropine, the difference decreases to 10-13 times as expensive.
+
+The doses I used were from gleaning doses that were used in clinical trials.
+
+We know, however, that the atypical antipsychotics are not 10-20 times more effective than older meds; indeed, there is little reason to suspect they are much more effective at all in comparison to older meds, as can be seen here, here, here, and here.

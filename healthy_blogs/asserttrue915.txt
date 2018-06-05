@@ -1,0 +1,7 @@
+True to Brendan Eich's earlier timeline predictions, Firefox 2b2 now implements JavaScript 1.7, with such new features as:
+Array comprehensions
+Fine-tuned scoping via "let" expressions
+Multivalued function returns
+These are currently available only in the browser, alas, and not in Mozilla's Rhino engine. Rhino has a history of following the ECMA standards quite closely, and the JS1.7 features are not part of any standard (yet).
+
+Of course, none of this will be in Internet Explorer any time soon. Once again, the Firefox folks have made a bold move into unexplored territory, leaving the safe, comfortable, Web 1.0 weenie-world of Ballmer & Co. ever further behind.

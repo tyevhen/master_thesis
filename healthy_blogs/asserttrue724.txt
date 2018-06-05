@@ -1,0 +1,9 @@
+Back in April, you may recall, I ran a quick performance test on the home pages of various WCM and ECM software vendors using the popular YSlow tool. I blogged the results and compiled the test data into a 121-page PDF ("A Comparison of Home Page Loadability Scores for Major WCM and ECM Vendors") that can be downloaded (free) here.
+
+I checked the download page's stats today and was surprised to find that the report has been seen by 360 visitors since I posted it on April 23. I don't know how many downloads it has had, but it doesn't really matter since the download page has a PDF viewer built in, and you can just peruse the document online.
+
+For such an obscure, technical, narrowly conceived document, I think 360 views is pretty remarkable. I had expected about 40 views (corresponding to the number of vendors tested).
+
+What will be interesting is to run the same battery of tests again in a month or two, to see who has tried to restructure their pages to improve their YSlow rankings.
+
+Note-to-Self: Run YSlow on all the big-WCM/ECM-vendor web sites again soon. And this time, add a few more vendors.

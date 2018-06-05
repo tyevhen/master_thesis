@@ -1,0 +1,74 @@
+Try the Masked AMHP's quiz..
+This post is prompted by a situation I encountered recently while working as the duty worker for our local AMHP Service. It related to a dispute with an AMHP from another local authority concerning who was responsible for responding to a request to make an assessment under Sec.3 MHA for a patient detained under Sec.2 MHA.
+
+Briefly, this was the scenario.
+
+The patient (P) normally lived in our area (Local Authority A). P was admitted informally to a private specialist hospital located in Local Authority B, without any involvement with our local AMHP service. P was subsequently placed on a Sec.5(2) by the hospital, and an AMHP in Local Authority B assessed and detained under Sec.2 MHA for assessment.
+
+P was then transferred to another private specialist hospital in Local Authority C. That hospital subsequently requested an assessment for detention under Sec.3 for treatment.
+
+The question was: which local authority was responsible for undertaking this assessment?
+
+Was it:
+A)  Local Authority A
+B)  Local Authority B
+C)  Local Authority C
+
+To answer this question we need to look at what the Mental Health Act itself says, and also the Reference Guide and the Code of Practice.
+
+At times the wording in the MHA can be a little confusing, and Sec.13, which is concerned with the duty of AMHPs to make applications for admission or guardianship.
+
+Sec.13 says:
+
+(1) If a local social services authority have reason to think that an application for admission to hospital … may need to be made in respect of a patient within their area, they shall make arrangements for an approved mental health professional to consider the patient’s case on their behalf.
+(1A) If that professional is—
+(a) satisfied that such an application ought to be made in respect of the patient; and
+(b) of the opinion, having regard to any wishes expressed by relatives of the patient or any other relevant circumstances, that it is necessary or proper for the application to be made by him, he shall make the application.
+
+Then it gets even more complicated in Sec.13(1B), which invokes Sec.13(1C). Here it is in all its convoluted beauty:
+
+ (1B) Subsection (1C) below applies where—
+(a) a local social services authority makes arrangements under subsection (1) above in respect of a patient;
+(b) an application for admission for assessment is made under subsection (1A) above in respect of the patient;
+(c) while the patient is liable to be detained in pursuance of that application, the authority have reason to think that an application for admission for treatment may need to be made in respect of the patient; and
+(d) the patient is not within the area of the authority.
+(1C) Where this subsection applies, subsection (1) above shall be construed as requiring the authority to make arrangements under that subsection in place of the authority mentioned there.
+
+Bear in mind in reading this that Sec.13(1A), (1B) & (1C) were inserted into the MHA by the 2007 Act specifically  in order to clarify the situation regarding local authority responsibility for assessments under Sec.3 MHA.
+
+Thankfully, the Reference Guide offers an easy to understand translation. Para8.16 states:
+
+Local authorities must arrange for an AMHP to consider a patient’s case on their behalf, if they have reason to believe that an application for admission to hospital may need to be made in respect of a patient who happens, at the time, to be within their area. It does not matter whether the patient lives in the area.[my highlighting]
+
+Crucially, Para8.18 continues:
+
+In certain cases, local authorities must also arrange for an AMHP to consider the case of a patient who is in a hospital outside their area. This applies where the patient concerned is already detained for assessment on the basis of an application made by an AMHP acting on behalf of the local authority in question. If that local authority has reason to think that an application for admission for treatment may now be needed for the patient, it is that local authority, rather than the one for the area in which the hospital is, or where the patient lives, which is under a duty to arrange for an AMHP to consider making the further application. [my highlighting]
+
+The code of Practice spells this out even further. Para14.37 says:
+
+If a patient is already detained under section 2 as the result of an application made by an AMHP, the local authority on whose behalf that AMHP was acting is responsible for arranging for an AMHP to consider the patient’s case again if the local authority has reason to believe that an application under section 3 may be necessary. This applies even if the patient has been detained outside that local authority’s area.
+
+To go back to the original scenario, the correct answer is Local Authority B, the local authority that initially made the Sec.2 application, even though the patient, who did not normally live in their area, is now in a hospital in another area.
+
+So when I was contacted by the AMHP I mentioned at the beginning of this post, I reminded him of what Sec.13 said. He countered by suggesting that it was not appropriate for his local authority to undertake the assessment, but it was appropriate for ours to do it.
+
+He was clearly relying on the last sentence of para14.37, which reads:
+
+These duties do not prevent any other local authority from arranging for an AMHP to consider a patient’s case if that is more appropriate.
+
+However, that does not place any obligation on our AMHP service to consider the case, which I pointed out.
+
+He replied that it would involve a 2 hour journey to get to the hospital 80 miles away. My response was to point out that one of our AMHPs would have to travel 150 miles, which would take at least 3 hours, for a patient about whom we had less knowledge than Local Authority B. He then concluded that they would probably decide not to accept responsibility for the assessment.
+
+As I thought that it was an interesting response for a local authority to refuse to undertake a task that was their legal duty, I decided to write this post.
+
+But what about Local Authority C? P was definitely in their area, and not far for them to travel? Surely they would do the assessment on behalf of Local Authority B?
+
+Unfortunately not. I had already had dealings with C’s AMHP service in the past, following a request for a Sec.3 assessment for a patient that we had detained under Sec.2. Their policy was to refuse any requests where they did not have a duty to respond. In that situation, an AMHP did have to travel 150 miles, and take an entire day, to do the assessment.
+
+It’s all to do with duty versus power. Where AMHP’s have a duty to act, they have to act. Where they have the power to act, such as a situation where a patient in Local Authority X is taken by police under Sec.136 to a Sec.136 suite in Local Authority Y’s area, they could choose to do the assessment or not, while the AMHP in Local Authority Y would have to do it.
+
+Our local authority, being a large, predominantly rural county, has several private hospitals which accept patients from all over the country. It is not uncommon for patients to be admitted under Sec.2 to these hospitals, and then be required to be assessed under Sec.3. Our AMHP service policy is generally to do these assessments, as long as the responsible local authority asks us nicely.
+
+
+But we don’t have to.

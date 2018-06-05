@@ -1,0 +1,7 @@
+The political theme of the moment is health care reform. I thought I'd link to Atul Gawande's article in the The New Yorker, " The Cost Conundrum."
+
+Gawande visits McAllen, Texas, a town where health care costs have escalated to twice the national average (per Medicare) for unclear reasons. He asks questions and hunts for answers, and he compares the medical system there to other systems, including that of the Mayo Clinic where care seems to flow in a more patient-centered, less economically-driven way.
+
+Gawande concludes:
+
+Instead, McAllen and other cities like it have to be weaned away from their untenably fragmented, quantity-driven systems of health care, step by step. And that will mean rewarding doctors and hospitals if they band together to form Grand Junction-like accountable-care organizations, in which doctors collaborate to increase prevention and the quality of care, while discouraging overtreatment, undertreatment, and sheer profiteering. Under one approach, insurers—whether public or private—would allow clinicians who formed such organizations and met quality goals to keep half the savings they generate. Government could also shift regulatory burdens, and even malpractice liability, from the doctors to the organization. Other, sterner, approaches would penalize those who don’t form these organizations.

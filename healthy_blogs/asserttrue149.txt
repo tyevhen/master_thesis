@@ -1,0 +1,50 @@
+Slowly, details are emerging about the psychiatric history of Germanwings copilot Andreas Lubitz, including the drugs he may have been taking (or might have discontinued) before his final flight.
+
+CNN, citing Le Perisien, says one of the medications Lubitz was prescribed is agomelatine, a fairly new antidepressant (approved in Europe in 2009). Unlike other antidepressants, agomelatine is a melatonin receptor agonist with no effect on monoamine uptake and no affinity for adrenergic, histaminergic, cholinergic, dopaminergic, or benzodiazepine receptors. It's not an SSRI. It's in a class of its own.
+
+Agomelatine is sold as Valdoxan in Europe.
+By all accounts, it's not a very effective antidepressant (although neither are most antidepressants).  On 27 July 2006, the Committee for Medical Products for Human Use (CHMP) of the  European Medicines Agency (EMA) recommended refusing the marketing authorization of Valdoxan/Thymanax (agomelatine). Nevertheless, Servier (the manufacturer) submitted another application a year later and was eventually granted EMA approval (along with TGA approval for marketing in Australia in August 2010).
+
+In the U.S., Novartis obtained licensing rights to agomelatine, but discontinued work on the drug in October 2011 after Phase III trials failed to show adequate placebo separation.
+
+A meta-analysis published in BMJ in 2014 showed agomelatine to have a relatively meager effect size of 0.24 and said "Compared with other antidepressants, agomelatine showed equal efficacy," which is a polite way of saying it was not noticeably inferior to other similarly ineffectual drugs.
+
+That's not to say agomelatine doesn't produce physiological effects. Among the adverse effects reported for the drug are blurred vision, anxiety, agitation, irritability, restlessness, aggression, abnormal dreams, and nightmares. To that we can add "rare adverse effects" (less than 0.1% of the time) of suicidal ideation, suicidal behavior, hallucinations, mania, and hypomania, among others.
+
+I've noted before that agitation, irritability, anxiety, aggression, and restlessness are often signature indications of akathisia, which is a bizarre, dangerous, and (thankfully) rare outcome possible with many psychotropic drugs, but because akathisia is not a term known to clinicial-trial participants (and not scored as such by CRO staff, during trials), we end up seeing "agitation," "irritability," etc. mentioned in package inserts a lot.
+
+But wait. There's more.
+
+In 2010, Andreas Lubitz received olanzapine injections "to treat OCD," according to Le Perisien.
+
+Olanzapine (Zyprexa) is an atypical antipsychotic, chemically similar to the Seroquel that Robin Williams took for 8 days leading up to this death. My wife (who has schizoaffective disorder) has taken olanzapine (recently, and without crashing any airliners), so I'm at least somewhat familiar with it. It's a moderately effective antipsychotic; meaning it works for some of the positive symptoms of schizophrenia, some of the time, for some people. However, it has a high discontinuation rate in studies, and my wife, in fact, discontinued it after it failed to relieve her paranoid delusions. (She takes Haldol now, which does a much better job. For her.)
+
+Olanzapine is approved in the U.S. for schizophrenia and bipolar I, but not OCD. It is, however, used off-label as an augmentation drug for OCD, in conjunction with SSRIs.
+
+The fact that Andreas Lubitz received olanzapine as an injection (if we accept, provisionally, that the report in Le Perisien is true) is highly unusual, because in the U.S. you would only receive olanzapine intramuscularly for symptoms of acute psychomotor agitation associated with schizophrenia or bipolar mania, and only in a controlled setting where you can be observed all day (in other words, a hospital or institution of some kind). You would not typically receive a shot of olanzapine for OCD and then be sent home, for example. Also, you would not typically receive injections on a regular, ongoing basis.
+
+From drugs.comhttp://www.drugs.com/mtm/olanzapine-injection.html: "Olanzapine injection is available only under a special program. You must be registered in the program and understand the risks and benefits of taking this medication."
+
+While there is no indication that Lubitz took olanzapine immediately before the Germanwings tragedy, it's perhaps worth noting that olanzapine can sometimes produce rather serious unwanted effects (I quote now from Wikipedia, for what it's worth):
+While olanzapine is used therapeutically to treat serious mental illness, occasionally it can have the opposite effect and provoke serious paradoxical reactions in a small subgroup of people, with the drug causing unusual changes in personality, thoughts or behavior; hallucinations and suicidal ideation have also been linked to olanzapine use.
+One thing is clear, which is that olanzapine is not an antidepressant and doesn't treat the depression aspect of bipolar disorder. It treats the mania aspect and/or psychosis symptoms. Its use for OCD is not well established.
+
+The complete FDA fact sheet on olanzapine can be found here.
+
+At the risk of speculating, I would say that from the evidence that's emerging, it seems quite possible (to me, at least) Andreas Lubitz was not just depressed, but bipolar, which opens the door to a complex clinical picture involving (potentially) agitation, grandiosity, volatile temper, risk-taking behaviors, and other signature features of bipolar disorder. (For more depth on this, see my book Of Two Minds, which discusses bipolar disorder, dysthymia, depression, psychosis, meds, and more, in copious detail, with 300 footnotes.) It also appears he may have been hospitalized (if only briefly) for a psychotic or manic episode, because that's the only way, typically, that you get injections of olanzapine.
+
+It's also possible, as I explained in an earlier post, that Lubitz was suffering from some kind of adverse drug reaction (or for all we know, a drug-withdrawal effect) on the day of the crash. It's still early; we don't know the full extent of the drugs Lubitz might have been taking (or discontinuing), or what role, if any, other medical or personal exigencies might have played in the disaster. There's a lot we don't know—and may never know.
+.
+ ☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms lie. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+ ☙ ❧ 
+
+Hey listen, the following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

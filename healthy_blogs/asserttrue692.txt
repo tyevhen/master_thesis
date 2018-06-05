@@ -1,0 +1,6 @@
+In case you thought the "virtual reality goggles" idea was strictly 1990s sci-fi, guess what? People are still working on it, and Nokia is leading the charge to the commercial finish line. In Nokia's case, the primary goal is not to develop goggles, although clearly they've put some thought into it. The primary goal is to bring augmented reality technology to the cell phone.
+
+"Augmented reality" can be thought of as a highly annotated model of real-world milieux, containing rich-media annotations, text annotations, and other kinds of embedded goodness. This sort of thing is seen by Nokia and others as a major value-add for cell phone customers. But there are other commercial possibilities as well. To grok the fullness, take a look at the following slideshow.
+Mobile Augmented Reality: Nokia
+View more documents from StudioSFO.
+If you're lucky enough to be in or near Palo Alto next Wednesday (September 9), SDForum will be hosting a talk,“Augmenting Both Reality and Revenue: Connecting Mobile, Sensors, Location and Layers”, by Clark Dodsworth of Osage Associates and Maribeth Back of FX Palo Alto Labs. (Registration begins at 6:30 and is $15 for non-SDForum members. Details here.) This talk will give a non-Nokia view of the subject that should be quite interesting. Unfortunately, the real me won't me able to attend. And the virtual me isn't ready.

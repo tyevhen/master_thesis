@@ -1,0 +1,9 @@
+Reading your mind via EEG to label your snapshots. Very cool!
+
+-via SciTe Daily:
+
+
+"Assigning textual tags to an image is an important task because tags are needed for things like image search. When you search for an image of a “cat,” modern search engines can only identify an image as containing a cat if the tag “cat” is associated with it.
+Having people tag images by hand is an onerous task. Shenoy and Tan of Microsoft Research developed a way to tag images automatically by reading people’s brain scans while they look at images. The people did not even have to specifically think about trying to tag the image; they merely had to passively observe it."  [more]
+
+[photo credit: krischall via flickr] 

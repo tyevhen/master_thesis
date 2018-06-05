@@ -1,0 +1,21 @@
+Many people have commented on the effectiveness of Google's lean-and-simple approach to usability. I personally don't think a huge amount of thought went into designing their interface. I think it's pretty much the minimum you have to do: Give people a text box to type in, and a Go button. Back comes a page of links.
+
+But what's interesting is, I do think the Google "fast and lean" design motif (whether it was consciously designed or not) has had a profound influence on people's usability expectations. It sets the bar in a number of ways (see below) and anyone who designs interfaces should take heed, because people are now literally conditioned to expect certain things from a UI.
+
+When I say conditioned, I mean it in the true behaviorist sense. I think the argument can (should) be made that Google's landing page represents a kind of virtual Skinner box. And yes, we are the rats.
+
+The similarities to a Skinner box experiment are striking. The mechanism is quick and easy to operate. The feedback is immediate. You are either rewarded or not. Iterate.
+
+I make a trip to the box about 15 times a day, and hit the lever an average of three times per visit. I am well conditioned. Are you?
+
+I submit that the many people in enterprise who use Google intensively are very thoroughly conditioned to expect certain things from a UI, as a result of operant conditioning.
+The feedback cycle should be short. You should be able to do a task quickly and get immediate feedback on whether it succeeded. Actual success is less important than being told quickly whether you succeeded or not.
+It should be quick and easy to repeat an operation.
+Controls should be very few in number and located high on the screen (right in your face).
+Hitting Enter should be sufficient to get a pleasure reward.
+Everything is self-documenting.
+The UI is flat: No drill points.
+Everything is a link. (Except the main action controls: text field and button.)
+Note that of the two required controls (text field, button), one is actually superfluous since you can just as easily hit Enter as click the button. In fact, it's easier to hit Enter.
+
+The Google operant conditioning cycle is the new unit of interaction (not so new, now, of course). It's the behavioral pattern your users have the most familiarity with, and it's burned into their nervous systems by now. Ignore this fact at your own peril, if you're a UI designer.

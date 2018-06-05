@@ -1,0 +1,29 @@
+Ed, our resident biology guru, sent me the following article from BBC News (http://www.bbc.co.uk/news/health-16788809).  He cautions that this research is still in its infancy, however, in regards to a potential treatment for Kennedy’s Disease. 
+
+“As is always the case with stem cell research, one needs to understand that while this is an important piece of work, we are still years (and years) away from therapy.  In any case, I have attached the actual paper.  This is also interesting as several of the attendees at the 2010 KDA conference donated skin cells for just such a project (and I believe that NIH has something similar going on).”
+
+
+Skin transformed into brain cells
+By James Gallagher, Health and Science Reporter, BBC News
+
+Skin cells have been converted directly into cells which develop into the main components of the brain, by researchers studying mice in California.
+
+The experiment, reported in Proceedings of the National Academy of Sciences, skipped the middle "stem cell" stage in the process.  The researchers said they were "thrilled" at the potential medical uses.  Far more tests are needed before the technique could be used on human skin.
+
+Stem cells, which can become any other specialist type of cell from brain to bone, are thought to have huge promise in a range of treatments. Many trials are taking place, such as in stroke patients or specific forms of blindness.
+
+One of the big questions for the field is where to get the cells from. There are ethical concerns around embryonic stem cells and patients would need to take immunosuppressant drugs as any stem cell tissue would not match their own.
+
+An alternative method has been to take skin cells and reprogram them into "induced" stem cells. These could be made from a patient's own cells and then turned into the cell type required, however, the process results in cancer-causing genes being activated.
+ 
+Direct approach
+The research group, at the Stanford University School of Medicine  in California, is looking at another option - converting a person's own skin cells into specialist cells, without creating "induced" stem cells. It has already transformed skin cells directly into neurons.
+
+This study created "neural precursor" cells, which can develop into three types of brain cell: neurons, astrocytes and oligodendrocytes.  These precursor cells have the advantage that, once created, they can be grown in a laboratory into very large numbers. This could be critical if the cells were to be used in any therapy.
+
+Brain cells and skin cells contain the same genetic information, however, the genetic code is interpreted differently in each. This is controlled by "transcription factors".
+
+The scientists used a virus to infect skin cells with three transcription factors known to be at high levels in neural precursor cells.  After three weeks about one in 10 of the cells became neural precursor cells.
+Lead researcher Prof Marius Wernig said: "We are thrilled about the prospects for potential medical use of these cells.  We've shown the cells can integrate into a mouse brain and produce a missing protein important for the conduction of electrical signal by the neurons.  More work needs to be done to generate similar cells from human skin cells and assess their safety and efficacy."
+
+Dr Deepak Srivastava, who has researched converting cells into heart muscle, said the study: "Opens the door to consider new ways to regenerate damaged neurons using cells surrounding the area of injury."

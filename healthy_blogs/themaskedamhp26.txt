@@ -1,0 +1,78 @@
+Recently, when I was on duty triaging the county’s requests for assessments under the Mental Health Act, one of my AMHP colleagues was required to arrange for the conveyance to hospital of a patient who had been detained under Sec.2 the previous evening. The conveyance had not taken place then because the receiving hospital would not accept a patient late at night.
+
+Because of the general shortage of psychiatric beds for all types and ages of mental health patients, it is now not unusual for an AMHP to undertake an assessment with two doctors, decide that a patient needs to be detained under the Mental Health Act, but be unable to complete their application because of the lack of beds.
+
+It then falls to another AMHP to have to conduct another assessment sometimes many days later when a bed finally becomes available.
+
+Even when a bed is identified, it is often not practicable to arrange conveyance to hospital until the following day, which is why it is increasingly the case for our AMHP service to have to send AMHP’s off to complete the admission process on a patient they have not actually assessed themselves.
+
+But this is not the subject of this blog post.
+
+This particular patient was resident in a care home. It was known that the patient would be resistant to admission to hospital, so at 10:00 hrs my colleague arranged for the ambulance service and the police to attend.
+
+This should have been a fairly routine task: arrange for transport, get the patient into the transport, and then send them on their way to the receiving hospital, with the section papers accompanying them, and return to base.
+
+In the middle of the afternoon, and several hours after my colleague had gone to the patient’s home, I received a plaintive call from him.
+
+After a considerable amount of cajoling and persuasion, the patient had entered the ambulance, but was refusing to sit down and allow themselves to be strapped in. The ambulance crew decided it was unsafe to proceed unless the patient was secure.
+
+The police were in attendance, but were refusing to assist in the conveyance in any way, arguing that they had neither the power nor the duty to do so.
+
+Eventually, both the ambulance and the police left, leaving the patient at the care home. It was then decided that the AMHP would arrange for a private ambulance service, with a crew trained to physically restrain patients, to attend. By now, it was after 17:00 hrs.
+
+But this ambulance was based 80 miles away, and it was estimated they would take at least 2-3 hours to arrive. The responsibility for conveyance was transferred to the out-of-hours service, and the weary and frustrated AMHP left the paperwork with the care home. In the end, this ambulance did not arrive until after 23:00 hrs, and it was after midnight before the patient was finally admitted to hospital.
+
+So what exactly are the legal implications of detaining a patient under the MHA, whether it be Sec.2, Sec.3, or Sec.4?
+
+The act of completing an application for detention instantly confers powers on the AMHP and others.
+Sec.6(1) MHA states: “An application for the admission of a patient to a hospital under this Part of this Act, duly completed in accordance with the provisions of this Part of this Act, shall be sufficient authority for the applicant, or any person authorised by the applicant, to take the patient and convey him to the hospital.”
+
+Richard Jones, in The Mental Health Act Manual, 18th Ed., observes:
+“If, following an assessment of the patient, the potential applicant and recommending doctor(s) agree that an application to detain the patient should be made, the common law provides authority to use restraint on the patient during the time that it takes to process the application as long as the process is not unduly delayed.”(1-104)
+
+He goes on to say: ““The power to convey is only triggered when the application is “duly completed”. This does mean that, until all the forms have been filled in and signed, if the patient insists that the assessing team should leave, they have no choice but to do so, unless “one co-owner gave them permission to stay”.
+
+However, once the patient is “liable to be detained”, Sec.6 MHA and all its implications, applies. This includes the powers under Sec.137 and Sec.138 MHA.
+
+(I’ve explored the meanings of the terms “detained” and “liable to be detained” within the meaning of the MHA on this blog before. You can find it here.)
+
+Sec.137 MHA unequivocally states:
+“(1) Any person required or authorised by or by virtue of this Act to be conveyed to any place or to be kept in custody or detained in a place of safety… shall, while being so conveyed, detained or kept, as the case may be, be deemed to be in legal custody.
+(2) A constable or any other person required or authorised by or by virtue of this Act to take any person into custody, or to convey or detain any person shall, for the purposes of taking him into custody or conveying or detaining him, have all the powers, authorities, protection and privileges which a constable has within the area for which he acts as constable.”
+
+In relation to Sec.137(2), Jones notes that “either the applicant or the person delegated to the applicant (including ambulance staff) can use such force as is reasonably necessary to achieve the objective of conveying the patient”
+
+The Reference Guide explicitly notes that this includes “patients being conveyed to hospital to be admitted on the basis of an application for admission under part 2”(Para11.4) (ie, Sec.2, Sec.3 or Sec.4)
+
+The Code of Practice adds:
+“17.13 If the patient is likely to be unwilling to be moved, the applicant will need to provide the people who are to transport the patient (including any ambulance staff or police officers involved) with authority to transport the patient. This will give them the legal power to transport patients against their will, using reasonable force if necessary, and to prevent them absconding en route.
+17.14 If the patient’s behaviour is likely to be violent or dangerous, the police should be asked to assist in accordance with locally agreed arrangements.”
+
+What the legislation and guidance states clearly is that:
+Once detained under Sec.2, Sec.3 or Sec.4, the MHA, a patient is deemed to be in “legal custody”
+This confers powers on the AMHP, the Police, or anyone authorised by the AMHP, to convey the patient to hospital, if necessary using reasonable force.
+
+Jones elucidates these powers as follows:
+ “Power… which a constable has. Which include the powers to arrest a person who is wilfully obstructing him in the execution of his duties, to use reasonable force in effecting an arrest, to prevent a person from escaping, to secure the conveyance of the person, and to require other persons to assist him in the execution of his duties.” ( 1-1343)
+
+The Code of Practice also adds:
+“People authorised by the applicant [the AMHP] to transport patients act in their own right and not as the agent of the applicant. They may act on their own initiative to restrain patients and prevent them absconding, if absolutely necessary. “(17.18)
+
+And here’s what the Reference Guide has to say:
+“When someone who is deemed to be in legal custody as a result of section 137 absconds, they can be returned by:
+any police officer, or other constable
+any approved mental health professional (AMHP) acting on behalf of a local authority, or
+by the person in whose custody they were when they absconded.” (11.8)
+
+So, to apply all this to the example I gave earlier, the fact that this patient was detained under Sec.2 MHA meant that the AMHP, the Police and the ambulance crew all had the power to take the patient to hospital, using whatever force was reasonable in the process. And if the patient were to abscond from legal custody, the police would have legal powers to arrest and detain the patient.
+
+But what about the Police & Criminal Evidence Act 1984? What about Sec.26 of this Act, which is concerned with the repeal of statutory powers of arrest without warrant or order? Doesn’t that prevent police from arresting and holding a mental health patient who is liable to be detained?
+
+Well no, it doesn’t. Because Sec.26(2) PACE states: “Nothing in subsection (1) above affects the enactments specified in Schedule 2 to this act.”
+
+And what is in Schedule 2? This schedule is concerned with preserved powers or arrest, and states that several sections of the Mental Health Act, including Sec.18 and Sec.138, have police powers of arrest preserved.
+
+And Sec.138(1) MHA states: “If any person who is in legal custody by virtue of section 137 above escapes, he may, subject to the provisions of this section, be retaken— (a) in any case, by the person who had his custody immediately before the escape, or by any constable or approved mental health professional.”
+
+
+The law is clear. The Police cannot claim that they have no legal powers (or duties) to arrest, detain or convey a patient, once an application under the MHA has been made. And they should assist an AMHP in the discharge of their legal obligations under the Mental Health Act.

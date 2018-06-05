@@ -1,0 +1,17 @@
+A military officer who was about to retire once reportedly said: "The most important thing I did in my career was to teach young leaders that whenever they saw a threat, their first job was to determine the timebox for their response. Their second job was to hold off making a decision until the end of the timebox, so that they could make it based on the best possible data."
+
+This is an illustration of a principle that I think is (sadly) underutilized not only in R&D circles but in project planning generally, namely the principle of delaying decisions until the "last responsible moment" (championed by the Poppendiecks and others). The key intuition is that crucial decisions are best made when as much information as possible has been taken into account.
+
+This is a good tactic when the following criteria are met:
+
+1. Not all requirements for success are known in advance
+2. The decision has huge downstream consequences
+3. The decision is essentially irreversible
+
+If one or more of the conditions is not met, the tactic of deferring commitment might not gain you anything (and could actually be costly, if it holds up development).
+
+Conventional project planning, as practiced in enterpise today, tends to overemphasize (to an often ridiculous degree) the need for completeness in requirements-gathering. The completeness fetish leads to the Big Huge Requirements Document (or Big Huge RFP) Syndrome and nearly always introduces unnecessary dependencies and brittleness into implementations.
+
+There's a certain hubris associated with the notion that you can have a complete specification for something. You almost certainly can't. You almost certainly don't know your true needs ahead of rollout. True, some decisions have to be made in the absence of complete data (you don't always have the luxury of waiting for all the information to arrive), and there's the fact that you need to start somewhere even if you know that you "don't know what you're doing" yet. But that's not my real point. My real point is that too often we make decisions ahead of time (that we didn't really have to make, and later realize we shouldn't have made) based on the usually-false assumption that it's possible to know all requirements in advance.
+
+What I'm suggesting, then, is that you reconsider whether it's always a good idea to strive for a complete specification before starting work on something. Accept the fact that you can't know everything in advance. Allow for "emergentcy." (Good decisions are often "emergent" in nature.) Reject the arrogant notion that with proper advance planning, you'll have a project that goes smoothly and results in a usable solution. Most of the time, from what I've seen, it doesn't work out that way. Not at all.

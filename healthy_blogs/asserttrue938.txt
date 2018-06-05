@@ -1,0 +1,13 @@
+Lately I've been perusing some of Oracle's Javascript code from its ADF Faces. I see that it's extraordinarily well commented.
+
+I'm looking at it in OpenOffice, so just for fun, I tell OOo to do a regex-search on
+
+//.*$
+
+and globally replace that with zilch, thereby wiping out all comment lines.
+
+The result? With comments, Oracle's Core.js file is 140 KB. Without comments: 95 KB. Imagine: almost 50K of comments in a 140K file.
+
+I don't think I've ever seen such well-commented code in any language, ever.
+
+Kas

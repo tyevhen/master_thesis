@@ -1,0 +1,35 @@
+Earlier this month I posted an article on CRISPR and asked if it would be the answer we are waiting for in the Kennedy's Disease and other rare disease communities. The opportunity for human gene editing has generated a lot of interest and questions concerning its use. Below are two comments concerning this potential breakthrough.
+______
+
+
+
+May 18, 2015
+
+National Academy of Sciences and National Academy of Medicine Announce Initiative on Human Gene Editing
+
+Joint Statement by Ralph J. Cicerone and Victor J. Dzau
+
+WASHINGTON -- The National Academy of Sciences and the National Academy of Medicine are launching a major initiative to guide decision making about controversial new research involving human gene editing.  Human gene-editing technologies, such as CRISPR-Cas9, may lead to promising new treatments for disease.  However, recent experiments to attempt to edit human genes also have raised important questions about the potential risks and ethical concerns of altering the human germline.  Future advances are likely to raise new questions.
+
+Our initiative will include an international summit this fall to convene researchers and other experts to explore the scientific, ethical, and policy issues associated with human gene-editing research.  In addition, we will appoint a multidisciplinary, international committee to begin a comprehensive study of the scientific underpinnings and clinical, ethical, legal, and social implications of human gene editing.  The committee will consider and recommend standards, guidelines, and practices governing the use of gene-editing technologies in biomedical research and medicine.  An advisory group to steer the overall initiative will soon be announced.
+
+We provided leadership in the past on emerging, controversial new areas of genetic research, such as human embryonic stem cell research, human cloning, and “gain-of-function” research.  In 1975, the Asilomar conference convened by the National Academy of Sciences led to guidelines for recombinant DNA research.  In keeping with these past efforts, we are prepared to work with the scientific and medical communities to achieve a comprehensive understanding of human gene editing and its implications in order to help guide researchers, clinicians, policy makers, and the public, here and around the world.
+
+Ralph J. Cicerone is the president of the National Academy of Sciences, a private, nonprofit institution that provides science policy advice to the nation under an 1863 congressional charter. Victor J. Dzau is the president of the Institute of Medicine, which was founded as the health arm of the NAS in 1970.  Effective July 1, 2015, the IOM will become the National Academy of Medicine, and Dzau will be its first president.
+
+Statement on NIH funding of research using gene-editing technologies in human embryos
+April 29, 2015
+
+Genomic editing is an area of research seeking to modify genes of living organisms to improve our understanding of gene function and advance potential therapeutic applications to correct genetic abnormalities. Researchers in China have recently described their experiments in a nonviable human embryo to modify the gene responsible for a potentially fatal blood disorder using a gene-editing technology called CRISPR/Cas9.
+
+CRISPR-Cas9 is a customizable tool that lets scientists cut and insert small pieces of DNA at precise areas along a DNA strand. The tool is composed of two basic parts: the Cas9 protein, which acts like the wrench, and the specific RNA guides, CRISPRs, which act as the set of different socket heads. These guides direct the Cas9 protein to the correct gene, or area on the DNA strand, that controls a particular trait. This lets scientists study our genes in a specific, targeted way and in real-time.
+Genomic editing is already widely studied in a variety of organisms. For example, CRISPR/Cas9 has greatly shortened the time it takes to produce knockout mouse models of disease, enabling researchers to study more easily the underlying genetic causes of those diseases. This technology is also being used to develop the next generation of antimicrobials, which can specifically target harmful strains of bacteria and viruses. In the first clinical application of genomic editing, a related genome editing technique (using a zinc finger nuclease) was used to create HIV-1 resistance in human immune cells, bringing HIV viral load down to undetectable levels in at least one individual. All of these examples of research using genomic editing technologies can and are being funded by NIH.
+
+However, NIH will not fund any use of gene-editing technologies in human embryos. The concept of altering the human germline in embryos for clinical purposes has been debated over many years from many different perspectives, and has been viewed almost universally as a line that should not be crossed. Advances in technology have given us an elegant new way of carrying out genome editing, but the strong arguments against engaging in this activity remain. These include the serious and unquantifiable safety issues, ethical issues presented by altering the germline in a way that affects the next generation without their consent, and a current lack of compelling medical applications justifying the use of CRISPR/Cas9 in embryos. 
+
+Practically, there are multiple existing legislative and regulatory prohibitions against this kind of work. The Dickey-Wicker amendment prohibits the use of appropriated funds for the creation of human embryos for research purposes or for research in which human embryos are destroyed (H.R. 2880, Sec. 128). Furthermore, the NIH Guidelines state that the Recombinant DNA Advisory Committee, “…will not at present entertain proposals for germ line alteration”. It is also important to note the role of the U.S. Food and Drug Administration (FDA) in this arena, which applies not only to federally funded research, but to any research in the U.S. The Public Health Service Act and the Federal Food, Drug, and Cosmetic Act give the FDA the authority to regulate cell and gene therapy products as biological products and/or drugs, which would include oversight of human germline modification. During development, biological products may be used in humans only if an investigational new drug application is in effect (21 CFR Part 312).
+
+NIH will continue to support a wide range of innovations in biomedical research, but will do so in a fashion that reflects well-established scientific and ethical principles.
+
+Francis S. Collins, M.D., Ph.D.
+Director, National Institutes of Health

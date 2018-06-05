@@ -1,0 +1,19 @@
+If you're like me, some of the time, you'll work in E4X. Other times, you'll use DOM methods. Occasionally you'll want to switch back and forth from one to the other. Here's how to do the roundtrip.
+
+// create E4X XML object
+e4x = <div>Hello World!</div>;
+
+// serialize it
+serialzed = e4x.toXMLString();
+
+// create DOM object
+dom =
+( new DOMParser() ).parseFromString( serialzed, 'application/xml' );
+
+// make it into a string again
+serialized = ( new XMLSerializer() ).serializeToString(dom);
+
+// back to E4X XML object
+e4x = new XML( serialized );
+
+Eventually we can expect to see support for a syntax like e4x = new XML( dom ), but this has yet to be implemented in Firefox.

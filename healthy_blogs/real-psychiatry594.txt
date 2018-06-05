@@ -1,0 +1,21 @@
+I wrote this original article in 2005 for the Minnesota Psychiatric Society newsletter in response to two developments.  First, it is one of the only articles that you will ever see quoting actual prices in terms of bills and what the actual reimbursement is.  Contrary to the myth of expensive health care, I have had people tell me how shocked they were at how little of a bill the insurance company actually paid.  The author here gives the actual dollar amounts.  Second, there is an obvious boom in Cardiology services at a time when psychiatric services were being strictly rationed according to managed care "carve out techniques." At the  time this article was originally written 100,000 patients per year received implantable cardioverter devices (ICDs) at a cost of $2 billion and a pulse generator replacement cost of an additional $1.4 billion.  Using the figures from this article that is the equivalent of 794,000 psychiatric hospitalizations per year.  The original article and the reference begins with the paragraph below.
+
+A recent Twin Cities article on the escalation of technology and real costs for cardiac care in Minnesota highlighted just how severe the resources have been skewed away from psychiatric care. If you have been following the Minnesota Psychiatric Society's initiatives in this area over the past few years it will probably come as no surprise - but even in that context I found the following numbers somewhat shocking:
+
+1. Minnesota (a state with maximal managed care penetration) - has 40% fewer mental health beds per capita than the nation.
+
+2. In the past 5 years - 5 new cardiac care facilities have opened at a cost of $263 million.
+
+3. An analysis of Medicare cost data for one hospital (United) shows why cardiac care is expanding and psychiatric care is shrinking. Here is a direct quote from the article:
+
+"A look at Medicare cost data for one local hospital shows why. It cost United Hospital $8,091 to implant a pacemaker, but the hospital received $11, 538 for each procedure, according to 2003 data provided by the American Hospital Directory.
+
+On the other hand, it cost United $10, 132 to treat a patient with psychosis, but the hospital received only $4, 282 per case. These are federal Medicare figures but the same disparities exist in payments by private health plans."
+
+That's why you are seeing all of those shiny new Heart centers and no new psychiatric hospitals. Combined with the psychiatric outpatient penalty - it probably also goes a way toward explaining why the system is so fragmented and the seriously ill cannot find a psychiatrist.  Also notice that the insurers were described as worried about how to contain Cardiology costs, but the reality here is that all of these Cardiology services are owned by the major managed care companies.
+
+George Dawson, MD
+
+Hauser RG.  The growing mismatch between patient longevity and the service life of implantable cardioverter-defibrillators.  Journal of American College of Cardiology 2005; 45 2022-5.
+
+Olson J. Cardiac care focus worries insurers. Pioneer Press, August 8, 2005: p 1A, 4A

@@ -1,0 +1,38 @@
+For all that I have a jabbery twitter account and like putting filters over my crap pictures for posting on instagram, I'm not exactly the kind of person that when you meet me for the first time, I'll say, "HEY, HAVE YOU SEEN MY BLOG??"
+
+In fact, many of my friends and patients don't even know I have a blog.  It's sort of a niche audience.  But as the years go by and the archives build, more and more I will talk to a colleague or therapist who might refer to me, or even someone at the gym, and they will say, "Oh, by the way, I saw your blog…"  
+
+The colleagues are especially exciting.  In the past few months I've been invited to a few more journal clubs and Grand Rounds to speak to more psychiatrists, neurologists, and other head-interested professionals.  Some of these folks might even have a research budget.  I really love these opportunities, because when it comes down to it, Evolutionary Psychiatry is not about the paleo diet.  It's about the pathology of mental illness and conceiving our brains as connected to our bodies and guts and environment.  It's about how physical and mental health are derived from our genes and the protoplasm of the world around us.  It's about simple interventions and the complex ways in which they influence our nerves and hormones and flesh.
+
+It's a niche audience, but I feel Evolutionary Psychiatry deserves to be mainstream medicine.  It's about asking questions in a common sense fashion, and approaching disease with multi-pronged, inflammation-reducing and neurotransmitter-savvy and sensible solutions.  It's about acknowledging the wisdom of the past generations and translating the therapies and traditions into real results.  Mostly it is about asking the questions in a way that will generate the answers we need for the science to be useful.
+
+My daughter asked me if the iPhone knew everything.  I said, a vast amount, no doubt, if you ask the question just the right way.  She will never remember an early life without Siri.
+
+I didn't plan on blogging today, but in my mailbox arrived the brand spanking new fresh edition of the Green Journal, and two of the articles just SING evolutionary psychiatry.  So here I am again.
+
+
+A Silent Film: Danny Dakota and the Wishing Well (reminds me of those angsty John Hughes movies from the 80s, before he started doing movies about John Travolta and babies)
+
+The first article is a double-blind placebo controlled trial of NAC in cannabis-dependent adolescents (1).  I know there is a bit of a link between paleophiles, libertarians, real food hippies, and weed, but I've never been a big fan.  Mostly because I'm often confronted with parents and older adolescents who struggle with psychosis and/or lack of motivation and crippling anxiety who smoke pot ALL THE TIME.  Not to mention the older folks who come in after decades of daily heavy use and can barely finish a sentence.  I've covered it before here and here.  Weed has some interesting properties, no doubt, but I've seen it to be more the fountain of rotten brain, agoraphobia, and dementia than the fountain of creativity and youth.  My sample is not randomized, and I have no doubt of that.  But roll the dice and take your chances, as they say.
+
+ERGO, I think finding ways to get adolescents to smoke less pot might be a good thing.  And in the linked paper, it is noted that 25% of high school students use pot, 7% on a daily basis.  Besides standard psychosocial therapies, there's not much out there to help adolescents quit the dependency.  Could a pill help?
+
+NAC, as we know, is particularly exciting in psychiatric disorders because it targets glutamate and antioxidants in a novel way.  There's no prescription pharmaceudical with the research data or similar mechanism.  In animal models, self-administering addictive drugs down-regulates the cysteine-glutamate exchanger in the nucleus accumbens.  NAC upregulates this exchanger, reducing the reinforcement of drug-seeking.
+
+The authors of the study did a promising open-label pilot trial and then organized a larger randomized controlled trial.  Cannabid-dependent adolescents (13-21) who desired some help and met other exclusionary criteria were randomized to placebo or 1200mg NAC daily for 8 weeks.  All participants received cessation counseling at every research visit.  Cannabis use was determined by urine sample (which will be positive for about a month with moderate cannabis use, depending on body habitus).
+
+In the NAC group, 40.9% of the cannabis tests were negative (assuming all missed urine tests were positive).  In the placebo group, 27.2% were negative, a statistically signficant difference.   Participants who had made the decision to quit and were negative at baseline were six times more likely to be abstinent through the rest of the study, those with fewer years of use were more likely to be negative, and those with major depressive disorder were more likely to continue using.  There were no significant differences in adverse events between NAC and placebo users (like most studies, NAC users had fewer side effects than placebo, 38 in the NAC group and 46 in the placebo group).
+
+These results should be repeated and consolidated at multi-treatment center groups, but all in all it adds to the NAC family of interesting psychiatric results.
+
+The Ting Tings Hit Me Down Sonny
+
+The second interesting article is about poor nutrition at age 3 and schizotypal personality at age 23.  Studies of populations in China and the Netherlands have shown that periods of famine during pregnancy results in the birth of children who are twice as likely to have schizophrenia or schizoid personality, and the risks can be worse when malnutrition extends to the postnatal period.  Thinness in childhood from malnutrition is associated with later schizophrenia as well.
+
+Is it the malnutrition or some other variable that increases the risk?  Malnutrition is associated with low IQ, and low IQ is also associated with the development of schizophrenia.  Iron deficiency is associated with malnutriton, stunting, and schizophrenia.  Let's try to sort it all out…
+
+In Mauritius, all children (1795) from two towns born in 1969 to 1970 were followed from the age of three.  Height (in developing countries, a measure of nutitional status) and hemoglobin (which is an indirect measure of iron) were collected and normalized for the different ethnic groups.  An "adversity index" was also measured from a home visit for each child, counting points for uneducated parents, semiskilled parents, single parents, separation from parents, large family size, poor health of mother, teenage mother, or overcrowded home.  IQ was measured at age 11.  Schizotypal personality was measured with a questionnaire at age 23.
+
+The researchers found that poor nutrition in early childhood resulted in poor cognitive performance (IQ at age 11) and a higher risk of schizotypal personality at age 23.  The adversity index at age 3 was also significantly related to IQ at age 11.  Individuals with higher performance (vs. verbal) IQs were less likey to have schizotypal features.  It is thought that malnutrition leads to hippocampal and frontal brain impairments, leading to difficulty with emotional regulation, maintaining relationships, and the all important executive function.
+
+How do these finding play in the first world?  I suppose it depends on how many pregnant young women live off of vending machine food.  Still, more evidence that nutrition is important.  As if we didn't know.

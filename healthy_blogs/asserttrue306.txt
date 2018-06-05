@@ -1,0 +1,19 @@
+I have to admit, when I first saw the paper by Newcomb and Brown called "Internal Catalase Protects Herpes Simplex Virus from Inactivation by Hydrogen Peroxide" (J. Virology, 2012, 86:21; full article here), I was tempted to dismiss it as a fluke. What Newcomb and Brown found is that herpes virus appears to contain a fully functioning version of the enzyme catalase. This enzyme, which is present in human cells and, in fact, most aerobic life forms (but also some anaerobes), breaks down hydrogen peroxide to molecular oxygen and water. It detoxifies hydrogen peroxide, if you will.
+Herpes simplex virus components.
+
+The odd thing about herpes virus containing catalase is that the herpes genome does not contain a gene for catalase (and this is acknowledged by Newcomb and Brown). Thus, any catalase present in the virion has to have been made by the host cell. The enzyme is piggybacking a ride inside the virion.
+
+It appears that, far from being a fluke, the herpes virus tegument proteins (proteins that lie just underneath the capsid proteins that make up the outer shell of the virion) have evolved in such a way as to attract or stick to catalase, sucking it along for the ride.
+
+Having catalase on board brings survival benefit to the virus. According to Newcomb and Brown:
+HSV-1 [herpes virus] was found to be more sensitive to killing by hydrogen peroxide in the presence of a catalase inhibitor than in its absence. The results suggest a protective role for catalase during the time HSV-1 spends in the oxidizing environment outside a host cell. 
+In what sense would catalase protect the virus? Peroxides are damaging to DNA, and herpes is a DNA virus. Where do peroxides come from? Short answer: phagocytes (think white blood cells). When a phagocyte ingests bacteria (or any material), its oxygen consumption increases. The increase in oxygen consumption, called a respiratory burst, produces reactive oxygenated species (nitric oxide, superoxides, hydrogen peroxide), which are toxic to most life forms, unless (of course) detoxifying enzymes come into play. In this case, herpes comes well-prepared for the confrontation. It brings copies of the host's own catalase.
+
+This is an extremely clever adaptation (if that's what it is). If you're a virus, why go to the trouble of adding a dedicated catalase gene to your DNA if you can simply recruit host catalase into the capsid by suitable modification of a tegument protein?
+
+Arenavirus can capture ribosomes in virions.
+Selective entrainment of host proteins is not unknown in viruses (it's been well studied in HIV and in vesicular stomatitis virus, for example). Even in the case of catalase, it's been known since 1938 that vaccinia virus, a relative of smallpox, carries with it the host's own catalase.
+
+Perhaps the most extreme (and startling) example of viral recruitment of host proteins into virions is provided by Arenavirus (an agent of aseptic meningitis in humans), which can package up host-cell ribosomes (see photo).
+
+It could very well be that most large viruses, such as NCLDVs (and mid-size viruses as well; herpes is by no means large), routinely package host enzymes in their virions. As modern proteomic techniques are brought to bear on the study of virion-associated host proteins, we can probably expect many additional discoveries of this sort in the near future.

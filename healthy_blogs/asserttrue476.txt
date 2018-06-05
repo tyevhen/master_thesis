@@ -1,0 +1,32 @@
+Fathead minnows and contaminated tap water
+provide clues to the rise in autism.
+Now that U.S. doctors are treating 27 million people a year for depression and writing well over 250 million prescriptions per year for antidepressants, we shouldn't be surprised to find psychoactive drugs showing up in our drinking water. The number of scientific papers on this subject has been increasing steadily since 2004. Some of the more-frequently-cited ones are listed further below.
+
+It's a fact that no drug is 100% absorbed by the body. Regardless of which medication you take, a sizable percentage of the drug passes unmodified (completely unmetabolized) out your urine, and if you drink municipal water, guess what's in your water even after it's been "purified"?
+
+In 2008, the Associated Press took it upon itself to investigate the situation. Here's what they found: In watersheds of 35 major cities surveyed by the AP, widely used pharmaceuticals (antibiotics, sedatives, SSRIs, mood stabilizers, hypertension meds, hormones for menopause, OTC medications, others) were at detectable levels in 28. (You might want to consult this article and check the cities listed in the column on the left side of the page to see which pharmaceuticals might be in your city's water.) 
+
+A particularly interesting study that warrants comment is "Psychoactive Pharmaceuticals Induce Fish Gene Expression Profiles Associated with Human Idiopathic Autism," published June 6, 2012. The idea of this study is that since there is a known link between antidepressant consumption during pregnancy and development of ASD (aka Autism Spectrum Disorders), the authors of the study thought it might be a good idea to see if the bipolar meds most commonly found in drinking water could affect the expression of genes involved in neuorological disorders. They prepared dilute solutions of Tegretol, Effexor, and Prozac (in concentrations replicating those found in municipal water supplies) and exposed fathead minnows to the water for 18 days. Then they did gene-expression analysis of the minnows' brains for multiple classes of genes involved in multiple neurologic disorders. (Yes, fish have some of the same brain genes we do.) According to the authors of the paper:
+"[W]e examined gene expression patterns of fathead minnows treated with a mixture of three psychoactive pharmaceuticals (fluoxetine, venlafaxine & carbamazepine) in dosages intended to be similar to the highest observed conservative estimates of environmental concentrations. We conducted microarray experiments examining brain tissue of fish exposed to individual pharmaceuticals and a mixture of all three. We used gene-class analysis to test for enrichment of gene sets involved with ten human neurological disorders. Only sets associated with idiopathic autism were unambiguously enriched." [Emphasis added]
+We're not talking about one or two autism genes here. We're talking about hundreds of different genes that are differentially expressed in autism.
+
+This is actually some of the strongest evidence yet that psychiatric medications are connected with the sharp rise in autism that began in the 1980s. Prozac was introduced in 1988, and we all know what happened then. Depression went from a relatively rare condition (affecting well under 100,000 people in the 1950s) to an epidemic disease affecting 27 million Americans. Meanwhile autism took off like a rocket.
+
+Obviously, more work will need to be done to determine the degree to which psych meds are behind the increase in autism. Until then, you might want to sit back, relax, and have a glass of water. It might just soothe your nerves.
+
+
+References
+
+Celiz MD, Tso J, Aga DS (2009) Pharmaceutical metabolites in the environment: Analytical challenges and ecological risks. Environmental Toxicology and Chemistry 28: 2473.2484 doi: 10.1897/09-173.1.
+
+Croen LA, Grether JK, Yoshida CK, Odouli R, Hendrick V (2011) Antidepressant Use During Pregnancy and Childhood Autism Spectrum Disorders. Arch Gen Psychiatry: archgenpsychiatry.2011.2073 http://www.issues4life.org/pdfs/iariskptb034.pdf (July 4, 2011)
+
+Jjemba PK (2006) Excretion and ecotoxicity of pharmaceutical and personal care products in the environment. Ecotoxicology and Environmental Safety 63: 113.130 doi: 10.1016/j.ecoenv.2004.11.011.
+
+Madureira TV, Barreiro JC, Rocha MJ, Rocha E, Cass QB (2010) Spatiotemporal distribution of pharmaceuticals in the Douro River estuary (Portugal). Science of the Total Environment 48: 5513.5520 doi: 10.1016/j.scitotenv.2010.07.069.
+
+Mennigen JA, Sassine J, Trudeau VL, Moon TW (2010) Waterborne fluoxetine disrupts feeding and energy metabolism in the goldfish Carassius auratus. Aquatic Toxicology 100: 128.137 doi: 10.1016/j.aquatox.2010.07.022.
+
+Metcalfe CD, Chu SG, Judt C, Li HX, Oakes KD (2010) Antidepressants and their metabolites in municipal wastewater, and downstream exposure in an urban watershed. Environmental Toxicology and Chemistry 29: 79.89 doi: 10.1002/etc.27.
+
+Santos L, Araujo AN, Fachini A, Pena A, Delerue-Matos C (2010) Ecotoxicological aspects related to the presence of pharmaceuticals in the aquatic environment. Journal of Hazardous Materials 175: 45.95 doi: 10.1016/j.jhazmat.2009.10.100.

@@ -1,0 +1,31 @@
+A few days ago, GhostProxies.com came up with an interesting infographic showing some stats on Internet and social-web fakery. (Click to enlarge.)
+
+
+Via: Ghostproxies.com
+
+WSJ found that 36% of Internet "visitors" are non-human, with the implication that around a third of the $50 billion spent annually on Internet ads might be wasted. However, it should be noted that large advertisers like Verizon routinely write riders into their ad contracts, giving them the right to rebates or make-goods on phony traffic.
+
+Both Twitter and Instagram have maintained that they believe fake accounts to be only 5% of total logged-in users. The above infographic suggests the number might be closer to 10%. However, even that's probably way too conservative. When Instagram famously undertook a purge of spam accounts across the site last December, Instagram's own account shrank almost 30% overnight.
+
+From the New York Times.
+
+Various apps exist online for estimating the number of fake Twitter accounts associated with a given user. When I ran a check on @dickc (the account of Dick Costolo, CEO of Twitter) at https://www.twitteraudit.com/dickc, I found his followers to be 76% "good," with 24% inactive or fake. (Another tool I used came up with even worse results.) Many large accounts have substantial zombie followings, of course. But what does it say when almost all large accounts turn out to be 20% to 50% bots and zombies?
+
+Twitter is almost certainly more than 20% bogus accounts at this point, but the company refuses to resolve the controversy, which it could (and should) do, immediately, by allowing an independent auditing firm access to the data. When a bigtime auditing firm finally does get to see what's going on, we'll probably learn that the spammer Symantec recently said created 700,000+ Twitter accounts was not an isolated incident; many thousands of such spammers are no doubt creating tens or hundreds of millions of accounts in automated fashion. It's out of control. And Twitter management won't come clean, because they know the truth will be devastating to Twitter's stock price (and its ad business).
+
+In the magazine world, publishers have been kept honest (relatively so, at least) for years by organizations like the Audit Bureau of Circulations. Recently, the American Association of Advertising Agencies and Interactive Advertising Bureau put together what they're calling the Trustworthy Accountability Group, an opt-in auditing service via which online media outlets will be able to certify their purity. It's still in the planning stages. My reading of the Ad Age story on this is that the TAG effort is well-intentioned and moving in the right direction, but also underfunded and greatly underestimates the difficulty of measuring (never mind mitigating) click fraud, referrer spam, legitimate versus fraudulent bot traffic, phony social media accounts, etc. It's not clear to me, for example, how TAG will induce a social media giant like Twitter (which has consistently misrepresented its user numbers, claiming 5% fake users when everyone knows the real number is much higher) to come clean if it doesn't want to. Possibly the SEC should step in? Twitter's dissimulations border on fraud, at this point.
+
+But hey. We have to start somewhere. If TAG can live up to its mandate, the Internet may yet become a safe(r) place to spend advetising dollars. Right now, it's the Wild West. And that isn't always such a convivial place, especially if you're a Little Guy.
+
+ ☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms lie. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+☙ ❧ 
+  I want to thank the following great folks who retweeted me yesterday on Twitter. My advice? Follow these guys. They retweet!
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression. 

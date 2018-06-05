@@ -1,0 +1,7 @@
+Today I put in a feature request for a new feature for the next dot-release of Adobe Acrobat X. What I requested is a white-list/black-list (of URLs) capability for Web Capture.
+
+You may already know about Acrobat's incredibly useful Control-Shift-O (Open URL) functionality, which does just what you think it should: It captures a web page as a PDF document. The built-in functionality is already plenty powerful. It walks all the links in a web page and captures all linked-to pages (and their linked-to pages, etc., however many levels deep you want), creating appropriate links and Bookmarks inside the finished PDF document. And you can specify "Stay on the same server" if you want, to be sure the web-capture session doesn't inadvertently pull in content from a partner's (or competitor's) site, say. Which is all pretty neat.
+
+I ran into a situation the other day, though, where I wanted to capture all the web content from a site, but I didn't want to pull down any content from URLs containing /javadoc/. It would have been neat if Acrobat's Ctrl-Shft-O feature had an Advanced Configuration dialog in which I could have specified certain URLs which either MUST always (white list) or MUST NOT (black list) be followed in the course of a traversal. Neater still would be if you could supply white-listed or black-listed URLs as regular expressions. (Follow this pattern, don't follow that pattern.)
+
+I don't hold out much hope that this kind of feature will make it into a dot release, but I figured I would submit it anyway. As they say, no squeaky, no greasy.

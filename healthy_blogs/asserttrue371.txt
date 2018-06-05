@@ -1,0 +1,18 @@
+Today's maps are again brought to you courtesy of http://ratecalc.cancer.gov/ratecalc/, where you can easily spend a lunch hour (and then some) becoming engrossed in epidemiological mysteries with no apparent answer.
+
+You don't have to spend much time with cancer maps to convince yourself that cancers occur non-randomly with respect to geography. A good case in point is colorectal cancer (CRC), which appears to be mostly a disease of the northern latitudes, at least in the U.S.
+
+
+Sure, CRC occurs in the southern states, too. But there's no denying the preferential buildup of mortality in the Northeast. Bear in mind these maps are population-corrected; they reflect death rates per 100,000 people. (In other words, red areas aren't simply high-population areas.)  I think it's interesting to note that CRC tends to track the Mississippi River (and perhaps the Hudson River as well). Don't ask me what it means.
+
+When you look at liver cancer in men, you get more or less the inverse picture:
+
+
+Evidently your chances of dying of liver cancer are best in the South. Why? Risk factors for liver cancer include gender (male), obesity, alcohol consumption, ethnicity (Asian), smoking, diabetes, use of steroids and certain other drugs, and exposure to aflatoxins (a type of toxin produced by fungus). Some of these factors (alcohol, obesity, diabetes, smoking) are correlated with poverty. Here's a map of poverty in the U.S. (also see the maps in my earlier post on poverty and obesity).
+
+
+The conclusion isn't that poverty causes cancer. Poverty does, however, correlate with many of the things that lead to liver cancer. Obesity correlates very well with poverty (see my earlier post), and as it happens, obesity increases your odds of death from liver cancer by a factor of 4.5 (see this NEJM paper, p. 1630, for details).
+
+As to why colorectal cancer mostly kills northerners: That's a bit of a mystery. Risk factors for colorectal cancer include alcohol, obesity, diabetes, smoking, animal fat (red meat diet), sugar consumption, inflammatory diseases of the bowel, sedentary lifestyle, and genetics. I don't think any of those things correlate with living in the Northeast. In fact, some of them (through poverty) actually correlate with living in the South. However, it's fairly well known that vitamin D is protective against many types of cancer and lack of sunshine is a risk factor for cancer.
+
+There's actually a microbiological factor associated with CRC that's worth talking about in some detail (in a later post) that could, conceivably, relate to geography. More on that later.

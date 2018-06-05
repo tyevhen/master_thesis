@@ -1,0 +1,39 @@
+The common perception (ignorance of the crowd) is that JavaScript is slow. What I'm constantly finding, however, is that people will hand-craft a JavaScript loop to do, say, string parsing, when they could and should be using the language's built-in String methods (which always run fast).
+
+Example: You need a "trim" function to remove leading and trailing whitespaces from user-entered text in a form. If you go out on the web and look at what people are doing in their scripts, you see a lot of things like:
+
+function trim10 (str) {
+ var whitespace = ' \n\r\t\f\x0b\xa0\u2000\u2001\u2002\u2003\u2004\u2005\u2006\u2007\u2008\u2009\u200a\u200b\u2028\u2029\u3000';
+ for (var i = 0; i < str.length; i++) {
+  if (whitespace.indexOf(str.charAt(i)) === -1) {
+   str = str.substring(i);
+   break;
+  }
+ }
+ for (i = str.length - 1; i >= 0; i--) {
+  if (whitespace.indexOf(str.charAt(i)) === -1) {
+   str = str.substring(0, i + 1);
+   break;
+  }
+ }
+ return whitespace.indexOf(str.charAt(0)) === -1 ? str : '';
+}
+
+
+I took this code verbatim from a web page in which the author of it claims (ironically) that it's an incredibly fast routine!
+
+Compare with:
+
+function trim(a) {
+  return a.replace(/^ +/,"").replace(/ +$/,"");
+}
+
+In testing, I found the shorter routine faster by 50% on very small strings with very few leading or trailing spaces, and faster by 300% or more on strings of length ~150 with ten to twenty leading or trailing spaces.
+
+The better performance of the shorter function has nothing to do with it being shorter, of course. It has everything to do with the fact that the built-in JavaScript "replace( )" method (on the String pseudoclass) is implemented in C++ and runs at compiled-C speed.
+
+This is an important point. Interpreters are written in C++ (Spidermonkey) or Java (Rhino). The built-in functions of the ECMAScript language are implemented in C++ in your browser. Harness that power! Use the built-in functions of the language. Never hand-parse strings with "indexOf" inside for-loops (etc.) when you can use native methods that run at compiled speed. Why walk if you can ride the bullet train?
+
+The implications here for client/server web-app design are quite far-reaching. If you are using server-side JavaScript, and your server runtimes are Java-based, it means your server-side scripts are running (asymptotically, at least) at Java speed. Well-written client-side JavaScript runs (asymptotically) at C++ speed. Therefore, any script logic you can move to the client should be moved there. It's madness to waste precious server cycles.
+
+Madness, I say.

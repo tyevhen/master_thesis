@@ -1,0 +1,27 @@
+The MDA announced today that they awarded a research grant to Dr. La Spada to further study the what happens to the process of autophagy for those of us with Kennedy’s Disease. The following two articles are found on the MDA website.
+-
+Spinal-bulbar muscular atrophy (SBMA)
+Two studies, both at the University of California, San Diego, examine the important role of protein recycling in SBMA. Cells rely on a process called autophagy (awe-TOF-uh-gee) to break down and recycle large proteins and subcellular structures. Autophagy is critical for cell health, but relatively little is known about the process in motor neurons, the muscle-controlling nerve cells that are affected in SBMA and other diseases, including ALS and SMA.
+
+In SBMA, proteins misfold and accumulate in motor neurons. Autophagy should take care of these accumulated proteins before they cause problems, but the process appears to be disrupted in SBMA. The goal of both projects is to learn more about the regulators of autophagy in motor neurons and how that regulation goes awry in SBMA.
+
+Insights from these studies will likely benefit work in ALS, in which misfolded proteins also accumulate.
+
+(Additional information can be found below)
+ 
+SBMA — Albert La Spada, M.D., Ph.D.
+
+
+Muscles atrophy in SBMA and are a target for treatments that ultimately rescue motor neurons.
+Spinal-Bulbar Muscular Atrophy (SBMA)
+
+Albert La Spada, professor of cellular and molecular medicine, neurosciences and pediatrics at the University of California, San Diego, was awarded an MDA research grant totaling $300,000 over a period of three years to study the causes of neurodegeneration (loss of nerve cells) in spinal-bulbar muscular atrophy (SBMA).
+
+SBMA, also known as Kennedy disease, is an adult-onset neuromuscular disorder affecting men. It is caused by a mutation in the gene for the androgen receptor protein, and it leads to the death of motor neurons, which are needed to control muscle contraction.
+
+La Spada has created a mouse model and neuronal cell culture models of SBMA. He will now use these models to investigate how the SBMA-causing mutation leads to the death of motor neurons, focusing on changes in metabolism and impaired degradation of worn-out or defective proteins.
+La Spada’s lab will test drugs that target a proposed regulatory factor and also will see whether blocking the erroneous androgen receptor gene instructions with compounds known as antisense oligonucleotides is beneficial. In previous work funded by MDA, La Spada’s lab has shown that directing therapies to muscle cells, rather than directly to the nerve cells that die in SBMA, can prevent the disease in mice.
+
+“This exciting and unexpected finding represents an important step toward successful therapy development, as treatments that target muscle [instead of nerve cells] should be more straightforward to create, easier to test in patients and less likely to cause serious side effects,” La Spada says. “This key finding also suggests that a similar strategy is worth considering for related motor neuron diseases, such as spinal muscular atrophy (SMA) and amyotrophic lateral sclerosis (ALS).”
+
+Funding for this MDA grant began August 1, 2013.

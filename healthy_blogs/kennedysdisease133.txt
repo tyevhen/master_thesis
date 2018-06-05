@@ -1,0 +1,62 @@
+This is Part II of a three-part article on Financial Planning. In Sunday's post, I provided a summary of the steps to developing a financial plan. In today's article I will provide a little more detail as to the process that my wife and I went through twenty-five years ago. Unfortunately, the length of this article requires me to break it down into two sections. The final segment (Part III) will be posted Thursday.
+
+_____________________________
+ 
+The Seven-Step Financial Planning Process
+
+When my wife and I realized that my career might be cut short because of Kennedy's Disease, we developed our financial plan using the process shown below. Part II and III are an overview (even though it will not seem that way) of the steps involved. In today's post I will cover Steps 1 – Evaluate and 2 – Analyze.
+
+Evaluate: This is the most difficult part of the process, but also the most critical. I recommend developing a retirement plan that includes several scenarios in case plans change (e.g., you work longer or have to retire earlier, you live longer, a recession occurs, etc.). Fortunately, on the internet there are some good tools available to make the process easier and more manageable.
+
+
+
+
+First, make an educated guess as to when you might have to retire (e.g., at age 50, 55, or 60). I guessed 55, but worked until I was 57.
+Next, develop a retirement budget (best guess). We decided what we thought we would need (in annual income) to live comfortably if I had to retire early. This is a difficult task because it is like looking into a crystal ball fifteen or twenty years out. We used current dollar values and then applied a reasonable inflation factor (another best guess) afterwards.
+
+There are some general rules for how much money you will need to live comfortably when you retire. One such rule projects that you will need 70% of your annual pre-retirement income (inflated to future dollars). Based upon your wants (travel, vacation home, etc.) and needs, however, you might need 100%.
+
+
+
+
+One way to begin estimating your retirement costs is to take a close look at your current expenses, and then estimate how they will change (e.g., will your mortgage be paid off by then, will you be driving as many miles, will your health care costs likely rise, etc.).
+Use this retirement calculator to help you with the process. Click on each major category (e.g., housing) and it will take you to a more detailed worksheet. The program will apply a reasonable inflation factor based upon your age and other criteria.
+
+
+
+
+
+
+In this budgeting process we separated "wants" (e.g., vacations, new cars, second house, fishing boat, etc.) and "needs" (e.g., mortgage, cars, household expenses, auto expenses, food, health and life insurance, other maintenance expenses, etc.) to come up with the minimum needed retirement savings we were both comfortable with. Having both my wife and I work the numbers helped us reach an agreement on lifestyle expectations.
+
+Any amount over the minimum required savings can be applied towards additional "wants". On the other hand, if you find that you cannot save enough before retirement, you might have to reduce some "wants" and "needs" (e.g., keep the cars longer, downsize house, etc.), or, increase your potential returns by making riskier investments in your portfolio (I do not recommend this), or by moving out your retirement date.
+
+Make some projections as to life expectancy for your wife and yourself (e.g., 75, 80, 85, or 90 years old). Currently, the range for Americans is 77.5 to 80 years old. There is a good (but a more detailed) life expectancy calculator on the MSN.com website. I said 80 for me and 90 for my wife.
+Now, estimate the interest rate factor for the scenarios (another educated guess). We ran three scenarios using different rates (4, 6, and 8%). We also assumed that as costs increased, so would my salary, interest and dividends. However, we never assumed that health insurance costs would increase at the rate it recently has. In the end, our annual inflation rate averaged 4.7%. The retirement calculator link in "b" above will assign an inflation factor and you can use that as a starting point.
+Capturing all this data becomes difficult if you do not use a spreadsheet. It is almost imperative that you use one when putting together multiple what-if scenarios.  Except for a few tweaks, I am still using the same spreadsheet today to track our performance. 
+
+Analyze: Once you agree upon the budget numbers, review your current savings, investments and expected retirement benefits (e.g., IRAs, pension, Social Security, long-term disability, etc.) and other potential income (e.g., savings, stocks, interest/dividends, etc.). This step will help determine the gap (the shortfall) in savings. You will develop this for each early retirement age stipulated (e.g.50, 55, and 60). This was another daunting task, but we are able to receive some help from the Social Security Administration (current benefits available) and Human Resources (pension estimates). Use the Retirement Income Calculator to help you with this task.
+
+An important factor that needs to be taken into account is "compounding." Compound interest arises when interest is added to the principal, so from that moment on, the interest that has been added also earns interest. The value of compounding interest is shown in the example below.
+
+
+
+
+You plan to retire in twenty years and you estimate that you will need a million dollars in savings when you retire.
+You currently have $100,000 saved in your 401K and IRA.
+However, you will be generating interest on your current savings. If you average 4% annual interest over the twenty years, the $100,000 when compounded has more than doubled in value. Now your gap is actually only $800,000.
+You estimate that your pension will be worth $200,000 (lump sum benefit). Your gap, in today's dollars, is now less than $600,000.
+If you put aside an additional $10,000 a year for the next twenty years, you would have over $300,000 saved after applying that same 4% interest rate (compounded). The gap is now only $300,000.
+You now focus on any other investments (stocks, bonds, CDs, etc.) to further narrow the gap.
+
+Even more interesting is what happens after you retire. If you only spend what you make in interest each year, you would never draw down on your retirement savings. For example, if you had a million dollars saved at retirement and it continues to generate 6% interest, you could spend $60,000 a year. Along with your SS-D (e.g., $20,000), you would now have $80,000 (pre-tax) income every year. Again, this is only an example to show what could happen with careful planning.
+
+What if you need $100,000 a year when you retire? After the $20,000 SS-D, you need another $80,000 from retirement savings (8%). If your interest rate averages 6% a year, after twenty years of retirement you will still have $400,000 in savings.
+
+This all sounds wonderful, but realistically your costs after retirement will also continue to escalate (due to inflation). $100,000 in year one will not have the same buying power in year five, ten or twenty. The retirement calculator mentioned above will show you the impact of inflation on your savings over several years. For example, if you need $100,000 in year one; twenty years later the very same expenses could easily inflate to over $225,000.
+
+
+
+_____________________________
+
+That is it for today. Fortunately, the Evaluate and Analyze steps are the most difficult part of developing a viable plan. In Thursday's post, I will conclude the financial planning article by covering: Executing the plan, Monitoring performance, Reviewing performance, and Making needed adjustments to the plan. I will also discuss three other items that need to be worked to ensure you are ready for early retirement.

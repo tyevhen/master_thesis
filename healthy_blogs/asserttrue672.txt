@@ -1,0 +1,30 @@
+I've been trying to follow the fast-moving world of NoSQL lately, and -- like a visit to the carnival funhouse -- it has left me with double vision, queasy stomach, and a staggering gait. (And it's not even Saturday morning...) Yet I find myself coming back for more.
+
+If you're new to NoSQL, you'll want to do a bit of background reading. I'll keep this quick and limit my recommendations to just the essentials:
+
+1. The Amazon Dynamo paper is classic. Almost everyone in the NoSQL world has read this paper.
+
+2. Google's Bigtable paper. Again, very widely read.
+
+3. Werner Vogels's "Eventually Consistent" (originally published in ACM Queue) is absolutely the one article you should read if you're not clear on the rationale behind "eventual consistency."
+
+4. Brewer's CAP Theorem (a foundational bit of scalability theory) is well-explained here. Also see Brewer's original slides from his famous July 2000 PODC keynote.
+
+5. The slideshows from the June 11, 2009 NoSQL meetup in SFO bring to mind adjectives like classic, influential, seminal, pivotal, memorable. Ignore these decks at your peril.
+
+6. SQL Databases Don't Scale is short, basic, and to-the-point. Essential background info if you're not already a battle-scarred DBA with scalability wounds.
+
+7. For a tabular overview of major distributed databases and how they compare with each other, see NoSQL Ecosystem by Jonathan Ellis. A similar effort is the Quick Reference to Alternative data storages page. Ellis's post is noteworthy for its clueful, concise, helpful narrative (in addition to the tables). The Quick Reference page is mainly tables -- but the tables are more complete than Ellis's.
+
+
+Other Essential Resources
+
+http://nosql-databases.org/ -- This site bills itself as "Your Ultimate Guide to the Non-Relational Universe!", and also self-assuredly calls itself "the biggest nosql link archiv in the web." It's worth knowing about, certainly.
+
+IMHO, all fully conformant NoSQL geeks MUST follow @nosqlupdate on Twitter.
+
+Conformant geeks SHOULD follow @al3xandru (creator of the excellent MyNoSQL blog and NoSQL Week in Review). NoSQL Week in Review is new. I'm hoping it will be updated regularly. It's excellent.
+
+You MAY want to read recent blog posts by Ricky Ho that aptly summarize key aspects of distributed data-store technology. Two noteworthy examples: Query Processing for NoSQL Databases, and his widely read NoSQL Design Patterns post.
+
+That SHOULD be enough to get you started. ;)

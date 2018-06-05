@@ -1,0 +1,81 @@
+Blog Reader: I say, Masked AMHP, are you there?
+
+Masked AMHP: Who’s that? Oh, hello there, Blog Reader. How can I be of service?
+
+BR: I’d like to ask you a few questions about Sec.117 Aftercare, if you don’t mind.
+
+MA: Oh dear… Actually, I’m really rather busy preparing my special Christmas post. Can you come back another time?
+
+BR: But it’s stuff I really need to know… This friend of mine, you see, has been detained under Sec.3 and they’re having a meeting to discuss aftercare… They’re talking about putting him in some sort of a care home…
+
+MA: (Sighs) OK, then, fire away.
+
+BR: Let’s begin with basics, then. What exactly is Sec.117 of the Mental Health Act 1983?
+
+MA: Sec.117 applies to anyone who has been detained under Sec.3 or Sec.37. There are a couple of other forensic sections, but they’re pretty rare, so I won’t confuse you with them. Sec.117(2) states: “It shall be the duty of the Primary Care Trust… and of the local social services authority to provide, in co-operation with relevant voluntary agencies, after-care services for any person to whom this section applies.” It’s a pretty significant section, in that it introduced a legal requirement for Mental Health services and local authorities to make sure that people who had been detained under the MHA for treatment were given the help they needed on discharge to keep them out of hospital, rather than just being dumped back into the community with no support.
+
+BR: So, what are these meetings all about, then?
+
+MA: The Code of Practice says: “After-care is a vital component in patients’ overall treatment and care. As well as meeting their immediate needs for health and social care, after-care should aim to support them in regaining or enhancing their skills, or learning new skills, in order to cope with life outside hospital. (27.5)” Before anyone detained under the relevant sections is discharged from hospital, there has to be a meeting involving any relevant professionals or others, including the patient, relatives, and carers. There’s an extensive list in the Code of Practice as to what should be considered (27.13). These include: the psychological needs of the patient, as well as their family and carers; their physical healthcare; daytime activities or employment; appropriate accommodation; identified risks and safety issues; social, cultural or spiritual needs; assistance in welfare rights and managing finances; contingency plans and crisis contact details. There are many other things to be considered as well. Once the patient is discharged, there have to be regular reviews in the community.
+
+BR: And what exactly is an aftercare need?
+
+MA: Aftercare itself is not defined in the MHA. It’s very broad. However, some case law has given guidance as to what should be included (Clunis v Camden and Islington Health Authority (1994)). It would certainly include social care provision, support in helping with employment, accommodation or family relationships, the provision of domiciliary services and day centre and residential facilities.
+
+BR: Is there a time limit, like with other sections?
+
+MA: No, there isn’t. The requirement to provide S117 aftercare will continue indefinitely, in practice until the Consultant Psychiatrist and a representative of the local authority, eg a social worker, “are satisfied that the person concerned is no longer in need of such services”. The Code of Practice helpfully states: “The most clear-cut circumstance in which after-care will end is where the person’s mental health has improved to a point where they no longer need services because of their mental disorder. But if these services include, for example, care in a specialist residential setting, the arrangements for their move to more appropriate accommodation will need to be in place before support under section 117 is finally withdrawn” (27.19) However: “Even when the provision of after-care has been successful in that the patient is now well settled in the community, the patient may still continue to need after-care services, for example to prevent a relapse or further deterioration in their condition.”( 27.21)
+
+BR: Mmmm. And what’s this all going to cost?
+
+MA: Aah! I’m glad you asked me that. The MHA Reference Guide observes: “Because the Act provides no power to charge anyone for after-care services provided under section 117, they must be provided free of charge.” (24.18)
+
+BR: So if something is part of the S117 aftercare plan, the patient gets it entirely free? My friend wouldn’t have to pay anything for this home they’re thinking about?
+
+MA: That’s exactly right! And that’s where it all begins to get a bit complicated and messy.
+
+BR: What do you mean?
+
+MA: Aftercare can be very expensive, especially if someone is in a residential or nursing care home. Some of these places can literally cost thousands of pounds a week! And regardless of the personal income of the patient, the local authority can’t get back a penny! So some local authorities have tried to wriggle out of their responsibilities under S117.
+
+BR: Local authorities wouldn’t try to do that, surely?
+
+MA: Are you really that naïve?
+
+BR: No, actually, I’m being sarcastic.
+
+MA: That’s all right, then. Local authorities have tried a number of cunning ruses over the years. But they’ve often come a cropper. There have been a number of cases referred to the Ombudsman over the years in which local authorities have been hammered.
+
+BR: Local authorities getting hammered? Please tell me more!
+
+MA: Well, let’s see… York City Council was found guilty of maladministration after it persuaded an elderly lady detained under Sec.3 to make her own residential care arrangements at her own expense by threatening that if she went through the normal procedure for getting a residential placement she’d have to languish in hospital for a year. She therefore agreed to waive her entitlement to the funding of her aftercare under S117.
+
+BR: What happened to the council?
+
+MA: They had to pay her for the costs she had incurred for her care. Then there was Bath and North East Somerset Council. This was another old lady with dementia, detained under Sec.3. She was placed in a residential care home as part of her aftercare pan, which was paid for by the Council under S117. After about 2½ years they tried to discharge her from S117 aftercare on the basis that she no longer needed residential care, was settled in her care home, and was not at risk of being readmitted to hospital. The Ombudsman again found maladministration, on the basis that whether a person was settled in a residential placement or not was an “irrelevant consideration”. It was stated that “these defective criteria fatally flawed the decision that Mrs Fletcher was no longer at risk of readmission to hospital.”
+
+BR: Any more dirt to dish?
+
+MA: Why, yes! Poole Borough Council were found guilty of maladministration for failing to carry out a proper assessment of a woman’s mental health needs to establish that section 117 aftercare was no longer required. It also failed to hold a multi-disciplinary meeting with the relevant professionals, the patient and her carer or nearest relative to review the care plan. In all these cases the local authority had to reimburse the patient or their families tens of thousands of pounds. And there have been others, generally around the local authority spuriously deciding to discharge someone from S117 when in fact they are still receiving aftercare.
+
+BR: Phew! So local authorities must be much more conscientious about keeping to the rules now.
+
+MA: I think you’re having a little laugh, aren’t you? Some local authorities are trying a new tack. They’re trying to distinguish between chargeable services, under Sec.21 of the National Assistance Act 1948, and S117 aftercare services, which they can’t charge for.
+
+BR: And what exactly is Sec.21 of the National Assistance Act 1948?
+
+MA: That’s where residential care is provided outside of the MHA for such things as frailty or physical disability. I’ll give you a little scenario. Edna Wilby is 85. She has lived in a care home for 3 years, having been admitted there after she had a fall at home and broke her hip, and was no longer able to manage in her own home. She has been contributing to the cost of her care based on her personal retirement income and savings. Over time, she becomes increasingly demented, and is eventually assessed under the MHA after she assaults a member of the care staff. She is detained under Sec.2 MHA for assessment and admitted to a psychogeriatric ward. She is subsequently detained under Sec.3. She improves with treatment and they hold a S117 aftercare planning meeting at which it is decided that she is able to return to the care home in which she had been living for the last 3 years. She will be followed up by the psychogeriatrician in Outpatients, and a psychiatric nurse from the community team will advise the home on management of her dementia. So, does she have to pay or not?
+
+BR: Well, if the plan to return to the care home is part of the aftercare plan, she shouldn’t have to pay, should she?
+
+MA: You’d think so, wouldn’t you? But some local authorities would argue that the care she is receiving in the care home is not for her mental disorder, but for her physical frailty, which she has been receiving, and paying for, under Sec.21 of the National Assistance Act 1948. They would say that the aftercare covered by S117 was only the outpatient appointments and involvement of a community psychiatric nurse.
+
+BR: Very cunning. Do you think they’d get away with it?
+
+MA: We’ll have to see what the Ombudsman thinks about it, if it’s ever challenged.
+
+BR: Thank you, Masked AMHP. You’ve been very helpful. I’ll be off now.
+
+MA: Wouldn’t you like to hear about the ructions that occur when local authorities can’t agree about who should pay for aftercare?
+
+BR: Er, another time, Masked AMHP, another time.

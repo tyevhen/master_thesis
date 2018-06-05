@@ -1,0 +1,13 @@
+Jeff Potts at ecmaarchitect.com has written an interesting post on the flurry of interest around the Content Management Interoperability Services (CMIS) standard, which was very much in evidence at the recent AIIM show. I was at the show, and I too detected a huge amount of interest around the new standard.
+
+But it's not a standard yet (and won't be, until the end of this calendar year at the very earliest), which makes the sudden interest in it rather unusual, to say the least. I have seen a lot of industry standards come and go over the past 20 years. But I have seldom seen as much interest in a not-yet-released standard as is happening now with CMIS.
+
+What strikes me as particularly odd is the huge interest in CMIS on the part of big ECM vendors like Open Text, EMC (Documentum), Microsoft, IBM, and Oracle, to name a few. Actually, IBM and Oracle don't surprise me very much, since they're pro-standards in general. But some of the other big players built their businesses on proprietary, standards-averse lock-in-ware. To go from a lock-in model to a posture of "let's stand up in public and salute the interoperability flag" seems downright weird to me.
+
+I have it on good authority that Microsoft is a particularly enthusiastic proponent of CMIS, which is even queerer, to me. This is a company that has done more (over the years) to oppose interoperability than any software company in existence. For them to be the out-front cheerleader on CMIS blows my mind (or what's left of it at this point).
+
+What's super-weird, also, is the fact that almost all of the big companies pushing CMIS are involved in the JSR-283 (JCR 2) effort, which produced a final draft spec the other day. If you look at the Expert Committee members on the project page for JSR-283 (scroll down to see the names), you'll see EMC, IBM, and most of the CMIS cheerleaders listed (except Microsoft).
+
+The big CMIS supporters have "supported" JSR-170 and JSR-283 all along, but never once showed the kind of enthusiasm for those JSRs that they are now showing for CMIS. Those companies could have issued press releases, given seminars at AIIM, etc., in support of JCR, but never did. Somehow, interoperability (which is what JCR was and is about) wasn't important to these big ECM companies when JSR-170 was ratified. But now it is. And CMIS is a long way from ratified.
+
+Does anyone else see anything strange in this picture, or is it just me? Mind you, I'm all for interoperability and I'm all for CMIS. I'm just struggling to understand why the sudden interest in interoperability on the part of companies who didn't give a damn 5 years ago.

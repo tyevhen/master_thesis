@@ -1,0 +1,27 @@
+I just read an article in the Health section of the New York Times that was interesting.  The whole article can be read by following the link above, but I have pasted a couple of sections below for your reading.
+
+I believe the most interesting comment was, “… families greatly valued the diagnosis.”  Knowing if often far better than not knowing.  Or, as I have often said, “the best surprise is not surprise at all.”
+
+I can understand the value of this type of testing over the older, more established methods of trial and error, … testing based upon symptoms that show up.
+__________________ 
+
+…. The idea behind the test is to take advantage of what is known about disease symptoms to narrow the search for genetic aberrations. And that, said Dr. Joe Gray, an expert in genome analysis at Orego
+ 
+“It’s a big genome,” said Dr. Gray, who was not involved with the study. “How do you know what part of it to search?” 
+ 
+While more research needs to be done before the test is ready for widespread use, he applauded the effort. “If people don’t push the envelope like this, then we won’t get there,” Dr. Gray said. 
+ 
+About one in 20 babies in newborn intensive care units has a genetic disease, and all too often, no one can figure out what it is. Scientists identified the faulty genes for about 3,500 of 7,500 known genetic diseases, said the paper’s authors, adding that about 500 have treatments.
+__________________ 
+  … With the new method, a computer program searches for genes based on the baby’s symptoms. And because it focuses only on genes that cause diseases in newborns, it avoids an ethical problem: findings that are unrelated to the problem at hand. In sequencing and analyzing the entire DNA, researchers may discover, for example, aberrations leading to conditions that occur only in adults. Do parents really want to know that their sick baby has a gene that increases the risk of Alzheimer’s disease? 
+ 
+“They did it right, and you rarely hear that from an ethicist,” said Dr. Lainie Friedman Ross, an ethicist and professor of pediatrics at the University of Chicago. Dr. Ross, who praised the researchers for deliberately avoiding such incidental findings, was also not involved with the study.
+The method is expensive, though, costing about $13,500. It is not yet covered by insurance. 
+ 
+But Dr. Stephen F. Kingsmore, director of Children’s Mercy’s center for pediatric genomic medicine, expects to show it is cost effective and hopes insurers will pay for it. He noted that each day a baby spends in intensive care costs about $8,000, so any test that reduces that time would quickly pay for itself. A test that reveals a uniformly fatal genetic disease, for example, can allow parents and doctors to know that continuing life support in the hope the baby will improve is futile and only causing suffering. In the meantime, Dr. Kingsmore said, he is hoping a philanthropist will help defray the costs.
+__________________ 
+  … The biggest surprise for Dr. Kingsmore, though, was that the families greatly valued having a diagnosis. 
+ 
+When a baby has a mysterious disease, he said, the family often embarks on a terrifying diagnostic odyssey. “Test after test is performed,” he said. “Some tests are invasive; the child is suffering. The child is getting worse and worse — most spend their entire lives in the hospital, and there is no answer.” 
+ 
+Just knowing the answer can be a comfort. “Providing a definitive diagnosis somehow brings closure,” Dr. Kingsmore said. “It is something they can name.”

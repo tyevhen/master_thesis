@@ -1,0 +1,11 @@
+Yesterday, at its annual investor briefing in New York, IBM made it clear (if there was any doubt) that it sees a big future in business analytics.
+
+Company president and CEO Sam Palmisano outlined a five-year roadmap that includes a reported $20 billion for acquisitions through 2015, to support strong expected growth in the business analytics and optimization (BAO) segment.
+
+Since 2005, Big Blue has invested $11 billion acquiring 18 companies. The largest of these deals was IBM’s 2007 acquisition of BI and performance management powerhouse Cognos for $5 billion. At IBM’s first-quarter earnings presentation in April, Mark Loughridge, IBM’s Senior Vice President and Chief Financial Officer, said that “Cognos, which was our largest acquisition ever, posted strong double-digit growth and gained share, providing a proof point on analytics demand in the market.”
+
+According to Loughridge, IBM's recent acquisitions have generated aggregate compound revenue growth of 16 percent.
+
+An April IBM Market Insights report referenced in the investor presentation claims that last year, BAO represented a $140 billion market opportunity, or 18 percent of the total IT market. IBM reportedly earned $9 billion in BAO revenue in 2009, and projects growth to $16 billion in revenues in 2015.
+
+If that isn't "killer app" territory, I don't know what is.

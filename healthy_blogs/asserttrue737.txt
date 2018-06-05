@@ -1,0 +1,21 @@
+Adobe Systems is at a critical turning point in its long, slow march in the direction of RIA platform domination (which, should Adobe emerge the winner in that sphere, could have profound implications for all of us, as I've blogged about earlier). It is time for the company to decide whether it wants to embrace Linux "with both arms," so to speak. It's put-up-or-shut-up time. Either Linux is of strategic importance to the Adobe agenda, or it is not. Which is it?
+
+"But," you might be saying, "Adobe has made it clear that it is committed to supporting Linux. Look at the recently much-improved Acrobat Reader for Linux, and the effort to bring Flash and Flex to Linux. Adobe is investing heavily in Linux. It's very clear."
+
+Then why has Adobe killed Flex Builder for Linux?
+
+It's funny, if you read some of the blog commentary on this, how many Flex developers are defending Adobe's decision to abandon further development of Flex Builder for Linux, saying (like corporate apologists) there simply isn't enough demand for Flex on Linux to justify the necessary allocation of funds.
+
+I have no doubt whatsoever that a straight bean-counting analysis of the situation will show that the short-term ROI on Flex-for-Linux is indeed poor, and that from a quarterly-earning point of view it's not the right way to satisfy shareholder interests. Agreed, point conceded.
+
+But that's called being shortsighted. The Linux community may be only a small percentage of the OS market, but in terms of mindshare, the Linux developer community is a constituency of disproportionate influence and importance. Also, as a gesture of seriousness about Open Source, the importance of supporting Flex tools on Linux is hard to overestimate.
+
+But it's not just about Flex tools. Adobe has had a schizophrenic Linux "strategy" for years. It back-burnered proper support for Acrobat Reader (and PDF generally) on Linux for years. Flash: ditto. And even a product like FrameMaker (which began its life as a UNIX product, interestingly, and was available in a Solaris version until just a few months ago) has been neglected as a potential Linux port, even though Adobe did, in fact, at one time have a Linux version of FrameMaker in public beta.
+
+Adobe has a long history of going after the lowest-hanging fruit (and only the the lowest-hanging fruit) in the Linux world, and it continues that tradition today. The only problem is, you can't claim to be an ardent supporter of Open Source and ignore the Linux community, nor can you aspire to RIA platform leadership in the Web-app world of the future without including in your plans the fastest growing platform in computing.
+
+Adobe's shortsightedness in its approach to Linux may be good for earnings-per-share (short-term) but is emblematic of the company's inability to articulate a longer-term vision that embraces all of computing. It undermines the company's credibility in the (ever growing) Open Source world and speaks to a mindset of "quarterly profits über alles" that, frankly, is disappointing in a company that aspires to RIA-platform leadership. IBM and others have found a way to invest in Open Source and alternative platforms without compromising longterm financial goals or putting investor interests at risk. The fact that Adobe can't do this shows lack of imagination and determination.
+
+How much can it possibly cost to support Flex Builder on Linux, or (more to the point) to have a comprehensive, consistent policy of support for Linux going forward?
+
+Conversely: How much does it cost not to have it?

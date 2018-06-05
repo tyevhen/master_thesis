@@ -1,0 +1,24 @@
+Lately I've been thinking a lot about the subtle interplay between emotions, usability, and the factors common to good design. And what I've decided is, the fitness-to-purpose proponents have got it all wrong. Usability isn't about fitness to purpose, unless you're designing toothpicks. For anything more sophisticated than a toothpick, usability must take into account the user's total body response to the product.
+
+Total body response means how you perceive the product or technology in question using all of your senses and all of your faculties, on all levels. Usability has an unavoidable aesthetic component.
+
+Aesthetic can refer to a dimension of perceived beauty, but I'm thinking of a more general meaning. Kant maintains the ancient Greek usage, in which anything relating to sensory perception may be called aesthetic. This is closer to the mark. It treats aesthetic perception as part of, indeed integral to, cognition.
+
+All makes and models of car have 4 wheels and will get me to Walmart and back. They all meet the fitness-to-purpose test. But each has a different personality; and (maybe you've noticed?) we interact with our vehicles at the level of personality. We have an emotional response to cars. (Some of us do, anyway.) It's a total body response.
+
+Frank Spillers points out that Vygotsky and LeDoux (among others) believed that the separation of affect from cognition constituted a major weakness in the field of cognitive science and the study of psychology generally.
+
+Usability experts, likewise, are starting to come around to the point of view that cognition is not only informed by affect but steered by it.
+
+In 2007, three Penn State University researchers found that users judged the relevancy of search results to be better with Yahoo! and Google than with other search engines, even though, in the study, all search results were identical. Question: Is this an example of fitness to purpose, or is something much deeper going on here?
+
+Emotional design is founded not in theory but in reality. Studies have shown that an interface that's perceived as highly usable (e.g., iPhone) will typically also be perceived as aesthetically pleasing. Conversely, things that are pleasing are often judged to work well.
+
+We shouldn't be surprised by this. We should take a hint from it -- and modify our practices around usability accordingly. Not for the sake of doing so, but for business value. As Frank Spillers says:
+Emotion is one of the strongest differentiators in user experience, namely because it triggers unconscious responses to a product, website, environment, or interface. Our feelings strongly influence our perceptions and often frame how we think about or refer to our experiences at a later date.
+When we think about emotion design and usability, we typically think of it as "keeping the user happy". This includes designing to minimize the common emotions related to poor usability such as frustration, annoyance, anger and confusion.
+Stephen Anderson puts it this way: "Pretty is not decoration. Pretty is function."
+
+For more on this subject, by the way, I highly recommend Anderson's slideshow, Eye Candy is a Critical Business Requirement.
+
+From now on, when you hear the term "eye candy," don't think empty calories. Think substance. Ask yourself whether the product you're selling (or designing) can dilute pupils. If it's not a pupil-popper? The odds are good that it doesn't measure up.

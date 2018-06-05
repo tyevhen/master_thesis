@@ -1,0 +1,3 @@
+If you're a serious user of Javascript, you must stop reading now and immediately go to:
+
+http://developer.mozilla.org/presentations/xtech2006/javascript/

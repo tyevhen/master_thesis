@@ -1,0 +1,23 @@
+Allen Holub tells of once attending a Java user group meeting where James Gosling was the featured speaker. According to Holub, during the Q&A session, someone asked Gosling: "If you could do Java over again, what would you change?" Gosling replied: "I'd leave out classes."
+
+Holub recalls: "After the laughter died down, he explained that the real problem wasn't classes per se, but rather implementation inheritance: the extends relationship."
+
+I bring this story up because it seems a lot of people still think inheritance (supposedly the cornerstone of OOP) is good. Those same people want to impose the inheritance model on JavaScript. Which to me would be a terrible thing to do. I wouldn't go so far as to say inheritance is evil, even though many experts have indeed said exactly that. But it is certainly the most misused feature of Java. It ruins most otherwise-good APIs, I've found. (Google's Joshua Bloch has observed the same thing.) In the real world, inheritance tends to be an antipattern.
+
+Inheritance violates encapsulation, undercutting the most basic of OOP principles.
+
+Quite simply: Inheritance requires children to understand their parents (which I can tell you from personal experience is a dangerous assumption).
+
+Subclassing leads to bloat (something Java needs more of...), because children inherit the methods of their entire ancestry chain. Which leads to things like JMenu having 433 methods.
+
+It also locks new classes into preexisting concrete implementations, which introduces brittleness. A change in an ancestral method can break children unexpectedly. This is a well known drawback of inheritance.
+
+Here is a verbatim quote from the Java API documentation for the Properties class:
+Because Properties inherits from Hashtable, the put and putAll methods can be applied to a Properties object. Their use is strongly discouraged as they allow the caller to insert entries whose keys or values are not Strings. The setProperty method should be used instead. If the store or save method is called on a “compromised” Properties object that contains a non-String key or value, the call will fail.
+This sort of thing has an odor about it. It reeks of poor design.
+
+There's plenty more to be said on this subject, but it's been said elsewhere and I won't regurgitate needlessly. And again, I have to stress, I don't consider inheritance evil so much as misused. More on that some other time.
+
+The thing that bothers me is that so many Java programmers who haven't taken the time to grok Brendan Eich's motivations for making JavaScript the way it is (drill into some of the links at this page to get a tiny taste of what I'm talking about) think JavaScript's compositionality-based prototype model is a flaw, or at the very least, an egregious oversight. Hardly. The langauge was designed that way for a reason.
+
+Gosling, Eich, Bloch, Holub, all know what they're talking about. Inheritance is overrated.

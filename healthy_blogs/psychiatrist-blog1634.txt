@@ -1,0 +1,8 @@
+On Sep 1, we started an experiment including a single Google ad block (usually 2 ads) on each page, primarily for the purpose of generating money to upgrade our podcasting equipment (which currently consists of three tin cans connected by string to my MacBook's USB port).
+
+What we'd like to get is a mixing board and 4 quality condenser mics (~$500). Anyway, as of Sept 25 we've made $12.99 (wooo!). We've heard from one reader that an ad was served that went to an off-shore, drugs w/o a prescription site.
+
+Google allows us to block ads from certain website, so if you find an an objectionable ad, please copy the url (right-click on the ad's link) and let us know the URL in a comment on this post. (Note, the url will look ugly, like http://pagead2.googlesyndication.com/pagead/iclk?sa=l&ai=BiNocrOP5RtarLZ6ca53TtcoCwqi0If7pm4ICwI23AcCaDBABGAEgiqPPBigCOABQqLXpyAJgyc6SiYikhBCyAR5wc3ljaGlhdHJpc3QtYmxvZy5ibG9nc3BvdC5jb226AQoxMjB4MjQwX2FzyAEB2gEmaHR0cDovL3BzeWNoaWF0cmlzdC1ibG9nLmJsb2dzcG90LmNvbS-oAwGwA5KVoAbIAwfoA4AF6AO1A-gDhgX1AwgAAAD1AwAAIAA&num=1&adurl=http://www.the_road-back.org/weight_-_loss.htm&client=ca-pub-1457668036852312&clkt=-1&nm=6
+), but that's okay... just paste it in and we'll block it.)
+
+Thanks!

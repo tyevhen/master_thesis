@@ -1,0 +1,34 @@
+Smoking in Japan: few warnings, little cancer.
+A few days ago, I wrote a piece called "Lung Cancer and the Power of Suggestion," in which I put forward the seemingly ludicrous hypothesis that cancer warnings on cigarets might actually be to blame for the mysterious and alarming rise (over the last five decades) in lung cancer rates among American smokers. It sounds pretty absurd until you start looking at the epidemiological evidence. (Or as my mother would say, it's all fun and games until somebody loses a lung.)
+
+Mainly what you need to know is that while U.S. lung cancer rates increased in lockstep with per capita cigaret consumption from the early 1900s to the early 1960s, everything changed after 1964. Starting that year, U.S. per capita cigaret consumption began a long steady decline (lasting until the present day). Heart disease has also been on a long downtrend (since the 1950s, again lasting until the present day). But contrary to expectation, lung cancer rates shot up after the Surgeon General's report.
+
+Lung cancer among U.S. men seems to have plateaued since 1995 (at an astonishingly high 72 cases per year per 100,000 population). But for U.S. women the curve may only now be peaking. And in most other Western countries, lung cancer among women is still going up.
+
+Lung cancer rates among U.S. smokers are now so high, overall, that they can no longer be explained by science. (Cancer rates for non-smokers have stayed the same.) The mathematical models that once accurately predicted lung cancer rates based on smoking behavior have broken down completely. I reviewed some of the science behind this in my previous post. Basically, epidemiologists no longer know what to make of the situation. Some have suggested that cigarets are inherently more toxic now due to design changes and/or changes in the way people smoke. Those suggestions are speculative, however, and in general they're not borne out by the facts. We know that adding filters to cigarets decreased the toxicity of cigarets by almost fifty percent, and we know that menthols are thirty to forty percent less cancer-causing than non-mentholated cigarets. The argument that people are somehow sucking ten times more poison out of a 1.2-gram cigaret than they did 60 years ago (before low-tar cigarets, before the wide popularity of menthols) is a bit silly. There's only so much poison in a 1.2-gram cigaret. You can suck on it as hard as you want. It's still 1.2 grams' worth of "stuff."
+
+After writing my original post on lung cancer and the power of suggestion, it occurred to me that if warning labels really did have anything to do with rising lung cancer rates (by their ability to program smokers into getting lung cancer through power of suggestion) then a good test for that hypothesis would be to find a large population of smokers who've been able to buy cigarets without brainwashing (without warning labels and without a constant barrage of anti-smoking messages) over the past few decades, and see what their cancer rates are like.
+
+It turns out Japan is just such a population. Smoking rates in Japan have long been among the highest in the Westernized world. But lung cancer rates in Japan are nothing like what they are in the U.S. (If you start Googling around you'll see this is a well-known anomaly.)
+
+And guess what? Japanese cigarets come with no cancer warnings.
+
+A 2001 study of U.S. and Japanese smokers (Stellman et al., Cancer Epidemiol Biomarkers Prev November 2001 10; 1193) found:
+The risk of lung cancer in the United States study population was at least 10 times higher than in Japanese despite the higher percentage of smokers among the Japanese. [emphasis added]
+The major difference between smoking in Japan and smoking in the U.S.? Warning labels on Japanese cigarets are small, and their content laughably weak.
+
+Japanese cigarets come with two warnings. The warnings say:
+未成年者の喫煙は禁じられています。 Smoking by minors is prohibited. 
+
+あなたの健康を損なうおそれがありますので、吸いすぎに注意しましょう。There is a risk to your health, I would be careful of too much.
+Cancer is never mentioned.
+
+Researchers have looked at whether there's some kind of genetic factor (some ethnicity-related resistance to lung cancer) happening here. There's not. Japanese who move to the U.S. acquire U.S.-like cancer rates.
+
+Researchers have also looked at American cigarets to see how they differ from Japanese cigarets. The latter tend to use charcoal filters more often, and U.S. tobacco (as processed for cigaret use) is known to have more nitrates to promote faster burning. These factors can explain about 40% of the toxicity difference between Japanese and American cigarets -- far short of what's needed to explain the 10-fold difference in lung cancer risks.
+
+So does the Japanese experience prove the hypothesis that warning labels themselves carry a risk of cancer? Of course not. For all I know, it proves that eating more sushi protects you against lung cancer.
+
+Here's what we know for sure. Smoking research is at a crisis point. The ultra-high lung cancer rate for U.S. smokers is in dire need of a convincing explanation. The explanations that have been put forth so far are too weak by an order of magnitude.
+
+I think a canny scientist, having reviewed all the facts surrounding the current situation with regard to lung cancer and smoking in the U.S., would say: "This smells like a scientific breakthrough waiting to happen. It's a genuine riddle, awaiting a genuinely convincing answer. When the answer comes, it'll be big."

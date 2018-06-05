@@ -1,0 +1,96 @@
+Blog Reader: I say, Masked AMHP, you’ve been promising to write a post about how to identify the Nearest Relative of a patient detained under the Mental Health Act for the last couple of years. Isn’t it time you got round to it?
+
+Masked AMHP: Do I really have to?
+
+BR: I’m sure we’d all appreciate it.
+
+MA: Can’t I write about a history of mental health legislation instead?
+
+BR: Save it for a future post. I want to know about Nearest Relatives!
+
+MA: Oh, very well then. What do you want to know exactly?
+
+BR: I want you to describe the process of identifying the Nearest Relative within the Meaning of the Mental Health Act. But so that I can understand it.
+
+MA: You want the moon on a stick, don’t you? Don’t you know that Richard Jones devotes 12 pages of very small print in the 13th Edition of the Mental Health Act Manual to the identification of the Nearest Relative? (Available new from Amazon for only £68.82!)
+
+BR: Does he? How interesting. But I’m sure you can do it in fewer pages. And stop advertising.
+
+MA: OK then, I’ll have a go. But you may get a headache.
+
+BR: I’ve got some Solpadol (available from all good chemists!)
+
+MA: You’ll need them. And you stop advertising as well. Let’s see, where to start? Well, you need to understand right from the beginning that the Next of Kin is not necessarily the same as the Nearest Relative. You can choose your Next of Kin, but your Nearest Relative (I’m going to use the term NR from now on, as I’m fed up of typing Nearest Relative over and over again), is set in stone. Sort of. Sec.26 of the MHA defines the Nearest Relative, although to be honest, Chapter 33 of the Reference Guide to The Mental Health Act 1983 explains it more clearly. By the way, did you see how I’ve mastered hyperlinks in my blog?
+
+BR: Stop showing off and get on with it.
+
+MA: (Takes deep breath) Here goes then. The NR is the first person you encounter in the following list:
+husband, wife or civil partner;
+son or daughter;
+father or mother;
+brother or sister;
+grandparent;
+grandchild;
+uncle or aunt;
+nephew or niece.
+BR: That wasn’t too bad. I thought it was going to be much more difficult.
+
+MA: I’ve only just begun. There’s rather more. Any relative has to be at least 18 years of age to count as the NR – unless they are a parent (unlikely, I’d have thought) or a husband, wife, civil partner, or living with the patient for at least 6 months as the husband, wife or civil partner. Oh, and adoptive children count as natural children. Then, of course, to quote from the Act: “Any relationship of the half-blood shall be treated as a relationship of the whole blood, and an illegitimate person shall be treated as the legitimate child of (a) his mother, and (b) if his father has parental responsibility for him within the meaning of Section 3 of the Children Act 1989, his father.” And of course, you have to remember that despite that, a relation of the whole blood will take precedence over the same relation of the half-blood.
+
+BR: That sounds a bit Harry Potterish.
+
+MA: Don’t be sarcastic. But since you’ve mentioned it, applying these rules, who is Harry Potter’s NR?
+
+BR: Well, let’s see, both his parents are dead. He lives with the Dursleys, who we are told are his only living relatives. So it must be his uncle, Vernon?
+
+MA: Nope. Vernon is not a blood relative. His aunt, Petunia, is the sister of Lily Potter, Harry’s deceased mother. She’s definitely over 18, so Petunia Dursley is Harry Potter’s NR within the meaning of the MHA.
+
+BR: Well, I’m glad we’ve got that straight. Do you think Harry’s likely to need sectioning?
+
+MA: Well, he thinks he has special powers, he sees all sorts of strange things that other people can’t see, he hears voices other people can’t hear – what do you think?
+
+BR: I think you’re beginning to spoil the magic of the Harry Potter series for me...
+
+MA: Right, back to the NR. If there is more than one person who comes in the same place in the list, then the eldest takes precedence, regardless of gender.
+
+BR: OK, so I don’t have a partner, and I don’t have any children, but I have a mother and father. That would mean that the elder of the two would be my NR.
+
+MA: That’s right! And if you didn’t have any surviving parents, but you had several brothers and sisters, the eldest would be your NR if there was no-one higher up in the list. And so on. But there are exceptions.
+
+BR: Of course. There are always exceptions.
+
+MA: A relative who lives with, or cares for, the patient, takes precedence over any other relatives. So if a patient lived with their youngest daughter, then the daughter would count over any other children, as long as she was over 18. If you are married or in a civil partnership, but separated or abandoned by your partner, then that person cannot count as your nearest relative. Oh, and if a relative permanently lives abroad, then they don’t count.
+
+BR: What if you can’t find anyone on the list?
+
+MA: Well, if you have lived with someone for at least 5 years, but not as a husband, wife, or same sex partner, then they would count. So if you were a lodger, your landlady might count as NR if you had no other living relatives. And finally, the NR can delegate someone else to act as the patient’s NR.
+
+BR: Is that basically it, then?
+
+MA: Well, I won’t go in to people detained under Part III of the MHA, that is, via the criminal justice system, as they don’t legally have NR’s.
+
+BR: Why not?
+
+MA: No idea. Anyway, let’s give you a little test. Here’s a real case where I had to reach a decision about who was the NR. Fanny was 67 years old. She lived alone. She had been married, but had divorced many years previously. She did not have any children. She had 5 or 6 brothers and sisters who lived in the area. The oldest of these lives in Spain. One brother lived nearby and used to visit her several times a week and help her with shopping and so on. Her father had had a son before he married her mother. This half brother was older than any of her other siblings, but he lived many miles away and had only ever seen his sister a few times. Who is Fanny’s NR?
+
+BR: Well, the oldest of her siblings, regardless of contact? That would be the half brother.
+
+MA: That’s what I thought too. So I contacted him, but he was ill and didn’t want to undertake the role of NR. So he appointed his daughter to act as NR, and I consulted her, and put her name on the section papers. But I was wrong.
+
+BR: (Incredulously) The Masked AMHP was wrong?
+
+MA: Yes. I’d forgotten two things. The first was that relatives of the full blood take precedence over relatives of the half-blood. The second was that a relative who was a carer of the patient took precedence over other relatives. So the brother who lived nearby and helped her with shopping was her actual NR. And I used him the next time I had to section her.
+
+BR: That’s a pretty serious mistake. Didn’t you get in trouble?
+
+MA: Well, “to the best of my knowledge and belief” I had identified the half brother. You only have to show that you have taken reasonable steps to establish the NR. I rectified it next time. Even the Masked AMHP can make mistakes, OK?
+
+BR: So that’s all there is to know about establishing the NR for the purposes of the MHA?
+
+MA: Would you like to know about children subject to Care Orders? The NR rules don’t apply to them. Oh, and the NR of a patient can change over time – if they get married, for instance, or if a child reaches the age of 18. Oh, and –
+
+BR: That’s quite enough for one post, thank you. Nice to talk to you.
+
+MA: Nice to talk to you, too. I hope you’ll drop in again sometime, when I might tell you all about the history of mental health legislation.
+
+BR: I can’t wait.

@@ -1,0 +1,130 @@
+summary notes for talk this week: a phenomenological theory of hallucination 
+
+Posted here to supersede and collate previous musings on hallucination.
+
+1. ontological question of hallucination
+
+What is it to hallucinate? What is the being of hallucination? This not an empirical question about psychological precipitants or associated neurological events.
+
+2. against dualistic answers to the ontological question
+
+If you espouse dualism of inner (mind/brain) and outer (world/body), then you hardly need a theory of the being of hallucination. Your conception of perception will likely already reference an inner mental item of some sort ('inner representation'/'percept'/'sense datum'/'idea'), so: hallucination becomes simply the inner item in absence of outer stimulus. (You'll also be likely to: take seriously the problem of constancy, be drawn to Helmholtzian theorising, talk of unconscious inferences etc; Gibson won't speak to you.)
+
+But perception and experience are not just caused by their worldly objects; they take them in. Not hybrids of i) non-mental causal outer interactions with a world (the mechanics of vision and audition etc) plus ii) mental upshots of 'loud and glowing sense data' in an internal world. Instead perceptual experience is our openness to the world; it is 'originary transcendence'. In this sense of 'perceptual experience' a hallucination is precisely not a perception or experience; paradoxical/meaningless to talk here of 'an experience of a horse in the absence of a horse'.
+
+'Inner representation', 'sense datum', 'inner image' etc are simply philosophical inventions which themselves cry out for explication before they themselves can feature in explanations. What use is a visual representation if one can't see it? Doesn't the concept of a 'representation' - e.g. of a picture - presuppose rather than explain the capacity to see what is thereby pictured? Such notions need explaining before being put to use to 'explain' perception. But why do we even need an explanation? The felt need had better not be a result of a theoretically contrived dualism between mind and world (the unnecessary explanation being of how it is possible for such an alienated subject to reach the world; ... dude, we're not world-alienated subjects, it's ok).
+
+Non-disjunctivism says: the visual perception of a horse, and a hallucination of a horse, have something psychological/inner in common. 'Psychological': not just that they have in common the atemporal fact that the right way to describe their content is 'a horse'. Instead: they (allegedly) have in common something experiential and episodic. They are not just both experiences of horses; they are both - in some or other allegedly illuminating sense - experiences of horses. 
+
+Disjunctivism says: it is no more illuminating to say this than to say that a real horse and a plastic horse are both horses, or that a standing bridge and a bombed out bridge are both bridges. We can say that a hallucination is a perceptual experience, just as we can also say that a bombed-out bridge is yet a bridge. But in both cases what is essential to the being of the perceptual experience (openness to the world) and the bridge (forging a connection between two sides of a river) has been lost. The reason why we identify the broken bridge as a bridge, the plastic horse as a horse, the hallucination as an experience, has to do with their ontological dependence on real bridges, horses, perceptions. We can call both veridical perceptions and hallucinations 'experiences', but this is not because they share something episodic in common, but instead merely because additive mention of all such phenomena gives us the extension of our broadest concept of 'experience'. 
+
+3. differences to hallucinators of hallucinations and perceptions
+
+Not elucidatory to say that in both real and hallucinatory cases it seems to us that there is a horse in front of us. For it may not seem to the hallucinator that there's a horse in front of her. Perhaps it seems to her that she's hallucinating a horse. 
+
+Merleau-Ponty: examples of hallucinators being able to tell the difference between hallucinations and his perceptions. Early 20thC French and German psychiatrists playing tricks on psychotic patients with mock-ups of hallucinations, and reporting how taken aback the patients were, and how differently they related to their real and hallucinatory experiences with the same object.
+
+Also: unclear what it means to say of someone who clearly sees a horse that it seems to him that he sees a horse. (And it may be true of someone who doesn't clearly see a horse that it seems to them that they see a cow.) This because part of the work that the concept of 'seeming' does is to distinguish between, for example, when something 'really is' the case and when something 'just seems' to be the case. To say that there is a 'seeming' alive in both cases sublimes the logic of 'seems'.
+
+4. existential phenomenology - thinking form and content together
+
+Value of existential-phenomenological theory is that it thinks hallucinatory form and content together. Dualistic theories, by contrast, typically chalk up form to neurological factors alone, and view content as epiphenomenal or to do with psychologically intelligible preoccupations, traumas, complexes, self-esteem, etc.
+
+In thinking form and content together we also aid rapprochement of psychiatric understanding of form with psychoanalytic understanding of content.  (Thinking them together: we can ask: why would that be the content of a hallucination? The form of our embodiment is central to answering this.)
+
+I will call hallucination: an embodied expectation of hearing (or seeing, being touched, etc.) uncancelled by (unrelinquished despite) the absence of a stimulus; a 'negative' (quasi-photographic) or 'anti-'experience, an ungraspable absence registered as a presence. This an existential-phenomenological characterisation, not a reductive explanation. Merleau-Ponty: We need to understand - to 'live' - hallucination without reductively 'explaining' or psychologically reducing it. 
+
+Talk of 'embodied and cancelled expectations' is not straightforwardly perspicuous. We instead arrive at sense through analogies, disanalogies and examples. (Similarly for perception - to say it is our 'openness to the world', that it 'takes us out to the objects', that it involves an 'originary transcendence', hardly conveys positive information. Instead: what we have here are reminders not to make a travesty of our concept of perception by espousing dualism of inner mental domain enjoying merely external relation to an external world.) Of course one can have unrelinquished anticipations which do not constitute or coincide with hallucinations! I am truly aiming at an identity claim, but the particular meaning of 'unrelinquished' and 'anticipation' will emerge as we proceed.
+
+5. hallucination as uncancelled anticipation
+
+Hallucination: an embodied expectation of hearing, seeing, being touched, etc., uncancelled by the absence of a stimulus; a (quasi-photographic) 'negative' or 'anti-' experience; an ungraspable absence registered as a presence.
+
+Anticipation: Merleau-Ponty follows Husserl in describing how perception has built into its structure a large array of 'promises' - if I move over there, and my vantage changes, or if I pick this up and turn it over, that I will encounter this or that. An interconnected protentive structure of experience constituting our normal perceptual world. Objects offer what Gibson calls sensori-motor affordances. M-P: 'I can feel swarming beneath my gaze, the countless mass of more detailed perceptions that I anticipate, and upon which I already have a hold'.
+
+Merleau-Ponty on hallucination: 'The illusion of seeing is ... much less the presentation of an illusory object than the spread and, so to speak, running wild of a visual power which has lost any sensory counterpart. There are hallucinations because through the phenomenal body we are in constant relationship with an environment into which that body is projected, and because, when divorced from its actual environment, the body remains able to summon up, by means of its own settings, the pseudo-presence of that environment.'
+
+Walk along - expect the floor to stay still. Get onto an escalator, expect it to move thus and so. Turn an object over in your hand: expect it to appear thus and so. Self usually rapidly and automatically adjust to various environmental changes. 
+
+Selfhood and perceived object are two correlative moments in perception. What belongs to whom - this is what must be divvied up by the intentional arc which subtends and (at the 'chiasm') divides the two subject and object poles: e.g. is it that I've moved further away? Or that: it's got smaller / moved away?
+
+Spinning: spin around a lot - then stop - the world appears to spin. You've set up certain expectations of self/world movement in your lived body. These expectations are not visually met with (because you stopped spinning). They're not immediately relinquished/cancelled. So then, instead, the world appears to move in opposite direction. In intoxication we have the same difficulty. Expectation and world are not so tightly coupled. Maximal grip is degraded.
+
+Broken escalator: your body carries expectations of movement even if you can see escalator is static. Get on the escalator - it appears to lurch in the opposite direction. Your body stumbles. Why isn't it like getting on a normal staircase?!
+
+Jewellery removed: take off a watch or bracelet before swimming or before doing the washing up. Normally you don't feel it there. But now you feel an anti-bracelet around your wrist!
+
+Sensory deprivation: nothing to entrain the web of anticipations; nothing to cancel them (no staircase fully visible where a person would otherwise occlude it). Hallucinations spring up from fleeting unrelinquished sensory anticipations.
+
+Phantom limb: the expectations that constitute the body schema can't be readily relinquished. 'Knowing that your limb is gone' is not a neurological unity - various disjunctive criteria for that, some of them verbal and some motor-habitual. (Harder to adjust if unconscious when amputation happened.) 
+
+Rubber hand illusion: disturbance of sensory integration. Tickling of feather is not where body expects it when body takes rubber hand for own hand. So position of hand in body schema is adjusted. (Can cause OBEs in schizophrenics.)
+
+Hallucinatory palinopsia: Wikipedia: "persistent recurrence of a visual image after the stimulus has been removed." The expectation is formed, yet not relinquished after the 'stimulus has been removed'  - so one has a 'recurring visual image'.
+
+
+Ghosts: my beloved has died but this understanding has not propagated through my set of reactive dispositions. That is: I still expect her to come through the door. She does not. Yet the expectation does not immediately relinquish: instead I 'see' a 'negative' of her - I 'see' her 'ghost'.
+
+Succubi, incubi, old hags, alien visitors: sleep paralysis undermines ability to update the body schema. Corollary discharge of the motor intention plus no change of retinal stimulation due to paralysis naturally gives rise to hallucinatory experience - projection of body image. Sense of evil - self-disintegration (terror - see below) and hallucinated body shape combine in the night terror. 
+
+AVHs: perhaps not so easy to generalise to 'hearing voices'? The model would be: I have a latent anticipation of hearing my name being called. And in cases of mental illness, a latent anticipation (in the complexes) of receiving hostile criticism, of being talked about, etc. I do not manage to experience silence - in other words my latent anticipation is not relinquished. I then 'hear' an 'anti-voice' saying what I expect to hear. AVHs are auditory ghosts. Why expect criticism? This is the 'introjection of the bad object' to form persecutory superego.
+
+Charles Bonnet Syndrome - visual hallucinations - in some of those with significant retinal damage - i.e. with partial blindness. Standard theory: impairment of normal visual stimulation unconstrains the brain from producing 'images' (of little people, of objects, landscapes, and repeating visual patterns). Alternative: hallucination here too is result of 'anticipations' uncancelled by normal sensory input. Question remains: why does person have such anticipations - of encountering people etc.? Well: of course we have expectations of encountering people, objects, landscapes, etc. And if we experience a little bit of a pattern it may be natural to expect this to continue as well (in the absence of the cancelling effect of regular visual input). Elaboration of a partial visual stimulus into a face, person, object, pattern ought to happen, and is what subtends normal protentive dimension of visual experience.
+
+6. hallucination as failed grieving 
+
+Failing to smoothly update body schema: caused by identificatory failures of mourning, by intoxication, by tricking the body (psychologist's rubber hand illusion etc), by schizophrenic fragility.
+
+Easy to update, to 'grieve', when the lost phenomenon not really a part of who one is. 
+
+Grieving: not an emotional experience that sits on top of the letting go of reactive dispositions to encounter the departed other / the amputated limb. Grieving is the embodied relinquishing of these expectations. Grieving tears at the fabric of our self, allowing it to adjust to new situation without the lost object. (You can't ask: 'why does mourning (letting go) involve feelings like that (grief)?' because the feeling is the experience of the adjustments within the mourning process.) 
+
+Ghosts: intrinsically mournful phenomena. Beckon to the living from 'another world'. They still have something they want to say. They can 'haunt' - won't leave you or this world alone, trapped between the worlds. All of these properties in fact belong to the bereaved: it is we who can't let go of the beloved, we who want to say something to her, we who can't relinquish our expectations. The ghost is the reverse of these - rather than grieve we hallucinate. Ghosts - so-called presences - are, in fact, unmanageable absences.
+
+This is not wish-fulfilment. It is a direct product of the non-relinquishment of the anticipations. It is no more wish-fulfilment than our lurch on the static escalator. 'Ghosts' are visual lurches on the static escalators of our animal souls.
+
+7. the identity of hallucination
+
+If one is reluctant or unable to relinquish the expectation of theorising hallucination in terms of 'inner images occurring in the absence of their normal cause' - if one is reluctant or unable to relinquish a conception of consciousness as an inner realm of inner representations - then the theory of hallucination as a failure of expectation will look unpersuasive.
+
+One will be likely to think that a theory based on anticipation is either insufficiently sensory or is at best not an ontological account but instead merely a theory of what causes hallucination. The hallucination itself, one might think, will be an inner image upshot of the failure to relinquish the anticipation.
+
+This is not our theory. It is one of the being of hallucination. If we have to think of hallucination in terms of 'images', then the claim is that the inner image is the anticipation unrelinquished despite the unencountered stimulus. However why think in terms of images at all? We have to see images (e.g. oil paintings or photos), and hallucination is not seeing. 
+
+This talk of 'inner images' is a metaphor; one might as well say that auditory hallucination involves 'inner recordings', or that olfactory hallucination involves 'inner scratch-n-sniff cards'. Images, recordings, and smelly cards can all obtain in the absence of what the images depict, tapes record, and cards smell like - and hallucinations also obtain, of course, in the absence of that of which they are hallucinations! The theory of 'inner images' seems to suppose that because there is no outer stimulus in hallucination there must be an 'inner' one! (Error theory regarding 'inner image' talk proclivity.)
+
+Someone might insist 'But at least the psychologist - i.e. the heir of the 18th century 'theory of ideas' pundit - has a theory of hallucination. It is a mental image. But what do you have? You talk of unrelinquished anticipations - but surely one can have an anticipation, including an unrelinquished one, without hallucinating anything?'
+
+First of all I would like to question that it is all that obvious what a mental image is. I don't myself feel confident that I know this genus well enough in its own terms to then be able to allocate hallucination to it as a species. As I said above, it seems to me to be a mere metaphor.
+
+Next I want to ask whether we always know what we are doing when we ask 'But what is X?' or 'But what is it to X?' The questions are so simple that it feels like we ought always be able to ask them. But my thought here is that it's not really so clear that the question has a proper place. For might we not just reply 'But don't you know? Surely you know what it is?' Imagine someone saying 'You keep talking about matter. But what is that, really?' One way of thinking about this riposte of mine is to question the idea that everything must be a species of some or other genus (rather than being a genus with only one species in, if you like). I should like to suggest that sometimes the 'But what is X?' question arises in a compelling way only because the questioner has herself already bought into a particular way of thinking about our mental life - perhaps in terms of a rather restricted set of categories like 'mental state, mental process, sensation, mental image' etc. Their 'But at least I've got a theory of X' comment now hardly looks so innocent. For it turns out that 'having a theory of what X is' presupposes what we might rather want to investigate - whether hallucination is, categorically speaking, sui generis, or whether it may be decomposed into or allocated to some other psychological phenomenon.
+
+At this point, finally, I can imagine someone wanting to defend my position in the following way: 'But Richard you protest too much, since you do have a theory of what a hallucination is. It is, you said, an unrelinquished sensory anticipation obtaining even in the absence of sensory stimulation.' Well, that's very kind of you. However I don't think my 'account' is really in the same ballpark as the empiricist psychologist's account. I don't for a moment think that one could understand what it is to hallucinate simply through a grasp of how the terms 'anticipation' and 'relinquish' work in other contexts. For these anticipations are not any old anticipations - they have their being in the midst of our unreflective animate life. We have thousands of them every minute - if it even really makes sense to count them - and they are constantly relinquished by our sensorimotor contact with reality. I think there is a kind of 'leap' needed, a moment of sheer intuition, when one grasps how it is that a sensory anticipation that is unrelinquished despite not showing up in experience can constitute hallucination. This is why I used plenty of examples in section 5 above - my hope is that you will be able to just 'get' my thesis if you dwell on the examples and the theoretical claim in the midst of one another.
+
+8. hallucination, terror and self-dissolution in schizophrenia
+
+Self and perceptual object are correlatively enacted structures.
+
+If we can't achieve self-world stability - grip (as in maximal grip) - then disintegrative terror looms. Not being able to attain object-stability is also disturbing. Because of their correlative enactment, not two alternative scenarios.
+
+Schizophrenia - especially coenaesthopathic schizophrenia - involves a fragility to slippage of body schema - and by implication a vulnerability to disturbed self-world enactments (hallucinations, autoscopies, passivity experiences, coenaesthopathies, OBEs).
+
+Parts of body schema become sheared off. Transitivism, appersonation, passivity experiences, alien hand, coenaesthopathies develop as body is no longer 'lived', alien invasions, electrical experiences, kundalini, etc.  Or displacement of point of perception - autoscopies, OBEs.
+
+Terror is the experience (the undergoing - i.e. non-transitive experience) of self-dissolution. (The identity claim matters - now you can't say 'but Richard why is that so scary?') 
+
+Delusionality: the relinquishing of the attempt to solve for self-world discrepancies, the retreat into autism / detachment from reality / disconnection of sensori-motor feedback cycles / diminished fonction du reél. Delusion is a way to not experience terror of self-dissolution (persecution is better than disintegration).
+
+9. hallucination and therapy: between identification and grief
+
+Compared to perception (reality contact) and self-world adjustment, hallucination is failure.
+
+Compared to introjective identification with bad object, hallucination is a success!
+
+That is: the hallucinator who 'hears' a persecutory voice is at least now not completely identified with it.
+
+Hallucination can be seen like psychoanalytic symbolism (in dreams, images, preoccupations, obsessions, delusion-like ideas, etc): as a stage between illness and health. Both regressive and progressive moments possible. Recognition and encouragement of it's progressive dimension is the therapeutic task.
+
+Therapeutic task is: relinquishing the anticipation! This may be updating the body schema with mirror boxes etc for phantom limb sufferer. It may be grieving the beloved, realising what one oneself wants to say to him or her, in those who see ghosts. It may be taking care to stabilise body schema, and sharing understanding about this, in schizophrenia.  
+
+This contrasts with a conception of hallucinations as 'inner images'. On that conception we're likely to see them as psychologically unmotivated brain events, or as wishfully motivated (since imagination is often under control of the will). By contrast the anticipation account provides a clearer therapeutic direction.

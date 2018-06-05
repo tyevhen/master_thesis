@@ -1,0 +1,65 @@
+Most people are familiar with obsessive compulsive disorder as is popularized in many TV shows and movies. My favorite is Monk, a TV show about Adrian Monk, an investigator who works with the San Francisco police department. Due to Monk's severe OCD (along with other disorders), he was forced into retirement as a detective with the San Francisco PD. The show is unflinching about the negative effects of Monk's disorder, but of course it introduces humor into his predicament. 
+
+According to the DSM-5, obsessions are "recurrent and persistent thoughts, urges, or images" that are intrusive and cause distress. The individual attempts to ignore the obsessions, but is generally unable to. Compulsions are repetitive behaviors - such as hand washing, checking, praying, counting, or word repetition - that the individual feels compelled to perform in order to reduce anxiety and distress.
+
+
+Often, the compulsion is meant to prevent a terrible event. That event is often excessive or unrealistic. To give a rather trite but recognizable example, someone might try not to step on cracks because they'd "break their mother's back," so they must go back to the beginning again and again just to make sure they didn't step on any of the cracks. Ritualistic hand washing is generally meant to protect the individual from contamination of germs. Adrian Monk, from my example above, had his assistant carry around hand-wipes so that Monk could clean up after he'd shaken hands with anyone. 
+
+OCD can be one of the most debilitating mental disorders because it can take up hours of a person's day. In order to get a diagnosis, the obsessions or compulsions must take up at least 1 hour each day. 
+
+
+
+Generally the individual is quite aware that his compulsion is excessive and unnecessary. Monk was an intelligent guy - he knew that if he didn't touch-and-count every car antenna in that traffic jam that nothing bad would happen. But he couldn't stop himself, even though it slowed down his progress as he walked up to the "crime scene." 
+
+Common obsessive thoughts include contamination fears, fears of harming oneself or others, and pathological doubt. Another common obsession is the need for symmetry. Mr. Monk had all of these obsessions. Obsessions about sex and aggression are also common. (Well, Monk wouldn't be as likable if he had those, though he did have a phobia of sex and nudity). OCD is often accompanied by social phobia, panic disorder, generalized anxiety disorder, and PTSD. (Yup. Monk had all of those.) 
+
+OCD is thought to be a learned behavior. First, the individual begins to obsess that touching a doorknob will contaminate his hands. As his anxiety increases, he finally breaks down and washes his hands. Washing his hands decreases his anxiety tremendously - he has now learned how to alleviate his distress. So the next time the obsessive thought intrudes, he will wash his hands again. Perhaps this time, he'll just keep on washing his hands, because that might decrease the anxiety more. Of course, this theory doesn't explain where the obsessive thoughts come from in the first place.
+
+
+Top left: basal ganglia; Top right: amygdala;
+Bottom: thalamus
+
+In patients with OCD, abnormalities occur primarily in the basal ganglia. The basal ganglia are involved in primitive behaviors such as sex, aggression, and hygiene concerns. In a system known as the cortico-basal-ganglionic-thalamic circuit, urges are passed from the basal ganglia through the caudate nucleus, which filters the urges before sending them to the thalamus, which, in turn, sends the signal to the frontal cortex to create an action-urge. Theories suggest that in OCD, there is something wrong with the filtering aspect of this system, and many inappropriate urges are sent on to the cortex. In addition to connecting to the cortico-basal-ganglionic-thalamic circuit, the basal ganglia is also linked to the limbic system through the amygdala, which is thought to be the source of the "fear network," as described in my post about panic disorder. This connection explains the panic that the individual feels when the obsessive urges aren't acted upon. 
+
+The most successful treatment for OCD is exposure and response prevention. The individual is asked to rate his disturbing stimuli on a scale of 1 to 100. The individual then exposes himself repeatedly to a stimulus (either by imagination or directly) and is asked not to perform the compulsion. Eventually, the anxiety subsides on its own. Theoretically, each time the individual avoids the compulsion, he becomes a little more sure that the compulsion is not necessary to decrease the anxiety. 
+
+For those of you who are interested, Mr. Monk's greatest fears, in order, are: germs, dentists, sharp or pointed objects, milk, vomiting, death and dead things, snakes, crowds, heights, fear, mushrooms, and small spaces (as listed in the episode "Monk and the Very, Very Old Man). Fortunately for him, his work frequently throws him into situations in which he encounters these things and is unable to fulfill his compulsions. I guess working his its own therapy. :)
+
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+References:
+
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 6: Panic, Anxiety, Obsessions, and their Disorders. Abnormal Psychology, sixteenth edition (pp. 163-210). Pearson Education Inc.

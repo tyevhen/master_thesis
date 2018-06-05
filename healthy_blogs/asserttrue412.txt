@@ -1,0 +1,31 @@
+Sometimes you want to scrape some screen data and analyze it on the spot without copying it to another program. It turns out there's an easy way to do just that. Just highlight the information (by click-dragging the mouse to Select a section of screen data), then run a piece of JavaScript against the selection.
+
+Example: I do a lot of peeking and poking at DNA sequences on the web. Often, I'm interested in knowing various summary statistics for the DNA I'm looking at. For example, I might see a long sequence that looks like AGTTAGAAAACCTCAGCTACTAG (etc.) and wonder what the G+C content of that stream is. So I'll select the text by click-dragging across it. Then I'll obtain the text in JavaScript by calling getSelection().toString(). Then I parse the text and display the results in an alert dialog.
+
+Suppose I've selected a run of DNA on-screen and I want to know the base content (the amounts of G, C, T, and A).
+
+
+text = getSelection().toString(); // get the data as a string
+text = text.toUpperCase(); // optionally convert it to upper case
+
+bases = new Object;  // create a place to store the base counts
+bases.G = bases.C = bases.T = bases.A = 0; // initialize
+
+// now loop over the string contents:
+for (var i = 0; i < text.length; i++)
+   bases[ text[i] ]++;  // bump the count for that base
+  // format the data for viewing
+msg = "G: " + bases.G/text.length + "\n";
+msg += "C: " + bases.C/text.length + "\n";
+msg += "A: " + bases.A/text.length + "\n";
+msg += "T: " + bases.T/text.length + "\n";
+msg += "GC Content: " + (bases.G + bases.C)/text.length; 
+  // view it:
+alert( msg ); 
+  If I run this script against a web page where I've highlighted some DNA text, I get:
+
+ 
+
+The nice part is, you can put the above code in a bookmarklet, associate the bookmarklet with a button, and keep it in your bookmark bar so that whenever you want to run the code, you can just point and click. To do the packaging, reformat the above code (or your modified version of it) as a single line of code preceded by "javascript:" (don't forget the colon), then set that code as the URL of a bookmark. Instead of going to a regular URL, the browser will see "javascript:" as the URL scheme and execute the code directly.
+
+Bookmarklets of this sort have proven to be a major productivity boon for me in various situations as I cruise the web. When I see data I want to analyze, I don't have to copy and paste it to Excel (or whatever). With a bookmarklet, I can analyze it instantly, sur la vitre.

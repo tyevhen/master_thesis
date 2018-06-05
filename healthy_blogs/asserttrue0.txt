@@ -1,0 +1,19 @@
+I have found a number of sizable palindromes in Mycobacterium leprae Br4923. I report two here.
+
+The larger one is 74 bases long:
+
+GGTGCTTGTTTTGCAATCTCGACCATTACCTGGCCTTAAGGCCAGGTAATGGTCGAGATTGCAAAACAAGCACC
+
+This is a true palindrome (in that the reverse complement of the sequence exactly equals the sequence). It occurs precisely once (hence is not a CRISPR) in pseudogene MLBr01586, which appears to be an analog of M. tuberculosis soluble secreted antigen MPT53. The pseudogene in question, of length 489 bases, is flanked on one side by a pseudogene that appears to be an analog of a 23S rRNA methyltransferase, and on the other side by a pseudogene that is an analog of a putative "integral membrane protein."
+
+MLBr01586 has a G+C content of 56.4%. The pseudogenes on either side of it have G+C contents of 59% and 60%.
+
+The palindrome is long enough to fold back on itself to produce a hairpin-like secondary structure of substantial size. Its function, if any, is of course unknown.
+
+A palindrome of length 60 can be found in pseudogene MLBr00038:
+
+TACCTTGGTTAGGGCATAGCCGCTGTGCAGCTGCACAGCGGCTATGCCCTAACCAAGGTA
+
+MLBr00038 has a G+C content of only 47% and appears to be an analog of Type VII secretion protein EccE from Mycobacterium malmoense (and others), which has a G+C content of 72%.
+
+The rather advanced AT shift of the pseudogenes is consistent with runaway accumulation of random mutations. The existence of long, intact palindromes in the midst of such mutational mayhem is surprising, leading one to wonder whether secondary structure is preferentially conserved in pseudogenes, even as codons degrade. Indeed, maybe that's one reason why the pseudogenes continue to exist after an estimated 9 to 20 million years. Their secondary structures are needed.

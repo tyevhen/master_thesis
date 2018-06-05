@@ -1,0 +1,11 @@
+  I received an email from the APA the other day noting the following:
+
+APA learned today that Medicare providers who file 1500 Health Insurance Claim Forms are having a large number of their claims returned due to a change in the reporting requirements that went into effect on October 1, 2015.
+
+Medicare contractors are returning claims for correction or resubmission to mental health professionals who fail to indicate in line item 21 of the 1500 claim form whether ICD-9 or ICD-10 codes are used.
+For services that were provided prior to October 1, 2015, ICD-9 codes should be used even if the claim is filed after that date; for services on or after October 1, 2015, ICD-10 codes should be used. ICD-9 codes are indicated by using a 9 in item #21; ICD-10 codes are noted with a 0.
+Really?  The codes look totally different, Medicare can't figure out if the codes are DSM-IV-TR codes or ICD-10 codes?  Especially since it might be safe to assume that codes filed after October 1st are ICD-1O codes if they look like ICD-10 codes?  I generate the forms with a computer program, and I went to add the "0" to the template so it would automatically populate every form, but the program doesn't even have a box 21.  
+ 
+As you may know, from the roughly 26 Medicare posts I've written,  I often feel jerked around by Medicare. In the past couple of weeks I got a form back saying that it was being rejected because I had my name,address, and NPI number in both box 32 and 33.  It does ask for it twice and I've supplied it this way for years.  I took it out of some of the forms, but not everyone's. Then I got a form back because my address was not in box 32 (I guess they couldn't get the information from box 33, millimeters away).  I added my address to box 32 and resubmitted the form.  I then got the same form rejected because my NPI number wasn't in box 32, but the first rejection said nothing about my NPI number missing.  (Again, it's in box 33 anyway).  
+
+So, I'm waiting for all my October claims to bounce back, which seems like a tremendous amount of needless work for Medicare and a mild headache for me, and an unfortunate delay for my patients who count on timely reimbursement from Medicare.  Yes, yes, I know, this is why you've opted out.  I just can't get there without feeling guilty.

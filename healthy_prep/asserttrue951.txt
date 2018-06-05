@@ -1,0 +1,1 @@
+according recent digg post bestbuy website allegedly contains cross site scripting xss vulnerability doubly ironic consider recently digg reportedly xss risk note every verb page considered prepended allegedly unless otherwise indicated

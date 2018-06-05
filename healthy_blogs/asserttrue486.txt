@@ -1,0 +1,49 @@
+This blog just completed its best-ever 30 days for traffic: 205,000 page-views. I've tried to figure out why certain posts went semi-viral (and others didn't). Here's what I've learned.
+
+The most popular posts from Jan 3 to Feb 2 were:
+
+How to Write an Opening Sentence (39,506 page-views)
+Are Placebos Really Sugar Pills? (34,104 page-views)
+The Serif Readability Myth (24,357 page-views)
+Riddles Have No Place in Job Interviews (12,566 page-views)
+Are You a JavaScript Guru? Try This Test (10,145 page-views)
+
+That's not including my Jan 1, 2013 post, How I Fell in Love with a Schizophrenic, which got 61,506 page-views.
+
+Is there a pattern here? Yes and no. While there doesn't seem to be a magic formula for going viral, I have noticed some factors that appear to be important.
+
+Two of the higher-traffic posts of the last 30 days (the Riddles post and "Are You a JavaScript Guru?") had special appeal for developers, and I've noticed in years past that developer-oriented posts often do quite well.
+
+I think it's likely the "Serif Readability Myth" post appealed to a wide variety of audiences, including graphic artists, webmasters, developers, and perhaps bloggers and writers in general. Out of all the blogs I did in the last 30 days, this was the only one I predicted (in advance) would do well. I told a friend I thought it might get 4,000 hits. I was off by a factor of six.
+
+Controversial blogs often do well, so I wasn't terribly surprised about the popularity of the Serif Readibility post nor the Placebos post. But (again) I wasn't prepared for the magnitude of the response in either case.
+
+What was the appeal of the New Year's Day post? Probably the passion that went into it (and maybe the novelty factor).
+
+The biggest mystery, to me, is why "How to Write an Opening Sentence" did so well. Over the past month, I've written 12 posts on writing tips. I didn't think any of them would get a ton of traffic, and indeed, the median traffic for those was only around 500 hits. But for some unknown reason, people really flocked to the "How to Write an Opening Sentence" post. I still can't figure that one out.
+
+Three of the six biggest-traffic blogs since Jan 1 were fairly long (2,000 words or more). So I guess one generalization that might apply is: Longer blogs tend to be more likely to go viral or semi-viral. As I look back on the 475 posts I've done in seven years, I do notice that the more popular posts tend to be longish.
+
+Another thing I've noticed is that whenever I get 10,000 or more visits to a single post, the visits tend to be "direct." Analytics reveal that the top five referrers seldom account for more than 30 percent of visits, and the long tail doesn't explain the rest because it tapers off to nothing very sharply. When a post is popular, analytics can't explain more than about a third of the visits. I take this to mean that on a good day, two thirds of visits (or more) come by word of mouth.
+ 
+Yet another trend I've noticed is that the more visits a post generates, the smaller the percentage that comes by way of search engines. This again fits the hypothesis that viral or semi-viral posts owe their viralness to word of mouth. Maybe that should be obvious. After all, the very concept of "viral" implies word of mouth, doesn't it?
+
+Normally I get about a quarter of my traffic from search engines. On a viral day, that falls to between 2% and 4%.
+
+Bottom line, SEO never plays a significant role in viralness. Not for me, anyway. I've never woken up one morning to find 20,000+ views, and then seen that 80% of the traffic came by way of search engines. Just the opposite. If a post gets 20,000 visits I can be pretty darn sure search engines accounted for only 3% or 4% of visits. That's what always happens.
+
+I've never been a big believer in SEO, in any case. Until recently, a typical day's traffic for me was 1,200 visits, with around 25% (300 visits) coming via search engines. If I were to pay huge attention to SEO, it's possible I could double the number of search visits to 600. That would give me 1,500 visits instead of 1,200. That kind of boost might be important over the long haul if my blog were the kind of blog where I was trying to monetize traffic (via affiliate programs or by selling my own e-books, or whatever). But that's not the kind of blog this is. If I were getting a million visitors a month, I might want to try to monetize this blog, but with the kind of traffic I'm getting now (even in the last 30 days), I'd rather not junk up the pages with ads for the sake of earning a measly $100 a month or whatever.
+
+One other thing I've noticed is that viral blogs seldom happen over the weekend. If you want people to see your blog in huge numbers, post on a Tuesday, Wednesday, or Thursday.
+
+So where do we stand, after all this? Here is my best advice, if you want to get a blog post to go viral or semi-viral:
+Choose a controversial topic
+Write with passion
+Don't post the blog on Saturday or Sunday
+Craft a snappy headline
+Try to engage developers
+Aim for a longish post (2,000 words)
+Forget SEO totally
+Promote your blog via Twitter, Facebook, and other social sites
+Promote the blog via Reddit and other link aggregators
+Those last two bits of advice haven't been worth a huge amount of traffic for me, by the way, even though I have a lot of followers on Twitter. Only a tiny fraction of Twitter followers are online at a given moment, and unless you tweet your blog six or seven times a day (which I refuse to do) you won't catch the eye of more than a few percent of your followers, and out of those you can't expect more than ten percent to go check out the blog. That's been my experience, at least. I'd be interested in hearing from others who've had a different experience.

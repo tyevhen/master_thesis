@@ -1,0 +1,35 @@
+When I was an undergrad at the University of California, Irvine, I was privileged to take a course in playwriting under William Inge, who won an Oscar for Splendor in the Grass and a Pulitzer for Picnic. For ten weeks, ten of us wrote one-act plays, then listened to Inge read from them.
+William Inge
+
+Inge had emphysema (he smoked continuously throughout class), wheezing more than talking. He could barely speak. What I most remember him saying, as he looked up from someone's homework assignment, is: "Do real people talk like this?" 
+
+Good dialog is hard. Finding out how bad a piece of written dialog is usually requires nothing more than reading it aloud. (Actors are a help. But in a pinch, you can just stand in front of the mirror.) Still, it's surprising how much bad dialog you can find in novels, stage plays, screenplays—not only amateur-written material but a lot of professionally written stuff as well. For me, bad dialog always stands right out: Wooden characters who speak in complete sentences, never using contractions, never interrupting each other, always spewing bland phrases that reinforce their predictable (and undifferentiated) personalities; characters whose swear words don't even sound right.
+
+I don't claim to be an expert here, but I do believe (based on reading as much awkward, wooden, silly dialog as I've read) there are rules you can follow to keep yourself from writing the Worst Dialog Ever. In that spirit, I present the following eight easy rules for writing better dialog:
+People use contractions (don't, I'm, you're, etc.) when they speak. Only prigs and ESL students use fully expanded forms.
+People swear in normal conversation, but not as often as you think.
+Characters should interrupt each other. Because that's how most conversation is.
+Write for low syllable count.
+Use many periods, few commas.
+Avoid patois unless you're Mark Twain, which you're not.
+Let subtext (not the actual spoken words) carry the scene, when possible.
+Don't be boring.
+I'm tempted to add one more rule (for screenwriters): Don't insert explicit beats in dialog. Years ago, it was common to insert "(beat)" here or there to control tempo. You'll find opinions divided on whether this is still an acceptable thing to do. My advice? Play it smart and refuse to resort to "(beat)" in your script. Control tempo with sentence length, punctuation (including ellipses where necessary), the (very) occasional wryly, action description, and so forth. Can you imagine Hemingway or Fitzgerald inserting "(beat)" in the middle of a conversation? Think how comical and intrusive it would be if novelists inserted explicit beats in dialog to control tempo. You wouldn't do that in a novel, because it would make for a patently awful reading experience. Why should your screenplay read that way?
+
+The enter-a-scene-late/leave-early rule applies to dialog. We don't need to hear characters greet each other, except maybe at the start of a phone conversation. Likewise we don't need to see/hear them say good-bye, unless the whole scene is about parting.
+
+In one scene of my screenplay Greeners, two characters (principals in an investment firm; a father and a son) are about to discuss the day's dismal results. I can think of a million boring, straightforward ways to begin the discussion. (E.g.: The son says: "My God, what a day," or "How was your day?" or something equally banal.) What I ended up with is this: The father, sitting at his desk, collar loosened, disheveled and dejected, pushes a few papers away. As the son (standing nearby) points a finger at the papers, the old man pulls a bottle of Scotch out of his desk and says: "Don't even ask."
+
+"Don't be boring" is probably the most important rule you can follow. Even when characters have to say ordinary things, try to spice it up. When my main character, Dylan, has to talk to a fast-food drive-up menu box, I could have had him say "I'll have a sausage-egg biscuit and a large coffee." Instead, he says: "I'll have a sausage-egg biscuit and a large, black, coffee. Black. With extra coffee." A few seconds later, when the cashier recognizes him and starts motor-mouthing (because she's so excited to see him), he answers her over-animated "How are you??" with "Sixty-forty"—and then she goes on talking. The fact that she doesn't stop to ask what "sixty-forty" means is, in itself, a subtextual clue that she's more interested in hearing herself talk than in what he might have to say. Likewise, the fact that he chose to say "sixty-forty" (instead of "so-so" or "can't complain," or something equally vapid) suggests that maybe he already knows she's not going to pay attention to whatever he has to say. Plus, it gives the audience something to chew on. Is he saying things are sixty percent good and forty percent crappy, or the other way around? What, exactly, does he mean by "sixty-forty"?
+
+When you write dialog, consider what I call orthogonality. Two characters, when talking about their conflicting needs/desires, will tend to speak to their own individual concerns more than to the other person's concerns. (Joe wants to talk about the raise he didn't get at work; Mary wants to talk about Joe Junior's bad day at school.) This is what I call orthogonality. You can use it to build realistic-sounding dialog that accentuates (rather than amalgamates) the characters' differences. You've seen this technique used a million times in TV shows and movies. David storms into Tyler's office and says: "Why the hell didn't you tell me we lost the Frankenhammer account?!" Tyler takes a sip of coffee and says: "I'm fine, thanks for asking. How about yourself?" That's orthogonality.
+
+So, to the foregoing list of 8 items, you can add two more:
+
+9. Don't use explicit beats.
+
+10. Exploit orthogonality.
+
+There's more to good dialog than just following these rules. But if you follow them, chances are you'll at least avoid having someone ask you (after reading something you labored over for hours, days, or weeks) "Do real people talk like this?" 
+
+If you'd like to take a look at my WGA-registered screenplay, Greeners, write to me. (Tell me something about yourself.) My hushmail dot com address is kasthomas.

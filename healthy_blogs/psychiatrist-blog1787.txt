@@ -1,0 +1,17 @@
+Vascular Endothelial Growth Factor (VEGF) stimulates the growth of new capillaries. In the brain, VEGF also stimulates the growth of new brain cells. A recent PNAS article, by Jennifer L. Warner-Schmidt and Ronald S. Duman from Yale, demonstrates that VEGF is a middle-man in the antidepressant response mechanism (better abstract here).
+
+They show in rats that:
+
+
+VEGF goes up with ECT, with an sSRI (fluoxetine/Prozac), and with an sNRI (desipramine/Norpramine)
+
+This increase in VEGF is associated with new neuronal growth in the hippocampus
+
+Treatment with ECT, fluoxetine, or desipramine is associated with new neuronal growth in the hippocampus
+
+Injecting VEGF is associated with an antidepressant response in animal models of depression
+
+Blockade of the VEGF receptor with Flk-1 blocks the growth of new neurons in the hippocampus (in all 4 experimental arms--ECT, fluoxetine, desipramine, or VEGF injection)
+
+Blockade of the VEGF receptor blocks the behavioral response to ECT, fluoxetine, or desipramine in animal models of depression
+This study adds to the weight of evidence that one of the end results for antidepressant treatment is stimulating new brain cell growth. It is not clear whether this is related or not to these drugs' effects on serotonin or norepinephrine, but it appears it may be possible to bypass neurotransmitter mechanisms (and avoid their subsequent side effects) and go directly to neurogenesis. This may lead to some entirely new treatments for depression and bipolar disorder down the road (way down the road).

@@ -1,0 +1,10 @@
+The other day, I started to wonder: What's the single fugliest piece of code I've ever written?
+
+It's really hard to answer that, because I've been writing code of one flavor or another for roughly twenty years, and in that time I've committed every code atrocity known to man or beast. As I like to tell people, I'm an expert on spotting bad code, because I've written so much of it myself.
+
+What I 've finally decided is that the following line of C code is probably the single most ghastly line of code I've ever perpetrated:
+(*((*(srcPixMap))->pmTable))->ctSeed =
+(*((*((*aGDevice)->gdPMap))->pmTable))->ctSeed;
+Explanation: Long ago, I used to do graphics programming on the Mac. I don't know how the Mac does things today, but ten years ago the Color Manager rebuilt a table whenever Color QuickDraw, the Color Picker Manager, or the Palette Manager requested colors from a graphics device whose color lookup table had changed. To determine whether CLUT had in fact changed, the Color Manager compared the ctSeed field of the current GDevice color table against the ctSeed field of that graphics device's inverse table. If ctSeed values didn't match, the Color Manager invalidated the inverse table and rebuilt it. For fast redraws, you want to avoid that. You could avoid it by forcing the ctSeed field values to be equal.
+
+This is one of many fast-blit tips I explained in an article I wrote years ago for MacTech magazine. Fortunately, I write mostly Java and JavaScript now, and I no longer have to deal with pointer indirection, and today my aspirin drawer is only half-full -- or is it half-empty?

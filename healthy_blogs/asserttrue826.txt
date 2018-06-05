@@ -1,0 +1,16 @@
+I didn't listen to the recent Google conference call, but according to someone who did, 85% of Google employee stock options are now under water. That's got to put a damper on "company spirit" for everyday workers. I've been in this situation myself (i.e., working for a company where everybody has options, but the options are hopelessly far below the strike price). It is a dreadful feeling, especially if the company you work for has a great history, a great culture, and brilliantly engineered products that should be doing much better in the market than they are.
+
+Everyone knows, of course, that there is no guarantee a company's stock price will go up over time, and most employees are mature about this realization. But it still hurts. Under-water options hurt.
+
+Knowing full well that this kind of thing saps employee enthusiasm and causes the wrong kind of water-cooler conversation, Google last week announced a new option-repricing plan for employees. The features of the plan:
+It is a one-for-one, voluntary exchange.
+The offer period begins on January 29, 2009 and ends at 6:00 a.m. Pacific Time on March 3, 2009, unless Google is required or opts to extend the offer period.
+Employees will be able to exchange their under-water options for new options with a strike price equal to the closing price of Google stock on March 2, 2009.
+The new options will have a new vesting schedule that adds 12 months to the original vesting schedule.
+As it turns out, a company I worked for did this same thing. It offered employees the chance to roll over their existing options into new ones based on a new (current) strike price. But the vesting date moved out. If you were almost-vested (perhaps already vested) in your worthless options, you lost your vesting.
+
+The problem with resetting the clock, of course, is that if the stock keeps sinking, you're still screwed. Also, if you have to be an employee in order to see your options continue to vest, who's to say you'll still be working for the company in a year?
+
+Options have expiration dates. The company I worked for set a shorter expiration date for the new options (in this plan) than the original options had. So the time window for you to see a gain was narrowed. I don't know if that's the case with the new Google plan.
+
+Bottom line, options (as an employee incentive) are tricky. In good times, they do work as an incentive. In bad times, they work as a disincentive (from what I've witnessed). Repricing plans don't always work out. (In the case of the company I worked for, it did not work to the employees' benefit.) In fact, repricing plans generally tend to favor the company, in one way or another. I believe that's the case here. Otherwise, I don't think Google would offer the plan at all.

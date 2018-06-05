@@ -1,0 +1,22 @@
+ SIRT1 Modulates Aggregation and Toxicity through Deacetylation of the Androgen Receptor in Cell Models of SBMA
+Montie HL, Pestell RG, Merry DE.
+Published in Journal of Neurosciece - 2011 Nov 30;31(48):17425-36.
+
+
+Source:
+Departments of Biochemistry and Molecular Biology, and Cancer Biology, Thomas Jefferson University, Philadelphia, Pennsylvania 19107.
+ 
+Abstract:
+Posttranslational protein modifications can play a major role in disease pathogenesis; phosphorylation, sumoylation, and acetylation modulate the toxicity of a variety of proteotoxic proteins. The androgen receptor (AR) is substantially modified, in response to hormone binding, by phosphorylation, sumoylation, and acetylation; these modifications might thus contribute to DHT-dependent polyglutamine (polyQ)-expanded AR proteotoxicity in spinal and bulbar muscular atrophy (SBMA). SIRT1, a nuclear protein and deacetylase of the AR, is neuroprotective in many neurodegenerative disease models. Our studies reveal that SIRT1 also offers protection against polyQ-expanded AR by deacetylating the AR at lysines 630/632/633. This finding suggested that nuclear AR acetylation plays a role in the aberrant metabolism and toxicity of polyQ-expanded AR. Subsequent studies revealed that the polyQ-expanded AR is hyperacetylated and that pharmacologic reduction of acetylation reduces mutant AR aggregation. Moreover, genetic mutation to inhibit polyQ-expanded AR acetylation of lysines 630/632/633 substantially decreased its aggregation and completely abrogated its toxicity in cell lines and motor neurons. Our studies also reveal one means by which the AR acetylation state likely modifies polyQ-expanded AR metabolism and toxicity, through its effect on DHT-dependent AR stabilization. Overall, our findings reveal a neuroprotective function of SIRT1 that operates through its deacetylation of polyQ-expanded AR and highlight the potential of both SIRT1 and AR acetylation as powerful therapeutic targets in SBMA.
+_________________________________
+
+Below is an explanation from Ed Meyertholen of what the researchers found and what this means for those of us living with Kennedy’s Disease.
+ 
+What did they find?
+This paper was an investigation related the effect of modifying the
+androgen receptor (AR) on the toxicity of mutant AR on cells. As a brief introduction, Kennedy’s Disease (aka KD or SBMA) is due to a mutation in the gene that tells the cell how to make a protein called the androgen receptor. It is generally believe that this mutation results in the formation of a toxic by-product when the cell is removing old AR. This toxic fragment results in the death of certain nerve cells known as motor neurons. It is the death of these cells that is thought to be ultimately responsible for the formation of symptoms of Kennedy’s Disease. Many studies on Kennedy’s Disease involve attempts at reducing the toxicity of this fragment.
+
+Cells often modify proteins and in doing so, can alter their activity. One such alteration of the AR is the addition of a small molecule called an acetyl group to the protein. The addition of this group has a special name, acetylation. Removing the acetyl group is deacetylation. This study primarily found that if you reduce the amount of acetylation on mutant AR, cells do not die even though they have the mutant form of AR.
+ 
+What does this mean to Kennedy’s Disease patients?
+One of difficult aspects of Kennedy’s Disease is that scientists do not know enough about all the normal factors that affect the working of the AR and that makes it more difficult to determine why it kills cells. This study could open up a new pathway for discovering drugs/chemicals that may reduce Kennedy’s Disease symptoms. If one could find a drug that stimulates the deacetylation of the AR, it could be therapeutic.

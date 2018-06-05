@@ -1,0 +1,3 @@
+There's a graph of declining Cuil traffic numbers at Alexa.com that you'd think would have Cuil's investors jumping off the top of the nearest tall building. (Be sure to check out all 3 tabs: Reach, Rank, and Page Views. They're all terrifying.)
+The Internet-surfing public has voted with their feet on this one, I'd say. What's odd is that the downtrend has been in progress for quite some time, yet Cuil's designers have done nothing to try to stem the exodus. Have they not heard of A/B testing? Does anyone at Cuil know anything about analytics? Maybe they've been trying like heck to stop the bleeding and we just don't know it.
+Whatever. The kid in The Sixth Sense can now say "I see abandoned search engines..."

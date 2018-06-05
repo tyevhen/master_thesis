@@ -1,0 +1,66 @@
+Over the past couple of days, I've been blogging a fair amount about Mozilla Rhino. One of the surprising (to me) things about Rhino is how much faster it is on its own (i.e., when you include js.jar in your classpath) than when you use the Rhino-based scripting engine that comes embedded in the JRE. (See previous blog.)
+
+In the past few days I've also been spending a lot of time with Apache Sling. Imagine my relief to find that Apache Sling uses Rhino proper (js.jar version 1.6R6) rather than relying on the JRE's onboard scripting engine. This means server-side EcmaScript runs much faster in Sling than it otherwise would. But Sling's use of Rhino 1.6R6 is a big win in another way as well. It turns out 1.6R6 is the first Rhino build to feature onboard support for E4X (the EcmaScript extensions for XML, otherwise known as ECMA-357).
+
+Rhino has had E4X support for some time, but until recently it's been a patched-on kind of support relying on the external xbean.jar (which was originally created by BEA, in pre-Oracle days). Prior to Rhino 1.6R6, you had to have xbean.jar in your classpath in order to have E4X support. Now it's built-in. No more need for xbean.jar.
+
+So it turns out you can use E4X grammar in your server-side scripts for Sling, which, I gotta say, is a huge turn-on (if you're as big a geek as I am).
+
+I'll be blogging more about E4X in Sling in coming days at dev.day.com. In the meantime, I thought I'd leave you with a quick example of what you can do with E4X on the server side.
+
+Recently, I ran into a situation where I had the following bit of markup in an .esp (server-side EcmaScript) file:
+
+<fields>
+
+    <field name="Director">
+        <value><%= currentNode["Director"] %></value>
+    </field>
+    <field name="Genre">
+        <value><%= currentNode.Genre %></value>
+    </field>
+    <field name="Language">
+        <value><%= currentNode.Language %></value>  
+    </field>
+    <field name="Movie">
+        <value><%= currentNode.Movie %></value>
+    </field>
+    <field name="Released">
+        <value><%= currentNode.Released %></value>
+    </field>
+    <field name="Runtime">
+        <value><%= currentNode.Runtime %></value>
+    </field>
+    <field name="Starring">
+        <value><%= currentNode.Starring %></value>
+    </field>
+    <field name="Writers">
+        <value><%= currentNode.Writers %></value>
+    </field>
+
+</fields>
+
+Now mind you, there's absolutely nothing wrong with having markup that looks like this in an .esp file; it's fine as-is. But if you're an XML scripting geek, you see a situation like this and you inevitably start looking at ways to "roll up" all this verbosity into 2 or 3 lines of E4X. And sure enough, this is what I came up with:
+
+<%
+fields = <fields/>;
+
+names = ["Movie","Director","Genre",
+    "Language","Released","Runtime",
+    "Starring","Writers"];
+
+for (var i = 0; i < names.length;i++) {
+   field = <field>
+         <value>{currentNode[names[i]]}</value>
+    </field>;
+   field.@name = names[i];
+   fields.* += field;
+}
+%>
+
+ <%=  fields.toXMLString() %>
+
+Concise to a fault. Arguably, it's not as readable as the fully unrolled markup (particularly if you're not a scriptomaniac), but if you're well-versed in E4X, it's perfectly clear what's going on, and it shortens the .esp file to where all code fits on one screen without scrolling. (Always a good thing, in my book.)
+
+As I say, I'll be writing more about this sort of thing on dev.day.com soon. Watch that space.
+
+In the meantime, if you're new to E4X, I recommend taking a look at this article on IBM's Developerworks site. It'll get you up-to-speed quickly.

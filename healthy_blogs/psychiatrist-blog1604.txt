@@ -1,0 +1,10 @@
+Don't forget to read Dinah's post below: Click Here.
+
+Panic attacks are an acute, dramatic form of anxiety, including symptoms of shortness of breath, lightheadedness, tingling sensation, and fear of impending doom. One of the theories about the biological basis of panic attacks is the false suffocation alarm theory proposed by Klein, which suggests that the brain's sensor that detects elevated carbon dioxide levels is overly sensitive in some people, triggering panic attacks for no clear reason.
+
+Eric Griez, a psychiatrist from the Netherlands, has published an article in the open source, online journal PLOS One, demonstrating further evidence of this connection (see also review in Science Mag). He exposed volunteers without an anxiety disorder to high levels of carbon dioxide, thus triggering the suffocation alarm at appropriate levels of CO2.
+
+"Sixty-four healthy subjects underwent a double inhalation of four mixtures containing respectively 0, 9, 17.5 and 35% CO2 in compressed air, following a double blind, cross-over, randomized design. Affective responses were assessed according to DSM IV criteria for panic, using an Electronic Visual Analogue Scale and the Panic Symptom List. It was demonstrated that carbon dioxide challenges induced a dose dependent negative affect (p<0.0001).>
+The top graph shows a dose-dependent increase in panic symptoms, while the bottom part shows that younger people (solid line) developed panic symptoms more easily than older people (dashed line), suggesting that perhaps the triggering mechanism becomes less sensitive over time.
+
+This falls under the what's-old-becomes-new-again category, as I recall this area of research 15 years ago. Still, it may be worth stirring up again, especially if it leads to more effective and safer treatments. In fact, Klein and Preter just published an amplification of the original theory, including evidence of involvement of opioid receptors in the response to the alarm being triggered.

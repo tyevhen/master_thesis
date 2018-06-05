@@ -1,0 +1,21 @@
+Proteus Digital Health has a device that allows people to track their medication injection.  A sand-grain sized ingestible tracker is built into the pill and the patient wears a sensor patch that monitors ingestion and the physiologic response (heart rate change, etc).  With the patient's permission, the information is communicated to his physician.  The technology has been around for a few years, and the fact is that half of patients take their medications wrong.
+
+So what is new is that Proteus is applying for FDA approval to use their sensor with Abilify, an psychiatric medication. In a news release:
+
+“Today, patients suffering from severe mental illnesses struggle with adhering to or communicating with their healthcare teams about their medication regimen, which can greatly impact outcomes and disease progression,” said William H. Carson, M.D., president and CEO of Otsuka Pharmaceutical Development & Commercialization, Inc. “We believe this new Digital Medicine could revolutionize the way adherence is measured and fulfill a serious unmet medical need in this population. We look forward to continuing working with the FDA throughout the NDA review.”
+
+So what do you think?  Do you want to know if your patient is taking every dose of medication?  Do patients want their docs to follow them this closely?  I'd ask if we're worried about privacy issues, but is there really any medical privacy left to worry about?  Why psychotropic medications?  Shouldn't we be just as concerned with whether patients are taking their medications for diabetes or congestive heart failure?  Or perhaps we could track people who take antibiotics for Lyme disease and see if those who follow the antibiotic regimen exactly have a better outcome than those who don't.   
+
+Some people like technology.  Roy would probably stick those little sensor things in his Flintstone vitamins, if he could.  ClinkShrink would monitor her ice cream consumption with it's physiologic responses (~her pupils get much bigger when she eats chocolate ice cream).  But don't we think that this has the potential --for better or for worse-- to be 'required' of patients to prove they've been compliant with court-ordered treatment.  For some, it might be a good thing.  If you're in treatment as part of a diversionary program with a Mental Health Court, you might want to be able to prove to the judge that you're taking your medications and you got sick anyway -- it wasn't your fault.  But I do think this technology, if approved, may well end up having a role in outpatient civil commitment to require patients to take their medications.
+
+Schizophrenia expert William Carpenter, MD was interviewed for Psych News and he mentioned several concerns:
+“The technology can provide important advances in addressing highly prevalent problems in patients adhering to medications,” Kane told Psychiatric News. However, Kane pointed out, major concerns regarding the use of this technology are likely to arise, such as how the information obtained by the device will be protected.
+
+William Carpenter, M.D., a professor of psychiatry and pharmacology at the University of Maryland School of Medicine, agreed.
+
+In addition to issues of privacy, Carpenter told Psychiatric News that convincing people who are already vulnerable to paranoia to take a medication that may be viewed as highly intrusive as well as the potential high cost of the medicine could present additional challenges.
+
+Carpenter described several other questions about the therapy, including how best to determine candidates for the ingestible-sensor medications. Additionally, he said psychiatrists may need to consider questions such as, “Is this an acceptable privacy compromise in an involuntary commitment?” or “Will the device lead to fewer in-person visits with clinicians and reduce the chances for integrative treatment and early detection of relapse?”
+
+Carpenter concluded, “Some [psychiatrists] will be ready for this innovative approach of treating mental illness, and if this device is successful—with little compromise to the patient—the field will embrace it.”
+ At this point, it's just too much Big Brother for me.

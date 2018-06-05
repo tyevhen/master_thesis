@@ -1,0 +1,5 @@
+In certain parts of the world it is said that there are three things that can never be known to any man: The hour of one's death, the true name of Allah, and the current status of JSR-292.
+
+Nevertheless, it seems clear that the fruits of JSR-292 will be folded into Dolphin (Java 7, to be released in 2008).
+
+Let's see, that's (how many is it?) thirteen years that it took Sun to realize some people may actually want to do serious programming in something other than you-know-what.

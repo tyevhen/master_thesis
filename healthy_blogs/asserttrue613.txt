@@ -1,0 +1,26 @@
+Can you identify the living fossil?
+
+
+There seems to be a growing perception, not unlike the controversies surrounding Flash, that Adobe's Portable Document Format is (in the modern world of the Web) a legacy format, something of a living fossil, a technological Coelacanth that refuses to become extinct. Some would go so far as to say PDF doesn't belong on the Web. Some would be wrong, however.
+
+My current employer, Day Software, has (how shall I say this in politically correct form?) a strong prejudice in favor of HTML as the one true and proper Web format for documents. This is reflected in the fact that all of Day's product documentation (like just about everything else Day produces, information-wise) is available online as HTML. There are those at Day, I'm sure, who would like to see PDF disappear from Web sites, if not from planet earth. HTML is a bit of a religion around Day.
+
+And yet, when I joined Day as an employee (two weeks ago), not one document in the half-inch-thick stack of new-employee paperwork that I was asked to fill out was based on an HTML form. Every single document was based on a PDF.
+
+So what is this walking fossil called PDF and why is it still so pervasive?
+
+In the beginning, there was Postscript. Far and away the most successful Adobe technology ever created, Postscript was the first commercially successful page-description language based on vector graphics. It's a Turing-complete language with subroutines, looping, branching, and all the rest. Amazingly, it continues to inhabit printers worldwide. (You probably rely on a Postscript driver to get your printer to work.) It's a brilliant bit of technology, describing, as it does, fonts and shapes and whole pages in resolution-independent terms, in a plain-text (non-binary) interpreted language. Write once, rasterize anywhere.
+
+Since fonts themselves can be described in Postscript, and since Postscript is just text, you'd think PS would be the ideal self-contained document format. Alas, it is not. It's far too verbose, and laborious to render onscreen. (This is what killed Display Postscript.) Still, its inherent portability made Postscript a compelling basis for a document format. So Adobe went on a quest to make Postscript smaller and more amenable to quick screen rendering. They reduced the number of operators (and made their names smaller), and cut out subroutines, and eliminated loops, and did a bunch of other things designed to make Postscript small and screen-friendly, yet without sacrificing portability. The result was PDF.
+
+The first generation of PDF was ASCII-based, and if you looked inside it you basically saw thinly disguised Postscript commands, with loops unrolled and major page elements described as objects. References to objects were maintained in offset tables. Fonts could be embedded, or not. It was still a somewhat verbose format, but at least it could be interpreted and rendered quickly, onscreen or to a printer. (The translation from PDF to Postscript is extremely straightforward.) Adobe came up with a free Reader program and put PDF files out there for anyone who wanted to give them a try. Lo and behold, the format took off.
+
+Why? Why does the world need something like PDF? The (sad, to some) answer is that there is still a need in the world for electronic documents that mimic paper documents. There are industries (such as insurance) in which the physical size and placement of certain pieces of text is regulated by law, and many forms have to fit on a certain size piece of paper when printed out -- there's zero tolerance for text autowrap variations. Form 1040 from IRS has to look like Form 1040, every time. (Imagine the pandemonium at IRS if every tax form that arrived in the mail looked different because it was printed out on a different printer at a different resolution, with text wrapping every which way, all manner of font substitutions, etc.) Like it or not, certain documents have to look a certain way every time, without fail. This is where PDF shines.
+
+Is PDF right for every occasion? No. It's not. No more than HTML is.
+
+Is PDF going to become obsolete? Not any time soon. Not any more than Postscript.
+
+Can/should PDF coexist with markup languages in the world of the Web? I think the answer is yes. Adobe has done a good job of making online PDF forms (for example) REST-friendly and user-friendly. Having to load Reader (or a Reader plug-in for your browser) is a bit of a hassle, but you do get a lot of bang for the buck. The advantages of PDF tend to balance out the disadvantages -- for certain users, in certain situations.
+
+And that's the key. It's not about religion -- it's not about whose document format is inherently better or worse. It's about diversity and choice: choosing the right tool for the job and letting the user (or customer) choose what's right for her. This is the part that the HTML zealots don't get. Some customers want PDF. Some users demand to have documents in a format that looks nice onscreen and prints out nicely (and predictably) on a printer. By not providing those users with that choice, we're (in essence) forcing a technology decision on people. We're forcing our religion on non-converts. And historically, that's always been a dangerous thing to do.

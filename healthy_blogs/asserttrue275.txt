@@ -1,0 +1,29 @@
+These days, most genes, in most sequenced genomes, are machine-annotated with a minimum of human intervention, and as a result around 30% of gene annotations are inaccurate, either as to functional assignment or as to reading frame.
+
+It's not hard to find serious errors in published genomes. In the genome of Mycobacterium tuberculosis ATCC 35801, for example, there's a 17-kilobase-pair section of the genome that's full of errors (see below).
+
+A view of two tuberculosis bacterial genomes showing a 17,000-base region (denoted by pink) of 100% sequence similarity. Notice that even though the genomes are 100% sequence-identical in the region, the number, strand orientation, and sizes of genes differ. The yellow gene in the top panel is identified by GeneMarkS+ as "secretion protein EspK," while the yellow gene in the lower panel is identified as DNA Ligase (ligA) and is much smaller (and occurs on the opposite strand).
+
+In this graphic, the same region is shown for two strains of M. tuberculosis. On top is M. tuberculosis Strain EAI5 and on the bottom is M. tuberculosis ATCC 35801. To browse the genomes in your own browser, go to this link and click the pink Run GEvo Analysis! button. When the panels appear, you'll be able to click on individual genes to see what they (supposedly) are.
+
+The yellow-colored gene in the top panel is annotated as "secretion protein EspK," while the corresponding region in the bottom genome has two genes (green and yellow) on opposing strands of DNA, with one gene (in green) given as a "hypothetical protein" and the other (in yellow) as "DNA ligase." Note that the entire region covered by the pink bands is 100% identical from organism to organism in terms of DNA sequence. And yet one annotation program found 13 genes while the other found 17.
+
+Sadly, this is not an unusual situation.
+
+How can you tell which annotations are correct? Unfortunately, it takes some investigation. Consider the two yellow genes. They can't both be correct as shown, because one is twice as long as the other and each is on a different strand of the DNA! And yet, if you obtain the DNA sequence of each, and use it as a query sequence in a BLAST search, you'll come up with "good" hits for each gene (because there are other incorrectly identified genes in public databases, matching each query).
+
+It turns out the "secretion protein EspK" (the large yellow gene in the top panel) is correctly identified. To determine this, I downloaded the FASTA sequence for the large gene, plus the sequence for the same gene in the same location in the M. canetti CIPT genome (identified as "hypothetical alanine and proline rich protein"), plus the same gene in M. canetti CIPT 140070010, with the idea of identifying the differences in the (aligned) DNA sequences with respect to their codon positions.
+
+When I had a script identify mutations by codon location, the number of differences at the three possible codon locations, were:
+
+base 1: 4 changes
+base 2: 2 changes
+base 3: 19 changes
+
+This is exactly the pattern you would expect if the reading frame is correct. Base 3 (the wobble base) tends to accumulate the majority of mutations, because changes in a codon's third base usually result in no amino acid change (due to the genetic code's degeneracy). Base 1 has a small amount of degeneracy and thus has the next-highest number of mutations. Base 2 has no degeneracy; all changes to this base result in a different amino acid. (All changes are non-synonymous, in other words.) 
+
+I repeated this check using the so-called "DNA ligase" gene of Mycobacterium tuberculosis ATCC 35801, but using sequence data from the bottom strand of DNA, with 1329 bases' worth of additional 3'-end sequence data in order to cover the same amount of DNA as the other sequences. I got difference data of 3, 1, and 8 for bases one, two, and three. This verified that the active gene is actually on the bottom strand.  ERDMAN_4254 is incorrectly annotated as a top-strand DNA ligase. Instead of two genes, ERDMAN_4253 and ERDMAN_4254 (on two opposing strands), Mycobacterium tuberculosis ATCC 35801 should be shown as having a single large gene on the minus-one strand. The correct identification (based on more than thirty E=0, 100% identity hits in other strains) is, in fact, "secretion protein EspK."
+
+Unfortunately, at least 3 other tuberculosis strains, namely M. tuberculosis GuangZ0019, plus Strain CCDC5180 and Strain CCDC5079, also harbor an incorrect ligA annotation, and Mycobacterium isn't the only organism with a "bogus ligA" problem. Micromonospora sp. M42 also has a fake ligA gene and I'm certain there are others.
+
+Bottom line, don't believe everything you read in genome annotations. The annotation may say "DNA ligase," but you could actually be looking at something else entirely.

@@ -1,0 +1,142 @@
+Solitary confinement, or segregation, is used for several reasons. Inmates are put into segregation as a disciplinary measure for doing things like threatening or fighting with officers, escaping, destroying state property or setting fires. Segregation is used for medical reasons for inmates who may have infectious diseases (like tuberculosis) or who are refusing evaluation for infectious diseases. Segregation is used for protective custody if the inmate is a juvenile or if there are reasons to believe the inmate's safety might be at risk in regular housing (also called general population). Finally, there are also mental health reasons for putting someone in segregation. Inmates who are new to the facility, who are frightened and need time to adjust, or who have had a recent trauma or loss may temporarily be put by themselves to give them a quiet place to deal with whatever is going on.
+
+In free society segregation is used for therapeutic reasons too, although the terminology changes. On an inpatient unit "segregation" becomes "seclusion" even though the physical conditions may be identical, or very similar to, the physical environment in a prison. Seclusion rooms and segregation cells are usually bare with minimal comforts. The patient (or inmate) is deprived of access to outside resources and supports, with no regular recreation or entertainment. The food is, well, institutional food is institutional food.
+
+The only real difference is that in free society when someone is put in seclusion there must be a clinical evaluation that finds an indication for using this intervention, usually unpredictability or evidence that the patient may be a danger to himself or others. The indication is documented and the patient is usually also observed at regular intervals. The order for seclusion must be rewritten at regular intervals and the basis for continued seclusion documented in the patient's chart. The patient must be allowed periodic freedom from restraint (if physically restrained) and access to hygiene and toileting facilities. Seclusion must end when the clinical indication for it is over.
+
+In a correctional facility segregation does not have to be based on clinical need, and most often it's not used for mental health reasons. Segregation is usually used for security and disciplinary reasons, in which case it's called "disciplinary lockdown". The length of confinement is predetermined, usually a few days to a few weeks. If the inmate is really really bad (has killed other inmates or correctional officers) or presents an extreme security risk (repeated escapes or organizing riots) the segregation may last for months or even years. Inmates have a lot to lose by being placed in lockdown for this long, so correctional facilities have due process protections in place to provide them with a chance to challenge their confinement. The legal steps used to place an inmate in lockdown are very similar to the process used for civil commitment in free society: the inmate is given a notice that documents the alleged behavior leading to the lockdown, he is given a hearing before an independent factfinder with a chance to present evidence and confront witnesses, and he's given an opportunity to appeal the results of the disciplinary hearing. He is also allowed to be given less restrictive sanctions, like loss of privileges or cell restriction in general population. If all else fails, the inmate has the right to appeal the administrative hearing officer's decision to a court in free society.
+
+So, now that you have this background I'll come to the real reason I want to talk about longterm segregation:
+
+Inmate advocates allege that longterm segregation drives prisoners crazy. Whether you know it or not, millions of taxpayer dollars are spent every year litigating the use of longterm segregation. Specialized correctional facilities, known as control unit prisons, were invented specifically for inmates who require segregation for months or years. Class action suits filed by the American Civil Liberties Union and other advocacy organizations allege that this causes psychiatric deterioration and psychosis, with some groups calling for closure of all control unit prisons.
+
+But is this true?
+
+The fact of the matter is that despite all the money we've spent regulating the use of control unit prisons and monitoring inmates who are on segregation, the data are sketchy. Epidemiologic studies have shown that the prevalence of psychiatric disorders among prisoners increases with each increase in security level---in other words you find more psychiatric patients in maximum security than in minimum security---but this does not prove that high security causes psychiatric disorder. In all likelihood, inmates with aggressive or disruptive behavior, such as those found in maximum security, are more likely to be diagnosed with a psychiatric illness. Aggressive antisocial or borderline inmates often are also concurrently diagnosed with bipolar disorder. Conversely, inmates with psychiatric disorders are less likely to be classified to lower security levels where on-site psychiatry services may not be available. The epidemiologic findings are an artifact of the classification process and a reflection of our limited diagnostic schema.
+
+I did a PubMed search (I'm big on these lately for some reason) using the terms "administrative segregation", "longterm segregation", "control unit prison" and "solitary confinement". There are only about 20 significant articles on this topic going back 45 years---not exactly an overwhelming body of literature. Only four of the nineteen are controlled studies with data, while the majority are descriptive, theoretical or speculative in nature.
+
+Contrast this with the court's view of the psychological effects of control unit prisons, as outlined in David Fahti's law review article "The Common Law of Supermax Litigation" (Pace Law Review Vol. 24:675, 2005):
+
+"Federal courts continue to recognize as established fact that isolated confinement inflicts serious psychological harm on many prisoners."
+
+And in one case cited in the article:
+
+"The effect of prolonged isolation on inmates has been repeatedly confirmed in medical and scientific studies".
+
+The medical articles cited in these legal cases are few, and are usually 20 years or more out of date. They point to the effects of social isolation and sensory deprivation, a line of research popular in the 1960's when research into brainwashing was de rigueur for psychologists. Unfortunately, because most of these cases are settled by consent decree and rarely go to trial, this lack of scientific scrutiny is left unchallenged. The result is that courts are mandating that certain inmates be removed from segregation based on the presence or abscence of an Axis I DSM diagnosis, disregarding the inmate's behavior and adjustment in previous facilities. In one case a court mandated that any inmate with a "serious personality disorder" be removed from a control unit prison---I imagine that must have pretty much emptied out the place.
+
+I agree with the courts that control unit prisons should practice humane care under safe and reasonably comfortable conditions. It should be done because it's the right thing to do but you shouldn't misrepresent or distort scientific evidence to justify it.
+
+*********
+
+I had trouble saving the link to the combined search, so I'll just post the references:
+1: Arrigo BA, Bullock JL.
+The Psychological Effects of Solitary Confinement on Prisoners in Supermax Units:
+Reviewing What We Know and Recommending What Should Change.
+Int J Offender Ther Comp Criminol. 2007 Nov 19. [Epub ahead of print]
+PMID: 18025074 [PubMed - as supplied by publisher]
+
+2: Cloyes KG.
+Prisoners signify: a political discourse analysis of mental illness in a prison
+control unit.
+Nurs Inq. 2007 Sep;14(3):202-11.
+PMID: 17718746 [PubMed - indexed for MEDLINE]
+
+3: Doncliff B.
+Solitary confinement in mental health nursing.
+Qld Nurse. 2007 Jun;26(3):7. No abstract available.
+PMID: 17624037 [PubMed - indexed for MEDLINE]
+
+4: Way BB, Sawyer DA, Barboza S, Nash R.
+Inmate suicide and time spent in special disciplinary housing in New York State
+prison.
+Psychiatr Serv. 2007 Apr;58(4):558-60.
+PMID: 17412861 [PubMed - indexed for MEDLINE]
+
+5: Andersen HS.
+Mental health in prison populations. A review--with special emphasis on a study
+of Danish prisoners on remand.
+Acta Psychiatr Scand Suppl. 2004;(424):5-59. Review.
+PMID: 15447785 [PubMed - indexed for MEDLINE]
+
+6: Andersen HS, Sestoft D, Lillebaek T, Gabrielsen G, Hemmingsen R.
+A longitudinal study of prisoners on remand: repeated measures of psychopathology
+in the initial phase of solitary versus nonsolitary confinement.
+Int J Law Psychiatry. 2003 Mar-Apr;26(2):165-77. No abstract available.
+PMID: 12581753 [PubMed - indexed for MEDLINE]
+
+7: Andersen HS, Sestoft D, Lillebaek T.
+Ganser syndrome after solitary confinement in prison: a short review and a case
+report.
+Nord J Psychiatry. 2001;55(3):199-201.
+PMID: 11827615 [PubMed - indexed for MEDLINE]
+
+8: Andersen HS, Sestoft D, Lillebaek T, Gabrielsen G, Hemmingsen R, Kramp P.
+A longitudinal study of prisoners on remand: psychiatric prevalence, incidence
+and psychopathology in solitary vs. non-solitary confinement.
+Acta Psychiatr Scand. 2000 Jul;102(1):19-25.
+PMID: 10892605 [PubMed - indexed for MEDLINE]
+
+9: Gore SM.
+Suicide in prisons. Reflection of the communities served, or exacerbated risk?
+Br J Psychiatry. 1999 Jul;175:50-5.
+PMID: 10621768 [PubMed - indexed for MEDLINE]
+
+10: Sestoft DM, Andersen HS, Lillebaek T, Gabrielsen G.
+Impact of solitary confinement on hospitalization among Danish prisoners in
+custody.
+Int J Law Psychiatry. 1998 Winter;21(1):99-108. No abstract available.
+PMID: 9526719 [PubMed - indexed for MEDLINE]
+
+11: Farrell GA, Dares G.
+Seclusion or solitary confinement: therapeutic or punitive treatment?
+Aust N Z J Ment Health Nurs. 1996 Dec;5(4):171-9. Review.
+PMID: 9079314 [PubMed - indexed for MEDLINE]
+
+12: Grassian S, Friedman N.
+Effects of sensory deprivation in psychiatric seclusion and solitary confinement.
+Int J Law Psychiatry. 1986;8(1):49-65. No abstract available.
+PMID: 3940165 [PubMed - indexed for MEDLINE]
+
+13: Suedfeld P.
+Measuring the effects of solitary confinement.
+Am J Psychiatry. 1984 Oct;141(10):1306-8. No abstract available.
+PMID: 6486277 [PubMed - indexed for MEDLINE]
+
+14: Grassian S.
+Psychopathological effects of solitary confinement.
+Am J Psychiatry. 1983 Nov;140(11):1450-4.
+PMID: 6624990 [PubMed - indexed for MEDLINE]
+
+15: Volkart R, Rothenfluh T, Kobelt W, Dittrich A, Ernst K.
+[Solitary confinement as risk factor for psychiatric hospitalization]
+Psychiatr Clin (Basel). 1983;16(5-6):365-77. German.
+PMID: 6647886 [PubMed - indexed for MEDLINE]
+
+16: Kaufman E.
+The violation of psychiatric standards of care in prisons.
+Am J Psychiatry. 1980 May;137(5):566-70.
+PMID: 7369400 [PubMed - indexed for MEDLINE]
+
+17: Maclay DT.
+Letter: Solitary confinement in control units.
+Lancet. 1975 Aug 30;2(7931):408. No abstract available.
+PMID: 51211 [PubMed - indexed for MEDLINE]
+
+18: Gendreau P, Freedman NL, Wilde GJ, Scott GD.
+Changes in EEG alpha frequency and evoked response latency during solitary
+confinement.
+J Abnorm Psychol. 1972 Feb;79(1):54-9. No abstract available.
+PMID: 5060981 [PubMed - indexed for MEDLINE]
+
+19: WALTERS RH, CALLAGAN JE, NEWMAN AF.
+Effect of solitary confinement on prisoners.
+Am J Psychiatry. 1963 Feb;119:771-3. No abstract available.
+PMID: 13998703 [PubMed - indexed for MEDLINE]
+
+20: van WULFFTEN PALTHE P.
+Fluctuations in level of consciousness caused by reduced sensorial stimulation
+and by limited motility in solitary confinement.
+Psychiatr Neurol Neurochir. 1962 Nov-Dec;65:377-401. No abstract available.
+PMID: 14002046 [PubMed - indexed for MEDLINE]

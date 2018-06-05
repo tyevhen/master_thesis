@@ -1,0 +1,5 @@
+It's called Dojo2D.
+
+Try this test page. On my machine, Firefox 1.5.0.7 will load that page in 8 seconds, which is about 7.99 billion clock cycles too many, for my taste. But Internet Explorer locks up for a full 30 seconds (consistently, every time) when trying to load the page.
+
+I'm happy to see IE users brutally punished in this fashion, of course. But honestly, this has to be some kind of sick, sick joke, right?

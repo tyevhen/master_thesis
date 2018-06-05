@@ -1,0 +1,75 @@
+If ordinary people knew how QE (quantitative easing) worked, there might be riots in the streets. It's a thoroughly ludicrous welfare plan for the rich: $4.5 trillion to Wall Street banks, 80% of which remained on ledgers as reserves, and nothing to show for it except a stock market bubble that now mainly benefits the upper class. Has it prevented a worse recession? No one knows. We do know QE is not a sustainable tactic longer term (for the next crash, we'll need something far better) and it hasn't put any money in the average person's pocket.
+
+UPDATE: The Fed admits QE worsens inequality (zerohedge.com).
+
+Let's sort it all out in plain English:
+
+What Is This Weird Thing Called QE?
+It's a fancy name for the Federal Reserve's technique of pumping money into the economy (or more accurately, into the bond market and into banks' reserves).
+
+How Does It Work?
+The Fed buys U.S. Treasury obligations (and sometimes mortgage-backed securities) from banks, usually via "primary dealers."
+
+Who Are the Primary Dealers?
+The complete list is shown here. It includes JP Morgan Securities, Goldman Sachs, etc.: Wall Street investment banks.
+
+Why Do We Need QE?
+Evidently because capitalism isn't able to fix its own problems organically. If free markets functioned properly, there'd be no need for interventions amounting to trillions of dollars. QE is an emergency measure. 
+
+Why Are We Using QE Instead of Something Else?
+Until 2008, the Fed was able to control the "velocity of money" via direct manipulation of the Federal Funds Rate (a key interest rate). After the 2008 meltdown, when the Fed went to zero interest on Fed Funds, the economy did not pick up; zero interest was ineffective. The Fed realized that the money supply was shrinking due to banks not making loans. (Recall that when debtors pay back loans, money is destroyed. When banks make new loans, money is created. The creation of new money has nothing to do with printing presses; it's an accounting trick made possible by fractional reserve banking.) The Fed decided to buy mortgages and Treasury obligations from banks, to allow banks to increase their reserves; in theory, this promotes lending. (In reality, it mostly results in banks just carrying higher reserves.) The Fed can't force bank customers to borrow money, hence QE is an indirect tool at best.
+
+What Are the Alternatives to QE?
+The Fed's main tools are monetary in nature: QE, money-supply, and interest-rate adustments. The traditional alternative is fiscal intervention: tax reductions, federal stimulus programs, expansion of government programs; "government spending." (When you hear the word fiscal, think "tax/spend.") In the current political environment, meaningful fiscal action is difficult to achieve. And slow. QE is quick, and requires passage of no new laws.
+
+What Does QE Actually Accomplish?
+QE has many indirect effects, but the main direct effect of QE is to bid up bond prices, sending yields lower. When Treasury instruments yield less interest, investors seeking higher return rates move out of bonds into lower-quality corporate bonds and/or common stock (or other instruments). Basically, the stock market gets a boost.
+
+Who Benefits?
+In theory, as more money enters the banking system, businesses and consumers are better able to borrow money; this results in economic expansion. In reality, no one who's already maxed out is going to borrow money just because interest rates are low, and corporations are mainly using excess cash (including borrowed money) not to expand their businesses, but to buy back stock and compensate executives (largely in stock). A rising stock market mainly benefits the upper class, since the richest 10% of Americans own 85% of all stock.
+
+Why Do Some People Equate QE with "Printing Money"?
+No printing presses are involved in QE. The term "printing money" is a derogatory (yet useful) figure of speech. When QE is successful and banks make loans, the money supply rises. Some people equate this with printing money, but it is not literally accurate.
+
+What's the Difference Between QE1, QE2, and QE3?
+There have been three QE programs since 2008. The first (QE1) involved mortgage-backed assets as well as government bonds, and was part of the effort to strengthen banks post-2008. It was not effective enough, so a new round (QE2) had to be initiated. That program ended in June 2011. Shortly thereafter, the Fed initiated Operation Twist, a program of selling short-term Treasury obligations and using the money thus raised to buy longer-term bonds; a trick for achieving QE at no net cost, essentially. (It was arguably effective in making the home mortgage market pick up.) In September 2012, still not happy with the economy, the Fed announced a third round of QE, which provided for an open-ended commitment to purchase $40 billion per month in agency mortgage-backed securities (until the labor market improves "substantially"). Because of the open-ended nature of the program, some called it QE-Infinity. But in fact, the QE3 program ended in October 2014.
+
+How Much Money Has Been Spent to Buy Back Bonds?
+The Fed has acquired $4.5 trillion worth of mortgages and bonds in the course of its three QE rounds. England has spent around £400 billion in this manner and the European Central Bank has committed to a trillion-euro program of QE. (Note: By comparison, the entire U.S. federal budget for 2016 is $3.8 trillion.)
+
+What Happens Now to All Those Securities?
+The Fed may hold some bonds/bills/notes until they mature; they may decide to sell others back to the market. The latter would cause interest rates to go up and the stock market to go down.
+
+What Happens to the Federal Deficit?
+QE represents an arm of government (the Fed) buying back federal debt. Hence, unlike fiscal stimulus programs, QE is debt-neutral; the deficit does not go up, and may actually go down (by reducing interest payouts that would otherwise go to private bond holders). In some ways, QE is similar to a corporation buying back its stock, although a more accurate analogy would of course be a corporation buying back its bonds.
+
+So Has QE Been Worth It?
+We're still finding out. Some experts say that many of the goals of QE were achieved, but critics point out that the economic benefits of QE have accrued mostly to Wall Street and the upper class, and even proponents of QE have been surprised at the sums of money required to "move the needle." Also, there's no denying that the global economy still suffers from sluggish demand, reflected (for example) in sagging commodity prices and poor GDP growth in the US, the UK, and most of Europe.
+
+What Are the Risks Associated with QE?
+We're in uncharted territory. No one has ever pumped trillions of dollars into an economy, over a short period of time, before. Critics of QE say that current market valuations are artificially high due to QE. Some experts worry that the post-QE period (which we are now entering, in the U.S. at least) will lead to poor liquidity, increasing market volatility, and a flight from bonds, or outright shorting of bonds (as happened in Europe in May 2015); and there is concern in Europe that the ECB will run out of bonds to buy within a year. The problem is, no one has ever before introduced this large a distortion into the securities markets. So we don't know what the downstream effects might be.
+
+Doesn't QE Cause Inflation?
+Actually, no. See this article for details. Inflation has not been a problem under QE. Which means increasing the reserves of the banking system is not the same as "printing money" in the usual sense.
+
+What Happens If There's Another Crash?
+The attitude on Wall Street seems to be that another crash can't happen soon, since we just had one (which is silly, obviously). Critics say QE has caused an asset bubble that could pop at any time, leading to a period of "deleveraging," deflation, and deep recession. If QE ultimately proves to have been a failure (that is, if a crash occurs now), governments will have to resort to something more effective. Meaningful fiscal intervention is probably impossible, for political reasons. One idea that has started to get a fair amount of attention is that of authorizing the Fed to make low- or no-cost "loans" directly to households instead of to banks, causing money to enter the economy directly, via consumers. (The Fed currently has no authority to do this.) Structuring such payments as loans would be equivalent to QE from an accounting perspective (it would not add to national debt). Forgiving the loans would be equivalent to making direct cash payments to citizens; it would add to the federal deficit unless paid for in taxes.
+
+Direct loans from central banks to households (often called "helicopter money") would be the next logical step for "disaster relief." It's arguably something the Fed should have done already, since QE, as currently conceived, has mostly benefitted banks (and the upper class) and has required outrageous quantities of funds to achieve rather modest short-term effects, the longer term implications of which are not known.
+
+If you found this article helpful, please share it. Thanks.
+
+☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more (documented, with links to sources). And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+
+☙ ❧ 
+
+Retweet this post! Many thanks to the great folks who retweeted me yesterday:
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

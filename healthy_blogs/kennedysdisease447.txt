@@ -1,0 +1,17 @@
+The KDA Forum had an interesting discussion on tracing your
+family tree to determine when and where Spinal Bulbar Muscular Atrophy (aka Kennedy’s Disease) first showed up in your family.
+
+Dan, a forum member, provided the link below concerning tracing the linage of the defective gene. He also did a nice job of summarizing the study for us:
+
+“Turns out there is something called a "founder effect" where they can prove everyone with SBMA in a certain nation is related to a single ancestor. For example, they showed 41 SBMA patients they found in Norway, Sweden, and Finland were all related to a common ancestor; but 16 patients they found in Japan must have had two different ancestors. They determine that result by examining tiny similarities and differences in the chromosomes.
+
+The researchers also found that the United States and Canada tend to have a greater number of founders, probably due to the history of immigration into those two nations over the centuries.
+As for how the SBMA mutation gets started, ... sometimes it is just a random error in the chromosome copying process. Other times it could be related to certain events such as exposure to radiation or certain toxic (mutagenic) chemicals.”
+
+Definition of Haplotype: The genetic makeup of a single chromosome.
+
+
+From the European Journal of Human Genetics:
+Multiple founder effects in spinal and bulbar muscular atrophy (SBMA, Kennedy disease) around the world
+Abstract:
+SBMA (spinal and bulbar muscular atrophy), also called Kennedy disease, is an X-chromosomal recessive adult-onset neurodegenerative disorder caused by death of the spinal and bulbar motor neurones and dorsal root ganglia. Patients may also show signs of partial androgen insensitivity. SBMA is caused by a CAG repeat expansion in the first exon of the androgen receptor (AR) gene on the X-chromosome. Our previous study suggested that all the Nordic patients with SBMA originated from an ancient Nordic founder mutation, but the new intragenic SNP marker ARd12 revealed that the Danish patients derive their disease chromosome from another ancestor. In search of relationships between patients from different countries, we haplotyped altogether 123 SBMA families from different parts of the world for two intragenic markers and 16 microsatellites spanning 25 cM around the AR gene. The fact that different SBMA founder haplotypes were found in patients from around the world implies that the CAG repeat expansion mutation has not been a unique event. No expansion-prone haplotype could be detected. Trinucleotide diseases often show correlation between the repeat length and the severity and earlier onset of the disease. The longer the repeat, the more severe the symptoms are and the onset of the disease is earlier. A negative correlation between the CAG repeat length and the age of onset was found in the 95 SBMA patients with defined ages at onset. European Journal of Human Genetics (2001) 9, 431-436.

@@ -1,0 +1,29 @@
+Short little post on a paper from a few weeks ago from the Journal of Clinical Psychiatry:  Nonsteroidal Anti-Inflammatory Drugs in Schizophrenia: Ready for Practice or a Good Start?  A Meta-Analysis.
+
+Nothing spectacular here, just some interesting arguments and correlations to add to the literature that major mental illness has an inflammatory pathology, and that searching for anti-inflammatory solutions (and I consider an anti-inflammatory (nutrient-rich, low toxin) diet, proper sleep, proper coping, appropriate exercise and stress reduction as some of these non-prescription solutions to be examined further) is a reasonable course of action, and not woo-ville.
+
+My usual radio haunts have been disappointing recently for brand new music.  But The Heavy came out with a new single this week, and I'm liking it:  What Makes A Good Man.  It sounds really good in the car, but I hope you're not driving right now.
+
+All right, some suspicious correlations suggesting the immune system and inflammation may be involved:
+
+1) People with schizophrenia and their close family members have higher risk of autoimmune disorders.
+2) Men who have used steroids and NSAIDS (such as naproxen or ibuprofen) have a decreased prevalence of schizophrenia.
+3) PET scans of folks with schizophrenia show increased numbers of active microglia in the brains (microglia are immune cells in the central nervous system, activated to fight infection or in autoimmune conditions or inflammation).
+4) With brute force hacks of genomes of folks with schizophrenia, one of the gene areas that keeps popping up are markers in the major histocompatibility complex (MHC) region on chromosome 6.  MHC genes code for the markers we put up on our cells to label them as ME so our own immune army doesn't take us out.
+5) There are abnormal levels of inflammatory cytokines, immune markers, and autoimmune antibodies in the serum and spinal fluid of folks with schizophrenia.
+
+So something in the immune system is amiss.  Maybe gut-punching inflammation could help the symptoms.  Enter the NSAIDS (non-steroidal anti-inflammatory drugs).  They work by inhibiting the conversion of our old frenemy arachidonic acid (AA, made from the omega 6 linoleic acid, but also available as is from various animal foods) into the class of molecules called prostaglandins.  Prostaglandins help mediate pain, inflammation, and thermal regulation, which is why you might pop an Advil when you have a fever or a muscle ache (or both).
+
+Now, NSAIDS are known to trash the gut and the kidneys if you aren't careful, and various versions may kill you dead with a heart attack (Vioxx) in the long term, and pregnant women and those with ulcers and ulcerative colitis and some others should avoid them…but as I am not currently afflicted with any of the previous conditions I would still take it in lieu of acetaminophen, personally, when I am not toughing it out. Like last Monday, when my children gave me a little virus that toasted me all the way up to 103.3. Personally I'm cool with 102s but the 103s start to make me worry about brain fry-age, particularly in adults.
+
+(An oldie but a goodie:  Neil Finn: She Will Have Her Way   Definitely worth the ad…)
+
+More specifically:  AA + the enzymes COX1 and COX2 make prostaglandins, which mediate pieces of the inflammatory response.  NSAIDS like ibuprofen, naproxen, diclofenac and acetylsalicylic acid (otherwise known as aspirin) will block COX1 and COX2, reducing the ability of the body to make prostaglandins.
+
+So will doing that not only help a fever or an aching muscle, but also the symptoms of schizophrenia?  What does the literature say?
+
+All the randomized controlled trials of antipsychotic medication augmentation with an NSAID were analyzed in this meta-analysis.  (No one official is just using Advil for psychosis.)  In the literature there were 5 (small) RCTs, for a total of 264 patients.  The trials all used celecoxib (a selective COX2 inhibitor) or aspirin, and lasted from 5 weeks to 3 months.  4 of the 5 studies all had similar results, modestly but significantly helpful in both "positive" symptoms such as hearing voices and "negative" symptoms such as social withdrawal.  One study showed the NSAIDs not to be helpful, compared to placebo.   Apparently two other unpublished studies also showed celecoxib to be unhelpful, so we have to be cautious about these findings.
+
+More specifically, with a few of the celecoxib studies, the NSAID didn't appear to be particularly active in the central nervous system, as expression of COX2 wasn't altered in the hippocampus and there were no changes in the cytokine profiles in immune cells called mononuclear cells.  In the aspirin study, however, they were able to detect a treatment effect with differences in cytokine profiles due to the drug.  Since COX1 prostaglandins cause platelet aggregation, inhibiting COX1 leads to the supposed cardioprotective effects (but also the increased risk of ulcers) of the nonselective NSAIDS.  It's a bit irritating that all these studies were done with the selective COX2 inhibitor, celecoxib, but since it was the one on patent, I'm guessing that's why the money was spent there.  It would be interesting to see larger studies done with ibuprofen or aspirin, frankly.
+
+Well!  More wait and see.

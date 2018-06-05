@@ -1,0 +1,64 @@
+Any PubMed search on waiting list mortality will produce a long list of articles on mortality that occurs on transplantation waiting lists and all of the associated ethical and logistic problems.  I could not locate any work done on waiting lists to get in to see psychiatrists, primary care physicians, or specialists.  To an extent, waiting list mortality is expected and some of the risk factors (increasing age, significant chronic medical illnesses, high  risk medications) is undoubtedly predictive.  But what about the person who calls in and describes a clear cut problem that is misclassified and the error is potentially life threatening.  I have picked up a few of these problems in psychiatric clinics where the ultimate emergency diagnosis was unrelated to the reason for the appointment.  Seeing a patient who is white as a ghost, complaining of coffee ground emesis, and determining the hemoglobin to be 7 is one of many examples.  Anxiety was the reason for that appointment.  I have found a number of acutely anemic patients due to blood loss with complaints about anxiety, shortness of breath, and panic attacks  who really needed blood transfusions.
+
+I have a more concrete recent example that is much more common in psychiatric practice, especially if a significant number of patients with alcohol and benzodiazepine problems are being seen.  That is the problem of nocturnal anxiety with panic attacks.  To make it a little more interesting, let's say our hypothetical patient is 55 years old, has a history of paroxysmal atrial fibrillation (2 brief episodes), does not take an anticoagulant, and takes flecainide to prevent atrial fibrillation and metroprolol to prevent palpitations.  He has obstructive sleep apnea and is on APAP.  His AHI is 3.5 or less on any given night.  He has never has an electrophysiological study. Stress test and echocardiogram were both negative.  He has had to taper the metoprolol over a period of about 5 years from 25 mg BID to 3.125 mg daily due to lower and lower BP.  Suddenly the patient is noticing palpitations at night.  They seem to occur at the end of REM type dreams and do not seem to correlate with the emotional content of the dream.  The awakenings with palpitations typically occur at 4AM.  He has not had a panic attacks in 35 years.  He does not drink or use benzodiazepines.  To terminate the palpitations he gets up and drinks a large glass of water or walks around and they resolve in about 10 - 20 seconds.  He gets a small single lead ECG device that reads one aberrant beat as "occasional PVC".
+
+He gets in to see his primary care MD in a couple of days.  His exam is normal and he is in sinus rhythm.  No aberrant heart beats are noted by his internist.  Electrolytes and magnesium level are normal.  He goes home that night and the palpitations continue.  He calls his sleep medicine physicians who tells him to start with his Cardiologist.  He calls the Cardiologist who concludes that "these are beats that originate in the lower chambers of the heart and there is nothing to be concerned about." Despite the acute change in symptoms that is waking him up on a nightly basis - no further testing, examination. or diagnosis is offered.  Frustrated - he calls a referral center and schedules a sleep study in about 2 1/2 months.
+
+Is there something else that could have happened in this case? If you happen to be this man's psychiatrist - like I am in many of these cases of sleep related symptoms what is the differential diagnosis and what else can be done.  A reasonable differential diagnosis of these palpitations might consider the following list of conditions.
+
+ 
+Night time palpitations – differential diagnosis:
+
+1.
+Sleep  terrors
+2.
+Nightmares
+3.
+Nocturnal panic attacks
+4.
+Alcohol or sedative hypnotic withdrawal
+5.
+Stimulant or hallucinogen intoxication
+6.
+Cardiac arrhythmia
+Tachyarrhythmias
+Ventricular arrhythmias
+Supraventricular arrhythmias
+Conduction delay arrhythmias
+
+In considering the list. there are some useful clinical features.  Sleep terrors are rare in adults.  They typically occur in the first half of the night.  The patient suddenly arouses from sleep.  They may  scream.  They have intense sympathetic output including diaphoresis, flushing, tachycardia, tachypnea,and mydriasis.  They may appear to be disoriented.  Nightmares are typically dreams with negative emotional content that occur with awakening from non-REM sleep.  Sympathetic arousal is not as prominent.  Nocturnal panic attacks (NP) can occur in people with daytime panic attacks (DP) or as a separate entity.  People with combined DP/NP had more symptom severity. Palpitations are a feature of panic attacks.  In a recent study (2) the authors also rule out associated disorders  like substance use problems and obstructive sleep apnea by exclusion and testing.  The pure NP group were predominately male, had a childhood history of sleep terrors, and were more likely to have respiratory symptoms (choking sensations) despite a lower overall symptom severity score than the DP/NP group suggesting a more common mechanism with night terrors.  Because of the similarity between nocturnal panic attacks, sleep terrors, dream anxiety attacks and nocturnal seizures some authors encourage "extreme caution" in making the diagnosis (3).
+
+The alcohol and substance intoxication and withdrawal states may be less obvious outside of treatment setting specializing in these disorders.  Patients with these problems may not disclose the full extent of use.  In the proper context, discontinuation of both cannabis and hallucinogens like LSD occurs due to increasing anxiety and panic attacks.  Alcohol and sedative hypnotic withdrawal can cause prominent sympathetic symptoms including night sweats, tachycardia, and panic attacks.  Those symptoms typically resolve with treatment of the underlying withdrawal syndrome.  In some cases the anxiety and panic attacks persist and require additional treatment.
+
+Pure cardiac symptoms associated with sleep can be confusing.  The patient is aroused and may notice the arrhythmia.  The question becomes is the arrhythmia secondary to anxiety and sympathetic arousal or is the anxiety secondary to the chest sensation?  In the case of a patient with known sleep apnea and atrial fibrillation here are several possible causes including breakthrough atrial fibrillation at the time of the awakening.  In this case there was a crude monopolar tracing that showed a ventricular premature beat (VPB).  VPBs are commonly associated with anxiety, but is it enough to count on the patient capturing the event by getting up out of bed and holding an inexpensive device to his chest?  Patient with sleep disordered breathing are at increased risk from nocturnal death (midnight to 6AM) and one of the mechanisms may be arrhythmia from the cardiac effects of sleep disordered breathing. 
+
+The patient in this case is very much alive and functioning at a high level.  He still has the nocturnal palpitations but is less anxious about them because they are now intermittent and always seem to resolve in a short period of time. If he thinks about it for nay length of time the question that comes up is: "Why now?"  He hopes that the referral center will have the answer to that question.
+
+  I don't have any outcome or ready solutions to this problem. In many ways it highlights a potential quality problem in the high tech American healthcare system.  Here we have a patient who is fairly compulsive about his own health care.  He has a primary care physician who he saw and contacted both his specialists.  When there was no answer, he contacted a referral center and set up an appointment 2 1/2 months out into the future.  What will happen while he is on that waiting list is a probability statement with a series of unknown probabilities.  What is disappointing from my perspective as a physician trained in the 1980s is that at some point - the rigorous intellectual approach to patients problems has fallen by the wayside in favor of rationing.  We are no longer in pursuit of a diagnosis that might make a difference.  We are satisfied with saying "I checked off all of the boxes and I didn't see anything".  It's a 21st century variation of the old joke: "The operation was a success but unfortunately the patient died."
+
+I am very interested in what the cost of this approach is in terms of human life and additional comorbidity.  I think that what happens to people on these waiting lists (compared to controls) is where the emphasis should be place and not on how fast patients should be discharged and not readmitted to hospitals.  Despite all of the press about unnecessary tests and the risks associated with those tests, the commonest errors I see that result in patient injury is missing the obvious diagnosis and not doing the appropriate tests.     
+
+There is something wrong with a health care system when a psychiatrist cares more about these problems than the physicians running the system.               
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1:  Selim BJ, Koo BB, Qin L, et al. The Association between Nocturnal Cardiac Arrhythmias and Sleep-Disordered Breathing: The DREAM Study. Journal of Clinical Sleep Medicine : JCSM : Official Publication of the American Academy of Sleep Medicine. 2016;12(6):829-837. doi:10.5664/jcsm.5880.
+
+2: Nakamura M, Sugiura T, Nishida S, Komada Y, Inoue Y. Is nocturnal panic adistinct disease category? Comparison of clinical characteristics among patients with primary nocturnal panic, daytime panic, and coexistence of nocturnal and daytime panic. J Clin Sleep Med. 2013 May 15;9(5):461-7. doi: 10.5664/jcsm.2666. PubMed PMID: 23674937.
+
+3: Shouse M, Mahowald MW.  Epilepsy, sleep, and sleep disorders.  in: Kryger MH, Roth T, Dement WC. Principles and Practice of Sleep Medicine. 5th ed. St. Louis, Missouri. Elsevier Sanders, 2011: 1048-1063.
+
+
+
+
+
+
+
+
+
+
+       

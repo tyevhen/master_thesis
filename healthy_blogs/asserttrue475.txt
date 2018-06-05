@@ -1,0 +1,26 @@
+It should come as no surprise that low income and obesity are linked. They definitely are, and the linkage becomes quite clear when you pictorialize the spatial distribution of low income and obesity on maps.
+
+Per capita income by county (click to enlarge). Dark red is poorest.
+
+The above map shows 2008 median incomes by county within the U.S. The darkest red corresponds to an income range of $19.2K to $34.5K per year. For reference, $22K/yr is considered poverty level for a family of four and corresponds to almost exactly half the nationwide median income for all Americans. So the darkest red is not a perfect indicator of poverty, because some of the people in those areas make $17 an hour, whereas $11 an hour is the upper bound of "poverty" as defined by the Federal Government. The darkest reds simply indicate the lowest-earning counties.
+
+Obesity prevalence by county. Red is fat.
+In this map, we see 2008 age-adjusted obesity rate by county. The darkest reds represent areas where obesity is most prevalent. (Exactly why Illinois stands out so starkly, with no areas of dark red, I don't know. It suggests to me some kind of systematic error with that state's statistics. But for our purposes, the map is good enough.) Obesity, in the U.S., is defined as a Body Mass Index of 30 or higher. Bear in mind that the color gradations in this map do not have anything to do with how obese (how far overweight) people in the associated regions are. The colors are merely indications of what percentage of people in each area meet the minimum criterion for obesity.
+
+Already we can see at a glance, from the two maps above, that low income correlates quite well with obesity. But just to make the correlation perfectly clear (visually), I've created a third map (below), which correlates the colors of the two maps above in such a way as to highlight the areas of high correlation and "blue out" areas of low correlation.
+
+Correlation map. Areas of dark red are where very high obesity rates and lowest income levels coincide.
+
+The correlation between obesity and low income is quite evident. Areas with the very lowest incomes have the very highest rates of obesity.
+
+This correlation doesn't exist in less-developed countries, where as a rule the rich are fatter than the poor, for the straightforward reason that the poor are too poor to buy food. Even in China, overweight-ness correlates positively with income (not negatively, as in the U.S.) across all income levels and across all parts of the country (rural versus urban), according to Rand data.
+
+One income-related obesity correlation that holds true across all countries studied is that obesity tends to be high where income disparity is high. (See graph below.)
+
+Obesity tracks income disparity across countries. USA is worst for income inequality as well as obesity.
+
+Given the relationship between income and obesity in the U.S. (and the trend toward more obesity with greater income inequality) one would expect that the recent recession would have made Americans fatter. And one would be correct. Between 2004 and 2008, obesity in the U.S. went from 31.7% of the population to 32.5%, a gain of 0.8%. But from 2008 (the beginning of the recession) to 2010, obesity went from 32.5% to 35.9%, a gain of 3.4%. [source]
+
+The reason these statistics and trends are important is that poverty and obesity are both predictors of poor health (and ultimately poor life expectancy); and the worsening of our economy is sure to have a multiplier effect on health care costs. Obesity-associated chronic disease already accounts for 70% of U.S. health costs. Rand data show that when obesity crosses a certain threshold (namely, when your actual weight is twice your ideal weight) health costs double. Rand says that obesity rates based on averages tend to hide the true future cost of obesity-related health care, because in the future many people who are today merely obese will cross the magic BMI 40 threshold, causing health costs to increase faster than expected.
+
+All of this is by way of saying that there's a huge cost in lives and dollars to misguided economic policy. If we allow unemployment to go up and/or wages to go down and/or income disparity to increase, our already out-of-control medical costs will zoom even faster than expected. The best, most reliable way to lower health care costs is to reduce unemployment, reduce income disparity, and increase people's wages. Anything short of that is merely treating the symptoms.

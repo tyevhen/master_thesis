@@ -1,0 +1,15 @@
+Let's start with a bit of melancholy. I do so love this piece (right click to open in new tab) by Ralph Vaughan Williams. My 10th grade band director, who died in his early sixties of a heart attack, loved RVW too. There's plenty of tragedy in an ordinary life to go around, even now.
+
+Last week when researching the lithium post I pulled another article from the Journal of Lipid Research that looked interesting. Its title: "Marked elevations in pro-inflammatory polyunsaturated fatty acid metabolites in females with irritable bowel syndrome." This article was produced by an Irish group, including a psychiatrist! Amazing what you find in the Journal of Lipid Research.
+
+I see a lot of patients with IBS - basically, uncomfortable flatulence, bloating, constipation, and diarrhea, but no particular cause found. It is highly associated with depression and anxiety, thus my common involvement. And the researchers call IBS a "disorder of the brain-gut axis." But you may not be surprised that low-grade inflammation is suspected to be a predisposing factor, as evidenced by the presence of mast cell mediators (regulators of the cellular immune system) and lymphocytes in the colo-rectal mucosa, and elevations of pro-inflammatory cytokines in the serum of people with IBS.
+
+(Yes. Inflammation. Imagine that.)
+
+The study involved some comparison between people with IBS and normal controls. The IBS sufferers were selected from the gastroenterology clinic. The controls were found off the street, or however. Study participants filled out a few questionnaires and then had some blood taken (and centrifuged) for analysis. Some basic confounders were accounted for (such as smoking).
+
+The findings: 41% of the subjects with IBS (17 out of 41 people) met the criteria for major depressive disorder. No one in the control group of 26 were depressed. The IBS group had a mix of constipation dominant vs. diarrhea dominant vs alternating symptoms.
+
+And the fatty acids? IBS sufferers had lower plasma omega 6 and higher plasma omega 3 than the controls (WHA??? I know, sometimes science surprises - though this trend was not statistically significant), but the levels of arachidonic acid (created from omega 6 fatty acids, and the precursor for a ton of inflammatory cytokines) were significantly elevated compared to controls (p=0.029). The inflammatory cytokines themselves (prostaglandins and leukotrienes, if you must know) were also significantly elevated. There was no correlation between the severity of the symptoms and the elevations of the cytokines. Arachidonic acid does seem to play a role in intestinal permeability, so the researchers did not find its elevation surprising. They made note that diet might not be the only factor predisposing people to an inflammatory state.
+
+It might not all be dietary! It might have to do with other stressful factors in life, and such. Those psychotherapy skills might be useful after all.

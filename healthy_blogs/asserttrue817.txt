@@ -1,0 +1,7 @@
+I finally found a wonderfully terse, easy-to-follow "executive summary" (not exactly short, though) explaining How to publish Linked Data on the Web: In other words, how to make your site Semantic-Web-ready.
+
+If you've struggled with trying to visualize how the various pieces of the Semantic Web fit together (all the RDF-based standards, for example), and you still feel as though you aren't quite grasping the big picture, go read How to publish Linked Data on the Web. It'll bring you up to speed fast. The authors deserve special mention (join me in a polite round of applause, if you will):
+Chris Bizer (Web-based Systems Group, Freie Universität Berlin, Germany)
+Richard Cyganiak (Web-based Systems Group, Freie Universität Berlin, Germany)
+Tom Heath (Knowledge Media Institute, The Open University, Milton Keynes, UK)
+I hope vendors in the content-management space will get to work producing tools aimed at helping people implement "highly semantic sites" (tm). Search 2.0-and-up will rely heavily on linked data, and the advantages of a linked-data-driven Web in terms of enabling thousands of Web APIs to be conflated down to scores or hundreds will become apparent quickly once the ball starts rolling.

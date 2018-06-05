@@ -1,0 +1,38 @@
+The Kennedy’s Disease Association received an email from the National Institute of Health (NIH) regarding a pilot program they are trying to establish. The concept is interesting and the opportunities it represents for rare diseases like Kennedy’s Disease makes it something worth looking into further. There is a lot of information available on the website and the program is only in the exploratory stage, but I felt it is worth bringing to my readers’ attention.  [Note:  I have highlighted some key points]  I would be interested in your thoughts on whether this appears to be an opportunity.
+
+
+About the program
+The Office of Rare Diseases Research (ORDR) within the National Institute of Health has launched a pilot program to establish the Global Rare Diseases Patient Registry and Data Repository (GRDR). The goal is to enable analyses of data across many rare diseases and to facilitate clinical trials and other studies.
+
+Patient organizations are invited to participate by collecting patient clinical information. The platform being developed can be used by any patient group to establish a registry or to contribute de-identified patient data to the GRDR.
+
+Why Rare Disease Registries
+Rare diseases comprise a clinically heterogeneous group of approximately 6,500 disorders each occurring in fewer than 200,000 persons in the USA. They are commonly diagnosed during childhood, frequently genetic in origin, and can have deleterious effects on long-term health and well-being. Although any given condition is rare, their cumulative public health burden is significant with an estimated 6-8% of individuals experiencing a rare disease at some point during their lives.
+
+
+Because these disorders are so uncommon, no single institution, and in many cases no single country, has sufficient numbers of patients to conduct generalizable clinical and translational research. Geographic dispersion of patients has been a major impediment to patient recruitment into clinical trials. Most rare diseases do not have a specific International Classification of Diseases (ICD) code, which hampers research using existing administrative databases.
+
+Best estimates are that fewer than 20% of rare diseases have registries, and most are operated by patients’ organizations or academic researchers. Although most registries are country-specific, there are a small number of international efforts—e.g., in Cystic Fibrosis and Neuromuscular Diseases—that are demonstrating the benefits of combining data across international boundaries.
+
+Identifying patients and gathering genetic test results and clinical status parameters for many rare diseases is laborious and expensive. The Global Rare Diseases Patient Registry and Data Repository (GRDR) allows any rare disease population, regardless of size, to collect patient data that can identify clinical trial candidates and fuel research. By assembling many small patient registries into a common data repository, economies of scale can be realized and researchers will have the ability to look beyond a single gene/indication which may reveal non-obvious associations between genes and diseases.
+
+How Do Registries Work?
+A registry is a systematic collection of standardized data on a group of patients. The starting point of a registry is to develop a list of patients. Once patient group is defined, a variety of data types can be added. Data can be entered into a registry by patients, clinicians, researchers, or directly imported from electronic health records. Scientists and pharmaceutical companies are more likely to conduct research on a given rare disease if they find a patient registry in place. By defining a population of patients, registries enable the formation of various types of research, educational, and outcomes improvement infrastructures.
+
+
+In the GRDR patient registry model, patients register themselves on the registry website, answer a questionnaire regarding their medical history and attach electronic versions of testing results to their account. A registry may have a coordinator who verifies the patient submitted information. In this model, information is tracked longitudinally and email reminders are sent to participants missing testing results or with out-of-date accounts.
+
+How Can Registry Data Be Used?
+Registries support various types of research, education, and outcomes improvement initiatives, including:
+Learn among the community
+Knowledge dissemination
+Encourage research and plan trials
+Recruit patients
+Understand the disease
+Evaluate effectiveness
+Safety monitoring
+Quality and outcomes improvement – treatment, practice, surveillance/monitoring
+Genotype/phenotype associations
+Hub to link other registries, repositories and data sources
+
+These varied uses of registry data are made possible by the infrastructure available to the GRDR registry which supports unlimited ‘roles’ of users. Researchers and clinical investigators may register on the site for access to de-identified data, best practices and other information generated as part of this program. Patients may register as participants to contribute their data and learn from others. Protecting privacy of participants is of the upmost importance to the GRDR registry program. No identifying patient information is released outside the registry without the stated permission of the participant.

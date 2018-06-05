@@ -1,0 +1,30 @@
+Clinicians use various tests to determine if a person is depressed. Some of the more common ones are shown below. You can take all of these online. (Not all are intended to be self-assessment tests; for example, the MADRS and HRSD are meant to be administered by a professional clinician.)
+
+Montgomery-Asberg Depression Rating Scale (MADRS)
+Beck's Depression Inventory 
+Hamilton Rating Scale for Depression 
+Hospital Anxiety and Depression Scale 
+Zung Self-Rating Depression Scale
+
+Some notes about the tests and how to score your results:
+
+The MADRS, which dates to 1979, is one of the newer and (arguably) better-constructed tests. Scores range from zero to 60. Interpretation is as follows:
+0 to 6 – normal/symptom absent
+7 to 19 – mild depression
+20 to 34 – moderate depression
+>34 – severe depression.
+The Hamilton scale (HRSD) is still very widely used, particularly as a screening tool for eligibility for research studies, even though its questions are mostly framed with a 1960 perspective on depression. The test was updated through 1980. Its scoring is crude: Anything less than 8 means you're probably not depressed, while 20 or higher indicates at least moderate depression.
+
+The Beck Depression Inventory (BDI) dates to 1961 but has been revised several times (most recently in 1996). Scoring is as follows:
+0–9: indicates minimal depression
+10–18: indicates mild depression
+19–29: indicates moderate depression
+30–63: indicates severe depression.
+The Hospital Anxiety and Depression Scale (HADS) was created in 1983. It allows scores in the range 0 to 21 for either anxiety or depression. Supposedly, 8 and 21 are the respective cutoffs for anxiety and depression.
+
+Zung's Self-Rating Depression Scale dates to 1965 and is not particularly well-constructed, since every question expects you to at least say "a little bit" in response to things that may or may not even apply to you, and thus your minimum score is 20 (the scale doesn't start at zero).
+Scores on the Zung test range from 20 through 80. Your total score puts you into one of the following four ranges:
+20-49 Normal Range
+50-59 Mildly Depressed
+60-69 Moderately Depressed
+70 and above Severely Depressed

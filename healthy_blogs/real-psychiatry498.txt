@@ -1,0 +1,35 @@
+I thought I would wade in on this issue largely because I am not hearing a lot of rational discussion about the problem.  You might ask: "What does a psychiatrist know about this issue?" and the answer like most questions about psychiatry is "plenty".  I worked on a busy inpatient unit for 22 years and saw plenty of people with with severe chronic pain and episodic pain crises.  In that same facility, I also covered consults on medical and surgical patients many having problems with chronic pain and addiction.  As an addiction psychiatrist, I have talked with countless people who ran into problems with pain medications or relapsed to using another drug after being exposed to opiates for treatment of acute or chronic pain.  There seems to be very little reality based information out there to inform people about the risks and benefits of pain treatment with opiate medication.  The argument like most in our society is politically polarized to those who believe it is unconscionable to not treat pain even if it means a long course of opioids to those who believe that opioids are dangerous medications that should be conservatively prescribed.  So where does the truth lie?
+
+I can tell you how it was in Minnesota in the 1990's.  There were very few pain specialists.  The wide spread prescription of opiate medications for chronic noncancer pain by generalists was uncommon.  In many cases if it seemed indicated, the generalist would refer their patient to a pain specialist who would provide them with a letter of agreement on the use of chronic opioids.  That all changed with a Joint Commission initiative on pain in 2000.  At least some authors see it that way and that was my experience.  Since then opioid prescriptions have been taking off with an associated increase in the production of these compounds.  This graphic from the CDC is instructive (click to enlarge).  The rates of increase of sales, deaths, and treatment admissions are all increasing at an astronomical rate relative to population growth.
+
+
+
+The issue that is debated in the media and some government web sites is why is this happening and what is the best way to deal with it.  The FDA has recently incentivized drug manufacturers to come up with better tamper proof opioids.  The enforcement arm of the government is rigorously prosecuting some doctors.  The FDA has also initiated a course for doctors who prescribe opioids.  None of these measures addresses the core problems that were successfully addressed in Minnesota in the 1990s.  I will take a look at the specific issues involved:
+
+1.  The genetics of opioid preference:   People at risk for abuse and addiction to opioids have intensely positive subjective experiences from taking opioids.  People not at risk have intensely negative experiences or the opioids make them physically ill.  We currently know nothing about the genetics of this response, but it makes sense to let patients know that if they do have an intensely positive response in terms of feeling euphoric or energetic that is not a good sign in terms of addiction potential.  It might even be reasonable to come up with a plan about what to do if that happens.  Seeing people back in a month who have no knowledge of this risk is probably not the best plan.  It is critical that there is a good therapeutic alliance between the patient and physician and that they are both focused on the full spectrum of problems.  
+
+2.  The genetics of opioid response:  Individuals studies and reviews of studies generally show that a subset of patients respond to opioids.  There may be additional factors that should factor into patient selection such as the specific type of neuropathic pain.  The current concern and reaction to the opioid epidemic is based on the concept that opioid prescribing is a potentially high risk intervention.  If that is the case we need a better options for patient selection than a subjective report of pain.
+
+3.  The public perception that opioids are the silver bullet of pain relief must be dispelled: This is the driving force behind escalating doses of opioids and the addition of benzodiazepines (an equally bad idea).  Excellent double blind placebo controlled studies of self titrated opioids in chronic neuropathic pain have showed moderate pain relief that is on par with non-opioid medication.
+
+4.  Tolerance to analgesia and opioid induced hyperalgesia:  Education about these phenomena is needed because both lead to escalating doses of opioids.  The dose escalation may be appropriate, but in many cases the dose is increased with the goal of eradicating pain and that is an unrealistic goal.  In people who have analgesic induced hyperalgesia, they are often shocked that their pain improves with discontinuation of the opioids.
+
+5.  Assessment of functional capacity is critical:  Functional capacity is the ability to function in daily life.  It must be carefully assessed in anyone who is on chronic opioid therapy.  At moderate doses and in combination with other pain medications opioids can impair coordination, cause excessive sedation, and lead to significant impairment in daily functioning.  This is a sign that the dose of the opioid may be too high and reducing the dose is indicated.
+
+6.  A hierarchical approach to pain treatment is still necessary and is the most rational approach to reducing the current epidemic of excessive opioid prescriptions:  If the degree of pain relief across a population is the same, why not use the drug with the lowest abuse and overdose potential?  That was the default model in the 1990s in Minnesota.  The National Health Service in the United Kingdom has operationalized that as their current pathway for treating neuropathic pain in the algorithm below (click to enlarge).  Note that the medications with no abuse potential are at the entry levels in this diagram and that pain specialists are the gatekeepers for opioids.
+
+
+
+  
+Like most political debates the current debate about how to stop the epidemic of opioid overdoses ignores that fact that the problem may have originated with a political initiative in the first place.  Using the NICE algorithm to get us back to the Minnesota practice model of the 1990s is a logical solution.
+
+George Dawson, MD, DFAPA
+
+
+Rowbotham MC, Twilling L, Davies PS, Reisner L, Taylor K, Mohr D. Oral opioid therapy for chronic peripheral and central neuropathic pain. N Engl J Med. 2003 Mar 27;348(13):1223-32. PubMed PMID: 12660386.
+
+National Institute for Health and Clinical Excellence. Neuropathic pain: the pharmacological management of neuropathic pain in adults in non-specialist settings. NHS. March 2010.
+
+Supplementary 1:
+
+The Care Pathway Graphic is copyrighted © National Institute for Health and Care Excellence (2010) and is posted based on their allowance for reproduction for educational and not-for-profit purposes.  See their updated and revised guideline at: http://www.nice.org.uk/nicemedia/live/14301/65782/65782.pdf

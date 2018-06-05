@@ -1,0 +1,3 @@
+In late March, I blogged a couple times about continuations. Suddenly, Sun's Tim Bray and Gilad Bracha have broached the subject, stimulating much heated discussion in the blogosphere. Much heat, little useful work at the crankshaft.
+
+Of all the recent posts on this surprisingly controversial subject, I find Curtis Poe's the most clueful.

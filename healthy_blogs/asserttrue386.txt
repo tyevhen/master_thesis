@@ -1,0 +1,69 @@
+If you've had problems with SVG in Blogger (or any other web pages), here are some things I've learned the Hard Way. The test image below (which you won't be able to see in Internet Exploder; upgrade to a modern browser, please) comes from inline SVG markup, incidentally.
+First, when you try to insert an SVG image the usual way, by using the image-insert feature, quite often SVG isn't a recognized format. Blogger, for example, expects images to be GIF, PNG, JPEG, etc. If you try to "place" an SVG image in your blog, the upload won't be accepted.
+
+Shame on Google.
+
+But that's okay, because SVG is just markup, right? And you can put markup inline with your HTML using the edit-raw-HTML mode of the editor widget. It turns out all browsers except Internet Exploder honor raw SVG embedded inline in HTML. For an example, see the source code for this page (the above image was inlined).
+
+But there's a problem. Blogger's editor widget, upon seeing any self-closed tag that it doesn't recognize, such as <g/>, will try to convert it to <g></g>.(even though self-closing tags are perfectly legal, and Blogger itself honors such examples as <br/>.) What's worse, though, is that if Blogger encounters a run of self-closing tags, such as
+
+<use xlink:href="#123" x="1" y="2"/>
+<use xlink:href="#123" x="14" y="23"/>
+<use xlink:href="#123" x="51" y="52"/>
+
+it will try to convert it to
+
+<use xlink:href="#123" x="1" y="2">
+<use xlink:href="#123" x="14" y="23">
+<use xlink:href="#123" x="51" y="52">
+</use></use></use>
+
+which is, of course, wrong, because this creates nested elements where no nesting existed before.
+
+Nine times out of ten, inlined SVG just doesn't render properly in Blogger pages. (And usually, it's because of the problem I just mentioned: self-closing tags.) Bigtime Fail.
+
+The answer is to expand every self-closed tag in your SVG to formal end-tag form—which is impracticable to do by hand in anything but a trivially small SVG file.
+
+I took a crack at solving this problem using regular expressions. The idea is to write a regex that matches self-closing tags, then use the String replace() method to fix everything. It took me an hour of messing around to stumble onto a solution. The code seems to work, although I can't guarantee it's formally correct or will work in every single case.
+
+The regular expression I came up with is:
+
+  var globalPattern =
+     /<([a-zA-Z0-9\-]+)([^/>]*)\/>/g;
+
+This charming little monstrosity tries to match an angle bracket followed by an element name composed of any combination of letters and numbers and hyphens (all legal in XML), followed by anything that's not a forward slash or a closing angle bracket; and then finally it looks for the closing bracket.
+
+To apply this to an SVG page that's loaded in the browser, you have to get the raw source for the page, which isn't hard to do, programmatically, providing you know the following trick:
+
+ function getMarkup( node ) { 
+   return new XMLSerializer().serializeToString( node );
+}
+
+
+Pass document.getElementsByTagName("svg")[0] to this function and you'll be just fine.
+
+Now you need a function that will transform your raw markup to formal closing-tag form. This is what I came up with:
+
+
+function fixSelfClosingTags( markup ) {
+
+  var globalPattern =
+     /<([a-zA-Z0-9\-]+)([^/>]*)\/>/g;
+  var pattern =
+     /<([a-zA-Z0-9\-]+)([^/>]*)\/>/;
+
+  var count = markup.match(globalPattern).length;
+
+  for(var i = 0; i < count; i++){
+     var len = markup.match( pattern )[0].length-2;
+     markup = markup.replace( pattern, markup.match(pattern)[0].substring(0,len) + 
+         "></" + markup.match(pattern)[1] + ">");
+  }
+
+  return markup;
+}
+Okay, so it isn't pretty. It's the best I could come up with (that seems to work) on short notice.
+
+Once you've converted your SVG to formal closing-tag syntax, it can be inlined in a Blogger (or other) web page, and it should render just fine.
+
+Too bad Blogger doesn't make it easier for you to use SVG. Scalable Vector Graphics has been around for almost 20 years. It's time for it to be granted first-class web citizenship, don't you think?

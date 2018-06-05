@@ -1,0 +1,3 @@
+I find myself spending more and more time thinking about garbage collection, not just as a career move but as a fundamental problem in computer science. I don't pretend to have any expertise in garbage collection, mind you. But I find it an interesting problem space. Particularly when you start to talk about things like hardware-assisted GC.
+
+Yes, there is such a thing as GC-aware chip architecture, and the guys who know a lot about this are the folks at Azul Systems. A good starting point, if you want to read up on this, is Pauseless Garbage Collection: Improving Application Scalability and Predictability. Good late-night reading for propeller-heads who need something to do while waiting for the propeller to wind down.

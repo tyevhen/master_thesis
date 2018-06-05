@@ -1,0 +1,7 @@
+I mentioned not long ago the server outages that ensued when Windows 7 beta downloads became available. This is not supposed to happen in the world of cloud computing, of course. You're not supposed to be able to bring down "the cloud."
+
+But there've been a number of high-profile cloud failures. Just in the past 90 days:
+Salesforce.com Crashes
+Black Friday Traffic Surge Overloads Amazon's Surge-Proof Servers
+Cloud Computing Reality Check: Gmail Goes Down For A Day
+Question: Where are you supposed to stand when the sky is falling?

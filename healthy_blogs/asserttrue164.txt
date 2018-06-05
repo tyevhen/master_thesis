@@ -1,0 +1,42 @@
+Are you in the software business? If so, you need to decrapify your products.
+
+Here are some mantras that may help:
+
+Breakthrough products have no superclass. If you're not a programmer, the core idea here is that breakthrough products are not derivative; they don't inherit from an obvious template (the way a Java class inherits from a superclass). They are their own template.
+
+Excellence isn't the same as sucking less. I've worked for companies that advertised their enterprise software as being "best in class," as if that were the ultimate accolade. But what if every product in-class sucks major ass (as is often the case, with enterprise software)? What if your product merely annoys users the least? Then you've won the award for being the tallest short person. Therefore:
+
+Never aspire to be best-in-category when you can define a new category. Don't build a better slide rule. Invent the pocket calculator. Don't just set the bar higher. Design a new bar.
+
+Incremental build-out is not innovation. In software, it's not uncommon for a new release to be heralded as an advancement over previous versions on the basis of this or that set of new features (which might number in the hundreds). Extra functionality may not be what people want or need, though. If you add 100 new features to your product and I use only one of them, have you made my life easier, or harder? You've exposed me to a bunch of stuff I didn't ask for, while simultaneously making the product bigger, harder to learn, and less robust.
+
+A product can meet all of a customer's needs and still be a terrible product. A Yugo will meet 99% of my driving needs but isn't what I want to drive. A Fire phone will meet my phone needs but isn't what I want for a phone. Merely meeting a user's needs is not a meaningful goal, unless you want to be the Yugo of your product space.
+
+Even if you did something insanely great last year, last month, or last week, don't assume you're doing something insanely great right now. Your customers will tell you what's great, after the fact.
+
+Complexity cannot be made pretty. A pig with lipstick is still a pig.
+
+Excellence cannot be retrofitted. If what you're starting with isn't good, start over.
+
+If something's not right with your culture, customers will notice. If your engineering requirements are marketing-driven (and your marketing people are arrogant knuckleheads), it will show in the final product. It always does.
+
+There are no hard problems, only problems that aren't well defined. More time spent on problem definition will often get you to a solution faster. If you don't understand the problem, you don't understand the solution. Start by understanding the problem you're trying to solve.
+
+If documentation is needed, you've failed. No one has time to read how to do something. It should be obvious how to do it.
+
+ ☙ ❧ 
+In Other News
+It's increasingly clear that the Fed will be hard pressed to justify raising interest rates. Today's housing number (new starts down 17% in February) puts another damper on the notion that it's' time to raise rates. The dollar crisis is an even greater constraint. U.S. industrials lost around $19 billion in adverse currency impact in 4Q2014, with 63% of companies reporting currency headwinds in their earnings calls. The Euro is dropping at a rate of almost 7% a month, which means dollar parity is only about 3 weeks away even if the Fed does nothing (which the Fed is good at, fortunately). An uptick in U.S. interest rates would further crush the Euro and bring more earnings upsets. The strong dollar is also crushing commodities more generally. Oil, gold, ags, all headed down.
+
+There are plenty of reasons for the Fed to do nothing, and the Fed (being the Fed) will likely do just that.
+
+Meanwhile, until U.S. industrials learn to hedge their currency risks better, it's time to avoid stocks of U.S. companies with broad international exposure and look to domestic plays in biotech, entertainment, restaurants, etc. as safer investments.
+
+ ☙ ❧ 
+
+The following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.      

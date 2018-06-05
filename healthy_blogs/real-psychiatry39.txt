@@ -1,0 +1,89 @@
+I don't know how many people are aware of it but a crisis of alcohol use was declared about a week ago (1) by Marc Schuckit, MD.  Dr. Schuckit is one of the top psychiatric experts in alcohol use disorders and I have been reading his work for the past 35 years.  His commentary was based on an article (2) in that same issue of JAMA Psychiatry  on the epidemiology of alcohol use in the United states in the 21st century.
+
+Most of the researchers listed as authors of this paper are affiliated with the Epidemiology and Biometry Branch of the National Institute on Alcohol Abuse and Alcoholism (NIAAA).  They are analyzing data collected in the National  Epidemiological Survey on Alcohol and Related Conditions (NESARC and NESARC-III)) during two different time points: 2001-2002 (N=43,093) and 2012-2013 (N=36,309).  Typical response rates were noted for both the initial selections and the individual response rates for the face-to-face interviews.  Both surveys were designed to be nationally representative samples adjusted to account for sampling error and non-response.  I interpret that to mean that the percentages listed in the following table to represent population wide numbers based on these samples. Respondents were paid $90 for participation.  The specific sampling strategies were listed in the paper.
+
+The structured interview was the Alcohol Use Disorder and Associated Disabilities Interview Schedule-DSM-IV Version (AUDADIS-IV) in NESARC and AUDADIS-V in NESARC-III.  The definitions of high risk drinking are noted in the table.  DSM-IV diagnoses of alcohol abuse or dependence were given according to the suggested criteria match.  Various measures of reliability and validity of the structured interview are referenced as being fair to high.  All of the demographic variables noted in the test subjects are noted in the article as well as some discussion of how subgroups varied.  For example very  large increases were noted in practically all subgroups for 12-month DSM-IV AUD diagnoses with subjects in the 65 years and older increased by 106.7%  
+
+
+Metric
+NESARC (2001-2003)
+NESARC III (2012-2013)
+Percentage Increase
+12-month alcohol use
+65.4%
+72.7%
+11.2%
+12-month high-risk drinking
+9.7%
+12.6%
+29.9%
+12-month DSM-IV AUD diagnosis
+8.5%
+12.7%
+49.4%
+12-month DSM-IV AUD among 12-month alcohol users
+12.9%
+17.5%
+35.7%
+12-month DSM-IV AUD among 12 month high-risk drinkers
+46.5%
+54.5%
+17.2%
+
+
+The trend according to this study is only in the upward direction.  The authors speculate about socioeconomic etiologies (unemployment, discrimination, income disparities, stigma of alcoholism) and increased permissiveness in what is acceptable drinking for women.  Subgroup analysis shows these groups had the highest increases in alcohol use.  The authors also point out that there are primary and secondary effects in these groups that can significantly increase the known morbidity and mortality associated with drinking such as more significant alcohol related illnesses in women for the same dose of alcohol due to decreased metabolic clearance and increased likelihood of adverse drug effects due to polypharmacy in both women and the elderly.  They also point out that alcohol related problems seem to have gone under the radar with higher visibility of less commonly used intoxicants like cannabis and hallucinogens.  I would add that permissiveness of intoxicant use in general is a cultural phenomenon and it probably not too surprising that the widespread legalization and hype about cannabis would be associated with increased alcohol consumption.  There are certainly many people with the belief that alcohol alleviates chronic pain, insomnia, anxiety, and depression as well as cannabis.  The popular notion that alcohol is a healthy beverage that provides protection against heart attacks and stroke is undoubtedly another factor.  Few people realize that the maximum number of drinks per day for men and women (2 and 1 respectively) was based on the fact that above that level the risks for cardiovascular disease and cancer increase significantly.
+
+The new study also has some implications for other large scale estimates of alcohol use and the associated morbidity and mortality.  As an example, the World Health Organization came out with a large study in 2014 that reported on data from 2010 and 2012.  Comparison with the NESARC data shows that 12-month alcohol use (WHO v. NESARC III) is fairly close at 68.9 v. 72.7%.  Comparison of 12-month high risk drinking uses different measures.  For WHO, high-risk drinking is defined as at least 60 grams of alcohol in a single day in any 30 day period.  For NESARC III, the definition is 4 or more standard drinks on any day for women and 5 or more standard drinks on any day for men.  In the US, a standard drink is considered 14 g of pure alcohol.  That results in 16.2% of American drinkers being classified as heavy episodic drinkers and 12.6% classified as 12-month high risk drinkers.  From a diagnostic standpoint, WHO estimates that the prevalence of 12-month alcohol use disorders is 7.4% and NESARC III gives and estimate of 12.7%.  It is likely that different methodologies explain the marked difference in prevalence estimate for alcohol use disorders.  The WHO estimate was based on ICD alcohol use disorders as well as disorders representing harmful use of alcohol.  The NESARC III estimate was lay interviewers using a standard interview format to provide as DSM-IV diagnosis.  That means that the WHO estimate for alcohol use disorders based on the NESARC III data would be 20-30% higher than the 12.7% estimate.  A further note on the heavy episodic or high-risk drinking.  In treatment centers it is very common for people seeking admission to be drinking in excess of those rates on a daily basis.
+
+A closely related phenomenon to high risk drinking is binge-drinking.  The CDC uses the same volume definition for high risk drinking but states that it occurs in an unspecified short period of time to elevate blood alcohol content above 0.08 g/dL.  According to their reviews the average binge drinker consumes 8 drinks per episode.  The main risk is alcohol poisoning.  Six people a day die of alcohol poisoning in the US, most of them are white men between the ages of 35 and 64.  Binge drinking carries with it all of the related risks of acute intoxication.
+
+In his commentary, Dr. Schuckit reviews his concerns about the potential implications of alcohol use increases in both women and the elderly.  He points out that elderly patients almost always have co-morbid medical illnesses that will be exacerbated by drinking.  He discussed an intervention that his group did with 500 college freshmen as 4 - 50 minute internet-based videos.  The course was designed to help them recognize their vulnerability to heavy drinking.  The intervention was effective at both 6 and 12 months.  He concludes by focusing in on the threats to research funding in this area - specifically with the proposed cuts to the National Institutes of Health budget.  He suggests that supporting politicians who recognize the importance of research, identifying health crisis, and addressing them.
+
+I think there is a lot of room to be a lot more proactive in our society.  Apart from the cultural myths that I already mentioned, a dangerous one is: "I am not an alcoholic and therefore I don't have any problems with alcohol."  The above research and others point out that it is possible to be a high risk drinker and not have a 12-month diagnosis of an alcohol use disorder.  Psychiatrists see variations of this pattern over the course of their careers.  They may be called on to assess the teenager in the ICU after they had an episode of acute alcohol poisoning after voluntarily drinking too much.  They may be called on to assess people who were violent or victimized when they drank too much.  They may have to do specialized assessments on professionals who engaged in high risk drinking for some reason and ended up placing their credentials and licensure at risk.
+
+It is time to realize that there is much more to alcohol use than being an alcoholic or technically having a diagnosis of an alcohol use disorder.  Even one episode of high risk drinking may end or permanently alter a persons life.  Education on alcohol use is needed to dispel these popular myths and help people negotiate what is commonly a difficult decision in their life.  
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+
+
+References:
+
+1: Schuckit MA. Remarkable Increases in Alcohol Use Disorders. JAMA Psychiatry.2017 Aug 9. doi: 10.1001/jamapsychiatry.2017.1981. [Epub ahead of print] PubMed PMID: 28793142.
+
+2:  Grant BF, Chou SP, Saha TD, Pickering RP, Kerridge BT, Ruan WJ, Huang B, Jung J, Zhang H, Fan A, Hasin DS. Prevalence of 12-Month Alcohol Use, High-Risk Drinking, and DSM-IV Alcohol Use Disorder in the United States, 2001-2002 to 2012-2013: Results From the National Epidemiologic Survey on Alcohol and Related Conditions. JAMA Psychiatry. 2017 Aug 9. doi: 10.1001/jamapsychiatry.2017.2161. [Epub ahead of print] PubMed PMID: 28793133.
+
+3:  World Health Organization.  Global Status Report On Alcohol and Health, 2014 edition. 
+
+4:  CDC Press Release November 20, 2014.  Most people who drink excessively are not alcohol dependent. 
+
+5: Quinn AE, Brolin M, Stewart MT, Evans B, Horgan C. Reducing Risky Alcohol Use: What Health Care Systems Can Do. Issue Brief (Mass Health Policy Forum). 2016 Apr 27;(46):1-50. PubMed PMID: 27911073.
+
+6: Stahre M, Roeber J, Kanny D, Brewer RD, Zhang X. Contribution of excessive alcohol consumption to deaths and years of potential life lost in the United States. Prev Chronic Dis. 2014 Jun 26;11:E109. doi: 10.5888/pcd11.130293. PubMed PMID: 24967831; PubMed Central PMCID: PMC4075492. 
+
+7: Landen M, Roeber J, Naimi T, Nielsen L, Sewell M. Alcohol-attributable mortality among American Indians and Alaska Natives in the United States, 1999-2009. Am J Public Health. 2014 Jun;104 Suppl 3:S343-9. doi: 10.2105/AJPH.2013.301648. Epub 2014 Apr 22. PubMed PMID: 24754661; PubMed Central PMCID: PMC4035890. 
+
+8: Gonzales K, Roeber J, Kanny D, Tran A, Saiki C, Johnson H, Yeoman K, Safranek T, Creppage K, Lepp A, Miller T, Tarkhashvili N, Lynch KE, Watson JR, Henderson D, Christenson M, Geiger SD; Centers for Disease Control and Prevention (CDC). Alcohol-attributable deaths and years of potential life lost--11 States, 2006-2010. MMWR Morb Mortal Wkly Rep. 2014 Mar 14;63(10):213-6. PubMed PMID: 24622285. 
+
+9: Sacks JJ, Roeber J, Bouchery EE, Gonzales K, Chaloupka FJ, Brewer RD. State costs of excessive alcohol consumption, 2006. Am J Prev Med. 2013 Oct;45(4):474-85. doi: 10.1016/j.amepre.2013.06.004. PubMed PMID: 24050424. 
+
+10: Nelson DE, Naimi TS, Brewer RD, Roeber J. US state alcohol sales compared to survey data, 1993-2006. Addiction. 2010 Sep;105(9):1589-96. doi: 10.1111/j.1360-0443.2010.03007.x. Epub 2010 Jul 9. PubMed PMID: 20626370. 
+
+11: Woerle S, Roeber J, Landen MG. Prevalence of alcohol dependence among excessive drinkers in New Mexico. Alcohol Clin Exp Res. 2007 Feb;31(2):293-8. PubMed PMID: 17250622.
+
+12:  WHO Global Information System On Alcohol and Health: http://www.who.int/gho/alcohol/en/
+
+
+Supplementary:
+
+Click to enlarge and clarify the graphic at the top of this post.
+
+Supplementary:
+
+This article was published after the original post and is presumptive evidence that the trend in consumption is real:
+
+Death Rates for Chronic Liver Disease and Cirrhosis, by Sex and Age Group — National Vital Statistics System, United States, 2000 and 2015. MMWR Morb Mortal Wkly Rep 2017;66:1031. DOI: http://dx.doi.org/10.15585/mmwr.mm6638a9

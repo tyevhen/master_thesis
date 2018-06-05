@@ -1,0 +1,41 @@
+The need for managed care and the efficiency of the electronic health record are two of the biggest myths in the American health care system today.  Here is what really happens.....
+
+I have had the occasion to be a miserable patient for the past 6 weeks.  That is what happens when you have asthma and nothing works or at least nothing seems to work very well.  Throughout the course of the illness I have dutifully kept my primary care physician up to date, but so far I have ended up seeing 6 different physicians over that time.  I received prescriptions for three different inhalers, a nebulizer machine, and two different varieties of nebulizers - albuterol and levalbuterol.  Hundreds of dollars of medications not covered by my health insurance that don't work or cause significant side effects.  The levalbuterol was prescribed because it was supposed to have fewer side effects and it worked out just the opposite and caused significant side effects with a heart rate up to 140 beats per minute.   I needed to take these treatments 3 times a day followed by another inhaler.  This is a story of what should be a very simple task of getting enough medicine to keep breathing and in this case it is the albuterol sulfate nebulizer solution.  For anyone not familiar with this product it comes in disposable 3 ml plastic vials.  You just crack it open and pour it into a nebulizer machine and inhale the solution until it is gone in about 5-10 minutes.
+
+
+
+The nebulizer ampules come packaged inside a foil envelope inside a box.  The prescription on the other side of this box reads: "Nebulize 1 vial every 6 hours as needed for wheezing or shortness of breath."  Assuming that I continue to use them at a rate of 3 vials, that is about 90 per month.  About a week into it, I noticed I had just a couple of vials left and called the pharmacy to get more.  This is how it went (M=me, P=pharmacy, from memory and not a transcript):
+
+M:  Yes - I am calling to refill a prescription for albuterol nebulizer solution (details given)
+P:   Sorry but you have no refills on that prescription we will have to fax your doctor (reads MD name)
+M:  That was the urgent care doctor, my doctor's name is Dr. Smith (details given)
+P:   Well we will have to fax him then.
+M:  I think you may have made a mistake on the original prescription since the paperwork I have from urgent care says that I should have gotten 75 vials and I only got 25 (see lower left corner of the label)
+P:   No that is correct, we dispense them by volume rather than number.  The insurance company mandates that we do it that way - like cough syrup.
+M:  That doesn't make any sense to me.  Each one of these vials is supposed to be a single dose and if I am taking three a day that is 90 vials per month.
+P:   The only other way to get more vials is if your doctor writes "90 vials" on the prescription that he sends us.....
+M:  He already wrote 75 and you gave me 25.
+P:   No he has to write "75 vials" and spell out "vials".
+
+At that point, I leave both a voicemail and an e-mail through the health plans messaging system for my personal physician to send in a new prescription for 75 vials of the solution.  The next day we are having one of the largest snow storms of the year and I am commuting 80 miles a day on glare ice and no visible road surface.  My commute time is 2 to 3 times normal.  I call ahead to make sure the prescription will be ready:
+
+M:  I am calling about that albuterol nebulizer solution.
+P:   We got the prescription from your doctor, but the insurance says they won't approve it because it is too early.
+M:  What do you mean it's too early?  I am using it exactly as directed and you are only giving me 1 weeks worth of medication at a time.  How can it be too early?
+P:   Well that's what they are saying....
+M:  Look - I need this medicine to breathe.
+P:   OK the medicine is approved.
+
+I am questioning what is happening here.  I know she was not on line with the "insurance company".  Why did she suddenly change her mind on giving me a medication that I am essentially paying for out of pocket?  Do they have a secret directive that tells them to only give up the medicine if the patient appears to be in respiratory distress?  Why does the high deductible insurance have anything to say about this anyway?  They are policing my prescriptions for non-addicting medication and they have become an obstacle to my health care.   It made me think about all of the "Dear Dr." letters that are sent out by pharmaceutical benefit managers (PBMs) and managed care organizations (MCOs) where they claim their want to "partner" with physicians to improve the overall health care of the patient.  It is typically advice about drug interactions.  They rarely have the drugs right and never have the accurate prescribing physicians correct.  Is this how "partnering" improves my health?  Was she just bluffing to keep insurance company money off the table?  Are big retail pharmacies that intimidated by managed care?
+
+I didn't have time to figure it out.  The snow was still coming down and there was a question about whether or not I was going to make it with four wheel drive.  An hour and a half later I pulled up to the pharmacy drive through and picked up a thoroughly stapled bag containing the vials.  I tore it open in the parking lot and my suspicions were confirmed.  There was another box of 25 - 3 ml vials, not the 75 I had requested or the "75 vials" that my physician was supposed to have ordered.  Two days of work going through the most sophisticated electronic health record available and nothing had changed.
+
+This is one isolated example of a sequence of events that probably repeats itself tens of thousands of times per day.  It doesn't take much to realize that the combination of obstacles and ineffective medications that occurs by this process is a windfall for both the managed care industry and the pharmaceutical industry.  If you decide that you want to investigate it and find out exactly what went wrong, that is a full time job.  If you want to file a complaint with the state (What - a wheezing asthmatic needs nebulizer solution?) you may not ever be able to get that accomplished.  From working both sides of the prescription process, all that I know is the system is set up to obstruct care.  These unnecessary processes waste everyone's time and money.  It doesn't matter if there is an electronic health record if it means the patient is driving 40 miles back and forth to the pharmacy per month instead of 10, making another 6 calls through time consuming automated telephone queues and paying another 3 copays.  This activity is all based on the false premise that an electronic health record, an algorithm or a business strategy is more important to your health care in the long run than your physicians input.
+
+Nothing could be further from the truth.  
+
+George Dawson, MD, DFAPA
+
+Supplementary 1:  It is one week since the original post and the pharmacy/insurance company insisting on dispensing me one week of nebulizer solution instead of one month as requested.  I called in for a refill yesterday and asked if it would be for one week or one month.  The pharmacist told me exactly the same thing they did last week - they have to submit a request to my physician for the correct number of ampules.
+
+To briefly review, that request has been made by me four times (twice to MD office by phone and secure e-mail and twice to the pharmacy).  They did tell me I could pick up another weeks worth of the medication while I wait for the larger prescription.  I went ahead and did that and have not heard anything on the other prescription 24 hours later.

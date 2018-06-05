@@ -1,0 +1,58 @@
+Today I want to give a short bio-hacking code lesson, and I want to keep it as simple as possible in case you're just starting to use JavaScript and want to see what kinds of things it can do. This lesson could prove handy to you even if you're not a gene hacker, because it shows how easy it is to manipulate text in the browser.
+
+For this example, I am going to assume that you have a text file open in the browser. In particular, I'm going to assume the text file consists of a listing of two genes sequences in FASTA format, which is actually very simple: FASTA consists of a header line that starts with the > (greater than) angle bracket, followed by one or more lines of AGTC base sequence data (if it's a nucleotide sequence) or a bunch of letters (KPRMIV etc.) if it's a protein sequence. For example:
+
+>M. leprae MBLr_2224...    <-- this is the header
+ATGGCGGTGCTGGATGTC...      <-- this is the data
+
+Your file might have several genes in FASTA format, one after the other. The question is: How can you read this data with JavaScript?
+
+Actually, it's extremely easy to read text data. Open any text file with your browser, then open a JavaScript window: With Firefox, use Shift-F4 to bring up the Scratchpad, or with Chrome use Control-Shift-J. To read the text into a JavaScript variable called text, just type the following line into the script editor:
+
+text = document.body.textContent;
+
+Execute this code with Control-L in Firefox or by simply entering a carriage return in Chrome. (If Firefox fills your Scratchpad with text, bracketed by /* and */,  that's good; it means the code worked. Delete it and proceed.)
+
+Suppose you have several FASTA records in a row and you want to have an array of gene data. The easy thing to do is "split" the records at each header, discarding the header:
+
+r = />[^\n]+\n/g;
+genes = text.split( r );
+
+NOTE: To enter more than one line of code in the Chrome console, you have to hold the Shift key down before hitting Enter. Otherwise, Enter executes the code.
+
+The first line defines a regular expression (r) for the pattern: "greater-than symbol followed by one or more non-newline symbols, followed by a newline." (The caret symbol ^ means to negate whatever's in between the square brackets.) When this code executes, genes will be an array of data, but because of the way split() works, the first item (item zero) in the array will be empty, so get rid of it with:
+
+genes.shift();
+
+Now the genes array will contain gene data. The data for gene No. 1 will be in gene[0], the data for gene No. 2 will be in gene[1], etc.
+
+Incidentially, if you want an array of headers, just do:
+
+headers = text.match( r );
+
+No need to do headers.shift(). The match() operation creates an exact array.
+
+If your genes are aligned, you can compare them, base to base, in a loop. (If your genes are not aligned, create an alignment using an online ClustalW alignment tool or using the popular Mega6 program.) The following loop construct compares the first 300 bases in two genes, and tallies the differences according to whether the difference occurred in codon base one, base two, or base three:
+
+snp=[0,0,0]; // array to hold base 1,2,3 results
+gene1 = genes[0];
+gene2 = genes[1];
+  for (var i=0; i < 300; i++)
+   snp[ i % 3 ] += gene1[i] != gene2[i];
+
+You can display the results in the console simply by adding (on its own line) snp; or console.log(snp). Or if you want to see it in a dialog, execute alert(snp).
+
+The final line of code deserves explanation. Results are placed in the snp (single nucleotide polymorphism) array according to whether the "hit" occurred in base 1, base 2, or base 3 of a codon. The i % 3 construct (i modulo 3) means divide i by 3 and throw away the "answer" but keep the remainder. (So for example, 5 % 3 equals 2, 6 % 3 equals zero, 7 % 3 equals 1, etc.) As i increments, i % 3 simply takes on values of 0, 1, 2, 0, 1, 2, etc.
+
+On the right side of the equals sign we have gene1[i] != gene2[i]. This means we want to compare the two genes at an offset of i, and if they are not equal (!=), tally the resulting value (true, or 1) numerically. The numeric result is added to the appropriate slot in snp. Note that JavaScript treats true as having a numeric value of one and false as having a numeric value of zero. It knows to cast the boolean value to a number because of the += symbol (which means numerically add the following value to the existing value of the lefthand variable).
+
+I hope this short tutorial wasn't too painful. If you're new to JavaScript, my advice is: Experiment in the console (Firefox's Scratchpad or Chrome's JS console) a lot, and get familiar with the string functions split() and match(), because they can be incredibly useful, not to mention speedy. Either of those two functions can take a string argument or a regex. But remember to put a 'g' after the regex if you want the operation to occur globally throughout the string. For example:
+
+"abcdefabcdef".match( /abc/ )
+
+will only match the first occurrence of abc, whereas
+
+"abcdefabcdef".match( /abc/g )
+
+
+will match both occurrences of abc and give you an array of matches.

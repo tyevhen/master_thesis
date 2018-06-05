@@ -1,0 +1,41 @@
+[Posted by Roy]
+I attended yesterday's hearing, missing the FDA's presentation in the morning, but arriving for the public comments part and the afternoon deliberations. (Check out the FDA's 150-page .pdf testimony.) I was also among the 75 people who provided testimony to the committee. The meeting lasted a total of 9.5 hours!
+
+
+This is the first time I've been to an FDA Advisory Committee meeting. These are public meetings (required to be public, by law) in which the committee members discuss the issues and make decisions. The FDA presents data to them; in this case, it was data from numerous clinical trials solicited from big pharma to especially get at the question of induction of suicidal thoughts or behaviors by antidepressant medications. After the committee hears these data, they listen to public testimony. After that, they discuss what they heard, and respond to the FDA's recommendations in the form of support, opposition, or other recommendations.
+
+The committee is advisory in nature, meaning that the FDA takes what they say into consideration, but is not bound by their recommendations. The FDA does typically follow their recommendations. Three of the committee members could not vote due to conflicts of interest (receiving industry funds for clinical research and such).
+
+In this post, I will first cut to the chase and tell you what the committee's recommendations were. In a second post, I'll give you more details to flesh out some of the discussion points and concerns that the committee raised, and also discuss the public testimony, some of it being very gut-wrenching and impassioned.
+
+
+If I had to choose one image that best describes the entire hearing, it is the one above.
+
+What this demonstrates is that as age goes up, the relative risk of suicidal thoughts or behavior goes down. The numbers plotted are the Odds Ratios... meaning that, compared to the folks taking placebo, what are the odds that those taking antidepressants are likely to have either thoughts of suicide or actual suicidal behavior. So, an O.R.=1 means that the chances are the same, which means no difference. An O.R.=2 means your chance is doubled. An O.R.=0.5 means your chance is halved. The black square is the estimated O.R., and the gray bar represents the 95% Confidence Interval... meaning that the statistical probability of the true O.R. being within the gray bar is 95%. Thus, if the gray bar touches 1 (the vertical dashed line), then the two groups (placebo and medication) are NOT statistically significant. If they do not touch 1, then they ARE statistically significant. Got it? To put it most simply, left of the dashed line is good, right of the line is bad.
+
+
+So, the pediatric Odds Ratio does not include 1; this result supports the decision made in 2004 to add a black box warning that says these medications are associated with an increase in suicidal thoughts or behavior. (As it turns out, it is just thoughts, not behavior, but I'll address that in the second post.)
+
+The 18-24 year-old Odds Ratio does include 1 (0.91-2.70), thus we cannot say that there is an increased risk.
+
+The 31-64 year-old Odds Ratio just includes 1, but the estimated O.R. is less than 1, meaning that we cannot say there is a decreased risk, but there almost is.
+
+For the over 65 group, there is clearly a significantly decreased risk of suicidal thoughts or behaviors. Note that these appear to be rare events... 12 people out of 3227 taking medication, and 24 out of 2397 taking placebo reported suicidal thoughts or behaviors. Hard to believe that only 1% of people with major depression had suicidal thoughts, huh?
+
+
+Okay, so here is what the committee decided:
+
+There is a clear relationship between age and suicidal thoughts or behaviors in people taking antidepressants.
+
+Keep the black box warning that currently exists, but be very cautious about discouraging depression treatment and attempt to include balancing language that states that the risk of suicidal thoughts or behaviors when not taking medications should be considered. (They do not have data that tells them what that number is.)
+
+Encourage careful monitoring of all people being treated for depression.
+
+Extend language in the black box to indicate that the increased risk of suicidal thoughts or behaviors extends to around age 25, where it starts to drop off and become a decreased risk in the 30's and up.
+
+Encourage collection of data on the "activation syndrome" that some people get when taking antidepressant medications, especially SSRI's.
+
+Encourage collection of data which differentiates between suicidal thoughts and suicidal behaviors.
+
+
+More later this evening.

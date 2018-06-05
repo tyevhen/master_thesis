@@ -1,0 +1,16 @@
+I just became aware of this article by Lucy Hornstein, MD on modifying the current documentation process and found it to be quite exciting because I have had very similar thoughts for some time:
+
+I may be a fellow dinosaur, but I could not agree more.  The vast majority of documentation especially in the EMR is worthless largely because of the proliferation of stereotypical documentation to fit business and government requirements.  The businesses wanted to slow us down at least until they figured out that they could literally reimburse us for whatever they wanted irrespective of the billing code or note.  The politicians want all the bullet points because of the erroneous notion that coders can actually read a note and objectively  decide on the correct code (they can't) and therefore they can fight fraud. 
+
+In the meantime, vast areas of hard drive space are occupied with worthless data because of these notes and the trees die anyway because requesting the information results in an EMR driven telephone book sized tome  with very little information (if any) on each page.
+
+The only thing worse is the EMR driven initiative to rapidly assemble a massive note from existing data using smart text and a few key strokes.  I was on a committee once where we reviewed 10-16 page daily progress notes compiled in various fonts.  The majority of each note was already listed in the record.
+
+I can recall working on a very busy neurosurgical service where we saw 30 patients a day (6-10 in the NICU) and did all the documentation in 2 - 3 hours before going to the OR.  All of the progress notes for the entire hospitalization generally fit on one page.
+
+I have been thinking about Dr. Hornstein's approach for some time and have come to the same conclusion.  The current notes and coding system is basically driven by paranoia and not patient care.  Any EMR system worth its salt should be able to display all of the daily relevant data and provide a check box so there is documentation that the attending reviewed it all and signed off instead of the physician doubling as scribe and displaying it all (after a flurry of mouse clicks) in a massive note.  The actual note needs to reflect the fact that an intelligent life form visited the patient and there is a thoughtful analysis and plan. 
+
+
+That doesn't happen by filling up templates in an electronic medical record.
+
+George Dawson, MD, DFAPA

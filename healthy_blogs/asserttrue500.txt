@@ -1,0 +1,21 @@
+As the dimensionality of a (hyper)sphere increases,
+more and more of the volume is near the surface. The pink
+and red portions of the (hyper)spheres shown in cross-section
+here each contain 50% of the volume. 'N' is the dimensionality.
+The common supposition is that when your knowledge of something is "surface deep," it's tantamount to knowing nothing. But is that always true? What if you understand many facets of a complex topic, some perhaps at deep level, but you lack formal training in those facets? Does it mean your understanding rounds off to zero? Hardly.
+
+Here's one way to look at it. Suppose the subject domain (whatever it happens to be) can be represented, conceptually, as a sphere. Everything there is to know about the subject maps to some region inside the sphere. "Total knowledge" represents the total contents (the total volume) of the sphere.
+
+If the sphere is three-dimensional, half the volume is contained in an inner sphere that has 79.37% of the radius of the overall sphere. (Stay with me on this for a moment, even if you're not a math person.) For purposes of discussion, we'll consider a sphere of radius 1.0 (a so-called "unit sphere"). By comparison to a unit sphere, a sphere that has a radius of 0.7937 contains half the volume of the unit sphere. The reason for this is that volume grows as the cube of the radius, and the cube root of 0.5 is 0.7937. So that's what I mean when I say that the innermost 79.37% of a sphere (any 3-dimensional sphere), as measured in terms of its radius, contains 50% of the volume of the sphere. The outermost 20.63% of the radius bounds the outermost 50% of the sphere's volume.
+
+This is summarized in the topmost portion of the accompanying graphic, where we see the cross-section of a sphere with the innermost half of the volume shaded in pink and the outermost half shaded in dark red. The boundary between the two half-volumes starts at a point on the radius that's 79.37% of the way from the center to the surface.
+
+Now suppose we consider a hypersphere of dimensionality 10. That's the middle sphere of the graphic (the one that has "N = 10" next to it). The volume of such a sphere grows as the tenth power of the radius. Therefore the inner and outer half-volumes are delimited at a point on the radius that is 93.3% of the way from the sphere's center (the tenth root of 0.5 is 0.93303). Again, the graphic depicts the outer half-volume in dark red. Notice how much thinner it is than in the top drawing.
+
+If we step up the dimensionality to N = 30, the half-volumes are delimited at the 97.16%-radius point. Half the volume of the hypersphere is contained in just the outer 2.84% of radius.
+
+You can see where I'm going with this. As the dimensionality N approaches infinity, all of a hypersphere's volume is contained in the surface.
+
+So if the dimensionality of a problem is large enough (and you're willing to buy into the simple "volume is knowledge" model set forth earlier), surface-deep knowledge can be quite valuable indeed.
+
+The next time someone tells you your knowledge of something is only "surface-deep," consider the number of dimensions to the problem, then tell the person: "Dude. This is an N-dimensional problem, and since N is high in this case, surface-deep knowledge happens to be plenty. Let me explain why . . ."

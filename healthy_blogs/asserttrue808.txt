@@ -1,0 +1,3 @@
+It's not particularly easy to find regular-expression examples on the Web, but Michael Stutz's Hone your regexp pattern-building skills (at the IBM developerworks site) contains tons of practical examples of regular expressions you can use for form validation and other purposes. While the article is aimed mainly at UNIX professionals (and therefore contains a lot of mentions of egrep and other shell-command cruft), the actual regex syntax used in the examples is POSIX-based and thus the examples should work fine in JavaScript.
+
+If you need to bone up on regular expressions, and you like the "learn by example" approach, check out Stutz's article. It'll get you up to speed quickly.

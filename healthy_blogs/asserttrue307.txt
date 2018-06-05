@@ -1,0 +1,56 @@
+Recent findings in virology have forced biologists to consider many notions that just a few years ago would have seemed heretical and/or science-fiction-like. For example, there is now serious discussion of the possibility that cellular life descended from viruses (the Virus World theory; see also this paper). A growing (but still minority) viewpoint is that viruses should be considered symbionts rather than simply parasites (see the review by Villereal). Some have dared to propose that the eukaryotic cell nucleus actually stemmed from a virus. Others have speculated the reverse: that the large DNA viruses are actually escaped, spore-like nucei. Meanwhile, some say that during an earlier RNA World, viruses became the original inventors of DNA.
+
+There's no question that large viruses of the NCDLV class have nucleus-like properties. Within a short time of infection, these viruses set up a complex structure inside the cell known as the virus factory, and the factory looks a lot like a cell nucleus. The authors of a recent paper on Mimivirus (the famously huge virus that infects freshwater amoeba) admitted that in previous work, they did, in fact, mistake the virus factory for the nucleus. (See photo.)
+
+Which is the nucleus and which is the virus factory? In this photo, VP is a virus particle (of the enormous mimivirus) developing inside Acanthamoeba. A smaller virus factory (S) is just beginning to form on the left.
+
+Macroscopic aspects aside, the large "nucleocytoplasmic" viruses (some of which infect animals and marine life, not just amoeba) bring with them many genes for enzymes that are normally found in a cell nucleus. I'm not talking about genes for DNA polymerases, topoisomerases, etc., but genes that act on small molecules. In a previous post, I mentioned the example of PBCV-1 (a virus that infects the alga Chlorella) having its own gene for aspartate transcarbamylase (ATCase), which is an enzyme that catalyzes the first committed step in pyrimidine synthesis. This enzyme (common to most living things) is predominantly found in the cell nucleus of higher organisms.
+
+There are other examples. Many NCLDV-group viruses have a gene for deoxy-UTP pyrophosphatase, an enzyme that breaks the high-energy phosphates off dUTP so that uracil isn't accidentally incorporated into DNA. One can imagine that after a virus invades a cell and unleashes its nucleases on the cell's own RNA, many ribonucleotides (breakdown products of RNA) will be liberated; and many of these will then be reduced to deoxy-nucleotides (by ribonucleoside-diphosphate reductase) in preparation for viral DNA synthesis. As it happens, dUTP is quite easily incorporated into DNA (and is promiscuous in its Watson-Crick pairing with other nucleobases); the resulting malformed DNA can trigger apoptosis in some cells. The virus takes no chances. It brings its own dUTPase to make sure uracil never gets into its DNA by mistake.
+
+Some viruses bring their own gene for thymidylate synthase, to bring about the conversion of dUMP to dTMP (in other words, methylation of uracil, in its deoxy-ribonucleoside-monophosphate form, to give thymidine monophosphate). Some also have a gene for thymidylate kinase, which converts dTMP (often just called TMP) to dTDP (or TDP).
+
+Yet another "small-molecule" enzyme encoded by large DNA viruses is ribonucleoside-diphosphate reductase (RDPR). This enzyme is fundamental to the whole DNA synthesis enterprise. Its job is to convert ordinary ribonucleotides to the deoxy form that DNA needs. Without this enzyme, you can make RNA but not DNA. So it's typically found in the cell nucleus (in higher organisms).
+
+It turns out, a gene for RDPR is contained in a great many viral genomes. When I did a BLAST search of the protein sequence for Chlorella virus ribonucleoside reductase against the UniProt database of virus sequences, the search came back with 863 hits, spanning viruses belonging not only to the NCDLV class (pox, mimivirus, phycodnaviruses, etc.) but also the Herpesviridae, plus many bacteriophage groups as well. In terms of the sheer variety of virus groups involved, it's hard to think of another "small-molecule-processing" enzyme that spans as many viral taxa. We're talking about everything from relatively small bacteriophages to mimivirus, and lots in between.
+
+The reductase gene is so widespread, it made me wonder what its phylogenetic distribution might look like. In other words: Are viral RDPRs related to each other? Are they related to the host's own RDPR? Does the enzyme's evolution follow the viral path, or the host path?
+
+Just for fun, I obtained a number of ribonucleoside reductase (small subunit) protein sequences for viruses, plants, animals, bacteria, fungi, and various eukaryotic parasites (using the tools at UniProt.org), then fed the results to the tree-maker at http://www.phylogeny.fr. What I got was the following "maximum likelihood" phylogenetic tree. (See this paper for details on the tree algorithm. Also, be sure to check out this nifty paper to learn more about how to read this sort of tree.)
+
+For convenience, names of viruses are depicted in blue. Notice how, except for the Vaccinia-Variola group, which is deeply nested, most of the viral nodes are ancestral to most of the higher-organism nodes; you have to go through many levels of viral ancestors to get from the original, universal ancestor (presuming there was one) to the reductase gene of the pig, say. From this diagram, it would appear that the Pox-family reductase gene is derived, in some way, from a highly evolved host. But that's the exception, not the rule. All of the other viral genes are outgroups and/or, more usually, ancestors of one another.
+
+Mimivirus is fairly high up the chain and shows relatedness to two very common freshwater and soil bacteria (Pseudomonas and Burkholderia).
+
+It would be fun to go back and remake the tree, adding more organisms. (If you end up trying this, let me know the results.) For now, I'm comfortable concluding that except for pox-family viruses, the ribonucleoside reductase produced by major DNA viruses and phages are not derived from current-day hosts. A parsimonious (but not necessarily correct!) explanation is that the phage reductases are ancestral to host orthologs; but it is also possible that the phage reductases derive from very ancient hosts (not depicted in the tree), with current-day hosts appearing to derive from phage genes when in fact the similarity is to a long-ago host ortholog. In any case, the tree shows that organismal RDPRs tend to be related to organismal RDPRs and viral versions are related to viral versions. What we don't see anywhere is a viral sub-tree growing out of a host sub-tree (as would be the case if the viral enzymes simply derived from modern host enzymes).
+
+The UniProt identifiers of the protein sequences used in this study are given below in case you want to try to replicate these results (or perhaps extend them). To retrieve the protein sequences in question, go to http://www.uniprot.org/ and click the Retrieve tab, then Copy and Paste the following sequences (one to a line) exactly as shown:
+
+
+O57175
+P33799
+M1I7H3
+E5ERR7
+Q6GZQ8
+Q77MS0
+P28847
+M1I8A4
+W0TWG5
+Q7T6Y9
+Q9HMU4
+T0MT29
+201403222BWOVN08AD
+B3ERT4
+F2II86
+F2L908
+U7RFH3
+Q4KLN6
+I3LUY0
+B9RBH6
+Q9LSD0
+S8GD97
+W4I9N3
+Q4DFS6
+A4HFY2
+G3XP91
+S8B144

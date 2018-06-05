@@ -1,0 +1,30 @@
+I've been remiss in not posting more often here. Been carried away curating news for my Twitter account. But speaking of which: I want to share a hack with you (please stay with me here even if you're not a coder) for getting a list of Twitter names from a web page. This is a really quick and dirty hack, but also relatively easy. I encourage you, even if you are not a coder, to try this simple experiment. Ready?
+
+First, go to a Twitter window or tab, preferably the one at https://twitter.com/i/notifications.
+
+In Chrome, type Command-Shift-J. (Firefox: Shift-F4.) That will make a console window appear.
+
+Now Copy and Paste the code shown below into the console window.
+
+m = document.body.textContent.match( /@[_a-zA-Z0-9]+/g);
+lut={}; 
+for (i=0;i<m.length;i++) lut[ m[i] ]=1; // undupe
+r=[]; for (k in lut) r.push(k);
+r.sort().join('\n');
+  Okay. In Chrome, you execute the code by hitting Enter. In Firefox's Scratchpad you'll need to do Control-L. In either case, executing the code should cause Twitter names (like @kasthomas) to appear in an alphabetized list, inside the console.
+
+Now you can cut and paste those names as desired, to do with as you please.
+
+Note: The code indiscriminately grabs all Twitter names on the page. It doesn't attempt to do anything special like just grab names of people who Retweeted you. (Left as an exercise for the reader.)
+
+I often use this trick to harvest names of people to gang-thank in a Tweet. (On Fridays, I tend to thank a lot of people for using the #FF hashtag on me.)
+
+Try it.
+
+Code explanation: The first line uses a regular expression to match names of the form @letters_or_numbers. The second line creates a lookup table (with the clever name lut). The third line stuffs names into the table. Doing this, in this particular fashion, has the side effect of unduplicating the names.
+
+The fourth line creates an array and stuffs the names into it.
+
+The fifth and final line sorts the array and prints it to the console, one name to a line.
+
+Ain't pretty. Kinda fugly. But it works, right?

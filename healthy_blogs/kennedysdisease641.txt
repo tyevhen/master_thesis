@@ -1,0 +1,15 @@
+Over the last five years I posted several articles on robotic devices that may someday be available to assist those of us living with Kennedy's Disease.The Nikkei Asian Review published an article on the latest success in this amazing area of medicine.
+_______________________
+Wearable walk-assist gets green light for sale in Japan
+
+Cyberdyne's HAL for Medical Use, lower limb type, is designed to help patients with such conditions as ALS and muscular dystrophy.
+TOKYO -- Japan's health ministry approved on Wednesday sale of a wearable walk-assist robot for use in medical facilities, underscoring the government's push to promote such products as part of growth strategy.
+     The HAL for Medical Use, lower limb type, from startup Cyberdyne is the first wearable medical robot approved for sale in Japan.
+     The product is designed for use in healthcare facilities by patients with eight incurable conditions including amyotrophic lateral sclerosis (ALS), muscular dystrophy, spinal muscular atrophy, and spinal and bulbar muscular atrophy, given height and weight requirements.
+     Cyberdyne originated at the University of Tsukuba. Yoshiyuki Sankai, a professor there, developed the technology and heads the company as president.
+     Sensors attached to the thigh and other parts of the body detect the weak signals from nervous system, and the motor-powered limbs facilitate the movement of the patient's joints by leading them in the desired direction. This helps the body remember how to walk, according to the company.
+     The robot could delay the progress of a disorder, or help regain leg function.
+     Clinical trials at a national hospital in Niigata Prefecture and elsewhere showed that 24 patients who underwent nine sessions of exercises over a three-month period could walk greater distances than those who did not undergo such exercises.
+     "We hope to introduce it initially to eight hospitals including the Niigata hospital," Sankai said. If the treatment qualifies for insurance coverage, the company will work to expand the application to spinal cord conditions, too. ...
+
+To read the entire article, follow this link:   http://asia.nikkei.com/Tech-Science/Tech/Wearable-walk-assist-gets-green-light-for-sale-in-Japan?page=1

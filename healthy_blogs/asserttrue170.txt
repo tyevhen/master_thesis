@@ -1,0 +1,45 @@
+A few years ago (2010), a small Swiss startup started something that caught fire: They had the idea that what people are really doing, on social media, is curating "timeline news," and those timelines (from Twitter, Facebook, etc.) should be available to view graphically, as newspaper-like web pages, with links shown visually, in cognitively easy tiles (graphic+headline+link+blurb), a la Buzzfeed, only, you know, less obnoxious? What's more, people should be able to syndicate their news pages to followers, who in turn will repurpose newsbits into their news pages, etc.
+
+Paper.li was the result, and you see it every day in your Twitter feed: "The Joe Blow Daily is out!"
+
+Fast-forward five years. Paper.li has raised $7 million and forges ahead, with millions of users. But they are falling behind quickly. In fact, they're history, just about.
+
+What happened? Flipboard happened (with a reported 250,000 new members a day). RebelMouse happened. Scoop.it happened. All monster success stories.
+
+Or are they?
+
+Paper.li claims to have 3.7 million users, but a quick check of http://www.similarweb.com/website/paper.li shows them with a global rank of 23,095 and only 2 million visits a month. Upstart RebelMouse has a rank of 14,067 and 2.2 million visits a month, whereas Scoop.it ranks 4,974, with 8 million visits a month. All of which pales next to Flipboard's global rank of 1,447 and 18.7 million visits a month.
+
+If we compare Scoop.it, Paper.li, and RebelMouse.com for Google searches, we get:
+
+
+The reason I didn't overlay Flipboard on this chart is that it flattens the other 3 curves to invisibility. Flipboard utterly dominates.
+
+Does this mean you should give up your Paper.li account and switch to Flipboard? Not exactly. These sites do different things. Paper.li is still a good (easy) way to publish your Twitter feed as a news page that others can consume. Flipboard, as far as I can tell, doesn't explicitly offer that mode of "publishing," preferring, instead, that you aggregate news from around the web (rather than straight from your social timeline).
+
+The bottom line is that if you're interested in making a web page out of your timeline, and publishing it for others, the best ways to do it are Paper.li and RebelMouse. If you're interested mainly in aggregating stories you've spotted on the web directly into a news page (and optionally pushing those stories to your Twitter timeline), you need Scoop.it.
+
+The best use case for Flipboard is: If you're a consumer (not so much a publisher) of news and you want to gather diverse stories (based on interests and search terms) into your own custom newspaper that you can scan every day for major news, Flipboard is da shit  what you need.
+
+Paper.li puts ads in your face and junks up the page. If you want to insert your own ads on the page or have analytics or collaboration features, you need to upgrade to the Pro version for $9/month.
+
+When would you choose RebelMouse over Paper.li? Um, just about always, I think. Paper.li is ugly, puts Google ads in your reader's face, and offers no analytics in the free version. RebelMouse offers good team (collaboration) features, gives you free analytics, is extemely well optimized for mobile, and looks great all the time.
+
+RebelMouse has a cleaner design than Paper.li and offers many of Paper.li's premium features in the free version.
+
+All of the curation apps come with a bookmarklet that lets you designate web stories for syndication on your news page in real time, which is a cool bit of magic that keeps you from having to stay in the Scoop.it (or other) main app while you curate. You can also use the Scoop.it bookmarklet to scoop stories to your Twitter timeline, and have the RebelMouse feed (powered by your timeline) slurp the scoop-generated tweet into your RebelMouse page. (Got that? Okay. Let me try again: While you're looking at someone's blog, you can Scoop the blog, and it appears on your Twitter timeline as a tweet. But your RebelMouse page is "listening" to your timeline, too, so the story also magically winds up on your RebelMouse page.)
+
+So decide what you're mainly wanting to do. Are you interested in making a nice web page out of your Twitter timeline? RebelMouse and Paper.li excel at that. Want to push stories, as you visit them, onto a web page and/or a timeline? Scoop.it.  Want to create a custom news page that brings you fresh news from around the web every day automagically? Flipboard.
+
+The feature overlap between these sites is extensive, and some do certain things better than others. (Tip: If you're a marketer, a key area you'll want to explore is the various sites' handling of e-mail subscriptions and notifications.) My advice is to spend a few minutes test-driving each one before deciding which one serves you best. Enterprise users seem to be lining up behind RebelMouse for its great collab features, analytics, and mobile optimizations. Scoop.it can be instrumented with Google Analytics, but that's something you do manually. Flipboard is great for mobile and has gained an enormous following in a short amount of time; if the company ever goes public, it will be a huge sensation (until the social bubble bursts).
+
+Paper.li? Alas, poor Paper.li. You started this whole mess, and look at you now: Just another wallflower at the orgy.
+☙ ❧
+
+The following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+   
+
+If you enjoyed this post, won't you pass the link along on social media? Thanks! Meanwhile, have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.     

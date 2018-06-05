@@ -1,0 +1,14 @@
+Yesterday, Drug Target Review published a report on a Kennedy's Disease research project taking place at the Molecular Biophysics Lab in Barcelona, Spain.
+
+Below is a section of the report. You can read the entire report by following this link: Discovery of Molecular Protection Linked to Kennedy's Disease .
+
+Leucine residues
+Thanks to access to one of the main Nuclear Magnetic Resonance facilities in Europe, located at the University of Florence, for the first time the scientists have studied the protein in a test tube. They have observed that right next to the glutamine chain there is a region comprised by four leucine residues that allay the effects of the mutation.
+
+The leucine molecules favour the folding of the polyglutamine chain into a helix, a structure that prevents the chains from adhering to one another. However, the impact of the leucine molecule on the glutamine region is limited, and if there are many glutamine amino acids, the chains do not fold. Instead, they stretch out like rods, stick to each other, and end up forming a fibrous wall.
+
+“We have seen that four leucine molecules delay this process. What would happen in the presence of six?” asks Salvatella. “Conceptually speaking, one clever way of delaying the aggregation could be to use drugs to strengthen the effect of the leucine residues that have so much influence on the mutation site that causes the protein to aggregate.”
+
+Wikipedia explains Leucine and its effects. I found this interesting.
+Effects
+Leucine is an mTOR activator. It is a dietary amino acid with the capacity to directly stimulate muscle protein synthesis. As a dietary supplement, leucine has been found to slow the degradation of muscle tissue by increasing the synthesis of muscle proteins in aged rats. However, results of comparative studies are conflicted. Long-term leucine supplementation does not increase muscle mass or strength in healthy elderly men. More studies are needed, preferably ones based on an objective, random sample of society. Factors such as lifestyle choices, age, gender, diet, exercise, etc. must be factored into the analyses to isolate the effects of supplemental leucine as a standalone, or if taken with other branched chain amino acids (BCAAs). Until then, dietary supplemental leucine cannot be associated as the prime reason for muscular growth or optimal maintenance for the entire population.

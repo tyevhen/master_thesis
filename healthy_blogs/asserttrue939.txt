@@ -1,0 +1,5 @@
+AJAX-the-acronym has been around only since 2005, but (as many observers have pointed out) the underlying techniques have been around much longer.
+
+It turns out Oracle has been publishing its own best-practices advice on "Partial Page Rendering" since 2002.
+
+For the very latest Oracle thoughts on AJAX, I suggest reading the comments in their ADF Javascript code.

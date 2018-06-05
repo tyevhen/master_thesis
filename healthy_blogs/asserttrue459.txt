@@ -1,0 +1,22 @@
+Buckminsterfullerene, or C60 fullerene. Each
+ball is a carbon atom. Red connections are
+single bonds. Yellow ones are double bonds.
+A bizarre but exciting paper appeared in the Elsevier journal Biomaterials in June 2012. In it, a team of French and Tunisian scientists reported that when olive oil dissolved in the 60-carbon compound known as buckminsterfullerene was administered orally to rats, it nearly doubled the lifespan of the experimental animals compared to controls.
+
+This stunning result made a lot of biogerontology researchers sit up and take notice. It's not every day that you hear of something that can extend life this dramatically. But unfortunately, when you look closer at the research, it shows evidence of sloppiness, if not actual fraud.
+
+Even if you take the results at face value, a certain amount of caution is called for inasmuch as only six rats were used in each experimental group. The statistical significance is there. But still: Six rats?
+
+It wasn't long before readers of the paper noticed some discrepancies. Two photos shown at the top of page 7 (the ones labelled GAog and GAip), showing rat-liver cytology, were actually the same photo, cropped differently. The authors said they put these images in at the last minute and made a mistake.
+
+In September 2012, Biomaterials published an authors' corrigendum (correction) to the earlier paper. Astonishingly, the authors now claimed, instead of the original 66 months reported as maximum lifespan for C60-treated animals, a revised lifespan figure of 54 months. Somehow the authors got the rats' final ages wrong by a year!
+
+Even more astonishing was the authors' explanation for how they got the animals' lifespans wrong by a year. They blamed it on the software they used for drawing their Kaplan-Meier survival graph, saying they were unfamiliar with the software and the software made diagonal lines where it should have made vertical lines, and the lines thus met the x-axis at the wrong values.
+
+This is the kind of nonsensical explanation that casts doubt on the competence (or alternatively, the veracity) of the entire team of researchers. It's peculiar, too, that neither Elsevier's editors nor their peer reviewers noticed the huge discrepancy between the numbers in the Kaplan-Meier graph and the authors' statement in the article that the estimated median lifespans for their three groups of rats were 22, 26, and 42 months (which is not at all what the original graph showed).
+
+The researchers had three groups of animals: a control group that got water, an olive-oil group, and a group that got olive oil mixed with C60 fullerene. In the group that got olive oil (without fullerene) the maximum lifespan was extended a remarkable 20 months (revised downward to 17 months). This is equivalent to the longest life extension ever observed in some of the classic calorie-restriction studies done on rodents (e.g., see graph in this post). And yet it was accomplished without calorie restriction; all that happened was that the rats got olive oil added to their diets. No one else has ever reported lifespan extension of this magnitude due to olive oil alone. If this had been the paper's only result, it would have made headlines.
+
+Interestingly, the revised survival data submitted in the September corrigendum indicates that the C60 rats all died between ages 51 and 54 months. This is an extraordinarily narrow range of lifespans. In the other two groups of rats, lifespans varied by 15 months or more. For all of the C60 rats to die in a 90-day period is suspicious, to say the least.
+
+The work of the French-Tunisian team will, I'm sure, spur a good deal of followup research into the health-promoting properties of C60 fullerenes (with and without olive oil); and we should probably wait for some of this work to come out before judging the French-Tunisian team too harshly. But personally, I find the June 2012 Biomaterials paper to be flat-out unbelievable and untrustworthy. Which is too bad. Because if there's one thing the field of biogerontology doesn't need more of right now, it's untrustworthy research.

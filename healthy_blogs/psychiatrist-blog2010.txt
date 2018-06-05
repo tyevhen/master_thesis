@@ -1,0 +1,26 @@
+Anyone watching or listening to the news these days knows about the foiled terror plot in the UK. Here in the US we also have a buzz recently about eleven Egyptian exchange students who disappeared in the United States enroute to a university exchange program. At this point nine of the eleven students have been found, and the absconders apparently have been taken into custody. None are alleged to have any links to terrorist organizations. They are not suspected of criminal activity although they have violated the terms of their visas. Two of them were located here in Charm City. This is not the first time Egyptian immigrants have been involved in local terrorism investigations. Last October a false bomb threat against the Harbor Tunnel was called in by an Egyptian man who had violated his visa. I can't find all the links now, but I vaguely recall that he was a disgruntled former employee (aren't all former employees 'disgruntled'? are current employees 'gruntled'? where does this word come from, anyway?) who was trying to get his boss in trouble. Boss was taken into custody, questioned, and released without charges. But this happened in the same neighborhood where the recent two students were picked up.
+
+So why am I bringing this up, given that ShrinkRap really isn't a political blog? It's because of this aside comment I saw in the news release:
+
+
+"Ibrahim and El Bahnasawi were being held in an undisclosed location, pending possible deportation proceedings, authorities said."
+
+Let me say ahead ahead of time that I have no connection with this situation whatsoever and I don't know for sure where these guys are being held. I'm using this situation as a hypothetical for discussion purposes.
+
+The Federal government has its own detention centers and prison facilities located throughout the United States and its possessions. In addition to this, they contract with a number of state and local facilities to house pretrial detainees and others in their custody who may be transitioning through the region on the way to or from various court appearances. When it comes to "undisclosed locations" you can take your pick.
+
+The reason I'm bringing this up is because, regardless of the purpose of detention, these folks need medical and mental health care. Someone has to be under contract to give it to them. This raises some interesting ethical issues. If you're being held as a 'person of interest', a 'material witness', or as a visa violator you don't have the rights and protections afforded to a pretrial detainee or even a convicted criminal. For example, there is no testimonial privilege for someone who is not charged with a crime. Early on in the life of this blog (long before I had a logo, even before we had a Duck) I wrote about the US Patriot Act and implications for correctional healthcare providers. Situations like this make this a very real possibility that correctional workers have to face, both locally and nationally. Here are the issues I foresee we'll have to figure out:
+informed consent for treatment
+What do you tell a patient about the potential uses of the information they are giving you, when you don't even know for sure yourself? How much and what kind of information do you document? Certain disclosures would be covered by local mandatory reporting laws, but not necessarily all situations. What if they tell you they're sending money to organizations known to support terror?
+setting of evaluation/presence of investigators
+Current standards require sight and sound privacy for mental health evaluations. What if an investigator is required to be present during an evaluation, upon a warden's order?
+cooperation or participation in interrogation
+The American Psychiatric Association, the American Medical Association and the American Psychological Association all have position statements regarding the role of professionals in interrogations. Direct participation is forbidden, although there is minor variation between the organizations regarding whether or not professionals can give strategic advice to interrogators. All organizations forbid participation in activities that are coercive or injurious to the prisoner.
+obligation to report torture/improper interrogation techniques
+Ah, here's the trick. Is there an obligation to report improper, coercive or injurious interrogation techniques if a clinician becomes aware of them? Will there be any protections for this reporting?
+
+These are the kind of situations that the National Commission for Correctional Healthcare standards do not address, nor could they possibly predict. For those of you in free society, you've got more to think about now. And you thought HIPAA compliance was tough to figure out.
+
+**********
+
+Disclaimer: The opinions expressed in this blog are my own, expressed while off-duty, and do not represent those of my employer or the state government. Please don't send me to Guantanamo.

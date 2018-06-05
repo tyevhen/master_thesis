@@ -1,0 +1,32 @@
+I've noticed a couple of things that don't work in Mozilla Jetpack. One is:
+
+var serializer = new XMLSerializer( );
+
+This line works fine in the console -- it works in Firebug. But for some reason, in Jetpack, I get "XMLSerializer is undefined."
+
+Fortunately, I have a workaround. The workaround is:
+
+var serializerClass = "@mozilla.org/xmlextras/xmlserializer;1";
+var serializer =
+    Components.classes[serializerClass];
+var serializerInstance =
+    serializer.createInstance(Components.interfaces.nsIDOMSerializer);
+
+The second thing that doesn't work for me in Jetpack is writing to a document object using document.write():
+
+  jetpack.tabs.focused.contentWindow.open(); // works
+  var doc = jetpack.tabs.focused.contentDocument;
+  // This part doesn't work:
+  doc.open( );
+  doc.write( formattedContent );
+  doc.close( );
+
+It also doesn't work if I try to do
+  win = jetpack.tabs.focused.contentWindow.open();
+ doc = win.document;
+ doc.open( );
+ // etc.
+
+Jetpack will open() a new window in a fresh tab but won't give me a reference to the new window's document object. The window stays blank -- I can't write to it.
+
+If anyone has a workaround to this, please let me know. It seems odd that I can't create a new page from Jetpack.

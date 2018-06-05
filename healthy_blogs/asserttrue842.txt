@@ -1,0 +1,5 @@
+Peter Kriens has written a really nice article for ACM Queue called How OSGi Changed My Life. Go here to read it online. It's a high-level overview for people who are still trying to grok the whole OSGi phenomenon.
+
+OSGi is a game-changing technology, IMHO, because it brings familiar SOA precepts to ordinary POJO programming. (How's that for acronym abuse?) POJOs end up having fewer unwanted intimacies, and if you run them inside Spring inside OSGi, the POJOs don't have to know so much about the runtime framework, either. Compositionality is greatly facilitated in OSGi; the level of abstraction is high; the benefits are numerous and far-reaching. I see OSGi as revitalizing Java programming for enterprise.
+
+Good tooling for OSGi is still scarce. (Doing "Hello World!" is much harder than it should be.) I suspect that will change very soon, though. Meanwhile, OSGi is quite pervasive already (it's in quite a few products, though seldom advertised), and I look for 2009 to be the year when OSGi finally goes double-platinum.

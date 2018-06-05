@@ -1,0 +1,339 @@
+Every once in a while, if you have enough coding skills to be dangerous, you come up with something marvelously dangerous. Like, say, an OpenOffice/LibreOffice macro that can send e-mails directly from a spreadsheet. (See code, below.)
+
+I looked and looked online for an example of how to do this, but found no code that worked, so I wrote and debugged my own e-mail hack (which works, but requires some setup). Apparently, this trick is fairly easy to do in Outlook or in Excel (using an Excel VBA macro), but it's not obvious how to do it in OpenOffice.
+
+It can be done in OpenOffice, though, thanks to the fact that when you write an OpenOffice macro in JavaScript, the JS is actually running inside a Java Virtual Machine (using the Mozilla Rhino module). I don't know if OpenOffice has switched to Java 7 yet, which doesn't use Rhino. So be advised, if you're using the very latest version of Java, the following code may not work for you. I haven't tested it on the latest Java platform.
+
+The neat thing about JavaScript macros in OpenOffice is that they give you the full power of the Java Runtime Environment, which means you can do network I/O (yes, server roundtripping) from a macro, if you know the special call-through syntax. Yes, you heard me right: You can do just about anything in an OpenOffice JS macro that you can do in a Java program. [Insert evil BWAH-HA-HAAA here.]
+
+What you should do, first off, is go into OpenOffice's Tools > Options dialog (look for "Java" in the pref pick-list) and point your copy of OpenOffice at the particular JRE (on your machine) that you want to use. Mine is a version 1.6 JRE. The next thing you need to do is make sure you have the javax.mail.jar and activation.jar files in your JRE's lib/ext folder. You may need to go to Oracle's web site to download the JavaMail and JavaBeans Activation Framework. Put the appropriate JARs (the ones I just listed) in your lib/ext folder and restart OpenOffice. When OO.o restarts, it should slurp up the JARs, and now you're ready to rumble. (If not, the macro won't be able to find the necessary classes and you'll get cryptic errors saying such-and-so is not a method.)
+
+The next thing you need to do is determine whose SMTP server you're going to hack into use for test purposes. Gmail won't do, because it tries to engage you in a dialog (probably a CAPTCHA) rather than letting your code send e-mails directly to their server, or at least that's the problem I ran into. Beware that many SMTP servers are throttled and/or locked down in various ways to prevent programmatic access. Bottom line, I set up a free account at Easy-SMTP for testing purposes, and it has worked fine, although (ALTHOUGH!) you should note that they use usernames containing a backslash, and when you try to use "myUserName\admin" in a JavaScript string, you need to type myUserName\\admin (double backslash) to escape the backslash. (But you knew that, right?)
+
+Also realize, when testing e-mail code, that SMTP servers are queue-based, and it may take 10 minutes or more for (say) the Easy-SMTP server to send your e-mails out. So if you don't see your test e-mails arrive in the mailbox right away, it might not be a bug. It might be a feature. Be patient. Allow time.
+
+Enough chatter. Here's what the code looks like:
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+function sendMail( recipient, subject, message ) {
+
+ var fromAddressArray = java.lang.reflect.Array.newInstance(Packages.javax.mail.internet.InternetAddress, 1);
+ var sender = new Packages.javax.mail.internet.InternetAddress( "kas.e.thomas@gmail.com" );
+ fromAddressArray[0] = sender;
+
+ var provider = "ssrs.reachmail.net";
+ var smtpUserName = "MYUSERNAME\\admin"; // change to your username
+ var smtpPassword = "mypassword"; // change to your password
+
+ mailServerProperties = java.lang.System.getProperties();
+ mailServerProperties.put("mail.smtp.port", "25"); // or 587 for TLS
+ mailServerProperties.put("mail.smtp.auth", "true");
+ mailServerProperties.put("mail.smtp.starttls.enable", "true");
+ var getMailSession = 
+  Packages.javax.mail.Session.getDefaultInstance(mailServerProperties, null);
+
+ var generateMailMessage = 
+  new Packages.javax.mail.internet.MimeMessage(getMailSession);
+
+ // add recipient
+ generateMailMessage.addRecipient(Packages.javax.mail.Message.RecipientType.TO, 
+       new Packages.javax.mail.internet.InternetAddress( recipient ));
+
+ // add subject
+ generateMailMessage.setSubject( subject );
+
+ // add message text (the e-mail, in HTML)
+ generateMailMessage.setContent( message, "text/html" );
+
+ // add FROM
+ generateMailMessage.addFrom( fromAddressArray );
+
+ // try to connect
+ var transport = getMailSession.getTransport("smtp");
+ transport.connect( provider, smtpUserName, smtpPassword);
+
+ // send it
+ var allRecipients = generateMailMessage.getAllRecipients();
+ transport.sendMessage(generateMailMessage, allRecipients);
+
+ // finish
+ transport.close();
+
+}
+
+Obviously, to use this function you have to add a little code of your own to the JS macro:
+
+try {
+   sendMail( "myEmail@domain.com", "This is the Subject line",
+        "This is the <b>HTML</b> e-mail body." );
+}
+catch(e) {
+   throw e.toString();
+}
+
+Something like that.
+
+Rather than simply rethrow the exception, you could show the message in a console window. For this, I like to create my own Java console window with this code (which runs fine in an OpenOffice macro):
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+// Create a Java JEditorPane to show stuff in.
+function displayErr( msg ) {
+
+    function EditorPane( ) {
+
+     Swing = Packages.javax.swing;
+     this.pane = new Swing.JEditorPane("text/html","" );
+     this.jframe = new Swing.JFrame( );
+     this.jframe.setBounds( 100,100,500,400 );
+     var editorScrollPane = new Swing.JScrollPane(this.pane);
+     editorScrollPane.setVerticalScrollBarPolicy(
+     Swing.JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+     editorScrollPane.setPreferredSize(new java.awt.Dimension(150, 150));
+     editorScrollPane.setMinimumSize(new java.awt.Dimension(10, 10));
+     this.jframe.setVisible( true );
+     this.jframe.getContentPane().add( editorScrollPane );
+
+     // public methods
+     this.getPane = function( ) { return this.pane; }
+     this.getJFrame = function( ) { return this.jframe; }
+   
+ }  // end inner class
+
+    if (typeof gJavaWindow == 'undefined')
+       gJavaWindow = new EditorPane();
+    gJavaWindow.jframe.setVisible( true );
+
+    // show the message in a Java window
+    gJavaWindow.getPane().setText( msg.toString() );
+}
+
+Now you can use displayErr( message ) to put up a console window with messages.
+
+If you're wondering what line 3 of the sendMail() code is about, it has to do with the fact that when you add a FROM (sender address) to the message in line 32, the MimeMessage method addFrom() is expecting an array of type javax.mail.internet.InternetAddress. You can create an InternetAddress object directly, in JavaScript (as in line 4), but not a typed array of them. If you create an array in JS, it's a JS array, not InternetAddress[], if you see what I mean. The point is, the addFrom() will fail if you simply supply a string or a JavaScript array. To get around this, you have to create a InternetAddress[] array using java.lang.reflect.Array.newInstance() as shown in line 3.
+
+To my knowledge, this is the only working example on the Internet of how to send e-mail from OpenOffice using JavaScript. Obviously, you'll want to modify this code if you're sending e-mail to multiple cc- recipients, and you may want to throttle your loops (if you're sending lots of individual e-mails) using java.lang.Thread.sleep( millisecs ) in a loop, to pause between sends. Create a function for that:
+
+function delay( millisecs ) {
+ java.lang.Thread.sleep( millisecs );
+}
+
+If you want to pluck addresses out of an open spreadsheet, you need to use the following code:
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+importClass(Packages.com.sun.star.uno.UnoRuntime);
+importClass(Packages.com.sun.star.sheet.XSpreadsheetDocument);
+
+
+function getSheetByName( sheetname ) {
+
+    //get the document object from the scripting context
+    oDoc = XSCRIPTCONTEXT.getDocument();
+
+    //get the XSpreadsheetDocument interface from the document
+    xSDoc = UnoRuntime.queryInterface(XSpreadsheetDocument, oDoc);
+
+    // get a reference to the sheets for this doc
+    var sheets = xSDoc.getSheets();
+
+    // get named sheet
+    return sheets.getByName( sheetname );
+
+}
+
+function getCellContents( sheet, col, row ) {
+
+     var cell = sheet.getObject().getCellByPosition( col, row );
+
+     var content = cell.getFormula();
+
+     return content;
+}
+
+
+// Note: This skips Row 0 (presumed to be header).
+// Gets all cell values in the column,
+// from all rows. Returns array of strings.
+function harvestRows( sheet, column ) {
+
+    var results = []; 
+    var FIRST_ROW = 1;
+
+    for ( var row = FIRST_ROW;  ; row++ ) {
+        var field = getCellContents( sheet, column, row );
+        if ( field == "" ) break; // stop looping
+        results.push( field.toString() );
+    }
+
+ return results;
+}
+
+So if all your e-mail addresses are in Column A of Sheet1:
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+    var sheet = getSheetByName( "Sheet1" );
+
+    var columnA = harvestRows( sheet, 0 );
+    var subject = "This is the SUBJECT LINE";
+    var message = "<b>This</b> is an actual HTML e-mail body.";
+ 
+    for ( var i = 0; i < columnA.length; i++ ) {
+     try {
+        displayErr( "Sending e-mail to: " + columnA[i] );
+                sendMail( columnA[i], subject, message );
+        displayErr("Done.");
+        delay( 1500 ); // throttle the loop
+     }
+     catch(e) {
+        displayErr( e.toString() );
+     }
+ }
+
+
+Ta-da! You're blasting e-mail from a spreadsheet. How slick is that?
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? Also please visit HackYourDepression.com when you have a chance, and share the link with someone!
+
+
+☙ ❧
+
+I want to thank the following great tweeps (plus  @TheCarlWeathers and @LimelightFlash) for retweeting me yesterday. May you all live long and prosper. (Please follow these guys. They retweet!)
+
+166

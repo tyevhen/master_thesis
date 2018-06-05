@@ -1,0 +1,37 @@
+Nearly 500 people have taken our Attitudes about Psychiatry survey so far. If you haven't yet, [please do.]
+The White House released its plan last week entitled "Epidemic: Responding to America's Prescription Drug Abuse Crisis" [LINK to pdf of this 10-page plan]. Below are some of the elements in this plan that is part of the National Drug Control Strategy (like that has worked so well :-/).
+
+The areas of this plan involve education of prescribers and users, monitoring programs, making it easy to dispose of controlled dangerous substances (CDS for short), and enhancing enforcement. The plan establishes thirteen goals for the next five years, and also creates a coordinating body, the Federal Council on Prescription Drug Abuse, to oversee and coordinate it all.
+
+If any of our readers have comments on specific items (I've numbered them for ease of reference), including unintended (or even intended) consequences, please chime in.
+
+
+EDUCATION
+require training on responsible opiate prescribing
+require Pharma to develop education materials for providers and patients
+require professional schools and organizations to include instruction on balancing use of opiates for pain while reducing abuse
+require state licensing boards to include relevant ongoing education in their licensure requirements
+help ACEP develop guidelines for opiate prescribing in the Emergency Department [this should be a big help]
+increased use of written patient-provider agreements
+facilitate public education campaigns, especially targeting parents
+encourage research on low-abuse potential treatments, epidemiology of substance abuse, and abuse-deterrent formulations
+TRACKING AND MONITORING
+encourage effective PDMP (Prescription Drug Monitoring Programs) in every state, including use of HIEs and connecting with federal health care systems (VA, DOD, IHS, DOJ), and expanding interstate operability of PDMPs
+support reauthorization of NASPER, which funds PDMPs
+explore provider insurance reimbursement for checking the PDMP database before writing CDS prescriptions [interesting...might work]
+reduce "doctor shopping"
+issue Final Rule on electronic CDS prescribing [finally!]
+increase use of SBIRT programs, including via EHRs (Electronic Health Records)
+DISPOSAL
+expand on "take-back" programs (eg, allowing pharmacies to accept unwanted pills for disposal)
+develop DEA regs on CDS disposal and educate public on it
+get Pharma involved
+ENFORCEMENT
+increase training for law enforcement personnel and prosecutors
+aggressive action against "pill mills" and inappropriate prescribers
+establish a Model Pain Clinic Regulation Law for states to use
+increase surveillance of prescription drug trafficking
+use PDMP data to identify "doctor shoppers" and do something about it
+This is long enough, so I won't list the plan's thirteen goals; these begin on page 9.
+
+While I am concerned that the enforcement aspects will continue to criminalize actions against people with addictions (which should be viewed more as a health problem rather than a criminal problem, IMO), the increased use of Prescription Drug Monitoring Programs to increase identification of and assistance for people with prescription drug abuse problems should be helpful. Recent articles about the diversion of opiates, even by elderly folks who are supplementing their fixed income by selling their Percocets to neighbors, make it clear how deep this problem is. Some of these interventions have a decidedly Big Brother feel to them. But people are dying, so something must be done.

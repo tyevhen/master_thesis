@@ -1,0 +1,53 @@
+Yesterday I showed how I handled the problem of noise description in a scene from a comedic novella (code name B.A.T.T.Y.) I'm working on. I thought today I'd present the entire scene (free book sample!) along with an explanation of what the scene does and why it's constructed the way it is.
+
+I wanted to accomplish a number of goals with this scene. The main character, Tyler Schremp, has been talked into having a quick drink at Joy Joy (a fictional restaurant/bar in Palo Alto) on the way home from work. Schremp has group therapy at seven, so the drink has to be a quickie. Both Schremp and his buddy Matt Dixon are young engineers working for a hot toy-company startup in Silicon Valley (called HoityToyty). They have a love-hate relationship with their jobs. They love creating high-tech toys, but their boss (an insufferable ass) has them working on such idiotic projects as a scent-emitting unicorn doll (Fresh Scent Cornelia). You put Glade scent-packs in the unicorn's ass, and then, assuming the batteries are fully charged, the doll spurts air freshener (in microprocessor-controlled bursts) out its anus all day.
+
+The goals for the scene are:
+Show that Schremp and Dixon are best buds of long standing. Male bonding.
+Show their dissatisfaction with work, their eagerness to go into business for themselves.
+Have them talk about Schremp's main problem, which (at the moment) is how to reconnect with the beautiful and mysterious puppet-toting redhead he met a few nights ago.
+Do all this in a lighthearted way.
+The entire scene is a segue from an office scene to a group-therapy scene. It has to cap off a lousy day at the office while paving the way for group therapy. (The redhead will show up at group therapy.) Here's the whole scene:
+     The crescendo of cacophony at Joy Joy hadn't yet reached full-on Happy Hour earbleed level, but the din was prodigious -- so much so that Dixon had to go back out the front door to the sidewalk to check his voicemail while Schremp, securing the last empty stools at the bar, fetched two tall glasses of Buttface Amber (one of the featured microbrews-of-the-day) from the red-suspendered, all too jolly bartender-du-jour.
+     As Dixon finally shuffled back inside, tucking his iPhone in his pocket, Schremp asked: "Anything important?"
+     Dixon, accepting a beer from Schremp: "Hitler called, he wants his youth back. Other than that --"
+     Schremp raised his glass, said a "Heil Mary," and took a sip. Dixon did likewise.
+     Dixon: "What about you,? Any word from --"
+     "Not a peep. Beginning to think I popped the clutch." Schremp licked foam off his upper lip and looked in vain for a coaster on which to see his beer, finding, instead, only a soggy cocktail napkin. "You know, maybe I just --"
+     "I wouldn't worry about it," Dixon said, with a dismissive flip of the hand. "It's only been, what, a week?"
+     "Yeah. Not even." Schremp was having to speak loudly now, to be heard over the background noise.
+     "But you called her, right?"
+     Schremp nodded as he drank. "I don't feel right leaving, you know, a hundred messages or something, though. Don't want to come across as a stalker . . ."
+     "How many times have you called her?"
+     "Twice. Plus one text message."
+     "Pffah. Dude. That's not stalking. Take it from someone who knows." Dixon held his glass up and admired the three concentric rings of foam in the empty upper third. "Look, chug lines . . ."
+     Schremp sighted across the chug lines and down the crowded bar, taking in the pot-luck assortment of helter-skelter hairdos, the predominantly northern European profiles (punctuated by the occasional soft/rounded Oriental face), checking, meanwhile, for redheads with puppets, drooping parallel e-cigs, some hint of a chocolate-suede Sole Society ankle boot. But alas, no joy, as the fighter jocks say.
+     "I mean, sometimes I think maybe I am a bit obsessed with her, in a way," Schremp said, fiddling with his glass. "I keep replaying that night over and over in my mind . . . The flashbacks are on a tape loop sometimes, like when you can't get a song out of your head?"
+     Dixon nodded. "Earworm. Very dangerous. One time I got Devo stuck in my head for two days . . ."
+     "That happened to me with Bryan Ferry's 'Boys and Girls.'"
+     "Don't know that one."
+     "Well, do NOT listen to it, my friend. Understand? You'll go insane . . ."
+     "Like that movie -- what's it called? -- where there's this videotape, and if you watch it, you'll die seven days later."
+     Schremp nodded before making concentric Chug Line No. 7 in his glass. "The Ring. That's exactly it, that's what's happening to me. And it's been almost seven days . . ."
+     "Yeah, but you're not going to die just because Marcy didn't call you back."
+     "Molly. Not Marcy."
+     "What's that? I can't hear you . . ."
+     Joy Joy was fast approaching the Fire Marshall's room-capacity limit (or so Schremp supposed), the place packed now with clamorous roisterers intent on pushing the decibel envelope beyond airline baggage-handler recommended maximums. Cocktail glasses (three in a waitress's hands at once) clinked and clacked, cash register slamming shut as someone's stool-leg stuttered across the floor nearby ("What can I getcha?"), burly guffaws competing with soprano laughter, a sudden swoosh of street noise as fresh celebrants burst through the main entry door, wine cork's thoppp! providing a grace-note to a distant woman's rising arpeggio of giggles -- the thrum of a vox humana orchestra tuning up.
+     Schremp swirled the remaining two ounces of beer in his glass. He scanned the crowd, eyes finally falling on Dixon. At the first lull in the background noise he said: "We could fix the noise problem, you know."
+     "Yeah, we could go outside . . ."
+     "No, I mean we could fix it. With technology."
+     Dixon was game. "Go on."
+     "An array of microphones in that wall over there" -- Schremp motioned with his head -- "and an array of speakers in this wall over here. Right? Invert the signal, drive the anti-noise through the speakers, time it so the noise gets canceled for these people right over here . . ."
+     Dixon mused on it, nodding, far-away stare, feigning comprehension. "Interesting idea..."
+     "See, if you have enough microphones, you can triangulate the origin of any individual sound in this room . . . or all of the various sounds --"
+     Dixon's brows unfurled, an Aha moment slowly washing across his face.
+     "-- and likewise, with an array of speakers, you can focus calibrated anti-noise on any location in the room . . ."
+     "Barroom active noise suppression. BANS."
+     "Exactly."
+    Dixon slapped the side of Schremp's shoulder. "Freakin' brilliant. Dude, you're a genius, you know that?"
+     The two clinked glasses and then knocked back the rest of their beers.
+     Dixon grabbed a half-soaked cocktail napkin from the bar and used it to wipe his mouth. "This," he said, "is exactly the kind of stuff we ought to be working on. Instead of unicorns with April-fresh anal glands."
+     Schremp nodded, half-smiling. "Yep. It's just about that time."
+     Dixon glanced at his watch. "Group therapy?"
+     "No. I mean, yeah, that too. But what I meant was, it's just about time . . . for us to turn the page. You know? Put HoityToyty behind us."
+     Dixon smiled. "Ordinarily, the last thing I want to put behind me is a herd of unicorns. But in this case, my man, you're absolutely right. I'm with you. All the way."

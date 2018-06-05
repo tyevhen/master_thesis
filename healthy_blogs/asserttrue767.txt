@@ -1,0 +1,39 @@
+TechCrunch is reporting that the rumors about Google being in talks to acquire Twitter are true. Naturally, everybody wants to analyze this along "search" dimensions. TechCrunch says Twitter is about "people searching for news" and "brands searching for feedback." But that hardly conveys the importance of what's going on.
+
+Talking about Twitter using the language of "search" feels vaguely wrong, like force-fitting a 20th-century semantic facade over a 21st-century idea. Imagine that the iPod were to have appeared in 1970, when handheld transistor radios were "high tech." People would have talked about the iPod in transistor-radio terms, instead of understanding it in terms of personal empowerment and cultural shift. The same is true of Twitter. It's more than a new data stream.
+
+I spent most of this week at the AIIM show in Philadelphia, and while I was there, I was talking to an acquaintance about Twitter, trying to explain what makes Twitter so revolutionary for me. Bear in mind, until two months ago, I was not a Twitter user and never imagined I would be one.
+
+I talked about bookmarks and how, originally, bookmarks were a hugely empowering idea: You could choose to keep references, in your browser, to parts of the Web that have special to you. But bookmarks became useless to me when I accumulated so many of them that I couldn't find the ones I wanted or (in many cases) even remember why I made many of them.
+
+A few minutes ago, I counted how many bookmarks I have in my browser. You can do this, too. If you have Firefox, use the Import and Backup toolbar command in the Organize Bookmarks dialog to export your bookmarks as HTML:
+
+
+
+Open the resulting HTML document in your browser, then run the following one-line script in the console:
+
+alert(document.body.getElementsByTagName("a").length);
+
+When I ran this script a few minutes ago, I learned that I have 598 bookmarks. That's beyond my ability to manage. It means bookmarks are useless to me now.
+
+All is not lost, though, because I've found (in the meantime) that Google and RSS feeds are more useful. Google acts as a kind of just-in-time bookmark, or at least an indirection to bookmarks. RSS feeds are dynamically-updating bookmarks (in a sense), which is also a good thing.
+
+But now I have too many RSS feeds! I can't easily scan them all. Much of what I want to "keep track of" on the Web (in terms of news blog entries of interest to me, and industry news) is no longer easily trackable. What I really need is some kind of intelligent filtering process that runs in the background and keeps a list of semantically relevant items, so I can just find the things of interest to me. New things. Up-to-date things.
+
+Why not use Google news alerts? you may ask. Short answer: Poor signal-to-noise ratio. I get too many "false positives." Google news alerts are not "smart." The software that produces them is quite naive and easily fooled by stories that match the vocabulary of my search query. That's not what I want.
+
+What does any of this have to do with Twitter?
+
+Twitter is where I find out about industry news and new blog posts of potential interest to me. When an important news story breaks, I find out about it on Twitter first, and I usually know about it before any of my non-Twitter friends.
+
+As for keeping up with relevant blog posts: The people I follow on Twitter share my interests. They tweet links to blog posts. The links tend to be extraordinarily useful and (again) extremely up-to-date. Much better than a "dumb list" of RSS feeds.
+
+Twitter thus represents, for me, a semantically filtered super-RSS feed. It's very far from perfect, of course, but when I balance the time I spend sifting through 140-char tweets with the time I would otherwise spend walking RSS-feed links, doing searches in Google, waiting for full pages to load at various web sites, etc., I find that I actually save a lot of time by following Twitter streams.
+
+Tweets represent semantically filtered information. A person with interests similar to mine has already determined that something is useful enough to share. That's the most valuable kind of semantic filtering there is.
+
+Even without a "semantic web" of RDF triples and linked data and all the rest, I have an ad-hoc semantic web to work from, in Twitter. And it's up-to-the-minute. Twitterstreams move at the speed of the Web.
+
+If I follow a Twitter Search as RSS, I'm even further ahead of the game.
+
+So if Google acquires Twitter (which they will, if they're smart), Google doesn't just acquire a new data stream to build crummy little beta-apps on top of. It acquires a new paradigm. That's the true significance of Twitter. That, in a nutshell, is why they will acquire Twitter.

@@ -1,0 +1,33 @@
+There's a common myth that one of the main reasons enterprise customers get locked in to a particular vendor's technology is the huge investment (of time and money) that goes into specifying, procuring, rolling out, and maintaining a large system.
+
+I was talking to a financial analyst the other day about this very phenomenon. The name of a well-known CMS vendor came up. My financial-analyst friend -- somewhat new to the software biz -- asked whether the huge cost of rolling out, training for, and maintaining a large system didn't pose an enormous disincentive for customers considering moving to another system. I said no, that's a myth.
+
+"That's the amazing thing about this business," I said. "People walk away from million-dollar systems all the time."
+
+It's not hard to understand. If an expensive system is draining you dry, you have to stop the bleeding. Sometimes the best way to do that is to stop throwing money at a bad solution and move on.
+
+"But how do you walk away from an investment of X-million dollars?" my financial-analyst friend wanted to know.
+
+First of all, understand that capital expenditures are depreciated over time. From an accounting point of view, investments in software are "walked away from" routinely; it's a given. The real question isn't whether you can afford to write off a bad investment, but what it will cost (in current dollars) to move to a new system.
+
+The impediments to moving to a new system can be many, but typically, lock-in occurs because data is "interred" in proprietary formats (making migration to a new system costly), or because large amounts of custom-written application code will need to be ported (at great cost) to the new system. Or both.
+
+Data lock-in happens in funny ways. You can have all your content in standard industry formats (XML, JPG, PDF) and still be locked into a content management system very tightly by virtue of the system's metadata mappings or database schemas, or by virtue of the system's use of a template structure or dynamic page language that's proprietary.
+
+The existence of large amounts of custom-written application code is also a serious problem. It may not even be possible (even in theory) to port code from the old system to a new one, if the APIs and abstraction levels are far enough apart. You may well end up having to rewrite some or all of your custom apps from scratch. And that can get very expensive very quickly.
+
+In sum: The high cost of data and code migration remain serious impediments to moving off of existing systems. Which presents an opportunity, of sorts, for vendors.
+
+If you're a vendor and you want to convince someone to buy a new system, make it attractive for them to move off their old system. At a bare minimum:
+
+1. Provide good data migration utilities. Take the pain out of migration.
+
+2. Since customers will be rewriting and/or walking away from large amounts of legacy code, provide rapid application development tools -- including powerful code libraries and easy-to-learn APIs -- that enable new customers to put custom apps together quickly. (This is a hugely important topic that deserves much more attention than I can give it here.)
+
+3. Give customers a licensing option that doesn't lead to high first-year costs. Offer a pay-as-you-go option. Customers don't like to write large checks in Year One.
+
+4. Make your software less hardware-intensive than the incumbent's, so that your customer can get by on fewer CPUs, less RAM, less disk storage, etc. If you can save your customer a few hardware-budget dollars, he or she may be more likely to reallocate some of those dollars to software.
+
+5. Make the administration experience easy. If you can prove that your system entails less administrative burden (and you can document the cost savings in terms of headcount reduction), it can help make the case for moving to a new system.
+
+One thing is certain: Now is not the time to be selling big, old-fashioned middleware systems the old-fashioned way. People aren't willing (or able, in this economy) to spend a million dollars to be vendor-locked to a "solution" that's hard to migrate data and applications into or out of. As I said last October, the days of the million-dollar whITe elephant are drawing to a close. After this recession is over, there will be fewer species than before. I think we all know that.

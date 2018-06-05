@@ -1,0 +1,42 @@
+From the British National Formulary (BNF): under the heading prescribing drugs likely to cause dependence or misuse (p. 9):
+
+1.   To avoid creating dependence by introducing drugs to patients without sufficient reason (2).
+
+2.  To see that that the patient does not gradually increase the dose of the drug, given for good medical reasons, to the point where dependence becomes more likely (2).
+
+3.  To avoid being used as an unwitting source of supply for addicts and being vigilant to methods for obtaining medicines (2).
+
+
+I was asked to write a piece about benzodiazepines last week.  In the process, I went to look at guidelines in the UK, specifically the NICE guidelines.  In the process, I ended up getting a copy of the British National Formulary because it had some commentary on prescribing addictive drugs.  The section starts with three paragraphs that start with the above sentences.  I don't know how long these sentences have been included in this book but I took a few moments to ponder whether anything like this is written in papers or texts that American physicians read.  Americans may go about the prescription of addictive drugs in an entirely different manner.
+
+Medical training in the US often matches trainees with a lot pf people on complicated polypharmacy for a lot of different conditions.  In a typical resident's clinic there will be people taking benzodiazepines, sleep medications, antidepressants, and in some cases pain medications including opioids.  There people generally expect to see a resident and get these prescriptions refilled.  In supervising residents, they generally have the same questions about this process from 30 years ago: "Wouldn't it be a good idea to see if we can get people off these medications?"
+
+The only difference in my approach from that of my supervisors was to suggest an informed consent approach.  In other words, advise the patient about current guidelines that suggest time-limited use and open up a potential dialogue about how to taper and discontinue a drug.  Even that position can be controversial.  There are three main attitudes that I have encountered in that area.  The first is: "Maybe the patient needs it."  In the case of benzodiazepine maintenance, there is really no research guidance at all in this area - there rarely is for chronic medication use.  The underlying assumption is that here is the rare person that needs maintenance use of this medication - typically a benzodiazepine or sedative hypnotic.   
+
+The second attitude is "As physicians we need to be able to help the patient and that is my orientation when prescribing these drugs."  The underlying assumption here is that this medicine is the only possible way to help the patient.  There is a more insidious underlying assumption that if you don't want to prescribe this addictive drug that maybe you as a physician don't want to help as much as the physician who does.  The other obvious limitation that if the patient believes the only way he or she can be helped is with a specific medication that will define what the physician does in this case.
+
+A third attitude is more nihilistic and that is the patient has been on this medicine for years and seen new residents every one of those years.  What are the odds that they want to change it?  There may be a rational basis for the nihilism.  People are generally very resistant to tapering and discontinuing an addictive drug even if there is no indication that it is doing anything for them. In my days in resident clinic many people were taking triazolam at two and three times the maximum recommended dose for sleep.  They still complained of insomnia - often to the same degree before they started using this medication.  Any attempts to taper them off were fraught with problems.  It was often possible to get them down to maximum recommended dose only to find that they went back to the higher dose after a new resident came into the clinic.
+
+The three lines from the BNF assume that the physician being advised is going to prescribe the addictive drug initially rather than maintain it.  That is a lesson that should not be lost on residents in these clinics or attending physicians in the field.   Every physician prescribing addictive drugs needs to have a plan in their head that incorporates the BNF guidelines.  There is plenty of evidence that is not the case.  Wide variability of prescribing patterns by physicians in the same setting provides a good illustration.   In a recent study (1) the range of opioid prescriptions across physicians varied from about 7 to 25% of emergency department visits with the odds of long term use correlating directly with the quartiles based on those frequencies.
+
+There is another implicit dimension to the BNF guidelines and that has to do with neutrality.  There is generally far too much heat around the issue of addictive drugs in American training and practice.  That ranges all the way from the physicians just being uncomfortable with prescribing the drugs and transmitting that emotion to the patient to overt threats by the patient in order to get the drugs.  In the case of the former, I have had people who were both reliable and unreliable tell me that they felt they were being treated like a drug addict.  In the case of the latter, physicians (including myself) have been threatened with physical attack or blame for a patient's demise (suicide or accident due to recklessness) if they do not supply the desired addictive drug in the right dose and quantities.  There are the "dog ate my alprazolam calls"  to on-call physicians who typically are not seeing the caller as a patient.  All of these factors often lead to a contentious relationship between physicians in training and attending physicians and the people on addictive medications.  As these few pages in the BNF point out - that emotional intensity is really unnecessary.
+
+I have found that to be a mistake in the training of American physicians.  We learn how to prescribe addictive drugs and come to dealing with the problem of addiction much later.  The most important aspect of those prescriptions is the personal relationship and emotional reaction to the patient.  Some physicians never really learn to deal with it.  We could learn a lot earlier by the basic focus that is in the BNF.    
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1: Barnett ML, Olenski AR, Jena AB. Opioid-Prescribing Patterns of Emergency Physicians and Risk of Long-Term Use. N Engl J Med. 2017 Feb 16;376(7):663-673. doi: 10.1056/NEJMsa1610524. PubMed PMID: 28199807.    
+
+2:  British National Formulary.  Published Jointly by the Pharmaceutical Press; Division of the Royal Pharmaceutical Society; 66-68 East Smithfield, London E1W 1AW, UK and BMJ Group; Tavistock Square, London, WC1H 9JK, UK; 2016: p. 9.
+
+
+Attributions:
+
+The cover of the BNF is the cover of my copy that I purchased from Amazon.  I consider the three lines that are quoted and referenced to this book to be fair use for scientific discussion on a non-commercial and not-for-profit blog.
+
+I have no personal or business connection with the BNF.  Any references to it here are just for the scientific discussion of its content and potential importance in medical training.

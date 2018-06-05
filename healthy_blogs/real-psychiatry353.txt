@@ -1,0 +1,67 @@
+It's official.  Both houses of the Minnesota legislature passed a medical marijuana bill last Friday night.  The Governor has already said that he would sign it.  Minnesota ended up taking a unique approach largely because the Governor said he would sign no bill that was not accepted by law enforcement.  The process was also affected by the medical society who did not want physicians in the prescribing loop and the psychiatric society who did not want psychiatric disorders used as an indication for marijuana.
+
+That effectively took marijuana smoking off the table.  The turning point was apparently young mothers testifying that cannabis derivatives were critical to the treatment of refractory epilepsy.  At that point there were several new drafts of the bill looking at the indications, the physicians role, and the role of the government.  The agreed upon indications follow:
+
+
+Subd. 14. Qualifying medical condition. "Qualifying medical condition" means a
+3.15diagnosis of any of the following conditions:
+3.16(1) cancer, if the underlying condition or treatment produces one or more of the
+3.17following:
+3.18(i) severe or chronic pain;
+3.19(ii) nausea or severe vomiting; or
+3.20(iii) cachexia or severe wasting;
+3.21(2) glaucoma;
+3.22(3) human immunodeficiency virus or acquired immune deficiency syndrome;
+3.23(4) Tourette's syndrome;
+3.24(5) amyotrophic lateral sclerosis;
+3.25(6) seizures, including those characteristic of epilepsy;
+3.26(7) severe and persistent muscle spasms, including those characteristic of multiple
+3.27sclerosis;
+3.28(8) Crohn's disease;
+3.29(9) terminal illness, with a probable life expectancy of under one year, if the illness
+3.30or its treatment produces one or more of the following:
+3.31(i) severe or chronic pain;
+3.32(ii) nausea or severe vomiting; or
+3.33(iii) cachexia or severe wasting; or
+3.34(10) any other medical condition or its treatment approved by the commissioner.
+
+A couple of issues about the statutory conditions.  First of all, a patient wanting to use cannabis for any of these conditions needs to be certified that they have the conditions.  That is not the same as a medical diagnosis.  Each patient will need to apply to the Department of Health for the certification and that will cost $200.  Physicians are not necessary for the patient to be certified.  Anyone certified and any physician who wants to be involved will be monitored in a registry through the Department of Health.  It is also obvious from the list, that for the conditions, there is really no known medical indication for cannabis.  An excellent example is glaucoma and the review of the pathophysiology and treatment for glaucoma for primary care doctors in this week's JAMA.  Finally, the entire system is going to be implemented as a research program with no controls and (so far) no known research methodology.
+
+The newspaper headline touches on one of the main issues and that is the cannabis will not be smoked.  There was an initial consideration that vaporizers could be used in a physicians office under the supervision of a physician.  That restriction was not in the final bill.   The Commissioner of Health is charged with providing people certified for the following conditions with medical cannabis by July 1, 2015.  In the conference I attended today, there will apparently be competition for two suppliers to provide medical cannabis at 4 outlets each in the state.  Medical cannabis is defined as:
+
+ (e) "Medical cannabis" means the flowers of any species of the genus cannabis plant,
+1.20 or any mixture or preparation of them, including extracts and resins which contain a
+1.21 chemical composition determined to likely be medically beneficial by the commissioner,
+1.22 and that is delivered in the form of:
+1.23 (1) liquid, including, but not limited to, oil;
+1.24 (2) pill;
+2.1 (3) vaporized delivery method with use of liquid or oil but which does not require
+2.2 the use of dried leaves or plant form; or
+2.3 (4) any other method approved by the commissioner but which shall not include
+2.4 smoking.
+
+That last two lines were were surprising, but law enforcement in Minnesota was apparently not on board with legalizing marijuana smoking.  Given the momentum of the marijuana movement at the national level, that was surprising to see in what is considered a liberal state.  The psychiatric society also gets credit for removing Post Traumatic Stress Disorder, from the list of qualifying medical conditions and providing the governor with a rationale to continue negotiating.
+
+The Commissioner is also charged with reviewing the literature on medical cannabis, suggesting doses and additional qualifying medical conditions, and maintaining a registry of the effects of medical cannabis on the target condition.  That aspect of the law seems like a black hole to me, because it means that the Health Department will essentially be providing FDA services on an experimental medication.  What state department of health can pull that off?  The trials will all apparently be observational studies since no group of people wanted to be control subjects.  They apparently have no doubt that cannabis is an effective drug for what ails you.  Since cannabis has been used by humans since the Neolithic Era (4,000-2,500 BCE) and medicinally in many contexts since then, it is always interesting to consider why nobody has not found a consistent medical use in the past 5,000 years.
+
+The Minnesota law is an interesting approach and I think it may be an excellent compromise.  It gets cannabis to the severely ill who claim benefits while avoiding the issue of recreational use.  This is also an an analogous approach currently used in the case of terminally ill patients and getting them access to experimental therapeutics.  According to speaker I was listening to yesterday the case presented by mothers of children with intractable seizures provided some of the most  compelling testimony.
+
+The passage of this law also dovetails with the editorial in Science this week.  DuPont and Lieberman make the case that adolescent exposure to cannabis should be expected by any legalization and the long term effects on that population are really unknown, but that the preliminary evidence in terms of future risk of addiction or psychiatric disorders does not look good so far.  That same issue of Science has an interesting article on neurogenesis in the dentate gyrus at various points in the life cycle of mice pointing out that learning and retention requires a delicate balance in just the right amount of neurogenesis.  Preliminary research suggests that cannabis affects neurogenesis.
+
+I don't often agree with the politicians of either party, but this may be the best compromise available during a cultural trend of increased permissiveness toward drug use.  The main problem with the bill is putting the Department of Health in a regulatory role that may be difficult for them to realize without a significant increase in budget and manpower.  It also makes cannabis seem to be a legitimate medical treatment - when it is not.
+
+
+George Dawson, MD
+
+
+References:
+
+1.  Mike Cronin.  Minnesota Senate passes medical marijuana bill; could become only state that bans smoking.  Minneapolis StarTribune May 17, 2014.
+
+2.  Information for S. F. No. 2470
+
+3.  Weinreb RN, Aung T, Medeiros FA. The pathophysiology and treatment of glaucoma: a review. JAMA. 2014 May 14;311(18):1901-11. doi: 10.1001/jama.2014.3192. PubMed PMID: 24825645.
+
+4.  Mongiat LA, Schinder AF. Neuroscience. A price to pay for adult neurogenesis.  Science. 2014 May 9;344(6184):594-5. doi: 10.1126/science.1254236. PubMed PMID: 24812393.
+
+5.  Akers KG, Martinez-Canabal A, Restivo L, Yiu AP, De Cristofaro A, Hsiang HL, Wheeler AL, Guskjolen A, Niibori Y, Shoji H, Ohira K, Richards BA, Miyakawa T, Josselyn SA, Frankland PW. Hippocampal neurogenesis regulates forgetting during adulthood and infancy. Science. 2014 May 9;344(6184):598-602. doi: 10.1126/science.1248903. PubMed PMID: 24812394.

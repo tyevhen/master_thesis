@@ -1,0 +1,67 @@
+Chapter 3 of Butcher's Abnormal Psychology has too much information for me to adequately summarize in one post. Therefore, I will break it into a few posts. So please bear with me. Of the chapters so far, this chapter was the longest and the least interesting to me. Which is unfortunate, because it's also the chapter that has the highest distribution of points in the upcoming exam. 
+
+The main purpose of this chapter is to review the three contemporary viewpoints on treating mental illness - biological, psychological, and social. This post will review the biological causes of mental illness.
+
+From the biological viewpoint, there are four commonly accepted causal factors of mental illness: neurotransmitter and hormonal abnormalities, genetic vulnerabilities, temperament, and brain dysfunction and neural plasticity. 
+
+
+
+
+The reason scientists believe that neurotransmitter imbalances lead to mental illness is the success of serotonin reuptake inhibitors (SSRIs) and similar drugs on alleviating symptoms. Serotonin is a molecule which is released by neurons to send signals to other neurons. The other neurons have serotonin receptors, which stimulate the neuronal response. They also have serotonin reuptake molecules, which bind to the serotonin and remove it from the system. An SSRI inhibits the reuptake of serotonin, thus increasing the length of time serotonin is present and able to bind the serotonin receptor. 
+
+According to the book, sometimes psychological stress can lead to neurotransmitter imbalances. There could be excessive production and release of the neurotransmitter, dysfunction in the reuptake or enzymatic breakdown of the neurotransmitter, or problems in the neurotransmitter receptors which may be overly- or under-sensitive. 
+
+My professor  suggested during last week's lecture that he doesn't think the theory of "chemical imbalance" is necessarily plausible. Just because an SSRI decreases symptoms, doesn't mean that the symptoms were caused by abnormally low levels of serotonin; anymore than the fact that Aspirin decreases certain symptoms means that those symptoms were caused by abnormally low levels of Aspirin. My professor even said that the "chemical imbalance" theory is  just as well-founded as the ancient Greek humor imbalance theory (discussed in my summary of Chapter 2). I admit that I'm not familiar with the neurotransmitter research, so I can't say whether my professor's reservations are well-founded. But he certainly made me think critically about the subject. 
+
+
+
+
+Hormonal imbalances can cause mental illness; an example is hypothyroidism leading to depression because it causes fatigue and slows the body down. My textbook focuses on the hypothalamic-pituitary-adrenal (HPA) axis. This focus seems to be because the HPA axis can release the stress hormone cortisol. 
+
+The genetic effect on mental illness seems fairly straight-forward at first glance. Some mental illnesses can be heritable. This heritability is because of genes that can, when activated by the right stressors, cause mental illness. If someone has such a gene, she has a preinclination for the mental illness but doesn't necessarily develop symptoms. 
+
+What makes genetic effects complicated is that genes can interact with the environment. For instance, a person with a gene for depression might also have depressive parents who create an environment that is less nurturing and functional, thus providing stressors which may lead to depression in the child. This is considered a passive effect. On the other hand, the child's genotype may actively affect her environment. For example, a sulky child may have trouble making friends, thus changing her environment to be one that increases likelihood of depression. There is also an evocative effect, in which parents may react negatively to sulky babies, leading to a less healthy relationship and more likelihood of depression. (I admit I'm having difficulty distinguishing between an active effect and an evocative effect - unless it is simply whether the child's temperament affects the parent's behavior or not.) 
+
+
+
+
+Psychologists study the genetic factor in mental illness using three models: pedigree analysis, twin studies, and adoption studies. In pedigree analysis, a psychologist can determine the strength of heritability within a family by comparing incidence within a family versus incidence within the community at large. The problem with this method is that families not only share genes, but also environments. 
+
+Thus, the other two methods are used to tease out the environmental factors from the genetic factors. Looking at the concordance rate in identical twins (the percentage of twins who share the disorder), compared to the concordance rate in siblings or fraternal twins could indicate how big of a role genetics plays. 
+
+Another method to tease out environmental factors from genetic factors is studying siblings (or better yet, identical twins) who are adopted into different families - and thus different environments. If identical twins who are adopted into different families have a high concordance rate for a mental illness, then it is likely that the genetic effect is strong. 
+
+An environment that is often forgotten is the womb during pregnancy. The child of a mother who was undergoing intense stress during pregnancy may have an inclination to respond strongly to stressful situations. The stress during pregnancy could be the cause of epigenetic changes - in which the genes themselves don't change, but there are changes in the chromosomes, such as the binding of certain molecules which change the expression of a particular gene (or set of genes). 
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview

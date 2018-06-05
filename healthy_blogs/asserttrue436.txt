@@ -1,0 +1,17 @@
+One of the more popular myths about antidepressants is that they take weeks to work. You'll find this "fact" stated axiomatically (which is to say without supporting citations) in many scientific papers, popular articles (web and print), and package inserts. "Everyone knows" SSRIs take weeks to work. It has to be true, because everybody says it is. Right?
+
+Wrong. In 2006, JAMA Psychiatry published a paper by Matthew J. Taylor et al. called "Early Onset of Selective Serotonin Reuptake Inhibitor Antidepressant Action: Systematic Review and Meta-analysis" (full copy here) that set out to answer this very question (the question of whether it takes weeks for antidepressants to work). Taylor and his colleagues looked at 20 reports involving 28 separate trials of antidepressants. The drugs studied in the 28 trials included fluoxetine (Prozac), paroxetine (Paxil), citalopram (Celexa), escitalopram (Lexapro), fluvoxamine (Luvox),and sertraline (Zoloft). The result:
+This analysis supports the hypothesis that SSRIs begin to have observable beneficial effects in depression during the first week of treatment. The early treatment effect was seen on the primary outcome of differences in depressive symptom rating scale scores [ . . .]
+All of the 28 trials kept weekly assessments of patients using either the Hamilton Depression Rating Scale (HDRS) or the Montgomery-Asberg Depression Rating Scale (MADRS). All found improvement in Week 1, and in fact the greatest weekly improvement typically occurs in Week 1, with subsequent weekly scores improving less and less as time goes on.
+
+A meta-analysis of 47 studies by Posternak and Zimmerman, published in the Journal of Clinical Psychiatry, 2005 Feb;66(2):148-58 found that by the end of Week 2, patients are experiencing 60% of whatever total effect they're ever going to see.
+
+
+This set of treatment response curves (from a study investigating combined
+use of olanzapine and fluoxetine, which is to say Zyprexa and Prozac) is
+typical, in that the biggest single-week gain is measured in Week 1.
+  Interestingly, there's some evidence that you may be able to speed up the onset of effects even more simply by taking aspirin along with your SSRI. Mendlewicz et al., writing in International Clinical Psychopharmacology, July 2006 21(4):227-231, reported:
+Participants were treated openly during 4 weeks with 160 mg/day ASA in addition to their current antidepressant treatment. The combination SSRI-ASA was associated with a response rate of 52.4%. Remission was achieved in 43% of the total sample and 82% of the responder sample. In the responder group, a significant improvement was observed within week 1 (mean Hamilton Depression Rating Scale-21 items at day 0=29.3±4.5, at day 7=14.0±4.1). [emphasis added]
+ASA is acetylsalicylic acid -- plain aspirin.
+
+For more on the counterfactual nature of the idea that antidepressants take weeks to act, see the paper by Alex J. Mitchell in The British Journal of Psychiatry (2006) 188: 105-106 (full copy here) and also the report by Parker et al. in Aust N Z J Psychiatry February 2000 vol. 34 no. 1, 65-70 (full copy here).

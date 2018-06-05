@@ -1,0 +1,5 @@
+Hashing and hash algorithms are a pet interest of mine. Understanding hashing at a low level takes a fair amount of meditation. Most programmers are too busy for that. Thus hashing is not well understood outside of, say, cryptography circles.
+
+As it turns out, the guy who did the amusing boredom-graph cartoon (see yesterday's blog) also has written one of the best overviews of hashing I've seen in a long time. Be sure to see his excellent Hash Functions and Block Ciphers page as well.
+
+Study the material on Bob's site. Save yourself years of meditation.

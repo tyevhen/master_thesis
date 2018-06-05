@@ -1,0 +1,13 @@
+Browser usage data from Q4 2008 to Q4 2011, for visitors of this blog.
+
+I was somewhat surprised (as many people were) to learn, earlier this month, that in terms of market share, Google's Chrome browser has recently surpassed Firefox in overall adoption. I shouldn't have been surprised at all: If I had taken the time to look carefully at my own blog's analytics, I would've seen this very result nine months ago.
+
+Readers of my blog tend to be developers, techies, and early adopters, and so Internet Explorer usage has never been high for people who visit this blog, whereas Firefox usage has always been high (68% in Q4 of 2008, for example). Trends like Chrome overtaking Firefox tend to show up early in my analytics; my readers are trendsetters. I completely didn't see the Firefox death spiral coming, however.
+
+I decided, finally, to sit down and sift through my analytics to find out exactly how browser usage has varied over time for visitors to this blog. In the graph above, I've plotted browser statistics quarter-by-quarter for the 13 quarters going back to Q4 2008 (the earliest date for which analytics were available). Note that data for the most recent quarter run only to mid-December (obviously). For the total data set going back to Q4 2008, we're talking slightly more than half a million total visits.
+
+The vertical scale tops out at 100 percent. Firefox (in blue) starts at 68 percent and ends, most recently, at 32 percent. Chrome starts at 8 percent and finishes at an impressive 38 percent. The curves crossed, for visitors to this blog, around nine months ago (in early 2011).
+
+What can I say? I don't think these sorts of trends bode well for Firefox. In fact I think the future is looking pretty bad for Firefox (for a variety of reasons), and there's probably not time to reinvent the product at this point.
+
+In the meantime, if you work for a software (or other) company that currently supports Firefox but not Chrome, you've got your priorities backwards! Get to work supporting Chrome, ASAP, lest the market leave you behind.

@@ -1,0 +1,16 @@
+Contrary to popular myth, it turns out that women and men tend to talk about the same amounts. A soon-to-be-published study described in Science reported that Pennebaker, et al., "equipped 396 college students--210 of them women--for several days with voice recorders that automatically turned on every 12.5 minutes to record for 30 seconds during their waking hours. All words spoken by the wearer were transcribed, counted, and extrapolated to estimate a daily word count."
+
+The results? Average number of words spoken per day:
+Women: 16,215 . . . Men: 15,669.
+The difference is not statistically significant.
+
+
+Now, this does not prove or refute the long-held belief that Dinah speaks more than Clink or Roy, as there is a wide variability in how many words one speaks.
+
+In the study, the variation ranged from a low of 700 to a high of 47,000 (that one was a man), according to John Grohol's post in PsychCentral.
+
+While the study, which really only applies to college students and not the general population, failed to confirm the widely-held belief that women talk more than men, it did confirm another stereotype:
+“Men talk more about technology, work, money. They also use more numbers,” he said. “Women talk more about fashion and about relationships.”
+
+
+Here is the histogram showing the spread of spoken daily words among the study participants:

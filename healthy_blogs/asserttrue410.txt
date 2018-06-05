@@ -1,0 +1,122 @@
+One thing every new bacteriology student learns on Day One is that some microbes are strict anaerobes (completely unable to use oxygen), and a universal characteristic of strict anaerobes is that they lack an important enzyme called catalase that breaks down hydrogen peroxide to oxygen and water. The idea is that anaerobes don't need to have catalase, because they don't live in the kind of highly oxidized environments where hydrogen peroxide forms. Lack of catalase is supposedly why many anaerobes are killed upon exposure to air. According to legend, once oxygen gets into the cells, hydrogen peroxide starts to build up, and with no catalase to break it down, anaerobes choke on toxic peroxides.
+
+I'll let you in on a little secret, though. This nice-sounding story (about peroxide buildup killing anaerobes upon exposure to air) turns out to be mostly conjecture, not well supported by science. Even the bit about anaerobes lacking catalase isn't completely true. Many anaerobes do make catalase.
+
+For today's post, I did a protein-sequence BLAST search against several families of obligate anaerobes using the katA gene of Proteus mirabilis as a reference, and I was quickly able to identify two dozen strict anaerobes that do, in fact, have a catalase gene (see table below).
+
+Table 1: Strict Anaerobes that Produce Catalase
+(tblastn query: Proteus mirabilis katA gene)
+
+Organism
+Length (AA)
+E-value
+Percent identities
+Alkaliphilus metalliredigens strain QYMF
+475
+4.0E-97
+40.0
+Anaerococcus prevotii strain DSM 20548
+473
+2.0E-162
+59.6
+Anaerococcus vaginalis strain ATCC 51170
+482
+3.0E-171
+61.4
+Bacteroides coprocola strain DSM 17136
+479
+0
+68.6
+Bacteroides coprophilus strain DSM 18228
+477
+0
+68.3
+Bacteroides eggerthii strain 1_2_48FAA
+478
+0
+69.6
+Bacteroides intestinalis strain DSM 17393
+478
+0
+70.0
+Bacteroides ovatus strain 3_8_47FAA
+478
+0
+69.0
+Bacteroides plebeius strain DSM 17135
+479
+0
+68.2
+Bacteroides thetaiotaomicron strain VPI-5482
+480
+0
+68.7
+Clostridium botulinum A3 strain Loch Maree
+341
+4.0E-67
+38.1
+Clostridium botulinum B1 strain Okra
+463
+1.0E-67
+33.9
+Clostridium hathewayi strain WAL-18680
+474
+7.0E-167
+58.6
+Clostridium lentocellum strain DSM 5427
+476
+2.0E-168
+59.4
+Clostridium phytofermentans strain ISDg
+472
+3.0E-107
+43.6
+Desulfitobacterium dichloroeliminans strain LMG P-21439
+477
+0
+72.3
+Desulfitobacterium hafniense DCB-2
+493
+1.0E-100
+39.9
+Desulfosporosinus youngiae strain DSM 17734
+491
+7.0E-103
+41.1
+Desulfotomaculum ruminis strain DSM 2154
+477
+2.0E-142
+52.2
+Dethiobacter alkaliphilus strain AHT 1
+468
+5.0E-102
+40.3
+Lachnospiraceae bacterium strain 3_1_57FAA_CT1
+470
+1.0E-165
+59.5
+Propionibacterium acnes strain 266
+444
+3.0E-114
+47.2
+Syntrophobotulus glycolicus strain DSM 8271
+484
+2.0E-102
+40.7
+Veillonella sp. strain 3_1_44
+474
+0
+66.0
+
+Each entry in this table represents a protein-sequence (not DNA sequence) match between a gene in the organism listed and the catalase gene of Proteus mirabilis. (Proteus is a facultative anaerobe related to E. coli and Salmonella.) The length of each organism's catalase enzyme, in amino acids, is shown under Length. (By way of reference, the Proteus catalase is 484 amino acids long.) E-value is the so-called expectation value, a measure of how likely the sequence match would be by chance. All of the values shown are extraordinarily low. "Percent identities" is the percentage of amino-acid matches between the Proteus enzyme and the target organism's enzyme. Values in the 30% to 40% range are not unusual for functionally related enzymes in otherwise distantly related organisms. Values above 60% tend to suggest a phylogenetic relationship, whereas in two organisms that are known to be unrelated, a value above 70% would (in many cases) be considered evidence of possible horizontal gene transfer. 
+
+Here's the protein-blast query sequence I used, in case you want to verify these results (or go looking for more catalase-producing anaerobes):
+
+>Proteus mirabilis strain HI4320(v1, unmasked), Name: PMI1740, YP_002151471.1, katA, Type: CDS, Feature Location: (Chr: 1, 1861974..1863428) Genomic Location: 1861974-1863428
+MEKKKLTTAAGAPVVDNNNVITAGPRGPMLLQDVWFLEKLAHFDREVIPERRMHAKGSGAFGTFTVTHDITKYTRAKIFSEVGKKTEMFARFSTVAGER
+GAADAERDIRGFALKFYTEEGNWDMVGNNTPVFYLRDPLKFPDLNHIVKRDPRTNMRNMAYKWDFFSHLPESLHQLTIDMSDRGLPLSYRFVHGFGSHT
+YSFINKDNERFWVKFHFRCQQGIKNLMDDEAEALVGKDRESSQRDLFEAIERGDYPRWKLQIQIMPEKEASTVPYNPFDLTKVWPHADYPLMDVGYFEL
+NRNPDNYFSDVEQAAFSPANIVPGISFSPDKMLQGRLFSYGDAHRYRLGVNHHQIPVNAPKCPFHNYHRDGAMRVDGNSGNGITYEPNSGGVFQEQPDF
+KEPPLSIEGAADHWNHREDEDYFSQPRALYELLSDDEHQRMFARIAGELSQASKETQQRQIDLFTKVHPEYGAGVEKAIKVLEGKDAK
+
+ADDENDUM: After writing this post, I found that catalase also occurs in archeons. See this post for details.

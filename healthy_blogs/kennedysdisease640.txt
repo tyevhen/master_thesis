@@ -1,0 +1,27 @@
+The MDA published the following article on a Kennedy's Disease researcher many of us know.
+Five Questions with SBMA Researcher Diane Merry
+Diane Merry, associate professor at Thomas Jefferson University in Philadelphia, is working to identify therapeutic opportunities to promote normal androgen receptor function while preventing the toxic effects of polyglutamine expansion in spinal-bulbar muscular atrophy (SBMA). With GlaxoSmithKline, Merry will test small molecule compounds that activate an enzyme called SIRT1 in cell and mouse models of SBMA to determine their therapeutic potential.
+
+Please describe your current research in SBMA.
+Many neurodegenerative diseases result from protein misfolding and accumulation due to genetic or environmental causes. SBMA is one such disease; it is an inherited, adult-onset, neuromuscular disease that is caused by the expansion of a polyglutamine tract within the androgen receptor (AR) and is related mechanistically to other neurodegenerative diseases caused by polyglutamine expansion.
+
+An important feature of SBMA is that its onset and progression are dependent on the binding of androgenic hormones to the mutant receptor. Our studies of mouse and cell models of SBMA that reproduce the androgen- and polyglutamine-dependent nuclear AR aggregation seen in patients, as well as its toxicity, revealed that the mutant AR must be modified by the addition of acetyl groups for its aggregation and toxicity. Moreover, the deacetylase SIRT1 is strongly neuroprotective in cell models of SBMA and this neuroprotection largely depends upon its ability to remove acetyl groups from the mutant AR.
+
+We are investigating the therapeutic potential of activating this acetyl group-removing enzyme, SIRT1, with small molecule activators. We will test these compounds in cell models, and ultimately in mouse models, of SBMA.  We anticipate that these studies will reveal new and powerful opportunities for therapeutic development in SBMA.
+
+Is this your first MDA grant?
+No, I was funded previously (as a post-doctoral fellow and then when I started my lab) by MDA.  It means a tremendous amount to me to be funded once again by this organization that is so committed to finding a cure for neuromuscular diseases.
+
+What inspired you to study SBMA?
+I come from a strong background of training in molecular genetics and molecular pathophysiology. I began to study the molecular basis of this disease in 1993, just a short time after the genetic cause of the disease was identified.  I have been studying SBMA ever since that time — for the past 22 years.
+
+What is your focus within the SBMA field, and why is it important?
+My focus is on the mutant androgen receptor protein itself and the effect of the polyglutamine expansion on androgen receptor metabolism (structure, trafficking, protein interactions, turnover), in order to identify therapeutic opportunities to promote normal androgen receptor function while preventing the toxic effects of the polyglutamine expansion. The work funded by this grant is designed to do just that.
+
+There is currently no effective therapy or cure for SBMA and thus an effective therapy is a primary goal of our work. The work funded here is likely to bring us closer to that goal.
+
+What do you feel people impacted by SBMA can have the most hope about with respect to research right now?
+We know so much more about the disease process at this point in time, and we and others have identified disease targets for therapeutic development. I do think that a therapy or therapies are within sight for SBMA in the foreseeable future.
+
+Does your work have any potential implications for other disease fields?
+Our work has implications for other diseases in which the enzyme SIRT1 is neuroprotective.  Although the SIRT1 target proteins may be distinct, the identification of small molecule activators of SIRT1 is likely to open up possibilities for using these activators to treat other diseases.

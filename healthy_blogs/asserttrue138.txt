@@ -1,0 +1,50 @@
+A week or so ago, in an attempt to get a more stable browsing environment, I upgraded Firefox (on a Toshiba laptop, my primary work machine) to the latest/greatest version, and separately downloaded and installed the very latest version of Flash Player.
+
+Within two hours, my browser hung.
+
+It was Flash Player, gone apeshit. As usual.
+
+Flash is easily the least reliable, least secure, most power-hungry, incessantly out-of-date piece of software on my machine. It is relentlessly unstable, unpredictably using disk, grabbing memory, hanging, stalling, crashing, updating, bringing my browser (and indeed the whole machine) to its knees. It's an absolute atrocity, a horrific impediment to getting work done.
+
+It's time for the madness to end. It was time, five years ago. That was when Steve Jobs warned us of Flash's inapropriateness in a commendably calm, well reasoned blog. We should have paid heed.
+
+Adobe now needs to pay heed. It needs to set an end-of-life date for Flash and begin transitioning us off the Software from Hell, toward HTML5, immediately. It needs to acknowledge, in public, that Flash is wrong for the Web, wrong for mobile, wrong for security; a technological dead end. Adobe's best bet is to wash its hands of the technology in a public way, as soon as possible.
+
+
+In 2012, Mozilla released Shumway, an open-source replacement for Flash that automatically converts SWF files into HTML5 using JavaScript. Google's Swiffy does the same. We need to leverage these and other ways to get Flash the hell out of our lives.
+
+I take no pleasure in having to say any of this. As a former Adobe employee, I have mostly good things to say about Adobe technologies. But not about this technology. This technology is evil. As Jason Koebler said over at Vice, it's "the Internet's least favorite tool."
+
+
+Flash originated with FutureWave's SmartSketch Animator, a product developed by Jonathan Gay (full history here). Interestingly, in 1995 FutureWave approached, but was rebuffed by, Adobe. In 1996, Macromedia approached FutureWave about working together. Thus began the product known as Shockwave Flash, which Adobe later inherited when it bought Macromedia in 2005.
+
+The internals of Flash are semi-interesting, if you're a geek, but we'll skip that. The important thing to note is that Flash was never a bonafide web standard in the sense of being blessed and managed by an industry group like W3C. It has always been a proprietary bastard technology under the control of a commercial giant. Adobe did try to open it up in various ways, but their efforts fell squarely in the too-little/too-late category. (PDF is more of an open standard than SWF is, but that, alas, is not saying much either.)
+
+Experiments with proprietary semi-open standards never go well. (Ask Microsoft about Silverlight.) If we should have learned anything from the last 25 years, it's that standards matter. Things like HTML, CSS, JavaScript, XML, HTTP matter a great deal. They're too important to remain the slightest bit proprietary.
+
+
+Adobe foolishly and arrogantly pushed back when Steve Jobs issued his warning. Now they pay the price. At the time of Jobs's blog, Flash was used in 28% of all websites. Today, it's used in just over 11%. And no one I know wants to have Flash on his or her machine.
+
+Having worked for Adobe, I can speculate on why the company continues to develop and defend Flash: arrogance and misplaced self-confidence. Lack of humility. Unwillingness to take criticism and admit flaws. Those traits permeate Adobe culture (in my opinion), as they permeate many, many corporate cultures.
+
+It's not too late for Adobe to do the right thing: help rid the planet of Flash (which at this point is principally important to the porn industry, malware creators, advertisers, some gamers; and maybe law enforcement).
+
+If it acts fast, Adobe can limit the damage Flash does to its reputation, daily.
+
+Or it can maintain its posture of arrogance.
+
+Either way, Steve Jobs wins.
+
+
+ ☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms lie. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+☙ ❧ 
+  I want to thank the following great folks who retweeted me yesterday on Twitter. My advice? Follow these guys. They retweet!
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

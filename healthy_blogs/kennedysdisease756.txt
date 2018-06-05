@@ -1,0 +1,20 @@
+The World Journal of Biological Chemistry published another interesting Kennedy’s Disease study this week. Below is a portion of the abstract. The entire paper can be read by following the link below. This is preliminary research and more study is required to determine the potential benefits and possible side effects.
+
+Background - The AR gene contains CAG repeats which affect receptor function, where fewer repeats leads to increased receptor sensitivity to circulating androgens and more repeats leads to decreased receptor sensitivity.
+
+Identification of neuron selective androgen receptor inhibitors
+World J Biol Chem. May 26, 2017; 8(2): 138-150
+
+AIM
+To identify neuron-selective androgen receptor (AR) signaling inhibitors, which could be useful in the treatment of spinal and bulbar muscular atrophy (SBMA), or Kennedy’s disease, a neuromuscular disorder in which deterioration of motor neurons leads to progressive muscle weakness.
+
+METHODS
+Cell lines representing prostate, kidney, neuron, adipose, and muscle tissue were developed that stably expressed the CFP-AR-YFP FRET reporter. We used these cells to screen a library of small molecules for cell type-selective AR inhibitors. Secondary screening in luciferase assays was used to identify the best cell-type specific AR inhibitors. The mechanism of action of a neuron-selective AR inhibitor was examined in vitro using luciferase reporter assays, immunofluorescence microscopy, and immunoprecipitations. Rats were treated with the most potent compound and tissue-selective AR inhibition was examined using RT-qPCR of AR-regulated genes and immunohistochemistry.
+
+RESULTS
+We identified the thiazole class of antibiotics as compounds able to inhibit AR signaling in a neuronal cell line but not a muscle cell line. One of these antibiotics, thiostrepton is able to inhibit the activity of both wild type and polyglutamine expanded AR in neuronal GT1-7 cells with nanomolar potency. The thiazole antibiotics are known to inhibit FOXM1 activity and accordingly, a novel FOXM1 inhibitor FDI-6 also inhibited AR activity in a neuron-selective fashion. The selective inhibition of AR is likely indirect as the varied structures of these compounds would not suggest that they are competitive antagonists. Indeed, we found that FOXM1 expression correlates with cell-type selectivity, FOXM1 co-localizes with AR in the nucleus, and that shRNA-mediated knock down of FOXM1 reduces AR activity and thiostrepton sensitivity in a neuronal cell line. Thiostrepton treatment reduces FOXM1 levels and the nuclear localization of beta-catenin, a known co-activator of both FOXM1 and AR, and reduces the association between beta-catenin and AR. Treatment of rats with thiostrepton demonstrated AR signaling inhibition in neurons, but not muscles.
+
+CONCLUSION
+Our results suggest that thiazole antibiotics, or other inhibitors of the AR-FOXM1 axis, can inhibit AR signaling selectively in motor neurons and may be useful in the treatment or prevention of SBMA symptoms.
+
+Drawing and Background of CAG-AR - Wikipedia

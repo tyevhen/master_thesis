@@ -1,0 +1,46 @@
+Can something as simple as height explain women's lower earning power?
+
+It's funny how, in the space of 20 years or so, "height research" has gone from an oddball, poorly respected area of research to a fully legitimate, active branch of the larger field of anthropometry. People who work in this area study things like how population height varies over time, how body height varies with respect to things like income or mortality, etc. Some pretty interesting facts have come to light.
+
+For example, there is absolutely no doubt any more that height predicts your lifetime earning potential. Dozens of studies (and meta-analyses: studies of studies) show that tall people earn more, your height at age 16 predicts future earnings, every extra inch of height means $789/yr more salary (U.S.), 90% of CEOs are above-average height, etc., and also the income of a nation predicts the height of its people:
+
+Log income per capita versus median body height – Baten & Blum (2012).
+
+It's also well established that Europeans are now taller than Americans, and that (in fact) Americans not only stopped growing taller 30 years ago, they've actually been shrinking, and U.S. women are shrinking faster than men.
+
+European men have been getting taller, but American men have been shrinking since 1978.
+
+The median Dutch woman of today is taller than the median Dutch man of 100 years ago. But the median U.S. woman is only a couple millimeters taller today than the U.S. woman of 100 years ago; women in the U.S. have come full circle.
+
+Note: A quick back-of-the-envelope calculation shows that about 39% of the gender pay differential in the U.S. can be explained by height alone. Women in the U.S. are now about 5 inches shorter than men. The "height advantage" in pay is $789 per year per inch. That's almost $4000 less, per year, for women. The median per capita income difference between U.S. men and women is about $10K per year. QED.
+
+A huge amount of research has been done correlating height with income (I won't repeat it here) and lately it's become fashionable to do all kinds of research on income inequality (I'm reading Piketty's Capital now; an essential book for understanding inequality), so I naturally assumed that someone, by now, has surely looked at height versus income inequality. But surprisingly, I could find nothing in the recent literature.
+
+However, I did stumble onto a fantastic bit of citizen science on this subject. A blogger at bbninja.com has obtained height data for about 60 countries, and income inequality data for those same countries, and plotted the data. The graph for men looks like this:
+
+Male height (y-axis) versus Gini coefficient (x-axis) for various countries. A high Gini value means high income inequality.
+
+What we see is just what I would have predicted, which is that there is a definite inverse correlation (R=0.415) between body height and income inequality. Wherever income inequality is greater, men tend to be shorter. (The graph for females is virtually identical.) This is somewhat counterintuitive inasmuch as high-Gini countries tend, also, to be rich countries. We know that rich countries have taller people. But that only makes the above graph more believable, in my opinion. Inequality is not simply a proxy for income.
+
+The correlation is not super-strong, because so many factors go into determining how tall you become. We wouldn't expect Gini coefficient to explain very much of a person's height, and indeed it doesn't (the R-squared value above means it explains, at most, about 17% of height differences). Still, it's a superb result and deserves to be published (or made into a dissertation).
+
+Some enterprising grad student should seize on these results and pursue the matter further, perhaps (for example) determining, numerically, the degree to which income inequality (or other factors) account for the height difference between men and women. It's likely to be a small degree, obviously, because we "know" the gender height differential is biological. But do we know that? No specific biochemical or molecular-genetic mechanism has ever been offered for the height difference between males and females. We know of one gene on the X chromosome that (when overexpressed, in females) accounts for 1% of the height difference between the sexes, in humans. Aside from that, it's not known how women end up shorter (since they have essentially the same genes as men, differing only in having two copies of the X chromosome). Tip: It's not a simple matter of hormones. Women actually make several times more pituitary growth hormone than men.
+
+So if you're a grad student in biology, please work on explaining in detailed molecular terms how women end up shorter (this is still very much an open question); and if you're a grad student in sociology, please work on explaining the degree to which sociological factors (access to health care, access to nutrition, access to wealth, exposure to poverty, etc.) make women end up shorter.
+
+Let me know when you're done, so I can blog the results here.
+
+ ☙ ❧
+
+Tired of lies and half-truths about mental illness? Arm yourself with some facts. Check out my free book Mental Health Myths Debunked. Tons of info, tons of live links, lots of straight talk about depression, suicide, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data, so you can weigh the evidence for yourself). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms are based on obsolete data. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+☙ ❧ 
+  I want to thank the following great folks who retweeted me yesterday on Twitter. My advice? Follow these guys. They retweet!
+
+
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

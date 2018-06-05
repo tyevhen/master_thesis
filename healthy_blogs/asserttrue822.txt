@@ -1,0 +1,19 @@
+Day Software announced the winner of the JCR Cup 08 competition today. College sophomore Russell Toris won top prize (taking home a MacBook Pro) with a little web app called "Crux" (a shameless play on CRX, which is Day's commercial Java Content Repository).
+
+I managed to learn a tiny bit more about Crux. And from what I've seen, it is indeed a clever use of JSR-170 technology.
+
+What it lets you do is copy and paste arbitrary selections from any web page that's open in your browser, and save them straight to a JSR-170 repository (in this case, Day CRX, which is built atop Apache Jackrabbit). When you want to retrieve the selection(s) again, you can browse the repository and open them again in your browser.
+
+Why is this useful? Here's the use case. Suppose you've got a dozen tabs open in Firefox (because you're researching a term paper) and you want to save references to the various content items you've been looking at. The conventional thing to do is bookmark all the open pages. But the problem with bookmarks is that they don't actually encapsulate any content from the pages you were on: They just encapsulate URLs and page titles (which are often meaningless).
+
+With Crux, you highlight and Copy content selections from pages, then push those items into the repository with the click of a button. (Of course, you have to have a repository server running somewhere, reachable via HTTP.) When you want the clipped items again, you visit one URL (the node in the repository where the items are stored), and there are all your snippets, viewable in a single summary page. And they render nicely since Crux saves actual selection-source markup, not just raw text. Any embedded links, images, etc., in the clipped content are still there. Also, each entry in Crux contains a trackback link to the original source page, in case you really do need to go back to the page in question.
+
+If you think about it, saving content clippings is actually a very compelling alternative to bookmarking. A bookmark is just an address. What you care about is the content, not the address. I have hundreds of bookmarks already. I can't keep them straight. They just keep piling up, and I can't remember what most of them are for. (Even the ones I use a lot, I sometimes have trouble finding again.) Crux provides a useful alternative.
+
+How do you find something in the repository after you've pushed hundreds of content items into it with Crux? You use whatever repository search tools you'd normally use. Only this time, you can actually run full text searches on the content items you stored, rather searching page names in your Bookmarks collection.
+
+Functionality similar to Crux is available via Clipmarks. Also, Microsoft tries to do some of this with its Onfolio and OneNote products (which are, IMHO, painfully klutzy). Crux looks and feels very light and simple. It definitely hits a sweet spot.
+
+Whether Crux's source code will ever see the light of day, I don't know. (Entrants in the JCR Cup competition were not required to make source code public.) Reportedly, the code is all JavaScript and requires Greasemonkey.
+
+In any event, congratulations Russell Toris! And kudos to Day for sponsoring the competition. It's nice to see JCR being used for something practical, lightweight, and simple. Well done.

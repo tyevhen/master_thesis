@@ -1,0 +1,35 @@
+Ladyk73 (aka LadyAK47) asked a while back about how drugs get their names.
+Hello there! I have a question!!!!!!
+(I can imagine Roy crawling into the dungeons of some long-lost medical library somewhere to find the answer to this)
+
+Anyways, this is really bothering me.
+
+When I was a C-/D+ pharmacy student, one of the few things I learned was that there was some sort of nomenclature that was used to name drugs. The generic/chemical name, not those fancy drug pushers name....
+
+Why does Trazodone have an -one suffix? As in a whole lot of corticosteriods end in -one.
+What does the -one in trazadone stand for? Or does any of the name can be explained by nomenclature ways?
+Great question!  Glad you asked...
+
+The drug names are all decided by Tony, Bill, David, Peter, and Darin.
+
+These are the most recent members of the USAN, the United States Adopted Name Council.  This is a 5-member organization consisting of representatives from the AMA, APhA, USP, FDA, and a member-at-large.  USAN works with the World Health Organization to come up with rules for naming drugs, and agrees on new drug names after the manufacturer applies for a new name (usually after submitting the drug to the FDA as an IND (Investigational New Drug).
+
+There is a list of rules for naming drugs, typically based on their chemical structure, their therapeutic indication, or their mechanism of action.  Examples:
+
+a.  The name for the active moiety of a drug should be a single word, preferably with no more than four syllables.
+b.  The name for the active moiety may be modified by a single term, preferably with no more than four syllables, to show a chemical modification, such as salt or ester formation.  Examples can include cortisone acetate from cortisone, cefamandole sodium from cefamandole or erythromycin acistrate from erythromycin.
+c.  Only under compelling circumstances is a name with more than one modifying term acceptable.  Compelling circumstances may pertain to such examples as pharmaceuticals containing radioactive isotopes or the different classes of interferons.
+d.  Acronyms, initials and condensed words may be acceptable in otherwise appropriate terminology.
+To see the entire list of rules, go to this .pdf, the USAN Stem List.  Examples:
+
+CHEMICAL SUFFIX TYPE OF MEDICATION EXAMPLES
+-anserin
+serotonin 5-HT2 receptor antagonists altanserin, tropanserin, adatanserin 
+-azepam antianxiety agents (diazepam type) lorazepam 
+
+-peridol antipsychotics (haloperidol type) haloperidol 
+-peridone antipsychotics (risperidone type) risperidone, iloperidone 
+-perone antianxiety agents/neuroleptics duoperone  
+-pezil acetylcholinesterase inhibitors used in the treatment of Alzheimer’s disease donepezil , icopezil
+-pidem hypnotics/sedatives (zolpidem type) zolpidem alpidem 
+-pirdine cognition enhancers linopirdine, besipirdine, sibopirdine

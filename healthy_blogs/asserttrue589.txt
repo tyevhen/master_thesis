@@ -1,0 +1,7 @@
+Google has announced a new image format for the web, called WebP. Its advantage over JPEG? Better compression, of course. The above graph shows results obtained when compressing approximately "1 million images randomly sampled from a repository of images crawled from the web." Google's comparative study of WebP, JPEG 2000, and Re-JPEG can be found here. An image gallery is here.
+
+According to Google, "WebP typically achieves an average of 39% more compression than JPEG and JPEG 2000, without loss of image quality ."
+
+Converter code is available on the downloads section of the WebP open-source project page.
+
+The WebP team is reportedly developing a patch to WebKit to provide native support for WebP in an upcoming release of Google Chrome. It's anyone's guess as to when (or whether) the format will be supported by other browsers, but it seems likely that Firefox, Opera, and Safari will follow suit. The question, of course, is what happens if Internet Explorer ignores the format altogether (as seems likely)? The answer, I think, is that IE continues on its trajectory of becoming less relevant by the day.

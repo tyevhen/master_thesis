@@ -1,0 +1,22 @@
+We had a project in the office recently wherein a large amount of web documentation was converted to a (single) PDF file using the built-in Web Capture capability of Acrobat X (otherwise known as Control-Shift-O), and when we were done, we wanted a page number to appear on each page. It turns out, it's fairly easy to apply page numbers to (any) PDF file using a bit of JavaScript.
+
+Here is a script that will add a page number (as a read-only text field) to the upper left corner of every page of a PDF document. (Obviously, you can adjust the script to place the page number in any position you want, if you don't like the upper left corner.) The best way to play with this code is to run it in the JS console in Acrobat Pro (Control-J to make the console appear). Paste the code into the console, select all of it, then type Control-Enter to execute it.
+
+var inch = 72;
+for (var p = 0; p < this.numPages; p++) { 
+ // put a rectangle at .5 inch, .5 inch 
+  var aRect = this.getPageBox( {nPage: p} ); 
+  aRect[0] += .5*inch;// from upper left corner of page 
+  aRect[2] = aRect[0]+.5*inch; // Make it .5 inch wide 
+  aRect[1] -= .5*inch; 
+  aRect[3] = aRect[1] - .5*inch; // and .5 inch high 
+  var f = this.addField("p."+p, "text", p, aRect ); 
+  f.textSize = 20;  // 20-pt type
+  f.textColor = color.blue; // use whatever color you want
+  f.strokeColor = color.white; 
+  f.textFont = font.Helv; 
+  f.value = String(p+1);  // page numbering is zero-based
+  f.readonly = true; 
+} 
+
+When you're done, you'll have a page number (as a read-only text field) on each page. If you like, you can Flatten the PDF programmatically using flattenPages() in the console afterwards, to convert the text fields to static objects on the pages (making them no longer editable as text fields).

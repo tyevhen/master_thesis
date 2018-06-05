@@ -1,0 +1,72 @@
+The w3c-dist-auth@w3.org list today received an interesting proposal for a new protocol, tentatively dubbed JSOP by its authors (David Nüscheler and Julian Reschke of Day Software). As the name hints, JSOP would be based on JSON and would be a RESTful protocol designed to facilitate the exchange of fine-grained information between browsers and (repository-based) server apps. As such, it's one of the first proposals (maybe the first?) to make extensive use of HTTP's new PATCH verb.
+
+Why does the world need JSOP? "For the past number of years I always found myself in the situations where I wanted to exchange fine-grained information between a typical current browser and a server that persists the information," explains David Nüscheler. "In most cases for me the server obviously was a Content Repository, but I think the problem set is more general and applies to any web application that manages and displays data or information. It seemed that every developer would come up with an ad-hoc solution to that very same problem of reading or writing fine-grained data at a more granular level than a resource."
+
+For example, what if you want to modify not just a resource but certain properties of the resource? WebDAV is often an answer in such situations (or you might be thinking AtomPub in the case of CMIS), but the fact is, it can take a lot of effort -- too much effort, some would say -- to achieve your goals using WebDAV, and in the end, HTML forms have no native understanding of property-based operations. As Nüscheler puts it, WebDAV and AtomPub "are not very browser-friendly, meaning that it takes a modern browser and a lot of patience with JavaScript to get to a point where one can interact with a server using either of the two."
+
+So in other words, something as simple as setting or getting attributes on a folder shouldn't take a lot of hoop-jumping. You should be able to do things like:
+
+Request:
+GET /myfolder.json HTTP/1.1
+
+Response:
+{
+"createdBy" : "uncled",
+"name" : "myfolder",
+"id" : "50d9317a-3a95-401a-9638-333a0dbf04bb"
+"type" : "folder"
+}
+
+or:
+
+Request:
+GET /myfolder.4.json HTTP/1.1
+
+Response:
+{
+"createdBy" : "uncled",
+"name" : "myfolder",
+"id" : "50d9317a-3a95-401a-9638-333a0dbf04bb"
+"type" : "folder"
+"child1" :
+{
+ "grandchild11" :
+ {
+   "depth3" :
+   {
+     "depth4 : { ... }
+   }
+ }
+}
+}
+In the above example (with nested folders), notice that the GET is on a URL of /myfolder.4.json. Notice the '.4.json', indicating that the server should return folders 4 levels deep.
+
+Suppose you want to create a new document under /myfolder, delete an old document, move a doc, and update an attribute on the folder -- all in one operation. With JSOP, you could do something like:
+
+PATCH /myfolder HTTP/1.1
+
++newdoc : { "type" : "document", "createdBy" : "me" }
+-olddoc
+>movingdoc : /otherfolder/mydocument
+^lastModifiedBy : "me"
+
+where + means to create a node/property/resource, - means delete, > means move, and ^ means update.
+
+JSOP proposes not only to be JavaScript-friendly but forms-friendly. So for example, imagine that you want to upload a .gif image and update its metadata at the same time, using an HTML form. Under the Reschke/Nüscheler proposal, you could accomplish this with a form POST:
+
+POST /myfolder/my.gif HTTP/1.1
+Content-Type: multipart/form-data;
+boundary=---------21447684891610979728262467120
+Content-Length: 123
+---------21447684891610979728262467120
+Content-Disposition: form-data; name="data"
+Content-Type: image/gif
+GIF89a...................!.......,............s...f.;
+---------21447684891610979728262467120
+Content-Disposition: form-data; name="jsop:diff"
+Content-Type: text/plain
+^lastModifiedBy : "me"
++exif { cameraMake : "Apple", cameraModel : "Apple" }
+---------21447684891610979728262467120--
+
+Bottom line, JSOP promises to provide an easy, RESTful, forms-friendly, JavaScript-friendly way to do things that are possible (but not necessarily easy) right now with WebDAV or AtomPub. It should make working with repositories a snap for mere mortals who don't have time to master the vagaries of things like CMIS or WebDAV. In my opinion, it's a much-needed proposal. Here's hoping it becomes a full-fledged IETF RFC soon.

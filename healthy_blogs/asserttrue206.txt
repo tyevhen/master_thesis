@@ -1,0 +1,191 @@
+Antidepressants have not fared particularly well in clinical trials to determine efficacy. Placebo effect has gotten stronger over the years, resulting in many expensive failures of late-stage (Phase III) drug trials, with the result that most major drug makers have halted R&D programs aimed at developing new psychiatric drugs. Many of today's most popular drugs for depression barely achieved efficacy 30 years ago; if they had to jump through the same FDA hurdles today, most wouldn't make it.
+
+The following table, from a 2003 Neuropsychopharmacology paper by Khan et al., shows the results of fixed-dose clinical trials (done for FDA approval) for a variety of antidepressants: fluoxetine (Prozac), nefazadone (Serzone), venlafaxine (Effexor), sertraline (Zoloft), bupropion (Wellbutrin), and citalopram (Celexa). Note that Serzone has since been pulled from the market over liver toxicity concerns. Trials in which the drug (at the dose shown) was superior to placebo are shown in bold. Remarkably, only a third of trials showed the drugs to be better than placebo.
+
+
+
+Placebo
+Antidepressant
+Antidepressant: protocol
+Duration of trial (weeks)
+% symptom reduction
+% symptom reduction
+Dose (mg/day)
+1. Fluoxetine: 62
+6
+23.5
+39.7
+20
+
+
+
+39.8
+40
+
+
+
+29.8
+60
+2. Nefazadone: 03AOA-003
+6
+26.3
+32.5
+50–250
+
+
+
+43.0
+500
+3. Venlafaxine: 600A-203
+6
+26.5
+42.7
+75
+
+
+
+45.8
+150–225
+
+
+
+42.2
+300–375
+4. Sertraline: 103
+6
+30.0
+42.7
+50
+
+
+
+39.4
+100
+
+
+
+35.8
+200
+5. Bupropion: 203
+8
+34.9
+43.6
+300
+6. Bupropion: 205
+8
+35.5
+38.1
+300
+
+
+
+38.4
+400
+7. Nefazadone: 030A2–0007
+6
+37.1
+51.0
+200
+
+
+
+42.1
+300
+8. Mirtazapine: 003–008
+6
+37.2
+29.2
+15
+
+
+
+26.7
+30
+
+
+
+32.0
+60
+9. Venlafaxine: 600A-313
+6
+37.4
+42.6
+50–75
+
+
+
+46.1
+150–200
+10. Citalopram: 91206
+6
+37.8
+40.6
+20
+
+
+
+50.0
+40
+
+
+
+49.4
+60
+11. Nefazadone: 03AOA-004A
+6
+37.9
+35.8
+150–300
+
+
+
+40.3
+300–600
+12. Nefazadone: 03AOA-004B
+6
+38.0
+40.2
+100–300
+
+
+
+50.0
+300–600
+13. Bupropion: 212
+8
+41.0
+45.5
+300
+
+
+
+
+
+14. Citalopram: 89303
+6
+44.7
+45.7
+40
+15. Venlafaxine ER: 367
+8
+49.2
+57.8
+20
+
+
+
+58.9
+75
+
+
+
+53.9
+150
+
+How, then, did FDA decide to approve the drugs? Fixed-dose trials are not the only kind of trials used in drug approval. The drug makers also submit flexible-dose trials. Those are successful around 60% of the time. (See the Khan paper for data.)
+
+Fixed-dose trials are typically done to establish dose-response relationships. Since weaker doses might not be as efficacious, it stands to reason that fixed-dose trials (which can be weighed down by weak-dose results) should fare worse than flexible-dose trials in terms of establishing efficacy. In theory, at least. In reality, that's not what Khan et al. found. When they looked at symptom reduction as a function of dose, they were unable to demonstrate a clear relationship ("paradoxically," in the investigators' words). Dose doesn't seem to matter much.
+
+Looking at overall results, the average improvement in patient HAMD score was 35.8% for those who received placebo and 42.2% for those who got an antidepressant. One interpretation of this is that 85% (35.8 divided by 42.4) of the benefit of the drugs is due to placebo effect. But it's also possible that the only thing we're seeing here, in any of the results, is placebo effect. The greater "response" on drugs may be due to breaking of blind, as drug-takers realize (when side effects start to kick in) that they're not in the placebo group and begin thinking they're taking something powerful (when really it's just a different kind of placebo). This would also explain why dosage doesn't matter.
+
+As you know (if you're a regular reader of this blog), I'm writing a mental illness memoir which is undergoing final proofing and formatting right now. Sample chapters will be available very soon. Add your name to the mailing list to be notified when samples are ready. Thanks!

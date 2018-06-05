@@ -1,0 +1,35 @@
+Tech has wrought plenty of changes in the economy, some of which we saw coming, some of which no one saw coming; but how many of us are ready for the idea that Apple and/or Amazon (and/or Google) may end up obsoleting banks?
+
+Oh sure, banks will still have things to do after they're no longer issuing debit cards and processing checks and getting in the way of electronic transactions. Banks will still make loans and give away toasters and try to sign you up for various financial products you don't need. But they won't be controlling transactions.
+
+Right now, things like Apple Pay (and its imitators) are sitting clumsily in the middle of a cumbersome old-school transaction infrastructure, with banks and credit-card companies acting as the gatekeepers. But that's temporary. The endgame will be one in which peer-to-peer transactions, using blockchain technology for trust propagation, will obviate the need for external gatekeepers.
+
+Your Apple Watch is your wallet. Once every month or so, you'll stash a cache of iCash in your wallet. (That'll be automated someday, but for purposes of example, imagine that your iTunes account has $100 in credits already.) You go shopping. You find a $20 article of clothing that you like and ask the seller: "Do you take Apple Cash?" She says "But of course." You click wrists and you're done.
+
+The blockchain records the transaction for all perpetuity; your watch "knows" you spent the $20; the merchant's watch knows the money was transferred; the transaction is non-repudiable. Apple learns the details electronically. The bookkeeeping minutiae are contained in the blockchain's bit-trail. Blockchain technology (in concert with your watch's biometric authentication capability) encapsulates all necessary trust aspects.
+
+No bank needed. Apple is the bank.
+
+It remains to be seen, of course, whether our current (obsolete) banking regulations will allow Apple to act in this kind of role. There will no doubt be regulatory and other challenges to overcome. Nevertheless, banks and card issuers should heed the writing on the wall, at this point; the writing that says "Disintermediation Ahead." The Internet of Money (IoM) will obsolete transactions as we currently know them. And maybe do away with the likes of Visa and MasterCard (which will join Diners Club on the dung heap of history).
+
+You didn't really think Apple Pay was all about further enabling the current infrastructure, did you?
+
+
+Kas Thomas is the author/inventor of US Patent 8606834 ("Managing Supplied Data"), licensed to Apple, Inc., as well as US Patent 8750496 ("Cooperative Encoding of Data by Pluralities of Parties"), licensed to Oracle.
+
+
+☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more (documented, with links to sources). And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials submitted to FDA show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+
+☙ ❧ 
+
+Retweet this post! Many thanks to the great folks who retweeted me yesterday:
+
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

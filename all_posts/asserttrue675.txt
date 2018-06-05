@@ -1,0 +1,1 @@
+ever wonder where all the electrical power ends up being used in a google data center ? this is the approximate breakout according to a recent book by google engineers luiz andr barroso and urs h lzle

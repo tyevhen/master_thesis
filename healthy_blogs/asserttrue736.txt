@@ -1,0 +1,27 @@
+Oracle Corporation, capitalism's penultimate poster child, has done something strange. It has bought into a money-losing proposition.
+
+The paradox is mind-bending. Oracle is one of the most meticulously well-oiled money-minting machines in the history of computing, yet it finds itself spending $7.4 billion to acquire a flabby, financially inept technocripple (Sun Microsystems) that lost $200 million in its most recent quarter. One can't help but wonder: What is Oracle doing?
+
+What they're doing, of course, is purchasing Java (plus Solaris and a server business; plus a few trinkets and totems). The question is why. And what will they do with it now that they have their arms around it?
+
+The "why" part is easy: Oracle's product line is tightly wed to Java, and the future of Java must be kept out of the hands of the competition (IBM in this case; and perhaps also the community). What Oracle gains is not technology, but control over the future, which is worth vastly more.
+
+What's in store for Java, then? Short answer: Whatever Larry Ellison wants. And Larry wants a lot of things, mostly involving increased revenue for Oracle.
+
+There's a huge paradox here, though, for Ellison and Oracle. On the one hand, Java represents a massive amount of code to develop and maintain; it's a huge cash sink. Sun tried to monetize Java over the years through various licensing schemes, but in the end it was (and is) still a money pit. On the other hand, you don't maintain control over something by letting the community have it. Is there a happy medium?
+
+Because of the huge costs involved in maintaining Java, it makes sense to let the community bear as much of the development and maintenance burden as possible. After all, does Oracle really want to be in the business of maintaining and testing things like Java2D? Probably not. That kind of thing will get thrown over the castle wall.
+
+But chances are, JDBC won't be.
+
+The core pieces of Java that are of most interest to Oracle will be clung to tightly by Oracle. That includes its future direction.
+
+Therefore the most telling indicators of what Oracle intends to do with Java in terms of allowing the community to have a say, versus keeping control of the platform under lock and key, will be how Oracle resolves the Apache/TCK crisis. The issue here (in case you haven't been following it) is that Sun has created additional functionality for Java 7 that goes beyond the community-ready, Apache-blessed, Sun-blessed open source version of Java 6. But Sun is treating its Java 7 deltas as private intellectual property, as evidenced by Sun's steadfast refusal to provide, first, a spec for Java 7, and second, a test kit (TCK) compatible with Apache license requirements. Until this dispute is resolved, there will be no open-source Java 7 and community (Apache) involvement with future versions of Java will ultimately end.
+
+There are some who believe that if Oracle continues Sun's policy of refusing to support open-source Java beyond Java 6, the community will simply fork Java 6 and move forward. This is probably wishful thinking. The forked Java would quickly become a play-toy "hobby" version of Java, missing important pieces of functionality found in the "real" (Oracle) Java, and ultimately lacking acceptance by enterprise. It's tempting to think that with sufficient help from, say, IBM, the community version of Java might eventually become a kind of analog to Linux (the way Linux gathered steam independently of UNIX-proper). But that has to be considered a long shot. The mother ship is still controlled by Oracle. (Even if there's a mutiny, the boat's rudder is owned, controlled, and operated by Larry Ellison and Company.)
+
+It's in Oracle's interest to control the Enterpriseness of Java EE with an iron grip. The non-enterprise stuff means nothing. Oracle will try to find a way to hive off the non-EE cruft and throw it into the moat, where the community can grovel over it if they so wish.
+
+And a good early indication of that will be if Oracle back-burners JavaFX and throws it over the wall, into the moat (which I think it will).
+
+My advice? Step away from the moat . . . unless you want to get muddy.

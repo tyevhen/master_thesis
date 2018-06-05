@@ -1,0 +1,16 @@
+This research paper was published a month ago.
+
+Rescue of metabolic alterations in AR113Q skeletal muscle by peripheral androgen receptor gene silencing
+Elisa Giorgetti, Zhigang Yu, Jason P. Chua, Ryosuke Shimamura, Lili Zhao, Fan Zhu, Sriram Venneti, Maria Pennuto, Yuanfang Guan, Gene Hung, and Andrew P. Lieberman1,
+
+
+
+Highlights
+•Decreased expression of carbohydrate metabolic genes characterizes AR113Q muscle
+•AR113Q skeletal muscle shows decreased glycolysis and altered mitochondria
+•Peripheral gene silencing by ASO rescues expression of muscle energy metabolism genes
+•Altered muscle energy utilization contributes to non-neuronal disease manifestations
+
+
+Summary
+Spinal and bulbar muscular atrophy (SBMA), a progressive degenerative disorder, is caused by a CAG/glutamine expansion in the androgen receptor (polyQ AR). Recent studies demonstrate that skeletal muscle is an important site of toxicity that contributes to the SBMA phenotype. Here, we sought to identify critical pathways altered in muscle that underlie disease manifestations in AR113Q mice. This led to the unanticipated identification of gene expression changes affecting regulators of carbohydrate metabolism, similar to those triggered by denervation. AR113Q muscle exhibits diminished glycolysis, altered mitochondria, and an impaired response to exercise. Strikingly, the expression of genes regulating muscle energy metabolism is rescued following peripheral polyQ AR gene silencing by antisense oligonucleotides (ASO), a therapeutic strategy that alleviates disease. Our data establish the occurrence of a metabolic imbalance in SBMA muscle triggered by peripheral expression of the polyQ AR and indicate that alterations in energy utilization contribute to non-neuronal disease manifestations.

@@ -1,0 +1,8 @@
+Below is a link to research on Kennedy's Disease that was published in January in Molecular Therapy.
+
+MiR-298 Counteracts Mutant Androgen Receptor Toxicity in Spinal and Bulbar Muscular Atrophy
+ Naemeh Pourshafie, Philip R Lee, Ke-lian Chen, George G Harmison, Laura C Bott, Masahisa Katsuno, Gen Sobue, Barrington G Burnett, Kenneth H Fischbec1 and Carlo Rinaldi
+Abstract
+Spinal and bulbar muscular atrophy (SBMA) is a currently untreatable adult-onset neuromuscular disease caused by expansion of a polyglutamine repeat in the androgen receptor (AR). In SBMA, as in other polyglutamine diseases, a toxic gain of function in the mutant protein is an important factor in the disease mechanism; therefore, reducing the mutant protein holds promise as an effective treatment strategy. In this work, we evaluated a microRNA (miRNA) to reduce AR expression. From a list of predicted miRNAs that target human AR, we selected microRNA-298 (miR-298) for its ability to downregulate AR mRNA and protein levels when transfected in cells overexpressing wild-type and mutant AR and in SBMA patient-derived fibroblasts. We showed that miR-298 directly binds to the 3’-untranslated region of the human AR transcript, and counteracts AR toxicity in vitro. Intravenous delivery of miR-298 with adeno-associated virus serotype 9 vector resulted in efficient transduction of muscle and spinal cord and amelioration of the disease phenotype in SBMA mice. Our findings support the development of miRNAs as a therapeutic strategy for SBMA and other neurodegenerative disorders caused by toxic proteins.
+
+ Follow the above link for the entire article.

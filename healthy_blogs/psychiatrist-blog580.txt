@@ -1,0 +1,42 @@
+OK, I've gone back through the comments on my last post as well as on Dinah's forced treatment post. I think I've come up with a list of what people have identified as things that need to be added, improved or changed. I'm going to talk to myself in this post, thinking out loud a bit about what each item means to me and how to implement them. Feel free to follow along, add, edit or just ignore me. Like I said, I'm thinking out loud in public.
+
+1. An emergency ear
+     Even people on an inpatient unit need a crisis contact. A friend to call, an outside volunteer, better access to visitors like family, or a hospital ombudsmen. Patients may not want to or can't access staff, which is a problem. Purposely or unconsciously, inpatient staff discourage patients from approaching them about problems. Patients feel they have no recourse when they are treated poorly or unprofessionally. Some hospitals use after-the-fact patient satisfaction surveys, but personally I'm reluctant to solve a problem by using a form. There needs to be a neutral mediator or ombudsman who is easily accessible to an inpatient. Perhaps allowing an outpatient therapist to hold sessions during a hospitalization would be helpful. (I know there may be financial and bureaucratic issues related to all the items I'm discussing---for the time being let's ignore that. This phase is just outlining the problems and needed solutions.)
+
+2. Professionalism
+    This item is closely related to item #1. If this item were fixed then item #1 might not exist. What most people may not know is that medical schools recognize this is an issue and now incorporate assessment of professionalism into every medical student and resident evaluation. National professional organizations are also thinking about ways of building this into ongoing licensure processes by requiring physicians to solicit evalutations from their patients. There are also now loads of online 'rate-your-doctor' sites. This is just for physicians, though. I'm not sure how to go about evaluating professionalism for hospital security staff who put someone into seclusion. The psych aides or techs would likely fall into the nursing department realm, and there's no reason there couldn't be a patient feedback loop for that profession as well.
+
+3. Regret
+    Ah, this is the tricky one. Some commenters said they wished their doctor would have told them that the doctor felt horribly about having to commit someone. Well, when a patient is in crisis it's really not the time to focus on the doctor's feelings. The point is well taken though that mental health providers should be able to talk to the patient afterward about the experience of involuntary treatment, what it was like (for both parties) and ways to avoid it in the future. See item #4.
+
+4. Outpatient crisis plan
+    I've seen some nursing admission forms that routinely ask patients on admission what they do when they are feeling angry or upset, and what helps them feel better in times of crisis. This almost never involves social connections though, which commenters here say they want more of. This is related to #11, the ongoing discharge plan. Who is in your social support system? Are they helpful are hurtful? Who can you reach most easily? Have you actually used this support system in the past or are you b.s.-ing to get out of the hospital (honesty is going to have to cut both ways, now!)? Hospital lengths of stay are so short now there is almost no purpose to a trial pass or day pass. The general thinking is that if you're well enough for a day pass you must be well enough for discharge. The generic 'return to emergency room' is far from an ideal crisis plan. Perhaps some temporary ongoing outpatient relationship, similar to what internal medicine does: discharge from hospital, to be seen in inpatient doc's own outpatient clinic within X days, until more permanent or preferred outpatient care is arranged.
+
+5. Decent food
+    Oy, I am the Shrink Rapper with zero food skills. Either of my co-bloggers will confirm that. Nevertheless, it seems evident that medically appropriate, religious or personal preference diets should be available. This one just doesn't seem that complicated, but I don't question that it's a problem.
+
+6. Clean, comfortable environment
+    Ditto #5. This is one item where patient satisfaction surveys actually could be useful. If month-by-month discharge surveys are all saying you've got bugs in your bathroom, you've got a problem.
+
+7. More autonomy over medications
+    Pharmacotherapy is always a balancing act between the level of symptoms a patient can live with versus the burden of side effects that they have to carry. I would throw in this thought as well: the people in your support system have to live with your symptoms, too, so they should also be considered. Can we engage family and friends in this balance? If so, how?
+
+8. Meaningful activities
+    I get this, totally. It's tough when you have an inpatient unit that contains both patients who are so ill they need help bathing and dressing as well as multiply-graduate degreed professionals. William Styron once called occupational therapy 'organized infantilism.' These individualized treatment plans that every team has to fill out should be made useful in some way, and this is where this item should be addressed. What meaningful activities would an educated, high-functioning professional want to do (or feel up to) doing? Most of the units I've worked on have not served many of this kind of patient so I'm open to suggestions here. You also have to address the question: if you're well enough to do (high functioning activity X), do you really need to be in the hospital? That's the question insurance companies will be asking your doctor.
+
+10. Alternative and complimentary treatments
+     People want things to do besides (or in addition to) taking medication. I'm guessing this means things like emphasizing regular activity or exercise, proper diet, decent sleep but also activities like yoga or tai chi, bibliotherapy (journal keeping, poetry or other writing), music therapy, and so forth.
+
+11. Ongoing discharge planning
+     I've already covered this a bit, but this would refer to the feeling that people are just dropped outside the door of the unit after discharge with no further contact with the inpatient team. There are already some programs available like day hospitals or partial hospitalization programs, but I don't think this is what people are asking for. I'm thinking more along the lines of returning to the inpatient unit for an "outpatient" visit, if that makes sense, while making the transition to a traditional outpatient practice.
+
+12. Humanize (or de-traumatize) the observation process
+     This is the last and toughest point. How do you humanely take someone's clothes away while putting them in physical restraints on continuous observation? I know, some people will say this should never be done but that's just not the world I live in. Some people are dangerous when they get sick. Psychiatrists have to make sure everyone in the unit is safe, in addition to protecting the patient. Making sure everyone is trained to recognize and intervene early is important, to prevent seclusion and restraint. Working with the patient early on to identify coping skills and practice those skills, and make sure people on the unit are trained in verbal de-escalation techniques. This won't obviate the need for seclusion in all situations, but it should help minimize its use.
+
+OK, I've spent a fair amount of time thinking about this post, reading old comments, writing and speculating and I'm running out of steam. More later. The last three or four items are going to be the longest, I think. Dinah and Roy, feel free to jump in with your thoughts. This is the stuff of inpatient interviews.
+
+Recent posts on forced treatment:
+Jan 9: Forced Treatment: Does it Help? ("make psychiatric care something patients want to get")
+Jan 13: I'm Sorry ("I'm sorry that... the mental health system has failed [those who have died due to hiding from 'treatment']")
+Jan 14: What We Need (list of 12 things readers are saying they need from the MH system)
+Jan 14: Poll: Involuntary Commitment: Would you do it again? (a survey for those who have been committed in the past)

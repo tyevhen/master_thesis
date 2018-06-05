@@ -1,0 +1,34 @@
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {estonian}
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{7}{section.1}
+\contentsline {section}{\numberline {2}Previous Work}{8}{section.2}
+\contentsline {section}{\numberline {3}Technical background}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Web data retrieval}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Text representation}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Bag-of-words}{9}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Term Frequency-Inverse Document Frequency}{9}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}}{10}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Topic modeling}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Latent Dirichlet Allocation}{10}{subsubsection.3.3.1}
+\contentsline {paragraph}{Model generation:}{10}{section*.24}
+\contentsline {paragraph}{Model inference:}{11}{section*.26}
+\contentsline {subsection}{\numberline {3.4}Classification}{12}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Support Vector Machines}{12}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Convolutional Neural Networks}{13}{subsubsection.3.4.2}
+\contentsline {section}{\numberline {4}Method}{14}{section.4}
+\contentsline {subsection}{\numberline {4.1}Data scraping}{14}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Data preprocessing}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Topic modeling}{15}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Model evaluation and parameter search}{16}{subsubsection.4.3.1}
+\contentsline {subsection}{\numberline {4.4}Classification setup}{16}{subsection.4.4}
+\contentsline {paragraph}{LDA+SVM}{16}{section*.43}
+\contentsline {section}{\numberline {5}Results and analysis}{16}{section.5}
+\contentsline {subsection}{\numberline {5.1}Topic model}{16}{subsection.5.1}
+\contentsline {section}{\numberline {6}Definitions}{22}{section.6}
+\contentsline {section}{\numberline {7}Conclusion}{22}{section.7}
+\select@language {english}
+\contentsline {subsection}{II. Licence}{23}{section*.52}
+\select@language {english}

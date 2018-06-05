@@ -1,0 +1,41 @@
+I've been involved in publishing all my life, and like many others I've always accepted as axiomatic the notion that typefaces with serifs (such as Times-Roman) are, in general, are more readable than non-serif typefaces (e.g., Helvetica). It never occurred to me that there was any doubt about the matter. Were the monks who invented serifs and other text ornamentations merely engaging in idle doodling? Weren't they consciously intending to increase the legibility of the important documents they were transcribing?
+
+It turns out that, as with so many of the things we "know" are right, the idea that serif typefaces are more readable than non-serif typefaces simply isn't supported by the evidence.
+
+At first, I scoffed at the idea that what everybody in the design world knows to be "obviously true" simply isn't. But then I happened upon the remarkable 1999 Ph.D. dissertation of Ole Lund (then of Høgskolen i Gjøvik), titled "Knowledge construction in typography: the case of legibility research and the legibility of sans serif typefaces" (download here).
+
+It's impossible to do justice to Lund's stunningly thorough (and beautifully written) 287-page dissertation in a short space. You have to read it for yourself.
+
+Lund undertakes an exceptionally detailed and critical review of 28 typeface legibility studies conducted between 1896 and 1997. He finds serious methodological problems in nearly all of them. Legibility itself is still poorly defined, even today, and is not well distinguished from readability. It turns out a surprising number of otherwise convincing "legibility studies" have been based on reading speed or reading comprehension, which have no bearing on glyph recognition per se. Reading speed is now known to be mainly a function of cognition speed, which varies considerably from individual to individual and is not related in any straightforward way (and possibly in no way) to typeface design. Reading comprehension is even further removed from type design.
+
+Even if legibility is defined in terms of symbol recognition, one must decide how, exactly, such a thing is to be measured. Two common methodologies are variation of time of exposure (an attempt to measure speed of perception) and variation of distance ("perceptibility at a distance"). There are also methods based on type size. All have complicating factors. Harris [3] points to evidence showing that it is very likely that time of exposure methods as well as the variable distance method favor typefaces with relative large strokewidth, regardless of serifs. Type size is complicated by the fact that larger point-size fonts are not shaped the same as smaller point-size fonts, for a given font.
+
+Designer George E. Mack, commenting on the concept of legibility in Communication Arts [5], said:
+
+The basic concept is so tangled up in decipherability, pattern recognition, reading speed, retention, familiarity, visual grouping, aesthetic response, and real life vs. test conditions that contradictory results can be obtained for the same type faces under different test conditions.
+
+Part of our "accepted wisdom" on the legibility of serif typefaces comes from research in cognitive psychology (most famously the work of Bouma[1]) around the notion that words are recognized not on a strict letter-by-letter basis but by the outlines or contours made around the word shape. This research has long since been shot down, as pointed out by Kevin Larson [4], who notes: "Word shape is no longer a viable model of word recognition. The bulk of scientific evidence says that we recognize a word’s component letters, then use that visual information to recognize a word."
+
+One of the most-cited "authorities" on serif legibility is Cyril Burt, whose 1955 article [2] in The British Journal of Statistical Psychology (a journal he was the editor of) seemed to end the debate on whether serif typefaces are more readable than non-serif typefaces. However, Burt's statements about the supposed superiority of serif fonts turned out to be nothing more than idle conjecture dressed up to sound scientific. After his death in 1971, Burt's landmark work on the heritability of I.Q. was discredited (and his reputation destroyed) based on his use of nonexistent data and nonexistent coauthors. Rooum [7] and others found Burt's typeface research to be bogus as well (his coauthors on the 1955 typography paper seem to be fictitious). Today, anyone who cites Burt is citing discredited nonsense, basically.
+
+So before you go around claiming that serif typefaces are easier to read than sans-serif typefaces, you might want to do a little checking around. The embarrassing truth is, there's no solid research to back up that claim. It's one of many myths you (and I) have accepted as true, that isn't.
+
+
+References
+
+1. Bouma, H. 1973. "Visual Interference in the Parafoveal Recognition of Initial and Final Letters of Words," Vision Research, 13, 762-782.
+
+2. Cyril Burt, W.F. Cooper, and J.L. Martin. 1955. 'A psychological study of typography'.
+The British Journal of Statistical Psychology, vol. 8, pt. 1, pp. 29-57.
+
+3. Harris, J. 1973. "Confusions in letter recognition." Professional Printer, vol. 17,
+no. 2, pp. 29-34
+
+4. Larson, Kevin. 2004. "The Science of Word Recognition."
+
+5. Mack, George E. 1979. 'Opinion/Commentary'. Communication Arts, vol. 21,
+pt. 2, May/June, pp. 96-97
+
+6. Poole, Alex. 2012. "Fighting bad typography research."
+
+7. Rooum, Donald. 1981. "Cyril Burt's 'A psychological study of typography': a reappraisal," Typos: a journal of typography, no. 4, pp. 37-40. London College of Printing

@@ -1,0 +1,38 @@
+The CDC continues to do outstanding work in providing useful metrics for monitoring the current opioid epidemic.  The latest edition of the Morbidity and Mortality Weekly Report is no exception.  In this analysis the authors look at a database representing 88% of the opioid prescriptions through retail pharmacies in the USA over the period 2006 to 2015.  Buprenorphine products used for medication assisted treatment of opioid use disorder and other preparations containing opioids for non- pain treatment like cough syrups were not included in the total amounts.
+
+They calculated various metrics of interest from the data including the milligram morphine equivalent (MME) per capita and prescribing rates (per 100 persons) for overall rates, high dose rates, and prescribing rates by days of supply given (<30 days or ≥ 30 days).  They also looked at county by county rates over the time period studied.  
+
+Before I look at the result,  I will digress a bit on the MME measure.  There are standard conversion charts like this one used by the CDC that allows for conversion of a standard dose of an opioid into a MME.  A few examples will illustrate the utility of this conversion.  Suppose a person is prescribed oxycodone and acetaminophen tablets.  Most of them contain 5 mg oxycodone + 300 mg acetaminophen.  If the prescription says to take one tablet 4 times a day of needed for pain that is 20 mg oxycodone total or 20 mg x 1.5 (conversion factor) = 35 MME.  Using the same example for hydrocodone (5 mg hydrocodone + 300 mg acetaminophen) yields 20 mg x 1 (conversion factor) = 20 MME. That means that roughly either of these prescriptions taken for one month, once a year gets to the per capita MME of 640.
+
+In addiction practice it is common to see people who are taking 120 to 240 mg/day of oxycodone per day.  Doing the conversions yields a range of 180-360 MME.  There is no good conversion from heroin to MME due to varied methodologies of use and very short half-life.  With methadone the problem is long half-life and tolerance leading the conversion table to yield higher conversion factors at higher dose.  With the calculations it was observed that the MME per capita peaked in 2010 at 782 MME and then decreased to 640 MME per capita in 2015.  Both numbers are significantly higher than the MME per capita in the US in 1999 when it was 180 MME.   Additional graphics of the other metrics from this article can be found in the tables below.
+
+
+
+
+   A scan of the above graphics starting from the top left shows that the rate of opioid prescribing including high dose prescribing (> 90 MME/day) has decreased beginning in about 2010.  The rate by number of days supply has increased slightly as has the number of days supply per prescription.  The overall MME per prescription has decreased.  The authors quote studies that show that patients are at risk for continued opioid use if they take them for more than 5 days and that once a person has been taking opioids for 90 days they are not likely to discontinue them.  There is also the CDC infographic of prescription opioids as a gateway drug.  People addicted to prescription painkillers are 40 times more likely to be addicted to heroin.
+
+In the county by county assessment there were more decreased in overall prescribing rate (46.5%) and MME per prescription (49.6%) than stable or increased rates.  The high dose prescribing rates dropped the most (86.5%).  It is likely that guidelines describing the higher risk of high dose therapy affect these rates than the recognition of opioid use disorders in chronic pain patients.  There was a significant increase in the average day per prescription in the county by county analysis (73.5%).
+
+The authors also looked at a complex stepwise multivariable linear regression looking at numerous demographic variables and concluded that several variables accounted for higher amounts of opioids being prescribed including ( lower educational attainment, higher unemployment, more physicians and dentists per capita, higher prevalence of conditions associated with chronic pain (diabetes mellitus, arthritis, disability), higher  suicide rates, and higher rates of uninsured and Medicaid enrollment.  These variables accounted for 32% of the opioids prescribed at the country level.
+
+The study has the expected limitations of a large retrospective database study.  There are signs that that physician education and some regulatory action may be  having an influence in opioid prescribing.  Any reduction in the populations exposure to opioids would be expected to have some impact, but as of 2015 there were an estimated 2 million prescription opioid addicts (2).  The recent transition from prescription opioids to heroin and some street products containing fentanyl and carfentanil has been responsible for an increase in opioid overdoses despite the change in prescribing patterns.  Although the total opioid MME per capita has decreased it is still about 3 times higher than it was in 1999 - the year before the current epidemics inflection point.  Proponents of liberal opioid prescribing might say (and have said) that the prescribing of opioids for chronic noncancer pain in the years leading up to 1999 was too stringent and deprived patients of needed pain relief.  My experience with addiction suggests otherwise.
+
+The risks of addiction with opioids is great.  A current underemphasized area is primary prevention or not exposing young adults to opioids.  The take home message from this paper is that secondary prevention may have an impact but at this point it is not clear cut.  One thing is certain and that is the CDC does great work getting this data out and freely available to all interested physicians and patients in the world.
+
+It will be a solid record of how the opioid epidemic evolved and hopefully at some point - resolved.          
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+
+References:
+
+1: Guy GP Jr, Zhang K, Bohm MK, Losby J, Lewis B, Young R, Murphy LB, Dowell D.Vital Signs: Changes in Opioid Prescribing in the United States, 2006-2015. MMWR Morb Mortal Wkly Rep. 2017 Jul 7;66(26):697-704. doi: 10.15585/mmwr.mm6626a4. PubMed PMID: 28683056.
+
+2: Substance Abuse and Mental Health Services Administration. Prescription drug use and misuse in the United States: results from the 2015 National Survey on Drug Use and Health. Rockville, MD: Substance Abuse and Mental Health Services Administration; 2016. https://www.samhsa.gov/data/sites/default/files/NSDUH-FFR2-2015/NSDUH-FFR2-2015.htm
+
+
+Attribution: Both of the graphics in this post are from reference 1 above.  Both are used per the user agreement for the MMWR that states this information is in the  public domain.

@@ -1,0 +1,15 @@
+There's been some interesting discussion recently of "what's wrong with Jetpack" by Laurent Jouanneau, Daniel Glazman, and others (see the long comment thread at the end of Daniel's recent post). The criticisms tend to fall along two major axes:
+
+1. Mozilla Jetpack claims to be a kinder, gentler, easier to learn replacement technology for making Firefox extensions (replacing the existing quirky hodgepodge of XUL+XBL+XHTML technologies), but it abandons XUL totally, which means that extension programmers can't transfer their current XUL skills to the Jetpack dev world, and (more important) Jetpack loses the sophisticated layout model of XUL. In its place we have plain old HTML and CSS.
+
+2. The Jetpack API is bound too closely to the jQuery API with its closure-intensive syntax, its peculiar self-obfuscating '$' notation, and overreliance on method overloading.
+
+One of Jetpack's goals is to democratize Firefox extension programming, liberating it from the hands of the XUL programming elite and bringing FF extension programming into the purview of mere mortals who speak HTML and JavaScript. But it stops short of that goal. In point of fact, Jetpack encourages "magic code" -- closure-ridden one-liners and such -- and expects a fair amount of clairvoyance from programmers when it comes to required imports and other notions. For example, the winning code entry in a recent Jetpack coding competition is all but unreadable (i.e., it's self-obfuscating), with lines like:
+
+let window =
+ Cc["@mozilla.org/appshell/window-mediator;1"].getService(Ci.nsIWindowMediator).getMostRecentWindow("navigator:browser");
+
+
+Any API that encourages this kind of code gets a thumbs-down from me, and frankly, at this point, I would probably have to agree with Daniel Glazman when he says that Jetpack "totally misses its main goal [of] making extension authoring dead simple instead of recreating another programming elite." Wedding itself to jQuery was one of the worst design choices Jetpack's API experts could have made, IMHO. "Clever" syntax doesn't advance an API's cause, any more than secret handshakes advance diplomacy's cause.
+
+There are other criticisms, having to do with things like overuse of imports, wrappedJSObject, lack of localization support, lack of ability to use offline resources, and some odd constructs like jetpack.tabs.focused.raw. But except perhaps for localization, those are not showstoppers. A syntax that encourages brevity over clarity and coolness over maintainability, on the other hand, is definitely a problem. It seems to me we're either going to democratize Firefox extension creation or not. If we are, let's get rid of the secret handshakes and go back to KISS as a design principle.

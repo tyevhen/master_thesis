@@ -1,0 +1,53 @@
+A member of the Masked AMHP Facebook Mental Health Forum recently posted about a situation in which a hospital psychiatrist had objected to an assessing AMHP concluding that it was not appropriate to detain the patient under the MHA, and demanding that another AMHP conducted another assessment. The issue was whether or not a psychiatrist had a right to do this.
+
+This raises some interesting issues about what should happen when mental health professionals involved in a MHA assessment cannot reach agreement about what should happen with the patient.
+
+The MHA has little to say about procedures relating to differences of opinion, and there is little, if any, case law on the subject.
+
+However, it must be borne in mind that the AMHP is the professional with responsibility to making an application for detention under Sec.2, 3 & 4 MHA.
+
+An AMHP does not have to act on the medical recommendations provided. By their nature, they are “recommendations”. It is at the AMHP’s discretion whether or not to make an application based on those recommendations.
+
+Sec.13 (2) MHA States:
+
+Before making an application for the admission of a patient to hospital an approved mental health professional… [must] satisfy himself that detention in a hospital is in all the circumstances of the case the most appropriate way of providing the care and medical treatment of which the patient stands in need.
+
+The AMHP’s duty is to consider “all the circumstances”. The Code of Practice goes on to say:
+
+AMHPs may make an application for detention only if they have interviewed the patient in a suitable manner,  are satisfied that the statutory criteria for detention are met, and are satisfied that, in all the circumstances of the case, detention in hospital is the most appropriate way of providing the care and medical treatment the patient needs.(para14.49)
+
+The AMHP must give due regard to the first overarching principle when making decisions regarding the detention of people under the MHA, which is to always go for the least restrictive option. The Code of Practice makes it clear that “where it is possible to treat a patient safely and lawfully without detaining them under the Act, the patient should not be detained.” (para1.2)
+
+Furthermore, the Code of Practice says: “There is no obligation on an AMHP… to make an application for admission just because the statutory criteria are met.” (para14.103)
+
+It must be remembered that the AMHP exists as a check on unimpeded decision making by medics. The AMHP’s role is to employ a social perspective when making assessments of people with mental disorder.
+
+To give an example, I recently assessed a person whose GP wanted detained under the MHA on the grounds that they had stopped taking their antipsychotic medication several months previously. The GP had not actually seen the patient, as they had missed an appointment.
+
+When I assessed the person at their own home (they readily let us in), it became clear that there was some evidence of paranoid delusions. However,  these were not in any way impinging on their ability to look after themselves and to live a full and meaningful life. Neither was their reluctance to take medication having any adverse effect on anyone else.
+
+I declined to use the MHA, on the basis that people have the right to be quietly mad, as long as it is not affecting themselves or others, and it was therefore disproportionate.
+
+Although the Code does give some advice on resolving disagreements between professionals (para14.109 & 14.110), it does not offer advice on what to do if any of the professionals are unwilling to accede to a decision.
+
+For guidance on this problem, it is necessary to turn to Richard Jones in the Mental Health Act Manual (19th Edition). He observes:
+
+If the AMHP decides not to make an application, it would be improper for that decision to be reviewed by another AMHP in the absence of any change in circumstances, fresh evidence or concern that the AMHP had acted unprofessionally. (p117)
+
+However, he does offer suggestions as to how such disputes may be resolved by stating:
+
+If the decision not to make the application was made by an AMHP with little knowledge of the patient, there should be no objection to that decision being reviewed by an AMHP who has an extensive knowledge of the patient’s history and current situation. A procedure which allowed for the automatic review of a decision of an AMHP not to make an application would undermine the independent nature of the AMHP’s role.
+
+Interestingly, he does not consider that an AMHP has similar restrictions. In a situation where an AMHP is not satisfied with a refusal by a doctor to provide a medical recommendation, he has this to say:
+
+If a doctor who has been approached with a view to making a medical recommendation decides not to do so on the ground that the statutory criteria are not satisfied, there is nothing to prevent an AMHP from taking steps to see whether another doctor might be willing to provide the recommendation. (p114)
+
+When it comes to consideration of Community Treatment Orders, it seems that the AMHP still holds the upper hand.
+
+The Reference Guide states that before a CTO can be made an AMHP “must agree with the responsible clinician’s opinion that all the criteria are met and agree that it is appropriate for the patient to become a CTO patient.”(para26.14)
+
+The Code then states:
+
+If the AMHP does not agree with the responsible clinician that the patient should go onto a CTO, or if they do not agree with the conditions attached to the CTO, then the CTO cannot be made. A record of the AMHP’s decision and the full reasons for it should be kept in the patient’s notes. The responsible clinician should not approach another AMHP for an alternative view. (para29.25)
+
+So it appears that a doctor’s hands are largely tied when it comes to disagreeing with an AMHP’s decision not to detain; but an AMHP may still persist in searching for a doctor prepared to make a medical recommendation if the AMHP believes that the patient should be detained under the MHA.

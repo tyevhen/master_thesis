@@ -1,0 +1,16 @@
+This is actually Roy's post.
+
+Eye Movement Desensitization and Reprocessing is a technique that is used to treat patients who have difficulties after a traumatic event or events. If you read the wikipedia link, it works. If you ask people, the jury remains out, and the technique has not found a place in mainstream psychiatry. That's not to say that there aren't psychiatrists who do this treatment or who refer patients for it, but most psychiatrists remain skeptical.
+
+Roy was kind enough to do a little research and here's what he learned about the research on EMDR:
+
+
+A Pubmed search for EMDR and limiting to Randomized Controlled Trials brings up 28 studies.
+2008 study in BDD showed sig less negative body image in usual tx +EMDR vs usual tx (no placebo comparison).
+2007 Swedish study in 33 kids 6-16yo with PTSD found sig lower sx. Again no placebo comparison.
+This 2008 Australian study is more interesting, splitting up the therapist's instruction from the actual eye movement behavior. The eye movement was the discriminating factor in producing lower sx of distress. No placebo.
+Van der Kolk's 2007 study of 88 people with PTSD randomly assigned to Prozac, EMDR or pill placebo was quite remarkable, with 75% of EMDR group having long-term relief vs 0% in Prozac group. Again, no placebo control for the eye movements. If we can do sham ECT and sham TMS, someone should be able to come up with sham EMDR.
+This one from Vancouver (from a co-resident of mine from Western Psych whom I would think to be a skeptic) broke out the different types of alternating stimulation, again finding a treatment effect.
+Feel free to review the rest of them, but the data so far look promising. I did not see anything about harm from the treatment, so the risk/benefit analysis seems favorable, especially in an individual who has already completed unsuccessful trials of standard treatment.
+
+What's your experience? Please tell us if you're a patient or a therapist who does this, or even if your friend had a good/bad experience with EMDR.

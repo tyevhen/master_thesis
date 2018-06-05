@@ -1,0 +1,3 @@
+Word is slowly leaking out about Adobe's planned XML grammar for PDF (code name Mars, so think SVG-in-a-space-suit).
+
+The new XML-based PDF format ("PxDF") is basically SVG with some extensions to allow for various kinds of embedded resources and references thereto. Recall that PDF can contain form widgets, annotations, JavaScript, and other flotsam. You can specify some of these items as reusable resources, refer to them using XLink, ball everything up into a zip archive, and expect Acrobat 8.x to deal with it (possibly as early as November).

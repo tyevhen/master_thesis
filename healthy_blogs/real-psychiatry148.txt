@@ -1,0 +1,94 @@
+The word gout in the above opening sentence from the chapter in UpToDate (1) can be replaced with any one of the major psychiatric disorders.  Gout is an extremely painful arthritis affecting one or more joints during an acute attack.  The arthritis is caused by the deposition of monosodium urate (MSU) crystals in the joint.  In a recent survey gout sufferers describe the pain as the worst pain they have ever experienced in their life - worse than childbirth or a heart attack (2).  Unlike psychiatric disorders gout has a gold standard diagnosis of the direct observation of uric acid crystals as being birefringent in a polarizing microscope, but only about 10% of gout sufferers ever has this test done.  The epidemiology of gout in the USA suggests that the prevalence is increasing to about 3.9% of the population or about 8.3 million people.  It is more common in men (5.9%) than women (2.0%).  There is an expected increase associated with obesity, hypertension, metabolic syndrome and aging.  Certain medication like diuretics can also cause increases in uric acid levels. but most people with hyperuricemia do not have gout.  The misdiagnosis of gout is common with gout sufferers being diagnosed with sprains and other forms of arthritis.  The inflammatory response is so striking that a misdiagnosis of cellulitis can also occur.  Searching Medline, I could not find a single study on the rate of misdiagnosis of gout.  Common biases that affect misdiagnoses include the over reliance on uric acid levels and demographic factors like age and sex of the patient.  Some earlier guidelines suggested an empirical trial of medication to lower uric acid levels and if that was ineffective to consider other diagnoses.
+
+The pathophysiology of gout is interesting because it has been historically viewed as a disorder of uric acid intake, overproduction or undersecretion.  Intake is from dietary sources and there are numerous  resources that examine the purine content of foods.  Alcohol intake also directly increases uric acid production through increased metabolic demands by the liver.  The dietary approach is not uniformly accepted by physicians as a useful approach to treatment.  Many consider it to be a minor contributor to serum uric acid levels.  There is some data to support the use of low fat dairy products as a protein source and Vitamin C as a way to decrease the frequency of acute attacks.  Common claims include the use of grape and tart cherry juice as ways to decrease uric acid levels.  Internet information suggest that grape juice transiently lowers level but tart cherry juice provide more permanent decreases.  The only medical reference that I could find on grape juice was dated (4), but the references on tart cherries and cherry juice seemed excellent (5,6).  One group of authors (5) suggested that after 4 months of ingesting cherry juice there was a 50% reduction in gout attacks and patients were able to stop regular intake of non-steroidal anti-inflammatory after 60 days.  Cherry juice intake also protected patients with elevated uric acid levels from attacks.  In another study they used pomegranate juice as a comparator and it had no effect on the frequency of gout attacks.  Apart from the cherry juice evidence there is also some controversy about whether high purine content vegetables are as likely to precipitate a gout attack as meat products with high purine content.
+
+Xanthine metabolism is intimately liked to glycolysis, so that increased metabolic demands can lead to increased uric acid production.  Common examples of how these pathways are activated in gout include excessive alcohol intake with increased metabolic demand and excessive intake of sugar sweetened beverages.
+
+Uric acid secretion and reabsorption is captured in this graphic that attempts to address both the transport mechanisms as the uric acid transportasome and the expectedly complex genetics.  Thinking about the proteins coded for in uric acid metabolism and the transportasome,  this is clearly another complex polygenic disorder.  The diagram depicts uric acid transport in the proximal renal tubule.  The complexity of the involved mechanisms has increased significantly in the past decade.  Sodium dependent monocarboxylate transporters SLC5A8, SLC5A12 and SLC13A3 allow uric acid to accumulate in the cell.  A number of transporters allow for uric acid secretion.  In the case of OAT1 and OAT3 the direction of uric acid transportation is not clear.  PDZK1 is involved in assembling the transporter complex.  Genetic variants at all of these levels are associated with gout.
+
+
+
+
+From: Merriman TR. An update on the genetic architecture of hyperuricemia and gout. Arthritis Res Ther. 2015 Apr 10. (reference 7)
+
+Merriman's review of the genetics of gout emphasizes how the complexity of the disorder is not appreciated.  Preliminary genetic studies for example indicate that there are hundreds of potential genotypes affecting the involved proteins as well as epigenetic factors to explain the environment influence on the genomics, but they would only account for about 10% of gout patient with elevated levels of uric acid.
+
+The lack of a complete explanation for gout based historical precedence has led some innovative researchers to look for an explanation in the inflammatory arm of the illness rather than the deposition of MSU crystals.  Gout is a highly inflammatory condition in the acute phase and there has been scant attention paid to potential phenotypes.  Some patients will get very localized pain and swelling in a clearly demarcated joint space.  Other will get marked swelling, edema, erythema, in multiple joints of the ankle and foot.  In some cases there is inflammation and swelling of the surrounding tendons and connective tissue.  In other extreme cases there is blistering of the skin surface over the affected joint.  Gout gives meaning the to the term "hot joint".  The most straightforward explanation for the inflammatory response was initial complement protein activation at the surface of the MSU crystals.  That leads to phagocytosis of the crystals by macrophages and generation of pro-inflammatory cytokines (IL-6, IL-8, IL-1β, and TNFα).  Neutrophils are recruited and superoxide and IL-8 are generated.  Macrophages eventually take up MSU crystals and apoptotic neutrophils and generate transforming growth factor (TGFβ).  MSU crystals are coated with apolipoprotein B (ApoB)  and ApoE blocks further activation of complement proteins.  The inflammation resolves and the joint is reset back to baseline.
+
+There are alternate mechanisms proposed  that involved the NLRP3 inflammasome.  That leads to caspase-1 activation and secretion of IL-1β, IL-18 and other proinflammatory cytokines (IL-6, IL-8 and TNF).  That leads to neutrophil infiltration of the joint and periarticular tissues.   The  authors in reference 8, emphasize the importance of the IL-33/1RL1 axis and polymorphisms in genes that code for IL-33, IL-1RL1, IL-23R and STAT4 as candidate genes for the inflammatory response in gout.  They determined that the IL-23R rs10889677 AC or CC genotypes were much more likely to develop gout than the AA genotype.  Other research groups have determined associations with inflammatory candidate genes and rheumatoid arthritis, asthma, Alzheimer's disease and Crohn's disease.  
+
+What  are the implications for psychiatry and why is a psychiatrist interested in the details of the inflammatory response?  The first reason is the diagnostic process in medicine and the myth the gold standard or some kind of biological test.  In the case of gout a biological test exists, but hardly anyone uses it.  There are good reasons for that.  It takes a considerable amount of skill to successfully aspirate an inflamed joint.  If there is significant inflammation around the joint that means pushing a needle through all of that inflammation to get to the joint.  Physicians vary significantly in their ability to insert needles into joints and based on that skill level - it may be good idea to avoid a test even if it is the gold standard.  There is also a likelihood that even when the gold standard test is done, the test misinterpretation rates are high - maybe close to 50% according to a poster session mentioned in one of the references.  The second reason is that there is a diagnostic feature here that is almost pathognomonic of the illness, even without that feature.  A person with acute onset of joint pain, in the absence of other conditions is highly likely to have gout.  The Agency for Healthcare Research and Quality and the American College of Rheumatology/European League Against Rheumatism collaborative initiative have taken two different approaches in providing assessments of gout diagnosis algorithms with and without a gold standard test and assessed their accuracy based on available data.  Third, inflammation has current and historical importance in psychiatry both as a treatment and potential etiology for psychiatric illness and there may come a time when psychiatrists need to know more about it on a routine basis for refining diagnosis and treatment methods.  Finally, complex polygenic illnesses are difficult to diagnose and treat.  That is becoming more apparent as molecular biology shows us that the first efforts at determining the pathophysiology of these disorders may have been grossly correct - but that the diagnosis requires a lot of refinement in order to capture the full range of pathophysiology that may account for the illness.     
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+1:  Becker MA.  Clinical manifestations of gout.  In: UpToDate,  Schumacher HR, Romain PL (Eds), UpToDate, Waltham, MA.  (accessed on July 10, 2016).
+
+2:  Liddle J, Roddy E, Mallen CD, Hider SL, Prinjha S, Ziebland S, Richardson JC. Mapping patients' experiences from initial symptoms to gout diagnosis: a qualitative exploration. BMJ Open. 2015 Sep 14;5(9):e008323. doi: 10.1136/bmjopen-2015-008323. PubMed PMID: 26369796; PubMed Central PMCID: PMC4577947.
+
+3: Newberry SJ, FitzGerald J, Maglione MA, O'Hanlon CE, Han D, Booth M, Motala A,Tariq A, Dudley W, Shanman R, Shekelle PG. Diagnosis of Gout [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2016 Feb. Available from http://www.ncbi.nlm.nih.gov/books/NBK350137/ PubMed PMID: 26985540.
+
+4:  LOEPER J, TISSEYRE JC. [Contribution to the uricosuric property of grape juice]. Prog Med (Paris). 1960 Nov 24;88:384 passim. French. PubMed PMID: 13763105.
+
+5:  Schlesinger N, Schlesinger M. Previously reported prior studies of cherry juice concentrate for gout flare prophylaxis: comment on the article by Zhang et al. Arthritis Rheum. 2013 Apr;65(4):1135-6. doi: 10.1002/art.37864. PubMed PMID: 23334899.
+
+6:  Zhang Y, Neogi T, Chen C, Chaisson C, Hunter DJ, Choi HK. Cherry consumption and decreased risk of recurrent gout attacks. Arthritis Rheum. 2012 Dec;64(12):4004-11. doi: 10.1002/art.34677. PubMed PMID: 23023818; PubMed Central PMCID: PMC3510330.
+
+7:  Merriman TR. An update on the genetic architecture of hyperuricemia and gout. Arthritis Res Ther. 2015 Apr 10;17:98. doi: 10.1186/s13075-015-0609-2. Review. PubMed PMID: 25889045; PubMed Central PMCID: PMC4392805.
+
+8: Liu S, Zhou Z, Wang C, Guo M, Chu N, Li C. Associations between interleukin and interleukin receptor gene polymorphisms and risk of gout. Sci Rep. 2015 Sep 24;5:13887. doi: 10.1038/srep13887. PubMed PMID: 26399911.
+
+9: Neogi T, Jansen TL, Dalbeth N, Fransen J, Schumacher HR, Berendsen D, Brown M,Choi H, Edwards NL, Janssens HJ, Lioté F, Naden RP, Nuki G, Ogdie A, Perez-Ruiz F, Saag K, Singh JA, Sundy JS, Tausche AK, Vaquez-Mellado J, Yarows SA, Taylor WJ. 2015 Gout classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Ann Rheum Dis. 2015 Oct;74(10):1789-98. doi: 10.1136/annrheumdis-2015-208237. Erratum in: Ann Rheum Dis. 2016 Feb;75(2):473. PubMed PMID: 26359487; PubMed Central PMCID: PMC4602275.
+
+
+Supplementary 1:
+
+Disclaimer - this is not medical advice on how to treat gout, but my personal experience.  See your personal physician if you think that you may have gout or any type of arthritis.
+
+I have had a lot of personal experience with gout since medical school. That is where I experienced my first gout attack.  I was up cramming for a Pathology test, eventually went to bed and was awakened at 3AM with intense left ankle pain. People have various descriptions for gout pain.  The one I have settled on is that it feels like your foot is being burned off with a blowtorch. The pain and inflammation are so intense that I end up feeling physically ill for days until the acute episode resolves. That first time I went the ED of the county hospital affiliated with my medical school. I was there for about 8 hours and at some point, the Orthopedic surgery team came by and aspirated my ankle joint between trauma surgeries.  They also asked my wife to leave the room and asked me if there was any chance that I had contracted gonorrhea -  another cause of acute arthritis.  I was given a prescription for acetaminophen with codeine and discharged home. Acetaminophen with codeine is not an anti-inflammatory medication and it does not treat gout – so the acute episode basically resolved on its own after a few days.
+
+I was lucky enough to have gone to a medical school where the head of Medicine was a Rheumatologist who ran a lab that analyzed joint aspirates. I got in to see one of his associates and the diagnosis was confirmed based on that sample. That was after several visits to the Orthopedic surgery clinic where may leg had been casted in a splint for a presumed traumatic injury that I could not recall.
+
+Over the intervening 30+ years, I would estimate that I have had about 20 attacks, 5 of them severe. In that time, I saw one excellent Rheumatologist who told me that given the fact that I do not have hyperuricemia or secondary manifestations of gout (tophi, nephrolithiasis) – I could treat the episodes symptomatically as they occur. Over the years that has been a moving target. A few of the regimens have been:
+
+1. Indomethacin 50 mg TID for acute attacks.
+
+2. Prednisone 60 mg/day x 5 days.
+
+3. Prednisone 40 mg/day x 5 days.
+
+4. Prednisone 40 mg/day x 5 days then 20 mg/day x 5 days then 10 mg/day x 5 days then 5 mg/day x 5 days.
+
+5. Naproxen 250-500 mg BID for acute attacks
+
+6. Vioxx (rofecoxib) 25-50 mg/day for acute attacks. Vioxx was taken off the market for cardiovascular and cerebrovascular side effects.
+
+7. Colchicine – tried briefly and could not tolerate.
+
+It should be apparent that seeing 10 different doctors for gout results in 10 different prescriptions. I can say that in my case, I do not tolerate high dose prednisone very well for even brief periods of time and that 20 mg will terminate an acute attack of gout within hours. The short course of prednisone always result in a flare-up of the primary attack and a tapering course of 15-20 days is usually needed, especially if that physician advises to not use prednisone and NSAIDS at the same time. My current goal is to get off of prednisone as soon as possible and on to naproxen.
+
+The diagnostic problems with gout have also led to several misadventures. I recall being seen by a primary care MD who I had never seen before for acute wrist pain that was probable gout.  He insisted on inserting a needle into my right radiocarpal joint, even though I told him I had a diagnosis of gout by one of the top experts in the world at the time.  He ended up aspirating a piece of the joint capsule, instead. I have also had gout of the wrist and ankle misdiagnosed as cellulitis, even though I told that physician this was gout and I had a longstanding diagnosis of gout.
+
+People tend to attribute the tremendous physician variation in diagnostic processes and treatments in complex polygenic illnesses to the “art of medicine.” I have always considered that an inaccurate phrase. I don’t consider anything about medicine to be artsy. Medicine including psychiatry is a technical field and physicians need to know technical details. The variation is accounted for in biological complexity that adds to the varied presentations of illness and the selection of treatments along a continuum from being very effective to not so effective for a particular person.
+
+I also wanted to add a bit about the genetic approaches to illnesses especially the one mentioned in reference 8.  Today it is possible to search your own DNA for genotypes that are found in the literature to correlate with illnesses.  When I did that for the candidate gene for gout mentioned in the paper,  I found that I have the rs10889677 SNP with a C/C genotype on the IL23R gene on Chromosome 1.   According to this paper that may better explain why I am bothered with gout than the steady state of uric acid flux in my body.  My uric acid levels are always normal.
+
+So much for what you learn in medical school.
+
+
+Supplementary 2:
+
+Total ICD-10 Gout Diagnoses
+
+Total ICD-10 Mood Disorder Diagnoses
+
+And you thought the DSM had too many diagnoses?
+
+
+Attribution:
+
+1:  The diagram on factors affecting the reabsorption and secretion of uric acid is form: Merriman TR. An update on the genetic architecture of hyperuricemia and gout. Arthritis Res Ther. 2015 Apr 10. (reference 7) and posted here per the conditions of their open access license.

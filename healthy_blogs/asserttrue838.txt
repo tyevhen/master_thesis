@@ -1,0 +1,9 @@
+A couple months ago, I mentioned that some Russians had cracked WiFi WPA2 security using a GeForce 8800 graphics processor. I also speculated on what a determined person might be able to do with the fearsome power of multiple Sony PS3 machines networked together.
+
+Now we know. You can hack MD5 security. It's been done: Researchers Jake Appelbaum, Arjen Lenstra, David Molnar, Dag Arne Osvik, Alex Sotirov, Marc Stevens, and Benne de Weger successfully used 200 PlayStation 3s (see photo, above) to craft a rogue Certification Authority certificate, based on finding hash collisions in MD5-space. The 40-slide deck describing the work is available here.
+
+According to the researchers, 200 PlayStations is roughly equivalent to 8000 desktop PCs, and the processing power needed to crack a cert based on 128-bit MD5 would require $20K of Amazon cloud time.
+
+Crafting a rogue CA cert means (essentially) the crackers were able to convey Cert Authority status on themselves. What's hilarious is that the bogus cert contains no revocation URL and thus can't (easily) be revoked! For demo purposes, the hackers back-dated their cert to August 2004. A malicious hacker could create a cert that never expires.
+
+After you read the slide deck, you won't know whether to laugh or cry. I did both.

@@ -1,0 +1,94 @@
+Is it possible that today's high lung cancer rates are in large part due to the power of suggestion? Might the presence of Surgeon General warnings on a pack of cigarets actually cause people to expect to get cancer, and then see their expectation fulfilled?
+Will stronger warnings (with ugly pictures) only make the problem worse?
+
+One of the new FDA-approved warning labels.
+This idea (that telling smokers they'll get cancer increases their odds of getting cancer) may sound ridiculous. Nevertheless, the epidemiological data tell an interesting tale. Interesting to the point of being spooky.
+
+
+Placebos and Nocebos
+I'll need to take a moment to explain how this idea came about. Bear with me if you can.
+
+I recently happened to stumble onto Michael Specter's December 12, 2011 New Yorker article about placebo-effect research. I told my girlfriend Sally about the article. It sparked an animated discussion about the power of suggestion. We agreed that the power of suggestion is real. (Any doctor knows this to be true.) And it works both ways: negative suggestion can produce negative effects, just as positive suggestion can produce positive effects. This has been verified in placebo research. Nocebos (negative placebos) have been found to produce harm, just as conventional placebos have been found to produce positive results.
+
+Sally and I began to speculate on the role of suggestion in the evolution of epidemic-scale disease. I offered the not-very-original idea that the runaway increase in the prevalence of bipolar illness over the past sixty years might be explained, at least in part, by the power of suggestion. Ever since the introduction of Prozac in 1988, all of us (in the U.S., at least) have been bombarded with pharma ads and popular-media articles telling us that depression is extremely common. And (surprise, surprise) now it is! But it didn't used to be.
+
+In 1955, only 38,200 people in the U.S, were in mental hospitals as a result of disablement due to depression (C. Silverman, 1968, The Epidemiology of Depression, Johns Hopkins Press). Today, depression is the leading cause of disability in the U.S. for people aged 15-44 (according to NIMH stats). Depression now affects 20.5 million American adults: 14.8 million in the form of major depressive disorder and 5.7 million in the form of bipolar disorder. That's a pretty huge jump in numbers: 38,200 to 20 million. Were there millions of depressed people in hiding, in 1955, waiting to come out of the closet in the 1990s? Was 9.3% of the American adult population (the percentage now suffering depression) merely suffering in silence, back in 1955? Or did the drug companies and their media flacks convert a relatively rare psychological condition into a growth industry through massive advertising and media hype (in other words, through the power of suggestion)?
+
+
+A Weird Suggestion
+Sally and I began to speculate about the possible role of the power of suggestion in other epidemic diseases; somatic diseases (not just mental illness). Sally offered an interesting hypothesis involving lung cancer. What if today's high rate of lung cancer among smokers is due in part to the suggestion (planted in every smoker's mind) that smoking will lead inevitably to lung cancer?
+
+I balked at the idea. "That can't be true," I said. "If it were true, today's lung cancer rates should be much higher than can be accounted for by smoking, compared to years past. Also, we should find that lung cancer rates took off after the announcement of the 1964 Surgeon General's Report on smoking. And we should see that lung cancer rates have decoupled from smoking rates entirely, going up when smoking goes down."
+
+It turns out all of those predictions are met.
+
+    (Click to enlarge)
+
+In 1930, the lung cancer death rate for men was 4.9 per 100,000. By 1990, the rate had increased to 75.6 per 100,000 -- a 15-fold increase. We find a similar trend for women. In 1930, the lung cancer death rate for women was 2.5 per 100,000. By 1990, it was just over 30 per 100,000 (again, a 15-fold increase). And yet, per-capita cigaret consumption rose only by a factor of two in the same time period.
+
+The most recent statistics (as reported by the National Cancer Institute) put the 2008 lung cancer rate for U.S. men at 71.85 per year per 100,000 men; for women, it's 53.59 per 100,000. So for men, the rate (since 1990) has leveled off and drifted lower. For women, the rate has continued to soar.
+
+The above illustration shows these data graphically. (Source: www.publichealth.pitt.edu/docs/Perkins.ppt.) We see that the slope of the lung-cancer-rate curve was more-or-less constant from 1930 to 1963. Then the slope increases dramatically in 1964 -- at the time of the first U.S. Surgeon General's Report on lung cancer and cigaret smoking. Following the 1964 Surgeon General's Report, cigaret consumption starts to decline. The rate of cancer, however, continues to skyrocket, even after the especially sharp downturn in cigaret smoking that begins in the early 1970s.
+
+
+A Time-Delay Effect?
+Of course, it takes years of smoking to get lung cancer. So you might expect the high 1990 cancer rate to reflect the high 1960 cigaret consumption rate. But the numbers are still out of whack. Cigaret smoking doubled in the 20 years leading up to 1960. Lung cancer, on the other hand, tripled in the 20 years leading up to 1990.
+
+One could explain this as some kind of dose-response relationship in which cancer rates just naturally happen to increase at 1.5 times the rate of increase of "cigaret dose." But according to the scientific literature, that isn't true at all. A large Danish study found that a 100% increase in cigaret consumption (going from 9 sticks a day to 19) causes lung cancer rates to increase by only 50%. A "saturation effect" has been noted many times in the literature. After a certain number of cigarets per day, cancer rate no longer increases linearly with cigaret dose.
+
+There's another possible explanation for the recent runaway increase in lung cancer. Perhaps people in 1930 simply didn't live long enough to come down with lung cancer. And there's some truth to that. The life expectancy in the U.S. in 1930 was only 58.1 years for men and 61.6 for women. In 1990 it was 71.8 for men and 78.8 for women. Statistics show that the odds of lung cancer go up by a factor of 1.73 between age 60 and age 70. But this falls far short of explaining the 15-fold increase in lung cancer from 1930 to 1990.
+
+So we're left with a dilemma. Either cigaret smoking is mysteriously becoming deadlier (much deadlier), or something other than smoke is contributing to the runaway lung cancer rate in smokers.
+
+
+What We Know from the Latest Research
+This mystery was the subject of a 2011 paper by David M. Burns and colleagues, titled "Has the lung cancer risk from smoking increased over the last fifty years?", in Cancer Causes & Control, 2011 March; 22(3): 389–397. The authors of the paper note that "U.S. lung cancer mortality rates are [now] substantially higher than those expected from changes in smoking behaviors."
+
+In their analysis of epidemiological data, Burns et al. used a risk model that took into account, among other things, rates of smoking initiation; prevalence of current and former smoking; distributions of duration of smoking; duration of abstinence and number of cigarettes smoked per day for current and former smokers; and the duration of abstinence for former smokers. It was a fairly detailed model, in other words.
+
+What did they find? The Burns paper concluded, first of all, that the apparent rise in lung cancer risk for smoking is real, not an artifact of some kind. The authors cite not only their own work but work by others:
+Swartz [20] used birth-cohort-specific smoking prevalence data and a multi-stage carcinogenesis model similar to that developed by Whittemore [21] to predict overall age-adjusted trends in lung cancer mortality for white males from 1970 to 1985. He estimated that there should have been a 12% decline in rates over the interval based on the assumption of a constant effect over time in the risk model. This estimated decline contrasts sharply with the 26% increase in the observed lung cancer mortality rates over that interval. Tolley and colleagues [22] used an updated set of birth cohort smoking prevalence estimates, and a risk model developed by Peto [23], to predict lung cancer death rates over time by birth cohort. They estimated that overall lung cancer mortality should have begun to decline in the early 1980s for white males and in the mid-1990s for white females. Observed lung cancer mortality continued to rise throughout the 1980s peaking in the early 1990s for white males [24] and may have only recently peaked for white females [25]. A similar approach using risk models developed from the CPS I data and birth-cohort-specific smoking prevalence data from the National Health Interview Survey (NHIS) demonstrated a systematic trend of increasing underestimation of observed lung cancer mortality rates across all birth cohorts with advancing calendar year [6].
+
+Secondly: When Burns et al. tried to adjust their model's smoking-duration assumptions to account for the epidemiological data, they failed to get a good fit with the data. (They fiddled with duration parameters rather than cigarets-per-day parameters because "the contribution of cigarettes smoked per day to lung cancer risk is much smaller than the contribution of duration.") As the authors put it: "Adjustments of the duration effect in the CPS I risk equations do not provide reasonable estimates of the U.S. lung cancer mortality experience." Elsewhere they restate it this way: "Adjustments for healthy population effects and for potential underestimates of the contribution of duration to risk are not able to eliminate either the differences in estimation accuracy across birth cohorts or the progressive underestimate of observed lung cancer mortality as calendar year advances." (By "healthy population effects," they mean effects due to overall increasing health in the U.S. population over the past 50 years. Better baseline health might make cancer rates appear worse depending how they're expressed.)
+
+
+This graph shows that increased lung cancer rates don't match the predictions of existing models.
+Taken from http://www.cbsnews.com/htdocs/pdf/SRNTPoster.pdf
+
+Desperate to explain their results, Burns et al. end up suggesting that unspecified changes in cigaret design, occurring over a period of 50 or more years, are to blame for the otherwise-inexplicable increase in lung cancer rates. But they fail to cite evidence connecting any particular design change with a worsening of cigaret toxicity. Their sole "evidence" for the supposed greater toxicity of modern-day cigarets comes simply from the fact that fudging their model's toxicity assumptions gives a perfect fit with the data:
+
+We support that hypothesis by showing that even a simple adjustment of the CPS I risk equations for an increase in risk due to changes in cigarettes adequately predicts the observed mortality data. 
+
+This is, of course, tantamount to saying that if you change your risk model to assume a more dangerous cigaret design, it supports the idea that cigarets are more dangerous. It's circular logic.
+
+
+Are Cigarets Really More Toxic Now?
+So where does that leave us? It leaves us with a mystery. Lung cancer rates have simply outraced any ability of smoking rates to explain them.
+
+One possibility is that the Burns group is actually right: Cigaret design features have made cigarets more dangerous. But this is not supported by the literature. Quite the contrary, in fact.
+
+The single largest (and toxicologically most significant) change in cigaret design of the last 100 years was the addition of filters to cigarets. Prior to 1959, over half of cigarets sold were non-filtered. Sales of filtered cigarets skyrocketed following their introduction. The difference in toxicity between filtered and non-filtered cigarets, it turns out, is huge.
+
+According to "Risks Associated With Smoking Cigarettes With Low Machine-Measured Yields of Tar and Nicotine" (National Cancer Institute; 2001. Smoking and Tobacco Control Monograph 13):
+A large U.S. case-control study demonstrated significantly lower lung cancer odds ratios among filter cigarette smokers who had shifted to filtered cigarettes 10 or more years prior to diagnosis (Kabat, 1996) as well as for lifetime filter use (Stellman et al., 1997). [And] Two reports from a large multicountry case-control study in Europe also reported reductions in lung cancer risk associated with lifetime filtered cigarette use (Lubin et al., 1984; Lubin, 1984a & b)
+
+The magnitude of the effect is large: almost 50%. (See Bross, I.D., and Gibson, R. "Risks of lung cancer in smokers who switch to filter cigarettes." American Journal of Public Health and the Nations Health 58(8):1396-1403,1968.)
+
+The same National Cancer Institute monograph cites studies showing a significantly decreased (not increased) cancer risk with low-tar cigarets. Ironically, the chapter of the monograph that discusses these results (Chapter 4) was coauthored by David M. Burns, lead author of the 2011 increasing-cancer-risk study discussed above.
+
+Bottom line: Design changes have almost certainly made cigarets less toxic, not more toxic.
+
+The literature around greater toxicity of "light" cigarets has centered on the recent shift of lung cancer cytology from squamous-cell carcinoma to the more fatal adenocarcinoma. But evidence connecting light cigarets to this shift has been notoriously indirect and anecdotal. Much more work is needed before a causal connection can definitively be said to exist between light cigarets and deadlier cancers.
+
+
+Other Factors?
+Maybe other factors are at work in making cigaret smoking more hazardous. But what could these "other factors" be?
+
+Bear in mind that because the rate of lung cancer in non-smokers has not gone up, environmental factors affecting all populations equally (smokers and non-smokers) cannot account for any increase in lung cancer rates among smokers. In other words, if increased exposure to air-borne carcinogens via urbanization (to take one example) could explain the increase in lung cancer over the past 80 years (a time when America did in fact become more urbanized), you'd still be left trying to explain why lung cancer hasn't gone up in non-smokers. The same can be said for arguments involving radon, asbestos, contaminants in drinking water, etc. All of these would affect smokers and non-smokers equally. And yet lung cancer rates have not gone up for non-smokers.
+
+If we rule out changes in cigaret design and environmental factors as explanations for the enormous increase in lung cancer, what are we left with? Burns and others have put forth the absurdly desperate suggestion that today's smokers draw more heavily (and inhale more deeply) on cigarets, pulling smaller smoke particles deeper into their lungs. In other words, smokers are getting more cancer than ever before simply because they're sucking harder.
+
+Making Ourselves Sick
+I'm starting to like Sally's Hypothesis: The power of suggestion, acting over a long period of time, may be predisposing smokers toward cancer. Every pack of cigarets sold in the U.S. contains increasingly grave-sounding (and grave-looking) warnings about the power of cigarets to cause cancer. We're bombarded with that message now: Smoking leads to cancer. It inevitably leads to cancer. You will get cancer; get used to it.
+
+For whatever reason, that has, in fact, become a self-fulfilling prophecy.

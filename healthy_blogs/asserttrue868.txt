@@ -1,0 +1,9 @@
+I wrote a micro-rant the other day at CMSWatch.com on the need for an industry-standard syntax for plain-language keyword search. I, for one, am tired of learning a different search syntax for every site I go to. I find myself naively assuming (like an idiot) that every search engine obeys Google syntax. Not true, of course. It's a free-for-all out there. For example, not every search engine "ANDs" keywords together by default. Even at this simple level (a two-keyword search!) users are blindsided by products that behave unpredictably.
+
+At any rate, Lars Trieloff pointed out to me yesterday that Apache Jackrabbit (the Java Content Repository reference implementation, which underpins Apache Sling) implements something called GQL, which is colloquially understood to mean Google Query Language, although in fact it means GQL. It does not implement Google's actual search syntax in comprehensive detail. It merely allows Jackrabbit to support plaintext queries in a Google-like way, so that if you are one of those people (like me) who automatically assumes that any given search widget will honor Google grammar, you won't be disappointed.
+
+It turns out, the source code for GQL.java is remarkably compact, because really it's just a thin linguistic facade over an underlying XPath query facility. GQL.java does nothing more than transliterate your query into XPath. It's pretty neat, though.
+
+I'm all for something like GQL becoming, say, an IETF RFC, so that vendors and web sites can begin implementing (and advertising) support for Google-like syntax. First there will need to be a name change, though. Google already uses "GQL" to describe a SQL-like language used in the Google App Engine. There's also a Graphical Query Language that has nothing to do with Jackrabbit nor Google.
+
+See what I mean? It's chaos out there in query-land.

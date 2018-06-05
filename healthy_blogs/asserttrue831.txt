@@ -1,0 +1,9 @@
+A Harvard professor told TimesOnline that executing two Google searches generates about 7 grams of CO2. By comparison, boiling a kettle of water generates about 15g, according to Alex Wissner-Gross, the Harvard physicist who researches the environmental impact of computing.
+
+This sounds a bit high at first, but a quick back-of-the-napkin calculation puts some interesting perspective on it. In the U.S., electric power companies generate about 600 grams of CO2 per kilowatt-hour of juice. So that would make two Google searches roughly equal to 5 watt-hours of power (if the professor is right).
+
+Converting to seconds, 5 watt-hours is 18kW-sec. If a Google search takes a tenth of a second, that means 180 kilowatts are in use for a tenth of a second. In desktop-PC terms, that's about the same amount of power that would be consumed (in that time interval) by a couple thousand Dells.
+
+Does it take the equivalent of a couple thousand desktop computers to process a Google search? It's conceivable to me, yes.
+
+Far less conceivable is that a Harvard physics professor (with a much greater supply of cocktail napkins) is going to completely botch this kind of calculation.

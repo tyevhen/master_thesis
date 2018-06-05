@@ -1,0 +1,89 @@
+There is an event happening tomorrow that has philosophical, biological and engineering implications and the respective definitions of the conscious state in humans.  That even is the opening of Blade Runner 2049.  This film is the highly anticipated sequel of Blade Runner - a 1982 science fiction film starring Harrison Ford as Deckard - a former cop and Blade Runner who is recruited back into active service as the latter.  Blade Runners are assigned to hunt down and terminate replicants or bioengineered androids.  These androids are the product of Tyrell Corporation and the plot of the first film involves Deckard needing to track down and terminate 6 replicants, including 4 who escaped form a mining colony.  Replicants are engineered to be similar to humans in basic appearance, behavior and social interaction but many have superior strength, intelligence, and speed.  That part of the plot would seem to be enough, except that Blade Runners need a specific skill to detect replicants from humans.  They need to be able to administer a test with the Voight-Kampff machine to determine if the test subject is human or a replicant.  A series of test questions of visual stimuli are administered and pupillary response, typical polygraphic measures like respiratory and heart rate, and particles emitted from the skin are measured.  The test questions themselves are designed to detect empathic responses in the subject suggesting that they are human.  The replicants in question are programmed to die in 4 years to prevent them from acquiring empathy and becoming undetectable. 
+
+Early in the original film there are two of these interviews.  In the first, what appears to be a routine interview of an employee goes bad.  He is asked for a response to what he would do if he saw a tortoise in the desert laying on its back, struggling in the sun and not able to right itself.  The second interview is more critical because Deckard travels to the Tyrell Corporation where he meets Dr. Eldon Tyrell and Rachael who appears to be his assistant.  Dr. Tyrell is interested in both the V-K machine and the Blade Runner protocol for detecting replicants.  Rachael asks if there are any false positives from the procedure: "Have you ever retired a human by mistake?"  Eventually Tyrell asks Deckard to administer the protocol to Rachael. When he is done he and Deckard discuss the results.  Here is their exchange after Tyrell interrupts the questioning (2):
+
+Deckard: One more question. You're watching a stage play. A banquet is in progress. The guests are enjoying an appetizer of raw oysters. The entree consists of boiled dog.
+Tyrell: Would you step out for a few moments, Rachael -- Thank you.
+Deckard: She's a replicant, isn't she?
+Tyrell: I'm impressed. How many questions does it usually take to spot them?
+Deckard: I don't get it Tyrell.
+Tyrell: How many questions?
+Deckard: Twenty, thirty, cross-referenced.
+Tyrell: It took more than a hundred for Rachael, didn't it?
+Deckard: She doesn't know?!
+Tyrell: She's beginning to suspect, I think.
+Deckard: Suspect? How can it not know what it is?......
+
+The imagery in the film is outstanding.  The acting is good.  These opening scenes set the stage for most sci-fi fans to recognize that Blade Runners are used in the future (originally November 2019) to terminate replicants and they also detect them through a specific augmented interview protocol.  As the action starts to unfold there are additional philosophical questions that arise but these opening scenes are basic to my post.
+
+The concept that there is some kind of procedure that can detect deception has been with us for some time.  The most recognizable form is the polygraph - the basis of which the V-K machine and the interview protocol based upon.  Polygraphic research illustrates that it has "extremely serious limitations for use in security screening" and that the rationale for such a device is weak (1).  Despite those findings and inadmissibility in court the polygraph continues to be used for both security screenings and informal screening of criminal suspects as though it works.  Would an emotional or more correctly psychophysiological response to questions about empathy yield any better predictive response patterns?  Probably not, but we need to keep in mind this was the author's idea about screening machine consciousness and not humans.
+
+Although the viewer is not aware of all of the questions asked in a typical protocol with a compliant replicant, the ones asked are not impressive in terms of empathy.  Empathy as a conscious quality has varying definitions.  Empathy the technical skill is probably a more rigorous definition than what is applied in the screenplay.  A more common definition of empathy is the ability to understand another person's subjective state.  The word empathy is used only once by Dr. Tyrell who asks if the interview with the V-K machine is an "empathy test".  The initial questions that Deckard asks seem to be focused more on ethical behavior or societal standards. Later Deckard breaks protocol with Rachael and suggests that her memories are implanted from others - not really her own.
+
+Apart from the action sequences, the important aspect of the original Blade Runner was the whole idea that there may be a unique human conscious state differentiated from machine consciousness - even in the most sophisticated machines.  The test for consciousness was a subjective interview protocol combined with physiological measures that were supposed to be an enhancement.  The main metric was empathy.  The measures were purely qualitative and their ability to distinguish the differences in empathy between different humans was not discussed but should be suspect.  If the V-K protocol was a valid test - it is conceivable that humans with the least empathy could be confused with a replicant. This problem in consciousness has been the subject of debate for decades - including any specific test to distinguish humans from machines trying to emulate humans.
+
+Before I take a look at any specific test - it is always a good idea to look at the problem of defining consciousness.  Practically any paper that is focused on consciousness discusses the problem of definition at the outset.  From a medical perspective the term is probably even less certain because of its application in neurology and in contrast to subjects who have no discernible neurological problem.  Classic texts like Plum and Posner's Diagnosis of Stupor and Coma (4) discuss consciousness as awareness of self and awareness of the environment.  Consciousness is also viewed as being determined by level of arousal and the content of consciousness defined as the sum of all cognitive, affective, and experiential products of the brain. Fractional loss of consciousness is discussed as being possible when specific neuronal functions are lost.  They differentiate acute states (eg. delirium, stupor, coma) from subacute or chronic states (eg. dementia) and discuss how they are determined clinically.  These states are studied primarily neurologists along with other clearly altered states of consciousness like sleep and general anesthesia.
+
+Assuming no major disruptions in neuroanatomy or physiology, the definition of a baseline conscious state also lacks precision.  There is a general agreement that the person needs a level of awareness and experience.  They are able to experience sensory phenomenon, thoughts, and emotions.  Some authors break that down into standard components of the mental status exam but it it much more than that.  In normal life, we routinely lose consciousness during non-REM sleep and regain it during periods of REM sleep.    Today we know the situation is even more complex because there appears to be a posterior cortical zone that correlates with dreaming experience (DE) or no-dreaming experience (NE) in both REM and non-REM sleep (5).  On of the unique aspects of brain complexity and human experience is that it generates a unique conscious state for individuals.  That makes it impossible to fully appreciate the specific conscious experience of another person.  We generally infer that they are conscious by their typical behaviors.
+
+One of the critical factors in the study of consciousness, especially if we are stepping away from real discontinuities like the loss of consciousness is how we define it.  Most clinicians will say that "we know it when we see it" - but rigorous research definitions are lacking.  At the level of thought experiments things get even more confusing.           
+
+Consider one of the original tests invented by Alan Turing.  His published paper on the subject is available free online (6).  Turing's paper is interesting from a number of perspectives not the least of which is that he predicted in 1950 that "in 50 years time" there would be digital computers that could fool humans at least 30% of the time in what he called the Imitation Game.  The game is played by asking a machine (computer) a series of question to determine if it is human or a machine.  He details this test protocol in the original paper.  He suggests the communication be accomplished with a teletype machine.  The goal of the test is to fool a human judge into believing that the machine is human.  In rereading the original paper it is clear that his focus is on machine thinking rather that the machine's conscious state.  In the paper he debunks what he refers to as "The Argument from Consciousness " by saying this about the need for emotion and self awareness - specifically recognizing that the machine knows what it has done:
+
+"This argument appears to be a denial of the validity of our test. According to the most extreme form of this view the only way by which one could be sure that machine thinks is to be the machine and to feel oneself thinking. One could then describe these feelings to the world, but of course no one would be justified in taking any notice. Likewise according to this view the only way to know that a man thinks is to be that particular man."
+
+This is of course a property of conscious states and he appears to take it to at least as an extreme as the philosophy professor who proposes the original argument that more is needed than the Imitation Game to show that a machine thinks.  It also sets up the question: "Is there any difference between thinking and consciousnesses?"
+
+Turing also predicts that at some point in time, it may be possible to cover a computer with synthetic human tissue and make the identification even more difficult.  He considers and rejects various counterarguments for eventual machine intelligence in this article.
+
+The relationship between consciousness and intelligence is complex.  Practically all of the AI that is written about involves restricted task domains (playing games (chess, poker, Go), verbal chats, or some specific pattern recognition.  One thought about intelligence is that it is context sensitive and needed to complex tasks that cannot be broken down into smaller single domain tasks.  According to one expert (Tononi - see reference 8) "That kind of intelligence is consciousness".  I think that it is fairly easy to look back at the Turing Test and see what Tononi is referring to.  On the face of it - this task of producing a typed transcript appears to be a single domain task.  But behind that there needs to be an intelligent structure that is able to play a game that involves making a human judge believe that the transcript is being produced by a human rather than a machine. While Turing refers almost exclusively to intelligence or thinking in this case it can be considered consciousness.     
+
+The reality of testing replicants is that it is a lot less complicated than suggested by Deckard's interviewing technique with the V-K device.  All you would have to do is polysomnography.  One of the clear cut conscious states is REM sleep.  You could make the argument that a bioengineered android could be set up to fake a sleep EEG, but my guess is that would be a very costly procedure and as Dr. Tyrell says in the original film commerce is the goal of the corporation and spending a lot of money on faking a sleep EEG would hardly be cost effective.  Some AI philosophers might suggest that at some point the machines might learn it on their own if it was advantageous in their competition with humans.  It would take a lot more than learning.  It would take a lot of engineering to produce the necessary electric potentials under standard EEG electrodes inside an artificial skull even if it was covered with cloned human tissue.  We can say at least that the vision in the film cannot be realized anytime soon.
+
+ On the issue of a verbal test for humanness, that is slightly more complicated but not out of the question even at this point in time.  The first time, that I heard that a computer may have "passed" the Turing Test was when a chess player stated that when he was playing an IBM computer it seemed like he was playing a real human.  That is a very restricted task domain paradigm and outside of that I doubt that same computer could have been mistaken as being conscious.  The official milestone of a computer program passing the Turing Test occurred on Saturday June 7, 2014 at an annual competition held by the Royal Society.  Obviously a blinded test of a robot conversing does probably not represent much of a recognizable conscious state.  AI experts are currently working on more rigorous test of machine consciousnesses including interactions in other sensory modalities in order to improve the level of AI.
+
+As I thought about related issues to this post, testing AI for conscious states may come down to determining the manufacturer.  From a theoretical standpoint - perfecting AI performance on future tests of consciousness looks like a trend in the future.  The current AI trends are bound to leave traces of algorithms and an imprint of the management biases in that company.  There are just too many degrees of freedom in conscious systems to not leave a mark.
+
+There are a list of associated issues having to do with identity and implanted memories in machines hoping to emulate humans that I hope to consider in the future.  Consider this mention of Blade Runner a jumping off point.
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  National Research Council (2003). Polygraph and Lie Detection.  Committee to Review the Scientific Evidence on the Polygraph.  Division of Behavioral and Social Sciences and Education. Washington, DC: The National Academies Press.
+
+2:  Hampton Fancher, David Peoples.  Blade Runner. Screenplay.
+
+3:  Philip K. Dick. Do Androids Dream Of Electric Sheep? New York; Ballantine Books: 1968.
+
+4:  Posner JB, Saper CB, Schiff ND, Plum F.  Plum and Posner's Diagnosis of Stupor and Coma.  Fourth Edition.  Oxford University Press. New York, 2007.  p 6-37.
+
+5:  Siclari F, Baird B, Perogamvros L, Bernardi G, LaRocque JJ, Riedner B, Boly M,Postle BR, Tononi G. The neural correlates of dreaming. Nat Neurosci. 2017 Jun;20(6):872-878. doi: 10.1038/nn.4545. Epub 2017 Apr 10. PubMed PMID: 28394322; PubMed Central PMCID: PMC5462120
+
+6:  Turing AM.  Computing machinery and intelligence. Mind 49: 1959: 433-460. Link to full text
+
+7: Lorraine Boissoneault.  Are Blade Runner’s Replicants “Human”? Descartes and Locke Have Some Thoughts.  Smithsonian.  October 3, 2017. Link to full text.
+
+8: Consciousness and Intelligence:
+
+MIT150 Symposium: Brains, Minds and Machines
+
+Moderator: 
+
+Shimon Ullman PhD '77, Samy and Ruth Cohn Professor of Computer Science, Department of Computer Science and Applied Mathematics, Weizmann Institute of Science
+
+Panel: 
+
+Ned Block, Silver Professor of Philosophy, Psychology, and Neural Science, Department of Philosophy, New York University
+
+Christof Koch, Lois and Victor Troendle Professor of Cognitive and Behavioral Biology, California Institute of Technology; Chief Scientific Officer, Allen Institute for Brain Science, Seattle, WA
+
+Giulio Tononi, David P. White Chair in Sleep Medicine; Distinguished Chair in Consciousness Science; School of Medicine, Department of Psychiatry, University of Wisconsin, Madison
+
+
+Attribution:
+
+Graphic credit is: Shutterstock Stock illustration ID: 561497119 "old street in the futuristic city at night with colorful light,sci-fi concept,illustration painting By Tithi Luadthong".

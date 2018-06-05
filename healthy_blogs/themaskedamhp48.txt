@@ -1,0 +1,23 @@
+A recent appeal to the Upper Tribunal considered the case of NM (NM v Kent County Council [2015] UKUT 0125 (AAC)).
+
+NM has diagnoses of mild learning disability with behavioural difficulties, and paedophilic sexual interest, and was subject to guardianship under the Mental Health Act, as well as being subject to the Deprivation of Liberty Safeguards.
+
+He appealed to the Mental Health Tribunal, requesting to be discharged from guardianship.
+
+The guardianship order required him to live in a residential care home, and also to attend for treatment with clinicians and therapists. The Judge stated that NM “had the capacity to decide where to live but not the capacity to decide on the supervision that was required to keep him and any child he came into contact with safe.”
+
+NM’s solicitors put forward two grounds for appealing. The first was that because of the DOLS certificate, he was not free to leave the home, and therefore did not require guardianship in addition to DOLS. The second ground was that there was a contradiction in the Tribunal finding that he had capacity to decide where to live.
+
+Kent County Council, who had responsibility for NM, argued that on the evidence presented to it the Tribunal was entitled to reach the decision it did, which was that Mr M had capacity to decide where to live, but not to decide the level of supervision he required.
+
+NM’s solicitors in reply made reference to 26.10. & 26.13 of the Mental Health Act Code of Practice. These paragraphs suggest that it may be entirely appropriate to rely on DOLS rather than guardianship, and that AMHP’s and doctors had to consider all the circumstances of a particular case.  The CoP also suggests that “in cases which raise unusual issues” it may be preferable to go to the Court of Protection for a best interests decision.
+
+The Judge observed:
+
+“The tribunal’s analysis, identified the conditions that had to be satisfied if Mr M were to remain subject to guardianship. The key to the case was where Mr M would live. It found that he would not remain in the home without being subject to the guardianship. For practical purposes, he might not be able to abscond from the home itself, but he had opportunities to do so when he was on escorted leave. He needed to be in the home, or in a similar environment, if he were to preserve the continuity of his treatment. That treatment was not complete to the point where he was able to control his behaviour towards children.”
+
+He went on to state that “it was essential to retain [guardianship] powers, given that Mr M lacked the capacity to regulate his behaviour without the treatment and supervision for which his continued residence at the home was necessary.”
+
+The Judge concluded that the Tribunal had not made any error in law in reaching the decision to refuse to discharge the guardianship order, on the basis that DOLS was not sufficient protection to prevent NM from leaving the home, as it did not deal with the possibility of NM absconding. “This is a limitation inherent in the nature of a DOLS”.
+
+The Judge therefore dismissed the appeal to the Upper Tribunal, noting that: “The Mental Capacity Act deals with the person’s best interests, whereas the Mental Health Act deals with protection of the patient and the public.”

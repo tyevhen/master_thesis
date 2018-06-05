@@ -1,0 +1,3 @@
+Assignment: Write a 3-dozen-line XML file that will lock up any modern browser.
+
+Answer: See The Billion Laughs attack.

@@ -1,0 +1,103 @@
+One of the most difficult aspects of learning to write OpenOffice macros (in JavaScript) is that there is so little example code available. OpenOffice comes with dozens of useful code examples written in OpenOffice BASIC, but for Beanshell, Python, and JavaScript (the other supported macro languages) there's hardly anything. Beyond that, there's only the inscrutable 1200-page Developer's Guide (no longer available in PDF), which is inscrutable not so much because it is not well written (it is, in fact, quite well written) but because the Byzantine OpenOffice C++ and Java APIs are themselves so impenetrable. If you've ever tried to write an OO.o macro "in anger," you know what I'm talking about. The whole experience is exhausting.
+
+So without further whining, I thought I'd present the most quintessential of OO.o code examples, showing how to parse an OO.o spreadsheet with JavaScript. I don't claim that the code is particularly stellar; only that it works. (That's the main thing, right?)
+
+The following code will parse through a spreadsheet and display data from the desired numbers of rows and columns in a Swing JEditorPane.
+
+// When a spreadsheet is open in OO.o, this macro will
+// loop over a given number of rows and columns and
+// summarize those cells in a JEditorPane
+//
+// Copyleft 2010 by Kas Thomas
+// http://asserttrue.blogspot.com/
+
+importClass(Packages.com.sun.star.uno.UnoRuntime);
+importClass(Packages.com.sun.star.sheet.XSpreadsheetDocument);
+
+// go thru the sheet one row at a time
+// and collect cell data into an array of
+// records, where each record is an array
+// of cell data for a given row
+function harvestCells( sheet, rows, columns ) {
+   var masterArray = [];
+   for (var i = 0; i < rows; i++) {
+           var ar = [];
+           for (var k = 0; k < columns; k++) {
+                   var cell = sheet.getObject().getCellByPosition( k,i );
+                   var content = cell.getFormula();
+                   if ( content.indexOf(",") != -1)
+                   ar.push( "\"" + content + "\"" );
+                   else
+                   ar.push( content );
+           }
+           masterArray.push( ar );
+   }
+
+   return masterArray;
+} // harvestCells()
+
+// a Swing UI for displaying the data
+function EditorPane( ) {
+
+   Swing = Packages.javax.swing;
+   this.pane = new Swing.JEditorPane("text/html","" );
+   this.jframe = new Swing.JFrame( );
+   this.jframe.setBounds( 100,100,500,400 );
+   var editorScrollPane = new Swing.JScrollPane(this.pane);
+   editorScrollPane.setVerticalScrollBarPolicy(
+   Swing.JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+   editorScrollPane.setPreferredSize(new java.awt.Dimension(150, 150));
+   editorScrollPane.setMinimumSize(new java.awt.Dimension(10, 10));
+   this.jframe.setVisible( true );
+   this.jframe.getContentPane().add( editorScrollPane );
+
+   // public methods
+   this.getPane = function( ) { return this.pane; }
+   this.getJFrame = function( ) { return this.jframe; }
+}
+
+( function main( ) {
+
+   //get the document object from the scripting context
+   oDoc = XSCRIPTCONTEXT.getDocument();
+
+   //get the XSpreadsheetDocument interface from the document
+   xSDoc = UnoRuntime.queryInterface(XSpreadsheetDocument, oDoc);
+
+   // get a reference to the sheets for this doc
+   var sheets = xSDoc.getSheets();
+
+   // get Sheet1
+   var sheet1 = sheets.getByName("Sheet1");
+
+   // construct a new EditorPane
+   var editor = new EditorPane( );
+   var pane = editor.getPane( );
+
+   // harvest cell data (from sheet, rows, cols)
+   var masterArray =  harvestCells( sheet1, 100,8 );
+
+   // display the data
+   var text =  masterArray.join("\n") ;
+   pane.setText( text  );
+})();
+The main() method comes last, so it may help to read the code from the bottom up. First, we get a reference to the current document with
+oDoc = XSCRIPTCONTEXT.getDocument();
+(a standard OO.o idiom), then we use that to get a reference to the XSpreadsheetDocument. (I should caution that there is no error-checking code here. It's assumed that a spreadsheet document is already open and frontmost in OpenOffice.) Once you've got the XSpreadsheetDocument, you can peel through its Sheets. With a Sheet, you can do:
+
+var cell = sheet.getObject().getCellByPosition( k,i );
+to get cell data for the cell at column k, row i. If the spreadsheet is a converted .csv doc, the cells will all have text data, and (here's the weird part) to get the data you have to do:
+
+var content = cell.getFormula();
+since getValue() will only work if the cell contains a double-precision floating point number.
+
+To test this macro, I looked online for a sizable .csv file that I could play with. I found a free/open movie database at George Tech's website. It's a comma-delimited file with data for 1742 movies ranging from 1925 to the early 1990s. It's by no means a definitive movie listing (apparently it represents one of the school's collections) but it suits my purposes just fine.
+
+When I run the macro, it takes less than a second to display all of the spreadsheet's cell data (for all 1742 x 8 cells) in a JEditorPane window:
+
+
+
+Ideas for further exploration:
+Style the data in some interesting way
+Save the data as HTML
+Push the data into a Sling repository (blog coming)

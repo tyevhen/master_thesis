@@ -1,0 +1,34 @@
+Dinah mentioned the recent Finnish study, showing an associated protective effect of antidepressants on death and on completed suicides, but an associated increase in the number of suicide attempts. I thought I'd share, for teaching purposes (and thus subject to Fair Use), the data in the article on individual medications.
+
+For those unskilled in looking at Relative Risks, an RR of 1.0 indicates no higher or lower risk of the outcome being measured (compared with the comparitive population... in this case, suicide survivors not on meds). An RR or 0.5 would indicate a risk that is half of expected, and an RR of, say 2.0, indicates a doubling of the risk. (Note that this is intended for a professional audience... these data should not be applied to one's own personal situation and you should discuss it with your physician if you have any questions.)
+
+Risk of Suicide
+
+Figure 1. Relative risk and 95% confidence interval of suicides obtained by using medication as a time-dependent variable. The relative risks were adjusted with the propensity score method, and by including sex, age, geographical location (as strata), number of suicide attempts before the index hospitalization, number of suicide attempts during follow-up, use of multiple antidepressant medications, and number of purchased antidepressant prescriptions during the previous year in the model. SNA indicates serotonergic-noradrenergic antidepressant; SSRI, selective serotonin reuptake inhibitor; and TCA, tricyclic antidepressant. Citalopram was given as citalopram hydrobromide; doxepin, as doxepin hydrochloride; fluvoxamine, as fluvoxamine maleate; mianserin, as mianserin hydrochloride; paroxetine, as paroxetine hydrochloride; and venlafaxine, as venlafaxine hydrochloride. From: Tiihonen: Arch Gen Psychiatry, Volume 63(12).December 2006.1358–1367
+
+You can see that the only two drugs which do not touch the vertical line representing an RR=1 are fluoxetine (Prozac) and venlafaxine (Effexor). These suggest that fluoxetine use has a significantly lower associated risk of suicide, while venlafaxine has a significantly higher associated risk of suicide.
+
+
+Risk of Suicide Attempts
+
+Figure 2. Relative risk and 95% confidence interval of suicide attempts obtained by using medication as a time-dependent variable. The relative risks were adjusted as explained in the legend to Figure 1. Abbreviations and complete drug names are also given in the legend to Figure 1.
+From: Tiihonen: Arch Gen Psychiatry, Volume 63(12).December 2006.1358–1367
+
+This one shows that anyone put on meds was more likely to have attempts (keep in mind these pts were not randomized, so it may be that those who were not placed on meds had a lower risk of future attempts).
+
+
+Risk of Death
+
+Figure 4. Relative risk and 95% confidence interval of total mortality obtained by using medication as a time-dependent variable. The relative risks were adjusted as explained in the legend to Figure 1. Abbreviations and complete drug names are also given in the legend to Figure 1.
+
+This one shows that there was clearly a reduction in the relative risk of death for pts on fluoxetine, citalopram (Celexa), sertraline (Zoloft), mianserin (not in US), mirtazapine (Remeron), and "other antidepressants". None were associated with an increased risk of death.
+
+
+The authors suggest that the antidepressants, especially SSRIs, may have a protective cardiovascular effect, possibly due to their mild blood-thinning effect.
+
+Take a look at other bloggers' posts on this article:
+Corpus Callosum
+Armenian Medical Network
+Gooznews (this one's actually on the FDA hearing, but makes some good points on conflict of interest)
+
+I'll be at the FDA hearing later today and will report about what I heard in a follow-up post...

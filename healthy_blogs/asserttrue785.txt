@@ -1,0 +1,19 @@
+Bruce Eckel (Thinking in Java) has an interesting post on The Positive Legacy of C++ and Java. I'm a sucker for articles that talk about Java and C++ as legacy languages, and this one is notable not only for the fact that it comes from a true authority (Eckel was on the C++ Standards Committee for 8 years, and saw the language design decisions take place first-hand) but for the 70-odd comments (mostly lengthy, mostly astute and non-emotional) that his post provoked.
+
+Eckel's post is akin to a very short eulogy. I wish it had been much longer. But the fact is, Eckel has written numerous article, books, and blogs over the past five or six years outlining the weaknesses (large and small) of Java and C++, so it's not hard to find more to read on this subject.
+
+Java is far from dead, of course. Much like COBOL, it will live on and on, eventually becoming something of an arcane specialty language mostly taught in universities.
+
+What were (are) some of Java's biggest failings? Maybe it's more important (and constructive) to ask what its biggest successes were. To me, Java's major disruptive effect (when it arrived in the mid-1990s) was and is due to its game-changing notion of running on a virtualized machine. The idea of cleanly separating a language from underlying machine dependencies was a huge advance. In sum, the importance of Java is that it was/is not just a language but a platform.
+
+A second pivotally important aspect of Java is that by its very design, it facilitated programming-in-the-large. The package mechanism, the orientation toward safe reuse, and the assurance of a common, stable, secure, platform-independent process space in which to run (the JVM), allowed teams of programmers to work independently to produce large applications that could take advantage of the huge advances in machine design (per Moore's Law) that occurred throughout the 1990s (without which, frankly, Java would have failed to be anything but a curiosity).
+
+By supporting programming-in-the-large, Java made possible the huge middleware industry we see around us today. Certainly we would have had a middleware industry without Java, but it would have looked much different and come with a much different set of problems. (It would have had even more of a Rube Goldbergish quality to it than it has now.) Java popularized the notion of an application server, which by itself was a landmark development that changed the software industry.
+
+Another outcome of Java (and C++): The notion of design patterns. The very complexity of the large systems made possible by Java and C++ demanded a new type of "best practices" knowledge around the construction of "orchestrated systems" (tm).
+
+We owe a lot to Java, clearly, but the sheer cost of using Java for smaller-scale projects is driving the creation of new, lighter-weight languages and frameworks that offer a better impedance match with agile working styles. Going forward, it simply won't be economical to use Java for most kinds of development.
+
+The industry hasn't quite figured out yet what the best technologies are for replacing Java in various types of development, but that's what makes things so interesting right now. Economic downturns like the one we're in tend to drive intense competition, and intense competition breeds innovation. Hence, whatever the next Big Disruption in programming turns out to be, it will probably come sooner rather than later.
+
+One thing is for sure: If you're in the software development business, don't cling to old ways of doing development. And also, don't get too carried away thinking that something like Scrum is going to be the Bandaid that fixes your agility problems, because it may turn out that your main problem is Java itself. Keep an open mind. Try new things. Be ready when the next disruption arrives, or you may find yourself without a chair when the music stops.

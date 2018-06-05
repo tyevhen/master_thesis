@@ -1,0 +1,20 @@
+Day Two of the American Academy of Psychiatry and the Law Conference
+
+I picked up a number of tidbits from the poster sessions:
+
+-250,000 juveniles a year are sent to the adult criminal just system
+-3/4 of all juveniles serving life without parole were sentenced in five states
+-Louisiana uses an assertive community treatment program to supervise and restore  incompetent, nondangerous criminal defendants. This sounds like a good way to get people out of the hospital, or avoid having to send them there in the first place
+-In Indiana, a survey was done of judges who have dealt with defendants claiming to be “sovereign citizens.” Most appeared in court for traffic violations or fraud rather than violent offenses. Tax evasion was least common charge.
+-In a survey of PGY4 general psychiatry residents, most felt confident in their ability to perform sanity and competency assessments. Fewer felt confident in their ability to assess malingering or to participate in civil commitment hearings. This is concerning.
+-Specialized processing centers (SPC) have been built for ICE detainees. They have 24/7 psychiatric coverage and freedom of movement, but no clinical review or medication over objection procedures.
+
+The Bazelon Center has filed suit with the Department of Justice over the American Bar Association requirement to disclose disabling conditions like psychiatric disorders on the bar application, and over the requirement for some lawyers to work provisionally under supervision solely due to  a history of psychiatric treatment. Proposed language to restrict questions about psychiatric issues is being considered.
+
+The APA is updating its resource document on assisted outpatient treatment. The final document is not available at this time and the organization's position has also not be finalized.
+
+There was an interesting talk by one of the people working on the development of the Stalking Risk Profile, a new instrument designed to predict the relative risk of continued stalking of one victim, the risk of stalking a new victim, and the risk of violence posed by a stalker. It has shown good interrater reliability based on the stalker typology, and good predictive validity between high and low risk offenders. (The overall recidivism rate was 15%, but almost all of that was due to stalking the same victim.)
+
+The final session of the day was a panel presentation, with pro and con arguments, regarding whether involuntary non-emergency medication should be administered in a correctional rather than a hospital setting. The "pro" side noted that in some jurisdiction the waiting time to hospital transfer can be months long, and that appellate courts have upheld the use of these "Harper procedures" (after the SCOTUS case Washington v Harper) for pretrial detainees. The most creative argument on the "con" side was by Michael Perlin, who suggested that involuntary medication of prisoners was a violation of the Convention on the Rights of Persons with Disabilities (CRPD), an international human rights agreement which the United States has signed on to. He suggested that any kind of involuntary treatment or detention based solely on the presence of a mental disability was discriminatory and a violation of that document. A creative but not persuasive argument.
+
+So that was Day Two.

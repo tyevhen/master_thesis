@@ -1,0 +1,5 @@
+Touchless is one of those ideas that's so obvious, yet so cool, that after you hear it, you wonder why someone (such as yourself) didn't think of it ages ago. Aim a webcam at your screen; have software that follows your fingers around; move things around in screen space in response to your finger movements. Voila! Instant touch-screen on the cheap.
+
+Mike Wasserman came up with Touchless as a college project while attending Columbia University. He's now with Microsoft. The source code is free.
+
+Awesome.

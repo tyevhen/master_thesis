@@ -1,0 +1,25 @@
+While people involved with the Mental Health Act often use the term “section” as a verb (“I section you”, “You are sectioned”, “That bastard sectioned me”, etc) what this actually means is that the appropriate paperwork has been completed which authorises the detention of a patient under the MHA.
+
+There is a difference between the terms “detained” and “liable to be detained”. This difference can be quite crucial to an AMHP who is seeking to detain a patient in the community, as he or she needs to have the authority to convince other professionals, in particular the police and ambulance crews, that a person is indeed “detained”.
+
+The Mental Health Act itself does not define either term. However, the Reference Guide states (Para1.36):
+
+“The Act sometimes (but not always) distinguishes between people who are “detained” and those who are “liable to be detained”. This latter term includes people who are actually detained (eg people who are in hospital and would be stopped from leaving if they tried to) and people who could lawfully be detained but who, for some reason, are not.”
+
+Although the current Code of Practice does not elucidate further, the new Draft CoP has a helpful section which gives definitions of many of the terms used in the Act. The Draft Code defines “detained patient” as follows: “a patient who is detained in hospital under the Act, or who is liable to be detained in hospital but who is (for any reason) currently out of hospital.”
+
+So a detained patient is generally a patient who is physically detained under either Sec.2, Sec.3 or Sec.4 of the MHA. But in reality, as soon as an AMHP has completed a written application under any of these sections, the patient is “liable to be detained”, even though they may at that moment still be in their own home.
+
+An AMHP may even be sitting in the AMHP office, having assessed someone at home, and having obtained two medical recommendations (or even just one, for a Sec.4), then fills in and signs the application. At that moment, wherever the patient may be, the patient suddenly becomes “liable for detention”.
+
+This “detention at a distance” does happen from time to time. I recall an incident when, having assessed a person in his home with two doctors, who then gave me their recommendations, I was persuaded to delay completing my application by the relatives, who assured me that they would look after him and make sure he had his medication. I was trying to follow the least restrictive option.
+
+Thirty minutes later, I received a call from his mother to say that he had grabbed his car keys and had gone off recklessly at top speed towards an unknown destination. I duly sat in my office and completed my application, rendering him “liable for detention” – then let the police know that he had absconded and should be returned to hospital.
+
+Once a person is liable for detention, even if they then abscond, they can be considered to be absent without leave, at which point Sec.137 & Sec.138 come into play. Sec.137(1) deems anyone liable to be detained to be "in custody". Sec.138 then gives powers to an AMHP, a police officer, or indeed any other authorised person, for the patient to be "retaken" and transported to the hospital named on the Sec.2, 3 or 4 detention forms.
+
+Finally, reference is made in the Draft Code to the term “liable to be detained” with reference to Sec.135. It states:
+
+“A section 135 warrant provided by a magistrate enables a police officer to enter premises to either: remove a person to a place of safety to make an application under part 2 or other arrangements for their care or treatment; or take or retake into custody a patient who is liable to be detained under the Act”.
+
+In my experience, not enough police officers are familiar with their powers and duties in relation to patients who are “liable to be detained”. Indeed, we recently had a situation when, having obtained a Sec.135(2) warrant to return a detained patient who had refused to come back from S.17 leave, we had an argument with a duty sergeant who refused to believe that a constable had any role to play in executing this particular warrant.

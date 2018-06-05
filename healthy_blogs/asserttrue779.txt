@@ -1,0 +1,46 @@
+Yesterday, someone I follow on Twitter (@johnstack) said he enjoyed my post on writing faster code and asked if I'd refer to some examples of "do less, go fast."
+
+Canonical examples from Algorithms 101 abound. I won't attempt to list them. Quicksort versus bubble-sort is an example that comes to mind (although worst-case performance is actually the same for both of those algorithms -- as is often true of divide-and-conquer approaches).
+
+One of the most outstanding do-less algorithms of all time would have to be the Fast Fourier Transform, anticipated in 1805 by Carl Friedrich Gauss but made popular by Cooley and Tukey in 1962.
+
+"Do less" doesn't always mean choosing a different algorithm. Sometimes you just need to parameterize the problem properly. I don't mean "parameterize" in a rigorous mathematical sense. What I'm talking about is rethinking the problem so you can define it (and attack it) in some fundamentally new way. You can find plenty of examples of this sort of thing in graphics programming, particularly 3D graphics . The Graphics Gems series of books abounds with examples of "doing less to go fast." All the source code (mostly C) from these books can be downloaded here, by the way.
+
+I wrote an article for MacTech in 1999 on fast graphics-rendering strategies for the Mac, back when Apple was using PowerPC processors. That article contains a lot of do-stuff-faster tips and tricks, some of which can certainly be adapted to non-Mac systems. (If you like the article, or even if you don't, you might also want to look into dope vectors, sometimes called Iliffe arrays.)
+
+My son (who is 14 years old) showed me a particularly egregious example of code-in-need-of-optimization the other day. Justin is a big fan of Runescape (the massive online adventure game), and he obtained Java source code to one of many knock-offs of the Runescape server that are floating around on the web. I looked at the main loop and sat there stunned for a few minutes. It contained easily the largest continuous sequence of if-elses I've ever seen. The if-elses were piled on so thick that when Justin tried to insert one extra if-else expression of his own, the class would no longer compile! "Code is too big" (or something like that) was the error message. It turns out Java has a hard-coded max size limit, per method, of 64K (in source code). Sun was way too lenient here, though. I think the limit should be something closer to 8K.
+
+This is the kind of thing that, if it were in C++ or JavaScript (or a language that supports pointers-to-functions), would be a prime candidate for jump-table conflation. The natural syntax for long runs of if-elses in C, Java, or JavaScript is, of course, the switch statement, which the compiler (under the covers) implements as a jump table, usually. But you can also implement it yourself, directly. In JavaScript:
+// horrible Runescape hacker way:
+function updateUser( user ) {
+
+if ( user.something == State.GOOD )
+   handleGood( user );
+else if ( user.something == State.BAD )
+   handleBad( user );
+else if ( user.something == State.TERRIBLE )
+   handleTerrible( user );
+else if ( user.something == State.MESSED_UP )
+   handleMessedUp( user );
+else if [ ... ]  // 64Kbytes more of this
+}
+
+// jump-table way (error checking omitted):
+function updateUser( user ) {
+
+var table = {
+   State.GOOD : handleGood,
+   State.BAD : handleBad,
+   State.TERRIBLE : handleTerrible,
+   State.MESSED_UP : handleMessedUp
+};
+
+table[ user.something ]( user ); // dispatch
+}
+Ideally, of course, you'd initialize the (static) table once and keep a permanent copy somewhere so you don't always have to create it each time you enter the updateUser() method, but even if you create it every time, it's still cheaper than crunching through a ridiculously long list of if-elses.
+
+The moral, in this case, is that whenever you see a big, long run of if-elses, consider that someone has handed you an optimization opportunity.
+
+In tomorrow's post, I'm going to run through some code for doing fast set manipulation in JavaScript. Just for fun, I'll throw in some console AJAX, and we'll have a quick look at Twitter's social-graph REST API. The snippets I want to show you won't win any prizes for elegance, but hey, this is console code we're talking about. Prettiness isn't on the requirements list.
+
+Later.

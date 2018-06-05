@@ -1,0 +1,1 @@
+i learned about fuzzing today think of it as fault discovery by random input the underlying assumption if unexpected input makes an app produce unexpected behavior , you 're hosed hackers rely on fault injection to find vulnerabilities qa can use it to find bugs there 's a list of open source fuzzers here

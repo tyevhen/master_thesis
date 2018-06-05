@@ -1,0 +1,40 @@
+During the May 15 KDA chat room with Parsa Kazemi-Esfarjani, B.Sc., Ph.D., a researcher from the University of California, San Diego, two attendees became upset over the slow progress being made by researchers in finding a treatment or cure for Kennedy's Disease. These two attendees were in their 70s and 80s. The gist of the comments focused on why researchers cannot test their potential treatments (drugs) on volunteers that are willing to be guinea pigs, so to speak. Parsa, a 2009 KDA research grant recipient, was most gracious in trying to explain his position and also his empathy for the process.
+
+I do not know of many researchers that would not like to "fast-track" their research if they felt it was viable. The process for bringing a drug forward to a clinical trial is time consuming and oftentimes frustrating. There are reasons for this long, drawn out process and I am certain that if it was not in place there would be more abuse than benefit.
+
+Thursday, Parsa sent me an email about an article in Newsweek explaining why biomedical research is so slow in generating effective drugs. I read the article this morning and thought it would be an excellent topic for this blog.
+
+Below are some excerpts from this excellent article called "Desperately Seeking Cures - How the road from promising scientific breakthrough to real-world remedy has become all but a dead end."
+
+
+"More and more policymakers and patients are therefore asking, where are the cures? The answer is that potential cures, or at least treatments, are stuck in the chasm between a scientific discovery and the doctor's office: what's been called the valley of death."
+
+This paragraph captured my attention. Then it went on to read about the discovery of a gene called ABCC6 which, when mutated, causes a genetic disease called PXE. Once the gene was discovered, lab mice need to be developed, and then screening (testing one molecule after another to see which had any effect on ABCC6) must take place. The article goes on to say ...
+
+"But "academic scientists aren't capable of creating assays [test systems] to do that," says Sharon Terry, CEO of the Genetic Alliance, which supports research on rare genetic diseases (her children have PXE). "It's time-consuming drudgery and takes an expertise that hasn't trickled down to the typical academic scientist."
+
+"Should a lab be so fortunate as to discover a molecule that cures a disease in a lab rat, the next step is to test its toxicity and efficacy in more lab animals. Without that, no company—for companies, not academic scientists, actually develop drugs—will consider buying the rights to it. "A company wants to know, how specific and toxic is the molecule?" says Kenneth Chahine, an expert in patent law at the University of Utah. "It might work great in a mouse, but will it make a rat keel over? Doing this less fun research is not something an academic lab is interested in. The incentive driving academic labs is grants for creative, innovative research, and you're not going to get one to learn how much of a compound kills a rat."
+
+The article then explained about how this academic culture hinders finding a treatment for Huntington's Disease (something very similar to Kennedy's Disease). It takes us through the process and downfall of this next step in the process. Later, it explains what happens if everything works and a treatment is found.
+
+"If a discovery is licensed, the licensee then has to raise enough money to test the compound's toxicity (does it kill the lab rats? give them seizures?), to figure out how to make it in quantity and with uniform quality, to test the drug in larger lab animals such as dogs, and then to test it in people. Because large drug companies have been merging and retrenching and have become more interested in buying early-stage research than in doing it themselves, this role has been falling to biotech firms, which are smaller and poorer. It is at this step—turning a discovery into something that can be manufactured and that is safe and effective—that the valley of death has gotten dramatically more fatal over the last few years. "NIH grants don't support the kind of research needed to turn a discovery into a drug," says Gulve, so the money has to come from elsewhere."
+
+"Human testing is even more expensive—tens of millions of dollars ..." "Research funded by the Multiple Myeloma Research Foundation at a small biotech led to a promising new drug for multiple myeloma, a cancer of plasma cells in bones. But the firm was bought by a large drug company that decided against testing the drug in that cancer, calculating that the payoff would be greater if it could be shown to work against the big four (breast, lung, prostate, colon) or leukemias."
+
+Unfortunately for a RARE disease (like Kennedy's Disease), everything boils down to money. In other words, where should the money be invested to reap the largest reward? The article then brings forward potential steps needed to resolve the situation.
+
+"If we are serious about rescuing potential new drugs from the valley of death, then academia, the NIH, and disease foundations will have to change how they operate. That is happening, albeit slowly. Private foundations such as the MMRF, the Michael J. Fox Foundation for Parkinson's Research, and the Myelin Repair Foundation (for multiple sclerosis) have veered away from the NIH model of "here's some money; go discover something." Instead, they are managing and directing scientists more closely, requiring them to share data before it is published, cooperate, and do the nonsexy development work required after a discovery is made."
+
+"Forcing cooperation among turf-jealous academics could break a lot of logjams. "There are thousands of researchers working on exactly the same thing," says Bruce Bloom, whose Partnership for Cures foundation supports research on new uses for existing drugs. "Under the current system they cannot and will not collaborate for fear that it will jeopardize funding, patent protection, and publication. Look at the progress open-source software has made in IT. Imagine the progress open-source research could make in biomedicine."
+
+The article ends with this statement: "In perhaps the clearest sign that patience among even the staunchest supporters of biomedical research is running thin, the health-care-reform bill that became law in March includes a Cures Acceleration Network. Located at the NIH, the network would give grants ($500 million is authorized this year) to biotech companies, academic researchers, and advocacy groups to help promising discoveries cross the valley of death. It may or may not make a difference. But something had better, and soon."
+
+I believe there are three sides to every story.
+
+Perspective A    <=======>    Perspective B
+
+              And, the unbiased truth
+
+I am not certain where this article is located in the above spectrum. That being said, I thought I understood the process, but this article opened my eyes even further, and what I saw, I did not like.
+
+The old axiom, "The squeaky wheel gets the grease" is true. It is perhaps time we make a little more noise.

@@ -1,0 +1,3 @@
+Is it just me or does anyone else find Firebug+FF3 on Vista to be flaky? It loses my console code if I switch tabs (not windows, just going to another tab and coming back). Sometimes the FB console stops working or won't execute "console.log( )". And it seems as though weird bugs show up in the Firefox console that don't show up in the Firebug log pane, and vice versa.
+
+Also, I don't appreciate having to manually turn on the console for every web domain I go to. What a PITA. I wonder if that behavior can be disabled somehow? Right now, I'm feeling disabled.

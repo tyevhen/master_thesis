@@ -1,0 +1,17 @@
+Every year or two, I go back and re-read certain papers, presentations, and book chapters that have inspired me or been the source of priceless "Aha moments." One paper that I periodically revisit is John K. Ousterhout's Scripting: Higher Level Programming for the 21st Century, written when Ousterhout was affiliated with Interwoven. (He's currently a research professor at Stanford.)
+
+If you're not familiar with John K. Ousterhout, it might be because you don't use Tcl (Tool Command Language, the scripting language created by Ousterhout). Sun Microsystems hired Ousterhout in 1994 specifically to accelerate the development of Tcl. It turns out that Sun's CTO at the time (the person who hired Ousterhout) was Eric Schmidt. (Yes, that Eric Schmidt.) The whole story of the creation of Tcl (an interesting tale in its own right) is told by Ousterhout here.
+
+In any case, if you haven't yet encountered Ousterhout's excellent "Scripting" paper (originally published in IEEE Computing), I recommend that you check it out. Don't be misled by the 1998 date. It's still a very relevant paper.
+
+Rather than argue for or against scripting languages, Ousterhout lays out the philosophy (and relative benefits) of various kinds of languages and explains, often with recourse to real-world data, why certain languages are advantageous in certain situations and others are not.
+
+Ousterhout talks about the productivity-multiplier effect of high-level languages:
+On average, each line of code in a system programming language translates to about five machine instructions, compared to one instruction per line in assembly language (in an informal analysis of eight C files written by five different people, I found that the ratio ranged from about 3 to 7 instructions per line[7]; in a study of numerous languages Capers Jones found that for a given task, assembly languages require about 3-6 times as many lines of code as system programming languages[3]). Programmers can write roughly the same number of lines of code per year regardless of language[1], so system programming languages allow applications to be written much more quickly than assembly language.
+The same effect applies when going from a high-level compiled language to a scripting language, except that the multiplier effect is even greater. As Ousterhout says: "A typical statement in a scripting language executes hundreds or thousands of machine instructions." The net result is summarized in the following graph.
+
+
+
+This graph produced a kind of "Aha!" moment for me, because I realized (in a way I somehow hadn't, before) that scripting languages were all about code reuse; that if I could reduce the number of lines of code I write, I can (almost by definition) reduce the number of bugs I write; and that if one can accomplish an operation by calling a library method (such as the String "replace" method in JavaScript), scripted code can run at compiled-language speed, because a scripting language's built-in methods are implemented in C++ (Spidermonkey) or Java (Rhino).
+
+If you haven't read Ousterhout's paper before, I don't want to spoil the suspense here. Suffice it to say, the paper gives a balanced account of the strengths and weaknesses of languages of all kinds; there's no language-bigotry, no theological diatribes. It's a concise and eloquent treatment of a tricky topic, and considering the year in which it was written, it's quite a prescient piece in many ways. On top of everything else, it's just plain entertaining to read -- a rarity these days, online or off-.

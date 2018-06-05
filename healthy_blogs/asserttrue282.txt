@@ -1,0 +1,45 @@
+Genes get around. Sometimes they go from organism to organism to organism. Take gene ECB_00841 of E. coli B, for example. This baby's been around the world.
+
+Pristionchus pacificus (the handsome guy
+on the right) is a nematode, magnified
+here about 50 times.
+By outward appearances, ECB_00841 is just another "hypothetical protein" gene (which is Genomic for "we don't know what the heck this thing does"), one of 793 genes of unknown function in E. coli B. But here's the funny thing (and boy is it odd): If you copy the DNA sequence of that gene and translate it into an amino acid sequence using the online translation tool at http://web.expasy.org/translate, you'll get six different translations of the sequence, based on the six possible reading frames in which you can parse DNA. One of the six translations, namely the reverse translation (Expasy.org calls it 3'5' Frame 1) looks like this:
+
+SYRASGCIAAFQDASMLMRINHDPVRTHRSAALGNATIDHHFAVNARAVSLQYKLTGFHG
+DVISGLNDH-FDAPDIPAPGGGFVFKPATVRMFCHAGVRRRRRWCELIRIDSGQRKGSLQ
+IAAQTQQHHLLTFRWSPPCAGITRAQRQPADPVGFKVARFHPTKPVFPVHFGDYTYADQI
+GDKAHDFG-LCVHRYMMTAENLFITSCKLWYRWYKLIKG-KTTNRWINECYESNKF-YI-
+C-IFKHPGSGTCRMDFHYWSCYNFGDDSYKSTIQ
+
+This is the amino acid sequence you get by reading the "wrong strand" of the DNA. Notice there's pink highlighting every time a sequence begins with the letter 'M' (because methionine is associated with the start codon of a gene), but the highlighting ends whenever a hyphen (representing a stop codon) is encountered. If this gene were translated in vivo as shown, it would be in four rather pathetic chunks. If this is truly the correct DNA strand, we're looking at a pseudogene.
+
+But now comes the Real Magic. (I promise you, this part is amazing.)
+
+Go ahead and Select and Copy everything in the above sequence from PAPGGG to YKSTIQ, then go to http://www.uniprot.org/?tab=blast and Paste the sequence into the BLAST field, but before you click the Blast button, be sure to remove the hyphens from the amino acid sequence, as otherwise you'll get an immediate error.
+
+After 30 seconds or so, the BLAST search will come back with a short list of hits. At the very top, with an Identity score of 100%, is an Uncharacterized Protein belonging to Pristionchus pacificus ("parasitic nematode").
+
+Yes, the backwards-translated E. coli gene is actually a forward gene in a worm. It's not a fake hit or a ruse. This is a genuine gene, wrongly annotated as to DNA strand in E. coli, but definitely existing in both a bacterium and a worm. The fact that the amino-acid sequence identity is 100% (not 90%, not 98%, but 100%) is striking confirmation that the gene really exists and is conserved in both organisms.
+
+You're probably wondering how an E. coli gene gets into a nematode's DNA in the first place. I'm glad you asked, because the answer is fascinating.
+
+The gene, it turns out, originates neither with E. coli nor with the nematode. If you search online databases, you'll eventually find that the gene is actually a baseplate assembly protein from the enterobacterial phage Fels-2.
+
+Fels-2 bacteriophage (virus).
+The gene occurs in a part of the E. coli genome that happens to contain a large cluster of prophage genes. Recall that viruses can coexist with hosts in two ways: the familiar lytic cycle (where the virus takes over the host cell, eventually exploding it to release thousands of new virions), or the stealth-mode lysogenic cycle, wherein a viral genome integrates itself into a host genome, where it can remain dormant for anywhere from a few hours to all eternity, depending.
+
+At some point in the past, Fels-2 integrated itself into the E. coli B genome, where parts of it have remained for probably millions of years, although (intriguingly) not a single amino acid has changed between the nematode version and the E. coli version.
+
+"But how did it get into the worm?" you're asking. Well, in the wild, P. pacifica likes to hang out with scarabs. Nematodes are often mistakenly identified as parasites of beetles. The truth is, they like to feed on dead beetles, but they do not attack beetles directly. Rather, the so-called dauer larvae of the worm (a durable, environmentally hardened larval form) bring with them bacterial stealth payloads, some of which are toxic to the beetle and can kill it. The dauer larvae patiently wait for the beetle to die so they can begin feeding.
+Beetles are in constant contact
+with dung and enteric bacteria.
+
+Of course, scarabs are dung-mongers, and as such, they're no strangers to the likes of E. coli, but the Xenorhabdus bacteria carried by nematodes can be deadly to the beetle. As it happens, E. coli and Xenorhabdus are both enteric bacteria, and both carry the ECB_00841 gene. In fact, some version of this gene exists in a wide variety of enteric bacteria, including members of Salmonella, Yersinia, Klebsiella, and other genera. It could be that each bacterium acquired the phage gene separately, through individual lysogeny events, but a more parsimonious view is that the common ancestor of these bacteria acquired the first copy, many millions of years ago, and passed it down through the ages.
+
+Somehow, at some point, the gene for the phage baseplate protein made its way into a nematode's reproductive cells. Nematodes can feed on microorganisms, and it's possible a nematode engulfed an infected bacterium (infected with the Fels-2 phage), a bacterium that then underwent lysis inside the nematode host cell, releasing thousands of virions. Fels-2 brings with it its own recombinases and integrases, enzymes that would have facilitated transfer of the phage DNA to the nematode. By chance, the baseplate gene stuck.
+
+Why a baseplate gene? Who knows. Phage proteins are often multifunctional, and what appears to be nothing more than a structural protein (a baseplate protein) can sometimes turn out to play other roles. No doubt, the so-called baseplate protein plays some kind of useful role for Pristionchus pacificus and for the various bacteria in which the gene exists today. Otherwise, according to evolutionary theory, the gene would have been lost eons ago.
+
+One thing seems likely: The gene has probably been around a very long time, probably as long as dung-pushing beetles (and the nematodes that eat them when they die) have been pushing balls of dung. And that's a long, long time indeed.
+
+If you enjoyed this post, please share the link with a friend. Thanks!

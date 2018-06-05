@@ -1,0 +1,21 @@
+Yesterday Ed Meyertholen, KDA board member and resident guru for explaining anything complicated, hosted the chat room.  The topic was an update on the Gordon Conference.
+
+It wasn’t long, however, before the topic shifted to biomarkers … what they are and why they are important.  The key takeaway was that biomarkers can help determine if you have a disease before any symptoms show up.  For example, a biomarker could show that a person has cancer forming before any other physical signs are evident (i.e., a tumor, nagging cough, blood in stool, decline in red blood cells, etc.).
+
+
+I found the subject so interesting that I wanted to learn more so I went to Wikipedia for answers.
+
+Wikipedia defines a biomarker as:
+  In medicine, a biomarker is a term often used to refer to a protein measured in blood whose concentration reflects the severity or presence of some disease state. More generally a biomarker is anything that can be used as an indicator of a particular disease state or some other physiological state of an organism.
+
+A biomarker is a parameter that can be used to measure the progress of disease or the effects of treatment. The parameter can be chemical, physical or biological. In molecular terms biomarker is "the subset of markers that might be discovered using genomics, proteomics technologies or imaging technologies. Biomarker help in early diagnosis, disease prevention, drug target identification, drug response etc. Several diseased based biomarker had been identified for many diseases such as serum LDL for cholesterol, blood pressure, P53 gene and MMPs for cancer etc.
+
+Uses for Biomarkers
+  For chronic diseases, whose treatment may require patients to
+take medications for years, accurate diagnosis is particularly important, especially when strong side effects are expected from the treatment. In these cases, biomarkers are becoming more and more important, because they can confirm a difficult diagnosis or even make it possible in the first place.  
+
+A number of diseases, such as Alzheimer’s disease or rheumatoid arthritis, often begin with an early, symptom-free phase. In such symptom-free patients there may be more or less probability of actually developing symptoms. In these cases, biomarkers help to identify high-risk individuals reliably and in a timely manner so that they can either be treated before onset of the disease or as soon as possible thereafter.
+
+In Kennedy’s Disease, our CAG count is an indicator of a gene mutation, but not a biomarker.  By the time twitches, cramping, high creatinine levels, etc. start showing up the progression has already began.
+
+Warning:  Wednesday’s snap quiz could contain questions on biomarkers, so be prepared.

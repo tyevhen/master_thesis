@@ -1,0 +1,11 @@
+Java app server popularity is on the decline -- if Google search volume is any indication. The above graphic (from Google Trends) shows five years of data representing search volume (upper portion) and news-citation volume (lower) for keywords "apache tomcat","websphere","jboss," and (just for fun) "weblogic." The trend lines are pretty convincing, it seems to me. Only Tomcat (which of course lacks full-blown app server status and is the orange in this apples-to-apples comparison) has a relatively steady trend line. The trajectory for all others is about the same as that of the U.S. Airways jet that landed in the Hudson.
+
+In recent years, some of the lack of app-server-targeted new development has shifted to development that targets runtime frameworks like Spring. But it appears even interest in Spring has peaked.
+
+
+
+The news for Java runtime containers is not all bad, however. One open-source application server -- namely Glassfish -- has been coming on strong.
+
+
+
+What's interesting about Glassfish, of course (aside from the fact that it has a microkernel based on OSGi), is that it's a Sun Microsystems-backed project, with Sun providing commercial support for the enterprise version of the server. That means the future of the enterprise version rests with Oracle. One wonders what, if anything, Oracle will do with it.

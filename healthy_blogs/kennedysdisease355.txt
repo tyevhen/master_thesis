@@ -1,0 +1,60 @@
+The following press release from the National Institute of Health was received this morning.  As many of you know, the knockout mouse model is used for much of the Kennedy’s Disease research that is performed today.  This release explains the phase II approach for developing additional knockout mouse models to further support research.
+
+The first three paragraphs summarize the announcement.
+___________________________
+
+
+U.S. Department of Health and Human Services
+NATIONAL INSTITUTES OF HEALTH NIH News
+National Human Genome Research Institute (NHGRI), <http://www.nhgri.nih.gov/>
+
+For Immediate Release: Thursday, September 29, 2011
+
+Over the next five years, National Institutes of Health (NIH)-funded researchers will extensively test and generate data about mice with disrupted genes to gain clues about human diseases. NIH today awarded a set of cooperative agreements totaling more than $110 million to begin the second phase of the Knockout Mouse Project (KOMP).
+
+The results of the next stage, called the Knockout Mouse Phenotyping Project, or KOMP2, will be placed in a public database. Researchers make knockout mice by disrupting the function of individual genes across the animal's genome.
+
+KOMP2 is a trans-NIH and NIH Common Fund project that will work with other members of the International Knockout Mouse Phenotyping Consortium (IMPC) to generate about 5,000 strains of knockout mice that will undergo a large battery of clinical phenotype tests. A phenotype includes biological information about appearance, behavior and other measurable physical and biochemical characteristics. Such information will help reveal how all traits are affected by deleting a given gene in an individual mouse.
+
+In the long term, the project aims to enable the research community to establish the traits associated with the function of every protein-coding gene in the mammalian genome. Such information will be valuable for the discovery of the genetic causes of human diseases and will aid efforts to identify new drug targets.
+
+"The generation of detailed phenotypic information for each knockout mouse strain will be a boon to disease researchers who want to determine the function of genes and to improve mouse models of human disease," said NIH Director Francis S. Collins, M.D., Ph.D. "I am grateful to all of the people and programs across NIH who are supporting this effort and to our international partners who have joined us in this scientific endeavor."
+
+In partnership with several international programs, the initial five-year phase of KOMP will reach its goal of creating knockout mouse embryonic stem cell lines for each of the approximately 21,000 protein-coding genes in the mouse genome this year. The International Knockout Mouse Consortium (IKMC) includes the Knockout Mouse Project (KOMP), U.S.A.; the European Conditional Mouse Mutagenesis Program (EUCOMM) funded by the European Commission: the Texas A&M Institute for Genomic Medicine (TIGM); and the North American Conditional Mouse Mutagenesis Project (NorCOMM) funded by Genome Canada.
+
+"NIH is committed to making knockout mouse models more widely accessible to the biomedical research community," said James Battey, M.D., Ph.D., director of the National Institute on Deafness and Other Communication Disorders (NIDCD), who is also a co-chairman of the Trans-NIH Mouse Initiative. "Getting these valuable models into the hands of a wide range of researchers will serve to accelerate our efforts to develop new strategies for understanding and treating human disease."
+
+During the next five years, KOMP2 will transform the knockout mouse embryonic stem (ES) cells into adult mice for 2,500 lines of well-characterized knockout mice strains, and IMPC will create about 2,500 additional knockout mouse strains. Each mouse will undergo the same standard analysis so that the results can be compared for all of the mice tested. NIH has awarded six cooperative agreements to three groups to establish production and phenotype centers for the project.
+
+"It is going to take a great deal of scientific teamwork to assimilate phenotypic information about this knockout mouse resource, but we are confident in the team that has been assembled to accomplish the task," said National Human Genome Research Institute (NHGRI) Director Eric D. Green, M.D., Ph.D. NHGRI is involved in the planning and administration of KOMP2.
+
+The National Center for Research Resources (NCRR) will administer the awards for the production centers, and NHGRI will administer the awards for the phenotyping centers. NCRR and NHGRI are components of the NIH.
+
+The funded groups will all receive a total of approximately $34 million and are expected to produce and phenotype 833 strains of knockout mice each for a total of about 2,500 knockout mouse lines. Recipients of the awards are:
+Baylor College of Medicine, Houston. This center will collaborate with the Wellcome Trust Sanger Institute in Hinxton, England and the Medical Research Council (MRC) Harwell in Oxfordshire, England.
+University of California, Davis. This center will collaborate with the Toronto Center for Phenogenomics in Canada, Children's Hospital Oakland Research Institute in California, and Charles River Laboratories in Wilmington, Mass.
+The Jackson Laboratory in Bar Harbor, Maine.
+"This resource will enable many more researchers to tap into the power of knockout mice for exploring gene function, which in turn will speed our efforts to improve human health," said Louise E. Ramm, Ph.D., acting director, National Center for Research Resources.
+
+In addition to the production and phenotype centers, NIH awarded a five-year, cooperative agreement totaling $10 million to the European Bioinformatics Institute in Hinxton, England, which will collaborate with MRC Harwell and Wellcome Trust Sanger Institute to set up a data coordination center and database to track progress of the project and to coordinate efforts between KOMP2 and IMPC researchers. In addition, this center will build an integrated Web portal that will provide researchers access to the phenotype data.
+
+The mouse is a key mammalian system in which to produce a genomics resource because of the long history and depth of understanding of mouse genetics and the availability of the mouse genome sequence. What's more, researchers have made advances over the last several years in improving the efficiency and decreasing the cost of generating knockout mice.
+
+Historically, researchers have generated their own lines of knockout mice to serve as models for human disease, such as heart disease or cancer. However, rather than generating a detailed and comprehensive phenotype of the mouse, they often are only interested in a handful of phenotypes. For example, a researcher interested in cardiovascular disease may only want to examine the effect of a disrupted gene on blood pressure.
+
+This single-lab approach can be expensive and inefficient. A researcher with access to a low-cost knockout mouse that has been extensively  phenotyped can focus his or her time and research budget on more in-depth research questions rather than spending it on producing a knockout mouse about which the researcher has limited information. 
+
+KOMP2 and IMPC researchers will begin by creating lines of knockout mice from embryonic stem cells produced by KOMP.  The 5,000 genes that will be knocked out will be selected from nominations already submitted by the research community.
+
+Many of the selected genes will be used to study disease processes and underlying mechanisms. Others will be selected based on the genetic variations associated with the human diseases that have been uncovered by genome-wide association studies.
+
+Statistically, about 25 percent of the mouse pups will inherit both copies of the knocked out gene, while their littermates will have only one copy and be heterozygous, or normal. The knockout mice and the healthy littermates will both undergo a battery of more than 400 phenotype measurements at multiple times during their lives. Tests will include X-ray imaging, magnetic resonance imaging (MRI), blood exams, balance tests, and urine and fecal analysis, to name a few. Both the knockout and normal phenotype data will be made available through the KOMP2 data coordination center so that researchers who acquire and study the knockout mice can compare various phenotypes.
+
+"We want to characterize each line of mice broadly with no assumptions about what the gene is or is not doing," said IMPC Executive Director Mark Moore, Ph.D. "If you think of the function of a gene as a needle in a haystack, we're removing the haystack so you can see what the needle does."
+At the end of the initial five years of the effort, the NIH and IMPC will evaluate the usefulness of the resource to the research community. If the evaluation is a positive one, both efforts may scale up to create and phenotype a total of 12,000 more knockout mice.
+
+Once each knockout mouse is phenotyped, researchers can obtain information on what knockout mouse lines are available and how to order them from the University of California Davis KOMP Repository.  To access the IKMC Web portal, please go to <www.knockoutmouse.org>.
+
+The 18 NIH institutes, centers and offices contributing to the Knockout Mouse Project are: the NIH Office of Strategic Coordination/Common Fund; NCRR; the National Eye Institute; NHGRI; the National Heart, Lung and Blood Institute; the National Institute on Aging; the National Institute of  Alcohol Abuse and Alcoholism; the National Institute of Arthritis and usculoskeletal and Skin Diseases; the Eunice Kennedy Shriver National Institute of Child Health and Human Development; NIDCD; the National Institute of Dental and Craniofacial Research; the National Institute of Environmental Health Sciences; the National Institute of General Medical Sciences; the National Institute of Mental Health; the National Institute of Neurological Disorders and Stroke; the National Institute of Diabetes and Digestive and Kidney Diseases; the National Cancer Institute; and the Office of AIDS Research.
+
+For more information on the Knockout Mouse Project, go to the NIH Knockout Mouse Project. For a fact sheet describing what knockout mice are, how they are made and what they are used for, go to Knockout Mice. To download a high-resolution photo of knockout mice, go to <www.genome.gov/pressDisplay.cfm?photoID=5006>.

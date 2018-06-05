@@ -1,0 +1,3 @@
+Lately I've been crashing the Mobile Device Crash Report Tool a fair amount. But so, too, have a lot of other people, judging from the buzz on the Googlesphere. Evidently iTunes is fussy (on Vista, especially) when it comes to indiscriminate plugging/unplugging of iPods from USB ports while a sync is in progress (yeah, I know).
+
+For crying out loud can we not have a meaningful error message, though? Repeat after me: Whisky, Tango, Foxtrot.

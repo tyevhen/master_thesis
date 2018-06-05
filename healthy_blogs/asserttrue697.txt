@@ -1,0 +1,12 @@
+Maybe because I analyze and write about enterprise software for a living (or maybe simply because I'm a Vista user), I tend to spend a lot of time thinking about the messiness and sloth of software systems, and what, if anything, can be done about it. Short of returning to Intel 8086 and Motorola MC68000 chipsets, I'm not sure anything can be done at this point. But that doesn't mean we stop trying.
+One source of inspiration is the UNIX philosophy. In 1994 Mike Gancarz (a member of the team that designed the X Window System) articulated "The UNIX Philosophy" as a list of nine principles, drawing on his own experiences with UNIX as well as those of friends and colleagues in the UNIX community. Gancarz summed up the nine principles this way:
+Small is beautiful.
+Make each program do one thing well.
+Build a prototype as soon as possible.
+Choose portability over efficiency.
+Store data in flat text files.
+Use software leverage to your advantage.
+Use shell scripts to increase leverage and portability.
+Avoid captive user interfaces.
+Make every program a filter
+Obviously these principles, as stated, are not directly transferrable to the world of enterprise software development. But they speak to a certain aesthetic that can be (and needs to be) emulated, I think, if the enterprise world is ever going to get past the point of "not good enough is good enough."

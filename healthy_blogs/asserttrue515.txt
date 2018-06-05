@@ -1,0 +1,27 @@
+Why does Wikipedia have such a bad reputation?
+
+Is it, in fact, bad? How so?
+
+Is Wikipedia a good idea but flawed in execution? Can it be perfected? Have Wikipedia's creators done the best possible implementation of an "open encyclopedia"?
+
+I think we all have our own answers to these (and similar) questions.
+
+For my own part, I admit to using Wikipedia more than I'd like. I use it because it's useful. "More than I like" means I wish I had something better.
+
+There's an uncertainty factor to Wikipedia that's unsettling. Wikipedia can't be called authoritative, in the way that Encyclopedia Brittanica could be called authoritative. Encyclopedia Brittanica wasn't perfect. But at least a user of it could rest assured that all of the entries in Encyclopedia Brittanica were written and vetted by credentialed experts.
+
+Here's the Wikipedia Paradox: I use Wikipedia to educate myself on subjects areas in which I'm not a domain expert. But precisely because I'm not a domain expert, I'm in no position to judge the correctness of what I'm reading. This introduces unacceptable uncertainty. I can never know the degree to which something I'm reading might be accurate. The cure is for me to do more research, of course. But unless I do that every time, I'm guaranteed to misjudge the accuracy of at least some entries, some of the time. So the question is: What good is something like Wikipedia if I have to verify its correctness every time I use it?
+
+Wikipedia's creators have recently tried to remedy the Paradox by instituting something called "featured articles." Unfortunately, it's an opaque and haphazard non-answer to the problem. Only 3,776 articles out of 4,139,639 articles on the English Wikipedia are "featured," meaning fewer than one tenth of a percent of Wikipedia articles meet "professional standards of writing, presentation, and sourcing,"
+
+What needs to be done to make the other 99.99% of Wikipedia better? I can think of at least three things. Maybe you can add more.
+
+1. Attribution. People need to give their names and qualifications for writing on a subject. The idea that anyone in the world can "contribute" anything at all, on any subject, to an open encyclopedia is, on the face of it, ludicrous. I want to be able to hover the mouse over a given section of text and see the authors' names, with links to their LinkedIn profiles (or other online credentials). I want to be able to see who wrote what, so I can get a feel for the possible validity of the article. In many cases, I won't care. But when I care, I really care.
+
+2. Approval ratings. Lay readers should be asked "Did you find this article helpful?" This is trivial to do. Why isn't Wikipedia doing it? Ideally, this should be done granularly, at section or paragraph level, because we've all seen Wikipedia articles in which certain sections were well-done and others were not-so-well-done. But at least allow some level of endorsement. Right now there's nothing to tell the visitor of a given page whether the page has been deemed helpful by a plurality of viewers.
+
+3. A transparent reputation system. Let experts endorse articles. One idea would be to correlate an article's meta-tags with an expert's "skills inventory" on LinkedIn, so that we know that (for example) an article on Prolog programming was endorsed by someone with "Prolog skills" recommendations in that person's LinkedIn skill profile. Several years ago, researchers at U.C. Santa Cruz built a consensus-based reputation engine called WikiTrust that provided visual clues (in Firefox) about author reputations whenever you browsed a Wikipedia entry. The project is no longer active, unfortunately. But it shows the kind of thing that can be done. (An interesting paper by the UCSC researchers can be found here.)
+
+At this point, Wikipedia's founders should simply pronounce Wikipedia 1.0 an end-of-life product and begin work on Wikipedia 2.0 (if they haven't already done so). No one denies that Wikipedia 1.0 was a useful experiment. But it has reached the end of the line. Wikipedia administrators now devote more than a third of their edits to making reverts, and most usage metrics are down sharply (see this post), so it's clear something needs to be done to rescue Wikipedia from the slow death that has already begun.
+
+Wikipedia 2.0 needs to happen fast. Let's hope the Powers That Be "get it."

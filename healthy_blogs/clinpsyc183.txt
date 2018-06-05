@@ -1,0 +1,43 @@
+Worried about data being hidden in clinical trials, with negative data regarding a drug's safety and/or efficacy being buried? Worry no longer. At least that's what the super-optimistic authors in the New England Journal of Medicine would have us believe. Here's what they wrote:
+Of special interest to us, an additional provision of the act requires sponsors of all clinically directive therapeutic trials to register their studies, at inception, in a public database sponsored by the National Library of Medicine. Although some aspects of this provision are not ideal, such as the delayed public availability of registration information on device trials and the noninclusion of phase 1 trials, mandatory registration represents a critical advance in making clinical trials of new treatments public knowledge.
+AND
+A decade ago a clinical trial could be conducted in secret. The trial’s sponsor, claiming proprietary rights, could keep all information about it, including its very existence, private. Thus, if a drug had important adverse effects, this information might never be made public. Legislators believed that such a possibility was not in the best interests of the American people. Once a clinical trial is mounted, the sponsor has an ethical obligation to publicly acknowledge the contribution of the participants and the risk they have taken by ensuring that information about the conduct of the trial and its principal results are in the public domain. With the FDA Revitalization Act, the United States joins other countries in recognizing that the human volunteers needed to complete a trial are more precious than the money required to mount it.
+Wow, everything is looking up now! All data will be reported and all will be well. I read what I think is a relatively updated version of said legislation, and I did not really see anything that requires that all results are reported for every trial. Nothing even close to that is described, unless I missed something. Data reporting requirements should be pretty simple: Data on every single efficacy and safety measure must be reported in full. Nothing less is acceptable. Otherwise, sponsors can continue to fund research from which the positive data are reported and the negative data are minimized.
+
+The Present System is Broken. Here's an example of why the present Clinical Trials database is close to useless for learning about study results. First come snippets from a registered clinical trial, then comes the publication based upon the results. Snippets from trial protocol (what was going to happen in the study):
+This is a study of the effectiveness of adding Abilify (aripiprazole), an atypical antipsychotic medication, to ongoing SSRI antidepressant treatment for depressed outpatients who are not responding fully to SSRI treatment alone. It is hypothesized that patients’ functioning will improve after 12 weeks of treatment with Aripiprazole and SSRI medication...
+
+Total Enrollment: 15...
+
+Primary Outcome Measures:
+Hamilton Depression Rating Scale (HDRS)
+Secondary Outcome Measures:
+Clinical Global Impressions Scale (CGI)
+Global Assessment of Functioning Scale (GAFS)
+Beck Depression Inventory (BDI)
+Study chairs or principal investigators
+
+David J. Hellerstein, MD, Principal Investigator, NY State Psychiatric Institute, and St. Luke's - Roosevelt Hospital Center
+
+Publications
+Hellerstein DJ. Aripiprazole as an adjunctive treatment for refractory major depression. Prog Neuropsychopharmacol Biol Psychiatry. 2004 Dec;28(8):1347-8. No abstract available.
+Clinical Trial Entry vs. The Publication. You can see the details above. 15 patients to be enrolled in the study using four measures of outcome. Let's see what that cited publication had to say about the results...
+Ms. V. is a 46-year-old single female with a 5-year history of severe depression... What about the 14 other patients?
+
+At that point [venlafaxine + mirtazapine not working], aripiprazole was added, initially at 15 mg/day then increased to 30 mg/day. Within a month, Ms. V. noted that her mood and concentration were improved, and she was no longer anhedonic. She began socializing with family members again, began gardening and was able to concentrate on reading and movies. After 3 months on the venlafaxine extended-release, mirtazapine, and aripiprazole, Ms. V. noted that her appetite remained good, she was sleeping 7 h per night, her mood was much better, and she had begun to seek a new job, sending resumes and phoning prospective employers... What happened to those measures of outcome mentioned above?
+The linked publication discusses one case though the trial was to study 15 people. Did the other 14 all jump off a bridge? What happened? If we are going to have a clinical trial registry that requires reporting of results, is this what you want? I hope not. Next, the obligatory pro-Abilify propaganda, such as...
+Furthermore, aripiprazole’s benign side effect profile [including minimal weight gain, sedation and parkinsonism, resulting from its low affinity for alpha-1-adrenergic, histamine (H1) and muscarinic (M1) receptors] suggests that it may be tolerable for refractory-depressed patients, who may need adjunctive treatment for a long period of time. The case of Ms. V. suggests the possible benefit of aripiprazole in treatment-resistant depression as an adjunct to other antidepressant medications.
+When there is no clinical trial data to support your discussion, one can always fall back on discussing various receptors and how, theoretically, tweaking them in one way or another is going to lead to positive results.
+
+The case study ends with:
+Further studies of aripiprazole as an adjunctive medication for treatment-resistant depression are indicated.
+Yeah, but what happened to the 14 other patients in this study?? I did a search on Medline to find if there were additional studies by Hellerstein using Abilify in depression and I could find nothing that seemed to fit the bill. Please alert me if I missed something in the search. One could argue that perhaps the study is in the midst of being written up for publication -- if so, it's sure taking a while...
+
+
+There's More. If I had more time, I'd go through the clinicaltrials.gov registry and I'm sure I'd find more interesting discrepancies between clinical trial protocols (where researchers say what is going to happen) and what was actually published (the official record of what actually happened). In fact, I've done this before, in which I noted that a published study of Risperdal for depression was clearly changed in its data reporting somewhere between the clinical trial registry and the eventual publication. A rather thorough investigation into the topic found that:
+
+"Overall, 50% of efficacy and 65% of harm outcomes per trial were incompletely reported. Statistically significant outcomes had a higher odds of being fully reported compared with nonsignificant outcomes for both efficacy (pooled odds ratio, 2.4; 95% confidence interval [CI], 1.4-4.0) and harm (pooled odds ratio, 4.7; 95% CI, 1.8-12.0) data. In comparing published articles with protocols, 62% of trials had at least 1 primary outcome that was changed, introduced, or omitted. Eighty-six percent of survey responders (42/49) denied the existence of unreported outcomes despite clear evidence to the contrary."
+
+Who Cares? Well, if you don't mind receiving only part of the efficacy and safety data, then don't do anything. Send no emails, tell none of your friends, don't bother your local journal editor, and don't ask your doctor if he/she is aware that the so-called bedrock of evidence based medicine (i.e., results published in scientific journals) is based on selectively reported information.
+
+The Kool-Aid. I'm really stunned that the folks at the New England Journal of Medicine would just rush off and publish an essay about how great things are now going to be. People have been calling out for data to be shared openly for quite some time, and now, magically, with the passing of some vague legislation, all data will be made publicly available. The drug industry is suddenly just going to publish all information on all of their clinical trials, overnight? And some bigwigs at NEJM are willing to drink this Kool-Aid? That is pathetic.

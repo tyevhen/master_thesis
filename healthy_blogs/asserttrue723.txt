@@ -1,0 +1,13 @@
+It occurred to me the other day that CMIS (Content Management Interoperability Services, the proposed OASIS "common protocol" for Enterprise Content Management) is actually a Document Management standard, not a Content Management standard. Its name should therefore be DMIS.
+
+For proof, one need look no further than the data model. "Document" and "Folder" are the principal first-class objects in the CMIS model. Thus, "content" (the 'C' in 'CMIS') is assumed, by the authors of the standard, to mean "document."
+
+The CMIS data model is also RDBMS-centric and SQL-friendly (as it is in all good DM systems). It follows the tried-and-true relational model of every respected legacy DM system.
+
+I might add that the authors of the standard have basically declared WCM to be out of scope.
+
+Basically, anything that doesn't fit the "everything is a document or a folder" model is either out of scope or will be extremely difficult to force-fit into the CMIS mold. At least, that's how it's starting to look to me.
+
+I can't see WCM or DAM fitting easily into the CMIS worldview (which is a 1999 worldview, in terms of content being nothing more than documents and folders). What do you do with XMP in a CMIS world? Indeed, what do you do with unstructured content, in general? CMIS looks for content that's structured. That's not today's world. Sorry.
+
+So CMIS is, for all practical purposes, a document-management standard -- a way to let DM systems (mostly legacy DM systems) talk to each other. There's nothing at all wrong with that. DM is still a critical piece of the ECM puzzle. But it's important not to mistake CMIS for what it is not and can never be: a universal content management API.

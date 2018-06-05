@@ -1,0 +1,21 @@
+I have a very simple tip for software companies and engineering managers who want to make their developers happier and more productive (and less likely to produce buggy code). Forbid overtime.
+
+I give this advice based primarily on what I've observed personally (and anecdotally via friends in the industry). What I've witnessed is that people who are flogged like mules either burn out, quit their jobs unexpectedly, or (worse) stay with the company, carrying a new, sour attitude.
+
+Conversely, I've seen that developers who are encouraged to go home at quitting time tend to do a better overall job, because they know what's expected of them (i.e., finish what you're doing by 5:00) and come to work in the morning well-rested (or at least with a reasonably positive outlook compared to their counterparts at other companies who are doing 60- or 80-hour weeks).
+
+People who know they have to leave at 5:00 (or 6:00, etc.) tend to go to extra lengths to finish whatever it is they were working on before the clock runs out. They ramp up their productivity as necessary to get work done in the time allotted. This is what you want.
+
+Productive employees become more productive when they have to work within time constraints, because they learn time-management skills they wouldn't otherwise learn. That sounds like a tautology, but it's true.
+
+It works in reverse as well. You find out quickly who your less-productive people are when they're under time constraints. This is valuable info if you're a manager.
+
+The no-overtime rule tends to enforce good project-management discipline. People become realistic about how much progress can be achieved in a given length of time and set milestone dates accordingly. If delivery goals aren't met, new dates are set (assuming there's a firm no-overtime rule) and project managers assume responsibility for the initial misjudgment. (Of course, the project managers get their time estimates from the various engineering managers, so the responsibility for missing a goal actually gets cascaded down through management.)
+
+Without a no-overtime rule, people are expected to adjust their work day as needed in order to meet milestones, and failure to meet the goal is blamed on employees rather than management (because the underlying assumption is that if you put in enough hours, you could have made the goal). Putting the onus for lateness on regular employees rather than managers only demoralizes workers and makes them less apt to deliver on future deadlines. The right thing to do (the productive thing to do, in the long run) is let managers bear responsibility for lateness -- as they should.
+
+When I see or hear tales of people sleeping under their desk and drinking energy drinks while they bang out code at 2:00 in the morning, I know that the company in question is poorly run and will ultimately suffer (in any number of possible ways) for making (or letting) people work crazy shifts. "But," you may be saying, "what if people are putting in those hours because they truly want to?" In my experience, people with families like to be with their families. Some people take classes at night (or need to change a baby's diapers in the middle of the night), or have ailing relatives to take care of, or have any number of other outside responsibilities. Working till dawn is not an option for some people, and in my experience most people do not choose it voluntarily. There are exceptions, of course (such as with short-staffed entrepreneurs who are trying to bootstrap a new business), but as a general rule, working till 2:00 or sleeping under your desk not only reflects bad company policy but poor personal judgment as well. (Again, though, if you're a founder of a new business, you do what you have to do. But if you know what's good for you, you won't make others work that way.)
+
+I'm sure there are some who would say that in these troubled economic times, special measures are called for. Many companies, after all, are fighting for their very lives right now. Surely workers should expect to work overtime some of the time, until the economic storm passes?
+
+To which I say: If your situation is so desperate that you think making people work a few extra hours is going to save the company, you're in more trouble than you think. Way more.

@@ -1,0 +1,29 @@
+I'm doing a little studying up on binge eating and the brain, so this post is more of a notation aid for me.  So if you aren't a neuroscientist, you might want to just listen to this music.
+
+From "Dissecting components of reward:  'liking', 'wanting', and 'learning''."
+
+Rewards ranging from sweet taste, IV cocaine, winning money and smiley face activate many brain regions (orbitofrontal cortex, anterior cingulate and insula, and also nucleus accumbens, ventral pallidum, ventral tegmentum, mesolimbic dopamine projections, amygdala.) Not clear which are the reward centers and which are activated as part of spreading network activation in response to reward.
+
+In babies, primates, rats and mice, sweets elicit happy facial expressions while bitter tastes elicit negative expressions. Many brain systems are involved. To enhance these "liking" reactions, we can count on the opioid, endocannabinoid, and GABA-benzodiazepine neurotransmitter systems in the limbic system. These are known as the "hedonic hotspots. (One example is a tiny spot within the nucleus accumbens, about a milimeter in volume, comprising less than 10% of the nucleus accumbens.)
+
+Microinject a mu opiate agonist into the hotspot, liking in response to sucrose increases. It also doubles the "wanting" for food demonstrated by increased eating behavior and food intake. Microinject opiate outside these hotspots and sometimes the opposite or mixed results happen. You might stimulate "wanting" but actually suppress "liking."
+
+Endocannabinoids have a hotspot that overlaps the opiate one in the nucleus accumbens. It doubles liking reactions and more than doubles the food intake. (Munchies.)
+
+The nucleus accumbens has a bunch of nerve cell bodies that project outwards to other areas of the brain, including the ventral pallidum (VP). The posterior half of the VP is another opiate "hotspot" that doubles liking and wanting. They fire more vigorously in rats given sweet than unpleasantly (very) salty. They will fire more vigorously in salt-deprived rats when given reasonably salty taste. Inhibit GABAa in the VP (anywhere) and you stimulate "wanting" without changing "liking" at all.  In humans, cocaine, sex, food, and money reward all activate the VP.
+
+Hedonic hotspots are likely linked together "into an integrated hierarchical circuit…akin to multiple islands of an archipelago that trade together." If you block one hotspot with an opiate blocker, the other one may be affected as well. Sometimes blocking one decreases liking, but increases wanting in the other. The "liking" induced by benzos seems to need opiate help, as it is also blocked by opiate blockers. (May be why naltrexone, an opiate blocker, is useful for alcohol dependence and has been studied in overeating, cocaine, gambling, etc.)
+
+"Wanting" and "liking" typically go hand in hand, but not always. "Wanting*" means that we are motivated to do behaviors that will reward us with that which we seek, but in a neurosciencey kind of way rather than the poetic global word "wanting." If I "want" a Ferrari, I might write down a plan and save some money and ultimately buy one, but in the addiction/reward sense that is way too cognitive, cortical, and planned. "Wanting" in the addiction sense means a more immediate desire and can actually conflict with the larger picture of cognitive "wanting." For example, you might want your liver to be perfectly healthy and want to stop drinking, but you can't stop the immediate "want" for Jim Bean so you drink a quart every day. In general, addicts "like" the stimulus they cannot stop "wanting" less and less as the addiction continues.
+
+"Wanting" is more globally distributed in the nervous system than "liking." While "liking" is mostly mediated by opiates, benzos, and endocannabinoids, "wanting" is also mediated by dopamine globally (and dopamine interactions with glutamate on a micro level.)
+
+There are innate "natural" rewards (such as sweet) and learned rewards, and "wanting" for either can light up the limbic system. "Crack cocaine addicts, for example, sometimes frantically "chase ghosts" or scrabble after white granules they know are not cocaine." Encounters with incentivizing stimuli (for example a bar, or the sound of glasses clinking) will increase the motivation to seek reward and "increase the vigor with which they are sought."  There are also "mirror neurons" in the frontal cortex so that if you are watching someone drink a beer, some of these neurons will activate as if you are drinking the beer, so you experience it with the beer-drinker.
+
+Desire stimulates action in some motor neurons as well, which is the generation of actual… action. In addition, fear and desire are intermingled. Dopamine and glutamate in the nucleus accumbens can stimulate desire and dread and certain regions seem to flip like switches to motivate opposite behaviors.(Example, sitting in your comfortable home where you want to stay, then make the lights super bright and play very loud music so you want to leave.)
+
+Stress hormones and repeatedly high doses of addictive drugs can stimulate "near-permanent sensitization of mesocorticolimbic-dopamine-related systens. This will increase "wanting" and addictive behaviors continue despite a lack of associated "liking."
+
+The end!
+
+*fancy neurosience term for this reward-immediate wanting is incentive salience.

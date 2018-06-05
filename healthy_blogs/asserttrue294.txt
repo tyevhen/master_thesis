@@ -1,0 +1,19 @@
+In 2007,  a PLoS ONE paper by Ahmed et al. proposed a phylogeny for Mycobacteria in which M. leprae (the leprosy organism) is shown as a relatively recent branch off a very long tree, with M. tuberculosis depicted (in a decidedly fanciful schematic) as being of relatively recent provenance (35,000 years), diverging from M. canettii (a recently discovered cousin of tuberculosis) 3 million years ago.
+
+The rather fanciful phylogenetic picture of Mycobacterium evolution presented by Ahmed et al. (2007). Click to enlarge.
+
+The only trouble with this picture is that we know it's wrong. More exacting work has shown that M. tuberculosis is at least 3 million years old, and one paper estimates that the common ancestor of TB and leprosy may go back 66 million years. If the latter figure sounds dubious, consider that until recently, M. leprae wasn't thought to have any sister strains that could aid with dating the organism phylogenetically. But in 2008, the situation changed dramatically when it was realized that in Mexico, a distinct form of leprosy known as "diffuse lepromatous leprosy" (DLL) was actually due to a genetically distinct variant of Mycobacterium known as M. lepromatosis. When the genome for the latter organism was analyzed, it was found to contain the same stupendous assortment of pseudogenes contained in M. leprae, but detailed analysis of polymorphisms in the genomes of the two strains led to a surprising finding: Divergence of the strains appears to have occurred around 10 million years ago.
+
+Another team found that the massive "pseudogenization event" that caused M. leprae (and its cousin, M. lepromatosis) to become saddled with a record number (1,116) of pseudogenes probably occurred on the order of 20 million years ago.
+
+The age and stability of the pseudogenes in M. leprae can only be described as stunning. Conventional evolutionary dogma says that pseudogenes will inevitably be degraded and lost over time. Surely M. leprae can't be conserving and repairing pseudogenes over 10-million-year-long timespans? Pseudogenes are discardable junk.
+
+Or are they?
+
+An analysis of Buchnera aphidicola (the tiny Enterobacterial endosymbiont of the pea aphid) put the half-life of pseudogenes in that organism at 23.9 million years.
+
+Human DNA reportedly contains over 12,000 pseudogenes. Some of these pseudogenes are quite old. Parallel nonsense mutations caused a pseudogenization of the uricase gene in apes during the early Miocene era (17 million years ago). We still carry the pseudogene in question—and it gets transcribed. According to a report by James T. Kratzer and colleagues at the University of Texas, Austin:
+Despite being nonfunctional, cDNA sequencing confirmed that uricase mRNA is present in human liver cells and that these transcripts have two premature stop codons.
+The inevitable conclusion is that pseudogenes are not, and should not be considered by default, "junk DNA." To the contrary, the default assumption should be that pseudogenes are ancient and conserved—because in most cases, that's exactly what they are.
+
+What causes genes to "go pseudo"? Why are they conserved? What are they really doing? I'll tackle some of those questions in a followup post. Stay tuned.

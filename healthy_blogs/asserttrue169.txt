@@ -1,0 +1,36 @@
+I could use a job. I've been out of work for about two years. Took my first 401K disbursement recently. My wife is on disability for schizophrenia, but now that's she's saddled with Part B expenses for Medicare (thank you, State of Florida), disability pays less than $600 a month.
+
+So yeah, I could use a job right about now.
+
+But a fact came roaring into my consciousness the other night as I was dozing off to sleep: I simply won't go on any more bullshit tech-job interviews.
+
+Life is too short. I have too much self-respect.
+
+What's a "bullshit tech-job interview"? Come on. You know what I'm talking about. The kind of interview where (after phone screens) the company brings you in on-site, then has specialists tag-team you all day in a series of 45-minute mini-inteviews, asking you programming (and non-programming) riddles, making you jump through hoops like some sort of trained seal.
+
+I'm not a trained seal any more. I won't go to any more demeaning, dehumanizing, pompous-nonsense interviews. Lunch? Sure. Phone interview? Yeah, of course. Tests? Maybe. I can see where an employer might want to verify, with a practicum, that I know skills applicable to the specific job at hand. Fair enough.
+
+But sit me down in a room with some wise ass asking me how I'd determine the number of window panes in New York City, or some shit like that? F*ck the hell off. Just get the hell out.
+
+Most of the stuff on my resume is easily verified. Writing samples? I've got hundreds, online. Do I know computer science? Seven software patents (licensed to Apple, Oracle, Novell, others) speak to that. Can I write code? I have the death sentence in seven languages.
+
+There's no need for a day-long interview. If your precious culture is so intricate and brittle that I might break it just by coming onboard? If it's so piddly-ass dainty that I need to come on site all day for the specific purpose of seeing if I'll "fit in," maybe you think a bit too much about culture. How's your business doing?
+
+I've been through the Google interview process (at Google Manhattan, a few years ago). Friends of mine have been through it. It blows major chunks. It's more of an elaborate hazing ritual than an interview "process." How anyone can sit through five hours of being treated like a game-show contestant and not feel insulted, I don't know.
+
+Rackspace put me through a similar ordeal. Apparently even Rackspace (based, I guess, on their placing 40th, or something, in one of those Fortune rankings of top companies to work for) feels they can get away with imitating the Google hiring style. (And take it from me, that's all it is, a cheap imitation.) Except, they also had me do a special marketing presentation to a room full of bigwigs, via phone conference, before bringing me on site. To see if I "fit in."
+
+I worked for Novell for 7 years (and Adobe Systems for 3), so I think I know how to "fit in" with other software-industry professionals. I have a track record, you see. It's not like I'm fresh out of college (or prison) and have to be treated as an unknown quantity.
+
+For the Adobe job, I had to submit to a test. Which I didn't mind at all, because the test pertained in a specific way to the job at hand. It wasn't a game-show quiz. It wasn't a bunch of riddles. They sent me a big wad of source code and said (essentially) "Here, document this for the end user, and also write developer doc, and also, while you're at it, develop a small test program, in the language of your choice, to exercise the Java classes, and document your test program so that an unskilled user could run it and know if it's working properly." The source code consisted of 17 Java classes, uncommented. I was given two weeks to send my test results in. I turned it around in 48 hours. (The code was for a high-performance web server, multi-threaded and thread-pooled in such a way that it would block neither at the file- nor network-I/O levels.) This was for a technical documentation job, which I succeeded in landing (after an all-day interview in Basel).
+
+I'm all for answering questions. But they have to pertain in some realistic way to the duties of the job, the thing I'm being hired for. (This was actually the case, in the Adobe process.) Don't ask me far-flung hypotheticals or make me speculate on matters of purely academic concern; don't pretend you're going to "learn how I think" by asking inane game-show questions. Please, just stop with the riddles. If you want to know how many golf balls will fit in a 747? Go shove the balls up your ass look it up online.
+
+☙ ❧
+
+The following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+ 
+
+If you enjoyed this post, won't you pass the link along on social media? Thanks! Meanwhile, have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.       

@@ -1,0 +1,15 @@
+I've been sitting on this study for a while. It was published in Pediatrics in May, 2012:
+
+Maternal Metabolic Conditions and Risk for Autism and Other Neurodevelopmental Disorders
+
+In California, many children aged 2-5 between 2003 and 2010 were involved in population based cohorts with the CHARGE study. I've covered a previous paper from this study before…
+
+Captial Cities: Safe and Sound
+
+Diagnoses of children in the cohort were confrimed using standard assessments Information on mothers was ascertained by medical records or a structured interview. The results are not terribly surprising… all metabolic conditions were more common among autism cases than among controls. Odds ratios were about 1.66, which isn't earth-shattering, but is more than 1, and in a large study, at least worth noting.
+
+Currently: 1:110 kids have an autistic spectrum disorder. 1:83 have some other developmental delays. It is known that mothers with gestational diabetes (GD) have babies with more cognitive impairments than children born to mothers without GD. In the CHARGE study, children born to mothers with obesity, gestational diabetes, and hypertension were all followed (as "any metabolic condition").
+
+All told, 28.6% of the autistic children and 34.9% of the children with any developmental delay had a mother with a metabolic condtion compared to 19.4% of controls. Within the autistic spectrum disorder group, children of mothers with diabetes performed worse on an expressive language scale than did children of mothers without diabetes. Given the fact that obesity and diabetes are increasing, we are looking at a worrying trend. The paper did not speculate much as to causation, but generalized inflammation and insulin resistance are the pathogens of interest. It would have been nice if inflammatory markers were measured, but with such a large study, that may be asking too much.
+
+Poorly regulated maternal glucose can result in adverse fetal consequences. Maternal diabetes is due to a number of factors, but I'm sure a modern processed food diet can be counted among them. I know how hard it is to control appetite during pregnancy, even while eating supposedly "real" foods.  Keep to the outside of the grocery store and skip the bakery. Not terribly controversial advice, I would hope!

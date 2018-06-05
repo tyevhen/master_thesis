@@ -1,0 +1,17 @@
+Timothy Fitz of IMVU has written an excellent piece on Fail Fast methodology (or "continuous deployment," in this case), explaining the benefits of putting changes into production immediately and continuously, which (in IMVU's case) does not mean nightly builds. It means several times an hour.
+
+The main intuition here (I'll greatly oversimplify for the sake of claraity) is that you have much greater chance of isolating the line of code that caused your build to break if you publish the build every time you change a line of code.
+
+That sounds at once obvious and terrifying, of course, but it makes sense. And it works for IMVU, which takes in a million dollars a month serving avatars and virtual goods to several hundred thousand active users and another ten million or so occasional users.
+
+Of course, if you have very few users, serving builds super-frequently doesn't guarantee you'll find out about bugs quickly. And if you change lots of code between 30-minute publishing cycles (or whatever interval it turns out to be), you could end up with a real troubleshooting mess, although even in that case, you'd know immediately which build to roll back to in order to get customers back to well-behaved software.
+
+Continuous deployment doesn't guarantee good design, of course, and it's not a QA panacea. It won't keep you from introducing code or design patterns that fail on scale-out, for example. But it's still an interesting concept. More so when you consider it's not just theory: A very successful high-traffic site is built on this methodology.
+
+Fitz's original post, incidentally (as well as his followup post), drew a ton of responses. Many of the comments on the original post were negative, explaining why Fail Fast was dangerous or wouldn't work in all situations, etc. (totally ignoring the fact that it works very well for IMVU). Comments on his followup post were much less cry-baby, much better reasoned.
+
+Fitz as much as says, straight-out, that unit testing is overrated (which I totally agree with). Automated testing in general gets short shrift from Fitz. He notes wryly: "No automated tests are as brutal, random, malicious, ignorant or aggressive as the sum of all your users will be." Software breaks in service precisely because you can't predict in advance what will break it. It's like static analysis. The fact that code compiles without warnings doesn't mean it won't fail in service.
+
+Fitz didn't mention a plus side to continuous deployment that I think is extremely important, which is that it puts enormous pressure on programmers to get it right the first time. It's utterly unforgiving of sloth. Can you imagine knowing that every time you do a check-in, your code goes live 15 minutes later? I think that would "incent" me to write some pretty damn solid code!
+
+In any case, it makes for interesting food-for-thought. Kudos to Fitz. Go IMVU. You guys rock.

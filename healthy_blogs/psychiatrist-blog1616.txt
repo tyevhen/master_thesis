@@ -1,0 +1,31 @@
+[Part Two of this post is here]
+
+Midwife With A Knife wants to know how a psychiatrist chooses a medication for an SSRI-naive patient. Wow, I'd already started that post when she asked.
+
+So a patient comes for treatment. His symptoms meet criteria for Major Depression, no question here, and he wants medication to help his condition. This is his first visit to see me.
+
+Prozac Paxil Zoloft Lexapro Celexa Luvox Effexor Cymbalta Lamictal
+Wellbutrin Remeron Serzone Pamelor Elavil Nardil Parnate Emsam Trazodone
+
+I probably missed a few.
+
+So how does a shrink decide what medicine to begin?
+
+1) Past history of response. If the patient says, Oh, yeah, six years ago I felt this way, I took Paxil for six months and that helped a lot and I didn't have any side effects, then Paxil it is.
+The path changes if the story is that the medication didn't work or had side effects.
+
+2) Family history of response. This is the patient's first episode, but mom swears by Wellbutrin, it's helped her when nothing else would. This would be a good first choice.
+
+3) Patient preference. He's here because his best friend took Celexa and became a new and wonderful person. I have no idea what friend's diagnosis is or why Celexa was chosen for friend, but if there isn't a contra-indication, then I might as well honor a patient's wishes and there's some power to believing something will help. Similarly, if patient reports that Celexa caused best friend to commit outrageous acts of horror and he wants anything but Celexa, I pick something else.
+
+4) Other Medical Issues. I don't start with meds that interact with what the patient's already on. I don't pick meds that might exacerbate an existing medical condition. Wellbutrin is contra-indicated in patients with seizure disorders, eating disorders, or a history of CNS lesions, so I don't start with it in these patients. I save the risky stuff for after we've been at it a while, and then only with a fair amount of discussion about possible risks compared to possible benefits.
+
+5) My Best Guess at What Will Help the Target Symptoms. Patient is tired and unmotivated...Wellbutrin is reportedly a bit energizing, so maybe that's what I use. Patient also has a lot of OCD symptoms, I might go with an SSRI. If someone has a concurrent pain syndrome, Cymbalta or a TCA might be my first choice.
+
+6) My Best Guess at the Side Effect Profile, for better or for worse. Really, this is a guess. I actually hate this issue because patients often worry about side effects they never get, but okay, if someone is agitated, I might start something I think of as being more calming. If someone says they'll die if they gain a single pound, I pick something more weight neutral.
+
+7) The Patient's Financial Concerns and What I have Samples of. This is only a consideration if the patient is uninsured and paying cash for the meds, but this is not a trivial thing. After that, I move to What's Cheapest that will work and won't cause intolerable side effects. If the patient has been on something and had good success, then loses their insurance, I might try something cheaper in the same class of meds, but I wouldn't recommend a switch from say a working SSRI to a cheap Tricylic-- it's not worth the risk.
+
+Can I say a word about Weight Gain as a side effect? Some patients refuse any medication that's been associated with this. But clearly, and I'm probably repeating myself at this point, there are people who don't gain weight on medicines that are said to cause weight gain, just like there are people who don't get better with anti-anythings. People respond to meds differently. My suggestion to those who are concerned they'll gain weight-- if there's some reason to believe a medicine might help, it may be worth a try. Buy a scale. Get weighed before starting the medication. Get weighed every 2-3 days after starting it. If you gain 5 pounds (1 or 2 or 3 can be variations in fluid retention or scale flakiness), Then it's worth worrying about weight gain and addressing whether it makes sense to continue.
+
+We've been at this blog so long, I've lost track of what I've said already, what I've thought about saying, what I want to say.

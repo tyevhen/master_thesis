@@ -1,0 +1,20 @@
+DISCLAIMER: I am not an investment advisor. Before entering into any trading strategy based on anything presented here, consult a qualified professional (or better yet, half a dozen of them). This post is meant to be educational, not advisory.
+
+With that out of the way, let me explain an investment tactic I have sometimes used with great results. None of this will be news to an experienced investor. It will be news to some.
+
+Going into last night's Amazon earnings report, I was holding some shares of Amazon (accumulated during the big market down-move of earlier this month). Naturally, I wanted to protect those shares against a sudden price drop like the one that happened after the previoous earnings report, 90 days ago.
+
+I bought put options (a bearish bet) late in the day yesterday, fearing that a bad report from Amazon would move the stock lower. Just to review: A put is a contract that gives you the right to sell a particular stock at a predetermined price (the so-called strike price) during a particular time frame. I bought the December AMZN put, strike price $295, yesterday afternoon when the stock was trading around $314. The $295 strike means the put was $19 "out of the money." Because it was so far out of the money, the put was relatively inexpensive, at $8.99 (times 100 shares: $899, plus commission, per contract).
+
+Last night, after Amazon announced its $437 million loss (95 cents a share; much more than the 74 cent loss the Street was expecting), the stock price fell sharply. It opened this morning down $30, at $284. (It rebounded to $290 within a few minutes.)
+
+My put contract went from being $19 out-of-the-money to $5 in-the-money. Its price rose from $8.99 to $14.28, a 57% overnight gain.
+
+
+Taking a naked short position is risky, but in reality I was using the put to protect shares of the actual stock. (It was a hedge, in other words.)
+
+This same hedigng tactic paid off handsomely for me three months ago, at the last Amazon earnings call, which also moved the stock down about $30 a share.
+
+Will it happen again? No one knows. But we do know that earnings announcements often cause sudden dramatic moves in stock prices, particularly with tech stocks.
+
+Options are not for every investor. They decay in price (quite rapidly) over time, they're subject to huge price moves, and if you're not careful you can lose part or all of your money. If you decide to look into options, educate yourself thoroughly on the risks. The risks can be substantial. But so can the rewards.

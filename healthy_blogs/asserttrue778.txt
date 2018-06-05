@@ -1,0 +1,98 @@
+I promised yesterday that we'd do a bit of console scripting today, illustrating three semi-useful techniques:
+
+1. Doing AJAX in the console.
+2. Using the Twitter REST API as part of No. 1. In particular, we'll try one of the new "social graph" calls.
+3. We'll intersect two sets, in JavaScript. And do it in linear time.
+
+Twitter's social-graph methods are very straightforward. (The relevant API doc is here and I won't repeat it.) They're intended to let you retrieve all of a person's followers, or all of the person's "friends" (followees), all at once, using one HTTP GET. You can get the results back either as JSON or as XML. Your choice.
+
+The results come back as an array of user IDs. Nothing else: no name or profile info or anything like that. You can certainly convert an ID into extended user info for that person using other methods. But you'll have to do it one user (one ID) at a time, which can be slow (and also, it quickly eats into the Twitter-imposed bandwidth limit of 100 queries per 60-minute time period).
+
+What's the point of dealing with numeric IDs in the first place? Well, the idea is that if you are mainly doing social-analysis types of things (e.g., identifying and characterizing FOAF clusters, trying to figure out how and why and when people form social bonds), you don't really need anybody's profile information for that. You can do an awful lot just by fetching and comparing sets of ID numbers.
+
+For example, suppose you want to know how many of vignettecorp's followers are also following opentext. (These are the corporate Twitter account names for Vignette Corporation and Open Text, respectively.) As of right now, as I sit here typing this, vignettecorp has 421 followers and opentext has 417. How much overlap is there? How many followers of one are also following the other?
+
+To answer that question, we need to obtain the two groups of followers and intersect them. That's what the following code does. Using AJAX, we send two GETs to Twitter.com's server, so as to receive the "follower" arrays for vignettecorp and opentext. We convert each array to a set. Then we intersect the sets. Finally, we paint the results to the current browser window.
+
+We can do all of this from the Firebug console, if you're a Firefox+Firebug user. Just cut and paste the following code to the console and run it. NOTE: Before doing this, be sure to point your browser to Twitter.com (and log on, if need be). You need to have a Twitter page (any Twitter page) open before you begin, as otherwise you'll get a cross-site AJAX error.
+function intersect ( setA, setB )  {
+
+   var set = {};
+   for ( var i in setA )
+      if ( i in setB  )
+           set[ i ] = i;
+   return set;
+}
+
+// AJAX magic 
+function getIDsForUser( user )   {
+
+   var req = new XMLHttpRequest( );
+   var url =
+      "http://twitter.com/followers/ids/" + user + ".json";
+   req.open( 'GET', url, false );
+   req.send( null );
+   return eval( req.responseText );
+}
+
+// Put each member of an array into
+// a property of the same name in an
+// object called 'set'
+function arrayToSet( array ) {
+
+   var set = {};
+   var id;
+   for (;array.length;) {
+     id = array.pop( );
+     set[ id ] = id ;
+   }
+
+   return set;
+}
+
+// This is arbitrary. Rewrite to suit your 
+// display needs.
+function output( data ) {
+
+   var a=0; var ar=[];
+   for ( var id in data )
+    ar.push( ++a + ". <id>" +
+       data[ id ] + "</id>" );
+  document.body.innerHTML =
+     "TOTAL: " + ar.length + " IDs in common.<br/>";
+  document.body.innerHTML += ar.join( "<br/>" );
+}
+
+// ============= main( ) =============
+// Everything starts from here
+( function main( ) {
+
+   var user1 = "vignettecorp";
+   var user2 = "opentext";
+
+   var user1array = getIDsForUser( user1 );
+   var user1set = arrayToSet( user1array );
+
+   var user2array =  getIDsForUser( user2 );
+   var user2set = arrayToSet( user2array );
+
+   // intersect the two sets of users
+   var intersection = intersect( user1set,user2set );
+
+output( intersection );
+} ) ( );
+I haven't done any error-checking and the code isn't going to win any awards for prettiness (or safety), but hey, this is console code. If it detonates, no one goes to the hospital.
+
+When I ran this code last night, it said there were 63 user IDs in common between vignettecorp and opentext. That's substantial overlap. Marketers live for this kind of information.
+
+Note that for speed, I convert the user-ID arrays to JavaScript objects (where the user ID becomes a property name) so that we can check for membership using JavaScript's in syntax. This lets us avoid a horrible speed hit. If we were to do a brute-force direct comparison of every member of setA against every member of setB, the intersection routine would execute in N-squared time, which may be okay for small sets, but is intolerable for large ones. In this case, with ~400 members in each set, an N-squared algorithm requires ~160K comparisons. But imagine if you were to intersect Scobleizer's follower list (~75K followers) with guykawasaki's (~93K). That comes to about 7 billion comparison operations. You don't want to try that with JavaScript.
+
+Note, incidentally, that if you want to take the difference of two sets, you can just change the line of code in the intersection routine that says
+if ( i in setB  )
+to:
+if ( !( i in setB ) )
+But also note, of course, that set-subtraction is not commutative.
+
+So there you go. If you're a social-graph researcher, or maybe if you just want to build your own set of Twitter list-management tools, the above code should get you started. And now you also know how to do some AJAX in the (Firebug) console, without blowing a hand or a foot off.
+
+Still, keep some first-aid supplies handy.

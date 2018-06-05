@@ -1,0 +1,38 @@
+I wrote a previous post about the APA backing the so-called collaborative care model and provided a link to the actual diagram about how that was supposed to work.  I noted a more elaborate model with specific descriptions of roles in the model in this week's JAMA.  The actual roles described on this diagram are even more depressing and more predictive of why this model is doomed to fail in terms of clinical care.  It does succeed in the decades long trend in marginalizing psychiatry to practically nothing and providing the fastest route to antidepressant prescriptions.
+
+Wait a minute - I thought psychiatrists were the Big Pharma stooges who wanted to over prescribe antidepressants and get everyone on them?  Well no - it turns out that there are many government and insurance company incentives to assure that you have ultra rapid access to antidepressants even when psychiatry is out of the loop.  You don't need a DSM-5 diagnosis.  You don't need to see a psychiatrist.  If you pulled up the diagram in JAMA, you would discover that the consulting psychiatrist here has no direct contact with the patient.  In fact, about all that you need to do is complete a checklist.
+
+Copyright restrictions prevent me from posting the diagram here even though I am a long time member of both organizations publishing them.  I do think that listing the specific roles of the psychiatrist, the care manager and the primary care physician in this model is fair and that is contained in the table below:
+
+
+Roles in Collaborative Care Model
+
+Care Manager
+Monitors all patients in the practice
+Provides education
+Tracks treatment response
+May offer brief psychotherapy
+
+Describes patient symptoms and response to treatment to psychiatrist.
+
+Informs Primary care Physician of treatment recommendations from the psychiatrist
+Primary Care Physician
+Makes initial diagnosis and prescribes medication
+
+Modifies treatment based on recommendations from psychiatrist
+Psychiatrist
+Makes treatment (medication) recommendations.
+
+Provides regular psychiatric supervision.
+
+Has no direct contact with the patient.
+
+   see JAMA, June 19, 2013-Vol 309, No. 23, p2426.
+
+As predicted in my original post, the psychiatrist here is so marginalized they are close to falling off the page.  And let's talk about what is really happening here.  This is all about a patient coming in and being given a PHQ-9 depression screening inventory.  For those of you not familiar with this instrument you can click on it here.  It generally takes most patients anywhere from 1 - 3 minutes to check off the boxes.  Conceivably that could lead to a diagnosis of depression in a few more minutes in the primary care clinic.  At that point the patient enters the antidepressant algorithm and they are they are officially being treated.  The care manager reports the PHQ-9 scores of those who do not improve to the "supervising" psychiatrist and gets a recommendation to modify treatment.
+
+This is the model that the APA has apparently signed off on and of course it is ideal for the Affordable Care Act.  It is the ultimate in affordability.  The psychiatrist doesn't even see the patient - so in whatever grand billing scheme the ACA comes up with - they won't even submit a billing statement.  The government and the insurance industry have finally achieved what they could only come close to in the past - psychiatrists working for free.  Of course we will probably have to endure a decade or so of rhetoric on cost effectiveness and efficiency, etc. before anyone will admit that.
+
+Keep in mind what the original government backed model for treating depression was over 20 years ago and you will end up shaking your head like I do every day.  Quality has left the building.
+
+George Dawson, MD, DFAPA

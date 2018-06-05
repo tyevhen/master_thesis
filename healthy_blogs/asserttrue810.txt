@@ -1,0 +1,17 @@
+Day Communique Performance Optimization Methodology
+View more presentations from David Nuescheler. (tags: optimization cq4)
+
+
+The folks at Day Software have put together a few common-sense pointers for attacking performance-optimization problems involving content management systems. Some of the advice applies pretty generally to all manner of enterprise software, so I thought I'd post David's very brief slideshow on this subject here. (He elaborates on these ideas in a blog entry here.)
+
+I would add only a few side-comments. My main comment is that performance optimization should (in my view) be approached as a kind of debugging exercise. You want to narrow down the source of the main bottleneck. There is, in fact, only one main bottleneck. After you find (and fix) that bottleneck, you will proceed to find the new "main bottleneck," then fix it. Lather, rinse, repeat.
+
+It's very easy to get side-tracked and waste time "optimizing" something that's completely unimportant. Careful testing will tell you what's important. What you think is important may not be.
+
+Just as with any debugging exercise, you never start by fiddling with a million variables at once: You're not looking to find a million sources of trouble, you're looking to find the main source of trouble.
+
+It's rare, in my experience, that performance is ever gated by several factors of more-or-less equal magnitude. Every time I have gone in search of more performance, I've found that there was always one bottleneck that greatly surpassed all others in importance. When I finally found and eliminated that main bottleneck, there'd be a new one that outstripped all others. Eliminating the first choke point might give, say, a three-fold speedup. Eliminating the second one might give another two-fold increase in performance. Each subsequent "bottleneck-removal" adds to the multiplier effect. It's not unusual that removing three bottlenecks in a row gives an overall ten-fold increase in performance. (Anyone who has ported code to assembly language knows what I am talking about.)
+
+Something else I'd add is that best practices always beat better hardware. (Using a clever algorithm in place of a stupid one constitutes a best practice for purposes of this discussion.) Throwing more hardware at a problem is seldom worthwhile (and sometimes leads to more performance problems, actually).
+
+So, don't go looking for performance problems in a million places. Generally the answer is in one place.

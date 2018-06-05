@@ -1,0 +1,66 @@
+I went in to urgent care today after battling an influenza-like illness that I got on a trip to Alaska, most likely in the flight home.  The symptoms are charted in the above graphic.  Without providing too much graphic detail on the symptoms, my concern was in whether or not I might have pneumonia and needed a chest x-ray.  Although I knew this was most likely not an influenza virus, the symptoms were fairly severe.  As an example, on last Saturday August 15, I had diffuse muscle pain that was so severe, I could barely move.  In the two days I took time off from work August 18 and 19, the muscle pain was restricted to chest wall muscles.  The cough had also become productive over the past 5 days.  I thought it was reasonable to get it checked out, especially against a backdrop of asthma and chronic asthma therapy.
+
+I took my graphic along with me and showed it to the nurse and the physician.  I told her that I had bronchitis that was probably caused by a respiratory virus.  The nurse was overtly uninterested and at one point said that all she needed was a single symptom to write down and that symptom would be cough.  As she continued writing, she kept glancing at the graphic and taking additional notes.  I wanted to say: "Just scan it in and you can stop writing.  It contains almost all of the information that you need to know."  But I didn't.  I maintained standard medical office decorum.  As Seinfeld once said: "You go from the large waiting room to the smaller waiting room and wait again to see the doctor."  The nurse took all of my vitals including an oxygen saturation and stated matter-of-factly: "They're all normal."  My enthusiastic reply of "Good" was met with dead air.
+
+The doctor walked in and I gave him a brief history.  He looked at my graphic and wrote down a few words.  He listened to all of my lung fields with a stethoscope and then listened to my heart sounds - both through my shirt.  The entire history and exam took about 5 - 10 minutes.  And then:
+
+"You have bronchitis.  There is probably a lot of inflammation in there.  I am going to prescribe prednisone and an antibiotic.  Levaquin is a good one for this.."
+
+At that point, I told him that I was already on two QTc interval prolonging drugs and that Levaquin might not be a good idea.
+
+"OK then I will look up another antibiotic.  Doxycyline is one that should work.  Yes - there is no interaction between doxcycline and your medication.  Any other questions?"
+
+I asked him about the issue of a chest x-ray.  I had three in the last two years and it seemed like the decision was a coin toss.
+
+"I don't think so.  You have sounds all over your lungs and not in one place in particular.  If it doesn't get better I would do a chest x-ray.  Right now it is not going to change what I do."
+
+I walked out with scripts for doxycycline 100 mg BID x 10 days and prednisone 40 mg QDAY x 5 days.  Entire length of the visit with the RN and MD about 15 minutes and I was the only patient in that clinic.
+
+Of course all during this time, I was comparing the topology of this medical visit and medical care to the common uniformed criticisms of psychiatric care.  Just this morning and totally out of the blue somebody sent me a link to their letter in the British Medical Journal about the fact that 70% of clinical trials of paroxetine were unpublished.  He sent it in response to a post that I had made here some time ago, and apparently was unaware of the fact that I figured out that paroxetine was not a drug that I cared to prescribe by the time I had prescribed it to a second patient.  It should be obvious that unpublished clinical trials have been a significant problem in medicine for some time and that is nothing new in psychiatry.  Seems like the prevalent bias against psychiatry rearing its ugly head again.
+
+How about the longstanding claim that psychiatric diagnoses are not valid because there is no "test" for them.  What was the "test" I got for bronchitis?  Of course there was none.  A diagnosis of bronchitis pretty much depends on the symptoms that I walked in with.  The same symptoms on the graphic that seemed to be shunned by the RN and casually interesting to the MD.  None of the measurements in the office had anything to do with bronchitis.  They were all essentially measures to look at whether or not I had any more significant disease - actually a more significant syndrome.  When I was an intern, we thought we had a more scientific way to analyze the problem.  We would obtain sputum samples and Gram stain the samples and culture them.  Once the integrity of the respiratory epithelium is disrupted there are all kinds of bacteria that colonize the area.  The sputum samples were not useful - either in terms of pathogenesis or guiding antibacterial therapy.  Thirty years later, antibacterial treatment of bronchitis is still empirical.  No specific pathogen is identified.  The thinking used to be that sputum indicated a bacterial infection, now we know it is just sloughed epithelium from the cytotoxic effect of viruses.  Empirical treatment of bronchitis is really no different than empirical treatment of any symptom defined mental illness.  Ignoring a couple hundred specific respiratory viruses is reminiscent of a hostile criticism of psychiatric nomenclature: "It is all one disease."  By comparison, acute bronchitis is also one disease.
+
+Another interesting comparison is symptom severity.  I spend a lot of time discussing and documenting this with psychiatric disorders.  In the case of bronchitis, there was no particular interest in severity.  No questions about subjective experience, patterns of the cough, or sputum production.  You either have it or you don't.  Of course, I know that pattern recognition was in place and the physician was looking for signs of more significant illness like tachycardia, tachypnea, diaphoresis, and cyanosis.  But there were not any questions about functional capacity and how I was being affected (again more info in the graphic.)  Psychiatric diagnosis and treatment requires close attention to severity, impact on functional capacity and sleep, and whether the symptoms are in remission.
+
+What about the "evidence basis" of the treatment?  A charitable interpretation of the e-mail about paroxetine would suggest that author was critical of the evidence basis for its use.  It is well known that over half of the drug studies from ClinicalTrials.gov are unpublished and that a significant number of the published trials omit details of interest (3) like side effects.  That same study looked at trials in 7 different medical specialties, none of them psychiatry.
+
+It turns out that in clinical trials those adults with acute bronchitis treated with antibiotics are less likely to be rated as improved at follow up.  Some studies show a shorter duration of cough by 1/2 day but the trade off is a significant increase in antibiotic side effects with 19% of emergency department visits for adverse drug effects being due to antibiotics (1, 2).  A direct quote from UpToDate:
+
+"Patients with known asthma may develop superimposed acute bronchitis.  It is common that such patients seek treatment and are inappropriately prescribed an antibiotic even though they usually have a viral illness."
+
+The UpToDate review also looks at the associated issues of overprescription of antibiotics, the 20 year CDC initiative on antibiotic overprescribing that has essentially failed and the dire consequences of developing multiple antibiotic resistant bacterial strains.  My purpose here is not to imply anything about my treatment, but to illustrate that these practices are common and there is no equivalent amount of criticism similar to that targeted at psychiatric care.  In fact, if I wanted to take on the role of pseudopatient, I could walk in to any clinic or emergency department and walk out with the same prescriptions - even in the absence of acute bronchitis.  I could simply lie about the symptoms.  Nobody is going to ask me for a sputum sample, and 6/7 asthmatics have residual wheezing that can be picked up on a cursory exam.  Of course there would be public outcry.  I would be accused of lying to hard working physicians and wasting their time.  But that same poorly conceived idea is still cited as evidence against psychiatric diagnosis.
+
+Unlike the unrealistic critics of psychiatry, my goal here is not to embarrass anyone, or illustrate that I am better than anyone.  But how is nonpublication of clinical trials of paroxetine (a drug that I have not prescribed in over 20 years) a problem with psychiatry?  Nonpublication of clinical trials is obviously a problem for everyone.  The poor quality of current clinical trials technology is a problem for everyone and unlike the Cochrane database, I don't see the point in the exhaustive documentation of predictable low quality results - at least not much of a point.
+
+I am also not about to attribute the differences in practice and clinical trials to the art of medicine.  This is a problem of analyzing huge amounts of data in biological systems.  There are widespread problems with clinical trial design in every area of medicine because they cannot analyze that data.  Contrary to being a "gold standard" there needs to be better stratification of heterogenous diseases whether that is depression or bronchitis.  We can only have more specific treatments when we have better characterized molecular pathology and the treatments to target that pathology.  That includes markers that would suggest which patients would respond to drug treatment and which would not.  There is a promising biomarker for bronchitis that should be treated with antibiotics right now, but it is not widely studied or widely available.
+
+The highlights of this post have really not changed since I began pointing out that psychiatry is singled out for criticism by various people with various motivations.  Looking at the facts in this post should leave little doubt that this is merely a continuation in this trend of unrealistic and unfair criticism consistent with the dynamic I outlined in the past.
+
+Some things just don't change.
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  Thomas M. File.  Acute bronchitis in adults. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. (Accessed on August 23, 2015.)
+
+2:  Smith SM, Fahey T, Smucny J, Becker LA. Antibiotics for acute bronchitis. Cochrane Database Syst Rev. 2014 Mar 1;3:CD000245. doi: 10.1002/14651858.CD000245.pub3. Review. PubMed PMID: 24585130.
+
+3: Riveros C, Dechartres A, Perrodeau E, Haneef R, Boutron I, Ravaud P. Timing and completeness of trial results posted at ClinicalTrials.gov and published in journals. PLoS Med. 2013 Dec;10(12):e1001566; discussion e1001566. doi: 10.1371/journal.pmed.1001566. Epub 2013 Dec 3. PubMed PMID: 24311990
+
+
+
+Supplementary:
+
+Graphic updated daily for the course of the illness:
+
+
+
+
+
+
+
+This illness finally cleared at about Midnight on August 28, after 16 days.  The "common cold" typically lasts 2 - 3 weeks and is a significant cause of morbidity in this country.  I hope that I have also illustrated that it is also a problem in terms of treatment and a lack of real public health measures to reduce the spread of these viruses.

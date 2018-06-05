@@ -1,0 +1,34 @@
+The other day I was reading an article in The Atlantic called "How I Failed, Failed, and Finally Succeeded at Learning How to Code." It tells how the author, an ordinary mortal named James Somers, decided he wanted to learn how to code, so he bought a huge tome called Beginning Visual C++ and just started reading it. But he quickly became overwhelmed and quit.
+
+After several false starts, Somers finally made it over the hump. He credits his success with trying to solve some of the problems at Project Euler. He credits his early failure with having had poor teachers (in the form of bad books; his term).
+Learning to program: a lot of wax on, wax off.
+
+Many people have had the Somers experience, I'm sure. Some don't even get that far, of course.
+
+There are plenty of people in this world who wish they could read and write code but who haven't pursued coding, based on fears that it will take too much time to learn; be too hard; require too much self-discipline; require too much understanding of math; or whatever. Some no doubt think formal classroom training is their best and only learning modality. "I should have taken a programming class in college."
+
+Here's what I would tell somebody who wishes he or she could code but doesn't know if it'll be worth the effort (or even possible).
+
+First, I've met scores, maybe hundreds, of talented programmers in my life, and many of the very best ones were self-taught. All were mere mortals. Sure, some were superstar genius types who could have taught themselves Sanskrit if they wanted. Most were not.
+
+So: You don't have to be a genius to learn how to code. And you don't need formal training. You can teach yourself. It does help (a lot) to have a mentor to turn to. But even that part is optional.
+
+Does it require math skills? No, not really. Somers, in his Atlantic article, leaves the impression that it helps if you're naturally interested in math puzzles. I strongly disagree. Programming is about logic, not math. The main requirement is that you understand the basic concept of if this, then this; if not this, then that.
+
+So really, the question is: What's the best way to teach yourself?
+
+First, choose a language. To me, the choice is brain-dead obvious: JavaScript. Where programming is concerned, it's the lingua franca of the Web. Sure, if you specifically want to become a systems programmer or a Linux geek, you might want to consider C++ or Java, or even start with Linux shell scripts. But the neat thing about JavaScript is, the basic syntax is the same as for C, C++, or Java. Once you've learned JavaScript, you have transferable skills.
+
+Another good thing about JavaScript is that it's powerful, but not powerful enough to blow up your machine. It has designed-in safeguards. You're never going to overwrite the boot sector of a hard drive with JavaScript, nor overwrite screen memory, nor take down the operating system. That's important, because one all-too-legitimate fear many would-be programmers have is that they'll unintentionally do something that leads to loss of data or ends in horrific non-undoable mayhem of some sort. JavaScript is comparatively tame in this respect. Bjarne Stroustrup once said that while the C language makes it easy to shoot yourself in the foot, "C++ makes it harder [to do so], but when you do, it blows your whole leg off." He might just as well have been comparing JavaScript (rather than C) to all other languages (rather than C++).
+
+Programmers love to argue (to death) the merits of one language over another. But the simple truth is that all programming languages do the same things. They all have conditional statements (if/else), they all let you use variables, they all have a construct for doing loops, they all have a way of dealing with strings (text), they all have some notion of subroutines (or "functions" or "methods" or "procedures"). So in a sense, it doesn't really matter which language you choose to learn first.
+
+How should you teach yourself? You'll find no shortage of resources online, but if you're like me, you probably relish the opportunity to cozy up with a reprocessed tree (a plain old book). You can buy a Dummies-style book or just go ahead and grab Learning JavaScript by Shelley Powers and start reading. You should also purchase Flanagan's classic JavaScript: The Definitive Guide (O'Reilly) as a reference; you'll eventually want it, trust me.  
+
+Here's what to expect. You won't be writing much code for a while. You need to take in a lot of preliminaries first. In fact you'll take in so many preliminaries that eventually you'll start to feel like you're not getting it. You'll have a tremendous number of seemingly useless facts in your head about data types, how to declare variables, "execution scope," and so on, and you'll fear that none of it seems to be tying together; it's just hurting your brain, and you have nothing to show for it.
+
+When you get to that point, you've reached what I call the WOWO Point. Wax On Wax Off. You saw The Karate Kid, right? Remember all the "motions" the kid had to go through to learn karate? Mr. Miyagi had the kid doing repetitive, menial drudgework like painting his fence, sanding his floor, and waxing his car, for what seemed like forever, and for what seemed like no purpose at all. The kid was just about to lose patience and give up on Miyagi, when he suddenly has the critical breakthrough. He suddenly has the muscle memory, mental discipline, and reflex skills to begin doing karate for real.
+
+This is what happens also with programming. You do a lot of "wax on wax off," feeling like you're learning a lot of gibberish for nothing, and then suddenly you put the elements together and bang! it begins to make sense. At that point, you realize you're free to create, not just absorb. It's kind of like learning any language: You start with rote memorization of vocabulary and syntax rules. You acquire a lot of useless junk in your head. But once you've internalized the rules of the language (and some vocabulary words) you realize you're now free to construct sentences on your own, not just use and reuse sentences you learned by rote out of a textbook. Something similar to that happens when learning a programming language.
+
+Tomorrow I want to continue on this theme by presenting a first programming lesson (in JavaScript), for raw beginners, a lesson for total non-geeks who are curious about learning to code. The purpose will be to prove to you that programming is not "rocket surgery."  Anyone can do it. Tomorrow you'll see!

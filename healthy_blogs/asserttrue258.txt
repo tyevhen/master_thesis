@@ -1,0 +1,25 @@
+Contrary to what it looks like, this is not an arrival-gate diagram for an eastern European airport. It's a diagram of secondary structure of a portion of the mRNA for the yoqJ gene in B. subtilis phage SPBc2. Click to enlarge.
+The common soil bacterium Bacillus subtilis has long been known to harbor an inducible prophage (virus) called SPBc2. Normally, SPBc2 is dormant in the Bacillus genome, but heat or treatment with mitomycin C will cause the phage to express itself and start a lytic infection cycle. Like many bacterial viruses, phage SPBc2 has a sizable double-stranded DNA genome, consisting (in this case) of 134,416 base pairs encoding 185 genes. It's one of the strangest collection of genes you'll ever want to meet.
+
+The SPBc2 genome is strange, first of all, in its base composition. The following stats come from analysis of the coding regions of the genome:
+
+Base Abundance
+A 0.3670
+T 0.2825
+G 0.1983
+C 0.1506
+
+Notice how the purines, A and G (adenine and guanine) are about 30% more abundant than the pyrimidines, C and T (cyotsine and thymine). This is a stark violation of Chargaff's Second Parity Rule (which says A=T and G=C not only for double-stranded DNA but for a single strand, as well).
+
+When purine abundance is tallied on a per-gene basis, you get the following histogram:
+
+Purine abundance for N=185 protein-coding genes in B. subtilis phage SPBc2. Only 8 genes contain less than 50% purine bases.
+All but 8 (out of 185) genes have a message-strand purine content above 50%.
+
+And if you look at the gene sequence data, the genes even look funny to the naked eye, containing, as they do, long runs of bases, with funny repeats, like TTGAAAGGAAAAAAAGACGGCCTAAATAAA. One gets the feeling, when  examining the sequence data, that one is looking at tRNA or rRNA data rather than protein-coding sequences. And yet, they really are protein-coding sequences.
+
+But it turns out there's a lot of secondary-structure info in the sequences. (See the picture at the top of this post.) Many of the genes contain self-complementing intragenic regions. I decided to verify this with some custom scripts. First, I had scripts look inside each gene for length-10 nucleotide sequences with a matching reverse-complement sequence further downstream (in the same gene). I expected to find one or two (or ten) hits, based on the fact that any given length-10 sequence of the bases A, G, C, and T can turn up at random in about one in every million base pairs. (Each base is worth about two bits, so a length-10 DNA sequence can encode as much info as a length-20 binary sequence; 2-to-the-20th is a little over a million.) What I found was an astounding 419 complementary length-10 sequences within 89 genes.
+
+When I upped the sequence length to 12, I still found 64 intragenic complement sequences in 38 genes. A length-12 match should happen randomly about once every 16 million base pairs. The SPBc2 genome (as I said) is 134,416 base pairs long.
+
+The high degree of internal complementarity means that when the phage's DNA strands are separated during transcription or replication, they probably assume very particular 3-dimensional structures, and also, the messenger RNA made from the phage's genes are probably rich in secondary structure. Exactly why those structures are needed is anyone's guess. They may protect the virus from restriction nucleases (although frankly this chore is already taken care of by the prophage's own methylases). Or they may attract ribosomes in some special way (many of the genes form tRNA-lookalike structures). They may help with virion packaging. Or they may do nothing special at all. I kind of doubt the latter possibility, though.

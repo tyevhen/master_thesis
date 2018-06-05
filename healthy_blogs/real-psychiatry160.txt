@@ -1,0 +1,122 @@
+See Attribution 1 for full reference
+
+
+
+
+Steve Jobs:  "Taking LSD was a profound experience, one of the most important things in my life.  LSD shows you that there's another side to the coin, and you can't remember it when it wears off, but you know it.  It reinforced my sense of what was important - creating things instead of making money, putting things back into the stream of history and of human consciousness as much as I could."  (ref 1)
+
+Woodstock (Chip Monck):  "To get back to the warning that I received. You may take it with however many grains of salt that you wish. That the brown acid that is circulating around us isn't too good. It is suggested that you stay away from that. Of course it's your own trip. So be my guest, but please be advised that there is a warning on that one, OK?" (ref 2)
+
+
+
+
+Warning: The final few paragraphs of this post contain language that some may find offensive.  I included it for a reason.   In 30 years of practice and in my real life - I have found that many people talk this way.  If profanity offends you don't read the end of this post.
+
+
+
+Everywhere I turn these days - whether it is a blog or more traditional media I am struck by the same stories on hallucinogens.  If you believe what you read out there, hallucinogens are magical drugs in that they are almost totally benign, consciousness expanding, and they can treat your anxiety or or depression.  They have been actively discriminated against like other illegal drugs and that is the only reason we have not done the research to prove that they can treat many problems.  Back in the 1970's we would have said that "The Man" is restricting access to valuable consciousness expanding drugs and if "The Man" was overthrown - the world would be a much better place.  I have briefly reviewed the same lines of rhetoric that occur with cannabis.  I have not heard similar arguments with ketamine, probably because fewer people have experience with it and it is a more difficult drug to use, even in a medical setting where the drug has a known concentration and purity.
+
+Hallucinogens are a diverse set of compounds with a number of analogues of the parent compounds for each basic structure.  The DSM-5 does very little in terms of organizing the category other than saying that it might make sense to classify the dissociative hallucinogens like PCP and ketamine as a separate category from more traditional hallucinogens like LSD.  The DSM-5 does very little to attempt to classify the wide array of hallucinogens that are available at this point in time.  Some authors (3-6) use the term serotonergic or classic psychedelics such as LSD, DMT, and psilocybin (and see above graph).  I think it makes sense to classify any drug taken for the express purpose of creating hallucinations - a hallucinogen.  Drugs with secondary hallucinatory effects like alcohol, cannabis, and stimulants remain in unique categories because they can all cause hallucinations but they are generally not taken for that purpose,  More scientific classification approaches that are generally based on chemical structure are available in standard addiction texts.
+
+As an addiction  psychiatrist, my experience is that hallucinogens are problematic drugs from a number of perspectives.  It is rare to see a pure hallucinogen user, at least until someone discovered that using high dose dextromethorphan (DXM) reliably produces hallucinations and delirium, is widely available, and inexpensive.  To that subgroup of patients many of them have a very difficult time stopping DXM.  The other problem with that drug is that excessive use of DXM in the predisposed person is common and the margin between the hallucinatory experience, toxicity and lethal overdose is not well characterized probably due to pharmacokinetic variability among subjects.  Reports of lethal ingestions in the medical literature are rare (5).  The hallucinogenic effect of DXM is from NMDA and PCP1 receptor antagonism.  DXM is metabolized by hepatic CYP2D6 so that other drugs that are inhibitors and poor metabolizer status may lead to unexpectedly higher levels of the compound in the plasma.  DXM  is also a serotonin reuptake inhibitor and a 5-HT1 direct agonist and can cause serotonin syndrome another potential cause of death when used with other serotonergic drugs.  PCP is another exception.  In my experience both PCP and DXM users are much more likely to use those drugs in an uncontrolled manner and addictive manner than other types of hallucinogens. There are seemingly rare but significant and in some cases fatal side effects from hallucinogens.  From a mental health standpoint, addiction specialists and general psychiatrists encounter patients with significant ongoing panic symptoms and perceptual disturbances that they attribute to the side effects of these medications.  The question is what is the frequency of these side effects and their significance?  An associated question is have there been any definitive studies?
+
+Most of the recent epidemiology of hallucinogens has come from Krebs and Johansen.  Their 2013 study in PLOS was widely quotes in the news media as illustrating that classic hallucinogens are benign substances with little health risk.  Their work is based on the annual NSDUH survey of drug use in Americans.  They look at two small (N=192, N=156) cohorts of pure hallucinogen users in the NSDUH survey.  They outline the limited nature of this investigation based on the survey questions and the fact that this is a survey.  They cite other literature looking at people given LSD in clinical trials and other research and conclude that there is very little evidence for lasting side effects.  As an example, they could not corroborate that at least some people who taken hallucinogens have persistent problems with anxiety, panic attacks, or perceptual disturbances.  These are familiar themes in the new research on LSD noted in several of the additional references.  As a starter,  I read the articles (7-10) and came up with several unanswered questions.  Some are obvious in a technical sense and some are not so obvious.  Rather than get into a detailed critique of this and other papers, I thought I would outline what I see as missing in the claims made for the benign side effects profiles and efficacy of these drugs and look at more details in subsequent posts.
+
+
+Efficacy for what?
+
+These drugs in the broadest sense are not used to treat any specific collection of symptoms or syndromes.  Their popular indication for use has changed very little since the 1960s (3) and that is "mystical experiences, curiosity, and introspection."  At that level there is no medical indication for use.  They are being used to produce an altered state of consciousness like alcohol or any other recreational drug.  At that level the issue resembles in many ways medical cannabis, with the exception that cannabis seems to have some very preliminary evidence that it might be useful for some medical problems.  No such data exists for hallucinogens and psychedelics, but that is not for a lack of effort.  A recent meta-analysis discussed in Nature suggests that alcoholics treated with LSD are more likely to stay abstinent than those who are not.  The original experiments done in the 1970s, found no such correlation.  A recent paper in Lancet Psychiatry discusses application for the existential anxiety of the terminally ill and to facilitate psychotherapy.    So far the medical indications seem to be a bit of a stretch.  Using cannabis as the prototype, it seems that many parallel arguments are being made for hallucinogens.  From a rhetorical standpoint it is interesting that a common antipsychiatry criticism is that psychiatry has medicalized life in order to proliferate diagnoses and make more money for pharmaceutical companies.  Nobody seems to have any problems with cannabis or hallucinogen proponents medicalizing life in order to provide a useful venue for cannabis or hallucinogens.
+
+As an adjunct for psychotherapy? 
+
+There is a new recent review (14) of psilocybin and MDMA as assistive modalities in psychotherapy.  My read of this review is that the authors are proponents of these therapies.  They cite the lack of useful current therapies as a reason for exploring the therapeutic aspects of psychedelics.  That may be true to some extent but the usefulness of current therapies also depends on how broad the access is.  When I do a new assessment, I don't get the same global acceptance of therapy that some in the popular press suggest.  The impression I get is that the psychotherapy experience that most people get is suboptimal at best - and not because of the therapeutic modality.  It is often the technique of the therapist, economic considerations, managed care constraints, and/or the lack of any results.  The authors suggest that exploring psychedelics in these settings might offer better results and faster results.  I can't help but think about how therapy in real life, doesn't resemble what the psychotherapy in clinical trials is like.  Many people in managed care settings get two or three cursory sessions and they are discharged as doing better.  What happens if psychedelic assisted psychotherapy occurs in a manged care setting?  My guess is that the complex therapy is eliminated and the sessions where the drug is administered is emphasized.  The conditions for therapy reviewed include cancer anxiety, addiction (alcohol, tobacco and cocaine) and obsessive-compulsive disorder for psilocybin and PTSD, anxiety from life-threatening situations, and social anxiety in autistic adults for for MDMA.  There is minimal detail on the psychotherapeutic technique apart from some lengthy sessions.  Problems with blinding in controlled trials are discussed as an issue.  Lower dose psychedelics as the active placebo don't work.   Preliminary successes and speculation about the effect of the psychedelics and what they might be doing are discussed.  The main argument seems to be that there is ample reason to continue research in psychedelics.    
+
+
+What can be measured?
+
+All clinical trials in psychiatry lack objective measurements of both illness and improvement.  In the case of psychedelics some of these standard problems are still there.  Standard rating scales for anxiety and depression are used in some of these trials.  There are additional instruments such as the Altered States of Consciousness Questionnaire (ASQ) and the Psychotomimetic States Inventory (PSI).  It seems that an interest in purportedly consciousness expanding drugs may finally get some psychiatrists interested in consciousness as a dynamic multidimensional entity independent of syndrome definitions.  The problem of course is that these states are all highly subjective and resistant to classification.  It also highlights the question: "Is the psychedelic drug +/- psychotherapy supposed to target a typical syndrome of anxiety or depression or is there some other purpose, like altering the conscious state in some fundamental way?".  If that is true, we really have no idea how that can be measured or translated into therapy.  I would also suggest that it is outside the purview of physicians and psychiatrists.  If it is effective, the one aspect of psychedelic assisted therapy that I thought would be very useful was that the patient only takes two or three doses of the drug over the course of psychotherapy and does not require a maintenance treatment.
+
+Quality of subjective measurement aside, there is nothing more annoying to me as an interested reader than reading about a rating scale or questionnaire that is not readily available.  I need to know what the specific questions are on those instruments.  The statistics of the instrument is a secondary consideration.  As far as I can tell neither the ASQ or the PSI is readily available in a readable form.  I would go so far to encourage editors to suggest that in the original analysis of rating scales, questionnaires, and inventories include the scale as it was used with all of the direct wording and how it was rated.  If that data is not included the article is essentially worthless to any clinician who talks to patients.
+
+
+Are we measuring dimensions of consciousness?
+
+I have addressed the general lack of concern over human consciousness in psychiatry and medicine in general.  Human consciousness is generally regarded as a brain determined state, but we have no idea how that state arises from the underlying neurobiology.  There are plenty of theories and there is a scientific society dedicated to the study of human consciousness.  Consciousness is a highly subjective state and that makes it very difficult to study.  Even a basic consideration of experiencing the color red can be as complex as considering that each human being (every human being has a unique conscious state) can experience the color red in a unique way.  We all may be able to agree on a basic task that requires selecting the color red from other colors,  but beyond that we can never be completely sure of how other people experience colors or other physical properties or more complicated states like pain, depression, aging, or the opposite gender.  If all that is true about human consciousness - what would we expect to happen if we are taking a drug that alters our conscious state.  For research purposes, if we alter a conscious state and we really don't have a good way to measure a baseline conscious state - how can we detect what changes.  Are we going to depend strictly on self report of whatever comes to the person's mind?
+
+
+Sweeping conclusions about the lack of toxicity?
+
+Any pro-hallucinogen article will produce a steady stream of references looking at how benign these compounds are.  There are usually quotes about millions of doses consumed and no deaths from LSD or other psychedelics.  The authors generally assume that the methodologies being quoted are adequate indications of drug safety.  These arguments fail at two levels.  First, there is evidence in the literature from reasonable sources that LSD exposure is not entirely benign.  The 1986 Danish LSD Damages Laws is a case in point.  In this study, 400 patients treated with LSD between 1960 and 1973 were followed.  154 of these patients were compensated for long term harm with 2/3 of them having severe flashbacks.  There was also one homicide, 2 suicides, and 4 suicide attempts in the group (12).  There is the question of other sources such such as the DAWN system that looks at the number of emergency department visits (ED) per day due to substance use.  This system looks at annual use of substances by 18-25 years olds, how much they use on an average day and the number of ED visits per day due to a specific category of drugs.
+
+See Attribution 2 for full reference.
+         
+In terms of drug safety and pharmacovigilance, there really has not been any with these drugs.  The side effects tend to be case reports, anecdotal, from settings where there is likely a bias to under report side effects, and from carefully run clinical trials.  In some cases researchers have a defined protocol for the safe design and running of clinical trials involving psychedelic drugs (15).
+
+Medicine or recreational drug?
+
+Cannabis legalization was basically dead in the water until the proponents adopted a political strategy that involved selling it as a medical treatment rather than a recreational drug.  The preferred path seems to be starting with terminal illnesses or illnesses for which there are no current good treatments.  Nobody ever seems to explore the question about why the legalization question doesn't seem to carry the argument on its own merit.  The arguments for the therapeutic use of hallucinogens seems to be following that same pathway.
+
+More rights and politics?
+
+Some of the pro-hallucinogen literature promotes the use of hallucinogens including the legal right of people to use hallucinogens.  I have no problem at all with activists trying to influence their favorite politicians in a way that they can more easily obtain their favorite intoxicant.  I do have a problem when activists start to write medical literature from that perspective.  I also think that an additional level of disclosure is needed at the editorial level.  Authors that argue for the availability of hallucinogens (or for that matter any recreational intoxicant) should disclose that as a potential conflict of interest by specific compounds.  An example would be: "Dr. Smith supports the widespread availability of LSD for both medical and recreational use".  Explicitly stating that potential conflict of interest, is every bit as important as stating that your research has been supported by a pharmaceutical company, but it is more difficult to track.    
+
+Is there a better way to live?
+
+There are always philosophical and ethical considerations.  As I hope to show in a future post, philosophers generally are not too interested in telling people how to live (although there are a few notable exceptions).  Psychiatrists certainly are not interested in that either no matter how much rhetoric is out there saying otherwise.  The arguments to use or try hallucinogens are of the general form that it may improve you in some way or offer you valuable insights.  It certainly may not or in the case of many leave them with a very negative residual memory of the personal experiment or some residual symptoms.  Much of the rhetoric is the old legalization argument: "If it really is that harmless, who shouldn't I have the freedom to use it?"  Add the corollary: "It less dangerous than tobacco and alcohol?" and you have a full scale legalization argument on your hands.  This debate has become stereotypical these days and nobody seems to ever ask the question: "Is this a reasonable way to live?"  or  "Should people get high just because we can?"  Do you really have to take a drug to expand your consciousness or can you do something else?  Focusing on only the legal aspect and the freedom to use drugs short circuits that larger question and it is a very significant question.  Moreover - if your goal is expanding your consciousness how do you know that LSD is the best way to do that?  How do you know it is just not a complete waste of time - time that you may not have to waste?
+
+There is a phrase that is popular in the drug using vernacular and that phrase is "fucked up."  It encompasses an entire spectrum from a highly desired state of intoxication to a very dysphoric state of toxic effects, withdrawal effects, and delirium.  Interview people at either end of the spectrum and they will declare: "I am really fucked up!" with varying prosody to suggest the end of the spectrum they perceive themselves to be at that given moment.  That is assuming that they are not too delirious to speak.  Use of the term highlights how subjective drug use is as well as the full spectrum of use.  It removes any pretense that a legal intoxicant will be used primarily in a therapist's office or a room full of intellectuals focused on expanding their consciousness.    We can't use a 10 point scale with the term on either end.  We are not really treating anything.  How many days during your life can you spend "fucked up" - whether or not the intoxicant is medically dangerous to you?  Probably not too many if you expect to have a work, a social and a family life where you depend on other people and they depend on you.  Probably not too many if you live in a dangerous environment like Minnesota and you have to decide at some point that you need to be wearing enough protective clothing outdoors to prevent frostbite, exposure, and death.
+
+Hallucinogens or psychedelics are probably not the new miracle drugs simply because they have already been sold that way and it didn't work out.  As two authors (13) closer to the history of LSD put it:
+
+"....In all likelihood acid will continue to ravage as many people as it liberates and deceive as many as it enlightens.  Whether it will play a more significant role in the future remains a matter of conjecture, for the psychedelic experience carries the impress of a constellation of social forces that are always shifting and up for grabs.  It's not over yet."  
+
+My only qualifier is always that people with addictions will generally do worse.
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  Walter Isaacson.  Steve Jobs.  Simon & Schuster.  New York. 2011. p 41.
+
+2: Woodstock: Music from the Original Soundtrack and More. Cotillion Records. 1970.
+
+3:  Glennon RA.  The pharmacology of hallucinogens and designer drugs.  in Principles of Addiction Medicine, Fourth Edition.  RK Ries, DA Fiellin, SC Miller, and R Saitz (eds); Wolters Kluwer/Lippincott Williams & Wilkins; Baltimore 2009: pp 215-230.
+
+4:  Domino EF, Miller SC.  The pharmacology of dissociatives.  in Principles of Addiction Medicine, Fourth Edition.  RK Ries, DA Fiellin, SC Miller, and R Saitz (eds); Wolters Kluwer/Lippincott Williams & Wilkins; Baltimore 2009: pp 231-240.
+
+5:  Pechnick RN, Cunningham KA.  Hallucinogens.  in Substance Abuse: A Comprehensive Textbook, Fifth Edition.  P Ruiz, E Strain (eds); Wolters Kluwer/Lippincott Williams & Wilkins; Baltimore 2011: pp 267-276.
+
+6:  McCann UD.  PCP/Designer Drugs/MDMA. in Substance Abuse: A Comprehensive Textbook, Fifth Edition.  P Ruiz, E Strain (eds); Wolters Kluwer/Lippincott Williams & Wilkins; Baltimore 2011: pp 277-283.
+
+7: Krebs TS, Johansen PØ. Psychedelics and mental health: a population study. PLoS One. 2013 Aug 19;8(8):e63972. doi: 10.1371/journal.pone.0063972. eCollection 2013. PubMed PMID: 23976938; PubMed Central PMCID: PMC3747247.
+
+8: Johansen PØ, Krebs TS. Psychedelics not linked to mental health problems or suicidal behavior: a population study. J Psychopharmacol. 2015 Mar;29(3):270-9. doi: 10.1177/0269881114568039. Epub 2015 Mar 5. PubMed PMID: 25744618. 
+
+9: Krebs TS, Johansen PØ. Reply letter: Mental health of people who have used classical psychedelics and no other illicit drugs. J Psychopharmacol. 2015 Sep;29(9):1036-40. PubMed PMID: 26649373. 
+
+10: Krebs TS, Johansen PØ. Over 30 million psychedelic users in the United States. F1000Res. 2013 Mar 28;2:98. doi: 10.12688/f1000research.2-98.v1. eCollection 2013. PubMed PMID: 24627778; PubMed Central PMCID: PMC3917651.
+
+11: Logan BK, Goldfogel G, Hamilton R, Kuhlman J. Five deaths resulting from abuse of dextromethorphan sold over the internet. J Anal Toxicol. 2009 Mar;33(2):99-103. PubMed PMID: 19239735.
+
+12: Larsen JK. Neurotoxicity and LSD treatment: a follow-up study of 151 patients in Denmark. Hist Psychiatry. 2016 Jun;27(2):172-89. doi: 10.1177/0957154X16629902. Epub 2016 Mar 10. PubMed PMID: 26966135.
+
+13:  Lee MA, Shlain B.  The Complete Social History of LSD: The CIA, The Sixties, and Beyond.  Grove Press, New York, 1985: p 294.
+
+14: Mithoefer MC, Grob CS, Brewerton TD.  Novel psychopharmacological therapies for psychiatric disorders: psilocybin and MDMA. Lancet Psychiatry. 2016 May;3(5):481-8. doi: 10.1016/S2215-0366(15)00576-3. Epub 2016 Apr 5. Review. PubMed PMID: 27067625.
+
+15: Johnson M, Richards W, Griffiths R. Human hallucinogen research: guidelines for safety. J Psychopharmacol. 2008 Aug;22(6):603-20. doi: 10.1177/0269881108093587. Epub 2008 Jul 1. Review. PubMed PMID: 18593734.
+
+
+
+
+Attribution:
+
+1:  Krebs TS and Johansen PØ. Over 30 million psychedelic users in the United States [version 1; referees: 2 approved]. F1000Research 2013, 2:98 (doi: 10.12688/f1000research.2-98.v1)
+
+Copyright: © 2013 Krebs TS and Johansen PØ. This is an open access article distributed under the terms of theCreative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+2:  Figures 2 and 5 are from Substance Abuse and Mental Health Services Administration (SAMHSA) Emergency Department Data.

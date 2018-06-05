@@ -1,0 +1,99 @@
+I admit to a certain laziness when it comes to rich-text editing: I like the CK Editor (formerly known as FCK), and in fact I'll often just go to the CK Editor demo page to do impromptu rich-text editing online, then (eventually) I'll Cut-and-Paste the source from the demo editor into whatever final target (blog, wiki page, etc.) I'm writing for -- oftentimes without Saving the text anywhere else along the way. It's a bit of a dangerous practice (not doing regular Saves) and I've been known to close the CK Editor window prematurely, before saving my work, resulting in an unrecoverable FootInMouthError.
+
+The problem is, the CK Editor demo page doesn't give you a way to Save your work (it is after all just a demo page). I decided the smart thing to do would be to put a Save button on the page and have my work get sent off to my local Sling repository at the click of a mouse. Yes yes, I could use something like Zoho Writer and be done with it, but I really do prefer CK Editor, and I like the idea of persisting my rich text locally, on my local instance of Sling. So I went ahead and implemented Sling persistence for the CK Editor demo page.
+
+I could have done the requisite code trickery with Greasemonkey, but Mozilla Jetpack allows me to easily put a "Save to repository..." menu command on the browser-window context menu in Firefox and have that menu command show up only on the CK Editor demo page (and nowhere else). Like this:
+
+
+
+Note the menu command at the bottom.
+
+The "repository," in this case, is Apache Sling. I'm actually using Day CRX (Content Repository Extreme), which is a highly spiffed commercial version of Apache Sling for which there is a free developer's edition. (Download the free version here.) I use the Day implementation for a couple of reasons, the most compelling of which (aside from its freeness) is that CRX comes with excellent administration tools, including a visual repository-browser that Sling sorely lacks.
+
+Powering the "Save to repository..." menu command is the following Mozilla Jetpack script (scroll sideways to see lines that don't wrap):
+
+/* Sling.jetpack.js
+
+Copyright/left 2010 Kas Thomas.
+Code may be freely reused with attribution.
+*/
+
+jetpack.future.import("menu");
+
+jetpack.menu.context.page.beforeShow = function( menu, context ) {
+
+    var menuCommand = "Save to repository...";
+    var frontWindow = jetpack.tabs.focused.contentWindow;
+
+    var FRED = "http://ckeditor.com/demo";
+
+    // don't slurp the content into memory if we don't have to
+    if ( jetpack.tabs.focused.contentWindow.location.href.indexOf(FRED)==-1)
+    return;
+
+    function saveToRepository() {
+
+            // Repository storage URL
+            var base_url  = "http://localhost:7402/content/";
+
+            // get the content we want to post
+            var params = "content=" + getContent();
+
+            // prompt the user to give it a name
+            var name = frontWindow.prompt( "Name for this entry:");
+            if (!name || name.length == 0)
+            throw "No name provided.";
+
+            // get a reference to the front window
+            var theWindow = jetpack.tabs.focused.contentWindow;
+
+            // appending "/*" to the full URL
+            // tells Sling to create a new node:
+            var url = base_url + name + "/*";
+
+            // prepare for AJAX POST
+            http = new XMLHttpRequest();
+            http.open("POST", url, true);
+
+            // Send the proper header information along with the request
+            http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            http.setRequestHeader("Content-length", params.length);
+            http.setRequestHeader("Connection", "close");
+
+            // Show whether we succeeded...
+            http.onreadystatechange = function() {
+                    if(http.readyState == 4)
+                    theWindow.alert("http.status = " + http.status);
+            }
+            // do the AJAX POST
+            http.send(params);
+
+    }
+
+    function getContent() {
+            var doc = jetpack.tabs.focused.contentDocument;
+            var iframeDoc = doc.getElementsByTagName("iframe")[0].contentDocument;
+            return iframeDoc.body.innerHTML;
+    }
+
+    // manage menu
+    menu.remove( menuCommand );
+    menu.add( {
+            label: menuCommand,
+            command: saveToRepository
+    } );
+}
+
+A couple of quick comments. I use the jetpack.menu.context.page.beforeShow() method in order to test if the frontmost (current, focused) browser tab is in fact the CK Editor demo page, because there is no need to show the menu command if we're not on that page. If we're not on that page, the script bails. Otherwise, at the bottom, we call menu.add(). Note that menu.add() is preceded by a call to menu.remove() -- which fails harmlessly (silently) if there's nothing to remove. The call to remove() is needed because otherwise the script will add() a new copy of the menu command every time the mouse is right-clicked, and pretty soon there will be multiple copies of it appended to the bottom of the context menu. We don't want that.
+
+Slurping content from the CK Editor demo page is pretty easy. The editor window is in an <iframe>, and it's the only iframe on the page, so all we have to do is get the innerHTML of the body of that iframe, and that's what the getContent() method accomplishes:
+function getContent() {
+   var doc = jetpack.tabs.focused.contentDocument;
+   var iframeDoc = doc.getElementsByTagName("iframe")[0].contentDocument;
+   return iframeDoc.body.innerHTML;
+}
+The rest is pretty much straight AJAX. We do a POST to the repository on the base URL plus the (user supplied) name of the post, appended with "/*" to tell the Sling servlet to create a new node in the tree at that spot. So for example, if the repository is at http://localhost:7402 and you want a new node named "myNode" under "parent", you simply do a POST to
+http://localhost:7402/parent/myNode/*
+and Sling dutifully creates the new node thusly named.
+
+And that's basically it: a CK Editor + Sling integration in 64 lines of code, thanks to Mozilla Jetpack.

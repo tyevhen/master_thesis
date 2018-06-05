@@ -1,0 +1,15 @@
+There's some new stuff coming down the pipeline with antidepressants. 
+
+~A new antidepressant was approved by the FDA at the end of September.  Brintellix, generic: vortioxetine -- could you think of worse names for a medication?  From PsychCentral:
+
+The most common side effects reported by participants taking Brintellix in clinical trials included nausea, constipation and vomiting. Overall, 5 to 8 percent of the patients who received Brintellix 5 to 20 mg/day in short-term trials discontinued treatment due to an adverse reaction, the most common being nausea, compared with 4 percent of placebo-treated patients in these studies.
+
+According to the manufacturers of Brintellix, Takeda Pharmaceutical & H. Lundbeck, the mechanism of the antidepressant effect of Brintellix is not fully understood.
+What is known is that the new drug is an inhibitor of serotonin (5-HT) reuptake, and also acts as an agonist at 5-HT1A receptors, a partial agonist at 5-HT1B receptors and an antagonist at 5-HT3, 5-HT1D and 5-HT7 receptors. The contribution of each of these activities to Brintellix’s antidepressant effect has not been established, but it is considered to be the first and only compound with this combination of pharmacodynamic activity.
+The pills come in 5, 10, 15 and 20mg, the starting dose is 10mg/day, to increase (? after how long) to 20mg/day.  Not to be taken with an MAOI or with Methylene Blue or Linezolid (an antibiotic).  The usual black box warning about suicidal concerns in young adults applies as is does to all anti-depressants.  The medication is not yet available.
+
+~ Astrazenica is working on a ketamine-like drug named lanicemine.  Lanicemine doesn't have the hallucinogenic effects of ketamine, and it also seems to take longer for it's antidepressant effects to kick in.  There's not much to say about this drug.  Yet. 
+
+~And finally, it's not exactly new with evidence back to 2006, but I've been hearing more lately about scopolomine -- the seasickness patch -- being used for depression that is resistant to other antidepressants. From Medical News:
+"Scopolamine was found to reduce symptoms of depression within three days of the first administration. In fact, participants reported that they experienced relief from their symptoms by the morning after the first administration of drug," explained Dr. Furey. "Moreover, one-half of participants experienced full symptom remission by the end of the treatment period. Finally, participants remained well during a subsequent placebo period, indicating that the antidepressant effects persist for at least two weeks in the absence of further treatment." 
+I'd love to hear what experience readers have had with scopolomine,

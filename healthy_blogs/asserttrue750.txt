@@ -1,0 +1,86 @@
+It occurred to me the other day that the people who sell Web Content Management System software are (supposedly) experts in Web technology; and presumably they use their own software to build their own corporate Web sites (following the well-known Dogfood Pattern); and therefore their home pages ought to be pretty good examples of what it means to build a highly functional, performant Web page that downloads quickly and displays nicely.
+
+To get a handle on this, I decided to use YSlow to evaluate the "loadability" of various vendors' home pages. If you haven't heard about it before, YSlow is a Firefox plug-in (or "add-on," I guess) that analyzes web pages and tells you why they're slow based on Yahoo's rules for high performance web sites. (Note that to use YSlow, you first need to install Firebug, a highly useful add-on in its own right. Every Firefox user should have this add-on. It's a terrific tool.)
+
+It's important to understand what YSlow is not. It is not primarily a profiling tool (in my opinion, at least). The point of YSlow isn't to measure page load-times. It's to score pages based on a static analysis of their design-for-loadability. There are certain well-known best practices for making pages load faster. YSlow can look at a page and tell if those best-practices are being followed, and to what degree.
+
+YSlow assigns letter grades (A thru F) for a page in each of 13 categories of best-practice. I decided to run YSlow against the home pages of 35 well-known WCM and/or ECM vendors, then calculate a Grade Point Average. The scores are posted below.
+
+Please note that the full results, with a detailed breakout of exactly how each vendor did in each of the 13 YSlow categories, is available in a (free) 121-page report that I put together over the weekend. The 1-megabyte PDF can be downloaded here. It contains some important caveats about interpreting the results, and also talks about methodology.
+VENDOR
+GPA
+Alfresco
+2.27
+Alterian
+2.18
+Clickability
+2.72
+CoreMedia
+3.09
+CrownPeak
+2.90
+Day
+3.09
+Drupal
+3.18
+Ektron
+2.63
+EMC
+1.81
+Enonic
+3.36
+EPiServer
+2.18
+Escenic
+2.72
+eZ
+2.63
+FatWire
+2.18
+FirstSpirit (e-Spirit)
+3.27
+Hannon Hill
+3.18
+Hot Banana (Lyris)
+2.18
+Ingeniux
+1.90
+Interwoven.com
+1.81
+Joomla!
+2.81
+Magnolia
+3.27
+Nstein
+2.27
+Nuxeo
+2.09
+OpenCMS
+2.18
+Oracle
+3.18
+Open Text
+2.27
+PaperThin
+2.72
+Percussion
+1.36
+Plone
+3.09
+Refresh Software
+2.54
+Sitecore
+3.00
+TerminalFour
+2.27
+Tridion
+2.00
+TYPO3
+2.90
+Vignette
+1.81
+Once again, I urge you not to draw any conclusions before reading the PDF (which contains detailed information about how these numbers were obtained). The 121-page document can be downloaded here. (Note: The PDF does contain bookmarks for easy navigation. They may not be showing when you first open the file. Use Control-B to toggle bookmark-navtree visibility.)
+
+Maybe others can undertake similar sorts of testing (I'd particularly like to see some actual timing results, comparing page load times for the various vendor pages, although this can be notoriously tricky to set up). If so, let me know.
+
+Does it mean a whole lot? Not really. I think it just means some vendors have more of an opportunity than others, perhaps, to improve the performance of their home pages. But a lot of factors are at play any time you talk about Web site performance, obviously, and therefore it's not really fair to form any kind of final judgment based on the scores shown here. Use it as a starting point for further discussion, perhaps.

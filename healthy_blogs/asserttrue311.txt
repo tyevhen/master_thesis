@@ -1,0 +1,7 @@
+An interesting open problem in biology is how so many signature microbial species (not just in the oceans and soil, but in anoxic lake sediments, hot springs, deep underground rock formations, etc.) got so widely and uniformly distributed. How is it, for example, that if you dig down a foot into the topsoil of any back yard in North America, and do the same in any back yard in Japan, say, you are practically guaranteed to find examples of Pseudomonas aeruginosa and Bacillus mycoides (and hundreds of other characteristic soil species)? Did these species get spread by the wind? By birds? By rain?
+
+Probably all three. We know, for example, that African dust storms can carry particles as far as Houston, Texas. But also, bacteria routinely occur in the atmosphere, in clouds, and even in hail stones.
+
+"Hailstones: A Window into the Microbial and Chemical Inventory of a Storm Cloud," by Temkiv et al. (2013), describes finding examples of γ-Proteobacteria, Sphingobacteriales and Methylobacterium (plus some 3000 organic compounds) in hail stones. A similar finding was reported in a blog post by University of Wisconsin bacteriology professor John Lindquist in 2006. Looking at recently fallen hail stones, Lindquist was able to culture purple photosynthetic bacteria (Rhodopseudomonas species) from his samples.
+
+To my knowledge, no one has yet tried to characterize the viral or bacteriophage content of atmospheric moisture. If you're looking for a thesis project in microbiology, this could be a good one.

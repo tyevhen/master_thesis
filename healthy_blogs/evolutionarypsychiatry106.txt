@@ -1,0 +1,37 @@
+It's a chilly Sunday morning.  More plowing away at the endocrine system, and now I remember why endocrinologists can be cranky sometimes.  Gads it is complicated, but beautiful.
+
+Two music selections, one for those who prefer a xanthine alkaloid jolt of rock:
+
+Kasabian Reason is Treason
+
+The other for those who like to let Sundays wake them up, sunshine through the window style:
+
+Dance of the Blessed Spirits (from Orpheus and Eurydice)
+
+I don't recommend listening to these simultaneously.
+
+Oh, in the northern hemisphere we've been having a lovely show of the planets the past couple days.  They are exceptionally bright, with reports of seeing Venus in broad daylight.  (Here is a picture from @BadAstronomer through his binoculars).  Last night, just after sunset (lower right), I snapped this picture with my phone of the crescent moon and Venus (through the trees) with Jupiter above to the left:
+
+
+
+
+All right.  Enough putting off the inevitable.  Endocrinology!  As we know from a previous post, thyroid hormone secretion is regulated (to some extent) by a classic negative feedback mechanism.  Thyrotropin (TSH) is released from the anterior pituitary and then travels down to the thyroid to stimulate the TSH receptor (TSH-R).  This action leads to the release of thyroid hormones, mostly T4 but some T3, which toodle on up to the pituitary and inhibit the production of TSH.  We also learned in previous posts there is other master regulation via the hypothalamus and TRH as well as regulation at the tissue level by how readily the prohormone T4 is made into the active hormone T3.
+
+In the serum, T4 and T3 levels remain relatively stable during the course of 24 hours.  However, at a cellular/nuclear level it is hard to say what is happening at any given time.
+
+TSH secretion from the pituitary, on the other hand, varies considerably, as demonstrated by a graph from this paper which is available free full text on Pubmed (showing some differences in TSH secretion variation between lean and obese women):
+
+
+In fact, TSH is one of the well-known hormones, such as cortisol, melatonin, prolactin, etc. that change as part of the daily circadian rhythm.  TSH peaks during the night and remains lower during the day.  The fact that serum T4 and T3 levels remain relatively constant despite this change is intriguing, though again, there is likely a good deal of regulation we don't understand and that is difficult to measure at an intracellular level, and it may have to do with some of the regulation I talk about in a couple of paragraphs.
+
+A bit of a side note but one that may be of interest for the future when we take a peek at the alternative medicine diagnosis of "adrenal fatigue," the circadian rhythm peaks seem to be delayed by an hour or two in folks with seasonal depression, premenstrual dysphoric disorder, and major depressive disorder.  Treating the depression with late sleep deprivation (i.e. going to bed at 9 or 10 and waking up at 1am) seems to jerk the cortisol portion of the rhythm back to normal, and in some studies, the TSH and prolactin as well (I'll discuss these and link the reference studies in the future posts).
+
+Here is where we get to an even more complicated part.  TSH is not just "TSH."  As TSH is created and as it is secreted, we add various numbers and types of carbohydrate molecules to the protein hormone to make a glycoprotein (p 84-6).   These carbohydrate molecules help with the creation and proper folding of the protein into its final active shape.  TSH is then a group of "isohormones" with different carbohydrate compositions.  People with hypothyroidism have an increase in sialylated TSH which decreases when the hypothyroidism is treated with T4 hormone. (Sialylate is one type of  carbohydrate molecule that can be plopped onto TSH.  Sulfated carbohydrate is another).  Higher sialylation is also seen in the nocturnal surge of TSH in normal patients compared with the daytime circulating TSH in the same person.  In mice, as the hypothalamic-pituitary-thyroid axis develops and matures, there are higher proportions and more complex carbohydrate molecules on the TSH backbone.
+
+Phew.  Cowboy Junkies:  I'm So Open
+
+What are all these carbohydrates doing?  Besides helping out with the folding and secretion of the protein, they also seem to modify the biologic activity of TSH.  If we take TSH and apply enzymes to it to clean off the carbohydrate molecules, TSH will still bind to its receptor, but its activity is very much reduced.  Increased sialylation seems to moderately reduce the activity of TSH at the receptor as well, at least in the test tube.  In the body, the highly sialylated TSH lasts longer than the less sialylated versions, so overall the sialylated form will cause more receptor activation (though it is less potent, it lasts longer).  High-mannose versions of TSH seem to be more aggressive about stimulating messaging through the cell after alighting upon the TSH receptor and activating it.
+
+I know.  See how one can be led down the garden path with respect to understanding something about hormonal regulation, but then you find a whole 'nother layer of complexity that boggles the mind.  Sialylation to sulfation ratios of circulating TSH affect metabolic activity and clearance, but these activities are also dependent upon the location on the TSH where the carbohydrate molecules are added (they can be added at all sorts of different places on the various protein subunits and frequently are).
+
+These hormonal systems have developed over thousands of millennia of evolution, and it is only in the very recent past that we have understood much of any of it.  The spectacular dance of molecules and the exquisite microregulation is humbling, to say the least.  How much is changed by nighttime lighting, by inflammatory signals, by activity and rest?  Appreciation of the complexity is what makes me try, in a practical fashion, to emulate the diet and lifestyle of the paleolithic past, as it seems likely the best way to keep the system acting at optimal capacity.  That's just a hunch, but I think the null hypothesis that begs to be disproven.

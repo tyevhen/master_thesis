@@ -1,0 +1,49 @@
+I've been wanting to write about this for months. Here goes. We know that antipsychotics are the new panacea for all things mental health-related, including depression (1, 2, 3). But critics kept pointing to a pesky lack of evidence that such treatments actually worked. Bristol-Myers Squibb, manufacturer of Abilify, has been running a disinformation campaign in medical journals to tout its drug as an antidepressant. Their attempts to paint a positive picture of Abilify's antidepressant properties and its allegedly fantastic safety/tolerability profile have been simultaneously tragic and amusing (1, 2, 3).
+
+We're now moving on to something bigger... It ain't just Abilify, folks. It's all the atypicals. They are all antidepressants. According to the authors of a recent meta-analysis, for atypical antipsychotics: "At present, this body of evidence is considerably larger than that for any other augmentation strategy in the treatment of major depressive disorder." In other words, if you are not prescribing atypicals for your patients who don't show adequate response to antidepressants, you are not practicing evidence-based medicine. You are a [bleeping] cowboy who is willfully disregarding science. You are denying your patients the best possible treatment. The authors don't actually say any of those things, but those are the implications. If the evidence for using antipsychotics is "considerably larger" than the evidence for anything else, then the implications are clear-cut. And this is exactly how this study will be cited. Salespeople, from drug reps to academic psychiatrists, to practitioners looking to earn a few thousand extra bucks on the side through pharma speaking gigs, will discuss this study as if it were a landmark finding.
+
+Response and Remission: But the "evidence" is not all that convincing. Here's why... The authors pooled together the results of 16 randomized controlled trials. In these studies, patients had failed to respond adequately (using various definitions) to an antidepressant. Patients were then assigned to receive either an atypical antipsychotic or a placebo in addition to their antidepressant. Outcomes were then tabulated somewhere between 4 and 12 weeks later. The results seem clear cut -- if your brain is turned to "off" -- the response rates for atypicals was 44% compared to 30% for placebo. The remission rates were 31% for atypicals and 17% for placebo. The advantage for atypicals is statistically significant. Well, there you have it. Done deal. Ask your doctor about Abilify/Zyprexa/Seroquel today...
+
+But the most important thing in a treatment outcome study is... the outcomes. The authors of the meta-analysis did not bother to actually measure change in scores on rating scales. Instead, they only used response and remission rates. There is absolutely no good reason for doing this. It's potentially quite misleading. Doctors like remission and response rates because they provide the illusion that we are measuring depression exactly. A "responder" got a lot better and is functioning reasonably well whereas a "non-responder" is in bed 12 hours a day while spending the rest of her time watching the E! Network, eating Bon-Bons, and sobbing constantly. But it's not nearly that scientific. A "responder" is usually defined as someone who got 50% better on his or her depression rating score during the study period. So Bob's depression rating score improved by 52% (he's a responder), but Amy's score only improved by 48%, so she's a nonresponder. Is this 4% difference really meaningful?
+
+Let's look at the following dataset for 20 participants in a fictional study...
+
+Improvements in depression over course of 10 week study
+Drug
+Placebo
+40%
+30%
+55%
+60%
+50%
+45%
+55%
+48%
+52%
+48%
+60%
+55%
+60%
+55%
+10%
+25%
+20%
+10%
+25%
+30%
+
+Using a 50% improvement to determine if a patient is a "responder", we get a 60% response rate on drug and a 30% response rate on placebo. Lazy logic says: Oooh -- the drug is twice as effective as placebo. But is we take the average for each group, we get an average improvement of 42.7% on the drug compared to 40.6% on placebo. See the problem with response and remission rates? Similar arguments have been made by smarter people than myself.
+
+Putting outcomes into convenient little categories makes good sense when the categories themselves make sense - events like having a heart attack, getting pregnant, or dying. If the death rate on a drug is 4% compared to 2% on a placebo, then the drug really reduced death by 50%. But if the "remission rate" or "response rate" for depression is 40% on drug compared to 20% on placebo, that does not mean the drug is twice as effective as placebo in treating depression. If you need to score a 7 or below on a depression rating scale to be "in remission", but you score an 8, are you really much worse off than the person who scored a 7?
+
+Am I saying that the drugs really just squeaked by placebo in these studies? Well, I've read the Abilify studies and posted on them previously - in those studies, Abilify barely beat the placebo. And in the opinion of the patients themselves, Abilify didn't beat placebo at all. And the studies were designed to benefit Abilify, not to actually see if the drug worked. As I noted previously...
+Patients were initially assigned to receive an antidepressant plus a placebo for eight weeks. Those who failed to respond to treatment were assigned to Abilify + antidepressant or placebo + antidepressant. Those who responded during the initial 8 weeks were then eliminated from the study. So we've already established that antidepressant + placebo didn't work for these people -- yet they were then assigned to treatment for 6 weeks with the same treatment (!) and compared to those who were assigned antidepressant + Abilify. So the antidepressant + placebo group started at a huge disadvantage because it was already established that they did not respond well to such a treatment regimen. No wonder Abilify came out on top (albeit by a modest margin).
+
+Here's an analogy. A group of 100 students is assigned to be tutored by Tutor A regarding math. The students are all tutored for 8 weeks. The 50 students whose math skills improve are sent on their merry way. That leaves 50 students who did not improve under Tutor A's tutelage. So Tutor B comes along to tutor 25 of these students, while Tutor A sticks with 25 of them. Tutor B's students do somewhat better than Tutor A's students on a math test 6 weeks later. Is Tutor B better than tutor A? Not really a fair comparison between Tutor A and Tutor B, is it?
+I've not read the other antipsychotics for depression studies. I'll even give them the benefit of the doubt and assume they were not designed in the same biased manner as the Abilify trials. It is, however, worth noting that the "benefit" of Abilify, in terms of response and remission rates compared to placebo, was about the same as for the other atypicals. Which leads me to think that the other atypicals probably show similar marginal benefits for depression.
+
+But now, based solely on potentially quite misleading response and remission rates, an article appears in the American Journal of Psychiatry - a piece that has the potential to ramp up the prescribing of antipsychotics for depression to an even more ridiculous level. Let the good times roll.
+
+Source of ironclad evidence that atypical antipsychotics are antidepressants (until you actually read the paper):
+
+Nelson, J., & Papakostas, G. (2009). Atypical Antipsychotic Augmentation in Major Depressive Disorder: A Meta-Analysis of Placebo-Controlled Randomized Trials American Journal of Psychiatry, 166 (9), 980-991 DOI: 10.1176/appi.ajp.2009.09030312

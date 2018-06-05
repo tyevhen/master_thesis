@@ -1,0 +1,153 @@
+OpenCalais is one of the most innovative and potentially disruptive online services to hit the Web in recent memory. To understand its importance, you have to be a bit of a geek, preferably a text-analytics or computational-linguistics geek, maybe an information-access or "search" geek, or a reasonably technical content-technology freak who understands the potential uses of metadata. It's not easy to sum up OpenCalais in a few words. Suffice it to say, though, if you haven't heard of OpenCalais before, you should visit http://www.opencalais.com. It's an interesting undertaking, to be sure.
+
+One of the services OpenCalais exposes is automatic extraction of entity metadata from text. If you call the OpenCalais service using the proper arguments, you can essentially pass it any kind of text content you want (an article, a blog, a Wikipedia entry, an Obama speech, whatever) and the service will hand you back an itemized list of the entities it detected in the text. "Entities" means things like names of persons, cities, states or provinces, countries, prices, e-mail addresses, industry terms -- almost anything that would qualify as a "proper noun" or a term with special significance (not just keywords).
+
+The OpenCalais service brings back more than a list of terms. It also reports the number of occurrences of the terms and a relevancy score for each term. The latter is a measure of the relative semantic importance of the term in question to the text in question. This score can help in determining cut-offs for automatic tagging, ordering of metadata in tag clouds, and other purposes. It's a way to get at the "aboutness" of a document.
+
+OpenCalais does many, many things beyond entity extraction. But you should already be able to imagine the many downstream disruptions that could occur, for example, in enterprise search if Text-Analytics-as-a-Service (or heaven forbid, Machine-Learning-as-a-Service) were to catch on bigtime.
+
+The OpenCalais API is still growing and evolving (it's at an early stage), but it's already amazingly powerful, yet easy to use. Writing a semantic AJAX app is a piece of cake.
+
+My first experiment with OpenCalais involved OpenOffice. I use OpenOffice intensively (as a direct replacement for the Microsoft Office line of shovelware), and although OpenOffice (like Office) has more than its fair share of annoyances, it also has some features that are just plain crazy-useful, such as support for Macros written in any of four languages (Python, Basic, beanshell, and JavaScript). The JavaScript binding is particularly useful, since it's implemented in Java and allows you to tap the power of the JRE. But I'm getting ahead of myself.
+
+What I decided to try to do is create an OpenOffice macro that would let me push a button and have instant entity-extraction. Here's the use case: I've just finished writing a long business document using OpenOffice, and now I want to develop entity metadata for the document so that it's easier to feed into my company's Lucene-based search system and shows up properly categorized on the company intranet. To make it happen, I want (as a user) to be able to highlight (select) any portion of the document's text, or all of it, then click a button and have OpenOffice make a silent AJAX call to the OpenCalais service. Two seconds later, the metadata I want appears, as if by magic, at the bottom of the last page of the document, as XML. (Ideally, after reviewing the XML, I would be able to click an "Accept" button and have the XML vanish into the guts of the .odf file.)
+
+I wrote a 160-line script that does this. The source code is posted at http://sites.google.com/site/snippetry/Home/opencalais-macro-for-openoffice. Please note that the code won't work for you until you get your own OpenCalais license key and plug it into the script at line No. 145. For space reasons, I'm not going to explain how to install an OpenOffice macro (or create a toolbar button for it after it's installed). That's all standard OpenOffice stuff.
+
+The key to understanding the OpenCalais macro is that all we're doing is performing an HTTP POST programmatically using Java called from JavaScript. Remember that the JavaScript engine in OpenOffice is actually the same Rhino-based engine that's part of the JRE. This means you can instantiate a Java object using syntax like:
+
+var url = new java.net.URL( "http://www.whatever.url" );
+
+Opening a connection and POSTing data to a remote site over the wire is straightforward, using standard Java conventions. The only tricky part is crafting the parameters expected by OpenCalais. It's all well-documented on the OpenCalais site, fortunately. Lines 105-120 of the source code show how to query OpenCalais for entity data. You have to send a slightly ungainly chunk of XML in your POST. No big deal.
+
+For testing purposes, I ran my script against text that I cut and pasted into OpenOffice from an Associated Press news story about Bernard Madoff's customer list (the investment advisor who showed his clients how to make a small fortune out of a large one). OpenCalais generated the following metadata in roughly three seconds:
+
+<!-- Use of the Calais Web Service is governed by the Terms of Service located at http://www.opencalais.com. By using this service or the results of the service you agree to these terms of service. -->
+
+<!--City: NEW YORK, Danbury, Brookline, Oceanside, Pembroke Pines, West Linn, Company: Associated Press, CNN, Country: Switzerland, Kenya, Cayman Islands, Currency: USD, Event: Person Communication and Meetings, Facility: Wall Street, World Trade Center, Hall of Fame, IndustryTerm: Internet support group, MedicalCondition: brain injury, Movie: World Trade Center, NaturalFeature: San Francisco Bay, Long Island, Organization: U.S. Bankruptcy Court, Person: Bernard Madoff, Alan English, Patricia Brown, Bob Finkin, Bonnie Sidoff, Evelyn Rosen, Teri Ryan, Lynn Lazarus Serper, Sharon Cohen, Sandy Koufax, Jordan Robertson, Neill Robertson, Samantha Bomkamp, ADAM GELLER, John Malkovich, Bernie Madoff, Allen G. Breed, Larry King, Rita, Mike, Nancy Fineman, Larry Silverstein, ProvinceOrState: Florida, Oregon, New York, Massachusetts, Connecticut, Technology: ADAM, --><OpenCalaisSimple>
+
+<Description>
+
+<calaisRequestID>a1d28b3b-4ef7-4aa6-b293-8df46ea5e988</calaisRequestID>
+
+<id>http://id.opencalais.com/KG8hyw2LGKjgRnJnRN86FQ</id>
+
+<about>http://d.opencalais.com/dochash-1/6010f15f-bb32-3e59-9b55-c8fef29d38ed</about>
+
+</Description>
+
+<CalaisSimpleOutputFormat>
+
+<Person count="38" relevance="0.771">Bernard Madoff</Person>
+
+<Person count="20" relevance="0.606">Alan English</Person>
+
+<Person count="16" relevance="0.370">Patricia Brown</Person>
+
+<Currency count="11" relevance="0.686">USD</Currency>
+
+<Person count="10" relevance="0.524">Bob Finkin</Person>
+
+<Person count="9" relevance="0.586">Bonnie Sidoff</Person>
+
+<Person count="8" relevance="0.574">Evelyn Rosen</Person>
+
+<Person count="6" relevance="0.378">Teri Ryan</Person>
+
+<Person count="5" relevance="0.373">Lynn Lazarus Serper</Person>
+
+<ProvinceOrState count="4" relevance="0.578" normalized="Florida,United States">Florida</ProvinceOrState>
+
+<City count="3" relevance="0.428" normalized="New York,New York,United States">NEW YORK</City>
+
+<Facility count="2" relevance="0.165">Wall Street</Facility>
+
+<NaturalFeature count="2" relevance="0.398">San Francisco Bay</NaturalFeature>
+
+<ProvinceOrState count="2" relevance="0.305" normalized="Oregon,United States">Oregon</ProvinceOrState>
+
+<Event count="2">Person Communication and Meetings</Event>
+
+<City count="1" relevance="0.051" normalized="Danbury,Connecticut,United States">Danbury</City>
+
+<City count="1" relevance="0.078" normalized="Brookline,Massachusetts,United States">Brookline</City>
+
+<City count="1" relevance="0.058" normalized="Oceanside,New York,United States">Oceanside</City>
+
+<City count="1" relevance="0.134" normalized="Pembroke Pines,Florida,United States">Pembroke Pines</City>
+
+<City count="1" relevance="0.283" normalized="West Linn,Oregon,United States">West Linn</City>
+
+<Company count="1" relevance="0.031" normalized="Associated Press">Associated Press</Company>
+
+<Company count="1" relevance="0.286" normalized="Time Warner Inc.">CNN</Company>
+
+<Country count="1" relevance="0.249" normalized="Switzerland">Switzerland</Country>
+
+<Country count="1" relevance="0.249" normalized="Kenya">Kenya</Country>
+
+<Country count="1" relevance="0.249" normalized="Cayman Islands">Cayman Islands</Country>
+
+<Facility count="1" relevance="0.286">World Trade Center</Facility>
+
+<Facility count="1" relevance="0.286">Hall of Fame</Facility>
+
+<IndustryTerm count="1" relevance="0.104">Internet support group</IndustryTerm>
+
+<MedicalCondition count="1" relevance="0.078">brain injury</MedicalCondition>
+
+<Movie count="1" relevance="0.286">World Trade Center</Movie>
+
+<NaturalFeature count="1" relevance="0.141">Long Island</NaturalFeature>
+
+<Organization count="1" relevance="0.289">U.S. Bankruptcy Court</Organization>
+
+<Person count="1" relevance="0.031">Sharon Cohen</Person>
+
+<Person count="1" relevance="0.286">Sandy Koufax</Person>
+
+<Person count="1" relevance="0.031">Jordan Robertson</Person>
+
+<Person count="1" relevance="0.031">Neill Robertson</Person>
+
+<Person count="1" relevance="0.031">Samantha Bomkamp</Person>
+
+<Person count="1" relevance="0.297">ADAM GELLER</Person>
+
+<Person count="1" relevance="0.286">John Malkovich</Person>
+
+<Person count="1" relevance="0.279">Bernie Madoff</Person>
+
+<Person count="1" relevance="0.031">Allen G. Breed</Person>
+
+<Person count="1" relevance="0.286">Larry King</Person>
+
+<Person count="1" relevance="0.141">Rita</Person>
+
+<Person count="1" relevance="0.260">Mike</Person>
+
+<Person count="1" relevance="0.083">Nancy Fineman</Person>
+
+<Person count="1" relevance="0.286">Larry Silverstein</Person>
+
+<ProvinceOrState count="1" relevance="0.058" normalized="New York,United States">New York</ProvinceOrState>
+
+<ProvinceOrState count="1" relevance="0.078" normalized="Massachusetts,United States">Massachusetts</ProvinceOrState>
+
+<ProvinceOrState count="1" relevance="0.051" normalized="Connecticut,United States">Connecticut</ProvinceOrState>
+
+<Technology count="1" relevance="0.297">ADAM</Technology>
+
+<Topics>
+
+<Topic Score="0.403" Taxonomy="Calais">Business_Finance</Topic>
+
+</Topics>
+
+</CalaisSimpleOutputFormat></OpenCalaisSimple>
+
+Think about it: With the push of a button, a person creating text in a word processor can generate semantically rich metadata in real time without leaving the word-processor environment, using no IT resources. And at no cost. (OpenCalais is free to all.) With very little work, the entire process could be made to happen 100% transparently. The author doesn't even have to know anything's happening over the wire. At check-in time, his or her document is already a good semantic citizen, by magic.
+
+This is just one tiny example of what can be done with the technology. Maybe you can come up with others? If so, please keep me in the loop. I'm interested in knowing what you're doing with OpenCalais.
+
+Retweet this.

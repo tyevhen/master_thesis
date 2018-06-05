@@ -1,0 +1,23 @@
+NOTE: This post is obsolete. You want this one instead.
+
+I explained yesterday why it's important, professionally, for me to have a large number of Twitter followers, and I pointed out that having quality followers is important: What good is it to have 10K followers if they're all trying to sell you a MLM scam?
+
+I also promised that today, I'd tell you how I got to the 10K Twitter-follower mark legitimately, without sacrificing quality, which is to say without resorting to the sleazy list-juicing tricks that so many "marketing experts" seem to use on Twitter to gain followers.
+
+Here is what worked for me.
+
+I'm in the analyst business. My company doesn't compete directly with Gartner or Forrester or any of the other big analyst firms, but some of Gartner's (and Forrester's, etc.) customers do have an interest in some of the areas we cover. Thus it stands to reason that if someone (a given Twitter user) is following the Twitterstream of a particular analyst working for XYZ Group, that person might very well be interested in following my stream.
+
+So imagine this scenario. Joe Twitter-user works in IT for a big company. He has decided to follow Analyst Linda Lou's Twitterstream because she covers content technology at XYG Group.
+
+I decide to follow Joe Twitter-user on Twitter -- and Joe notices that someone named @kasthomas has decided to follow him. He says: "Hmm, who is this @kasthomas character? I better go check him out." Joe arrives at my Twitter page and sees from my Bio that I'm a content-technology analyst. He scratches his chin, shrugs, and says "Okay, maybe I'll follow this guy and compare what he has to say with what Linda Lou has to say."
+
+The nice thing about Twitter is that people's follower lists are public. I can get the Twitter usernames of all of, say, Forrester's list of 18K+ followers. I can inspect that list by going directly to http://twitter.com/forrester/followers, or I can harvest the list programmatically by using the Twitter API and a little Javascript.
+
+I have written various scripts (most of which run in the Firebug console; some are Greasemonkey scripts) that do things like harvest a given account's followers, do a diff between my follower list and another list, and batch-follow a given group of IDs. I also have scripts for finding out who I'm following that is not following me back, and purging those people from my Following list. I've blogged before about some of these scripting techniques, which (as I say) often involve only a few lines of code that can be run in the Firefox/Firebug console.
+
+Bottom line, it's not rocket science. You follow people with common interests. They follow you back. Or not.
+
+Now as to how you can meaningfully follow and process incoming tweets from thousands of followees, that's another story. And another blog, for another day.
+
+For more on this, see my 99-cent e-book.

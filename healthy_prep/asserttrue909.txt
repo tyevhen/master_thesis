@@ -1,0 +1,1 @@
+i learned fuzzing today think fault discovery random input underlying assumption unexpected input makes app produce unexpected behavior hosed hackers rely fault injection find vulnerabilities qa use find bugs list open source fuzzers

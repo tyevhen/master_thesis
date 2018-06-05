@@ -1,0 +1,11 @@
+Screenshot from Klout.com showing my influencers being generated.
+
+So I was checking my Moments Interactors on Klout.com the other day, just like every normal person does every day, okay, when a wait-message happened to catch my eye: "Influencers are being generated."
+
+"Wait," I said to myself, confused. "LinkedIn pre-generates my influencers; they show me my influencers every day. This must mean Klout instantiates influencers lazily, just in time."
+
+Which is probably the way it should be, because if there's one thing you don't want in your life, at this point, it's day-old influencers. Damn straight I want lazily generated influencers!
+
+So what if you have to wait a few seconds for your influencers to be generated? That can actually be a handy thing, because (think about it) if Jehovah's Witnesses suddenly arrive at your door, you can just say: "I'd love to talk to you right now, but Klout's almost done generating my influencers."
+
+They'll understand. I know they will.

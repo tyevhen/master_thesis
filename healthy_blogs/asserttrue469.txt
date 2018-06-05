@@ -1,0 +1,52 @@
+The Comorbidity Crisis is not exactly a household word (yet), but I'm betting it will catch on. Multiple morbidity (presence of two or more medical conditions in a given patient at a given time) is increasingly common, and it's creating a kind of secondary health-care crisis of its own.
+
+Approximately 75 million people in the U.S. have two or more chronic conditions, defined as "conditions that last a year or more and require ongoing medical attention and/or limit activities of daily living." [source] Some 65% of health care spending is directed at this 24% of the population. That's for the population as a whole. For the elderly, multiple morbidity is even more problematic. About 80% of Medicare spending goes to patients with four or more chronic conditions, with costs increasing exponentially as the number of chronic conditions increases. [source]
+
+Multimorbidity is steadily getting worse over time, not just because the population is aging but because we're all getting sicker (or at least, showing up at the doctor's office with more complaints).
+A Dutch study found that while the prevalence of chronic diseases doubled between 1985 and 2005, the proportion of patients with four or more chronic diseases increased in this period by approximately 300%.
+The number of Americans receiving drugs for depression went from under 100,000 in 1955 to 13.3 million in 1996 to 27.0 million in 2005, and we now know that 68% of the mentally ill are comorbid for a physical ailment.
+From 1995 to 2010, the age-adjusted prevalence of diabetes increased by over 50% in 42 states and by more than 100% in 18 states. The median prevalence rose from 4.5% to 8.2% in the 1995-2010 time period (almost doubling in 15 years). [source]  Most adults with diabetes have at least one comorbid chronic disease, and as many as 40% have three or more. [source]
+In one study of 1122 diabetes patients, patients used an average of 13 medications to treat or prevent 8 different medical conditions. Typical diabetic comorbidities include obstructive sleep apnia, retinopathy (eye damage), neuropathy (deterioration of small nerves in extremities), nephropathy (kidney damage), cognitive deterioration (diabetic encephalopathy), and a wide variety of cardiovascular comorbidities.
+
+The top and bottom quintiles of diabetes and obesity co-map.
+From http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6145a4.htm
+
+Less obvious is that comorbidity is spreading across various disease types that, in times gone by, wouldn't necessarily have been connected. Who knew, until recently, that gum disease had any connection to cardiovacular disease? Likewise, fifty years ago (when only 13% of the U.S. population was obese) there was no obvious link between being overweight and getting cancer. Today we know that there are statistically significant correlations between overweight (BMI greater than 25) and incidence of endometrial cancer, ovarian cancer, post-menopausal breast cancer, colorectal cancer, kidney cancer, and pancreatic cancer. [source] This is in addition to the well-known links between overweight and hypertension, stroke, coronary artery disease, pulmonary embolism, asthma, gallbladder disease, osteoarthritis, and chronic back pain.
+
+Mental and physical morbidities lead from one to the other in subtle and not-so-subtle ways. Chronic physical ailments with a high "symptom burden" (e.g., chronic pain from arthritis) are often accompanied by depression. Depression, in turn, has been linked to altered immune function (including release of cytokines involved in inflammatory response), which opens the way to physical illness. If you're taking antidepressants, odds are high that you'll gain weight, putting you at greater risk of diabetes and the various cancers mentioned earlier. (One in six patients who take Zyprexa will gain more than 33 pounds in the first two years of use. [source] Moreover, all modern antipsychotics, according to Eli Lilly sales training literature, bring increased risk of diabetes.) It's a world of endless ripple effects.
+
+One untoward outcome of multiple morbidities is polypharmacy, which leads to increased metabolic burden (toxic overload), drug compliance issues (forgetting to take pills), and adverse drug reactions (ADRs). One study found that the risk of ADRs was 2.65-fold higher in patients taking more than four drugs. But many patients take far more than four drugs. "If we apply the relevant CPGs to a 79-year-old woman with osteoporosis, osteoarthritis, type 2 diabetes, hypertension and chronic obstructive pulmonary disease, all of moderate severity," one researcher wrote, "the patient should be taking 12 different medications in 19 daily doses at 5 different times of the day" -- not counting any drugs to be taken "as needed."
+
+The Morbidity Crisis is just getting underway. As DSM-V (due in May) expands the guidelines for mental illness, we're sure to see a continued sharp rise in mental/physical comorbidities; and as the population ages, we'll continue to see more people sick with multiple ailments, taking more drugs for more concurrent illnesses. The burden on the health care system will increase exponentially, and at some point, all of us will be poorer, not just in dollar terms but (very likely) in terms of basic health.
+
+The winners in all this? Big pharma. You may want to buy some drug company stocks now. The really big profits are straight ahead.
+
+
+
+Revenues Profits
+Rank Company Fortune 500 rank $ millions
+$ millions
+1 Johnson & Johnson 33 61,897.0
+12,266.0
+2 Pfizer 40 50,009.0
+8,635.0
+3 Abbott Laboratories 75 30,764.7
+5,745.8
+4 Merck 85 27,428.3
+12,901.3
+5 Eli Lilly 112 21,836.0
+4,328.8
+6 Bristol-Myers Squibb 114 21,634.0
+10,612.0
+7 Amgen 159 14,642.0
+4,605.0
+8 Gilead Sciences 324 7,011.4
+2,635.8
+9 Mylan 412 5,092.8
+232.6
+10 Genzyme 458 4,515.5
+422.3
+11 Allergan 459 4,503.6
+621.3
+12 Biogen Idec 471 4,377.3
+970.1

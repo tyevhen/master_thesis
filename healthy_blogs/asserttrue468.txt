@@ -1,0 +1,45 @@
+A friend and I were talking the other day about mortality, morbidity, and other cheerful topics, and I happened to mention to him Keyfitz's classic 1977 paper on Taeuber's Paradox (for which there is, at the time of this writing, no Wikipedia page, mercifully), which in turn sprang from the somewhat counterintuitive finding that if cancer were eliminated as a cause of death, it would yield an increase in life expectancy of only a little more than 3 years. Maybe not everybody will find this result counterintuitive. It's by no means certain that Conrad Taeuber himself did. But Nathan Keyfitz did, and I did, and my friend Jeff did; and so, for purposes of this discussion, that's a quorum.
+
+Cancer is not one disease, of course. Like "heart disease," it's a multiplicity of unspeakably terrible ailments. Nevertheless we count it as one disease in discussions of mortality in this country, so that we can point at it and say "Cancer is the Number Two cause of death in America," and then presidents can declare war on it, $10 billion a year in taxpayers' money can be set aside for research on it (approximately $500 billion in 2012 dollars spent since Nixon declared war), a $50-billion-a-year commercial industry of toxic therapies (some of which cost $10,000 a month) can be built around it, and meanwhile delusional goofballs like Ray Kurzweil can talk of achievable immortality (with arguments that don't even come close to passing the straight-face test) when there's no cancer cure in sight. (I don't consider transplanting my brain into silicon to be the same as achieving immortality, incidentally.)
+
+It might do the Kurzweils of the world some good to spend a little time pondering the fact that roughly $20,000 in anti-cancer research money has been spent for every single person in the U.S. who has died of cancer in the last 40 years; and yet after 40 years, cancer is still the No. 2 cause of death in America; and after it's gone, after it's cured once and for all, this bane of human existence, this No. 2 Cause of Death, we will have extended human life a grand total of (drum roll, please) 3.3 years (loud cymbal-crash).
+
+One reason eliminating such a significant cause of death has such a miniscule impact on life expectancy is that other causes of death rush in to fill the void. If you're 75 years old, suddenly eliminating cancer as a cause of death still leaves you with all the other killer diseases that make 75-year-olds go tits-up. It's more complicated than that, of course. One thing you have to consider is that eliminating a disease of later life has much less effect on life expectancy than eliminating an early-in-life disease. If you can prevent a fatal disease of childhood, the contribution to average life expectancy is much greater than if you can cure a disease that only befalls 90-year-olds. This is why life expectancies rose so sharply in the first years of the 20th century (and why we're not likely to see such a surge repeated any time soon). Starting in the early 1900s, killer diseases of early childhood (and early adulthood) began to abate one by one.
+
+Bottom line, the calculation of Potential Gain in Life Expectancy (PGILE) is far from straightforward, because you need to know the mortality rate for the illness-in-question for every year of a person's life, and depending how that curve shapes out, you get a final PGILE number that's bigger or smaller than you might have guessed based on the illness's overall ranking in national causes of death.
+
+Back in 1999 (but unfortunately not since then), the Centers for Disease Control, using 1990 Census data (and other data of the time), published information on the potential gain in life expectancy to be expected if various categories of death were eliminated. The numbers are shown in the table below.
+
+CATEGORY OF DEATH POTENTIAL GAIN IN LIFE EXPECTANCY (YEARS) IF ELIMINATED
+CARDIOVASCULAR: All cardiovascular diseases 6.73
+CANCER: Malignant neoplasms, including neoplasms of lymphatic and hematopoietic tissues, AIDS, etc. 3.36
+Diseases of the respiratory system 0.97
+Accidents and "adverse effects" (health-care-induced deaths) 0.92
+Diseases of the digestive system 0.46
+Infectious and parasitic diseases 0.45
+Firearm deaths 0.4
+Certain conditions originating in the perinatal period 0.33
+Suicide 0.3
+Homicide and "legal intervention" (law-enforcement and penal-system-induced deaths) 0.29
+Diabetes mellitus 0.27
+Congenital anomalies 0.2
+Alcohol-induced deaths 0.17
+Drug-induced deaths (medicinal and recreational drug overdoses) 0.1
+Sudden infant death syndrome 0.1
+Nephritis, nephrotic syndrome, and nephrosis 0.1
+Alzheimer’s disease 0.05
+Urinary tract infection 0.04
+Non-metastatic neoplasms, and "neoplasms of uncertain behavior and unspecified nature" (medical mysteries, basically) 0.04
+Parkinson’s disease 0.03
+Senile and presenile organic psychotic conditions 0.03
+All others 1.96
+TOTAL 17.3
+Data taken from U.S. Decennial Life Tables for 1989-91, U.S. Dept. of Health and Human Services, Centers for Disease Control and Prevention, National Center for Health Statistics, Volume 1, Number 4.
+
+What the table says is (for example) if we could eliminate cardiovascular disease as a cause of death in America, average life expectancy would go up by 6.73 years. Again, it seems a trifle odd that if you eliminate the No. 1 cause of death in America, a disease category that kills roughly one in three people, life expectancy goes up only 8.6%. But (again), this is partly a reflection of the fact that cardiovascular ailments are (for the most part) not child-killers; they're diseases of middle age and old age. And if you don't die of heart disease, there are plenty of diseases of old age that will still kill you.
+
+So in my own morbid way, I thought it might be a fun exercise if, utilizing CDC's data, we were to total up the potential-gain-in-life-expectancy numbers for all causes of death, to see where we stand in terms of life expectancy if we eliminate all causes of death. (Yes yes, I know I know, the numbers can't just be considered strictly additive, but this is a Gedankenexperiment, so cut me some Gedanken Laxheit.) It turns out the total possible gain in life expectancy from prevention of all causes of death is a rather modest 17.3 years, putting a theoretical limit on U.S. life expectancy of 78.2 + 17.3 == 95.5 years.
+
+I don't for a moment hold this up as any kind of rigorous result. But I do think there is qualitative support here for the general notion that any quest for immortality that's based on mere elimination of current causes of death is fundamentally misguided. The individual PGILE numbers (as much as their sum) hint strongly at the idea that to extend human life significantly will mean doing far more than merely preventing the preventable causes of death (even if we consider the top 15 causes of death all "preventable" in one way or another, which of course many of them are not).
+
+Exactly what that means, I'll leave as an exercise for the reader -- and will expound on in a separate blog. Assuming, of course, I live that long.

@@ -1,0 +1,35 @@
+Inserting a nasogastric tube, while potentially live saving, is a lot less pleasant than this posed model would have you believe
+
+Since my lost post (What’s the Point of Mental Hospitals? Suicide and Suicide Prevention), there has coincidentally been a court judgment relating very closely to the arguments being put forward in that post, as well as the extensive and at times contentious comments on the post.
+
+On 15th June 2012 the Honourable Mr Justice Peter Jackson issued a judgment in the Court of Protection relating to a 32 year old woman known only as E, who was suffering from Anorexia Nervosa, Emotionally Unstable Personality Disorder, and chronic alcohol dependence. This judgment could have far reaching implications.
+
+E had a Body Mass Index of less than 12. She was in a palliative care setting and was refusing to eat. She had a very long history of anorexia, and had had been subject to many treatment regimes over that time, with little or no success. She was at the point of death. The essential decision the Judge had to make was whether or not further life saving treatment against her will was in her best interests.
+
+It was presented to the Judge that, although past treatment had failed, there was a prospect that long term treatment for her eating disorder and other underlying conditions had some prospect of success. In a remarkably humane and clearly written judgment, the Judge concluded:
+
+“The competing factors are, in my judgment, almost exactly in equilibrium, but having considered them as carefully as I am able, I find that the balance tips slowly but unmistakably in the direction of life-preserving treatment. In the end, the presumption in favour of the preservation of life is not displaced.
+
+ I declare that E lacks capacity to make decisions about life-sustaining treatment, and that it is lawful and in her best interests for her to be fed, forcibly if necessary. I find that the resulting interference with E’s rights under Articles 8 and 3 is proportionate and necessary in order to protect her right to life under Article 2.”
+
+This Judgment relates primarily to the Mental Capacity Act. The outcome of the Judgment appears to mean that E can be detained in a hospital and compelled to receive treatment for her mental disorders for 1-2 years or more. She can be deprived of her liberty on the basis that it is in her best interests. And all this will take place under the aegis of the Mental Capacity Act.
+
+While I have no dispute that the judgment was made in the best interests of E, as an AMHP, I am confused, to say the least, at the implications of this judgment for the Mental Health Act.
+
+Far more eminent authorities than the Masked AMHP have commentated on this judgment (Lucy Series, for one, in her excellent The Small Places blog, has raised some cogent issues, and it has had widespread coverage in the national press), so I do not propose to dissect it paragraph by paragraph. I also do not know enough about the case and the extensive treatments E has had over the years to comment on why those involved in her care took the decisions they did that led to E being an informal patient in a palliative care setting.
+
+I am, nevertheless, greatly concerned about the implications for my, and all AMHP’s, practice under the MHA.
+
+The case of GJ (GJ v The FT and The PCT and the Secretary of State for Health (2009) EWHC 2972 (Fam), 20th November 2009) is one that has informed AMHP practice for some time in that it clarified some aspects of the interface between the Mental Health Act and the Mental Capacity Act. This case concluded essentially that, if the Mental Health Act could be used, then it should be used; the MHA trumped the MCA. So, for example, if a person who lacked capacity needed treatment in a hospital for mental disorder and they were not in agreement with this, then treatment should be given under Sec.3 MHA rather than under the Deprivation of Liberty Safeguards under the MCA.
+
+But the case of E seems to throw a spanner in the works.
+
+I have written about the use of the MHA with people with anorexia nervosa before on my blog (Anorexia, the MentalHealth Act – and Kayleigh). To me, it seems clear that anorexia nervosa is a mental disorder within the meaning of the MHA, and if a patient needs treatment for the physical effects of starvation, then it is entirely appropriate to detain them under Sec.3 MHA for treatment. In addition, despite some of the opinions expressed in response to my last post, I regard it as an AMHP’s duty to save life and prevent suicide.
+
+But, as a consequence of bringing E’s case to the Court of Protection and inviting a judgment relating to deprivation of liberty and best interests, E can now receive extremely invasive treatment against her will for an indefinite, but undoubtedly very long period of time, without being detained under the MHA at all.
+
+Not only did it appear unnecessary to bring this case to the Court of Protection, but it appears to have a consequence of reducing E’s recourse to legal challenge of her detention. Had E been detained under Sec.3 MHA for this treatment, then she could have appealed against the decision, and her case could then have been considered by a Tribunal. Even if she had not appealed against detention under the MHA, there would have been periodic automatic referral whenever her detention was extended.
+
+While treatment might be in E’s best interests, I am not sure if the judgment itself was, in the long term, in the best interests of either E or other mentally disordered patients lacking capacity and requiring inpatient treatment against their will.
+
+Why bother with the Mental Health Act at all, if all such treatment can be given under the Deprivation of Liberty Safeguards?

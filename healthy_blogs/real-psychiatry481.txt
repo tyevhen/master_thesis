@@ -1,0 +1,30 @@
+"The Catholic Church changes its pope more often than the APA publishes a new DSM." (reference 1)
+
+
+I was disappointed to see another shot at the DSM, this time on my Nature Facebook feed.  I suppose with the impending release it is a chance to jump on the publicity bandwagon.  I will jump over numerous errors in the first paragraph (David Kupfer – modern day heretic?!) and get to the main argument.  The author is this case makes it seem like seeing psychopathological traits on a spectrum is somehow earth shaking news and yet another reason to trash a modest diagnostic manual designed by psychiatrists to be used as a part of psychiatric diagnostic process. 
+
+In evaluating this article the first question is the whole notion of continuums.    The idea has been there for a long time and this is nothing new.  Just looking at some DSM-IV major category criteria like major depression, dysthymia, and mania and just counting symptoms using combinatorics you get the following possibilities:
+
+Major depression - 20 C 5 = 15,504
+
+Manic episode - 15 C 3 = 455
+
+Dysthymia - 2 C 10 = 45
+
+Mixed - 20 C 5 + 15 C 3 = 15,959
+
+That means if you are following the DSM classification and looking just at the suggested diagnostic combinations you will be seeing something like 16,004 combinations of mood symptoms just based on a categorical classification.  Superimposed reality can expand that number by several factors right up to the point that you have a patient who cannot be categorically diagnosed. If you add all Axis II conditions with mood sx - there is another large expansion in the number of combinations.  The sheer number of combinations possible should suggest at some point that the discrete categories give way to a frequency distribution.  The only problem of course (and this is lost or ignored by all managed care and political systems) the clinician is treating an individual patient with certain problems and not addressing the entire spectrum of possibilities.  The other reality is that if you put a point anywhere on the spectrum including the Nature blog's  mental retardation-autism-schizophrenia-schizoaffective disorder-bipolar and unipolar disorder spectrum - you essentially have a categorical diagnosis.
+
+In a recent article, Borsboom, et al use a graphing approach to show the relationship between the 522 criteria (simplified to 439 symptoms) of 201 distinct disorders in the DSM-IV.  The authors demonstrate that these symptoms are highly clustered relative to a random graph and go on to suggest that their network model currently account for the variance in genetics, neuroscience, and etiology in the study of mental disorders.  Their figure below is reproduced in accordance with the Creative Commons 3.0 license. (click to enlarge).
+
+
+
+
+
+ For the example given by the author’s example – schizophrenia with obsessive traits, we still need to make that characterization in order to proceed with treatment.   The diagnostic categories “schizophrenia” and “obsessive compulsive disorder” and “obsessive compulsive personality disorder” are still operative.  What does saying that there is a “continuum” or “spectrum disorder” add?   In initial evaluations psychiatrists are still all looking for markers of all of the major diagnostic categories and listing everything that they find.  The treatment plan needs to be a cooperative effort between the psychiatrist and patient to treat the problems that are affecting function and leading to impairment.  The idea that there will be a magical genetic and brain imaging test that will result in a “proper clinical assessment” at this point is a pipe dream rather than a potential product of a diagnostic manual.  The limitations of the spectrum approach are also evident in this article that points out the failed field trials attempting to use a dimensional approach for personality disorders.
+
+George Dawson, MD, DFAPA
+
+1.  Adam D. Mental health: On the spectrum. Nature. 2013 Apr 25;496(7446):416-8. doi: 10.1038/496416a. PubMed PMID: 23619674
+
+2.  Borsboom D, Cramer AO, Schmittmann VD, Epskamp S, Waldorp LJ. The small world of psychopathology. PLoS One. 2011;6(11):e27407. doi: 10.1371/journal.pone.0027407. Epub 2011 Nov 17. PubMed PMID: 22114671

@@ -1,0 +1,9 @@
+I was reading yesterday about Richard P. Gabriel's classic worse-is-better theory, which wraps a lot of related concepts, such as less is more, good enough is good enough, KISS, and YAGNI. The key intuition is that the more you try to perfect something by adding to it, the less perfect it gets -- so don't try to perfect it. Leave it imperfect, it'll be better that way. Worse is better.
+
+Alas, worse-is-better goes against more entrenched philosophies like "correctness before efficiency" and "completeness over simplicity."
+
+On a business level, it goes against the philosophy of give-the-customer-every-damn-feature-he-wants. It says let's leave a large number of ultimately unimportant features out, and concentrate on making the rest do what it's supposed to do.
+
+A prototype or proof-of-concept that slam-dunks the desired functionality, but sucks at the code level because classes aren't cleanly factored, is an example of worse-is-better. Chances are, when the POC is later discarded, then reimplemented "correctly" by a team of GoF acolytes, it will morph into an overfactored, underperforming pig with unexplainable memory leaks and a hard-to-describe odor. (But hey, it'll scale.)
+
+Is worse always better? Of course not. Better is, by and large, better. Just not in the software world, where "better" tends to take on unexpected meanings.

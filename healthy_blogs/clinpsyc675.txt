@@ -1,0 +1,22 @@
+“GSK’s analysis of suicidality left out two attempted suicides and two completed suicides on Paxil, and exaggerated the number of suicidal acts on placebo.”
+
+A quote from Peter Breggin in his latest report on the allegedly hidden side effects of paroxetine (Paxil). Below are summaries of information from his two so-called Special Reports on the hidden side effects of Paxil. Both are published in Ethical Human Psychology and Psychiatry, and both are somewhere on his website (I didn't have time to track them down)
+
+He documents the quote on top in his Special Report Part 1. The mysteriously vanishing suicide attempts and completed suicides are described well enough to be convincing, though without having access to the data (which very few individuals have), I suppose one could maintain skepticism.
+
+Breggin also notes that two attempted suicides and two completed suicides which occurred during the placebo run-in were added inappropriately into the adverse events for placebo database. “Adverse drug effects are never reported from the placebo wash-out phase. This is because all study patients receive a placebo for a short time before some of them receive the drug and some stay on placebo. Thus, while it is tragic that these events occurred on placebo, they did not occur in the phase of the trial that compared placebo to active medication. It is the equivalent of having a football team’s preseason losses count against them in their regular season record and an absolute joke. I recall that David Healy found similar shenanigans in his peeks at company raw data for SSRI’s, though I am failing to remember which medications he examined.
+
+Breggin goes on to note that GSK researchers in US sites listed not a single incident of akathisia, which is rather odd considering how frequently agitation/hostility/motor symptoms are reported as side effects for paroxetine. Instead, the terms agitation, anxiety, and nervousness were sometimes labeled as paroxetine side effect in GSK sponsored research, and Breggin claims these were frequently euphemisms for akathisia.
+
+Breggin notes that in the five suicide cases during which participants were taking Paxil, their adverse drug reactions were listed as:
+1. Severe insomnia
+2. light-headedness, drowsiness, malaise
+3. “restlessness (agitation)”
+4. vertigo
+5. motor akathisia. “mild hyperkinesia”
+
+This, of course, relates to akathisia serving as a potential cause for some suicides, which is discussed eloquently by David Healy in many publications, including here. See my coverage of his latest work here.
+
+Overall Take on Breggin: Yes, I realize that Breggin is an iconoclast. Some of his statements over the years have been overblown. He relies quite a bit on case studies, and one can of course find a case to fit any supposed problem or solution. But, his criticism of the sloppy FDA approval of Prozac in Talking Back to Prozac was right on as has been much (though certainly not all) of his subsequent work.
+
+My View: Again, not a smoking gun, but disturbing nonetheless. Finding that industry is overestimating placebo-related serious side effects and underestimating them for medication is a BIG problem that likely happens more than we imagine. Remember Vioxx and the New England Journal of Medicine, anyone?

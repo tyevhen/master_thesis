@@ -1,0 +1,13 @@
+There's a famous quote by Mark Twain: "When I was a boy of 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years."
+
+That pretty much sums up my attitudes regarding Mozilla-the-dev-platform. (Not Mozilla the browser infrastructure. Mozilla the runtime framework.) I've been programming for about 21 years, and when I first encountered Mozilla-the-dev-framework 7 years ago (via the 2002 book, Creating Applications with Mozilla) I was horribly unimpressed. I thought, who'd want to put up with programming that way? It all seemed so overfactored, so byzantine. XUL, XBL ... WTH??
+
+But a funny thing happened. Like a lot of people who learned to program in the 1980s, I went through a learning curve on things like separating presentation from application logic, the usefulness of metadata, the importance of security-sandboxing, and an ability to program in multiple languages (including scripting languages) in a machine and OS-independent manner; and the advantages of a "packaged" app (artifacts and logic in separate pieces rolled up inside a deployable bundle), to say nothing of a plug-in architecture with well-defined mechanisms for installing and uninstalling executables.
+
+When Eclipse first appeared, Eclipse sounded (to me, at the time) like everything Mozilla-the-application-dev-platform should have been. I totally drank the Eclipse Kool-Aid. And I was totally wrong. Eclipse was and is a terrible platform for creating non-IDE thick client apps: heavy, slow, awkwardly designed APIs, high learning curve, tied to a language, tied to a particular presentation technology, no HTML rendering engine, etc. etc. No amount of lip gloss will cover its flaws.
+
+I haven't quite come full circle yet on Mozilla (I'm 90% there), but after taking another look at it (I stumbled upon this slide show by Brian King, which got me interested again), I am starting to think Mozilla is the most attractive option for thick-client development -- by far. It won't serve every need and shouldn't be worn as a straightjacket if more suitable attire is available, but for the 80% use-case I think it deserves more respect than it gets.
+
+Long story short: If I were doing RIA development and needed a way to create relatively secure web-savvy desktop apps without having to learn a bunch of new legacy technologies with names like AIR, JavaFX, or Silverlight, the Mozilla framework is where I'd start. It's mature, it's built on standard web technologies, and it's ready to go.
+
+Oh, and it also has no hype machine propping it up. Maybe that's what's holding it back?

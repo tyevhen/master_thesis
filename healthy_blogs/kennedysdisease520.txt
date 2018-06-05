@@ -1,0 +1,12 @@
+I read this short article in the “Big Think” and found it interesting. If this is successful in humans, it would be a major step forward in treating some cancers.
+
+Every time I read about chemotherapy, I remember an original Star Trek episode where Bones is talking to Spock. He explains a barbaric torture that 20th century doctors used to treat cancer called chemotherapy.
+ 
+Scientists Get Cancer Cells to Commit Suicide
+by Orion Jones
+
+What's the Latest Development?
+Scientists have found a special molecule that activates the body's own tumor killing system, causing the death of cancerous tissue in mice while preserving the integrity of healthy cells. "The molecule, TIC10, activates the gene for a protein called TRAIL (tumor-necrosis-factor-related apoptosis-inducing ligand), which has long been a target for cancer researchers looking for drugs that would avoid the debilitating effects of conventional therapies." Experiments showed that TIC10 had potent effects against a variety of tumors, including breast, lymphatic, colon and lung cancer.
+
+What's the Big Idea?
+The TIC10 molecule has been shown to be especially effective at triggering cell suicide in gliobastoma, a kind of brain tumor that is notoriously difficult to treat. By activating the TRAIL gene in cancerous and healthy cells, cell suicide is induced in cancer cells immediately next to healthy ones. Wafik El-Deiry, an oncologist at Pennsylvania State University in Hershey and lead author of the study, said "TRAIL is a part of our immune system: all of us with functional immune systems use this molecule to keep tumors from forming or spreading, so boosting this will not be as toxic as chemotherapy."

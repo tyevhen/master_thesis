@@ -1,0 +1,20 @@
+If you read the marketing blogs, they all say (and I agree) that your single best marketing tool, if you had to choose just one tool out of everything available to you, is your e-mail list.
+
+You are building an e-mail list, right? To promote your book or your service (whatever it is)? If not, stop what you're doing right now and go create a free MailChimp account. Use their free tool to generate a newsletter sign-up form (like this one) and put it on your web site. Start adding names now. Don't wait until you're ready to release your book (or service). That would be, you know, kind of dumb. The time to get started is yesterday.
+
+Okay, so, but: You have a mailing list. How do you do a mailing to it? You have several choices:
+Use MailChimp to do a mailing to your MailChimp-hosted list: This is the usual best choice for most use-cases. The downside: You can mail only 2000 e-mails per month without upgrading. That's fine for most Small Time Operators, though. 
+Hire an e-mail blast service: The 10 best are reviewed here.
+Automate a mail blast using Google Docs: The tutorial for how to send e-mails from a spreadsheet is here. It's not a bad solution (and requires relatively little technical expertise). However, you're limited to 500 e-mail recipients per day, unless you upgrade through Google Apps to a commercial account, and then it's 2,000 a day.
+Set up an automated SES solution on Amazon's cloud: This is for über-geeks only, and you should know that while you can get a year's free services under a trial offer (for which you still need to provide a credit card, even though you won't be charged until you exceed a usage limit), you nevertheless need to prove that you own a web domain before you can go into production. (You need to associate a DKIM signature with your domain.) And then there are daily and monthly limits. Your sandbox limit is 200 per day (at a max rate of one e-mail per second). To get it raised, you have to get your kneepads on and ask Amazon. 
+Send e-mails directly from an OpenOffice spreadsheet: Tomorrow, I'll provide code for this, and I'll try to explain it in a way non-geeks can understand. (Don't miss tomorrow's post. This is a fun little exercise, I promise.)
+Create your own e-mailing web app using Mandrill: This is actually fairly cool, if you're geek enough to handle a little JSON and Ajax. Mandrill exposes a complete e-mail analytics API along with an interface to SMTP (and integrations with MailChimp) so that you can create multi-step, transactional e-mail workflows of your own, and track the results. (And you can get started for free.) The downside? No tutorial (that I could find, anyway), no "Hello World" app, no documentation other than API doc. You have to be geek enough to read the API doc and get started on your own without any hand-holding. Still, the service is RESTful and any web developer who's comfortable with Ajax concepts can be up and running with some amazingly powerful stuff in an afternoon.
+If you're a programmer, you can, of course, create your own standalone program to do e-mail blasts, but the question then becomes: Which SMTP server should you use? Most mail servers are severely throttled and locked down against anonymous posting to prevent spammers from taking over the world. Still, there are plenty of SMTP providers, many of them free. One you might want to look into is Easy-SMTP.
+
+Tomorrow, I'll have more on this subject. Specifically, I want to show how easy it is to automate the sending of e-mails directly from an OpenOffice/LibreOffice spreadsheet using a macro. It's a cool bit of hackery, if I do say so myself. (And I do.)
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? Also please visit HackYourDepression.com and share the link with someone!
+
+☙ ❧
+
+I want to thank the following great tweeps (plus  @TheCarlWeathers and @LimelightFlash) for retweeting me yesterday. May you all live long and prosper. (Please follow these guys. They retweet!)

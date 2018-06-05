@@ -1,0 +1,19 @@
+I participate in a committee that establishes policies for our state's health information exchange (HIE). The HIE is the electronic infrastructure that permits hospitals, physician groups, labs, imaging companies, pharmacies, and others to share information about patients. The idea behind the sharing is to make it easier for your primary care doctor to share your health data (ideally, with your permission) with your cardiologist and your dermatologist. The potential benefits to this sharing include:
+quicker exchange of information than with faxing or mailing
+less likely for papers to get misfiled or lost (eg, think Hurricane Katrina)
+better tracking of who accessed what information
+less duplication of tests ("I know you had a CAT scan at the other hospital last week but I can't wait for the results to be sent to me so I'm getting another one.")
+improved coordination of care
+fewer medical errors due to more information available
+decreased liability due to sharing of important information with other providers
+The potential risks include:
+decreased privacy due to potential for data breach, identity theft
+loss of data due to technical problems (viruses, hardware failure, etc)
+failure to secure data due to inadequate authentication, authorization, encryption, etc
+more errors in health record due to automated data collection processes
+increased liability due to sharing of sensitive information with other providers
+I wanted to talk briefly about this notion of "sensitive health information." Our committee has spent many hours discussing what this might mean and how to define it. One view is that all health information should be treated as "sensitive," while another is that only certain categories of health information, such as mental illness, substance abuse, HIV status, domestic violence, abortion history, and genetic data, should be treated with additional safeguards against inadvertent access or disclosure. This latter viewpoint promotes the stigma about mental illness that we have been trying to erase.  It wasn't so long ago that epilepsy and cancer might have been on this list. My viewpoint is that patients should be the one to decide which elements of their health information should be treated with extra precautions and which should be considered routine.
+
+This was ultimately agreed upon by the other committee members, but it still didn't help us much because the technology for patients to review their health information and mark which bits should be tagged as sensitive is not yet built into nearly any of the electronic health record products or the HIE systems. There is no standard for doing so nor is there even any agreement about how or whether it should be done. Groups like healthdatarights.org and speakflower.org have promoted these ideals, but we are not much closer to achieving them.
+
+Anyway, I discussed this topic in my Shrink Rap News blog post this week over on Clinical Psychiatry News. Read more about it over there. If you are a psychiatrist, log in or register on CPN and join the discussion (my mistake -- other professionals and also consumers are allowed to register over there).

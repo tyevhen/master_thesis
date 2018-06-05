@@ -1,0 +1,57 @@
+ 
+The best way to start out this post is by taking a look at the above graphic.  This is the graphic of a 60 year old man with diagnosed obstructive sleep apnea who is using a continuous positive airway pressure (CPAP) machine.  CPAP creates an airsplint in the airway to prevent airway collapse and snoring but more importantly hypoxemia due to obstruction.  The bottom graph is downloaded from his CPAP machine and it shows the number of apneic and hypopneic episodes. What is not shown on the graph is that around October 12 this patient got an upper respiratory infection.  As the nasal congestion worsened he changed his CPAP mask from nasal CPAP  to a full face mask.  He had a number of air leaks from this mask and as he found out later - he experienced nightly air leaks.  Some of the air leakage was enough to wake up his wife who was sleeping in the same bed.  As the hypopneic episodes worsened - he started to wake up with palpitations in the morning.   The orange timeline shows that this patient developed atrial fibrillation for about 2 minutes on 10/28/2016 and 90 minutes on 11/15/2016.  At that point he went in to see his pulmonologist the the AHI index was downloaded.
+
+Sleep is a central part of any psychiatric evaluation.  Many of my colleagues and residents have gone on to do sleep medicine fellowships and I think it is a logical career path for any psychiatrist.  General psychiatrists need to know quite a lot about sleep and how to assess and treat sleep problems.  During my assessments, obstructive sleep apnea (OSA) is a very common problem and it is a standard series of questions in my evaluation.  I am consistently impressed with number of people who have already been diagnosed with OSA by polysomnography and prescribed continuous positive airway pressure (CPAP) devices who either do not use them or who just gave up trying to use them.  There are a number of misconceptions about OSA and CPAP that I thought I might address in this post.
+
+1.  OSA is a benign condition:
+
+The best way to start this discussion is to look at a complex graphic of the association of OSA and CPAP with atrial fibrillation - a known comorbidity of OSA.  In this case we have a 60 year old man with a known diagnosis of OSA.  He has been on CPAP for about 8 years.  Before the OSA diagnosis he had an episode of paroxysmal atrial fibrillation while exercising.  After starting the CPAP he was asymptomatic for 5 years before getting an upper respiratory infection and changing the mask he was using with his CPAP machine.  The first papers on OSA and cardiovascular risk began appearing in the 1990s.  Since then further research has demonstrated cardiovascular, endocrine, and cognitive comorbidity.   Recent research suggests that severe but not mild to moderate OSA increases risk for all cause mortality (1).  In the case of the above patient 40-50% of  patients with atrial fibrillation have obstructive sleep apnea (2).  In addition  to clear disease states OSA puts people at increased risk for motor vehicle accidents and occupational hazards from both cognitive symptoms and excessive daytime somnolence.
+
+2.  CPAP is an elective intervention:
+
+I am always shocked by the number of men who view a sleep study and the use of CPAP as elective procedures.  I doubt that a lack of adequate explanation of the problem and its implications is the issue, especially once the diagnosis is made in a sleep lab.  During my assessments I am often discussing chronic fatigue, insomnia, hypersomnolence, cognitive problems, depression, attentional problems and anxiety as prominent features of the disorder.  The wish on the part of the patient is that I can give them a pill that will solve some of all of these problems.  There was a time in the early days of OSA (about 1985) when a specific tricyclic antidepressant was thought to treat be useful in treating the disorder but that was disproven early on.  
+
+They have often been treated with sedative hypnotic or anxiolytic drugs for this same purpose.  In some cases they are also taking opioid medications or muscle relaxants.  Opioids have demonstrated dose-dependent respiratory ataxia (3).  All of these medications decrease respiratory drive and either prolong apneic episodes or directly interfere with other respiratory mechanisms.  Alcohol use is another complicating factor either by itself or in combination with other medications that adversely affect OSA or normal respiration.
+
+3.  If I lost some weight I probably don't need to use CPAP any more:
+
+Although high body weight is a general feature of modern American society and some medications that are prescribed for psychiatric disorders can lead to significant weight gain and metabolic effects - many patients undergo profound weight changes in both directions.  It is common to see patients with OSA who have had a significant weight loss and decided to stop using CPAP on that basis.  They have not reconsulted with Sleep Medicine or had repeat polysomnography.  They are placing too much value on the correlation between BMI and sleep apnea.  Losing weight can result in resolution of OSA, but it is also possible to have OSA without obesity- suggesting that at a minimum Sleep Medicine should be reconsulted on the issue of discontinuing CPAP.  The complex relationship between obesity and OSA was highlighted in a recent review (4).  The authors point out that obesity, weight loss and sustained weight loss are difficult problems.  Of the three controlled trials of a weight loss intervention there were improvements in AHI with weight loss and worsening of AHI with weight regained.  They also looked at more extreme weight loss with with bariatric surgery and concluded that a drop of 1 BMI unit was associated with a 2.3 unit improvement in AHI,  The authors compile a table of earlier studies that look at weight losses of 22% to 65% with accompanying improvement in AHI of up to 88%, but unfortunately in only 3 of those studies was AHI measured at < 5 or about 4% of subjects.  In 18/19 studies the subjects had a post-op BMI of > 30.  They conclude that the majority of bariatric surgery candidates remain overweight after the surgery and the many will still have moderate OSA and the need for CPAP.  Their overall thesis is that OSA is a complex disorder and therefore no single intervention (like weight loss alone) can be used.      
+
+4.  If I am not snoring as much - I don't need to use CPAP any more:  
+
+Snoring is caused by vibration of the same upper airway tissues that are involved in the obstruction.  Snoring can be caused by number of acute and chronic conditions as well as being an artifact of normal genetically determined anatomy.  More men and women snore than have sleep apnea.  In many people snoring is positional and occurs much more often in the supine than side sleeping position.  Snoring also depends on detection.  Snoring and apneic spells directly observed by a sleep partner are more diagnostic than self report of waking up gasping or snoring - although those reports should also be investigated.  Snoring - like body weight is an approximate correlate of OSA and the decision to stop CPAP should be made with the assistance of a Sleep Medicine physician.  Modern CPAP equipment can provide a significant amount of in home data to assist with that decision.  
+
+These are a few considerations about the diagnosis of OSA and  prescription of CPAP.  Any person seeing me is strongly encouraged to do whatever is necessary to use their CPAP machine and reduce risk factors including any unnecessary medication that may affect respiration.  I may be reluctant to consider some therapies that while not directly impacting on respiration may have some effect due to synergies with other compounds (like antidepressant and trazodone combinations for sleep).  You can also count on hearing about comorbid conditions (like the atrial fibrillation in this case) that are clearly affected by OSA.
+
+So if you have that diagnosis and had a CPAP machine - please use it.  The modern autotitrating machines are much easier to use and allow for direct patient access to the data.  It is now possible to download a smartphone app and get your relevant sleep data directly from the SD card on your machine in the morning.  That gives you immediate detailed information on how you slept, what your AHI was, how the mask performed and what corrective action might be required.  In some cases it allows your Sleep Medicine physician to adjust your machine setting remotely to optimize therapy and reduce the need for office visits for that purpose.
+
+Sleep better and live better.
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1:  Pan L, Xie X, Liu D, Ren D, Guo Y. Obstructive sleep apnoea and risks of all-cause mortality: preliminary evidence from prospective cohort studies. Sleep Breath. 2016 Mar;20(1):345-53. doi: 10.1007/s11325-015-1295-7. Review. PubMed PMID: 26779904.
+
+2: Hohl M, Linz B, Böhm M, Linz D. Obstructive sleep apnea and atrial arrhythmogenesis. Curr Cardiol Rev. 2014 Nov;10(4):362-8. Review. PubMed PMID: 25004989; PubMed Central PMCID: PMC4101201.
+
+3: Walker JM, Farney RJ, Rhondeau SM, et al.  Chronic Opioid Use is a Risk Factor for the Development of Central Sleep Apnea and Ataxic Breathing. Journal of Clinical Sleep Medicine : JCSM : official publication of the American Academy of Sleep Medicine. 2007;3(5):455-461.
+
+4: Romero-Corral A, Caples SM, Lopez-Jimenez F, Somers VK. Interactions between obesity and obstructive sleep apnea: implications for treatment. Chest. 2010 Mar;137(3):711-9. doi: 10.1378/chest.09-0360. Review. PubMed PMID: 20202954; PubMed Central PMCID: PMC3021364.
+
+5:  Phillips B.  Kryger MH.  Management of obstructive sleep apnea hypopnea syndrome.  In:  Kryger MH, Roth T, Dement W, eds.  Principle and Practice of Sleep Medicine, Fifth Edition.  St. Louis, Missouri: Elsevier Saunders, 2011: 1278-1293.   
+
+
+Supplementary:
+
+Some sleep medicine definitions used in the above post.  For more technical definitions see reference 5 above:
+
+Apnea:  Cessation of airflow for at least 10 seconds.  The technical definition depends on the sensors used for this measurement such as a drop in thermocouple excursion by 90% for 10 seconds.  The thermocouple in this case would be measuring the temperature of exhaled air.  Obstructive apneas are present when there is inspiratory effort during the apnea and central apneas are present when there is none.  There can also be mixed apneas. 
+
+Hypopnea:  Shallow breathing or a low respiratory rate for 10 seconds.  The technical definition again depends on the equipment usually defined as a drop in nasal pressure excursion and a percentage of hemoglobin saturation.
+
+AHI:  Apnea Hypopnea Index - an index of severity of OSA defined as the number of apneic and hypopneic episodes per hour.  The general goal of therapy is to have an AHI of less than 5.
+
+BMI:  Body mass index or weight in kilograms divided by the square of height in meters.  Several sites like the CDC offer BMI calculators and brief instructions on how to interpret these numbers.  Higher BMI and neck circumference increases the risk of OSA. 

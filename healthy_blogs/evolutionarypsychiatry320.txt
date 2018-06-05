@@ -1,0 +1,25 @@
+Nitty gritty time. I've been touting the benefits of omega 3 fatty acids from the beginning of the blog, but I haven't really gone into exactly what those marine-animal derived PUFAs are doing up there, and why they are so important. Fortunately, one of the papers I'm reading for the Alzheimer's series has an excellent discussion. (1)
+
+If you recall, the brain has a heck of a lot of cell membranes, and cell membranes are made out of fat. The fat content of the brain is a little different than the rest of the body - the only PUFAs allowed into the healthy brain in any appreciable amount are the omega 3 DHA and the omega 6 derived (or obtained directly from animal foods) arachidonic acid (AA). In addition, while AA is found in equal amounts all over the brain, DHA is found predominately in the gray matter. That's where our thinking takes place.
+
+Let me explain a bit about the actual structure of these molecules, and that may clarify some things. It will be helpful for you to consume some wild-caught salmon before reading this as the DHA helps the transcription factors of your hippocampus in the process of making new memories.
+
+Saturated fats and cholesterol make rather boring cell membranes all on their own. Their structure is pretty straight, and they line up rather like this:
+
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+PUFAs have unsaturated bonds, which make them rather kinky. Add some PUFAs to a cell membrane and you suddenly get this:
+
+iiiiiiLiiiiiiiiiLiiiiiiiiiiiiiLiLiiiiiiiLiiiiiiiiiLiiiiiiiiiiL
+
+The unsaturated bonds break up the structure a bit, and molecular biologists call this "increasing membrane fluidity." Important membrane proteins, such as ion channels, depend on the presence of PUFAs to be incorporated correctly into the membrane. If all is well, the PUFAs serve as part of "lipid rafts" that are required for transport of protein and signals through the membranes, the formation of synapses, and maintaining the integrity of the neuronal membranes. Lipid rafts. Whee!!
+
+We can make a bit of DHA from ALA (an omega 3 found in plants, such as flax), but the process is horribly inefficient. Otherwise, DHA is made by photosynthetic algae eaten by krill or fish or oysters, etc. - which we eventually consume. We cannot make DHA ourselves in useful amounts. The amount and ratios of PUFAs in our brain are dependent upon what we consume in our diet.
+
+AA is important in the brain - it initiates and maintains the inflammatory cascade, which is a critical function. But AA is a different kinky shape than DHA and the overall membrane functioning is quite different if we have a ton of AA compared to DHA. The paper notes here that "it is intriguing that the dramatic increase in the prevalence of [Alzheimer's disease] in the last century not only parallels the increase in average lifespan, but also an increase from 2 to more than 20 of the ratio of omega 6 to omega 3 PUFAs in the average Western diet."
+
+Our brains are designed to run on fish oil. We really shouldn't be operating the all-important noggin too far outside the design specs, or nasty things tend to happen.
+
+In the next couple of posts we will explore a bit more about DHA vs AA in the pathology of Alzheimer's, and also figure out why the randomized controlled trials of omega 3 fatty acids in dementia have, so far, been a bust.
+
+(PS - Dr. BG had a couple of recent blog posts on the topic of our fish-eating ancestors - similar points to mine though made with considerably more flair!) 

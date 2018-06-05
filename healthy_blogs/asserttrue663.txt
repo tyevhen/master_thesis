@@ -1,0 +1,136 @@
+Lena (a standard test image in the graphics programming world) is transformed by the Perlin gain function with b = 0.5, b = 0.4, and b = 0.65, respectively (left to right).
+
+Coaxing more contrast out of an image is a kind of exercise in weak-signal detection. You're trying to make information more obvious in the presence of noise. In practice, it comes down to making light tones lighter and dark ones darker. But you have to do it carefully, in such a way as not to force too many (preferably no) dark tones into total blackness nor too many light tones into total whiteness.
+
+A very useful approach is to adapt Ken Perlin's gain function to the remapping of pixel values. In JavaScript, the function looks like this:
+
+var LOG_POINTFIVE = -0.6931471805599453;
+
+function gain( a, b) {
+
+var p = Math.log(1. - b) / LOG_POINTFIVE;
+
+  if (a < .001)
+    return 0.;
+  if (a > .999)
+    return 1.;
+  if (a < 0.5)
+    return Math.pow(2 * a, p) / 2;
+  return 1. - Math.pow(2 * (1. - a), p) / 2;
+}
+The Perlin gain function maps the unit interval (i.e., real numbers from 0 to 1, inclusive) onto itself in such a way that a control value of 0.5 maps [0..1] to [0..1] unchanged, whereas a control-parameter value of (say) 0.25 maps the number 0.5 to itself but maps all other values in the unit interval to new values, as shown in the figures below. (In each graph, the x- and y-axes go from zero to 1.0.)
+
+In the function shown above, the control parameter (the formal parameter that throttles the function) is b. The input value that will be mapped to a different output is a. If b is 0.5, then the output of the function will always be a no matter what value of a you pass in. But if b is 0.25, and a is (say) .4, the function will return 0.456, whereas if b is 0.75 and a is 0.4, the output will be 0.32. In one case, a got bigger, and in the other case it got smaller. The function has the effect of making bigger values bigger and smaller values smaller when b > 0.5. It has the effect of making bigger values smaller and smaller values bigger when b < 0.5.
+
+
+Gain = 0.25
+
+
+Gain = 0.5
+
+
+Gain = 0.75
+
+This turns out to be a great function for changing the contrast of an image. All you have to do is re-map pixel values onto the [0..255] interval using the function, with a value for b of something greater than 0.5 if you want the image to have more contrast, or less than 0.5 if you want the image to have less contrast.
+
+It turns out Java.awt.image has a built-in class called LookupOp that implements a lookup operation from a source color table to an output color, which makes it easy to implement extremely high performance contrast adjustment via the gain function. The red, green, and blue values in an RGB image span the interval zero to 255. All we need to do is create a byte array of length 256, containing those values, then modify the table by passing each value through the gain function. The altered table can be used to create a LookupOp instance, and then you just need to call filter() on the instance, passing it an input image and an output (holder) image.
+
+I do all this in JavaScript in the code listing below. To run this script against an image of your choice, you simply need the (open source) ImageMunger app that I wrote about a couple days ago.
+
+/* Contrast.js
+Kas Thomas
+24 Jan 2010
+
+Public domain.
+
+http://asserttrue.blogspot.com/
+*/
+
+
+// Use values >.5 but <>
+// < .5 && > 0 for less contrast.
+CONTRAST = .75;  // Adjust to taste!
+
+awtImage = java.awt.image;
+
+/* Return a java.awt.image.ByteLookupTable */
+function getLUT( amt ) {
+
+var LOG_POINTFIVE = -0.6931471805599453;
+
+function gain( a, b) {
+
+      var p = Math.log(1. - b) / LOG_POINTFIVE;
+
+      if (a < .001)
+      return 0.;
+      if (a > .999)
+      return 1.;
+      if (a < 0.5)
+      return Math.pow(2 * a, p) / 2;
+
+      return 1. - Math.pow(2 * (1. - a), p) / 2;
+}
+
+// Perlin's gain function
+// per K. Perlin, "An Image Synthesizer,"
+// Computer Graphics, v19, n3, p183-190 (1985)
+
+/* We are going to construct a table of values,
+0..255, wherein the values vary nonlinearly
+according to the formula in gain(), as
+throttled by the parameter 'amt' */
+
+var tableSize = 256;
+var javaArray = java.lang.reflect.Array;
+var bytes =
+ javaArray.newInstance( java.lang.Byte.TYPE,
+     tableSize );
+var lut = new awtImage.ByteLookupTable(0, bytes);
+
+for (var i = 0,gainValue = 0; i < tableSize; i++) {
+      gainValue = gain(i / 255., amt);
+      var byteValue =  255 & (255. * gainValue);
+      if (byteValue >= 128)
+        byteValue = -(255 - byteValue);
+      bytes[i] = byteValue;
+}
+
+return lut;
+}
+
+
+// Create the lookup table
+lut = getLUT( CONTRAST );
+
+// Create the java.awt.image.LookupOp
+lop = new awtImage.LookupOp( lut, null );
+
+// Clone the source image
+src = theImage;
+clone = new awtImage.BufferedImage( src.getWidth(),
+src.getHeight(), src.getType() );
+g2d = clone.getGraphics();
+g2d.drawImage( src, 0,0,null );
+
+// apply the contrast
+lop.filter( clone, src );
+
+// refresh the screen
+//Panel.updatePanel();
+thePanel.repaint();
+There are a couple of things to note. First, you can't assume that an array created in JavaScript can be used as an array in a Java context, because Java is type-fussy and JavaScript isn't, so instead, to create a Java array in JavaScript you have to do:
+
+var bytes =
+javaArray.newInstance( java.lang.Byte.TYPE,
+     tableSize );
+This creates a Java byte array and stores a reference to it in JavaScript. But now you have another problem, which is that you can't just map values from [0..255] onto a 256-length Java byte array, because in Java, the byte type cannot accommodate values greater than 127. In other words, byte is a signed 8-bit type, and you'll get an error if you try to store a value of 128 in a byte variable. So to initialize the 256-length byte array with values from zero to 0xFF, and still keep the Java compiler happy, we have to resort to a bit of twos-complement legerdemain:
+
+ if (byteValue >= 128)
+byteValue = -(255 - byteValue);
+To test the contrast.js script, I ran it against the Lena image with values for b -- in the gain function -- of 0.5 (which leaves the image unchanged), 0.4 (which reduces contrast), and 0.65 (which increases contrast). You can see the results at the top of this post. The code executes very quickly because it's all a table lookup done in Java. The JavaScript part simply initializes a (very small) table.
+
+Projects for the future:
+Add a UI to the program to allow contrast to be adjusted in real time with a slider.
+When contrast is increased in a color image, hot parts of the image appear to get hotter and cold parts appear to get colder. Write a modification of the contrast code that compensates for apparent temperature changes.
+In the code as currently written, inaccuracies due to rounding errors are ignored. Rewrite the routine to transform the image to a 16-bit color space, and use a 32K color lookup table rather than a 256-byte table, for the contrast adjustment; then transform the image back to its original color space afterwards.

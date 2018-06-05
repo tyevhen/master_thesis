@@ -1,0 +1,53 @@
+It's really hard not to admire Thomas Piketty's approach to writing Capital in the Twenty-First Century (the economics bestseller). "All of my conclusions," he says straight-out, "are by nature tenuous and deserve to be questioned and debated. It is not the purpose of social science research to produce mathematical certainties that can substitute for open, democratic debate in which all shades of opinion are represented."
+
+Thomas Piketty
+In case you don't want to wade through 685 pages of sometimes-dense economic wonkery, let me quickly try to summarize a few of Piketty's points for you (even though really, honestly, you do need to read this book; it's deservedly a bestseller, and it couldn't be more timely).
+
+What's the book about? In a nutshell: wealth inequality. Piketty spends about 75% of the book pulling together 200 years' worth of economic data on wealth, income, and taxes for France, Great Britain, the U.S., and the few other countries for which data can be found on that time scale. Just assembling the data is a major contribution. But then Piketty spends about 25% of the book interpreting and analyzing the data, in an appropriately cautious (but nevertheless hugely insightful) way that will have you thinking deeply about some of the inequality issues that political candidates discuss so glibly (or avoid discussing altogether).
+
+One of Piketty's key results is the finding that the average rate of return on capital (which, over the last two centuries, has been in the 4%-to-5%-per-year range) is consistently higher than the average rate of economic growth, and this fact makes it possible for the idle rich to be idle (yet make more money, idle, than those who work). It means "the [successful] entrepreneur inevitably tends to become a rentier." Wealth accumulates more rapidly than wages or output. Thus we see, for example, that Bill Gates (who was worth "only" $5 billion or so when he left Microsoft) is now worth $79 billion, having made far more money after leaving Microsoft than during his tenure there. Wealth begets wealth, without limit, and without a requirement for the wealthy to be creative or productive; they need only collect rents. (Bill Gates can make $1 billion a year simply owning U.S. Treasury bonds.)
+
+Piketty notes: "There is ample reason to believe that the [annual economic] growth rate will not exceed 1.0% to 1.5% in the long run, no matter what economic policies are adopted." The current myth that U.S. and European economic growth will march ever-upward at 2% or 2.5% per year is a dangerously inaccurate conceit. Piketty's historical data show quite clearly that periods of growth at rates above 1.5% have been flukes (easily explained by historical exigencies), and that even China (and other high-growth outliers) will eventually fall in line with 1% growth, if for no other reason than plummeting birth rates. Economic growth depends, in part, on population growth.
+
+Share of top 10% earners in total income (U.S.), showing a drop in
+top earners' incomes during World War II, but a steady rise since the mid to late 1970s.
+
+Piketty presents copious data showing that income and wealth inequality are very real phenomena (and getting worse over time), with much of the income increase, in the U.S., coming from executive compensation, creating a "super-salaried" class of CEOs, CFOs, CTOs, etc., who now earn orders of magnitude more than they did 30 years ago.
+
+But we learn many other, less obvious facts from Piketty:
+For the U.S. and many other western economies, public assets are almost exactly balanced out by public debts; hence, the public sector ("government") typically has net assets close to zero.
+In the U.S., private-sector wealth is about four times yearly GDP (and public debt is about one year's GDP). In Europe, private wealth is equal to around six to seven years of GDP.
+In the same western countries whose governments have only rarely been in greater debt than they are now, private citizens have never been richer. The apposition of great wealth and great debt is ironic.
+Public debt manifests as government bonds, the holders of which collect rents (interest; "yields") from taxpayers. Hence, bonds are a wealth transfer vehicle, via which capital is transferred from less-successful wage earners to more-successful rentiers. A nation's debt is held by the rich and paid by the poor.
+Social mobility "has been and remains lower in the United States than in Europe" (p. 484).
+"The distribution of capital ownership (and of income from capital) is always more concentrated than the distribution of income from labor" (p. 244). The top 10% of earners generally take 25% to 30% of total labor income, but the top 10% of earners always own more than 50% of all wealth.
+Historically, inflation has been extremely useful as a way for nations to overcome their (public) debts. In conditions of zero inflation, it becomes harder for countries to pay down debt.
+In 2010, college endowments in the U.S. totalled over $400 billion. The largest endowments (Harvard, Yale, Princeton) grew more than 10% a year, while the smaller endowments grew at barely more than 6% a year. (These growth rates are mostly due to investments, not donations.)
+Piketty lays much of the blame for the rapid runup in wealth (and income) inequality over the last 40 years to the trend, in the U.S. and Europe, toward reduction of taxes (corporate, estate, income) so as to favor business; misplaced faith in supply-side economics. Accordingly, he sees the fix as being a return to more progressive taxes on incomes (and wealth). For example, in terms of a wealth tax, Piketty advocates a levy of 0.1% to 0.5% on fortunes less than one million euros; 1% on fortunes between one and five million euros; 2% tax on fortunes of five to ten million euros; and 5% or more for larger fortunes. "This would contain the unlimited growth of global inequality of wealth," he says, "which is currently increasing at a rate that cannot be sustained in the long run and that ought to worry even the most fervent champions of the self-regulated market."
+
+Piketty of course favors a progressive income tax, although (as mentioned) income disparities are never as great as wealth disparities; hence, it's important to tax both wealth and income. He mentions the fact that from 1932 to 1980, the top federal income tax rate in the U.S. averaged 81% (a fact that seems utterly unbelievable today). When Reagan entered the White House, tax rates were sky-high yet the economy was robust. Today, tax rates are low but the U.S. economy is a ghostly shadow of what it was in 1980.
+
+Piketty puts current debate over "frighteningly large" national debt levels in useful historical context, pointing out that at various times throughout history, the national debt of (for example) England has been twice as bad as it is now (in terms of the ratio of debt to national income). He also notes that a one-time wealth tax of 15% would wipe out nearly all outstanding public debt overnight. The fact that we whine so loudly about national debt while the richest citizens (and corporations) have the capacity to wipe out such debt instantly, if they wanted to, is, to say the least, sobering.
+
+Piketty has little to say about the impact of technology on modern economies; the crapification of jobs (the rise of part-time work and the "gig economy"); changes wrought by the internet (including disintermediation of service jobs); or the surprisingly capital-intensive nature of things like Spotify, Facebook, or Uber, which suck up truly unfathomable quantities of investment capital without hiring very many employees (and despite having no need of manufacturing equipment). Piketty also disappoints when it comes to any discussion of quantitative easing or other monetarist trickery du jour. I would like to have seen a broad-based historical discussion of Keynes's notion of technological unemployment.
+
+But given the magnitude of what Piketty has achieved with Capital, these are minor carps. On the whole, I have only the highest praise for Capital, a book that sorely needs to be read not only by ordinary citizens but by academics, students of the social sciences, and presidential contenders of all denominations.
+
+Please share this post. Thank you!
+❧
+
+
+Tired of lies and half-truths about mental illness? Arm yourself with some facts. Check out my free book Mental Health Myths Debunked. Tons of info, tons of live links, lots of straight talk about depression, suicide, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data, so you can weigh the evidence for yourself). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms are based on obsolete data. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+
+  ❧
+
+Many thanks to the following folks for retweeting me yesterday:
+
+
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

@@ -1,0 +1,35 @@
+Does the FDA have a clue about the safe prescribing of opioids?  Based on their September 10 press release we are about to find out.  If you go to the FDA web page this appears to be the most relevant document.  It contains the following warnings:
+
+BOXED WARNING
+
+In the boxed warning in Highlights, include the following text:
+
+• Tradename exposes users to risks of addiction, abuse, and misuse, which can lead to overdose and death. Assess each patient’s risk before prescribing, and monitor regularly for development of these behaviors or conditions. (5.1)
+
+• Serious, life-threatening, or fatal respiratory depression may occur. Monitor closely, especially upon initiation or following a dose increase. Instruct patients to swallow Tradename (formulation) whole to avoid exposure to a potentially fatal dose of (active opioid). (5.2)
+
+• Accidental consumption of Tradename, especially in children, can result in fatal overdose of (active opioid). (5.2)
+
+• For patients who require opioid therapy while pregnant, be aware that infants may require treatment for neonatal opioid withdrawal syndrome. Prolonged use during pregnancy can result in life-threatening neonatal opioid withdrawal syndrome. (5.3)
+
+For products with an interaction with alcohol, also include the following:
+
+• Instruct patients not to consume alcohol or any products containing alcohol while taking Tradename because co-ingestion can result in fatal plasma (active opioid) levels.  (5.4)
+
+As I read through these warnings I have several associations.  First off, physicians were told 12 years ago in JAMA that they were undertreating pain, misunderstood pain, and that pain treatment needed to change.  That was a naive document that depended on an assumption that pain could be "quantitated" on a 10 point scale.   Over a decade and 100,000 opioid overdose deaths later we are not told that providing this information on drug labels will make a difference.  That leads me to my second association, there is nothing in the above warning that I didn't learn in medical school 30 years ago, including the risk of neonatal withdrawal.  The third association is that this definition and intervention is almost completely naive about addiction.  A person with an addiction does not care about dire warnings.  They don't care about their pain ratings.  They care about acquiring and using addictive drugs.  It is the nature of addiction.  Their entire conscious state has changed. The tendency toward opiate addiction or not is probably biologically determined and a doctor cannot predict who is at risk.  If you take an initial dose of opiate and experience intense euphoria, high energy and productivity, and intense sense of well being or feel like you finally have become the person you always wanted to be - you may be a person at high risk for opiate addiction. It doesn't really matter if they have a chronic pain disorder.
+
+What needs to be done?  What should the FDA being doing immediately.  The four most important misconceptions driving both the epidemic of opioid dependence and the accidental overdose trend are:
+
+1.  Opioids are a silver bullet and will eliminate chronic pain if the dose is high enough.
+
+2.  Once a maintenance dose is achieved the level of pain relief should be constant.
+
+3.  Opioids are only taken for primary gain - the analgesic effect or the elimination of pain.
+
+4.  Opiates - prescribed by a doctor will not lead to reactivation of a previous addiction.
+
+What do people need to know now?  Probably not the new package insert for opioids.  Most physicians don't read it.  Every person taking an opioid need to know that it can affect their subjective state in such a way that it will place them at risk for addiction.  They need to know at that time that they need to contact their physician and discuss it and the possibility of alternate or more closely monitored treatment.  They need to know that there is no medicine that will treat chronic pain into remission.  Physicians need to know a number of things including the fact that there is no medication that will eliminate chronic pain.  They also need to know that it takes time and detailed evaluations (calls to pharmacy, tox screens, limited prescriptions, assessment of functional capacity) to optimize treatment and prevent addiction.
+
+The warning on a package insert from the FDA containing seriously dated information will not do it.  Dire warnings about an epidemic won't do it.
+
+George Dawson, MD, DFAPA

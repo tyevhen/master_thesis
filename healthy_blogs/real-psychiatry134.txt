@@ -1,0 +1,52 @@
+The Standard Drink http://rethinkingdrinking.niaaa.nih.gov/How-much-is-too-much/What-counts-as-a-drink/Whats-A-Standard-Drink.aspx
+
+One of my main tasks during an interview is assessing the medical condition of the patient.  That is important in determining associated comorbidity, potential causes of psychiatric symptoms, factors that might affect how any medications I assess or prescribe are metabolized, medical tests that I need to order and follow, the insight and functional capacity of the patient - are they aware of the physical problem and doing something about it, and any referrals that I need to suggest and make to primary care physicians or specialists.  When I see people who are using significant amounts of alcohol - alcoholic liver disease and cirrhosis are high on that list.  In many cases they are seeing me and already have a diagnosis of cirrhosis, but nobody else in the current system of care seems to know that.  Continuity of care is really not an administrative priority in American health care.  We all practice in administrative silos defined by electronic health records (EHRs) that don't talk to one another and produce very low quality printouts.  Just recently I reviewed an EHR printout that was 30 pages long.  As usual the hospital and dates of service were not evident.  About 20 of those pages was a consultant's report that pulled in every lab the person across their lifetime - spread in uneven columns across the pages.
+
+How to get to these important but obscured diagnoses?  It is always important to ask about hepatitis and cirrhosis.  I also ask about infectious and alcoholic types.  Some standard review of systems include questions about jaundice and that is a good one to ask.  Non-standard question include asking about seeing a gastroenterologist or liver specialist.  I will ask about specific imaging like hepatic ultrasounds, CTs, and MRIs.  I will ask if there has ever been upper GI endoscopy or colonoscopy, the indications, and what they were told about the findings.  I will ask about whether a doctor has ever told my patient to stop drinking and why?  In the population of moderate to heavy drinkers that I see, it is rare to find all of a person's care provided at one location.  There are typically emergency department visits and hospitalizations that the primary care MD is not aware of.  There may be attempts to treat the alcohol use problem and there is often not a very strong medical component associated with that treatment.  The patient may be actively avoiding contact with medical care out of fear of what might happen with the illness.  All of these factors make it extremely important not to miss the diagnosis and at the minimum recommend optimal care for that person.
+
+From a strictly historical standpoint, the key question is whether there are some historical markers that allow for the stratification of risk.  Can you tell whether your patient might have cirrhosis just based on their drinking history?  Moderate to heavy drinkers vary considerably in their veracity on reporting alcohol use.  It may depend on the phase of treatment.  A reliable description of consumption may occur early in treatment after a conscious decision to "come clean" about it.  There will be a number of people who are not ready to stop drinking irrespective of the quantity they are drinking and the problems that it has caused.  They might be in the assessment because of external factors like family members who are upset by their drinking.  There are also the limits of memory.  If a person acknowledges 20-30 years of moderate to heavy drinking and multiple DWIs in their early 20s - they are unlikely to provide a detailed description of their progression of drinking and may only hit a few of the high points - like when they started experiencing blackouts on a daily basis.  In my experience, most moderate to heavy drinkers focus on the last 2 or 3 years of drinking.  That can create the impression that they have not been drinking long enough to cause significant damage.
+
+Part of the problem in taking the clinical history of drinking is that there can be a bewildering array of drinks and measures - often to the point that the clinician is not sure about absolute quantities or alcohol concentrations.  The literature on cirrhosis and alcoholic liver disease often requires a conversion to standard drinks or grams.  Those drink sizes especially the ones that are culturally determined (there are definitely drinking subcultures in the US) or self-determined can lead to wide variation in the amount of alcohol actually consumed.  Collateral information is always very useful.  From the graphic at the top of this page 1.5 fluid ounces of 80 proof (40%) alcohol or the equivalent in any one of those drinks is considered a standard drink in the US.   That is 14 grams or 0.6 ounces of pure alcohol.  The amounts that I hear about being consumed include a mini bottles (50 ml), a pint (473.2 ml), a fifth (750 ml), a liter (1000 ml), and a handle (1500 ml).  Consuming the entire container of these beverages is the equivalent of taking 1,  10.7, 17, 22, and 33.8 - 1.5 ounce standard drinks respectively.  In the literature the standard drink size in Australia is 10 grams of alcohol or 30 ml of 40% alcohol rather than the 14 grams specified in the US.  That results in more drinks per beverage or container.
+
+The National Institute on Alcohol Abuse and Alcoholism (NIAAA) has several definitions that are based on consumption that are useful.  Binge drinking is defined as 5 or more drinks on a single occasion for men or 4 more more drinks on a single occasion for women - usually in less than 2 hours.  Heavy drinking is defined as 15 or more drinks per week for men and 8 or more drinks per week for women.  9% of the US population exceeds both the single day and weekly consumption limits of these definitions.   28% of the US population will exceed either the single day limit or the weekly limit.  37% always drink within low-risk limits and 35% never drink.  Those results are based on a sample of 44,000 Americans 18 years of age and older.                              
+
+What are the estimates of alcohol use that cause cirrhosis?  The first time I encountered this concept was in a Medical Clinics of North America reference (1) that suggested 15 pint years of drinking a pint of whiskey per day for 15 years.  The American College of Gastroenterology makes a different estimate of 20-40 grams of alcohol daily -  will result in liver damage in most women.  They go on to specify that 80 grams of alcohol per day will lead to cirrhosis in men in 10 years and the same amount of daily alcohol consumption will lead to cirrhosis in women in 5 years.  They also specify that in their use, 4 drinks is 4 - 5 ounces of distilled spirits so the standard drink size is less than the usual definitions.  Converting all of those numbers into standard drinks -
+
+20 grams = 1.4 standard drinks
+40 grams = 2.9 standard drinks
+80 grams = 5.7 standard drinks
+
+In other words 5.7 standard drinks per day will result in cirrhosis in men in 10 years or cirrhosis in women in 5 years.  On a clinical basis, I have seen very young people with alcoholic cirrhosis and the youngest were women in their late 20s.  So the range for cirrhosis in the literature ranges from a low of about 1/2 pint of 80 proof alcohol per day for 5 or 10 years to 1 pint of 80 proof alcohol per day for 15 years.
+
+The Australian National Health and Medical Research Council (NH&MRC) recommends that the maximum standard drinks per day for men is 4 and for women is 2.    The range between the high and low estimates of toxicity is considerable given the fact that a pint of distilled spirits contains 10.7 standard drinks.  The pint-a-day drinker exceeds both the NIAAA maximum recommended single day and weekly consumption.
+
+There are a number of variables that affect the individual pharmacokinetics of alcohol and ultimate toxicity.  Patterns of consumption are also important.  Knowing the range of alcohol consumption that may have already impacted the patient is useful in terms of deciding if the history is accurate and how the treatment plan may need to be modified.  It is also useful to know from a public health perspective, especially in the current era of liberalizing policies and attitudes about intoxicants.  
+
+
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+
+1: Lefton HB, Rosa A, Cohen M. Diagnosis and epidemiology of cirrhosis. Med Clin North Am. 2009 Jul;93(4):787-99, vii. doi: 10.1016/j.mcna.2009.03.002. Review. PubMed PMID: 19577114.
+
+
+Supplementary 1:
+
+The dose of alcohol that is associated with pancreatitis is 4 or 5 drinks daily for a period of 5 or more years.
+
+Forsmark CE, Vege SS, Wilcox CM.  Acute Pancreatitis.  N Engl J Med 2016; 375: 1972-1981.
+
+
+Supplementary 2:
+
+British National Health Service guidelines based on a standard drink of 25 ml of 40% alcohol.
+
+
+
+Attribution:
+
+Graphic at the top of this post is from the NIAAA we site Rethinking Drinking and is in the public domain at the references URL.

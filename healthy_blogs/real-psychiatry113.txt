@@ -1,0 +1,38 @@
+One of my mentors in residency enlightened me to the advantages of computerized psychotherapy.  That was in the days of the IBM AT PC or about 35 years ago.  I had an updated conversation with him about this 4 years ago after he gave a presentation that examined the more recent literature.  That literature had not only taken off, but there were more widespread applications.  Many of those applications were on a large scale using standard psychotherapeutic approaches.  Some of the research addressed the issue of patient acceptance and found that it was generally acceptable and more convenient for patients.
+
+Interestingly, these innovations in computerized psychotherapy occur at a time when healthcare companies in the USA are implementing psychopharmacology on a large scale with minimal input from psychiatrists.  The collaborative care model for depression consists of patient in primary care settings rating depression with a standardized rating scale and generally being put on an antidepressant.  There is much wrong with this model, not the least of which is the fact that a rating scale is not a diagnosis and it probably leads to broader exposure to antidepressants medications.  It is nonetheless heavily promoted as an acceptable approach to the treatment of depression.
+
+In the meantime, large organizations like the National Health Service in the United Kingdom have computerized psychotherapy services for the treatment of depression, generalized anxiety, and panic disorder.  The evidence base for these services is provided by the National Institute and Care Excellence (NICE).  According to the NICE guidelines for depression, computerized cognitive behavioral therapy is recommended as  "step 2 services for people with subthreshold, mild and moderate common mental health disorders".  In the US there are no similar resources and the treatment of depression as identified by screening techniques resembles a model of active monitoring and pharmacology with the widespread use of antidepressants.  Psychotherapy within health care systems in the US is sporadic and when it does occur seems to be based on a model of crisis counseling rather than any research model of the psychotherapeutic treatment of a specific disorder.  A main driver of that delivery system is the very low expense of modern generic antidepressants.  Some of these medications coast as little as $4/ month and are available at another discount if 90 day supplies are ordered.
+
+A recent review of NSDUH data looked at medication utilization for the treatment of mental illnesses and found that the overall prescription rates had increased substantially across different generations of outpatients.  According to the authors there was a increase in prescription of psychiatric medications for all adults of about 28% between 2008 and 2013.  Of course the bulk of that medication is not prescribed by psychiatrists.  That paper also referenced a meta-analysis of patient preference for psychotherapy (2).  That study has significant methodological limitations and typical clinical constraints are probably not well represented.  In clinical practice, severely ill patients with psychiatric disorders or addictions are typically seen in intensive setting where psychotherapy is available and in many cases necessary like DBT or GPM.  The patient's I see list lack of rapport with the therapist, lack of direction in therapy, excessive self disclosure on the part of the therapist, cost, and inconvenience as being the main limiting factors for psychotherapy.  Most if not all of these constraints disappear with a computerized approach.
+
+That brings me to a good example that I mentioned in a recent post on mindfulness based approaches to psychotherapy (3).  In the article I referenced, the Headspace web site was mentioned as a mindfulness based approach to psychotherapy.  The site offers 10 - 10 minute sessions and a more extensive selection of sessions at a reasonable cost after that.  As I completed the first 10 sessions, the advantages were immediately obvious.  The therapy model is obvious and there are standardized metaphors as examples.  The therapy is consistently delivered in the comfort of your own home and on your own schedule.  The site can be used by any psychiatrist or psychotherapist to augment outpatient treatment.  The site is valuable to trainees who are attempting to learn and deliver these mindfulness interventions on their own.  The site is cost effective - you can keep repeating the initial 10 sessions for free as much as you want or purchase additional sessions with different content.  A lifetime subscription to the web site is available for what might be the out-of-pocket cost of two psychoanalytic/psychodynamic sessions.
+
+Every time I have been on the web site there are about 40,000 users logged in to the site.
+
+Every managed care and health care company has a massive investment in IT to support their electronic health record and other clinic services.  Offering computerized psychotherapy would be a minor addition to those services.
+
+Remind me again why managed care companies are not offering this option for depression, anxiety, and insomnia?    
+
+And remind me why this is not the first step before prescription medication, especially in primary care settings?
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  Han B, Compton WM, Mojtabai R, Colpe L, Hughes A. Trends in Receipt of Mental Health Treatments Among Adults in the United States, 2008-2013. J Clin Psychiatry. 2016 Oct;77(10):1365-1371. doi: 10.4088/JCP.15m09982. PubMed PMID: 27486895.
+
+2: McHugh RK, Whitton SW, Peckham AD, Welge JA, Otto MW. Patient preference for psychological vs pharmacologic treatment of psychiatric disorders: a meta-analytic review. J Clin Psychiatry. 2013 Jun;74(6):595-602. doi: 10.4088/JCP.12r07757. Review. PubMed PMID: 23842011; PubMed Central PMCID: PMC4156137.
+
+3:  Smallwood J, Mrazek MD, Schooler JW. Medicine for the wandering mind: mindwandering in medical practice. Med Educ. 2011 Nov;45(11):1072-80. doi:
+10.1111/j.1365-2923.2011.04074.x. PubMed PMID: 21988623. http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2923.2011.04074.x/full
+
+Within the body of that article the web site called Headspace ( https://www.headspace.com/ ) for mindfulness training is referenced.
+
+Disclosure:
+
+I have no conflict-of-interest in mentioning the Headspace site.  I am not endorsing it and they do not endorse me.  I have no financial interest in the site.  I am listing it here as a resource for mindfulness based approaches because I think it is useful and it was recommended in the literature by a psychologist who I consider to be an expert in this field.

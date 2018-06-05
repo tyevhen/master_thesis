@@ -1,0 +1,9 @@
+There's a terrific interview with Paul Brainerd about the history of Aldus Corporation over at computerhistory.org. In it, Brainerd comments on the why and how of Aldus's eventual acquisition by Adobe (a subject of considerable interest to me, since the company I work for -- Day Software -- has just been acquired by Adobe). Of the acquisition, Brainerd says:
+At a 30,000 foot level, we had similar approaches to running a company. But at a working level, there were some very definite philosophical differences.
+
+There was a definite difference in the customer orientation. We spent a lot more time talking to customers. Adobe's philosophy was more of an engineering-based one: if we make a great product, like PostScript, sooner or later people will want it.
+
+But the reason I even considered Adobe was their underlying ethical standard of running a high-quality company that was fair to their customers and their employees. Unfortunately, that couldn't be said of all the companies in the industry.
+
+A lot of thought went into the merger, and I think it was one of the best.
+Hopefully, we'll all be saying much the same thing about the Day-Adobe deal years from now.

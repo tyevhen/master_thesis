@@ -1,0 +1,79 @@
+With all the talk of AJAX in yesterday's blog, I somehow managed to never once talk about XML. (How ironic is that?) But it turns out that one of the pleasures of doing JavaScript programming in Acrobat is the ease with which you can manipulate XML, thanks to the Acrobat interpreter's built-in support for E4X.
+
+If you're not familiar with E4X -- the EcmaScript extensions for XML (otherwise known as ECMA-357) -- you really should take time to look into it. It's a very handy grammar for working with XML. You'll find that E4X is implemented in SpiderMonkey (Gecko's JavaScript engine) since version 1.6.0 and in Rhino (Mozilla's other JavaScript engine) since version 1.6R1. It's also supported in ActionScript, hence is available in Flash CS3, Adobe AIR and Adobe Flex. Add to that list Adobe Acrobat.
+
+How or why would you ever want to use E4X in Adobe Acrobat? Let me give a brief example. The other day, I wrote a short script that harvests all of the annotations from a PDF document. I wanted to put the data in XML format. The script that formats the data as XML looks like this:
+
+// Pass this function an array of Annotations
+function getAnnotationsAsXML( annots ) {
+    
+    var xmlOutput = <annots></annots>;
+    for ( var i = 0; i < annots.length; i++ )
+    {
+       // get the properties for each annotation
+        var props = annots[i].getProps();
+      
+        // add an <annot> element
+        xmlOutput.* += <annot/>;
+
+       // start adding child elements
+        var parent = xmlOutput.annot[i];
+        parent.* = <author>{props.author}</author>;
+        parent.* += <contents>{props.contents}</contents>;
+        parent.* += <page>{props.page}</page>;
+        parent.* += <creationDate>{props.creationDate}</creationDate>;
+        parent.* += <type>{props.type}</type>;
+    }
+    
+    return xmlOutput.toXMLString()
+}
+
+To test the above code, first open a PDF (using Acrobat Pro) that already contains some annotations. Next, open the JavaScript console in Acrobat (Control-J), copy and paste the code into the console, then add a line:
+
+// Use AcroJS API call 'getAnnots()'
+// to harvest all annotations
+getAnnotationsAsXML( this.getAnnots( ) );
+
+Highlight (select) all of the code and execute it in the console by hitting Control-Enter. Assuming the document you've got open contains annotations, you should see some XML appear in the console. In my case, I got:
+
+<annots>
+ <annot>
+   <author>Admin</author>
+   <contents>We need to strike this.</contents>
+   <page>729</page>
+   <creationDate>Tue Jul 06 2010 14:43:57 GMT-0400 (Eastern Daylight Time)</creationDate>
+   <type>Highlight</type>
+ </annot>
+ <annot>
+   <author>Admin</author>
+   <contents>I am underlining this.</contents>
+   <page>729</page>
+   <creationDate>Tue Jul 06 2010 14:44:12 GMT-0400 (Eastern Daylight Time)</creationDate>
+   <type>Underline</type>
+ </annot>
+ <annot>
+   <author>Admin</author>
+   <contents>I liked this.</contents>
+   <page>57</page>
+   <creationDate>Tue Jul 06 2010 15:04:21 GMT-0400 (Eastern Daylight Time)</creationDate>
+   <type>Highlight</type>
+ </annot>
+ <annot>
+   <author>Admin</author>
+   <contents>This does not seem right.</contents>
+   <page>57</page>
+   <creationDate>Tue Jul 06 2010 15:04:32 GMT-0400 (Eastern Daylight Time)</creationDate>
+   <type>Text</type>
+ </annot>
+ <annot>
+   <author>Admin</author>
+   <contents>Is this the correct copyright date?</contents>
+   <page>1</page>
+   <creationDate>Tue Jul 06 2010 18:22:39 GMT-0400 (Eastern Daylight Time)</creationDate>
+   <type>Highlight</type>
+ </annot>
+</annots>
+
+Of course, there are many more properties on Annotations than I've captured here. But you get the idea.
+
+Not bad for a dozen lines of code. Sure beats messing around with DOM methods, DOM serialization, etc.

@@ -1,0 +1,25 @@
+It's interesting to compare the social media sites on Google Trends to see how they're doing. Twitter and Facebook dwarf all the others, so I'm not going to dwell on them (but see discussion further below). What's fascinating is the comparison of Google Plus against Pinterest, LinkedIn, and challenger Wattpad. 
+LinkedIn has been around longer than the others and has gained considerable traction in recent years, although it seems to be starting to plateau. What's interesting is that Pinterest and Google Plus both spiked in poplarity in 2011-2012, but Pinterest maintained its post-spike popularity whereas Google Plus quickly fell right back down to near-nothing. (This is all the more noteworthy in that if you Google "Google Plus," you get over 3 billion hits. You can't say Google Plus has no visibility on Google.) In the meantime, the tortoise in this race, Wattpad, has slowly overtaken Google Plus.
+
+Naturally, Google Trends data should be taken with a bit of caution. Wattpad has an Alexa.com global rank of 1835, for example, while Goodreads (not shown above) is ranked much higher in traffic, at No. 280 worldwide, yet Wattpad outperforms Goodreads in a Trends graph (not shown) by a 4:1 margin. Clearly, interest is building in Wattpad, at least in Google searches. But it might not relate directly to site traffic.
+
+I became curious about these relationships after a blog post of mine went to No. 1 on BigThink.com. The post in question garnered over 4,000 social shares. I was interested in seeing how the various social shares broke out: How do people share things? Which channels do they use?
+
+The shares for the aforementioned blog (as of this writing) break down as follows:
+
+Facebook: 3,600+
+Twitter: 246
+LinkedIn: 89
+Google+: 64
+
+The extremely poor showing by G+ augurs ill (I think) for Google's social platform. How can you claim to have a major social platform when not even two percent of people use it to share anything? Or is this another Mac vs. PC situation where the product with 2% market share comes from behind, over a period of decades, to overtake the category leaders?
+
+I don't think this is another Mac vs. PC situation. I think Google Plus is finished.
+
+I know many very smart people who think Google Plus is a great platform for various reasons. And it does do certain things well; the UI is less annoying (arguably) than Facebook's, at this point, and it integrates well with other Google offerings. (No surprise there.) But still, hardly anyone uses it, compared to the other major social platforms (look again at the above numbers), and it's not gaining popularity fast enough to keep up, so the inescapable conclusion is that Google (if it intends to keep G+ going) needs to remake G+ yet again, although who's to say another incarnation of it will achieve greater traction? Many would argue (and I would be among them) Google is merely flogging a dead horse at this point.
+
+In the online world, as in the proton-based world, there's room at the top for, at most, two overdogs: Coke, Pepsi. GM, Toyota. Android, iOS. Chrome, Firefox. After the Top Two, all the other long-tail stragglers put together don't add up to much of a pie-slice.
+
+This feels like a battle Google not only lost, but lost years ago (in 2011). If Google decides to walk away from G+, at this point, it won't come as a surprise to me. Its relevance is low and dwindling. The momentum simply isn't there. Even the mighty Google colossus (with its huge Gmail user base) can't move the needle on this one.
+
+The social world has voted, and sad to say, Google Plus now very much appears to be (as some of us suspected from the outset) the answer to a question nobody asked.

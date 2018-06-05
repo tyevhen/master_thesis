@@ -1,0 +1,37 @@
+Academic writing is famous for verbose, clumsy prose. In an earlier post, I showed how such prose can cost you a Nobel Prize. It's amazing to me how far scientists (and others) will go to obfuscate their own findings.
+
+It starts while you're a grad student.
+
+I recently came across the following paragraph in the rough draft of somebody's master's thesis in psychology.
+
+Cultural differences are pervasive phenomena that affect individual’s cognitive processes.  The presence of cultural similarities and differences across individuals can be accessed through psychological processes such as:  logic, perception, attention, and communication. The application of these psychological processes shape the way in which individuals think and how they make decisions.
+
+The first sentence seems to be saying that cultural differences extend to the level of individual thought, which is so obviously true (IMHO) that it doesn't need to be stated. (There's also a mechanical mistake: individual's should be individuals'.)
+
+The second sentence seems to say that cultural differences can be assessed (not accessed) along dimensions of logic, perception, attention, and communication. I'm not sure how you "assess" these things. How do you assess communication? What does "communication" (or for that matter "attention") mean here? The author needs to add specificity to the sentence and cite references in the appropriate places, so that if the reader finds a concept obscure, he or she can consult a more detailed explanation elsewhere.
+
+The third sentence is a mouthful. Fortunately, it's an active-voice sentence (with a predicate of "shape"). But what's the subject of the sentence? Apparently it's "The application of these psychological processes." That's a clumsy subject for any sentence. (And it's singular, not plural; therefore the verb should be "shapes," not "shape.") It's also illogical. How do you "apply" psychological processes of logic, perception, attention, and communication? It doesn't even make sense.
+
+Suppose we simplify the third sentence to: "Such processes shape the ways individuals think and how they make decisions." Isn't it already obvious (even to a non-specialist) that logic, perception, etc. shape the way a person thinks? The sentence tells us nothing, really.
+
+To me, the entire paragraph is useless. It says nothing useful. Rather than polish it, the author should junk it and move on.
+
+Later in the same thesis, we encounter:
+
+Decision making is a function of practice, motivation and cultural beliefs. The ability to resolve conflict is extremely valuable when dealing with Intercultural disputes.  Therefore, when an individual is presented with an opportunity to resolve a conflict, that individual will rely upon past experience, the motivation to make the resolution and behaviors/techniques their culture will promote or deem as acceptable socially appropriate behavior.
+
+The first sentence is vague and just plain weird, semantically. The second sentence is self-evident and needs to be cut. The third sentence begins with "Therefore." When I see "therefore," I expect the next statement to be logical consequence of whatever was said before. That's not the case here. At least, it's not the case with regard to "past experience."
+
+There needs to be a comma after "resolution."
+
+The phrase "acceptable socially appropriate behavior" doesn't need "acceptable."
+
+After "behaviors/techniques," we encounter the pronoun "they," which refers to the previous "individual." [INSERT LOUD BUZZING SOUND] Wrong. A plural pronoun does not go with a singular "individual."
+
+The paragraph says nothing new, as far as I can tell. It needs to be trashed.
+
+The takeaway: When you restate academic gobbledygook in simplest form, you sometimes find there's no there there. Which means the author wasn't thinking clearly.
+
+To keep yourself from falling into this trap, always start by simplifying (even oversimplifying) what you're trying to say. Say it in plain language. Then, if it needs elaboration, go back and expand some of the ideas, but don't try to cram too much into a single sentence. Break it up. Multiple short sentences are always easier to understand than a single long sentence.
+
+Also, be ruthlessly honest in your judgment of a paragraph. If it's junk, junk it. Don't waste time polishing a turd.

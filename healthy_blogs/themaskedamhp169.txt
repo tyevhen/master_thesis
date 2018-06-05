@@ -1,0 +1,47 @@
+There have been a couple of interesting publications released in the last month relating to Community Treatment Orders. One was the annual Government statistics for the use of the Mental Health Act, which includes detentions and discharge under Supervised Community Treatment (In-patients formally detained in hospitals under the Mental Health Act, 1983 – and patients subject to supervised community treatment, Annual figures, England 2010/11). This relates to the second full year’s activity for CTO’s.
+
+What a clear and easy to follow publication this is! It even begins with a concise and easy to understand analysis of the figures. And what these figures show is the full impact that the introduction of Supervised Community Treatment (Sec.17A) in 2007 has been having on general uses of the MHA.
+
+I can’t paraphrase the summary any better than the report itself, so I will quote directly:
+
+“Although the total number of formal admissions to hospital and the number of new Community Treatment Orders (CTOs) decreased between the 2010/11 reporting period and the previous one, the overall number of people subject to the Mental Health Act [this includes formal detention in hospital as well as CTO’s] at 31st March increased by 5.0%, from 19,947 in 2009/10 to 20,938 in 2010/11. This increase can be attributed to a rise by nearly a third in the number of people on a CTO at 31st March.”
+
+On the face of it, the figures seem contradictory; for example, the total number of formal admissions decreased by 2.2 per cent, and yet the number of people detained in hospital at 31 March increased by 0.2 per cent. This, however, can be attributable to a rise in the number of CTO recalls, two thirds of which were then revoked. The underlying Sec.3 then comes back into force.
+
+The report also observes that “the number of people on CTOs at the end of the year rose, even though the number of new CTOs made during the year reduced. This was due to the number of new orders made being greater than the number of orders from which people were discharged: 3,834 new CTOs were made in 2010/11 and 2,185 orders were closed.”
+
+The report states that admissions for treatment under Section 3 fell by 14.4 per cent. This can also be attributed to the rise in the use of CTO’s, as they mask the true use of Sec.3, since in essence the detention under Sec.3 is merely suspended by the CTO, and can be reinstated when a CTO is revoked without a fresh formal assessment.
+
+What is clear is that, after only two full years of its use, CTO’s are beginning to seriously impact on the overall use of the MHA. There appears to be an inexorable rise in the number of people in the community subject to CTO’s, as once made, CTO’s can be extended indefinitely.
+
+At least part of the reason for this can be found in a study recently published in The Psychiatrist, which looked at the views of psychiatrists relating to CTO’s (Community treatment orders in England and Wales: national survey of clinicians’ views and use, Manning et al, The Psychiatrist (2011), 35, 328-333).
+
+This study found a considerable popularity for the use of CTO’s among psychiatrists, despite an initial reticence before the new powers came in. The research found that “clinical reasons were rated as being more important in decision-making than ethical or bureaucratic concerns. For example, the most important factors in initiating an order were considered to be promoting adherence to medication, protecting individuals from the consequences of relapse, and ensuring contact with health professionals.”
+
+AMHP’s may find this more than a little alarming, as an AMHP must consider the ethical implications, and must also necessarily ensure adherence to due legal procedure. However, the study does conclude that:
+
+“There remains considerable disagreement and uncertainty regarding the clinical usefulness of CTOs. It is important that clinicians are mindful of this. They should seek multidisciplinary input when making such fundamental treatment decisions in the face of enabling legislation, a lack of evidence, and (perhaps more challengingly) a lack of professional consensus or guidance. Multidisciplinary discussion and decision-making should reduce variability in the use of compulsion.”
+
+In my post back in January this year (Community Treatment Orders and the Role of the AMHP) I looked at the previous years’ figures and concluded “since CTO’s are often being kept in place for a year or more, this could mean a growing accumulation of patients in the community on CTO’s.”
+
+Both the new figures, and my own personal experience of CTO’s, bear this out. Back in January, I had only been professionally involved with CTO’s on two occasions. However, in the last 12 months, I have endorsed 5 CTO’s, 3 extensions (Sec.20A) and 2 revocations (Sec.17F(4)). Additionally, I have frequently been involved in multidisciplinary discussions of patients detained under Sec.3 in which discharge under SCT has been mooted, where it seems likely that more people currently detained under Sec.3 will be discharged on Community Treatment Orders in the future.
+
+As I have said before, the AMHP role can be very quick and easy to discharge legally – you do not actually have had to interview the patient or Nearest Relative, and it is not even a formal requirement to provide a report, although at least the CQC are now promoting this as best practice. I would say that that is all the more reason to exercise diligence and best AMHP practice when a request is being made for a CTO, or an extension or revocation.
+
+Of course, a consequence of that is for assessments for CTO’s to become drawn out processes occupying a lot of AMHP time. One recent example of this was when I received a request to endorse a CTO for a patient with learning difficulties who was detained under Sec.37 MHA (by the courts), following the commission of a serious sexual offence. He had been detained in a secure hospital for several years, during which time he had been provided with an extensive sex offenders’ treatment programme. It was now felt that he could be managed out of hospital, and a bed in care home had been identified.
+
+Since I knew nothing about this patient other than the bare bones, and in view of his serious forensic history, I felt that it was necessary to make a thorough examination of his medical and nursing notes. This entailed a visit to the hospital, and an afternoon closeted away in a side room working through his very extensive files. In particular, I wanted to know precisely what the nature and degree of his mental disorder was, as well as the treatment he had received, the progress he had made, and the plans for his aftercare on discharge.
+
+I then attended the hospital again to interview him and for a CPA/Sec.117 review meeting. This was a useful, although gruelling, meeting, as the prospective community Responsible Clinician was present, as well as the clinical psychologist, hospital psychiatrist and nursing staff who had been treating him, and the Nearest Relative of the patient. We concluded that it was appropriate for him to be discharged on a CTO, and the hospital RC and I then completed the paperwork together.
+
+The entire process had taken me around 10 hours, including two visits to the hospital and a written report, but I felt that professionally it was necessary.
+
+Another consequence of the increase in the use of CTO’s is the additional and unavoidable burden of work on the AMHP, or the patient’s care coordinator. Although I have not yet come across a patient who has appealed against their CTO, what I have been discovering is that imposing a CTO (which lasts for 6 months), and extending a CTO (which would initially be for another 6 months), can lead to automatic referrals to the hospital managers, the Tribunal, or both. This of course then entails the necessity to interview the patient, to consult with the Nearest Relative, and to write a report, followed by mandatory attendance at a Managers Hearing or Mental Health Tribunal.
+
+These Hearings and Tribunals themselves can be rather surreal. What I am finding is that patients who are offered the chance to leave hospital and return home, as long as they accept being on a CTO, are unlikely to object to this. Once they are have been discharged home, they are also fairly unlikely to want to return to the hospital in order to attend a hearing.
+
+One patient I was involved with explicitly stated that she wanted nothing to do with the hearings that had been arranged for her, and neither did she want a legal representative. This resulted in attending a Managers Hearing where only the 3 hospital managers, the hospital Psychiatrist and I were present. The hearing lasted all of 15 minutes.
+
+The subsequent Tribunal consisted of the community Responsible Clinician, the three Tribunal members, and I. This lasted for a full 30 minutes, at the end of which the Tribunal members looked at each other, then at us, and gave their decision without an adjournment. Considering that the average length of a Tribunal for an appeal against Sec.2 or Sec.3 is well over 2 hours, the RC and I were somewhat taken aback.
+
+We are now 6 months on from these latest figures, and so far I have not seen enthusiasm in the use of CTO’s waning. I await the figures for 2011/12 with interest.

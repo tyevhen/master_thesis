@@ -1,0 +1,183 @@
+alprazolam
+
+
+Note:  This article came out in the Psychiatric Times today as an edited version.  I am posting the unedited version here to  provide more details.  I have not seen the printed version yet.  I will add a link later to download a PDF version.
+
+For the past 30 years, there have been widely discrepant views on the use of benzodiazepines (Table 1) varying from avoiding their use entirely to moderate to high dose maintenance benzodiazepines for certain anxiety disorders.  Reviews in the early 21st century suggested that high potency benzodiazepines were the preferred agents for treating anxiety disorders and panic disorder due to rapid onset of action and the fact that older low potency benzodiazepines were considered ineffective for panic disorder.  These same reviews discussed the side effects due to tolerance (rebound anxiety), direct effects on memory, and dependence.  Over that same time frame, treatment guidelines for treating anxiety disorders recommended shorter periods of use.   Benzodiazepines are no longer regarded as first line treatment.  There was a parallel evolution of thought on the addictive potential of benzodiazepines, ranging from the view that there was a low abuse potential to current observations that benzodiazepines are frequently seen being used in combination with other drugs of abuse and are commonly seen in polydrug overdose scenarios.  Benzodiazepines are Schedule IV compounds and according to the Controlled Substances Act that means as a group they have a low potential for abuse.  Despite that assessment alprazolam is the third most common diverted drug.    
+
+Epidemiology
+
+Practical data of the extent of use of benzodiazepines in the population is available from the National Survey On Drug Use and Health (NSDUH) from SAMHSA.  The most recent data from 2015 (1) breaks out benzodiazepine preparations from other compounds.  29.7 million people (11.2% of the population) used benzodiazepine tranquilizers.  Of that group 17.6 million (6.6% of the population) used alprazolam containing products.   
+
+An additional category of sedatives was designated.  There were 18.6 million sedative users.  Sixty percent of the sedative users used zolpidem type sedatives and this represented 11.5 million people or 4.3% of the population. 2.5 million or 0.9% of the population used benzodiazepine type sedatives.  The NSDUH survey estimates the degree of misuse in addition to total use.  A total of 6.1 million people were estimated to have misused sedatives.  Of that group 5.5 million misused benzodiazepines and of that group 4.1 million or 1.5% of the population misused alprazolam.  An additional 1.1 million people misused zolpidem products and 205,000 misused benzodiazepine sedatives.  More specific estimates of misuse of individual products both in terms of total number and percentage of the population are included in the report.
+
+Survey estimates of the use and misuse of benzodiazepines do not give any measure of morbidity or mortality.  Some of those measures are available from pharmacovigilance projects.  A project over 6 years in England and Wales reported that in the group of patients that sustained severe harm or death from medication related incidents, benzodiazepines ranked sixth after opioids, antibiotics, warfarin, heparin, and insulin (2).   A recent report by the Centers For Disease Control (CDC), analyzed the drugs most frequently involved in overdoses between the years 2010-2014 (3).  Two of the top ten drugs involved in overdoses were the benzodiazepines diazepam and alprazolam.  In the deaths involving diazepam and alprazolam 95% involved the use of concomitant drugs.  In the US, 30% of fatal opioid overdoses involve benzodiazepines (4). 
+
+The CDC and the FDA developed the Prescription Behavior Surveillance System (PBSS) to look at the trends in the prescriptions of controlled substances (5).  The PBSS categorizes all of the data into three categories: benzodiazepines, stimulants, and opioid analgesics.  Zolpidem is classified in a miscellaneous category rather than with the benzodiazepines.  In the system, benzodiazepine prescribing rates were noted to vary from 324.3 to 580.7 prescriptions per 1,000 residents.  The highest rates occurred in the patient segment that was 65 years of age or greater.  The number of overlapping days of treatment between benzodiazepines and opioids varied from 11.7 to 19.3.  The study illustrates common problems in benzodiazepine prescribing to geriatric patients and patients being maintained on opioids as well as the benefits of a pharmacovigilance system. 
+
+Clinical guidelines:
+
+Guidelines on benzodiazepine use have evolved over the years.  A series of texts like Principles and Practice of Psychopharmacology (6) provides some idea of the authors conclusions in reviewing the literature in the updates from the publication dates ranging from 1993 to 2011.  The authors of this text provide an algorithmic summary for anxiety disorders based on severity and chronicity.  In examining their successive chapters on the treatment of panic disorder, benzodiazepines were reserved for inadequate response to behavior therapy, selective serotonin reuptake inhibitor (SSRI) plus behavior therapy, or tricyclic antidepressants (TCA) and behavior therapy.  At that point the initial recommendation was alprazolam/clonazepam.  If the entry point into the algorithm was at the severe level the authors recommended alprazolam plus TCA or SSRI for the first month or if that was insufficient “indefinite” alprazolam.  There are additional therapies with or without benzodiazepines if that level of treatment is inadequate.  By the second edition, clonazepam was added to the algorithm as another option for refractory anxiety.  In subsequent editions, other antidepressant (venlafaxine, TCA), alprazolam XR, serotonin and norepinephrine reuptake inhibitors (SNRI), and anticonvulsant (valproate, gabapentin) were all factored in at decision points.  The basic position on benzodiazepines has been unaltered – limited use for the first month until the SSRI starts to work is preferred unless there is insufficient response and in that case benzodiazepines are added at the level of various therapies as maintenance therapy for insufficient response.
+
+Other opinions are available from specialty texts on the treatment of anxiety disorders.  One of these sources on the treatment of panic disorder (7), echoes the Janicak, et al text by listing SSRI and SNRI antidepressants with cognitive behavioral therapy as first line treatment.  Benzodiazepines are listed as treatment for refractory cases with a long list of other options.  Standard psychiatric references do not list benzodiazepines a first line treatment for anxiety disorders.  Using the example of generalized anxiety disorder, typical problems described include the need for frequent dosing, rebound anxiety, difficulty transitioning off the medication, inability to address comorbid depressive states and cognitive side effects (8). 
+
+One property is not mentioned in non-addiction literature is that in a subgroup of patients, benzodiazepines will reinforce their own self administration.  That can occur in a number of ways.  Some patients will notice either a euphorigenic or calming effect that is reinforcing.  If the calming effect occurs in the case of social anxiety disorder both the effect of the drug and the secondary effects of social affiliation will be reinforcing.  In the case of patients with phobias, the medication can take on a magical talisman effect and a person may find it difficult to confront the feared situation.  The medication needs to be in their possession whether they take it or not.  These are all important but understudied aspects of the behavioral pharmacology of benzodiazepines.       
+
+An additional consideration in the use of benzodiazepines is the problem of chronic use.  Most anxiety disorders are chronic conditions.  Some studies show that subgroups will require pharmacotherapy for only a part of the time at intervals after the initial diagnosis.  There is no objective guidance on who should receive indefinite maintenance therapy and it is a decision that is complicated by several potential problems.  Short term tolerance and dose escalation can occur.  The behavioral pharmacology issues previously mentioned can be part of the dose escalation and complicate a plan for stopping them at any point.  Benzodiazepines also complicate the use of other medications most notably opioids.  Social drinking can be a problem if a person is maintained on benzodiazepines.  There has been increasing concern about geriatric complications including falls and cognitive impairment as any cohort on benzodiazepine treatment ages (9). 
+            There are several patterns of benzodiazepine use in addictive disorders that explain why these drugs are frequently found as secondary medications.  Moderate to heavy drinkers frequently wake up in the middle of the night from withdrawal and have additional withdrawal symptoms in the morning.  Benzodiazepines and sleep medications are taken to maintain sleep and treat early morning withdrawal symptoms.  Opioid users use benzodiazepines to treat withdrawal.  There are also several studies that suggest benzodiazepines are used to augment the effect of opioids in an attempt to create a euphorigenic effect including during methadone maintenance.  Stimulant users obtain benzodiazepines to stop the continuous insomnia associated with stimulant use.  One groups uses intoxicants primarily for their amnestic effect and can use benzodiazepines and a number of other agents to induce and intoxication delirium and escape perceived stressors.  In each of these scenarios it is important to assess the person for secondary use of benzodiazepines and discuss the high risk that is created.
+
+Despite the long-term concerns and behavioral pharmacology related concerns about benzodiazepines, they are indispensable medications in a number of situations.  They have been first line medications for catatonia in inpatient settings and greatly reduce the morbidity associated with that condition.  They are used in inpatient settings for treating acute agitation associated with manic and psychotic states.  They are also used for various forms of anesthesia.  Benzodiazepines are the preferred medications for detoxification from alcohol and sedative hypnotic drugs due to their wide safety margin in acute dosing.  There is no doubt that in a supervised setting these medications can clearly be the preferred agents for some conditions.  As a quality concern, length of stay considerations play an important part in these uses because the inpatient physician may find that their patient is being discharged before the benzodiazepine can be tapered and discontinued.  In that case, a plan needs to be developed if it is clear that the patient cannot take the medication in a controlled manner.  Table 2. Lists a number of applications in patients with substance use problems.
+
+From a purely diagnostic perspective the treatment of substance use disorders (SUD) complicates the assessment and treatment of co-occurring psychiatric disorders at several levels.  The comorbidity of anxiety and depression with substance use disorder is high.  A recent study (10) looking at pooled odds ratios (OR) across carefully selected studies showed strong associations for both alcohol dependence ( OR 3.094, 95% CI 2.377-4.027) and drug dependence (4.825, 95% CI 3.013-7.725) with major depression.  For any anxiety disorders, the associations were alcohol dependence ( OR 2.532, 95% CI 2.243-2.859) and drug dependence (OR 4.194, 95% CI 3.447-5.104).  A more recent study (11 ) looking at DSM-5 criteria for 12-month drug use disorders found associations with bipolar 1 disorder, dysthymia, major depressive disorder and posttraumatic stress disorder.  Looking at lifetime estimates added additional associations with anxiety disorders including generalized anxiety disorders, panic disorder, and social phobia.    These studies are generally based on cross sectional survey data and have limitation in terms of data collection.  The critical aspect of care is being able to differentiate primary psychiatric disorders from intoxication, withdrawal, and induced states and whether treating clearly defined co-occurring disorders makes a difference in outcome.  In a review that looked at the issue of treating co-occurring mood disorders and substance use disorders, the authors conclude that while mood stabilization is possible, it does not lead to decreased substance use (12).     
+
+A typical flow diagram of how diagnosis might proceed in patients with co-occurring disorders is illustrated in Figure 1. There is very little literature on treating the demarcated disorders and in clinical practice intoxication, withdrawal, and substance induced states may be difficult to determine in an outpatient setting.  There are a number of problematic scenarios from a purely psychiatric perspective that are difficult to treat such as severe anxiety and bipolar disorder, chronic refractory insomnia as a primary diagnosis before any psychiatric diagnosis was established, and anxiety and depression.  When these disorders occur with one of more substance use disorders and are approached in a systematic manner, the need for long term use of benzodiazepines is rare.  But it can happen at a very low frequency.  In my current practice, we estimate about 1 in 500 admissions to residential care for substance use disorders.
+
+One of the main problems in using benzodiazepines is that there have been no advances in their evidence-based use in populations with SUD.  After it was determined that there was an addiction risk and that more potent short acting benzodiazepines presented a higher risk, not much research has been done since the 1980s and 1990s.  Major guidelines for sleep (13) and substance use disorders (14) do not include guidance that is any more specific for their use than the previously mentioned guidelines for treating sleep and anxiety disorders in the context of addiction.  The APA guideline cautions that it is more than 5 years old and cannot be considered to reflect “current knowledge and practice” but there has been minimal relevant clinical benzodiazepine related research since.  There are guidelines available that provide a detailed discussion of how to approach the prescription and overall handling of controlled substances (15) that can be applied to benzodiazepines.  This guideline contains a number of checkpoints in the system of care and assessment and treatment of the patient.  The prescribing plan includes a detailed informed consent discussion, the goals and duration of treatment, the specific indication and instructions to the patient. 
+
+The British National Formulary (16) also provides basic guidance on the responsibilities of the prescriber of controlled substances.  The three basic areas suggested include that the drug is given for a sound medical reason, that the dose is not escalated, and that the physician does not become an “unwitting source of supply for addicts.”  A structured approach to prescribing benzodiazepines may be useful but there is some evidence that there is a significant interpersonal component.  A study of general practitioners (17) found that they were overwhelmed by the psychosocial problems of their patients and the prescriptions were driven by wanting to help the patient.  Additional biases noted in this study were the limited availability of psychological services, personal use of benzodiazepines for stress relief, perceiving the benzodiazepine as benign, and the time constraint for counseling by the physician.  In a follow-up, meta-synthesis of studies on benzodiazepine prescribing (18) some of the same authors synthesized findings from 8 qualitative studies and found very ambivalent attitudes about long term benzodiazepine prescribing.  They characterized the decisions as “complex, demanding, and uncomfortable”.  The decisions varied by individual physician and at times interaction between patient attributes and physician values influenced the prescribing decision.
+
+Those decisions are more complex and demanding in the setting of a substance use disorder and a patient who may be seeing the physician to get a prescription to use primarily to get intoxicated, to treat the effects of a primary addiction, or to potentiate the effects of another addictive drug.  They are complicated when the original prescription was made by a different physician and the patient is asking for a refill.  I have included a list of practical tips on both the interpersonal dimension and details about what can be useful in optimizing the safe prescription of benzodiazepines (Table 3) in that population.  
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1. Arthur Hughes, Matthew R. Williams, Rachel N. Lipari, and Jonaki Bose; RTI International: Elizabeth A. P. Copello and Larry A. Kroutil.  Prescription Drug Use and Misuse in the United States:  Results from the 2015 National Survey on Drug Use and Health.  SAMHSA.  September 2016.
+
+2.  Cousins DH, Gerrett D, Warner B. A review of medication incidents reported to the National Reporting and Learning System in England and Wales over 6 years (2005-2010). Br J Clin Pharmacol. 2012 Oct;74(4):597-604.
+
+3.  Warner M, Trinidad JP, Bastian BA, et al. Drugs most frequently involved in drug overdose deaths: United States, 2010–2014. National vital statistics reports; vol 65 no 10. Hyattsville, MD: National Center for Health Statistics. 2016.
+
+4. Sun EC, Dixit A, Humphreys K, Darnall BD, et al. Association between concurrent use of prescription opioids and benzodiazepines and overdose: retrospective analysis BMJ 2017; 356 :j760
+
+5.  Paulozzi LJ, Strickler GK, Kreiner PW, Koris CM.  Controlled Substance Prescribing Patterns — Prescription Behavior Surveillance System, Eight States, 2013. Morbidity and Mortality Weekly Report (MMWR)  October 16, 2015/ 64 (9): 1-14.
+
+6.  Janicak PG, Marder SR, Pavuluri MN.  Principles and Practice of Psychopharmacology: 5th ed. Philadelphia, PA: Lippincott Williams & Wilkins, 2011.
+
+7. Bandelow B, Baldwin DS.  Pharmacotherapy for panic disorder.  In: Stein DJ, Hollander E, Rothbaum BO, eds.  Textbook of Anxiety Disorders.  2nd ed.  Arlington, VA: American Psychiatric Publishing, Inc, 2010: 339-416.
+
+8. Van Ameringen M, Mancini C, Patterson B, Simpson W, Truong C.  Pharmacotherapy for generalized anxiety disorder.  In: Stein DJ, Hollander E, Rothbaum BO, eds.  Textbook of Anxiety Disorders.  2nd ed.  Arlington, VA: American Psychiatric Publishing, Inc, 2010: 194.
+
+9.  Short- and Long-Term Use of Benzodiazepines in Patients with Generalized Anxiety Disorder: A Review of Guidelines [Internet]. Ottawa (ON): Canadian Agency for Drugs and Technologies in Health; 2014 Jul 28. Available from http://www.ncbi.nlm.nih.gov/books/NBK254091/
+
+10.  Lai HM, Cleary M, Sitharthan T, Hunt GE. Prevalence of comorbid substance use, anxiety and mood disorders in epidemiological surveys, 1990-2014: A systematic review and meta-analysis. Drug Alcohol Depend. 2015 Sep 1;154:1-13.
+
+11: Grant BF, Saha TD, Ruan WJ, Goldstein RB, Chou SP, Jung J, Zhang H, Smith SM, Pickering RP, Huang B, Hasin DS. Epidemiology of DSM-5 Drug Use Disorder: Results From the National Epidemiologic Survey on Alcohol and Related Conditions-III.  JAMA Psychiatry. 2016 Jan;73(1):39-47.
+
+12. Pettinati HM, O'Brien CP, Dundon WD. Current status of co-occurring mood and substance use disorders: a new therapeutic target. Am J Psychiatry. 2013 Jan;170(1):23-30.
+
+13.  Sateia MJ, Buysse DJ, Krystal AD, Neubauer DN, Heald JL. Clinical practice guideline for the pharmacologic treatment of chronic insomnia in adults: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2017;13(2):307–349.  Available from http://www.aasmnet.org/Resources/pdf/PharmacologicTreatmentofInsomnia.pdf
+
+14.  American Psychiatric Association. Practice guideline for the treatment of patients with substance use disorders, 2nd edition. In American Psychiatric Association Practice Guidelines for the Treatment of Psychiatric Disorders: Compendium 2006. Arlington, VA: American Psychiatric Association, 2006 (pp. 291–563). Available online at http://www.psych.org/psych_pract/treatg/pg/SUD2ePG_04-28-06.pd
+
+15.  National Institute for Health and Care Excellence (NICE). Controlled drugs: safe use and management. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr 12. 29 p. (NICE guideline; no. 46).  Available from
+https://www.guidelines.gov/Home/Disclaimer?id=50178&contentType=fulltextlink&redirect=https%253a%252f%252fwww.nice.org.uk%252fguidance%252fng46
+
+16.   British National Formulary.  Published Jointly by the Pharmaceutical Press; Division of the Royal Pharmaceutical Society; 66-68 East Smithfield, London E1W 1AW, UK and BMJ Group; Tavistock Square, London, WC1H 9JK, UK; 2016: p. 9.
+
+16.   Anthierens S, Habraken H, Petrovic M, Christiaens T. The lesser evil? Initiating a benzodiazepine prescription in general practice: a qualitative study on GPs' perspectives. Scand J Prim Health Care. 2007 Dec;25(4):214-9.
+
+17.  Sirdifield C, Anthierens S, Creupelandt H, Chipchase SY, et al. General practitioners' experiences and perceptions of benzodiazepine prescribing: systematic review and meta-synthesis. BMC Fam Pract. 2013 Dec 13;14:191
+
+
+
+
+Table 1.  Selected benzodiazepine and benzodiazepine-like compounds (allosteric modulators of GABAA receptor)
+
+
+Benzodiazepines
+
+alprazolam
+lorazepam
+clonazepam
+diazepam
+chlordiazepoxide
+temazepam
+
+
+
+Benzodiazepine-like
+
+imidazopyridines
+
+zolpidem
+
+cyclopyrrolone
+
+eszopiclone
+
+pyrazolopyrimidine
+
+zaleplon
+
+
+ 
+
+Table 2.  The Use of Benzodiazepines In Patients With Substance Use Disorders
+
+Acute/Subacute
+
+1.  Detoxification:  Benzodiazepines remain the drugs of choice for alcohol and sedative hypnotic detoxification.  Many treatment facilities have withdrawal protocols that use anticonvulsants or phenobarbital, but benzodiazepines have the widest safety margin and may address some symptoms of the withdrawal syndrome like anxiety better than non-benzodiazepine options.  Benzodiazepines with long half-lives are generally preferable to other agents, but familiarity with options for patients with severe liver disease is also necessary.
+
+ 2.  Short term bridging to a more effective long term plan for treating anxiety or anxiety and depression:  Withdrawal syndromes in patients with a chronic and complicated history of use can be more difficult to treat than textbook scenarios based on the pharmacological properties of the medications being used.  In many situations, it is difficult to know if the withdrawal syndrome has been adequately treated, whether the underlying anxiety or sleep disorder is surfacing, whether there is a new substance induced disorder, or some combination of these processes. 
+
+ 3.  Short term bridging in the case of a polypharmacy situation where alternative medications are less safe:  Many of the non-benzodiazepine medications that are used to treat depression, sleep, and anxiety disorders have risk in a polypharmacy environment.  A common flag is problems with cardiac conduction. In many of these situations it is best to avoid any medications that target the patient’s anxiety or insomnia but potentially complicate other problems and use benzodiazepines temporarily.
+
+4.  Acute catatonia, agitation, akathisia, transient anxiety due to brief severe stressors. In residential treatment centers that agitation is more likely associated with complex withdrawal states that include severe anxiety states.  Benzodiazepines are useful medications to alleviate akathisia that can be the result of treatment with SSRIs or antipsychotic medications.
+
+
+Long-Term
+
+1.  Severe treatment refractory insomnia.
+
+2.  Severe treatment refractory anxiety disorders including mixed anxiety and bipolar states and mixed anxiety and depressed states.
+
+3.  1 and 2 only in situations where the abuse potential (dose escalation, multiple prescribers, additional illegal intoxicants) can be contained.
+
+  
+
+
+Table 3. Tips for Benzodiazepine Prescribing
+
+
+Interpersonal Dimension
+
+1.  Avoid emotional prescribing based on the stress of the situation or patient characteristics.
+
+2.  Have a well thought out general approach to prescribing and do not deviate from that plan.
+
+3.  Be aware of how prescribing a controlled substance can affect your decision making and the relationship with the patient.
+
+4.  Maintain a conservative prescribing bias in general and especially in the case of a suspected substance use disorder based on the risks and scenarios presented here.
+
+5.  Maintain a teaching role with the patient that includes a detailed risk benefit discussion and the rational for prescribing or not prescribing the benzodiazepine.  That includes an informed consent discussion of the addiction risk and how to prevent it.
+
+6.  Consult with colleagues in difficult situations and avoid professional isolation.  Solicit feedback on how colleagues would make similar decisions.  In group practices controlled substance prescribing can be the basis of a quality improvement initiative and process.
+
+
+Technical Considerations
+
+1.  Carefully assess patients requesting treatment with benzodiazepines especially if they are new to your practice.  The diagnosis being treated and the rationale needs to be clear.  Reevaluating the diagnosis and response to therapy over time is equally important.
+
+2.  Consider urine toxicology in search of other drugs especially compounds that are often used with benzodiazepines (methadone, opioids, alcohol, stimulants).  If a benzodiazepine is prescribed urine toxicology also confirms adherence rather than diversion.
+
+3.  Consult a prescription drug monitoring program (PDMP).  Rules vary by state and some states require checking the PDMP before the prescription of any controlled substance.
+
+4.  Consult with collateral contacts who know the patient well.  If the patient is in a structured environment – know the procedures for monitoring and dispensing the medication.
+
+5.  Have a clear plan and indication for the benzodiazepine including a plan for discontinuing it and discuss it with the patient at the time of the initial prescribing decision.
+
+6.  A written document on the expectations of the patient may be a good idea as an anchor point in treatment.  Although treatment contracts do not necessary improve outcomes, the expectations in terms of a single prescriber, precautions, expected outcomes and what must be avoided is generally better than a rushed conversation about the same topics.  That document can be a reference point for the future decisions.
+
+7.  Close monitoring is generally necessary with collateral contacts to assure that the patient is doing well and not experiencing complications from the benzodiazepine.  An important consideration in the collateral information is the patient’s functional capacity on the medication. 
+
+8.  Dose escalation can be an early sign of a problem, prescriptions be counted pill counts at each visit to determine the rate at which the patient is taking the medication.
+
+9.  Develop referral patterns for non-pharmacological approaches to problems that are commonly addressed by benzodiazepines like insomnia (referral to CBT for sleep) and chronic pain (pain specialist or physical therapy referrals).
+
+
+
+Supplementary:
+
+Here is a link to the final Psychiatric Times version of this article.

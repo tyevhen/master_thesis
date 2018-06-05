@@ -1,0 +1,49 @@
+Shocking as it might sound, leprosy continues to strike over 200,000 persons per year worldwide, making it as much of a health problem as cholera or yellow fever. One of the oldest known infectious diseases, leprosy became the first disease to be causally linked to bacteria when Hansen made his famous discovery of the connection to Mycobacterium leprae in 1873. Ever since then, scientists have been trying to grow M leprae in the lab, to no avail. Like most environmental isolates, M. leprae defies attempts at pure culture. The only way to grow it in the lab is to infect mice or armadillos, where it has a doubling time of 14 days, the longest known generation time of any bacterium.
+
+Traditionally, it has been assumed that the difficulty in growing M. leprae in pure culture is due to the organism's complex nutritional requirements. (In humans, the organism is an obligate intracellular parasite that takes up residency in the Schwann cells of the peripheral nervous system.) There is no doubt considerable truth to this assumption, but the reason for the organism's fastidious nutritional requirements wasn't fully known until Cole et al. (2001) showed that half the bacterium's genome is inoperative and undergoing decay. Genomic sequencing revealed that M. leprae has only three quarters the DNA content of its (quite robust) cousin, M. tuberculosis, and of M. leprae's 3,000-or-so remaining genes, only 1,600 are fully functional. The rest are pseudogenes.
+
+Pseudogenes are genes that have become inactivated through loss of start codons, loss of promoter regions, introduction of spurious stop codons, introduction of frameshift errors, or through other causes. Almost all organisms contain pseudogenes in their DNA. (Human DNA reportedly contains over 12,000 pseudogenes.) The leprosy bacterium, however, is unique in having approximately half its genome tied up in pseudogenes. Once a gene becomes a pseudogene, it is effectively useless baggage ("junk DNA") and continues on a long path of deterioration. Evolutionary theory predicts that such genes will eventually be lost from the genome, since the carrying cost of keeping them puts the organism at a disadvantage, energetically. But the curious thing about M. leprae is that it's a hoarder: It not only holds onto its useless genes, it actually transcribes upwards of 40% of them. In fact, a recent study of 1000-year-old M. leprae DNA (recovered from medieval skeletons), comparing the medieval version of the organism's genome with the genome of today's M. leprae, found that pseudogenes are highly conserved in the bacterium.
+
+The fact that the bacterium actually transcribes many of its pseudogenes (and doesn't lose them over time) is striking, to say the least, and suggests that the transcription of certain genes or pseudogenes is resulting in mRNAs that silence other, more deleterious genes.  It could be that M. leprae can't be grown in culture because when certain combinations of nutrients are presented to it, the nutrients up-regulate deleterious nonsense genes in otherwise-normal operons (or down-regulate important silencers), directly or indirectly. (Williams et al. found that many M. leprae pseudogenes are located in the middle of operons and are transcribed via fortuitous read-through.) Various scenarios are possible. Much work remains to be done.
+
+In the meantime, I couldn't help doing a little desktop science to characterize M. leprae's "defective genes" problem further. I went to http://genomevolution.org/CoGe/OrganismView.pl and entered "Mycobacterium leprae Br4923" in the Organism Name field. In the Genome Information box, if you click the "Click for Features" link, you can see that 1604 genes are labeled "CDS" (meaning, these are the operative, non-defective genes) while a separate line item shows an utterly astounding 2233 genes as pseudogenes. (Addendum: The FASTA file at genomevolution.org contains duplicates. The actual pseudogene count, it turns out, is 1116, not 2233. But still, 1116 is a huge number of pseudogenes.) The "DNA Seqs" links on the right side of that page allow you to download the FASTA sequences for the respective gene groupings. These are simple text files containing the base sequences (A, T, G, and C) for the coding strands of the genes.
+
+I wrote a few lines of JavaScript to analyze the base compositions of the genes (and pseudogenes), and what I noticed immediately is that the base composition differs for the two groups:
+
+Base Content (Genes) Content (Pseudogenes)
+A
+0.1938
+0.2119
+G
+0.3116
+0.2867
+C
+0.2890
+0.2778
+T
+0.2046
+0.2223
+
+The G+C content for the "normal" genes averages 60.6%, whereas for the pseudogenes it's 55.4%. A typical G+C value for other members of the genus Mycobacterium is 65%. Thus, it's clear that not only the pseudogenes but the "normal" genes of M. leprae have drifted in the direction of more A+T. This has been noted before (by Cole et al. and others). What's perhaps less obvious is that purine content (A+G) has shifted from 50.5% in the normal genes to 49.8% in the pseudogenes. Bear in mind we're looking at data for one strand of DNA: the so-called coding or "message" strand.
+
+Clearly, there is a tendency for pseudogenes to "regress to the mean." But the shift in purine concentration is particularly interesting, because it indicates that purine usage in normal-gene coding regions is perhaps non-randomly elevated. The shift from 50.5% to 49.8% in A+G content may not seem particularly striking on its own, but the difference, it turns out, is highly significant. You can see why in the following graph.
+
+Base composition of "normal" genes in M. leprae (total purines vs. G+C) by codon base position. (n=1604) Red dots are for base one, gold dots are for base two, blue dots are for base 3 (the "wobble" base). Click to enlarge. See text for discussion.
+
+To make this graph, I looked at the DNA of the coding regions of "normal" genes and determined the average purine content as well as the G+C content for positions one, two, and three of all codons. As you can see, the purine content (relative to the G+C content) segregates non-randomly according to codon base position. The red dots represent base one, the gold (or brown) dots represent base two, and the blue dots represent base three (often called the "wobble" base, for historical reasons). Not unexpectedly, the greatest G+C shift occurs in base three (as is usually the case). What's perhaps more surprising is the clear preference for purines in base one. The red cluster centers at y = 0.6051 plus or minus 0.0467 (standard deviation). This means that on average, position one of a codon is occupied by a purine (A or G) over 60% of the time. This is actually quite typical of codons in most organisms. I've looked at over 1,300 bacterial species so far, and in all of them, purines accumulate at codon base one. (Maybe in a future post, I'll present more data to this effect.)
+
+Base two segregates out as having a G+C content significantly below the organism's total-genome G+C content and centers on y = 0.4434 (median) plus or minus 0.0547 (SD).
+
+Now compare the above graph with a similar graph for M. leprae's pseudogenes:
+
+Base composition of M. leprae pseudogenes by codon position. (n=2233) Again, red dots are for base one, gold are for base two, blue are for base three. Click to enlarge. See text for discussion.
+
+Here, it's evident that base compositions for all three codon positions overlap significantly. The fact that the codon positions are no longer clearly defined in their spatial representation on this graph is consistent with widespread frameshift mutations in the DNA, causing bases that would normally be in position one (or two or three) to be in some other position, randomly.
+
+Hence we can say, with some confidence, on the basis of these graphs, that many (if not most) of the "junk genes" in M. leprae harbor frameshift mutations. The question of which came first—frameshift mutations, or silencing of genes (followed by frameshifts)—is still open. But we know for certain frameshifts are indeed rampant in the M. leprae pseudogenome.
+
+Exactly how or why M. leprae accumulated so many frameshift mutations (and then kept hoarding the mutated genes) is unknown. As I said earlier, much work remains to be done.
+
+Note: Graphs were produced using the excellent service at ZunZun.com. Hand-editing of SVG graphs (before conversion to PNG) enabled easy modification of the data-point colors in a text editor. Data points were plotted with opacity = 0.30 so that areas of high overlap are more apparent visually (with the piling of data points on top of data points).
+
+Bioinformaticists (and others!), feel free to leave a comment below.

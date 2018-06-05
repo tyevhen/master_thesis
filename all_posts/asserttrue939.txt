@@ -1,0 +1,1 @@
+ajax the acronym has been around only since , but as many observers have pointed out the underlying techniques have been around much longer it turns out oracle has been publishing its own best practices advice on partial page rendering since for the very latest oracle thoughts on ajax , i suggest reading the comments in their adf javascript code

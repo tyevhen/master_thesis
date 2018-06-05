@@ -1,0 +1,140 @@
+Obviously there is no theory of “autoimmune” diseases in Chinese medicine. However, by analyzing the nature of autoimmunity and of the Chinese correspondent of the immune system (which I shall call “defence system”) , we can formulate certain theories.
+
+In my opinion, autoimmunity implies seven aspects from a Chinese perspective which set it apart from other immunity problems (such as allergy or infection):
+
+1) The origin of the derangement of the defence system is deeper than in other diseases;
+2) The onset of the pathogenic factor in autoimmune diseases is more insidious (the Chinese word would often be “lurking”)
+3) The defence system’s derangement is rooted more in its Yin aspect (Jing, Marrow, Kidneys).
+4) A Kidney deficiency is at the root of autoimmunity
+5) Autoimmune diseases have a very complex pathology
+6) We should not equate inflammation with Heat
+7) The aetiology of autoimmune diseases is different than ordinary Chinese aetiology
+
+Before looking at these seven aspects, I would like to summarize the possible types of  pathology of the immune system and their Chinese interpretation.  My premise is that the 6 Stages and 4 Levels can be seen as patterns of disharmony of the immune system.   
+
+Before proceeding, I should define  “Zheng Qi”.  “Zheng” can be translated as “correct” or “upright”.  I translate “Zheng Qi” as “Upright Qi”.  Note the ethical, apart from medical, implication of the term: it is a Qi that is not only healthy but “correct”, “upright”.  The term “zheng” reveals a Confucian influence on Chinese medicine.  “Upright” or “correct” implies the application of the Confucian quality  “Yi”, i.e. the appropriateness of conduct, doing what is “appropriate” in every situation (of course appropriate according to Confucian ethics). Thus, Zheng Qi is not only what is appropriate from a medical point of view but also from an ethical one.
+
+In practical terms, “ Zheng Qi” is a general term for all types of Qi that play a role in the defence from pathogenic factors and therefore the immune response.  It is not a specific type of Qi (as Gu Qi is, for example), but a collective term to indicate all types of Qi that play a role in the immune response. The terms “Zheng Qi” is often used in opposition to “Xie Qi”, i.e.  pathogenic factor (literally “evil Qi”).
+
+Types of immune system pathology and Chinese equivalent in the 6 Stages and 4 Levels
+The following is an interpretation of dysfunctions of the immune system from the perspective of the 6 Stages and of the 4 Levels.
+
+Invasion of exterior pathogenic factor at the Exterior level
+Firstly, there is an acute bacterial or viral infection which is of course a very big part of Chinese medicine: it is the invasion of an exterior pathogenic factor that causes acute symptoms.  These are described in the 6 Stages of the Shang Han Lun or the 4 Levels of Ye Tian Shi of the Wen Bing School.  In both systems, it is the beginning stage, i.e. the Tai Yang Stage in the 6 Stages or the Wei Level in the 4 Levels.  By definition, the acute symptoms of this stage (especially fever) indicate that the Zheng Qi is reacting against the pathogenic factor: this is a good thing. The Zheng Qi is reacting against the pathogenic factor or, from a biomedical perspective, the immune system is fighting the virus (or bacteria): this is a normal, healthy reaction.  Our aim is ideally to expel the pathogenic factor at the Exterior stage; if this is not possible, we should definitely expel it (or “clear” it or “drain” it) at the Qi Level.
+
+Exterior pathogenic factor penetrating into the Interior
+If the exterior pathogenic factor penetrates into the Interior, it changes into Heat and, at this stage, it is Interior Heat: this is either the Yang Ming stage of the 6 Stages or one of the Qi Level patterns. At this stage, the fever is higher and this is still good as it indicates that the Zheng Qi (or the immune system) is reacting against the pathogenic factor (or infection in a Western sense).  These two stages (the Exterior one and the Interior-Heat one) are “normal” developments in the pathology of an invasion of a pathogenic factor.   
+
+Yin stage as an immune deficiency 
+Another pathology of the immune system is an immune deficiency as that seen in HIV. From a Chinese perspective, this is a serious and total deficiency of the Zheng Qi in all its aspects.  I would add to this also the immune deficiency that leads to cancer. In the Chinese theory of cancer (which focuses on solid tumours) all cancers are due to an accumulation of Qi and Blood: this accumulation cannot occur without an underlying deficiency of Zheng Qi. If Zheng Qi is healthy and circulates well, Qi and Blood cannot accumulate and stagnate and cancer cannot develop.  This is borne out by Western biomedicine as we know that cancers cells are formed all the time in healthy individuals and that they are neutralized by the immune system every day.
+    From a Chinese perspective, I assimilate this to the three Yin stages of the 6 Stages or the Ying and Blood Levels of the 4 Levels. I am not saying that these describe the pathological changes of cancer but that they can be seen as a paradigm of the pathology of cancer in the context of the immune system.
+
+Relative immune deficiency
+There is a new type of immune deficiency that is now recognized as the root of Chronic Fatigue
+Syndrome (CFS). In CFS, the patient’s immune system is reacting but not enough: this leads to the chronicity of this disease that can go on for years without the patient getting better or worse. This has only been recognized as a pathology of the immune system recently.  Previously it was thought that either the immune system is working and the patient will get better or it is not, as is the case in HIV.  From a Chinese perspective, in CFS the patient does not improve because there is a simultaneous deficiency of Zheng Qi and a pathogenic factor that is usually Dampness.
+    With reference to the 6 Stages and 4 Levels, CFS often presents with the Shao Yang pattern of the 6 Stages or the Gall-Bladder Heat pattern of the 4 Levels (which is almost the same as the Shao Yang pattern).  The patient is not getting better and the course of the disease is chronic because the pathogenic factor is “stuck” in the Shao Yang energetic layer and it “bounces’ between the Yang Ming stage (causing feeling of heat) and the Tao Yang stage (causing feeling of cold), hence the alternation of feeling hot and feeling cold.
+
+Hyper-reactivity of the immune system (allergy)
+In allergy, the immune system is hyper-reactive, i.e. it reacts against allergens that a normal immune system would not react against. This is seen in allergic asthma, allergic rhinitis and atopic eczema.
+    Leaving eczema aside, the allergic hyper-reaction can be assimilated to the Tai Yang stage (of the 6 Stages) or the Wei level (of the 4 Levels).  This is very clear in the case of allergic rhinitis where the symptoms mimic those of an invasion of Wind (sneezing, runny nose, headache).  Thus we could argue that the Tai Yang stage and the Wei Level describe not only the symptoms of an acute invasion of Wind but also those of respiratory allergy.
+    The following Table summarizes the types of immune system dysfunction with the last one, autoimmunity, discussed below.
+
+
+Immune reaction
+ Disease
+6 Stages/4 Levels
+Acute viral infection, exterior invasion of Wind
+Acute influenza
+Tai Yang/Wei Level
+Good reaction by immune system after external attack
+Acute disease (e.g. bronchitis)
+Yang Ming/Qi Level
+Not reacting
+HIV, cancer
+Tai Yin-Jue Yin-Shao Yin/Ying and Blood Level
+Reacting, but not enough
+Chronic Fatigue Syndrome
+Shao Yang Stage/GB-Heat Qi Level
+Hyper-reactivity, allergy
+Allergic asthma, allergic rhinitis, atopic eczema
+Tai Yang Stage/Wei Level
+Autoimmunity
+  Latent Heat/Yin Fire
+
+
+AUTO-IMMUNITY
+Finally, autoimmunity is another possible pathology of the immune system in Western medicine. 
+Let us look at seven aspects of autoimmunity from a Chinese perspective more in detail.  As we know, in autoimmune diseases, there is a total breakdown in that the body’s immune system fails to recognize the body as ‘self” (as the normal immune system does) and attacks it as if it were a foreign body.
+
+1) The origin of the derangement of the defence system is deeper than in other diseases
+Autoimmune diseases stem from a derangement of the immune system but none of them starts with symptoms of an exterior invasion. The onset cannot be clearly defined and the pathology is complex. Thus, the “Zheng Qi” that reacts against an external pathogenic factor is different than the “Zheng Qi” that leads to an autoimmune disease. The former is a healthy Qi that fights pathogenic factors; the latter is a dysfunctional type of Qi that attacks the body itself.
+
+2)  The onset of the pathogenic factor in autoimmune diseases is more insidious
+The onset of autoimmune diseases is never like an external invasion, it is insidious and the Chinese word used is often “lurking”.  The Chinese term for Latent Heat (which is often the pathology of autoimmune diseases)  is “fu” which means “hidden”.  As we shall see, this is often due to the development of  Latent Heat or Yin Fire.  Its “insidious” character implies that the root is often difficult to see and that the treatment will be more difficult.  For example, in an external invasion of Wind, the nature of the pathogenic factor is very clear and the treatment relatively easy.  By contrast, in an autoimmune disease, the pathogenic factor is less visible and one that gives often rise to contradicting Hot and Cold symptoms.
+
+3) The defence system’s derangement is rooted more in its Yin aspect
+As we have seen, there are very many components of the immune system in Chinese medicine, some Yang, some Yin.  Wei Qi is a Yang type of Qi and so are Yuan Qi and Ming Men; Jing and Marrow are Yin types of Qi.
+    The derangement of the defence system seen in autoimmune diseases is due more to the Yin than the Yang components, i.e. Jing and Marrow.
+
+4) A deficiency of the Kidneys is at the root of autoimmunity
+A deficiency of the Kidneys is, in my opinion, nearly always at the root of autoimmune diseases. Please note that this is not necessarily a Kidney-Yin deficiency: it can be a Kidney deficiency in all its possible manifestations, i.e. Kidney-Yin, Kidney-Yang, Kidney-Jing. One reason is that a Kidney deficiency is usually the root of the development of Latent Heat which is often the pathology underlying autoimmune diseases.  Latent Heat is formed when a pathogenic factor invades the body without causing acute symptoms: the absence of acute symptoms indicates that, when the pathogenic factor invaded the body, the Zheng Qi did not react, there was no healthy immune system response.  As we shall see later, this is due to a Kidney deficiency.
+    Some modern Chinese doctors see the pathology of autoimmune diseases as Yin deficiency and Empty Heat.  I cannot agree with this view and personally think that the pathology of autoimmune disease is more complicated than that. Very many patients with autoimmune diseases suffer from a Yang deficiency (clearly shown by a pale tongue).
+
+5) Autoimmune diseases have a very complex pathology
+Autoimmune diseases have a very complex pathology and confusing and contradictory symptoms and signs.  We should expect this and consider it the norm rather than the exception. This is because there is an underlying Kidney deficiency which may be Kidney-Yang deficiency which would cause Cold symptoms but, at the same time, there may be Heat symptoms due to Heat or Damp-Heat. Rheumatoid arthritis is a good example of this as the joints are hot to the touch and possibly red and yet, if there is Yang deficiency, the tongue is pale, the skin pale and the patient often feels cold.
+    Another example is that of Hashimoto’s thyroiditis which is characterized by hypothyroidism in which the most common pattern is Spleen- and Kidney-Yang deficiency; however, there are cases of it with Yin deficiency.  In rheumatoid arthritis there is inflammation of the joints which may be red and swollen and yet very often the tongue is pale. Sjøgren’s syndrome’s symptoms are clearly those of Yin deficiency but often the tongue does not show it.
+    Moreover, in very many autoimmune diseases there are multiple pathogenic factors such as Dampness, Phlegm, Qi stagnation, Blood stasis, Toxic Heat. 
+
+6) We should not equate inflammation to Heat
+In all autoimmune diseases there is inflammation which plays a big role in the pathology of these diseases.  Inflammation is discussed more at length below.  It is very important not to equate the Western biomedical concept of inflammation with the Chinese concept of Heat. It is perfectly possible to have inflammation in the presence of Cold and Yang deficiency. Indeed that is what often happens in Hashimoto’s thyroiditis and rheumatoid arthritis just to mention two.
+    Also, if we look at the list of anti-inflammatory Chinese herbs, we can see that they are found in many different categories and not only in that of Clearing Heat: indeed, there are anti-inflammatory herbs in the Tonifying Yang or Expelling Cold categories.
+A list of the anti-inflammatory Chinese herbs was given in the previous post on autoimmune diseases of 11th of January 2013.
+
+7) Aetiology of autoimmune diseases
+It is important to grasp the aetiology of autoimmune disease because it gives us an indication as to their treatment. Chinese books always mention invasion of external pathogenic factors, emotional stress, irregular diet, etc.  These do play a role but they are more triggering than causative factors.  It is true that, for example, Dampness can be an aetiological factor in MS but millions of people are invaded by Dampness and only very few will get MS, so there must be other factors at play. These factors may be toxicants, tobacco, alcohol, infectious agents and radiation.
+    Again, the aetiology of autoimmune disease is deeper, more subtle, more insidious, more complex and one that must take into account modern factors.
+
+Genetic aetiology of autoimmune diseases
+In answer to the above question as to why millions of people are invaded by Dampness but only a few get MS, the answer is that there must be a strong genetic component, or what might be called “Pre-Heaven” in Chinese medicine. Therefore we must acknowledge that and remember that in the treatment, i.e. we must treat the Kidneys and Kidney-Jing.
+
+Immunizations as aetiological factor in autoimmune diseases
+In my opinion, immunizations play an important role in the aetiology of autoimmune diseases.  This is impossible to prove but my opinion and experience strongly direct me to this.  Briefly, I believe that most immunizations may create Latent Heat and this is, I believe, the pathology of may cases of autoimmune diseases (not all).  From a 4-Level perspective, when we immunize (a child or adult with influenza vaccine for example), it is as if we injected a pathogenic factor (the vaccine, whether attenuated or live) at the Blood Level directly, bypassing the other three Levels, and, crucially, especially the Wei Level. Although immunizations are supposed to stimulate the immune system to produce antibodies, the by-passing of three Levels, plays havoc with the immune system. This leads to the formation of Latent Heat which may be the cause of very many syndromes, one of them being autoimmune diseases.
+
+Hygiene theory in autoimmune diseases
+Some now think that autoimmune diseases may be caused by lack of exposure to bacteria in childhood. This is because modern children live in much more hygienic conditions than in the past. In the past, they were exposed to more bacteria and this had the effect of actually strengthening the immune system. Nowadays, children are not exposed to so many bacteria so that the immune system becomes “delicate” and starts reacting to itself (in the case of autoimmune diseases). For this reason, this theory is called the “hygiene theory”.  This is still only a theory but I think there is a lot of truth in it.  Previously, the hygiene theory explained the increasing incidence of allergic diseases but it is now thought that it also applies to autoimmune diseases.  Although very different pathologies, there is a similarity between the two in that the immune system reacts to substances it should not react to: allergens in the case of allergic diseases, the body’s own cells in the case of autoimmune diseases.    
+
+INFLAMMATION
+As inflammation is a feature of autoimmune diseases, we should discuss inflammation in biomedicine and its interpretation in Chinese medicine. Inflammation is the normal response of the organism to pathogens or irritants. Inflammation is often the consequence of infection but we should not confuse the two. When we are invaded by Wind (a virus in Western medicine) we develop a fever and an acute inflammation, i.e. we have an infection and a subsequent inflammation.
+
+Inflammation is part of the complex biological response of vascular tissues to harmful stimuli, such as pathogens, damaged cells, or irritants.  The classical signs of acute inflammation are pain, heat, redness, swelling, and loss of function.  Inflammation is a protective attempt by the organism to remove the injurious stimuli and to initiate the healing process. Inflammation is not a synonym for infection, even in cases where inflammation is caused by infection. Although infection is caused by a microorganism, inflammation is one of the responses of the organism to the pathogen.
+       
+Inflammation may become chronic and play an important negative role in many diseases.  In such cases, inflammation does not play a positive role such as that played by acute inflammation in response to a pathogen.  For example, allergic asthma is an allergic disease in which an excessive number of IgE on the mast cells in the bronchi react to allergens leading to an “explosion” of the mast cells with the release of chemical mediators that cause inflammation.  These perpetuate broncho-constriction,  airway hypersensitivity and thickening of the airway wall, inflammation becomes chronic and the patient “has chronic asthma”.
+
+Chronic inflammation can lead to a host of diseases.  Chronic inflammation is now known to be involved in cardiovascular diseases, cancer, diabetes, obesity, arthritis, neurological diseases, pulmonary diseases and autoimmune diseases.  We now know that most of these diseases are caused by dysregulation of inflammatory pathways, leading to chronic inflammation.  Interestingly, the aetiological factors of inflammation are stress, toxicants, tobacco, alcohol, infectious agents and radiation.  I would add to these immunizations (that count as infectious agents).  This list shows how modern aetiological factors are different from those of ancient Chinese medicine.
+
+Extensive research has indicated that pro-inflammatory genes are regulated by transcription factors. Transcription factors act as drivers to control gene expression and to regulate signalling pathways.  Dysregulation of these transcription factors induces chronic inflammation and chronic disease.
+
+Many plant active ingredients have been shown to regulate transcription factors and inhibit inflammation. The following is a list of these ingredients from Chinese herbs.
+
+Butein from Jiang Xiang Lignum Dalbergiae odoriferae (move Blood)
+Cardamonin from Cao Dou Kou Semen Alpiniae katsumadai (resolve Dampness, move Qi).
+Berberine from Huang Lian  Rhizoma Coptis (clear Heat and Damp-Heat)
+Evodiamine from Whu Zhu Yu Fructus Evodia rutaecarpae (expel Cold)
+Boswellic acid from Ru Xiang Resina Boswelliae carterii (move Blood)
+Emodin from Hu Zhang Rhizoma Polygoni cuspidati (move Blood) and Da Huang Radix et Rhizoma  Rhei 
+Curcumin from Jiang Huang Rhizoma Curcumae longae (move Qi, move Blood).
+
+Inflammation can be classified as either acute or chronic. Acute inflammation is the initial response of the body to harmful stimuli and is achieved by the increased movement of plasma and leukocytes (especially granulocytes) from the blood into the injured tissues. A cascade of biochemical events propagates and matures the inflammatory response, involving the local vascular system, the immune system, and various cells within the injured tissue.
+
+Chronic inflammation, leads to a progressive shift in the type of cells present at the site of inflammation and is characterized by simultaneous destruction and healing of the tissue from the inflammatory process.
+
+An allergic reaction, known as type 1 hypersensitivity, is the result of an inappropriate immune response triggering inflammation.  A common example is allergic rhinitis which is caused by a hypersensitive response by skin mast cells to allergens.  Pre-sensitised mast cells respond by degranulating, releasing vasoactive chemicals such as histamine.  These chemicals propagate an excessive inflammatory response characterised by blood vessel dilation, production of pro-inflammatory molecules, cytokine release, and recruitment of leukocytes.
+
+Other hypersensitivity reactions of type 2 (hemolytic anemia, myasthenia gravis, pernicious anemia) and type 3 (SLE, rheumatoid arthritis, autoimmune glomerulonephritis) are mediated by antibody reactions and they also induce inflammation by attracting leukocytes which damage surrounding tissue.
+
+Inflammation plays a role also in cancer. Inflammation orchestrates the microenvironment around tumours, contributing to proliferation, survival and migration. Cancer cells use selectins, chemokines and their receptors for invasion, migration and metastasis.
+
+Inflammation and autoimmune diseases
+The part of the immune system that fights pathogens is the acquired immune system.  It “remembers” foreign antigens, or proteins, so that it can fight them if they come back. It employs  lymphocytes.
+    The body also has an innate immune system that is more primitive. It employs other types of white blood cells such as granulocytes and monocytes to destroy harmful substances.  In autoinflammatory diseases, this innate immune system causes inflammation for unknown reasons. It reacts, even though it has never encountered autoantibodies or antigens in the body.  This is interesting as, in my opinion, the innate immune system might be reacting against the pathogens of immunizations.
+    Autoinflammatory disorders are characterized by intense episodes of inflammation that result in such symptoms as fever, rash, or joint swelling.  These diseases also carry the risk of amyloidosis, a potentially fatal build up of a blood protein in vital organs. 

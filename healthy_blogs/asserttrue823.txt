@@ -1,0 +1,5 @@
+Google has introduced yet another service, called Google Measurement Labs, designed to test your connection speed and provide various types of information about your last-mile chokepoints.
+
+I have read Google's own announcement about this as well as several blogs that try to explain it, and honestly, I still can't fathom the true motivation(s) behind it or why the heck anyone outside of academia (or perhaps the NSA) would even care. Obviously, Google has an interest in last-mile problems (the Internet is its lifeblood), but offering this set of diagnostics to the general public gives the impression that Google is very proudly answering a question nobody asked.
+
+I don't get it.

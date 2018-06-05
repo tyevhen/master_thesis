@@ -1,0 +1,26 @@
+I'm posting this for ClinkShrink at her request. She's in jail at the moment and they block Blogger. This is in honor of the Apple Tablet announcement today, and she's looking to pick a fight with Roy!
+
+Rage Against The Machine
+---by ClinkShrink.
+
+With the pending announcement of the long-awaited Apple tablet, and on the heels of my new programming project (an iPhone app), I'm thinking about health information systems. This blog post is a blatant attempt to yank Roy's chain, but I know he's smart enough to see right through it. Nevertheless, if he totally agrees with me I'm going to be quite disappointed.
+
+The fact of the matter is, I'm a geek and I love technology but I really really dislike health information systems. I've yet to meet one (other than stuff I've designed myself) that doesn't drive me screaming into banshee land.
+
+I know all the supposed benefits of healthcare information systems: they're supposed to improve care by allowing communication between providers, they're supposed to reduce healthcare costs by improving efficiency, they're supposed to contribute to medical knowledge by collecting aggregate data about diseases for research.
+
+I also am concerned about the downside of health information systems: potential threats to information security, harmful uses of the data that's collected, breaches of confidentiality and loss of independent medical decision-making.
+
+Fine. That's not why I've hated them. The reason I strongly dislike most systems I've used is because they make it harder to figure out what my patient really has.
+
+Psychiatry is a descriptive art. You make a diagnosis through observation and description. You treat people through language and free communication. Information systems stifle all that. Instead of being able to document that the patient "believed he was the President so he hopped on a bus to Washington, camped out on Pennsylvania Avenue for three weeks, then climbed over the fence of the White House", I only get to check a little box that says "delusional". Now, that really loses something.
+
+Even when the computer programmers give me a textbox instead of a checkbox, I run out of room to document the treatment history of a really complicated patient. I could type for ten minutes about the stuff I want the next clinician to know, only to discover that my keystrokes have been brutally ignored and rejected by the $#@!J$#* healthcare interface.
+
+I am a geek. I want my machines to obey me. Instead, I am forced to let the machine convert my prose into categories, to shave off the nuances and color and "flavor" of the people I treat, all because the system is designed by engineers rather than clinicians. I am peppered by little popup warnings about contraindications and medication interactions that only occur in one out of every 10,000 people. I have ignore these so regularly that I fear missing the one that might truly be dangerous.
+
+Will the benefits of a national health information system outweigh the risks? Better yet, will doctors be able to use them without wanting to smash a keyboard over somebody's head? Only time will tell.
+
+So, that's my take on the 'con' side of the national information system. I'll leave to Roy to be the 'pro'.
+
+******

@@ -1,0 +1,7 @@
+Over at Author-Zone.com, I managed to put together a News page in record time using the WordPress plugin HungryFEED. The (free) plugin was worth its weight in gold. And validates (in my mind) the superiority of the WordPress platform as a blogging platform.
+
+Most plugins are easy to install or uninstall on WordPress and can be figured out quickly. HungryFEED was and is way better than most, though. It pulls RSS feeds from any source (you drop a shortcode into a page to render the feed or feeds you want to use) and lets you apply custom CSS and/or custom JavaScript to your streams very easily. It has easy ways to strip out img tags or table tags or other tags you might not want to render from the RSS sources. I was able to override any and all features easily using a few lines of custom JavaScript or CSS.
+
+Way to go, HungryFEED! Way to go WordPress.
+
+A ways to go, Blogger.

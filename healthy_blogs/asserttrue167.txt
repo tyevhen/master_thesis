@@ -1,0 +1,44 @@
+I've been reading some thoughtful articles on the recent non-announcement by Google of their non-intention to rank search results by veracity (a good introduction to the subject being Chris Mooney's Why some people are so terrified of a Google truth machine), and I must say, for an algorithm that's years away from being rolled out to production, for which (in fact) no decision to move forward on it has even been made, it sure has gotten a lot of people upset. I'm sure Donald Trump is absolutely livid. How dare Google get to decide whether or not Obama was born in Africa? And the climate-change denialists. How dare Google weigh the evidence on global warming! And Scientologists: How dare Google decide whether L. Ron Hubbard's scriptures are the revelations of a saint, or the ravings of a delusional freak!
+
+I haven't checked in with Fox News in a while. They must be livid too. How dare anyone try to use actual facts in a discussion?
+
+The Google research paper (PDF here) hardly instills confidence, though:
+We propose using Knowledge-Based Trust (KBT) to estimate source trustworthiness as follows. We extract a plurality of facts from many pages using information extraction techniques. We then jointly estimate the correctness of these facts and the accuracy of the sources using inference in a probabilistic model. Inference is an iterative process, since we believe a source is accurate if its facts are correct, and we believe the facts are correct if they are extracted from an accurate source. We leverage the redundancy of information on the web to break the symmetry. Furthermore, we show how to initialize our estimate of the accuracy of sources based on authoritative information, in order to ensure that this iterative process converges to a good solution.
+Anyone else's bullshit detector explode in the middle of reading this? I'm still picking schrapnel out of my eyes.
+
+Bravo, bravissimo! whoever wrote the Google paper (um, let me see, that would be: Xin Luna Dong, Evgeniy Gabrilovich, Kevin Murphy, Van Dang, Wilko Horn, Camillo Lugaresi, Shaohua Sun, and Wei Zhang), you all passed the cranial/rectal-inversion portion of the job interview!
+
+Where to begin?
+
+Okay. How about with the bottom line? The idea that you can converge on The Truth algorithmically is (how shall we say?) rather comical. At the very least, it's based on (ahem) a lot of assumptions.
+
+I won't try to deconstruct the whole miasma here. Let me approach it from a different angle.
+
+I think the 15-year-long Wikipedia experiment tells us what happens when accuracy is crowdsourced. (In this case, by hand; not by machine.)
+
+Ask yourself: Is veracity a matter of consensus?
+
+Do facts yield to algorithmic peer review?
+
+Is the factual basis of something determined by "leveraging the redundancy of information on the web to break the symmetry"?
+
+Does no one remember how to spell GIGO?
+
+More than that, though: Do we really want Google to be the arbiter of "the truth"?
+
+That's pretty much where the debate has come to, so far. But we need to take it even further. Rather than ask whether Google should be entrusted with arbiting reality, we should first recognize that Google does, now, in fact, disambiguate and prioritize, personalize, commercialize, and continuously parse, repackage, and reinvent our reality every moment of every day, and has been doing so for some time—just as the Rupert Murdochs and Viacoms and Disneys and Time Warners of the world spin out their version of reality for us to consume (or not consume). There is no such thing as an information channel with "pure," unfiltered content (and never has been). If you consume information, you're consuming someone's version of reality. Don't lose sight of that.
+
+Certainly, consensus is good enough for many use cases. (And "good enough" is the basis of many a successful commercial enterprise. Just ask McDonalds.) I have no doubt that whatever algorithms the Council of Nicaea  learned experts at Google come up with will do a competent job (so far as it's technically feasible to do) of weighing evidence, if that's all this is about. All they have to do is label or show "evidence scores" clearly (and let me set my own prefs, to allow Donald Trump Mode if "I'm feeling lucky") and I'm fine with whatever brand of Objective Truth they come up with, as long as they promise, of course, not to be evil (tee-hee-hee).
+
+But let's not fool ourselves into thinking there's such a thing as objective truth out there, on every subject, or that any amount of Google parlor-trickery is going to unearth it.
+
+I guess the more important issue is, if you think the debate is really about whether or not Google should be allowed to fashion our reality, you're missing the point. They already do fashion our reality. They're fashioning it even now, as we speak. If you don't believe me? Just do a Google search.
+
+☙ ❧
+
+The following list of great people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. Regardless, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+If you enjoyed this post, won't you pass the link along on social media? Thanks! Meanwhile, have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.   

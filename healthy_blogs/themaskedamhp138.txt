@@ -1,0 +1,42 @@
+Case Law relating specifically to the discharge of AMHP’s powers under the MHA is fairly rare. I don’t know whether this is because AMHP’s rarely make mistakes, or whether it is because most people who are detained under the MHA don’t know enough about the legal process to know whether or not an error in law has been made.
+
+Whatever the reason, court cases of relevance to AMHP practice seem to be like buses – you don’t get any for ages, then two come along at once. In fact, the two particular cases I’m writing about were heard within a month of each other – in March and April 2012.
+
+The first is DD v.Durham County Council & Middlesbrough City Council ([2012] EWHC 1053 (QB)). Although the events with which the Claimant took issue occurred at the end of 2009 and the beginning of 2010, the Claimant did not actually issue proceedings until nearly the end of 2011.
+
+DD had been serving a prison sentence. When the sentence ended, but during a period in which DD continued to reside in the prison, he was assessed under the MHA by two AMHP’s, and the decision was made to detain him under Sec.2 for assessment. He was admitted to a medium secure psychiatric unit. Before this expired, he was assessed by two more AMHP’s, who decided that he should be detained for treatment under Sec.3. Because the location of the assessment was not in the Durham area, and because of the adverse weather conditions pertaining at the time, a Middlesbrough AMHP subsequently assessed and applied for his detention under Sec.3.
+
+DD wanted to instigate proceedings under Sec.139 MHA. This relates to liability for acts “done in bad faith or without reasonable care”. In effect, he wanted to sue one or more of the AMHP’s who had been involved for detaining him illegally.
+
+DD argued that both the AMHP’s who had completed the Sec.2 application and the subsequent Sec.3 had breached their duties under Sec.13(2) MHA.
+
+Sec.13(2) states:
+“Before making an application for the admission of a patient to hospital an approved mental health professional shall interview the patient in a suitable manner and satisfy himself that detention in a hospital is in all the circumstances of the case the most appropriate way of providing the care and medical treatment of which the patient stands in need.”
+
+He argued that the AMHP in question had “a duty to investigate the proposed place of detention, the location where the patient will be kept while there and the regime to which he will be subject. This is said to arise because of the need to make a recommendation in the light of ‘all the circumstances’”. This was because he was objecting to the secure unit he was sent to, instead preferring to go to Rampton.
+
+The Judge in the case dismissed this argument in one paragraph:
+
+“It is obvious than an AMHP is not directly responsible for the medical or other regimes to which a detained person is subjected… An AMHP has certain responsibilities under the Mental Health Act which include recommending a person for detention under s.2 or under s.3. Their responsibilities have to be discharged in the light of all the relevant circumstances of the case, which would include taking into account the assessments of qualified doctors. Their functions do not extend, however, to choosing an institution in which the person concerned is to be detained – still less to researching the available facilities or carrying out a reconnaissance to assess their quality.”
+
+This is reassuring confirmation of what I am sure is a universal view held by AMHP’s, which is that they only need to decide whether or not a patient needs to be detained, and not the suitability or otherwise of the hospital they will be admitted to.
+
+DD described himself as having “a paranoid, narcissistic and antisocial personality disorder”. This observation would be entirely consistent with the nature of his complaint.
+
+While in this case, the AMHP’s involved were all exonerated, this was not the outcome in GP v. Derby City Council ([2012] EWHC 1451 (Admin)).
+
+At the time of the court hearing, GP had been detained under Sec.3 in a low secure unit since July 2011. He was challenging the legality of this detention on the grounds that the AMHP had failed to consult with the patient’s Nearest Relative as required under Sec.11(4)(a).
+
+The AMHP who made the application maintained that he had attempted to contact the NR on her mobile phone, but had not been able to speak to them. He therefore stated that it was not reasonably practicable, or would involve unreasonable delay to do so, and completed the application. In the space provided on Form A6, he had written: "I have tried to contact several times but the mobile went to answer machine. As GP Section 2 is due to lapse later today and given his current state I felt it would involve unreasonable delay to consult with Ms P."
+
+This assessment was concluded at around 1600 hrs on the day that the existing Sec.2 detention was due to expire at midnight. The AMHP had been under pressure of time, and was also being pressured by the ward staff to complete the application on the basis that the patient needed to be transferred to a Psychiatric Intensive Care Unit (PICU).
+
+The Judge noted that the AMHP had been ringing the wrong number, but that the correct number was available on medical records. He also noted that the AMHP himself had stated in evidence that it was his usual practice to visit the NR at their home in order to consult with them under Sec.3. The Judge concluded that there had been enough time to visit the NR, and that the AMHP should have done this. He therefore concluded that the AMHP had indeed failed in his duty to consult with the NR, and as a consequence, this rendered the Sec.3 unlawful.
+
+The Judge said:
+
+“On the evidence that is available, the question has to be asked as to whether it was plainly wrong to proceed with an immediate certification in the circumstances as they were. I conclude that it was because, as I have attempted to explain, section 11 provides constitutional protection for those that are faced with detention under the Mental Health Act. Compliance with the requirements of section 11(4) is therefore the price which is paid for the ability of those charged with the treatment of those with mental illnesses and disabilities to detain people without immediate recourse to a court and in a way which is compliant with Article 5. Thus there is a heavy duty on those who carry out these tasks to ensure that those statutory provisions are complied with.”
+
+This case has considerable implications for AMHP practice. The Judge makes it clear that, in order not to breach Article 5 of the Human Rights Act (The right to liberty and security), an AMHP must go to considerable and quite possibly arduous lengths to fulfill their legal obligations. It is not enough to ring the NR a couple of times and then fill in the form saying that it is impracticable to consult with them. The AMHP must show far more evidence of their efforts.
+
+The consequence of this particular lapse was that the patient was deemed to have been unlawfully detained for up to 9 months.

@@ -1,0 +1,134 @@
+On Valentine's Day (14 Feb), I posted something here that arguably "went viral," although in truth, 22,743 27,932 views can hardly be considered viral (real virality would be, say, 100K page views). Let's put it this way: There was an element of virality involved. Why do I say that? Because blog traffic was up by an order of magnitude. That counts as unusual.
+
+I like to go over "what happened" after an unusual traffic day so I can understand it better. To do this requires digging through the analytics data. But the analytics are mysterious in their own way (see below).
+
+Note that the following numbers were collected on the morning of 15 Feb 2015, about 26 hours after publication of the blog in question. Some of the numbers come from Twitter Analytics. The rest come from Blogspot analytics, not Google Analytics.
+
+Traffic
+
+Hourly visits are plotted in this graph. The interesting thing here is that the long tail is quite fat; the initial spike was not very "spikey." I've had viral posts before, and in almost every case, the initial spike is extremely spikey, with traffic falling back down to nothing in just a few hours. In this case, the long "hang time" speaks to the possibility that the story was largely shared via e-mail and/or Flipboard. The Twitter response (see curve further below) died out comparatively quickly. The story lived on via e-mail, text, Flipboard, etc., for quite some time.
+
+Traffic by Source
+Here, Blogspot tells us, unhelpfully, where about 25% of total traffic came from. I don't know why, but Blogspot numbers (in the Referring URLs view) never add up to anywhere near total traffic as reported in other views. Here, the numbers add up to 5,162 visits from the top 10 referring URLs, yet there were over 20,000 visits total. Maybe links shared by e-mail don't show up in the above chart? Is that what's going on? You tell me. I'm asking.
+
+The takeaway from this chart, in any case, is that this was a Twitter event, pretty much. Sure, there were other traffic sources, but the top source (Twitter) dominates the rest.
+
+The Tweet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This (above) was the Valentine's Day tweet that started everything. It got 211 RTs. The engagement numbers are as follows (click to enlarge):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The interesting thing here is not so much total impressions being 29K (which is more than double what I usually see on a tweet) [37,685 as of 19 Feb.] but the Link Clicks number: 2,191. That's way above normal. And who knew you could get 164 profile clicks from a single tweet? Total engagement (clicks of all kinds) came to 13.8%, which is unusually high.
+
+Traffic by Browser
+The numbers for traffic by browser show a surprising stat: Around half of views (46%) were in Zite, which is essentially Flipboard. (Flipboard bought Zite, a mobile news aggregator, in March 2014.) Unhelpfully, Blogspot shows "Mobile" as the browser for 15% of traffic, the second-biggest slice of the pie. It's clear most views were on mobile devices. We know, for example, Chrome was used by 14% of people, yet Android (which is mostly Chrome) brought 7% of traffic (see OS section, below), hence probably half of Chrome views were on Android. Zite is predominantly a mobile platform.
+
+Browser Pageviews
+Zite
+8444 (46%)
+Mobile
+2856 (15%)
+Chrome
+2618 (14%)
+Safari
+2057 (11%)
+Firefox
+1413 (7%)
+Internet Explorer
+471 (2%)
+OS;FBSV
+124
+Mobile Safari
+123
+CriOS
+21
+
+Traffic by Operating System
+The numbers for traffic by OS show a surprising (to me) dominance of Apple platforms, at 78% of total traffic, with Windows users coming in at only 11% of the total, a little more than Android at 7%. Who knew I had so many Apple users?
+
+
+OS Pageviews
+iPhone
+6233 (34%)
+iPad
+6091 (33%)
+Macintosh
+2167 (11%)
+Windows
+2007 (11%)
+Android
+1374 (7%)
+Linux
+169
+Other Unix
+75
+BB10
+19
+iPod touch
+18
+
+
+I'm open to other interpretations of the data, but it feels to me very much as though a huge amount of traffic came via mobile, which shouldn't be a surprise, I guess, given that this was a Twitter-driven event, plain and simple.
+
+Aftermath
+The sudden rush of traffic (27,000 total site visits in two days, about 22,000 more than normal) had some side-benefits. Links to Author-Zone.com and my book site (hackyourdepression.com) got clicked, providing an extra 250 hits a day for each of those sites, and I got an extra 50 newsletter signups in less than 48 hours, which is a signup rate of 1-in-440 (not very efficient), but that agrees well with what I've noticed before, which is that when you have a viral rush, newsletter signups don't spike as much as you'd think (and hope) they would. The reason the efficiency is poor is that you're seeing walk-in business from total strangers who don't know you and didn't arrive at your site out of any kind of organic "interest" or attraction. You can't expect the signup rate to be high with that kind of audience. It would be the same if you "tricked" 10,000 people to visit your web site by putting flyers under a million windshield wipers at WalMart's parking lot. Those people don't know you. They're not going to magically become lifelong customers of yours after one visit.
+
+The Post: Why Did It Work?
+Why did the post ("Google Layoffs Inevitable") resonate with people? Your guess is as good as mine. Obviously, Twitter users do use Google a lot and tend to be interested in what the company's up to, but why should so many people care about possible layoffs (unless you work for Google)? Maybe the story got circulated amongst Google employees? Maybe lots of people on Twitter know Google employees? Maybe it's just morbid curiosity?
+
+What's funny is that it was one of those posts I almost didn't write. I had already written two Google-related posts ("Yes, Blogging Is Dead" and "Why Google Is the New Yahoo") in the prior few days, and I was loathe to revisit Google again. But I was so happy about Dan McCrum mentioning me in a Financial Times story, I just had to share the news. Then, once I started writing, the writing took over.
+
+For the post, and for the tweet, I chose a photo of the large hangar at Moffett Field that Google decided to pay over a billion dollars to lease for ten years. The hangar, to me, is iconic, a symbol of aviation's past (the hangar was originally built to house the USS Macon; see below).
+
+The Navy's USS Macon at Moffett Field in the 1930s.
+Dirigibles flew trans-Atlantic air service from 1931 to 1937 (the Graf Zeppelin, in fact, flew well over 100 round trips in that time frame; customers paid about $400 each way) and the US Navy operated a number of dirigibles as observation aircraft. Until the Hindenberg disaster, dirigibles were the jumbo jets of their era. They were the high tech of their day. Until suddenly they weren't.
+
+If I were Larry Page or Sergey Brin, it would freak me out to walk around in that big hangar, knowing that the technology it was built for (dirigibles, once thought to be a permanent fixture of the aviation landscape) disappeared virtually overnight.
+
+I say the place is cursed.
+
+Please sign up for the Newsletter if you haven't already. And visit HackYourDepression.com to see what my books are about. Thanks!
+
+☙ ❧
+
+Hey listen, please follow these great tweeps who retweeted me yesterday:
+
+ 
+These folks really do retweet, so follow them.

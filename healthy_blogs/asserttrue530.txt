@@ -1,0 +1,27 @@
+Lateralization of brain function has been well studied, and if there's one thing nobody disagrees on, at this point, it's that the brain does the bulk of its speech and language processing on the left side (in or near Broca's area). The right brain does have its own language comprehension ability (particularly when it comes to understanding metaphors, idioms, and prosody), but in general the right hemisphere lacks any ability to comprehend syntax or grammar, and people who suffer trauma to the left brain's speech and language centers develop profound verbal disabilities whereas damage to the right brain seldom produces profound language deficits.
+
+It's also fairly well accepted that "the left hemisphere has been shown to be better prepared to process information in a more analytical, logical, or sequential fashion," whereas "the right hemisphere more efficiently serves tasks that require the holistic, or simultaneous, processing of nonverbal gestalts and the complex transformations of complex visual patterns" (The Neuropsychology Handbook, Chapter 7).
+
+Writers and programmers deal (intensively and regularly) with large amounts of text; text that deals with sequential logic and conforms to especially rigid rules. This unavoidably brings a huge amount of left-brain usage. Is that a problem? No. But it might mean writers and programmers (and other "left-brain-intensive" folks) could benefit from greater engagement of the right hemisphere, because creative problem-solving requires active participation by both halves of the brain.
+
+If one accepts the notion that programmers are (in work mode, at least) heavily lateralized to favor the left hemisphere, it stands to reason that those of us who deal in code for a living could benefit from contralateral brain exercises (exercises designed to stimulate the less-used side of the brain; the right side, in this case).
+
+What does this mean in practice? If you already have hobbies or activities that engage your right brain, you might want to consider doing those things more intensively and more regularly. For example, if you occasionally play a musical instrument (an activity that requires an exceptional amount of cross-hemisphere coordination), start playing the instrument every day rather than occasionally.
+
+If you like to paint, set aside time each day to paint. Do it intensively and regularly.
+
+If you like photography, take photographs every day, without fail.  
+
+Build up stamina for whatever it is you do that brings your less-dominant hemisphere into alignment.
+
+If classical music gets your juices going, take a several-minute-long break once every hour or so (or during any natural break point in your work) to listen to classical music. Note that music is processed bilaterally, in a non-straightforward way [Andrade and Bhattacharya, Journal of the Royal Society of Medicine, June 2003 vol. 96 no. 6 284-287). But the point is, any kind of music processing requires the active participation of the right brain. So if your right brain has been "going to sleep" (not literally, of course) while you've been writing code, you can wake it up again simply by listening to music.
+
+Interestingly, a certain amount of evidence exists that comprehension of poetry depends largely on right-brain engagement. Therefore, if you like poetry, try reading some before you sit down to work every morning.
+
+My favorite exercise is this: Find an image of something that elicits a strongly positive non-verbal reaction in you (something that, just by its appearance, inspires you). It might be a picture of your favorite athlete in a moment of triumph. It might be a photo of some natural wonder (the Grand Canyon, a mountain, a glacier, a forest). It might be a picture of an iPhone. Whatever.
+
+Tape the picture to the corner (or edge) of your monitor in the morning before you begin work. Leave it there, in your peripheral vision, for a while. Maybe all week.
+
+You don't actually have to look at the photo to be affected by it. Its mere presence in the visual field will have an effect on your brain. I'm convinced this is why so many people put pictures of their children (or spouse, etc.) on their desk. You don't put a picture of your child on the desk to remind yourself that you have a child, nor to remind yourself what your child looks like. You already know what your child looks like. You've seen the picture a million times already, in any case. You put the picture there because its mere presence inspires you to perform better.
+
+Try the inspiring-photo-in-your-peripheral-vision technique for a week, and try changing the photo to a different one every now and then. See if it doesn't spur your creativity. It works for me. Let me know if it works for you.

@@ -1,0 +1,5 @@
+It's no secret that conventional chip designs are about to hit the wall with respect to scaling. Moore's Law 1.0 is in danger of being repealed.
+
+Not to worry, though. Years of research into so-called 3D chip architecture is finally beginning to bear fruit, and it looks like cubes will start replacing chips in at least some devices soon. (HP is making steady progress in this area, along with IBM and others.) Moore v2.0 is well on the way to reality.
+
+If you want to learn more about this technology, check out the latest issue of the IBM Journal of Research and Development, which is devoted to 3D integrated circuit technology. A particularly good overview article is here.

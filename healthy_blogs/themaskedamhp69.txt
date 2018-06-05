@@ -1,0 +1,71 @@
+I always thought that the revised Code of Practice introduced following the MHA 2007 was overall a fairly useful and easy to follow piece of guidance. However, cracks have been showing for some time, arising from implications of the MHA/MCA interface, the Human Rights Act, the Equality Act, changes in case law, and such scandals as Winterbourne View and of course, the Bournewood Gap, which was not, as hoped, bridged by the MCA and DOLS.
+
+So now a new Draft Code has been issued, with a pretty tight time period for consultation: published on 7th July 2014, the consultation period ends in the middle of September.
+
+At 371 pages, it’s at least as long as the previous Code. Although many chapters remain largely unchanged, there are several new sections which were not in the 2008 Code; for example, there is a new chapter on Equality and Human Rights.
+
+The physical layout of the Code is rather clearer than the old Code, grouping the chapters into related sections: Using the Act; Protecting patients’ rights and autonomy; Assessment, transport and admission to hospital; Additional considerations for specific patients; Care, support and treatment in hospital; Leaving hospital; and Professional responsibilities.
+
+The accompanying document, Stronger Code: Better Care, helpfully summarises the main changes in the new Draft Code, and goes through these chapter by chapter. This document also contains a wide ranging series of questions to facilitate the consultation process. I would recommend that anyone with a personal or professional interest in the Mental health Act should at the least read through this document, which, at 50 pages, is much shorter than the Draft Code itself.
+
+Using the Act
+Chapter 1 outlines five overarching principles, stressing that “they inform decisions rather than determining them.” The DoH comments that they are intended to “focus on an individual patient’s recovery, better reflect the current and future health and care system, and which clarify the roles of all professionals in ensuring high quality and safe care for individuals subject to the Act.”
+
+These are a rather more detailed than in the old Code, and I feel it is worth reproducing them in their entirety here:
+Least restrictive option and maximising independence: Where it is possible to treat a patient safely and lawfully without detaining them under the Act, the patient should not be detained. Wherever possible a patient’s independence should be maintained with a focus on recovery.
+Empowerment and participation: Patients, their families and carers should be fully involved in decisions about care, support and treatment.
+Respect and dignity: Patients, their families and carers should be treated with respect and dignity and listened to be professionals.
+Purpose and effectiveness: Decisions about care and treatment must be appropriate to the patient, and must be performed to current national guidelines and/or current, available evidence based practice.
+Efficiency and equity: Providers, commissioners and other relevant organisations should work together to ensure that the quality of commissioning and provision of mental health care services is equivalent to physical health and social care services.
+Chapter 3 is the completely new chapter on Equality and Human Rights. This explicitly addresses the relevant legislation to consider in conjunction with the MHA, ranging from the 1948 UN Declaration of Human Rights through to the Health and Social Care Act 2012. It introduces the “PANEL” principles: Participation, Accountability, Non-discrimination and equality, Empowerment and Legality.
+
+Protecting patients’ rights and autonomy
+Nine chapters are included under this heading, including chapters on information for patients, nearest relatives, carers and others; the nearest relative; independent mental health advocates; wishes expressed in advance; and the Tribunal. The DoH comments that it has taken on board the investigations into Winterbourne View and has “strengthened wording in the revised Code” in order to ensure that patients have a say in their own care and treatment.
+
+The new Code stresses the importance of allowing patients to make and receive communications from relatives and others, explicitly including email and internet access. I am aware from the experiences of bloggers with mental disorder, that this has not always been the case.
+
+The DoH explicitly states:
+“Throughout the Code, we make it clearer that families, carers and ‘nearest relatives’ (who have specific powers under the Act with regard to the care of the patient) should be involved in decisions about care and treatment. Although the current Code already states this, it frequently does not happen, so we have strengthened references to the role of families, carers and other supporters throughout.”
+
+Assessment, transport and admission to hospital
+This includes a new Chapter 13, devoted to mental capacity and deprivation of liberty. The accompanying document states:
+
+“Chapter 13 has three main objectives. First, it explains the key principles of the MCA and makes clear the relevance of these principles to those working with the Act. Second, it provides guidance (including a flowchart) that enables professionals to determine whether an individual should be subject to the Act or DoLS. Third, a case study illustrates how professionals might determine in practice between the different regimes.”
+
+This chapter summarises the Mental Capacity Act, and the five fundamental principles of the Act, and gives examples of the sorts of acts that can be conducted under the MCA, and what can or should be done under the MHA. This includes explicit guidance on treatment for physical conditions for patients detained under the MHA.
+
+This section helpfully states that: “The fact that an individual is being assessed or treated for a mental disorder does not mean that they lack capacity.” This seems to be a fact that is frequently overlooked when considering the MHA/MCA interface.  It also suggests that “if, however, a patient requires treatment for an injury resulting from mental disorder (eg they have as a result of a hallucination or delusion broken their arm) and the treatment for that physical condition does not alleviate or prevent a worsening of the mental disorder, then the treatment is unlikely to fall within the Act”.
+
+This clearly differentiates between acts done as a direct result of a mental disorder, for example, taking a deliberate overdose or deliberately self harming with suicidal intent, and accidental injuries arising incidentally of the mental disorder. I hope that this guidance will help to prevent further situations such as Kerrie Wooltorton, who successfully refused lifesaving treatment after drinking antifreeze, and the case of P, a 17 year old who was refusing treatment for a paracetamol overdose, both of whom I have written about on this blog.
+
+Chapter 14 looks at applications for detention in hospital, and includes a rather brief (2 paragraphs) discussion of the use of Sec.2 and Sec.3. Perhaps this is deliberate, as the DoH ask the question:
+
+“What further guidance could the Code give professionals to support their decision making between the choice of adopting section 2 or section 3 for individual patients?”
+
+I am increasingly aware of situations arising where a Sec.3 for treatment might be applied for, were it not for the fact that at the time of the assessment there are no beds available. This makes it impossible for the medical practitioners to complete their recommendations, as they must be able to put the name or names of a hospital where the patient can receive appropriate treatment. One psychiatrist wondered whether he could attach a list of all the inpatient facilities in the country. I think he was being ironic.
+
+The above scenario either results in an abortive assessment, with the possibility of an AMHP having to convene a further assessment with two new medical practitioners once a bed has been identified, or the two doctors completing their recommendations for Sec.2 and then giving them to the AMHP, who then has to wait until a bed is available before they can complete an application.
+
+Of course, all professionals must adhere to the highest standards of decision making in order to comply with the requirements of the Act, but it might be helpful for the Code to contain some guidance as to how to approach some of the realities of practice under the MHA, such as the dire shortage of psychiatric beds for children, adults, older people, and people with learning difficulties.
+
+There is a new Chapter 16 on police powers and places of safety. The DoH refers to the report A Criminal Use of Police Cells, noting that police cells are being routinely used or Sec.136 detention, rather than this being the exception. It also notes that this report recommends that the time limit for Sec.136 should be reduced to 24 hours. The DoH is suggesting that the draft Code makes it clear that “a person should spend no longer than necessary in police custody and that good practice sets an upper limit of 24 hours.”
+
+Additional considerations for specific patients
+These chapters cover a range of specific patients. These include patients under the age of 18, including a whole new Chapter 19 providing guidance on the legal framework as it applies to children and those under 18; people with learning difficulties or autistic spectrum disorders; people with personality disorders; and patients concerned with criminal proceedings.
+
+Chapter 19 aims to clarify existing guidance, such as assessing competence for those under 16, and capacity for those under 18, issues of deprivation of liberty, and the contentious “zone of parental control”.
+
+The DoH asks the question: “In relation to the ‘zone of parental control’, do you think that this is a helpful term? If not, do you have any suggestions for an alternative term or is it sufficient to explain that there are limits to decisions that parents can take for their children?"
+
+Care, support and treatment in hospital
+The draft Code includes a new Chapter 26, devoted to the use of restraint, seclusion and segregation, and are intended to support the issues raised in the document Closing the Gap, which I wrote about in Community Care in January 2014.  It is also designed to accommodate the DoH guidance on the use of restrictive interventions in health and care services, Positive and Proactive Care: reducing the need for physical interventions, which I discussed on this blog in June 2014.
+
+Leaving hospital
+This section covers CTO’s, guardianship aftercare and the care programme approach. This includes changes arising from the Care Act, and a new Chapter 34 devoted to the CPA.
+
+Professional responsibilities
+This final section covers general topics that do not fit elsewhere, such as the functions and powers of hospital managers, conflicts of interest, and support for victims.
+
+This is necessarily only a very brief overview. My initial thoughts are that it does go quite a long way to address changes in legislation and concepts of best practice since the last revision in 2008.
+
+However, the draft Code of Practice is clearly still a work in progress. It is important to use the time available for consultation to put forward amendments and additions, in order to ensure that the new Code encourages best practice and provides a useful guide to what best practice should be, not just for the professionals at the sharp end of the Act, but also for those responsible for providing the infrastructure (such as properly staffed places of safety, an adequate number of appropriate hospital beds, and viable alternatives to hospital admission) without which the MHA will struggle to fulfil its statutory functions.

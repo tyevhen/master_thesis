@@ -1,0 +1,15 @@
+Claude Shannon made an important finding when he realized that the information contribution of a symbol could be estimated very simply as -f(x) log(f(x)), where f(x) is the frequency of occurrence of the symbol x. For example, a series of a coin tosses can be considered a binary information stream with symbol values H and T (heads and tails). If the frequency of H is 0.5 and f(T) is 0.5, the entropy E, in bits per toss, is -0.5 times log (base 2) 0.5 for heads, and a similar value for tails. The values add up (in this case) to 1.0. The intuitive meaning of 1.0 (the Shannon entropy) is that a single coin toss conveys 1.0 bit of information. Contrast this with the situation that prevails when using a "weighted" or unfair penny that lands heads-up 70% of the time. We know intuitively that tossing such a coin will produce less information because we can predict the outcome (heads), to a degree. Something that's predictable is uninformative. Shannon's equation gives -0.7 times log(0.7) = 0.3602 for heads and -0.3 * log (0.3) = 0.5211 for tails, for an entropy of 0.8813 bits per toss. In this case we can say that a toss is 11.87% redundant.
+
+Claude Shannon
+DNA is an information stream resembling a series of four-sided-coin tosses, where the "coin" can land with values of A, T, G, or C. In some organisms, the four bases occur with equal rates (25% each), in which case the DNA has a Shannon entropy of 2.0 bits per base (which makes sense, in that a base can encode one of 22 possible values). But what about organisms in which the bases occur with unequal frequencies? For example, we know that many organisms have DNA with G+C content quite a bit less than (or in some cases more than) 50%. The information content of the DNA will be less than 2 bits per base in such cases.
+
+As an example, let's take Clostridium botulinum (the source of "Botox" serum), a soil bacterium with unusually low G+C content, at 28%. If we go through the organism's 3,404 protein-coding genes, we find actual base contents of:
+
+A    0.40189
+T    0.30603
+G    0.18255
+C    0.10840
+
+These numbers are for a single strand (the coding strand or "message" strand) of DNA, which is why A and T aren't equal. For whole DNA, of course, A =T and G = C, but that's not the case here. We're just interested in the message strand.
+
+If we put the above base frequencies into the Shannon equation, we come up with a value of 1.8467 for the information content (in bits) of one base of C. botulinum DNA. The DNA is about 7.67% redundant on a zero-order entropy basis. The DNA may be over 70% A and T, but it's a long way from being a two-base (one bit) information stream. Each base encodes an average of 1.8467 bits of information, which is a surprising amount (surprisingly close to 2.0) for such a skewed alphabet.

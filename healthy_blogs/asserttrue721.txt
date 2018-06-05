@@ -1,0 +1,19 @@
+I love a good mystery as much as the next guy, but many people (myself included) are finding Opera's latest mysterious claim a bit over-the-top. In case you haven't been following this story, the Opera folks are saying that on June 16 they will unveil something that will "reinvent the Web."
+
+Many people have speculated as to what it could be (I will tell you what I think it is in a moment). Some have said, based on a tantalizing tweet by Hicksdesign, that Opera has found a way to put the Internet on a USB stick. However, that's (yawn) been done.
+
+Others have suggested that the new Opera will offer a seamless (don't you hate that word now?) way to sync everything to everything, so that all your contact info, e-mail archives, cached web pages, notes-to-self, car keys, and loose pocket change are synchronized across all your devices, including your refrigerators, all the time.
+
+That's been done too. More or less.
+
+Folks, let me tell you what's going to happen. I have a pretty strong hunch (but no inside info, I assure you) on this one. This is something I've thought about for years -- it has needed to happen for years -- and I'll be thrilled if Opera pulls it off, although whether people will flock to adopt it is another question.
+
+The answer is that Opera is going to embed a web server in itself.
+
+When you fire up Opera, you'll be operating a secure server and you will be able to serve all kinds of content (whatever you want, basically: bookmarks, contacts, cached content, arbitrary files from a roped-off area of your local storage, web pages of your own) to other Opera users, at the very least, and maybe all browser users, at the very most. The security aspects will be interesting, but presumably they've got a solution there, too.
+
+Such a trick would solve the sync-anything problem trivially, as a side benefit. The more interesting question is what kind of two-way AJAX apps and mashups people will be able to write when they can use each other's browser as a web server. The Web goes from being a bunch of big public servers plugged into a common backbone, to a confederation of micro-servers distributed across individual devices running Opera -- a Web within a Web, the peer-to-peer Web. Except instead of running a P2P protocol, you'll be running good old HTTP.
+
+The embedded-server browser (possibly with embedded Derby or other database) is what I see coming on the 16th. Or something like it.
+
+Anyone got a better guess?

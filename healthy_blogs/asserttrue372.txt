@@ -1,0 +1,14 @@
+Today at BigThink (and here) I'm blogging about prostate cancer, which is the second leading cause of cancer death in American men. In particular, I want to get the word out about selenium's well-documented ability to protect again prostate carcinomas. It turns out there are other important health benefits (for people of both sexes) to selenium, some of which I summarize in my BigThink post.
+
+While selenium's exact mode of action is still not wholly known, it appears the mineral induces apoptosis of cancer cells by triggering caspase-3 a cysteine-aspartate protease involved in the "execution phase" of programmed cell death (apoptosis).
+
+After writing the BigThink post, I decided to have a little fun and try for some do-it-yourself epidemiology graphs. I was startled by the results. This is what I came up with.
+
+Prostate cancer in the U.S., 1970-2004 (obtained from http://ratecalc.cancer.gov/ratecalc/).
+
+The above map shows U.S. prostate cancer by county. Rates are population-adjusted (so you're not seeing mere population density effects). It's obvious that the cancer rate is not randomly distributed by geography. But what, I wondered, could account for the uneven distribution?
+
+I searched online for a map of soil selenium distribution, and this is what I found (at http://tin.er.usgs.gov/geochem/doc/averages/se/usa.gif):
+
+
+Obviously the inverse correlation between selenium and prostate cancer is not perfect. (How could it be? Americans are a mobile lot; and people don't simply eat locally grown vegetables, etc.) But I think the two maps speak pretty clearly to the role of selenium in protecting against prostate cancer. If you want to draw a different conclusion, so be it.

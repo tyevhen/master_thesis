@@ -1,0 +1,25 @@
+The following research paper was published in Science Direct this month. Some of the report is a little beyond my level of comprehension, so I will try to have it dumbed down. The highlights, abstract and conclusion are shown below. You can read the entire article by following the link above.  My dumbed-down conclusion is that it is interesting, but more study is needed.
+_______________________________
+Stem cell-derived motor neurons from spinal and bulbar muscular atrophy patients
+Christopher Grunseicha, ,  Kristen Zukoskya, 1, , Ilona R. Katsa, 1, , Laboni Ghosha, , George G. Harmisona, , Laura C. Botta, b, , Carlo Rinaldia, , Ke-lian Chena, , Guibin Chenc, , Manfred Boehmc, , Kenneth H. Fischbecka,
+Highlights
+•  We characterized stem cells and motor neuron derivatives from patients with SBMA.
+•  Variation in the repeat expansion mutation was observed in the cultured cells.
+•  Reduced HDAC6 levels were found in the derived motor neurons.
+•  Motor neurons from 2 patients with long repeats had increased acetylated α-tubulin.
+Abstract
+Spinal and bulbar muscular atrophy (SBMA, Kennedy's disease) is a motor neuron disease caused by polyglutamine repeat expansion in the androgen receptor. Although degeneration occurs in the spinal cord and muscle, the exact mechanism is not clear. Induced pluripotent stem cells from spinal and bulbar muscular atrophy patients provide a useful model for understanding the disease mechanism and designing effective therapy. Stem cells were generated from six patients and compared to control lines from three healthy individuals. Motor neurons from four patients were differentiated from stem cells and characterized to understand disease-relevant phenotypes. Stem cells created from patient fibroblasts express less androgen receptor than control cells, but show androgen-dependent stabilization and nuclear translocation. The expanded repeat in several stem cell clones was unstable, with either expansion or contraction. Patient stem cell clones produced a similar number of motor neurons compared to controls, with or without androgen treatment. The stem cell-derived motor neurons had immunoreactivity for HB9, Isl1, ChAT, and SMI-32, and those with the largest repeat expansions were found to have increased acetylated α-tubulin and reduced HDAC6. Reduced HDAC6 was also found in motor neuron cultures from two other patients with shorter repeats. Evaluation of stably transfected mouse cells and SBMA spinal cord showed similar changes in acetylated α-tubulin and HDAC6. Perinuclear lysosomal enrichment, an HDAC6 dependent process, was disrupted in motor neurons from two patients with the longest repeats. SBMA stem cells present new insights into the disease, and the observations of reduced androgen receptor levels, repeat instability, and reduced HDAC6 provide avenues for further investigation of the disease mechanism and development of effective therapy.
+Abbreviations
+AR, androgen receptor;
+DHT, dihydrotestosterone;
+EtOH, ethanol;
+iPSC, induced pluripotent stem cell;
+SBMA, spinal and bulbar muscular atrophy
+Keywords
+·         Spinal and bulbar muscular atrophy;
+Induced pluripotent stem cells;
+Motor neuron disease;
+Androgen receptor
+___________________
+Conclusions
+Our study demonstrates several findings in the SBMA iPSCs that warrant additional investigation. The finding that CAG repeat length is unstable in specific iPSC lines allows additional study of factors that may be involved in the expansion or contraction of the repeat. It is possible that genetic factors in some lines make them more susceptible to instability, or that factors intrinsic to the reprogramming strategy modify the instability. SBMA iPSCs appear to have motor neuron differentiation capacity equivalent to controls, and although no changes in cell survival could be appreciated it is possible that treatment with additional stressors would induce a selective vulnerability. Although increased acetylated α-tubulin was observed predominantly in cells from two patients with particularly long repeats, the HDAC6 decrease was also observed in motor neurons cultured from several others. Decreased HDAC6 and increased acetylated α-tubulin levels were also seen in an MN1 cell model of SBMA, and in the spinal cord of an SBMA patient. Since HDAC6 has been shown to be important for trafficking misfolded protein to the aggresome, a deficiency in HDAC6 may produce a reduction in autophagic flux, with changes in mitochondrial activity, protein trafficking, and lysosomal function. Changes in lysosomal localization were observed in the SBMA motor neurons, and the lysosomal marker LAMP1 was found to have increased glycosylation. The significance of this glycosylation is not clear at this time, but it appears to indicate abnormal function of the lysosomal compartment. Further studies may help to determine how HDAC6 levels are reduced in SBMA and to characterize the consequence of these changes in the disease mechanism.

@@ -1,0 +1,19 @@
+Credit for the idea behind this post goes to foofoo5, who asked in a comment about the prevalence of antisocial personality disorder in correctional facilities. This table presents the results of various epidemiologic studies done in prisons. All studies were done using the Diagnostic Interview Schedule (DIS) on a randomly chosen sample of general population prisoners. For those who don't work in corrections, this means that all the subjects were convicted and sentenced offenders rather than pretrial detainees (jail inmates).
+
+In the Cote study, 495 Canadian penitentiary inmates were interviewed using the DIS. They found that schizophrenia occurred at rates seven times higher than lifetime prevalence in the general population of Canada. Bipolar disorder had a six-fold higher prevalence and major depression had a two-fold higher lifetime prevalence. Inmates suffering from the severe disorders almost all met the criteria for at least one other severe disorder or ASPD or substance abuse/dependence. There was also strong clustering of ASPD with substance abuse or dependence relative to the major mental disorders.
+
+In the Daniel study the subjects were 100 consecutive American female offenders admitted to prison. Ninety percent of these women received at least one diagnosis. Sixty-seven percent received more than one diagnosis. These rates were compared with the general population of women in St. Louis (ECA study). The lifetime prevalence of schizophrenia was seven times higher than the general population of St. Louis. Bipolar disorder and major depression were both twice as high as general population.
+
+The final study was done on 109 volunteer inmates in the Washington State Reception Center. They found that 88% of these inmates had at least one psychiatric diagnosis.
+
+There have been other studies since then, but this is just what I had on hand. Foo's comment (pardon the first-syllable familiarity) was specifically about antisocial personality. The low rate in the Daniels study is likely attributable to the subject gender---women tend to get diagnosed with borderline personality personality disorder while men tend to get diagnosed with antisocial personality disorder.
+
+In my experience, about a quarter of our inmates get diagnosed with any personality disorder. I'm always surprised by this because it's quite a bit lower than what you see in the literature. What this tells me is that correctional clinicians don't bother diagnosing trees in a forest. In order to get a personality disorder diagnosis the disorder has to be pretty severe.
+
+*************************
+
+(1) Cote G, Hodgins S, "Co-Occurring Mental Disorders Among Criminal Offenders", Bull Am Acad Psych Law 18(3):271-281, 1990
+
+(2) Daniel, et. al., "Lifetime and Six-Month Prevalence of Psychiatric Disorders among Sentenced Female Offenders", Bull Am Acad Psych Law 16(4):333-342, 1988
+
+(3) Chiles, et. al., "Substance Abuse and Psychiatric Disorders in Prison Inmates", Hosp Comm Psych 41(10): 1132-1134, 1990

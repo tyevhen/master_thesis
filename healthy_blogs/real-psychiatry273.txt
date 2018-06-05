@@ -1,0 +1,75 @@
+I read the article "The Future of Psychiatry as Clinical Neuroscience. Why Not Now?" by Ross, Travis, and Arbuckle in JAMA Psychiatry and found little to disagree with.  I was in one of the venues a few years ago when Thomas Insel, Director of the NIMH talked about a clinical  neuroscience rotation for neurology, neurosurgery, and psychiatry residents to bring neuroscience to the clinical side of things.  Unfortunately he was a lot less enthusiastic about it when I sent him a follow up e-mail and at that time suggested it would probably have to wait for some time in the future.  
+
+As a long time neuroscience enthusiast,  I have always found the reluctance to head in this direction puzzling.  On a historical basis, neuroscience has always has a prominent role in psychiatric theory.  One of the arguments against neuroscience has been that there are no clinical applications.  Even back in the day with Alzheimer, Nissl, Kraepelin and other German neuropsychiatrists were studying brain anatomy of patients in asylums, there were important correlations - most notably those consistent with both Alzheimer's Disease and Binswanger's Disease.  About two decades later, Constantin von Economo penned his treatise Encephalitis Lethargica - Its Sequelae and Treatment and described conditions that were relevant right up to the point that I started my training in the 1980s.
+
+Being a practicing psychiatrist with an interest in neuroscience presents a variety of CME events ranging from behavioral neurology and developmental pediatric conferences in Boston to the annual Movement Disorders conference in Aspen.  There were the occasional very unique courses, like the brain dissection course run by the late Lennart Heimer, MD and a faculty of outstanding neuroanatomists.  But most of the neuroscience in psychiatry is typically packed into a course that focuses on the specialized diagnosis and treatment of specific disorders.  A good example would be the American Association of Geriatric Psychiatry (AAGP) courses that would include a detailed discussion of Alzheimer's pathology and vascular dementia and how they might not be that disparate at the microscopic level (that was also an ongoing debate in the movement disorder conferences).  In an AAGP event there would be 1 lecture out of 7 for that day devoted to neuroscience.  On the teaching level, neuroscience has always been there in the form of neurotransmitters, localization of cognitive and neuropsychiatric disorders associated with various brain lesion and insults, cell signaling, and plasticity.  In the past 20 years there has been an unprecedented integration of neurotransmitters and specific brain structures as seen in this diagram of the ventromedial prefrontal cortex.  
+
+
+
+
+
+
+
+I have been fantasizing about a foundation and several years ago came up with the idea that it should fund neuroscience education in psychiatry.  This would be my preliminary plan:
+
+
+1.  Contract with the top neuroscientists in psychiatry to come up with the syllabus.  
+
+From the reviews in review edition of Academic Psychiatry (reference 4) there are already residency training programs that have come up with a systematic approach to this training.  There should be a place for all programs to post what neuroscientists and researchers consider the top areas for focus.  From the reviews mentioned in the above narrative it is very likely that there are fairly complete syllabi at this point but looking at the reviews in Academic Psychiatry they seem to be fairly disparate in terms of what faculty see as the most relevant.  The vignettes prepared by the NIMH (reference 2 and 3) are illustrative of what is possible.  If I was designing a curriculum, I would want every possible concept that could be illustrated in these vignettes and build the course work around that.
+
+
+2.  Develop neuroscience teaching as a specialty.
+
+I doubt that there are enough neuroscientists around to teach the subject to psychiatry residents.  A group dedicated to teaching neuroscience and neuroscientific formulations would be a logical approach.  There are currently plenty of nonscientist faculty with an interest and more than a passing knowledge of neuroscience.
+
+
+3.  Develop a repository of graphics and teaching materials. 
+
+There is no area of psychiatry that could benefit more from high quality graphics for teaching.  Current faculty engaged in teaching need to run a gauntlet of copyright related issues ranging from implicit copyright permission (yes you can use for teaching without going through Copyright Clearance Center) to repetitive licensing fees that are difficult to track.  All of those problems are from publishers controlling these rights and in some cases charging unrealistic amounts for reuse of some of these works.  Open access work is a potential solution but it is doubtful that enough graphics currently exist to illustrate key neuroscience principles.  A coalition of residency programs can potentially contract for the production of custom figures for a central repository that could be used in residency programs across the country.  There is already a precedent for this process with the psychopharmacology course available to residency programs from the American Society of Clinical Psychopharmacology (ASCP) who produce a large number of PowerPoints that are available to residency programs for a very reasonable fee.
+
+
+5.  Don't forget about addiction science.
+
+The field of addiction has contributed immensely to understanding how the brain functions.  In many cases psychiatry residents have minimal exposure to the treatment of substance use disorders and the associated syndromes and that could potentially strengthen both those areas in any residency program.
+
+
+
+6.  Hold annual review courses. 
+
+The field as it applies to psychiatry contains neuroscience spread across gatherings for psychopharmacology, geriatric psychiatry, general psychiatry, child and adolescent psychiatry, sleep medicine, addiction medicine and behavioral neurology.  There should be meetings across the country that focus on the necessary neuroscience and formulations presented by the top experts in the world with that focus.
+
+
+7.  Suggested readings.
+
+I try to keep up with Nature, Science, and Neuron and the Science Signaling series as a cost effective approach to learning new developments about neuroscience and whatever open access journals that seem to have the best content.  There are top journals that are too expensive or require memberships where the threshold is set for researchers and not teachers.  A good general approach to how to approach the literature would be very useful for most of the teachers and some of the expensive journals might offer packages for teachers rather than researchers.  I can recall that when I interviewed for residency positions and asked about department recommended reading lists there was only one department who provided one in those days.  I will let readers guess about which department that was.
+
+
+8.  Reviewing imaging studies and teaching files.
+
+Some of the best neuroanatomical preparation and training in my career came from reviewing imaging studies with radiologists, neuroradiologists, neurologists and neurosurgeons.  Current electronic medical records make viewing imaging studies easier than at any time in the past.  There is no better learning procedure than to organize findings, order the test, and confirm the problem.  That is possible currently if you treat a lot of patients with apparent lesions on imaging but functional imaging is becoming more available it has the potential to revolutionize psychiatric practice.  As an example, listen to the story called How To Cure What Ails You and an enthusiastic Eric Kandel talk about the importance of the anatomical substrate (reference 5) in psychiatric disorders.
+
+These are some of my current ideas.  I look forward to the day that a neuroscientific formulation about what might be relevant is contained in the same paragraph that includes social and psychological formulations.  It will also put psychiatrists back where most of us belong - seeing people with the most difficult problems rather giving out advice on how to prescribe antidepressants.
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+References:
+
+
+1: Ross DA, Travis MJ, Arbuckle MR. The Future of Psychiatry as ClinicalNeuroscience: Why Not Now? JAMA Psychiatry. 2015 Mar 11. doi: 10.1001/jamapsychiatry.2014.3199. [Epub ahead of print] PubMed PMID: 25760896
+
+2:  National Institute of Mental Health neuroscience and psychiatry modules. 2012a. Available at http://www.nimh.nih.gov/neuroscience-and-psychiatry-module/index.html. Accessed on March 16, 2015.
+
+3:  National Institute of Mental Health neuroscience and psychiatry modules: 2012b. Available at http://www.nimh.nih.gov/neuroscience-and-psychiatry-module2/index.html. Accessed on March 16, 2015.
+
+4:  Coverdale J, Balon R, Beresin EV, Louie AK, Tait GR, Goldsmith M, Roberts LW. Teaching clinical neuroscience to psychiatry residents: model curricula. Acad Psychiatry. 2014 Apr;38(2):111-5. doi: 10.1007/s40596-014-0045-7. Epub 2014 Feb 4. Review. PubMed PMID: 24493360.
+
+5:  How To Cure What Ails You.  Radiolab  Accessed on March 17, 2015.
+
+
+Supplementary:
+
+The header to this article is all of my copies of The Biochemical Basis of Neuropharmacology and the book I consider to be its successor  Introduction to Neuropsychopharmacology.  New editions of BBN came out in 1970, 1974, 1978, 1982, 1986, 1991, 1996, and 2003.  The copy with the white cover in the middle (a little faded) was the first copy I owned.  In those days I wrote the year I purchased books in the front jacket and that year was 1984.  This book with its elegant little drawings and low purchase price served as an introductory neuroscience text to many classes of psychiatry residents.

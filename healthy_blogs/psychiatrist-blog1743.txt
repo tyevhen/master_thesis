@@ -1,0 +1,53 @@
+Dinah's post Johnny Get Your Gun generated a lot of interest in and comments about public safety and the mental health professional's duty to warn or protect. Some readers commented and cited the Tarasoff case, which made me think a quick inservice was in order. Many of our readers aren't mental health professionals or aren't American, so it's not really fair to leave them without any context for the discussion. Also, many American mental health professionals have heard of Tarasoff but may not really be aware of the limitations or extent of this decision.
+
+First some background:
+
+In 1969 a Berkeley college student, Prosenjit Poddar, became enamored of co-ed Tatiana Tarasoff. He pursued her to the extent that police got involved. They detained Poddar and referred him to the college counselling center where he was seen by a psychologist. The psychologist consulted with his superior at the center, and both decided that Poddar did not need to be hospitalized. Poddar later shot and killed Tarasoff.
+
+Tarasoff's family sued the university, the police, and the mental health professionals for failing to hospitalize Poddar. The suit was originally dismissed by the California Supreme Court (in a case now known as Tarasoff I) because all of the defendants were government employees who were acting within their discretion regarding the hospitalization decision. Thus, they were covered by government immunity. Also, at the time no mental health professional had any duty to a third party---the clinician's only duty was to the patient. The suit was dismissed without prejudice, meaning that the plaintiffs were free to refile the suit on other grounds. The California Supreme Court hinted in their opinion that if the suit had been filed on the grounds of failure to warn or protect the defendants would not be immune from suit. The plaintiffs took the hint and refiled on these grounds.
+
+This led to the case known as Tarasoff II, in which the California Supreme Court found for the first time that mental health professionals had a duty to protect (not just warn) third parties of danger from their patients.
+
+Now the thing to remember about case law is that opinions are only binding on the regions that the appellate court has jurisdiction over. The Tarasoff cases were decided by the California Supreme Court and were binding only in California. Only the U.S. Supreme Court can issue opinions that apply to the entire country. So how did this idea spread across the country?
+
+If I were a complete cynic I'd answer: Blame it on the lawyers. Being only a partial cynic, my answer is that the creation of this new duty created a new fertile ground for recovery in case of injury. A flurry of cases in other states followed the reasoning in Tarasoff and laid the groundwork for mandatory warnings in other jurisdictions. A nice overview of the current state of national Tarasoff laws can be found here.
+
+Fortunately, the Shrink Rappers live in Maryland. Our professional organization took a proactive approach to this impending issue and crafted a Tarasoff duty by statute rather than waiting for it to be created through a lawsuit. It was designed thoughtfully and narrowly so the duty for our clinicians is not as broad as that which is implied in the California cases. It can be found in Courts and Judicial Proceedings (granting immunity for certain actions) and it states:
+
+§ 5-609. Mental health care providers or administrators.
+
+(a) Definitions.-
+
+(1) In this section the following words have the meanings indicated.
+
+(2) "Mental health care provider" means:
+
+(i) A mental health care provider licensed under the Health Occupations Article; and
+
+(ii) Any facility, corporation, partnership, association, or other entity that provides treatment or services to individuals who have mental disorders.
+
+(3) "Administrator" means an administrator of a facility as defined in § 10-101 of the Health - General Article.
+
+(b) In general.- A cause of action or disciplinary action may not arise against any mental health care provider or administrator for failing to predict, warn of, or take precautions to provide protection from a patient's violent behavior unless the mental health care provider or administrator knew of the patient's propensity for violence and the patient indicated to the mental health care provider or administrator, by speech, conduct, or writing, of the patient's intention to inflict imminent physical injury upon a specified victim or group of victims.
+
+(c) Duties.-
+
+(1) The duty to take the actions under paragraph (2) of this subsection arises only under the limited circumstances described under subsection (b) of this section.
+
+(2) The duty described under this section is deemed to have been discharged if the mental health care provider or administrator makes reasonable and timely efforts to:
+
+(i) Seek civil commitment of the patient;
+
+(ii) Formulate a diagnostic impression and establish and undertake a documented treatment plan calculated to eliminate the possibility that the patient will carry out the threat; or
+
+(iii) Inform the appropriate law enforcement agency and, if feasible, the specified victim or victims of:
+
+1. The nature of the threat;
+2. The identity of the patient making the threat; and
+3. The identity of the specified victim or victims.
+
+(d) Patient confidentiality.- No cause of action or disciplinary action may arise under any patient confidentiality act against a mental health care provider or administrator for confidences disclosed or not disclosed in good faith to third parties in an effort to discharge a duty arising under this section according to the provisions of subsection (c) of this section.
+
+[1989, ch. 634; 1997, ch. 14, § 9; 1999, ch. 44.]
+
+The key points compared to the Tarasoff cases are that the statute requires imminent danger to an identifiable victim. Clinicians are not required to foresee danger to the general public, nor are they required to predict dangerousness into the indefinite future. Clinicians are given the discretion either to warn the victim or to carry out a protective plan; hospitalization is not mandatory. Regardless, a decision to break confidentiality is shielded from liability if the clinician is acting in good faith.

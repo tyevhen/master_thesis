@@ -1,0 +1,49 @@
+Before I get too carried away the answer to the question is most likely yes - it is a benign supplement.  That is based on all of the studies and reviews I have about melatonin used to treat insomnia and other sleep disorders.  Nobody seems to report any major side effect from even very high doses taken for periods of time.  Those same reviews have a lot of qualifiers.  As an example some will say that doses in the 4-6 mg per night range are unlikely to cause major side effects.  Others will suggest that even though melatonin use is widespread, there have not been any large clinical trials to assess long term safety.  There probably never will be.  When people ask me about the safety of melatonin that is exactly what I tell them.  Individual use of over-the-counter melatonin varies greatly.  The average self-administered dose that I encounter these days is 10 milligrams.  The range of outliers is to the high side.  Nobody uses the 1 mg or 3 mg tablets but there are people using 10-20 mg.
+
+My concerns come from a number of perspectives.  First there is the issue of normal excretion of melatonin and pharmacokinetics.  Second there is the role of melatonin in other systems in the body. And third there is the question of the toxicology of melatonin.  In the case of supplements, the presumed toxicology is often based on the exposure of large numbers of people to the supplement and no alarming or immediate side effects.  Melatonin is ubiquitous in some tissues in the body and this gives the impression that it may be a benign compound.  On the other hand it is a metabolite of 5-HT (serotonin) and this has additional implications.  5-HT is a highly politicised molecule with unquestionable roles in human physiology and pharmacology.
+
+When I start to think about the general approach to this problem - the first thing I look at is what the physiological levels of melatonin might be in both blood and CSF.  The published medical literature in this area seem scant. Normal levels are often determined as part of an experimental intervention like peripheral sympathectomy.  In one study (1), the normal diurnal fluctuations were noted with a peak ranges of peak plasma levels varied from 122-660 pmol/L, and the peak CSF levels from 94-355 pmol/L.   In this study the authors demonstrated that bilateral T1-T2 ganglionectomy abolished both the diurnal rhythms and resulted in lower levels of melatonin suggesting that the peripheral sympathetic nervous system has input into melatonin secretion.
+
+Other studies have looked at the effects of melatonin supplementation on plasma and CSF levels.  This is always important because average natural melatonin secretion in humans is about 0.15 mg per day.  As I previously indicated supplementation is many times that.   An early study (2) showed that oral melatonin supplementation led to rapid increases in blood and CSF melatonin.  The authors also compared the ratio of CFS/blood melatonin and noted it was constant before and after supplementation suggesting that blood is the source of CSF melatonin.  Recent studies (4-6) suggest that melatonin is secreted directly into the third ventricle from the pineal recess or that there may be central or peripheral compartments of melatonin for different effects.
+
+There was a recent comprehensive review of the pharmacokinetics of melatonin.  The authors reviewed 22 high quality studies looking at oral or IV  dose ranges of 0.1 mg  to 100 mg.   Cmax (maximum plasma concentration following the dose) ranged from 72.1 (10 ml/h; 0.02 mg, IV) to 101,163 pg/ml (100 mg, oral).  Tmax (time to peak plasma concentration) ranged between 15 (2 mg) and 210 min (10 mg).  T1/2 (half-life) ranged from 28 (0.005 mg, IV) to 126 min (4 mg, oral).  The response to melatonin for insomnia is unpredictable and no dose response curve has been determined. Of course there are a wide range of available melatonin preparations from pharmacies and health food stores.  Even in the research, it is often difficult to say what preparation was used, but the bioavailability is quoted as 15%.
+
+The sleep research on melatonin shows that (as most clinician know) it has weak sleep effects but variability does exist.  Most people will notice very little effect.  Some will claim that they were "knocked out" and strongly sedated even the next day - an effect that is hard to reconcile with the short half-life.  The lack of a dose-response curve makes it difficult to determine dosing but a review in an authoritative sleep text (8) says that most studies use a dose of 4-6 mg and that the timing of the dose (1-3 hours before sleep) may be an important factor.  I have been advised myself by a sleep expert that a 1 mg dose of melatonin 3 hours before sleep may be optimal because it entrains the circadian rhythm of that individual and have seen that work in many cases.  The weak effects on sleep EEG to me suggest a strong placebo component.
+
+ Getting back to the side effect issue - I was surprised to find a few pages on melatonin in last week's New England Journal of Medicine in their Clinical Implications of Basic Science Research section (9).   These authors discuss the implications of the MTNR1B variant as a risk factor for Type 2 diabetes mellitus.  This variant leads to an overexpression of MT2 melatonin receptors on pancreatic beta cells.  Melatonin in this case leads to a G-protein-coupled receptor (GPCR) initiated cascade that inhibits insulin secretion.  They reviewed the epidemiology of diabetes and the facts that Type 2 diabetes is typically a combination of insulin resistance in muscle and fat cells, increased hepatic glucose output and no compensatory insulin release.  They reference an experiment where the daily melatonin (4 mg dose) for 3 months reduced first phase glucose induced insulin secretion in an oral glucose tolerance test compared with baseline before melatonin secretion.  They point out that there has been some epidemiological work that associates shift work with susceptibility to diabetes mellitus.  They conclude that typical doses of melatonin of 4 mg/day or less are not likely to be associated with decreased insulin release and talk about the application of melatonin in jet lag with dosing for a few days.  They also point out in the 3-month long study that overall glucose tolerance was hardly affected and baseline glucose levels returned after 2 hours of dosing.  That may not be as assuring to psychiatrists who are seeing their patients take 5-10 mg indefinitely along with other medications that may cause metabolic syndrome.
+
+To me this is also further evidence of just how crude many of our clinical trials are that look at the issue of metabolic syndrome and diabetes in clinical populations.  Whenever I discuss consent for atypical antipsychotics and the metabolic issues, I always tell people that weight gain and increased appetite is common.  I also tell them that I have seen people develop diabetes from these medications who were rail thin and never gained an ounce.  The 150 risk alleles for Type 2 diabetes mellitus, the thousands of associated intracellular signalling proteins, and the 300 GPCRs expressed in pancreatic beta cells probably has something to do with that.
+
+Biological complexity rarely leads to simple answers.
+
+I will probably encourage a lot of insomniacs from taking melatonin when there has been no clear benefit.  I will probably also discourage the practice of taking high dose (> 5 mg) of melatonin for the same reason.                
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+References:
+
+1:  Bruce J, Tamarkin L, Riedel C, Markey S, Oldfield E. Sequential cerebrospinal fluid and plasma sampling in humans: 24-hour melatonin measurements in normal subjects and after peripheral sympathectomy. J Clin Endocrinol Metab. 1991 Apr;72(4):819-23. PubMed PMID: 2005207.
+
+2: Young SN, Gauthier S, Kiely ME, Lal S, Brown GM. Effect of oral melatonin administration on melatonin, 5-hydroxyindoleacetic acid, indoleacetic acid, and cyclic nucleotides in human cerebrospinal fluid. Neuroendocrinology. 1984 Jul;39(1):87-92. PubMed PMID: 6205317.
+
+4: Leston J, Harthé C, Mottolese C, Mertens P, Sindou M, Claustrat B. Is pineal melatonin released in the third ventricle in humans? A study in movement disorders. Neurochirurgie. 2015 Apr-Jun;61(2-3):85-9. doi: 10.1016/j.neuchi.2013.04.004. Epub 2014 Jun 26. PubMed PMID: 24975205.
+
+5: Leston J, Harthé C, Brun J, Mottolese C, Mertens P, Sindou M, Claustrat B. Melatonin is released in the third ventricle in humans. A study in movement disorders. Neurosci Lett. 2010 Jan 29;469(3):294-7. doi: 10.1016/j.neulet.2009.12.008. Epub 2009 Dec 11. PubMed PMID: 20004701. 
+
+6: Skinner DC, Malpaux B. High melatonin concentrations in third ventricular cerebrospinal fluid are not due to Galen vein blood recirculating through the choroid plexus. Endocrinology. 1999 Oct;140(10):4399-405. PubMed PMID: 10499491.
+
+7: Harpsøe NG, Andersen LP, Gögenur I, Rosenberg J. Clinical pharmacokinetics of
+melatonin: a systematic review. Eur J Clin Pharmacol. 2015 Aug;71(8):901-9. doi: 10.1007/s00228-015-1873-4. Epub 2015 May 27. Review. PubMed PMID: 26008214.
+
+8:  Krystal AD.  Pharmacological Treatment: Other Medications.  in Kryger MH, Roth T, Dement WH.  Principles and Practice of Sleep Medicine, 5th Edition.  Elsevier Saunders, St. Louis, 2011. p. 916-930.
+
+9: Persaud SJ, Jones PM. A Wake-up Call for Type 2 Diabetes? N Engl J Med. 2016 Sep 15;375(11):1090-2. doi: 10.1056/NEJMcibr1607950. PubMed PMID: 27626524. (to full text link).
+
+
+Attribution:
+
+Serotonin metabolism graphic is from VisiScience.

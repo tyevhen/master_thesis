@@ -1,0 +1,50 @@
+There is was - plain as day on my LinkedIn feed:  "Psychiatric drugs killing more users than heroin, cocaine, say health experts".  Seems like a headline more fitting for one of the large antipsychiatry web sites out there.
+
+What?  Addictive drugs and the current overdose situation is something that I know more than a little about.  I lecture about it.  I treat the addicted.  I was in the medical school pharmacology classes where they taught us it is practically impossible to kill yourself with benzodiazepines unless you mix them with alcohol.  Of course today we know that it is very easy to kill yourself by mixing benzodiazepines with opioids.
+
+My first problem was the characterization that benzodiazepines are psychiatric drugs when 80% of the prescriptions are from non-psychiatrists (1).  This is a common tactic used to impugn monolithic psychiatry.  Some authors try to link the ills of all antidepressant, antipsychotic, and mood stabilizing medication to psychiatrists.  The only medication that psychiatrists prescribe more of than primary care physicians is lithium.  Most primary care physicians consider lithium to be a weird little niche drug that they would prefer psychiatrists handle.  For a while psychiatrists were also reluctant and prescribed a number of less effective medications.  Part of that was based on hype, but I am sure there was at least a partial unconscious motivation that the burden of lithium prescribing could be avoided.
+
+The secondary argument of course is that psychiatrists are thought leaders in this area and convince the poor unthinking primary care physicians to prescribe benzodiazepines and add them to opioids!  There are no Key Opinion Leaders (KOLS) advocating for the widespread use of benzodiazepines. Instead I am asked to write about reasons to avoid prescribing them.  Since the entire class has been generic for some time there is no pharmaceutical marketing.  No - you really don't have a leg to stand on if you are making that argument.  Although antipsychiatrists don't generally have a leg to stand on - let's assume there is at least one person who is interested in the facts rather than hum-drum antipsychiatry fake news.
+
+It turns out there is actual data out there.  Thoughtful analyses from both NIDA and the CDC that look at the issue of overdoses on various forms of opioids and cocaine, but also the various combinations of opioids plus either cocaine or benzodiazepines.  All of the data I am posting here is available at this link.  It is all public domain from employees of the US Government and they have done an excellent job with the details of the current drug epidemic.
+
+
+       
+The  first two slides are total death from all opioid overdoses and heroin overdoses.  Looking at 2015 those numbers are 33.091 and 12,989 respectively.  The next slide looks at total cocaine deaths.  And in 2015 that number was 6,784.
+
+
+
+
+
+The final slide looks at benzodiazepines on their own (1,306) and benzodiazepines plus opioids (7,485).  Note that concomitant benzodiazepine use with opioids is a major risk factor for death from that combination.  The annual benzodiazepine deaths have remained relatively constant until the onset of the opioid epidemic.  It is well known that some opioid users take benzodiazepines to enhance the effects of opioids.  
+
+To recap, if the heroin deaths in 2015 were 12,989, the cocaine deaths were 6,784 and the benzodiazepine deaths were 1,306 the headline is glaringly inaccurate.  The only way that benzodiazepines are as lethal is if they are mixed with opioids - a fairly common occurrence.  That is not a combination prescribed by psychiatrists.  The overwhelming number of deaths due to drug overdose are from opioids - 33,091/year.
+
+These combinations have been studied in persons on maintenance opioids (methadone and buprenorphine) who are also prescribed benzodiazepines, sedative hypnotics and in a recent study (4) - pregabalin.  The authors of that study found that of their sample of 4501 patients - 32.8% were prescribed benzodiazepines, 40.8% z-drugs (zolpidem,  zopiclone, eszopiclone, and zaleplon) and 22.2% were prescribed pregabalin.  In their study, the pregabalin and z-drug prescriptions were associated with more overdose deaths and the benzodiazepines were associated with more overall deaths.
+
+That combination accounts for the common experience of opioid and heroin overdose deaths in small towns across America.  Those overdose deaths in small town American were unheard of before the current epidemic.
+
+It doesn't hurt to get the facts straight when attempting to throw psychiatrists under the bus, even though in the majority of cases - facts are the last thing any of the critics seem to consider.
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  Cascade E, Kalali AH. Use of Benzodiazepines in the Treatment of Anxiety. Psychiatry (Edgmont). 2008; 5(9): 21-22. Link
+
+2: Olfson M, King M, Schoenbaum M. Benzodiazepine Use in the United States. JAMA Psychiatry. 2015;72(2):136-142. doi:10.1001/jamapsychiatry.2014.1763
+
+3: Kjosavik SR, Ruths S, Hunskaar S. Psychotropic drug use in the Norwegian general population in 2005: data from the Norwegian Prescription Database. Pharmacoepidemiol Drug Saf. 2009 Jul;18(7):572-8. doi: 10.1002/pds.1756. PubMed PMID: 19402032.
+
+4: Abrahamsson T, Berge J, Öjehagen A, Håkansson A. Benzodiazepine, z-drug andpregabalin prescriptions and mortality among patients in opioid maintenance treatment-A nation-wide register-based open cohort study. Drug Alcohol Depend. 2017 May 1;174:58-64. doi: 10.1016/j.drugalcdep.2017.01.013. Epub 2017 Feb 28. PubMed PMID: 28315808.
+
+
+
+
+Attribution:
+
+All slides from NIH/NIDA and are assumed to be public domain.

@@ -1,0 +1,3 @@
+Protein Alignment - Paul Brown from Cloudera on Vimeo.
+
+About 15 minutes into this video, there's an interesting 3D visualization of a running Hadoop job, showing processor nodes as cubes in a spinning pyramid: green nodes are working normally; a node turns black and falls down to the bottom, signalling a failed job on that processor. I thought it was an interesting visualization. But I also found the presentation interesting overall, since I studied molecular biology in grad school and have an interest in bioinformatics. Beyond that, I have an interest, lately, in all things related to scalability. (Let that be a hint of things to come in future blog posts!)

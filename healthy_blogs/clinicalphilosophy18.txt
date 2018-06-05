@@ -1,0 +1,33 @@
+don't gotta have a 'fro to be a jackson
+(but it helps)
+Investigations 65-71 introduce us to the concept of 'family resemblances'.
+
+Wittgenstein in effect points out that for many concepts there aren't context-independent jointly sufficient conditions to be had, yet we operate with these concepts well enough. (This much is surely on target.)
+
+However he voices this point in a particular way, saying things like: the range of phenomena that fall under a concept do not all have 'something in common'.  He implies that they may not share 'an essence'.
+
+Instead the commonalities are like (likenesses of faces in a family, or) threads within a cord that run together for a stretch, but with no single thread running the whole length of the cord.
+
+The idea that there may not be an essence ( = no general sufficient condition or conjunction thereof = no one feature in common to all the faces in a family (the big nose, the brown eyes are over-represented but not always all instantiated)) is taken by some cognitive psychologists and linguisticians and philosophers of language to invite the creation of the notion of a 'family resemblance concept'.
+
+I realise I find this all a bit peculiar.
+
+First off, it seems to take rather (too) seriously the idea of non-contextually-situated sufficient conditions. But how many of our more fundamental concepts could realistically be thought to work like that in any case?
+
+Sure, technical concepts are often introduced through definitions. (f=ma, v=w*a, etc.) They are, if you like, pre-operationalised.
+
+And other concepts may also be definable in terms of yet other concepts. (I've no idea but perhaps the concept of 'game', since it isn't all that fundamental to our conceptual scheme, can be reduced, through the provision of universal sufficient conditions, to other more fundamental concepts. (Rule-bound play, or something like that?))
+
+But, I suggest, this isn't all that typical.
+
+If we could provide sufficient conditions for many of our concepts it would make us wonder what the point of language was. As if life only had a smidgen of sui generisity to it, as if we only needed a few basic concepts and could build the rest out of these ('logical simples').
+
+But language isn't like that - is it? We grasp the meanings of words - we grasp when it is correct and when it is incorrect to use them - we grasp their normative character - not, typically, through learning rules for their use. Such rules as obtain are often rather post factum, only apply to a degree, are hedged with defeating conditions, etc etc. Instead we just 'get' or 'grasp' the meaning; we take some examples and 'run with it'. This applies particularly to all the more fundamental concepts in our lives.
+
+Or perhaps I'm cheating here, since what it might be to be a 'more fundamental' concept is to be a concept which is not to be defined in terms of other concepts and which in turn is used to define other concepts which we shall call 'less fundamental'.
+
+Yet, well, at any rate, my question is: must we understand what it is for there to be an 'essence' of something in terms of that thing having sufficient conditions? I don't see why - it seems a very linguistic, rule-based, conception of 'essence'. My feeling, this morning, is that perhaps even Wittgenstein - but certainly those who have taken his ideas to warrant talk of types of concepts called 'family resemblance concepts' - stray too far towards equating essences and necessary/sufficient conditions. Just because various instances of a phenomenon may have no one thing in common apart from their being instances of that one phenomenon - no one further thing in common, one might say - does not, I contend, imply that the phenomenon has no essence. (I can't help but think that the difficulty here is related to Wittgenstein's not-always-so-helpful invocation of the normativity of rules to explicate the normativity of language.)
+
+Dictionaries are 'rough and ready' only because, or in the sense that, for want of space, for want of a world beyond the page, they tell rather than show.
+
+It goes like this: First off there's an unhelpful conception of essence in terms of sufficient condition. Then there's a discovery that many concepts aren't bound with sufficient conditions. Then there's a replacement of sufficient conditions with family resemblances. So we end up with the suggestion that we should do away with essences, acquiesce in the sometime unavailability of a supposedly helpful rule, and make do with mere family resemblances in our understanding of language. (Contrast Heidegger on the being of language.)

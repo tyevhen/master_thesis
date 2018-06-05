@@ -1,0 +1,27 @@
+Quick post tonight.  I have been at a conference all day (and will be there all day tomorrow), and I'm swimming in a bit of information overload.  However, a bunch of new ideas are now simmering for future posts.  I have some more Diet and Violence papers to blog about also, but first a little paper sent to me (of course) by Evolutionary Psychiatry's dear friend, That Paleo Guy, Season of birth and anorexia nervosa from the British Journal of Psychiatry.
+
+(Retriever, I think this post will also address some of your questions from your excellent comment on my last post!).
+
+Previous studies of anorexia and birth month were too small to be of much use.  You need a lot of cases to detect differences between patients and controls if season increases risk marginally.  In this study, the researchers combined the results from several different UK studies, and then used some fancy statistical techniques such as "harmonic and spectral analysis" as opposed to the traditional chi squared test to wring as much out of the data as they could.
+
+All told, 1293 cases of anorexia nervosa were compared to births in the general population from 1950-1980.  The results:
+
+Here is the pertinent graph (reproduced here with permission) and the source: linked at the British Journal of Psychiatry.
+
+
+
+You will see there is a bit of a spike of anorexia cases for people born in the springtime, and a yearly nadir in October.
+
+The discussion is short but sweet (and as the paper is free full text, I encourage you to take a look from the link in the first paragraph).
+
+What these sorts of results show us is that early life and the neonatal period can plausibly be a time when suboptimal environments can eventually show up as disease later in life.  Apparently there was a finding recently that an interaction between a dopamine receptor gene and season of birth influences body weight regulation in women with bulimia (1).   But here is a problem with season-of-birth research - pregnancy is 9 months long, and obviously development occurs during all of that time, with vulnerable developmental windows of different sorts opening at different times all during the gestation.  The environmental factors that could affect a seasonal change include maternal nutrition, sunlight, vitamin D, stress, temperature, and infectious disease (you can probably think of a few more).
+
+Here is a quote from the study pertinent to Retriever's question and encapsulates my thoughts as well:
+
+Interestingly, vitamin D levels have been shown to be associated with psychiatric disorders.  Although the presence of low vitamin D levels in people with psychiatric illness may be the consequence of reverse causation, further support for a role of vitamin D comes from functional studies showing that it is also involved in neuroprotection and brain development.
+
+So low vitamin D during development could plausibly cause problems - or maybe low vitamin D in mom is a sign of some sort of illness or problem, and that illness is the issue… if the first part is true, vitamin D supplementation will be protective.  Otherwise, who really knows?    Vitamin D has SO many roles in the body that pinning down the whys, wherefores, and causation chicken-egg issues can be super tricky.
+
+It would be nice if some vitamin D levels were measured - in the Netherlands they keep samples of neonate blood and have measured vitamin D levels for schizophrenia research - I bet someone could do the same comparison with anorexia.  It would still just be an association, but at least we could say vitamin D was definitely involved somehow if such a study were done.
+
+Well, better get some shut eye as I have to be up early for the train into the city.  Good night!

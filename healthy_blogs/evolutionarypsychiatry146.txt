@@ -1,0 +1,25 @@
+If you haven't already, go read the latest Psychology Today post about Alzheimer's and High Blood Sugar and Alzheimer's and Omega3s.  Page views on my Psychology Today posts help support the paper, toner, textbook, and time that goes into Evolutionary Psychiatry.
+
+Jamie sent me this link from PLOS1 (which, admittedly, is not the Rolls Royce of journals, but does have some interesting stuff every now and again):
+
+
+Impaired Carbohydrate Digestion and Transport and Mucosal Dysbiosis in the Intestines of Children with Autism and Gastrointestinal Disturbances
+
+
+Hmm. The text is very large and doesn't seem amenable to editing.  One more reason to move over to wordpress…
+
+So y'all have heard of the GAPS diet, right?  Natasha Campbell-Mcbride is a doctor who had a kid with autism.  I haven't read her book yet, but the general theory is that folks with certain issues with gut microbiota and carbohydrate malabsorption will end up with psychological/psychiatric symptoms, including autism.  Dr. Campbell-McBride had great success with this approach, as, apparently, do many others.
+
+In this PLOS1 paper, patients with autism and patients with GI disturbances were examined for different carbohydrate malabsorption.
+
+Kids with autism often have gastrointestinal problems (survey studies report comorbidities of 9-91%, which isn't all that useful a percentage spread, but certainly given clinical experience and thinking about autistic kids I know in the community, higher seems more likely than lower).  Pathologic findings of gut issues in autistic kids include gastritis, esophagitis, inflammatory markers at the gut lining, gut lymphatic system hyperplasia, increased intestinal permeability, abnormal gut microbiota findings, increased enzyme secretion, and carbohydrate malabsorption.  Indeed, autistic children with severe gastrointestinal symptoms are more likely to have severe autistic symptoms (1).
+
+So what happens if you don't have efficient digestion of disaccharides, for example, for whatever reason (damage to gut, unlucky genes, other illness)?  Well, any carbohydrate that goes undigested will float down and feed the hungry masses of gut bacteria.  This feeding can result in bloating, discomfort, diarrhea, and proliferation of pathogenic bacteria, which can presumably affect both inflammation and behavior.
+
+The researchers from the latest studies biopsied the intestines of autistic children with gastrointestinal symptoms (AUT-GI), finding the following (among other things:)
+
+Pyrosequencing analysis of mucoepithelial bacteria revealed significant multicomponent dysbiosis in AUT-GI children, including decreased levels of Bacteroidetes, an increase in the Firmicute/Bacteroidete ratio, increased cumulative levels of Firmicutes and Proteobacteria, and increased levels of bacteria in the class Betaproteobacteria...
+Metabolic interactions between intestinal microflora and their hosts are only beginning to be understood. Nonetheless, there is already abundant evidence that microflora can have system-wide effects and influence immune responses, brain development and behavior.
+
+
+When there is a devastating illness with only supportive treatment, a harmless intervention, such as adjusting the types of carbohydrates in the diet (this will not be a completely "paleo" intervention - sweet potatoes, for example, are off limits on GAPS I believe - I will post some more when I get the book), seems to be an approach that ought to be supported and attempted.  Sure, it might not help everyone, but what is there to lose?

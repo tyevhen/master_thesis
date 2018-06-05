@@ -1,0 +1,41 @@
+Is psychotherapy becoming less effective? A major study says yes, at least for CBT. 
+
+Cognitive Behavioral Therapy has long been considered (somewhat inappropriately) to be a kind of gold standard in psychotherapy for depression. It's not foolproof (no therapy is), but many consider CBT to have a better evidence base than other talk-therapy modalities.
+
+Now comes word that CBT's effectiveness has been going down continuously for the last 35 years. According to a meta-analysis by Tom J. Johnsen and Oddgeir Friborg (2015), which looked at 70 studies from 1977 to 2014, effect sizes based on Beck Depression Inventory scores have fallen by half since the first studies were done. That's a pretty huge drop.
+
+If the following graph is right, in 30 years CBT will be completely ineffective. And if CBT is a proxy for psychoterapy more generally, all of psychotherapy may be headed for zero effectiveness. We may be living in psychotherapy's End Times.
+
+Beck Depression Inventory based effect sizes have gone down over time.  The size of the circles indicates the relative contribution of each study to the analysis. Hamilton scores (not shown) have also gone down. (Johnsen and Friborg, 2015)
+
+Johnsen and Friborg confirmed the well-known fact that smaller studies tend to have larger effect sizes, but even after discarding all small studies from the meta-analysis, a significant time effect remained.
+
+The researchers noted that spontaneous remission rates among control groups have not changed over the period of study. Hence, the decaying effectiveness of CBT is probably not a global effect related to generally worsening ability of people to recover from depression.
+
+Many study participants took meds in the course of the 70 studies. But the percentage of patients on psychotropic medication did not covary with effect sizes, which is somewhat surprising, since prevailing orthdoxy holds that drugs-plus-CBT gives better results than either CBT or drugs alone. Prevailing orthodoxy was not confirmed here.
+
+Interestingly, Johnsen and Friborg found that CBT is somewhat more effective among female patients than among male patients. No reason could be found for this.
+
+Some studies used the Beck manual for CBT whereas others didn't explicitly have this in the study design. When non-Beck-manual studies were excluded from the analysis, the time-decay effect was worse. (In other words, studies that adhered closely to the Beck manual showed even greater deterioration of effect sizes with time.) This is hard to explain, but it tends to bolster the basic finding: CBT has become less effective over time.
+
+Johnsen and Friborg looked at severity of depression along two scales (Beck Depression Inventory, and the Hamilton scale); they confirmed that less-depressed people tend to see less benefit from CBT, but this was already known. It doesn't explain the time-deterioration phenomenon, which is robust across patient groups. Whether you're severely depressed or not, CBT is less effective now than it used to be.
+
+The researchers note that "it is not inconceivable that patients’ hope and faith in the efficacy of CBT has decreased somewhat, in recent decades." However, it's well known in placebo research that hope isn't always a requirement for a placebo to work. Thus it's by no means certain that expectation reduction can explain CBT's dwindling effectiveness.
+
+The complete study (PDF) is online here. Download it and give it a look. And maybe give a copy to your therapist.
+
+☙ ❧
+
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more (documented, with links to sources). And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+
+☙ ❧ 
+
+Retweet this post! Many thanks to the great folks who retweeted me yesterday:
+
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

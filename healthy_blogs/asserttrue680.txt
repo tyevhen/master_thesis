@@ -1,0 +1,9 @@
+Stop Searching: Find! from salsadev on Vimeo.
+
+The killer UI experience here is:
+Highlight an arbitrary piece of content on a Web page. (Select some text in your browser window.)
+Let go of the mouse.
+A panel appears automagically, containing contextually appropriate webfinds.
+The user has essentially created a "query" through the simple gesture of click-dragging across some text on a page.
+
+This ought to give anyone in the Search business an awful lot to think about.

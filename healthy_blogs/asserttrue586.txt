@@ -1,0 +1,15 @@
+It seems I'm always late to a good party. Yesterday, I finally did something I've been meaning to do for, oh, at least two years: I compiled and ran my first Adobe AIR application. And in typical masochistic fashion, I decided to do it with Notepad as my code editor and command-line tools for compilation. It's not that I can't afford Dreamweaver or Flash Builder, mind you (I have both products and recommend them highly); it was more a matter of wanting to get dirt under my fingernails, so to speak. That's just how I am.
+
+The whole process of downloading the AIR SDK, reading online code examples, and getting my first example up and running took a little less than an hour from start to finish. There were only a couple of rough spots (both easily resolved). The first was creating my own self-signed security certificate. I did this with the ADT tool that comes with the AIR SDK. The magic command-line incantation that worked for me was:
+
+adt -certificate -cn SelfSign -ou KT -o "Kas Thomas" -c US 2048-RSA cert.p12 password1234
+
+Naturally, you'll want to change some of the parameters (e.g., the ones with my name and initials, and the password) when you do this yourself. But running this command should produce a certificate named cert.p12 on your local drive, assuming adt.bat (Windows) is in your path.
+
+For example code, I turned to the text editor example described here. I compiled the code with:
+
+..\bin\adt -package -storetype pkcs12 -keystore ..\cert.p12 TextEditorHTML.air application.xml .
+
+(running a command console from a location of C:\AIR\TextEditorHTML, with my certificate stored under C:\AIR). The first time I did this, I got an error of "File C:\AIR\TextEditorHTML\application.xml is not a valid AIRI or AIR file." If you get the "is not a valid AIRI or AIR file" error, it means you left the trailing period off the foregoing command line. (Note carefully the period after "application.xml" at the very end.)
+
+And that was basically it. My first AIR app: done in under an hour. Now, as Shantanu Narayen says, "let the games begin!"

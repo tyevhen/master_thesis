@@ -1,0 +1,52 @@
+Last night, I made an exciting discovery.
+
+I discovered that you can convert data URLs (RFC 2397) to TinyURLs, which means you can poke a small Gif or PNG image or anything else that can be made into a data URL into the TinyURL database for later recovery. That means you can poke text, XML, HTML, or anything else that has a discrete mime type, into TinyURL (and do it without violating their Terms of Service; read on).
+
+If you're not familiar with how TinyURLs work: The folks at TinyURL.com have a database. When you send them a long URL (via the HTML form on their web site), they store that long URL in their database and hand you back a short URL. Later, you can point your browser at the tiny URL. The TinyURL folks take your incoming request, look at it, fetch the corresponding long URL from the database, and redirect your browser to the long-URL address.
+
+Think about what this means, though. In essence, you're getting database storage for free, courtesy of TinyURL.com. Of course, you can't just poke anything you want into their database: According to the Terms of Service, the TinyURL service can only be used for URLs.
+
+But according to IETF RFC 2397, "data:" is a legitimate scheme and data-URLs are bonafide URLs. And the HTML 4 spec (Section 13.1.1) specifically mentions data-URLs. I take this to mean data URLs are in fact URLs, and can therefore be stored at TinyURL.com without violating the TinyURL Terms of Service.
+
+This leads to an interesting use-case or two. Traditionally, people have talked about data-URLs in the context of encoding small Gif images and such. Data URLs never caught on, because IE7-and-earlier provided poor support for them, and even today, IE8 (which does support some data URLs) imposes security constraints that make it hard to IE users to deal with all possible varieties of data URL. But IE is the exception. All other modern browsers have built-in support for data URLs.
+
+It's important to understand, you aren't limited to using data URLs to express just tiny images. Anything that can be urlencoded (and that has a well-known mime type) can be expressed as a data URL. Here is a JavaScript function for converting HTML markup to a data URL:
+
+function toDataURL( html ) {  // convert markup to a data URL
+
+var preamble = "data:text/html;charset=utf-8,";
+var escapedString = escape( html );
+return preamble + escapedString;
+}
+Try this simple experiment. Run the above code in the Firebug console (if you use the Firebug extension for Firefox), passing it an argument of
+
+"<html>" + document.documentElement.innerHTML + "</html>"
+
+which will give you the data URL for the currently visible page. Of course, if you try to navigate to the resulting data URL, it may not render correctly if the page contains references to external resources (scripts, CSS, etc.) using relative URLs, because now the "host" has changed and the relative URLs won't work. Even so, you should at least be able to see all the page's text content, with any inlined styles rendered correctly.
+
+Still not getting it? Try going to the following URL (open it in a new window):
+
+http://tinyurl.com/c7ug9a
+
+(Note to Internet Explorer users: Don't expect this to work in your browser.)
+
+You should see the web page for IETF's RFC 2119. However, note carefully, you're not visiting the IETF site. (Look in your browser's address bar. It's a data URL.) The entire page is stored at TinyURL.com and is being delivered out of their database.
+
+Obviously I don't advocate storing other people's web content at TinyURL.com; this was just a quick example to illustrate the technique.
+
+One thing that's quite interesting (to me) is that unlike other "URL rewriting" services, the TinyURL folks don't seem to mind if your URL is quite long. I haven't discovered the upper limit yet. What you'll find, I think, is that the practical upper limit is set by your browser. I seem to recall that Mozilla has a hard limit of 8K on data-URL length (someone please correct me). It's browser-implementation dependent.
+
+Here are some possible use-cases for TinyURL data-URL usage:
+Encode a longer-than-140-characters comment that you want to point Twitter followers to. Storing it at TinyURL means you don't have to host the comment on your own site.
+
+You could create simple blog pages that only come from TinyURL's database. Domainless hosting.
+
+You could encode arbitrary XML fragments as data-URLs and store them in TinyURL, then retrieve them as needed via Greasemonkey AJAX calls. (This would be a cool way to store SVG images.)
+
+You could passivate JavaScript objects as JSON, convert JSON objects to data-URLs, and store them in the TinyURL database for later use.
+
+I'm sure there are many other possibilities. (Maybe you can post some in a comment on this blog?)
+
+Someone will say "But isn't TinyPaste or ShortText.com designed for exactly this sort of thing? Why use TinyURL?" The answer is, with TinyURL, you get back the actual resource, not a web page containing a bunch of ads and CSS and other cruft wrappering your content. With data URLs, the URL is the content.
+
+Please retweet this if you find the idea interesting, and let me know what you decide to build with it. (Of course, after this blog, TinyURL folks may decide to modify their Terms of Service. But let's hope not.)

@@ -1,0 +1,50 @@
+Someone asked me recently if I could name some enterprise software products that have good APIs. I think it would be much more useful to list some of the characteristics of good APIs so that you can sniff out the various odors for yourself as you examine various products.
+
+The rules for creating REST APIs are pretty simple (although often violated) and I won't address them here. Right now, I'll just speak to the topic of programmatic APIs, which is where most of the customer and consultant pain lives.
+
+Realizing that the following list is by no means exhaustive and reflects a number of my own personal biases, I hereby offer a perfunctory API Readiness Checklist. Vendors can use this as a kind of scorecard to determine whether APIs are ready to show customers or not.
+
+☒ Common operations don't require the user to write lots of repetitive boilerplate code
+
+☒ Methods aren't complex, heavy (they don't try to "do too much")
+
+☒ Methods have fully-spelled-out names; no abbreviations
+
+☒ Method, variable, class, and other names are self-descriptive
+
+☒ Methods have few formal parameters (seldom more than 3)
+
+☒ Concrete methods are final
+
+☒ Parameters are positionally consistent across different methods
+
+☒ No ambiguous overloadings (in a Java API: You should be able to call every flavor of a method from JavaScript, without generating disambiguation errors)
+
+☒ Code often reads like normal prose
+  if ( user.debt( ) > Credit.LIMIT )
+       reject( user );
+☒ Standard best practices apply with respect to internationalization
+
+☒ Few custom exception types
+
+☒ API follows patterns that developers are familiar with (don't make up new ones)
+
+☒ Consistency of approach: The API follows the same patterns when doing similar sorts of things
+
+☒ Consistency with related APIs: The API does things the way other company or product APIs do
+
+☒ API favors interfaces and composition, not inheritance
+
+☒ Documentation actually explains usage patterns and gives examples
+
+☒ User doesn't have to know how everything works, just how to use it
+
+☒ Sample code is intelligently commented
+
+☒ Usability testing was conducted
+
+☒ Your in-house developers actually like the API
+
+There's a lot more to read on this subject. Joshua Bloch's book is a good starting point, as is this slideshow. A good resource on API design (for Java) can be found in this sample chapter from the book, Practical API Design.
+
+If you have a favorite reference or more ideas to add to this list, by all means leave a comment here.

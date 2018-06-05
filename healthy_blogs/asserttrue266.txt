@@ -1,0 +1,171 @@
+A maddening problem in genome annotation is determining the "sense" strand for a gene, especially when the gene is short and/or the genome has a high GC content (and thus contains few or no stop codons in reverse translation). To convince yourself this is a very real and serious problem, all you have to do is browse a few genomes to see the ridiculously high number of "hypothetical proteins" (over 40% in some genomes), bogus overlaps, genes that score BLAST hits in reverse-complement mode but not frame zero, and other artifacts that are a direct result of the aforesaid problem.
+
+I've presented examples of this problem before, but just so there's no confusion, I want to show you a particularly maddening example so you can see what I'm talking about. (Then I'll suggest a solution.) The following graphic shows a region of E. coli UTI89 in which several genes are shown as overlapping (that is to say, existing on opposite strands of DNA in the same coverage area). Small overlaps sometimes happen between genes, but whole genes rarely, if ever, overlap, and never in clusters. The situation shown below is bogus, but you see it all the time in public genomes. In fact, some of the genes shown below also show up as overlaps in Mycobacterium abscessus M93 (see gene OUW_18941), Citrobacter koseri strain ATCC BAA-895 (gene CKO_00072), and quite a few others. Glimmer has choked on this exact situation many times, in many genomes.  
+
+A region with overlapping genes in the genome of E. coli UTI89.
+
+The big gene on the top strand, middle, is UTI89_C4288 (DNA sequence here). It's annotated as (what else?) a "hypothetical protein." The M. abscessus version of the gene (here) is marked as a "cellobiose phosphorylase," and you can find many BLAST hits (the Rothia version gives an E-value of 6.0×10-101) for similar "cellobiose phosphorylase" genes in other organisms at UniProt.org and elsewhere. Of course, they're all bogus and represent Glimmer choke points, but the question is how one can determine that, and be sure about it.
+
+E. coli's hypothetical protein (UTI89_C4288) has a wobble-base GC percentage of 64.3%, whereas the gene on the opposite strand (just below it, pointing left), namely UTI89_C4287 (marked as "membrane-bound ATP synthase F1 sector alpha-subunit"), has GC3 = 54.5%. In a much higher-GC organism like Mycobacterium or Pseudomonas, you would find out which gene has the higher GC3 percentage and crown it the winner (and most of the time, you'd be right). In this case, it's not so simple. The gene with the higher GC3 value isn't necessarily the winner.
+
+Of course, in this particular example, you can cheat and look at the identities of the genes in the immediate vicinity of the hypothetical protein, on the bottom strand, and if you do, you'll find that all of the bottom-strand genes are ATPase subunits. Mystery solved, right? Sure, in this particular case. But what about situations where overlapping genes are all shown as "hypothetical protein"? (You can find many such cases in the genome for Burkholderia pseudomallei strain 1710b, for example.) When a hypothetical overlaps a hypothetical in a low-GC genome, then what?
+
+One of my favorite cheats (but this isn't the final solution!) is to check the gene's AG1 percentage (adenine plus guanine, codon base one). This percentage averages ~60% in something like 90% of protein-coding genes. The problem is, AG1 is often 60% whether you read the gene forward, or backward (off the antisense strand). The reverse complement of a gene usually has high AG1, because the forward AG3 is usually under 50%.
+
+Almost any trick you can dream up will fail under edge cases. GC3 is helpful, but only in high-GC genomes. AG1 is helpful, but only sometimes. Shine Dalgarno signals are not universally used by all organisms, and even in those that do use them, they're usually reserved for highly conserved genes encoding things like ribosomal proteins. Gene context is helpful in some cases but not others.
+
+It turns out, the best clue for positively identifying the correct strand and correct reading frame is codon usage frequency patterns. If you know what the codon frequencies are, genome-wide, for a given organism, you can use this information to good advantage, even if the genome (and therefore the codon table) contains inaccuracies. As long as the codon frequencies are approximately correct, you can use them to verify the reading frame of a protein-coding gene.
+
+The algorithm I came up with is very simple, yet effective. For a given gene, read each triplet of bases sequentially, and score each triplet twice: keep two scores going. First, score it according to its frequency in the codon table for the organism. Then score it according to a second table developed for reverse-complement codons.
+
+The following table shows codon frequencies in Caulobacter crescentus NA1000. If you were to encounter a "hypothetical protein" gene in Caulobacter, and you couldn't decide whether the strand assignment was correct or not, first develop a score for the gene by reading its triplets and adding the frequency value of the corresponding codon to the running total. For example, if you encounter the triplet "CTG," add 6.84 to the score (see table). For every occurrence of CTT, add 0.60, for CTC add 1.70, and so on, using the values in the table.
+
+Codon frequencies for Caulobacter crescentus NA1000.
+But you also have to create an anticodon frequency table as follows: For every codon in the original table, apply the same score to the corresponding reverse-complement codon in the "antcodon table." E.g., for CTG, the first table would contain 6.84 (as above), but the value 6.84 would apply to CAG (the reverse complement of CTG) in the second table. I call the first table the "forward" table and the second table the "back" table. One represents the frequencies of codons encountered in protein genes in the forward reading direction. The other represents those same frequencies applied to the reverse-complement of the codons (the same codons read in the reverse direction, off the opposite DNA strand).
+
+When scoring an unknown gene, you tally a "forward table" score, and keep a separate score using the "back" table. When you're done, the gene's "forward table" score should be greater than the "back table" score. If it's not, you're reading the gene off the wrong strand.
+
+When I scored all 3,737 C. crescentus CB15 genes using this technique, I found 136 genes that gave a "back" score higher than the "forward" score. Interestingly, when I checked the identities of those 136 putative "backwards-annotated" genes, 132 of them were listed as "hypothetical proteins." Only four genes with assigned functions gave suspect scores, and one of those (CC_0662) turns out to be a 100%-identity match for the reverse of gene CCNA_00700 in Caulobacter crescenstus NA1000.  The other three are less than 200 bases long and could well be non-coding regions.
+
+For a more challenging test, I turned to the genome of Rothia mucilaginosa DY-18, one of the most disastrous annotation nightmares of all time. In the genome for DY-18 you will find 524 protein-coding genes (out of 1,905 total) that are involved in significant overlaps. (Some overlaps are 2-on-1, some are 1-on-1; but the genome is almost certainly overannotated by at least 260 genes.) I trained my program on the codon usage table of R. mucilaginosa M508 (which contains fewer overlaps than DY-18), then tallied codon and anticodon scores on all of DY-18's CDS genes. In the end, 276 genes gave scores indicative of a reversed reading frame. Of those, 265 were, in fact, involved in overlaps.
+
+Codon scoring is such an effective method, I don't know why programs like Glimmer don't use it. It's quite obvious they're not using it, though, because every genome has reverse-annotated genes (by the hundreds, in some cases) that are easily detected using this simple method.
+
+Here, for the record, are the Caulobacter crescentus CB15 genes that appear to be annotated on the wrong strand:
+
+CC_0023
+CC_0048
+CC_0073
+CC_0099
+CC_0149
+CC_0354
+CC_0480
+CC_0546
+CC_0564
+CC_0605
+CC_0662
+CC_0666
+CC_0676
+CC_0677
+CC_0680
+CC_0681
+CC_0687
+CC_0728
+CC_0739
+CC_0775
+CC_0782
+CC_0786
+CC_0825
+CC_0850
+CC_0853
+CC_0913
+CC_0987
+CC_0996
+CC_0997
+CC_1020
+CC_1022
+CC_1031
+CC_1032
+CC_1050
+CC_1069
+CC_1073
+CC_1084
+CC_1094
+CC_1123
+CC_1127
+CC_1161
+CC_1174
+CC_1212
+CC_1222
+CC_1238
+CC_1245
+CC_1274
+CC_1312
+CC_1322
+CC_1340
+CC_1349
+CC_1392
+CC_1393
+CC_1394
+CC_1395
+CC_1414
+CC_1416
+CC_1513
+CC_1561
+CC_1648
+CC_1789
+CC_1793
+CC_2000
+CC_2086
+CC_2116
+CC_2163
+CC_2184
+CC_2193
+CC_2240
+CC_2256
+CC_2308
+CC_2334
+CC_2338
+CC_2351
+CC_2376
+CC_2413
+CC_2424
+CC_2442
+CC_2445
+CC_2450
+CC_2452
+CC_2471
+CC_2475
+CC_2499
+CC_2519
+CC_2525
+CC_2571
+CC_2574
+CC_2597
+CC_2602
+CC_2621
+CC_2624
+CC_2665
+CC_2698
+CC_2705
+CC_2718
+CC_2719
+CC_2720
+CC_2731
+CC_2732
+CC_2738
+CC_2739
+CC_2756
+CC_2769
+CC_2800
+CC_2850
+CC_2865
+CC_2875
+CC_2878
+CC_2907
+CC_2916
+CC_2949
+CC_3050
+CC_3055
+CC_3251
+CC_3302
+CC_3318
+CC_3342
+CC_3360
+CC_3429
+CC_3437
+CC_3438
+CC_3451
+CC_3453
+CC_3463
+CC_3479
+CC_3517
+CC_3519
+CC_3547
+CC_3548
+CC_3553
+CC_3554
+CC_3608
+CC_3665
+CC_3671
+CC_3700

@@ -1,0 +1,26 @@
+It's generally conceded that viruses evolve more rapidly than host cells, but the rates vary tremendously depending on the type of virus. Generally, large DNA viruses that infect algae (the phycodnavirus family) are considered to have some of the slowest rates of change, whereas the fastest-to-change viruses tend to be small RNA viruses that infect animal cells (e.g., HIV). In terms of substitutions per nucleotide per cell infection (s/n/c), one recent study found rates of 10−8 to 10−6 s/n/c for DNA viruses and 10−6 to 10−4 s/n/c for RNA viruses, which means the fastest-mutating viruses change 10,000 times faster than the slowest-mutating viruses.
+
+Given the ultra-rapid rate of change of RNA viruses and their generally impressive level of adaptation to host-cell environments, one might expect a virus like HIV-2 to show a codon usage bias similar to that of the host. And that's approximately true.
+
+HIV-2 codon usage (left), in DNA format (T for U), versus overall human-cell codon usage (right).
+
+The above graph shows codon usage for HIV-2 on the left and codon usage for human cells on the right. (HIV is an RNA virus, but codons are shown here in DNA format, with T in place of U.) R-squared/adjusted comes to 0.2204, so we can't very well say confidently that the codon values are highly correlated. But if you look at the smaller bars (not the "peaky" ones), they tend to taper down on the left, just as on the right.
+
+It might be instructive to go from one of the fastest-changing viruses in the biosphere (HIV) to one of the slowest, and see how its codon usage compares to that of its host. This time, we're looking at the large DNA virus known as PBCV-1 (left) versus its Chlorella host (an alga, right):
+
+Codon usage in Paramecium bursaria Chlorella virus 1 (PBCV-1), left, and Chlorella variabilis strain NC64A, right.
+These two data sets are not only not correlated, they appear to be anticorrelated, which is quite unexpected. Bear in mind, PBCV-1 is relatively large, with a genome of 330,601 base pairs encoding hundreds of proteins (and ten tRNAs). Thus the pattern shown here isn't likely to be random noise. Note that PBCV-1 has a genomic G+C content of 40%, versus 61% for the host, which is a pretty sizable separation. It's almost as if PBCV-1 has spent part of its life coexisting with an entirely different host.
+
+Which brings me to the final and most intriguing (I might even say shocking) graphic, which compares codon usage in PBCV-1 virus with codon usage in Chlorella's own host, Paramecium.
+
+Codon usage in PBCV-1 virus (left) and Paramecium (right).
+Recall that when it is not free-living on its own, the tiny unicellular Chlorella alga has an endosymbiotic relationship with the comparatively much larger unicellular ciliate protist, Paramecium. That is to say, Chlorella can live inside Paramecium. Chlorella allows Paramecium to thrive in high-sunlight/low-nutrient conditions, whereas Paramecium, in return, gives the non-motile Chlorella free transportation and protection against viruses. (PBCV-1 can infect free-living Chlorella, but does not infect Chlorella living inside Paramecium.) As far as I know, no one has ever reported that PBCV-1 virus can infect Paramecium. Supposedly, it infects only free-living Chlorella And yet, we find that the pattern of codon usage in PBCV-1 is very strongly correlated with the pattern of codon usage in Paramecium. (R-squared/adjusted: 0.527.)
+
+Paramecium filled with Chlorella cells.
+This chart is a real shocker from a couple of standpoints. First, as I say, PBCV-1 virus is not known to infect Paramecium. And yet codon usage patterns in the virus are much more closely aligned to Paramecium's patterns than to Chlorella's. Notice that AAA is the No. 1 most-used codon in PBCV-1 as well as Paramecium. Seven of Paramecium's top ten codons are in PBCV-1's top ten.
+
+Secondly, Paramecium doesn't use the standard genetic code! It uses the Ciliate Code (Translation Table 6), in which TAA and TAG encode glutamine instead of serving as stop codons. (TGA is the one and only stop codon in Table 6.) If Paramecium used the standard genetic code, the alignment of the two organisms would be even stronger.
+
+Also interesting is that PBCV-1 and Paramecium are quite far apart in G+C content (the former is 40%, the latter is 28%).
+
+Perhaps at some point in its past, PBCV-1 had a wider host range, one that included Paramecium. It's possible that even today, it has hosts other than Chlorella that have yet to be observed experimentally. Certainly, the pattern of codon usage is consistent with such an idea.

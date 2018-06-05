@@ -1,0 +1,85 @@
+In terms of basic Twitter philosophy, understanding Twitter as a medium, managing your followers, etc., Jonha Revesencio (be sure to Follow her) has written the best article I've ever seen on the subject, and it sums up a lot of what I've found to be true, in far fewer and better words than I could ever sum it up. Be sure to read her post. It's the best introduction to this post.
+
+How Did I Get That Many Followers?
+People always want to know this. The answer is really simple. You don't have to Promote your account (buy exposure), you don't have to use one of the cheesy "services" that sends thousands of sock puppets (phony users) to your Follower list. (And just to be clear: I have never purchased any followers. Nor should anyone, ever.)
+
+The secret is this: Follow lots of other people—but at the same time, be selective about who you follow.
+
+If you follow a bunch of like-minded people, anywhere from 20% to 40% will follow you back within 72 hours. Try it. Follow 100 people, wait 72 hours, and see how many followed you back. (I use tweepi.com for this, but there are other good tools as well.) If you're not getting at least a 20% followback rate, it could be that you're following inactive users (you want to follow people who tweet daily, not monthly), or your bio needs work, or your content is not appealing for one reason or another. Find out which it is, and fix it. Again, see Jonha Revesencio's article (link above).
+
+With tweepi.com, you can scan up to 200 user bios in one web page, select just those people you want to follow, and click the mouse once to follow all of them. The free version supports only 20 tweeps per page. I pay the $14.95 a month fee to use the premium service, because it's worth it.
+
+If you're starting from a small base, understand that Twitter will limit the number of people you can follow to 2000 total, initially. Don't bump up against this limit right away. Grow your list gradually. As you grow your list to 1000 and beyond, Twitter will gradually keep upping your daily-follow limit. Eventually Twitter will allow you to follow as many as 1,000 people a day (which is a hard limit; no exceptions). Twitter can and will lower your follow limit on a sliding basis based on the ratio between your Followers and Followees. But unfortunately, they don't make the algorithm public, so there's no telling exactly when/where Twitter's restrictions kick in.
+
+A typical day in the Twitterverse (4 Dec 2013 screenshot 1:00 pm local).
+Who the heck ARE all these people?? For that, see tomorrow's post.
+
+The recipe once again: Follow a bunch of people every day; make sure they're the kind of people you want to interact with (in my case, that would be writers, actors, comedians, filmmakers, journalists, and interesting/funny/smart people in the arts and sciences); wait 72 hours; then Unfollow any Inglourious Basterds who don't follow back. Soon you'll have more followers than you know what to do with (at which point, you need to start managing Followers in categorized lists; but that's another story).
+
+How to Know Who to Follow
+Let me tell you (from personal experience) the Wrong Way to grow your list. When I first got on Twitter, I thought a good way to gain followers was to follow anyone with #Followback in their bio. I discovered that certain users keep curated Lists of such people. I also found that some Twitter personalities with large followings had/have primarily #Followback types in their Follower lists. I started following those followers. Big mistake.
+
+What happens is, you soon find that your Follower list has grown, all right, but it's full of bots, sock puppets, scam artists, people who tweet in Japanese (or some other language you don't know), and sundry undesirables.
+
+I've long since removed such "followers" from my list (although some creep back in, unsolicited, from time to time). I also periodically cull people who haven't tweeted in, say, two months or more, to get rid of dead accounts (which are legion, on Twitter).
+
+My strong advice is: Think long and hard about who you want to have as followers. These are people you'll interact with, read the tweets of, and share your insights with. Do you want your twitterstream to be a jumble of random "I fed my cat just now" messages and get-rich-quick ads? Wouldn't you prefer to follow, say, 1,000 pro and semi-pro comedians, and have your twitterstream be full of hilarious, off-the-wall, often edifying (but often twisted) wisecracks, jokes, and personal takes on the day's news? If you're a writer, wouldn't you like to know what other writers are doing? If you're a journalist, wouldn't you want to be plugged in to what other journalists are saying?
+
+Tip: Want to follow some funky people? Comedienne Sue Funke follows around a thousand sitcom writers, standup-comedy types, sit-down misery types, and miscellaneous interesting people. You can explore her colorful Followee list here.
+
+Some Basic Analytics
+I devote 44% of my 4.88 tweets per day (according to twitonomy.com) to curated links. Another 45% of my tweets are personal laments, observations, opinions, Tourette-like outbursts, etc. The rest of my tweets are interactions: shout-outs, replies, reach-outs, thank-yous, Follow Friday recommendations.
+
+The following stats are from twitonomy.com and reflect the period 20 Feb 2012 to 3 Dec 2013.
+61.6% of my tweets get Retweeted.
+58.4% of my tweets get Favorited.
+Just under 2,000 of my tweets got retweeted.
+People retweeting me posted 14,996 individual retweets.
+I was listed in 3,192 Twitter lists.
+Comment: When you have a lot of followers, you can tell right away whether a given tweet is engaging. The majority of my tweets get retweeted. When I tweet something, and five minutes later I see that no one has retweeted it, it means whatever I tweeted just bombed. If I tweet a useful link, on the other hand, I can more or less count on seeing 5 or 10 retweets in five minutes. The instantaneous feedback is immensely useful. It's helped me understand what works, what doesn't, what people are expecting from me—how to provide value.
+
+Follow Friday
+There's a tradition on Twitter whereby people make Follow recommendations on Friday, using the #FF hashtag. Friday is when you tell everyone else on Twitter about that great, fantastic Twitterer you discovered on Tuesday (or whenever).
+
+Every Friday, about 25 people mention me in #FF tweets. Whenever someone #FFs me, I thank the person in a tweet. Sometimes I thank them individually; sometimes I gang-thank them. The net effect of the #FFs is that I get free exposure to an extra 25,000 or so people each Friday, because each person that mentions me in a #FF tweet is exposing me to an average of 1,000 followers.
+
+Note that if you institute a policy of thanking people, in public, every time you get a #FF mention, many people will start #FF-ing you every Friday in expectation of the free mention. Give it to them. Soon enough, you'll have a ton of free recurring publicity every Friday.
+
+Tweets That Get Retweeted
+What kinds of things can you say that will get you retweeted? Just about anything, if you have enough followers. But I suggest you avoid the obvious, avoid the irrelevant ("I just went to the bathroom"), be authentic, be yourself, and add value. If I tweet a news story, I check to be sure it's the best version available. (Believe it or not , sometimes the Huffpost version isn't the best.) I try never to send people to sites that have popup windows of any kind. If it's a science story, I try to dig up the original paper (if it's not paywalled) and post the URL. If the news item sounds rumorish ("Paul is dead"), I check it out first.
+
+A lot of times, I just tweet silly nonsense-thoughts that come into my head.
+
+Here are my top five most-retweeted tweets of the past 18 months (the top one got 168 RTs):
+
+April 16, 2013, 10:20 am
+Let's see. If Boston bomber is white, he'll be mentally ill; black, a criminal; foreign student, terrorist. #MediaProfiling #PickAStereotype
+
+September 19, 2012, 10:20 pm
+My whole life, I've never wanted to own a gun. Then I bought this Dell laptop.
+
+September 15, 2013, 5:43 pm
+Can't decide which is worse, the fact that YouTube lets people post public executions, or that they embed Marriott ads in them first.
+
+December 2, 2013, 10:40 pm
+This is the Domino's Pizza delivery test drone, for real. (via @richdownie) http://t.co/N0EgV95kSK
+
+September 17, 2013, 4:03 pm
+CAPS LOCK DOES NOT MAKE AN IDIOTIC POINT MORE VALID #NOT #EVEN #WITH #HASHTAGS
+
+Tweets Most Favorited:
+
+November 8, 2013, 6:56 pm
+Miss America 1924 https://t.co/LVb4Z1tLy5
+
+August 27, 2013, 4:18 pm
+The 7 stages of grief, as I understand them, are: artist, writer, waiter, student, deadbeat, drunkard, corpse.
+
+September 8, 2013, 9:22 pm
+Just added "Not Killing Myself" as a LinkedIn skill.
+
+April 16, 2013, 10:20 am
+Let's see. If Boston bomber is white, he'll be mentally ill; black, a criminal; foreign student, terrorist. #MediaProfiling #PickAStereotype
+
+September 20, 2013, 7:12 pm
+Dear literary agent, I regret that I am unable to respond personally to your rejection note, which is not right for me at this time.

@@ -1,0 +1,13 @@
+Stephen Colebourne penned an interesting blog not long ago about the possible fate of Java 7. He speculates that there will be a JDK 7 but not necessarily a Java 7. He points to the fact that there is no JSR for Java 7 (nothing comparable to JSR-270 for Java SE 6). Perhaps not coincidentally, every blog from a key Sun employee in recent times has referred to JDK 7, not Java 7.
+
+There's also the fact that Sun has impeded progress of the Apache Harmony project by not responding to Apache's Open Letter to Sun Microsystems. Until that dispute is resolved, and until there's a JSR, Apache can't move forward with an open-source Java 7.
+
+Sun, however, can move forward with a JDK 7. And that JDK can contain Sun-controlled pieces. There has been a lot of grumbling about this in blog posts around Project Jigsaw, the effort to modularize Java. (For an excellent post on this, with lively comments, see Neil's point-free blog. But also explore the Googlesphere on your own. This is a fast-moving story.)
+
+People are coming to realize that Sun still has an iron grip on Java, and that the JCP process has not helped ensure the openness of Java, going forward. (Had Sun gone with another standards body for Java, things probably would be turning out differently right now.)
+
+What amazes me, frankly, is that so many people thought Sun would ever relinquish control of Java in any meaningful sense. How could anyone be that naive?
+
+The community's best hope of seeing Java unshackled from Sun is to see Sun be acquired by IBM (which, IMHO, is not a sure thing either). If IBM acquires Sun, I believe there is a 70% chance that IBM will make Java truly open and unencumbered. IBM will make it community property.
+
+Right now, as things stand, there's too much entropy around Java 7 for it to ever see the light of day. I agree with Colebourne that we will almost certainly see a JDK 7. Beyond that, all bets are off. Don't count on seeing a Java 7 SE or Java 7 EE any time soon.

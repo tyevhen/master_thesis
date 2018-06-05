@@ -1,0 +1,21 @@
+Yesterday I blogged about this blog, in my 800th post, and today I want to take a temporary detour (I'll get back to more serious fare soon) to add to the chatter about blogs in general by addressing the oft-asked question: Is blogging dead?
+
+My first reaction is to ask, semi-facetiously: Was it ever really alive?
+
+Paul Krugman makes the case that bloggers still serve critical roles (in politics, for example, and other niche knowledge domains). Kevin Drum gives a good overview of what I call the "conversational theory of blogging," which to me is just theory, because most blogs have no comments and no conversation. But Drum's bigger point is that the "conversations" have all now moved to Facebook and Twitter (which we all know). Being a natural-born heckler, I'd make the point that there's little real conversation going on there, either. Was the Web ever really about conversations? That's the question.
+
+It seems to me if we're going to take the pulse of blogging, we might want to take a look at the term "blog" on Google Trends:
+
+
+While not a definitive proof of anything, this graph does seem (arguably) to show interest in blogs peaking in 2009 and trailing off since then.
+
+If we go to Alexa.com and look for stats on blogspot.com, we see:
+
+
+This shows that blogspot.com (which is Google's blog platform, of course; a platform it bought in 2003) was ranked #15 for web traffic a year ago and is now ranked #19. In the same time frame, Wordpress.com has gone from #20 to #34. Again, not definitive, but suggestive of a possible downward trend in blog traffic.
+
+Investors in Google stock might want to consider: If blog traffic is down, what does that portend for Google ad revenues? (If blog traffic has siphoned off into Facebook traffic, which is what everyone says is happening, then that can't be good for Google no matter how you look at it.) Another bad sign for Google is the loss of Mozilla as a partner. When Firefox switched to Yahoo and Bing, I didn't notice, at first (after Firefox updated itself on my machine); then when I noticed, I didn't much care. Turns out Bing Image Search is pretty damn good, and Bing itself isn't exacly a huge downgrade from Google, at this point. True, I eventually switched my browser back to Google, but imagine all the grandmas out there who aren't going to bother doing that. Bottom line, Google is in the midst of serious brand erosion and (soon) revenue erosion. The blogging downturn is a key "leading indicator."
+
+"Social" killed blogging, and it's killing Google, too. When Larry and Sir Gay wake up and realize the wings are coming off because of their failed social strategy, they will have to buy Twitter in an emergency move to convince shareholders that someone is awake at the wheel. (But knowing Google, they'll screw that up too.)
+
+Blogging has morphed. It's not what it started out to be (which was some fairy tale about conversations). It's now two things: team blogs run by big commercial sites, and scads of individuals running individually owned sites, writing their own articles for their own constituencies. There will always be a place for the latter. The traffic may be slim, but that's our own fault: It's us, using Twitter and Facebook (indulging our short attention spans), when we should be spending more time on the "long-form web."

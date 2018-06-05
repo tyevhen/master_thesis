@@ -1,0 +1,50 @@
+Related or not?
+Our local AMHP service was greatly exercised recently trying to decide the nearest relative of a particular patient who needed to be assessed under the Mental Health Act.
+
+The patient was a woman in her 30’s. She had no partner, and no children, but she did have a mother and a father. She had lived with a boyfriend in his parents' home for a couple of years, but this relationship had ended, he had moved out, but she had remained living there with his parents. This arrangement had continued for the last 10 years. As she had a number of chronic and disabling physical and mental health conditions, they had not just acted as landlords, but had been providing substantial care, including managing her medication, and taking her to medical and other appointments.
+
+Who should be regarded as the nearest relative within the meaning of the Act?
+
+Following the hierarchy set out in Sec.26 of the MHA, I would be inclined to identify the first people who came in that list.
+
+Sec.26(1) states:
+(1) In this Part of this Act “relative” means any of the following persons:—
+(a) husband or wife or civil partner;
+(b) son or daughter;
+(c) father or mother;
+(d) brother or sister;
+(e) grandparent;
+(f) grandchild;
+(g) uncle or aunt;
+(h) nephew or niece.
+
+Looks fairly straightforward, doesn’t it? It would surely be the elder of the patient’s parents.
+
+(By the way, someone living with you as a husband, wife or civil  partner, whether of the same or different sex, for at least 6 months, will automatically count as your nearest relative.)
+
+However, Sec.26(7) states:
+A person, other than a relative, with whom the patient ordinarily resides… and with whom he has or had been ordinarily residing for a period of not less than five years, shall be treated for the purposes of this Part of this Act as if he were a relative but shall be treated… as if mentioned last in subsection (1) above.
+
+And of course, we mustn’t forget Sec.26(4), which states:
+Where the patient ordinarily resides with or is cared for by one or more of his relatives… his nearest relative shall be determined… by giving preference to that relative or those relatives over the other or others.
+
+So does the fact that the patient has lived with, and been cared for, by people not her relatives for over 5 years trump the parents?
+
+The MHA Reference Guide has a generally helpful seven step procedure for identifying the nearest relative. This makes reference to a modified hierarchy, which places at the bottom, in 13th place, “other person aged 18+ who qualifies as a relative by having lived with the patient for at least five years”.
+It also states that:
+“The general rule is that the nearest relative is the person who comes first in the list of relatives described above (with people who are only relatives because they have lived with the patient for at least 5 years coming at the bottom of that list)” (Para 2.12)
+
+It then adds that “a relative who ordinarily lives with or cares for the patient takes
+precedence over other relatives.”(Para 2.15)
+
+Richard Jones in the Mental Health Act Manual, observes that subsection (7) “provides that a person who has been living with the patient for five years or more shall be treated as if he or she were a relative who came last on the hierarchy of relatives…By virtue of subsection (4), that person, as a relative who “ordinarily resides” with the patient, becomes the patient’s nearest relative unless a relative who came higher in the hierarchy is either living with or caring for the patient.” (1-412, 18th edition)
+
+So while the Act itself does not include such people in the list in Sec.26(1), the Reference Guide does include them. And if they are therefore included at all, then Sec.26(4) must logically apply to them.
+
+I have to confess that I always believed that a non-relative with whom the patient had been living for at least 5 years could only count as a relative if there was no-one else on the hierarchy of permitted relatives.
+
+Indeed, I remember the general sense of unfairness that a same sex couple only had the same status as a non-relative, even if they’d lived together for their entire adult lives. This was eventually rectified in case law, and then explicitly added to the MHA in the 2007 amendments.
+
+However, the guidance does appear to state that in the case of the patient I mentioned earlier, the people she is living with, and who care for her, would take precedence over other, blood relatives.
+
+While I recognise that non-relatives may often be providing substantial care and have some right to be consulted, I am not sure that Parliament necessarily intended for such people to take precedence over actual relatives of the whole blood, in the same way that the MHA, in Sec.26(3)), explicitly states “relatives of the whole blood being preferred to relatives of the same description of the half-blood.”

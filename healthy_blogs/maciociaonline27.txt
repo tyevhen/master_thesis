@@ -1,0 +1,205 @@
+In this blog post, I would like to discuss the clinical use of the Five Elements and, in particular, their Cosmological sequence.  By "cosmological sequence" (my own term, not a Chinese one), I mean the arrangement of the Five Elements in a cross-like fashion rather than the circular arrangement of the Sheng and Ke cycles that are very familiar to every practitoner and student of Chinese medicine.
+
+ The "Cosmological Sequence" has Water at the bottom, Fire at the top, Wood on the left, Metal on the right and Earth in the centre. These are associated with the compass directions of South for Fire (at the top), North for Water (at the bottom), East for Wood (on the left), West for Metal (on the right) and no direction for Earth in the Centre.  Earth has not compass direction as it is the centre, the point of reference.
+
+
+
+
+
+
+Translation
+
+Although the translation of Wu Xing as “5 Phases” has gained acceptance, it is not without its problems and many sinologists reject it. Wu Xing could be translated as “goings”, “conducts”, “movements”, “forces”, “agents”, “entities’, “activities”, “stages”. John Major argues for “5 Phases”; M Friedrich and and M Lackner suggest restoring “5 Elements”; Bodde favours “elements” over “phases”; A C Graham uses “5 processes”.
+
+
+五 行
+
+
+Indeed, the 5 Elements had different names in Chinese times at various times and various texts. These are some the other names used:
+
+Wu Cai  五 材 Ability, talent, aptitude
+Wu De  五 德   Power, potency
+Wu Wei   五 位 Place, location, status, condition
+
+
+The very first origin of the theory of the 5 Elements dates back  to the Warring States Period (476-221 BC) or even much earlier, some think even the Shang dynasty (1766-1050) if we take the 4 Directions Si Fang 四 方 (plus a Centre) as a precursor theory of the 5 Elements.  I personally think that the ancient Four Directions of the Shang dynasty are the precursors of the Five Elements. Please note that in the diagram below the South is at the top.
+
+
+
+
+
+Plan of the ritual complex built by emperor Wang Mang (AD 9) as a reconstruction of the Ming Tang of antiquity
+
+During the Shang dynasty, the theory of the 4 Directions (plus a Centre) prevailed: this is obviously very similar to the scheme of the 5 Elements (with correspondence of seasons and directions).
+
+
+An important feature of the 5 Elements is that it introduced a necessary Centre with the Earth Element.  The connection between the 4 Directions and the early 5 Elements confirms that the earliest arrangement of the 5 Elements was in the cross form and not the circular one of the Sheng cycle (in which there is no Centre). 
+The theory of the 5 Elements was greatly developed by Zou Yan (305-240 BC) and his School of philosophy was called the “Yin-Yang School” (Yin-Yang Jia 阴 阳 家) but it included the 5 Elements. Needham calls this School the “Naturalist School” and considers it “proto-science” as opposed to the pseudo-science of the Confucianists.
+ In ancient times the 5 Elements (Wu Xing) were called Wu Cai 五 材 i.e. the 5 Materials (but could also be “5 abilities” or “5 talents”).  It was Zou Yan who introduced the term Wu Xing and the cycles among them (Generating Sheng, Controlling Ke).
+
+
+One of the earliest references to the 5 Elements describes them in terms of movements (note order and therefore numbers):
+1. Water: that which soaks and descends
+2. Fire: that which blazes and ascends
+3. Wood: that which can be bent and straightened
+4. Metal: that which can be moulded and changed
+5. Earth: that which allows for sowing and to harvesting
+
+
+
+
+If we take notice of the order in which the Elements are listed, we get these numbers:
+             2
+
+3        5        4
+
+          1
+
+
+If we add the number 5 (the number of change), we get the 5-Element numbers that are part of the system of correspondences.
+
+
+
+           7
+
+8       10       9
+
+          6
+
+The Confucian philosopher Dong Zhong Shu (179-104 BC) elaborated on the 5 Elements and mentions both the Sheng cycle (notice that the numbers would be different than those of the cross-like arrangement); 
+“Heaven has 5 Elements: first, Wood; second, Fire; third, Earth; fourth, Metal; fifth, Water. Wood comes first and Water comes last, Earth being in the middle. This is the order that Heaven has made. Wood produces Fire, Fire produces Earth, Earth produces Metal, Metal produces Water, Water produces Wood. This is their “father and son” relationship. Wood dwells on the left, Metal on the right, Fire in front and Water behind, with Earth in the centre.  As transmitters, they are fathers; as receivers, sons. There is an unvarying dependence of the son on the fathers, and a direction from the fathers to the sons. Such is the Dao of Heaven.”
+This is of course a Confucian, ethical interpretation of the 5 Elements (which I would say is alien to medicine). Notice the reference to the “Dao”: "Dao" was a Confucian as much as Daoist ideal.
+
+Both the theory of the 4 Directions and of the 5 Elements were not only cultural phenomena but also had political overtones.  The introduction of a Centre with both the 4 Directions and even more so with the 5 Elements not by chance coincides with the political development of a strong central ruler called Huang Di  皇 帝.
+The theory of 4 Directions prevailed during the Shang and Zhou Dynasty (771-476 BC)  characterized by a Centre: this reflected the political structure of the Shang and Zhou States characterized by a strong ruler with the Mandate of Heaven Tian Ming 天 明.  This central authority collapsed during the fifth century with the rise of several states fighting each other without a strong, central ruler.  So it is not by chance that the shifting, flowing cycles of the 5 Elements appeared during the Warring States Period (476-221).
+
+The theory of dynastic transmission based on the 5 Elements was elaborated by Zou Yan: he envisaged the dynasty transmission as linked to the reverse Ke (i.e. “Insulting”) cycle of the 5 Elements. In other words, a dynasty was followed by one pertaining to the Element controlling the Element of the previous dynasty.  For example, the dynasty pertaining to Fire would be succeeded by the one pertaining to Water (which overcomes Fire). To put it differently, a dynasty pertaining to Fire had to be succeeded by one pertaining to an Element that Fire could not conquer ("Insulting cycle"), i.e. Water. 
+
+The onset of a dynasty would be preceded by omens heralding the ascension of a particular dynasty.  The following Table lists the opens that appeared in various dynasties.
+
+Ruler                       Power               Omen                                               Colour
+Huang Di               Earth                Earthworms, cricket                         Yellow
+Yu (Xia)                 Wood               Luxuriant vegetation in winter         Green
+Tang (Shang)         Metal               Metal blades in water                        White
+King Wen (Zhou)   Fire                  Red birds                                          Red
+Qin                         Water                                                                         Black
+
+
+This is how a Qin text explains the succession of dynasties according to the 5 Elements:
+Calculating the transmission cycle of Wu De 五 德 (5 Powers), the First Emperor (Qin) held that Zhou had the Power of Fire and Qin was replacing the Power of Zhou and should follow the Power that Fire could not conquer. From then on, the Power of Water had begun its dominance. Let the beginning of the year be changed and all tributes to the court start at the 11th month, let robes, garments, feathers, fur, stakes and flags all be in black, let the number 6 be used for regulations…Let the Yellow River be renamed the “De Water” [德 水], symbolizing the beginning of the Power of Water.  Let the policy be harsh, firm, perverse, and occult, with all affairs determined by law.  Be severe and strict rather than benevolent (ren 仁), kind (en 恩), harmonic (he 和) and righteous (yi 義) [a “dig” at Confucianists]. Only then will it be in accordance with the number of the 5 Powers.
+
+As we have seen, there is a close interaction between the theoretical cosmology and political power in ancient China and it is not by chance that the theory of the 5 Elements developed from the Warring States periods onwards and it consolidated during the Qin and Han dynasty. 
+The emerging political forces of this transitional period mobilized correlative cosmologies, Wu Xing in particular, to destroy the centrality of the old hegemonic state and to construct the new power relations of the imperial era.    
+Using Wu Xing cosmology, they transformed the static cosmology of Si Fang (Four Directions) by replacing the notion of an eternal centre and its surrounding four quarters with five dynamically interacting cosmic phases, conquering and generating one another in sequential order.  
+
+
+Besides being used to destroy the old cosmology and political order, Wu Xing cosmology further functioned as a political discourse of the imperial era, used by diverse factions of power in contesting imperial sovereignty, in defining norms for political behavior, and in constructing emperorship and the power relations that evolved around it.
+
+The theory of the 5 Elements has many facets which also depend on the different ways in which they can be arranged, e.g. cosmological cycle, generating cycle, controlling cycle or insulting cycle.  For example, in one context the theory of the 5 Elements was used to represent a physical order of conquering forces of nature (controlling cycle).  In another context, it was used to depict a moral order of birth and nurturing (generating cycle).  
+
+
+For the first Qin emperor, the theory of the 5 Elements was a cosmology of conquest and violence that replaced the moral intentionality of Heaven.  While for Han Confucian scholars, the theory of the 5 Elements was a moral cosmology manifesting the intention of Heaven.
+
+Wang A H, Cosmology and Political Culture in Early China, Cambridge University Press, Cambridge, 2000
+The Warring States Period marked the disintegration of the authority of the central ruler, authority which was not only political but also religious; the ruler was the connection between Heaven and Earth and he had god-like status. The ruler’s power was taken by four social groups, not established philosophical Schools but simply social groups:
+1       1) The religious and Nature experts (like our modern scientists)
+2       2) The state bureaucracy
+3       3) The military class
+4       4) The established philosophical Schools (Confucian, Mo Zi, Daoists, Legalists)
+
+The class of religious and natural experts was an assortment of diviners, ritualists, astrologers, musicians, physicians, calendar experts, etc. The theories of Yin-Yang, 5 Elements and Qi were all developed by this group of people.  In their professions, these experts started to  build various correlative classifications between the natural order and the human world based on numerological sets of 2, 3, 4, 5, etc.
+By applying these correlative categories to their own specialities, while serving their patrons, they replaced the king’s monopoly of communication with the divine with their own innovation – direct correlation of Heaven, Earth and Person.
+The theory of the 5 Elements was used by these experts to curry favour with various rulers and use the theory to give legitimacy to a ruler’s reign or dynasty.  For example, the first Chinese Emperor defined himself as pertaining to Water and saying that it was the time of Water in the cycle of the Five Elements.
+
+This is how the Book of Poetry describes the onset (and reason) of the Qin dynasty:
+“After the First Emperor of Qin had unified all under Heaven and proclaimed himself Emperor, someone advised him saying: ‘When Huang Di received the Power [De 德 ] of Earth, Yellow Dragon and Earth worm appeared.  When the Xia received the power of Wood, Green Dragon stopped at the city gates and the grass and trees were luxuriant. When the Shang received the power of Metal, silver flowed out of the mountains. When the Zhou received the power of Fire, red birds appeared as an omen.  Now the Qin has replaced the Zhou, and the time of the power of Water has come’.”
+Zou Yan said: “Whenever a sovereign is going to rise, Heaven will certainly show favourable omens to the people in advance.”
+
+THE FIVE ELEMENTS IN THE NEI JING
+The 5 Elements are mentioned in very many chapters of the Su Wen and Ling Shu.  The most common correspondences of the 5 Elements are with the following:
+Colours, odors, directions, organs, seasons, flavours, numbers, orifices.  The numerology of 5 is used in many other instances to classify things such as the 5 stagnations, 5 fullnesses or 5 deficiencies.
+
+CHAPTER 4 SU WEN
+The East direction: greenish colour
+Having entered it communicates with the Liver
+Its orifice opens into the eye 
+It stores the essence of the Liver
+Its flavour: sour
+Its class: herbs and trees
+Its animal: chicken
+Its grain: wheat
+its tone: jue
+Its number: 8
+Its odor: rancid
+
+CHAPTER 5 SU WEN
+The East generates wind
+Wind generates Wood
+Wood generates sour flavour
+Sour flavour generates the Liver
+The Liver generates the sinews
+The sinews generates the Heart
+The Liver rules the eyes
+Among the Zang it is the Liver
+Among the colour, greenish
+Among the tone jue
+Among the voices: shouting; among the orifices: eyes; among the flavours: sour; among the emotions: anger
+
+Clinical application of 5-Element Cosmological Cycle
+
+The arrangement of the 5-Element as a cross has important clinical applications.
+1)      The vertical connection between Water and Fire has three clinical applications. Kidneys and Heart do not only oppose each other in the Ke Cycle but they also mutually nourish each other and communicate with each other in three areas:
+               a) In menstruation
+               b) In mental-emotional sphere (Zhi and Shen)
+               c) In sexual life
+2) Earth in the centre is a manifestation of the importance of Stomach and Spleen as they make Post-Natal Qi and Blood.
+3) Wood on the left and Metal on the right are a manifestation of the balance between Liver and Lungs: the Liver is on the left and its Qi ascends, the Lungs are on the right and their Qi descends.
+
+The Cosmological sequence in menstruation
+In the Cosmological sequence there is a "vertical" connection between Water and Fire in which they communicate with each other and nourish each other: this is very different than the relationship in the Generating cycle in which Water controls (and therefore diminishes) Fire. 
+
+The communication between Kidneys and Heart is essential in menstruation.  The Kidneys are the origin of Tian Gui that, in women, corresponds to ovaries, ova and follicles. It is the tides of Kidney-Yin and Kidney-Yang that produce the menstrual cycle.  However, the Heart plays a role in this as it induces the downward movement that brings on bleeding at the onset of menstruation and the release of eggs at ovulation.  Heart-Yang also descends to Kidney-Yin to help to produce Tian Gui.
+
+From a channel perspective, menstruation relies primarily on the activity of Du, Ren and Chong Mai all of which flow to the heart.
+
+Points to stimulate descending of Heart-Qi for menstruation: SP-4 and P-6 (Chong Mai), plus HE-5 Tongli and Ren-15 Jiuwei.
+
+
+The Cosmological sequence in the mental-emotional sphere
+The connection between Kidneys and Heart is important also in the mental-emotional life.  The Kidneys house Zhi which is will-power, determination, spirit of initiative, drive, motivation while the Heart houses Shen.  Shen and Zhi need to communicate and balance each other.  
+
+The Zhi gives the Shen drive and determination in the pursuit of its goals, and the Shen directs and harnesses the Zhi. If the Shen is clear in its aims and plans, and the Zhi is strong, then the person will have the drive to pursue goals. Thus it is necessary for both Zhi and Shen to be strong.
+ 
+If the Zhi is weak (which it could be also if the Shen over-regulates it), the person is depressed.  If the Zhi is excessive (which it could be if the Shen is too weak to regulate it), the person is reckless and takes risks. 
+
+Points to stimulate descending of Heart-Qi for balance between Zhi and Shen:  Ren-4 Guanyuan, KI-13 Qixue, HE-5 Tongli, Ren-15 Jiuwei and Du-24 Shenting.
+
+
+The Cosmological sequence in sexual life
+In sexual life too, the communication between Kidneys and Heart is essential.  Heart-Qi and Heart-Blood descend to the genitals to promote erection in men and sexual arousal in women.  Many cases of erectile dysfunction are due not to a Kidney deficiency but to Heart-Qi and Heart-Blood not descending to the genitals.  
+
+From a channel perspective, the Chong Mai is mostly involved in the descending of Heart-Blood and Heart-Qi to the genitals.
+
+Points to stimulate descending of Heart-Qi for sexual life: Ren-4 Guanyuan, KI-13 Qixue, HE-5 Tongli, Ren-15 Jiuwei
+Generating (Sheng) and Controlling (Ke) cycles of the 5 Elements
+The Nei Jing contains many references to the cycles of the 5 Elements which confirms their arrangement away from the cross-like arrangement of earlier times according to directions.  For example, the Controlling cycle is mentioned frequently in relation to flavours and their excessive consumption.  Example: “If one consumes large amounts of pungent foods, the sinews will become tight and the nail wither.”  This is because Metal (pungent) overcomes Wood (sinews and nails).  
+
+Chapter 25 of the Su Wen describes the Controlling cycle directly:
+When Wood meets Metal it is felled
+When Fire meets Water, it is extinguished
+When Earth meets Wood, it is penetrated
+When Metal meets Fire, it is destroyed
+When Water meets Earth, it is interrupted
+
+
+
+The Generating and Controlling cycles of the 5 Elements are also mentioned frequently to describe the progression of a disease.
+Chapter 19 of the Su Wen says:
+“The Liver receives its Qi from the Heart
+It transmits it to the Spleen
+The Qi rests in the Kidneys
+Death occurs when it reaches the Lungs”
+
+
+
+ 

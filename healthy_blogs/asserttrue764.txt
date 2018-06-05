@@ -1,0 +1,27 @@
+Sun Microsystems profit centers (from SEC filings)
+
+Like a lot of my friends, I've been trying to figure out why the heck IBM would want to buy a burnt-out fail-whale like Sun Microsystems. Yes yes, Sun has some remarkably good technology, and I'm not putting it down. Sun's problem has never really been a lack of good technology. The company's problem has been a failure to monetize the technology. Big difference.
+
+Sun's biggest problem at the moment (arguably) is brand deterioration. There's an odor of failure about the company, and it's a difficult odor to get rid of. It eventually taints the brand itself. I fear that's happened already with Sun.
+
+I spent a lunch hour on the phone the other day with a friend of mine who works for a very large company that competes with Sun in a number of important markets. We tried to think of reasons for IBM to buy Sun, and couldn't come up with many.
+Storage + cloud-computing story: IBM doesn't need one.
+Servers and chipsets ("Computer Systems Products"): IBM doesn't need more of.
+Operating system (Solaris): IBM has shown that it doesn't want to be in the OS business.
+Java: The platform itself doesn't make huge money for Sun (if it did, Sun wouldn't be for sale), and IBM would probably throw it over the wall to the community (for real, and in toto) rather than try to maintain and advance it internally. If IBM didn't give Java to the community, there could be antitrust implications (since so many of IBM's competitors rely so heavily on Java).
+Software: Sun middleware is so profitable it's not even a line item in the Annual Report. (Okay, that was unnecessarily sarcastic.) Sun middleware is not category-leading in any category I'm aware of. MySQL is interesting, but does IBM need a database? More to the point, is the income MySQL produces important to IBM? Is it important to the overall Sun deal?
+So then. What does IBM stand to gain from a Sun acquisition?
+
+Three things, I think. First, a customer list to sell into (for servers, storage, cloud services). That's the obvious one.
+
+The second thing IBM gets by buying Sun (something I don't see many people talking about) is that nobody else gets to buy Sun. Certain IBM competitors who really do stand to benefit from a Sun purchase (e.g., Cisco) are denied easy entry into some of IBM's markets, if Big Blue takes Sun out.
+
+A third thing IBM gets is 7000 patents. Not all of those patents are still active, and around 1600 were donated to open source a few years ago. But it's still a sizable portfolio. And we do know that IBM likes patents an awful lot.
+
+Sadly, one thing IBM does not need, that Sun has way too many of, is employees. I see lots of unemployment coming out of this acquisition (if indeed it comes to pass).
+
+A prediction: I think IBM will buy Sun, but people may be surprised at the low valuation of Sun. I also think Google will buy Twitter, and people will be surprised at the high valuation of Twitter. Sun, I fear, may turn out to be worth only a few Twitters.
+
+And wouldn't that be something to tweet.
+
+UPDATE: Late Sunday, the New York Times reported that talks between IBM and Sun had broken off. The deal is officially dead (for now). Neither party has indicated a willingness to continue negotiations. Where Sun goes from here is anyone's guess.

@@ -1,0 +1,28 @@
+John Shuttleworth circa 1980.
+Did you ever use too much dill in a recipe? Remember how it tasted? Semicolons are like that. Useful in a pinch, distasteful in excess. No one ever sits down to eat a bowl of them.
+
+When I was a rewrite monkey at The Mother Earth News, many geological epochs ago (when men were monkeys), John Shuttleworth, founder of the magazine, chastised me mercilessly for using too many semicolons. How many semicolons was "too many"? Answer: any integer greater than zero.
+
+Shuttleworth associated semicolons with academic writing and stuffy, pompous, pedantic writing in general. If periods were lag bolts and commas were pop rivets, semicolons were (to him) a kind of inferior duct tape, not to be trusted. He was unable to articulate his prejudices on the subject in a convincing fashion. Yet I think I know now what he meant.
+
+I won't go so far as to say (as Shuttleworth did) that semicolons are evil. But I would agree with him that they're overused.
+
+People typically use semicolons as an adhesive to join together two independent clauses. It's a stronger adhesive than a comma, but not as strong as a period. Example:
+Deficit spending is an idea that no longer enjoys the kind of support it once did; it is one of many quaint Keynesianisms that have fallen into disfavor.
+This is the kind of sentence Shuttleworth hated with the fire of a thousand suns. Why? It's two sentences pretending to be one. What's wrong with that? First, it makes a sentence twice as long, and long sentences suck. Also, semicolons put more work on the reader. A person encountering the semicolon in the above sentence, thinks "Okay, I'm being told to cache the meaning of the 16 words I just read so that I can see how the next statement relates to it." The trouble is, the reader may not want (or be able) to hold the preceding clause in memory, particularly if the followup clause is a long one. You're telling the reader to keep one ball up in the air while grabbing a new one. Why not just hand the reader Ball 1, then hand him Ball 2?
+Deficit spending is an idea that no longer enjoys the kind of support it once did. It's one of many quaint Keynesianisms that have fallen into disfavor.
+Was there ever any reason to combine these two sentences into one, using a semicolon? No. Not really. So why do it?
+
+I agree with Shuttleworth that using a semicolon to join two independent clauses is a poor idea, seldom justifiable in terms of readability. It's the conventional ("accepted") way to use semicolons, yet it's also the worst possible use-case.
+
+When should you use a semicolon? Here are the use-cases that work for me:
+
+1. Use semicolons in any list in which the list items come with their own internal punctuation. Example: We made stops in London, England; Geneva, Switzerland; and Paris, France.
+
+2. Use a semicolon to put a longer explanatory thought after a super-short statement that begs further explanation. Example: I don't like coffee; I'm jittery enough without it, and it keeps me awake at night. Shorter thought, then longer thought.
+
+3.  Use a semicolon when you need to add a quick/short clarification or observation to the tail end of a much longer thought. For example: Only ten percent of patients had a full recovery after ten weeks of intensive treatment; a poor outcome by any measure. Longer thought followed by much shorter thought.
+
+Also: When I see myself using more than one semicolon in a paragraph, or in a passage of less than, say, 300 words, I force myself to do a little rewriting to eliminate one or more semicolons. As a reader, I'm annoyed when I see semicolons cropping up everywhere in an otherwise-good piece of writing. I have to think there are others of my kind out there.
+
+It's up to you. Use semicolons with abandon if you dare. But I think for most readers, semicolons are like dill weed. They nearly always spoil the recipe if used too freely.

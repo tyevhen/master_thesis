@@ -1,0 +1,39 @@
+JavaScript expression closures (new for JS 1.7 but syntactically even cleaner in 1.8) are one of those things that seem very so-what the first time you hear about it, but leaves you slapping your forehead and saying "OMG this is so darn freakin' cool" repeatedly after you start using it. Why? Because OMG. It's so darn freakin' cool.
+
+The basic notion is that instead of writing short utility functions (which I have a million of) as, for example
+function square( x ) {
+return x * x;
+}
+you just write
+function square( x ) x * x
+which (yes yes, I know) looks very so-what, but bear with me for a moment. The short syntax starts to become more compelling when you begin using it in anonymous functions, particularly callback functions (which, as you know, tend to be anonymous a great deal of the time). For example, suppose you have a custom comparator for the sort() method of Array:
+
+function descending( a,b) {
+return b > a;
+}
+
+[5,1,3,2,4].sort(descending); // [5,4,3,2,1]
+
+You can instead write it as:
+[5,1,3,2,4].sort( function(a,b) b > a );
+Another fairly trivial example: Suppose you want a function that will constrain strings to a certain length. You can do something like:
+function limit(s, n) s.length > n ? s.substring(0,n): s
+As a more elaborate example, suppose you have the following code, designed to convert a "camelCase" string to underscore_format.
+function underscore( str ) {
+
+ function toUnderscore( s ) {
+   return '_' + s.toLowerCase();
+ }
+
+ return str.replace(/[A-Z]/g, toUnderscore );
+}
+
+// underscore( "aName") --> "a_name"
+
+With the new closure syntax, you can do:
+function underscore( str )
+str.replace( /[A-Z]/g,
+ function(s) '_' + s.toLowerCase() );
+Here I've converted not only the outer function, but also the callback to replace(), to expression-closure form. (I split it into 3 lines for readability, but it will still execute correctly as a 3-liner. You don't have to write these things as one-liners.)
+
+Still not convinced? Try using this syntax (supported in Firefox 3+, and anywhere else JS 1.7 or 1.8 are implemented) in some functions yourself, and see if your code doesn't become easier to write, shorter, and (in most cases) more readable. It may be only a small improvement on the more verbose older syntax, but an improvement is an improvement. I'll take it.

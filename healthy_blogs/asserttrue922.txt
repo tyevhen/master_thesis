@@ -1,0 +1,13 @@
+Two years from now, it will not be necessary to steal anyone's identity. Web surfers will have given away more personal info to the world than even the greediest thief would ever want to rip off by illegal means.
+
+I'm not so much talking about static identity info, like your Social Security number (which will be worthless anyway in a year or two). I'm talking about the really interesting dirt. Your shopping habits, reading habits, movewatching habits, hobbies, favorite travel destinations, where you went to school, who you've worked for and how long you stayed at each job, and (let's not mince words) sexual preferences, who your friends are, the names and ages of your children. Most of this info can be scraped, right now today, from blog bios, online resumes, mySpace profiles, tag-sharing sites, social networking sites (like linkedin.com), and photo-sharing sites. Your info is out there. You put it there yourself.
+
+And the bad part is, there's no taking it back. Google archives old pages. So does the Wayback Machine.
+
+You're leaking personal info to the world every time you use an online service of any kind. Particularly the spate of Web 2.0 applications offering free online word processing, spreadsheets, chats, etc. Those are hosted apps. Most of the hosts are trustworthy (arguably), but the hosts tend to archive chatlogs and other interaction records, which means the storage media on which that material is archived can be stolen or lost just like the Veteran's Administration guy's laptop.
+
+Or it can be inadvertantly indexed by Google and exposed to searchers (as has happened with supposedly private test scores).
+
+The outflux of identity info onto the Web is massive, and it's accelerating daily, driven largely by the explosion in popularity of "Web 2.0" apps.
+
+All of which is great news to the National Security Agency, who by some accounts are sifting through your data right now.

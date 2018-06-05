@@ -1,0 +1,31 @@
+I'm not an economist by training, but I've spent a long time observing markets, and I've often wondered what the great economic thinkers of centuries past (Marx, Smith, Keynes, others) would say if they were alive today and could witness the transformations that have been caused by mass media (radio, TV, print) and the Internet. The Internet, in particular, has had a transformative effect that will doubtless be studied for hundreds of years to come.
+
+One of the things that can be said about pre-Internet markets is that most markets permit the emergence of two or three major winners (a primary winner, a secondary winner, a third-place winner), and a rich ecosystem (a long tail) of also-rans. The major winners control the bulk of the market. Seldom does the long tail make up the bulk of sales or unit volume. Think of any market, and think of the winners. You can usually think of two, sometimes three.
+
+In carbonated drinks, there is Coca-Cola (primary winner, with 40% of the market), Pepsi (secondary winner, with 30%), Dr Pepper Snapple (with 16%), and then a long tail of hundreds of also-rans. [reference]
+
+In beer, you have 90% of the market controlled by just three companies: Anheuser-Busch, Coors Molson, and SABMiller. [reference]
+
+In fast food, there's McDonald's, then Subway (which actually claims to have more stores, now, than McDonalds), and Burger King. McDonald's is far and away the sales leader, selling three times as much product as its nearest rival. [reference]
+
+To recap: The nature of offline businesses is that there are usually a few big winners, and a long tail of also-rans. Quite often, the top one or two winners garner the majority of industry sales.
+
+Internet-based businesses (businesses that get all of their revenue from online activities) show a qualitatively different trend.
+
+In the online world, it's essentially a winner-take-all model. There is one major winner in a given category, and the long tail of also-rans who fight over a small residual volume of sales.
+
+Again, it's not hard to think of examples. In search, Google is the principal winner. In online book sales, there's Amazon and then there's everyone else. In social networking, there's Facebook (which gets 40 times the traffic of Twitter). In digital video streaming, there's Netflix. In chips, there's Intel (with 80% of the market). And so on.
+
+All of the great new monopolies of the last 30 years are tech companies, which should tell you something.
+
+For whatever reason, the winners in the online world tend to be fewer in number and have much greater market dominance, compared to the winners in the offline world.
+
+What this tells me is that in markets that are transitioning from offline to online (or that seek a mixed mode of operation, straddling both the online and offline worlds), big shakeups are bound to happen, because the online model leads to rather dramatic, irreversible marginalization of otherwise-big competitors. We see examples of this already happening. Sale of physical books, for example, once demanded that you have brick-and-mortar stores located in or near shopping centers. Prior to the Internet, there was room in the market for a few big winners (Barnes and Noble, Borders, Books-a-Million) and a long tail of popular one-off booksellers. The book industry is transitioning to a different model, however, in which the majority of books will be sold online, with only a small fraction of books being sold in physical facilities. This tells me there will be huge consolidation (and outright bankruptcy, in some cases) of brick-and-mortar stores, with only one big winner online, in the end: Amazon.
+
+Another industry that is in transition is the newspaper business. We don't yet know who the Big Winner will be online (maybe the New York Times, maybe Bloomberg or Murdoch), but it seems certain that when the transition is complete, there will be fewer big players left standing in the newspaper business, and only one dominant online winner. That's the pattern.
+
+Some businesses, by their nature, don't permit a full transition to an online model. That's true of most businesses, of course. But (here's the point) those that do allow for significant online development will see radical disruption of the hitherto-normal ecosystem. Most online markets don't have room for six or ten (or even two or three) big winners. There's room for one, and only one, big winner. When the music stops, there's only one chair, and everyone else gets to fall on the floor.
+
+The last big operating-system war took place in the 1980s and saw the emergence of a dominant winner (Microsoft) who reaped billions of dollars, even while producing inferior goods. The next big operating-system war (for mobile devices) is underway now. There are those who think Android will win, and there are many more who think iOS will win. If my theory is correct, there is room only for one big winner. The also-rans will end up with a puny, insiginificant share of the market. As it stands now, Microsoft is way too late to the party to have any effect. Android appeared to have the early lead, but recently Apple's iOS and Android have switched adoption numbers, and this has caused many observers to begin to question Google's supposed future preeminence in mobile computing. (GOOG's share price was recently as high as 670, but is now down to around 625, largely because investors are starting to doubt the validity of the $100+ "Android premium" baked into the share price. AAPL, meanwhile, continues to set new all-time highs, as more and more investors come to believe that Apple will be the last one standing in the mobile-OS race.)
+
+I'd love to be able to say, of course, that the advent of the Internet has created new opportunities for small-time operators and will lead to economic ecosystems of unexpected richness and diversity. But that's not what we've seen so far. Quite the opposite. Internet-scale businesses are a winner-take-all event. Any diversity that happens to develop is strictly accidental.

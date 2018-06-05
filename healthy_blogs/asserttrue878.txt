@@ -1,0 +1,38 @@
+There's an easy way to get from decimal to hexadecimal in JavaScript:
+
+  function toHex( n ) { return n.toString( 16 ); }
+
+
+The string you get back may not look the way you want, though. For example, toHex(256) gives "100", when you're probably wanting "0x0100" or "0x00000100". What you need is front-padding. Just the right amount of front-padding.
+
+// add just the right number of 'ch' characters
+// to the front of string to give a new string of
+// the desired final length 'dfl'
+
+  function frontPad( string, ch, dfl ) {
+     var array = new Array( ++dfl - string.length );
+     return array.join( ch ) + string;
+  }
+
+
+Of course, you should ensure that 'dfl' is not smaller than string.length, to prevent a RangeError when allocating the array.
+
+If you're wondering why "++dfl" instead of plain "dfl", stop now to meditate. Or run the code until enlightenment occurs.
+
+At this point you can do:
+
+  function toHex( n ) {
+    return "0x" + frontPad( n.toString( 16 ), 0, 8);
+  }
+
+  toHex( 256 )  // gives "0x00000100" 
+
+
+If you later need to use this value as a number, no problem. You can apply any numeric operation except addition on it with perfect safety. Addition will be treated as string concatenation whenever any operand is a string (that's the standard JS intepreter behavior), so if you need to do "0x00000100" + 4, you have to cast the hex-string to a number.
+
+  n = toHex( 256 );  // "0x00000100"
+  typeof n  // "string"
+  isNaN( n )  // false
+  x = n * n;  // 65536
+  x = n + 256  // "0x00000100256"
+  x = Number( n ) + 256   //  512

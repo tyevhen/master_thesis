@@ -1,0 +1,51 @@
+Many DNA-processing genes have an unusual amount of internal complementarity: regions of DNA in which the DNA can fold back on itself to form stable structures. A good example is the dinG gene of Mycobacterium tuberculosis, which encodes an ATP-dependent helicase. Using the DINAMelt server's Quikfold app, I obtained the following structure prediction for the first 1,000 bases of the (1,971-bases-long) dinG gene of M. tuberculosis Erdman strain.
+
+Structure prediction for one strand of the M. tuberculosis dinG gene (first 1,000 bases). Almost the entire sequence folds back on itself. The only part of the original sequence that doesn't self-anneal is the tiny straight line at the lower right (red arrow). Click to enlarge.
+
+Remarkably, almost the entire sequence can form a stable self-annealing structure. Only a few bases (see red arrow, above) lack the ability to form secondary structure. Bear in mind, what we're looking at is a stable conformation involving one strand of DNA only. (Each of the two strands of dinG can form this structure, independently of one another.) The structure shown above has a Tm (melting temperature) of 66.4°C in 1M saline, with mean-free-energy enthalpy of minus-2418.60 kcal/mol and a 37°C Gibbs free energy (ΔG) of minus-209.92 kcal, meaning that at 37°C, formation of the stable structure shown here (or one very much like it) is, energetically speaking, strongly favored.
+
+Structures of this kind are often considered to occur in RNA, but if they also occur in single-stranded DNA, it raises interesting questions. If a gene has an energetically stable strands-apart configuration, getting the strands of duplex B-form DNA to separate might not be so hard. But more to the point, getting the self-annealing gene to come back together again as duplex DNA will require significant energy input. In molecular genetics, we're accustomed to the idea of duplex DNA requiring help from an ATP-dependent helicase to "open up" (unwind) the double helix in preparation for replication or transcription. The above diagram suggests that the problem isn't "opening up" a gene; the greater problem may be bringing the strands together again after they've assumed a stable strands-apart secondary structure. There's a substantial energy barrier to be overcome before the above structure can be relaxed into randomly coiling DNA.
+
+This suggests that certain genes, like dinG, may be modal in terms of strand-separation state. Once the gene's strands are apart, they want to stay apart. There's an energy barrier to bringing the strands together again.
+
+It's ironic that a helicase gene (dinG) has so much single-strand secondary structure. The gene product is a DNA-powered helicase; the gene needs its own protein product in order to zip up again. But maybe that's the point? Maybe it's a non-accidental feature.
+
+In general, bacteria tend to have a remarkable number of helicase genes. M. tuberculosis (for example) has 16 different helicases. Other species have even more. (See table.)
+
+Organism
+Helicase genes
+Myxococcus xanthus strain DK 1622
+42
+Frankia sp. strain QA3
+41
+Streptomyces cf. griseus strain XylebKG-1
+39
+Clostridium botulinum Hall strain
+26
+Psychromonas ingrahamii strain 37
+25
+Mesorhizobium sp. strain BNC1
+21
+Bacillus cereus strain F837/76
+21
+Escherichia coli B rel606
+19
+Anabaena cylindrica strain PCC 7122
+19
+Mycobacterium tuberculosis Erdman strain
+16
+Caulobacter crescentus strain NA1000
+15
+
+One might ask why this is so; why would a bacterium need 15, 19, 25, or 42 different helicases? It's quite unusual for a bacterial genome to have significant redundancy of genes, because when there are two copies of a given gene, one copy usually eventually becomes disabled (pseudogenized) and lost through random mutations. The very few exceptions to this rule tend to involve highly transcribed, highly necessary genes (such as ribosomal-RNA genes). It would be extremely unlikely for M. tuberculosis to carry around 16 "flavors" of a gene if they weren't all absolutely necessary. Duplicates would almost certainly be lost over time, especially in M. tuberculosis, which lacks a mismatch repair system. (Bacteria that lack mismatch repair enzymes have been shown experimentally to lose DNA fifty times faster than other bacteria.) The most parsimonious view is that the 16 helicases of M. tuberculosis are, in fact, critically necessary and perform different jobs.
+
+I would suggest that perhaps the reason bacteria have so many helicases is that these are actually the "nucleic acid chaperones" that manage secondary structure in the sizable minority of genes that exhibit pronounced self-annealing of separated strands. It could be that most helicases are tasked with separating individual strands of DNA (and/or RNA) from themselves. Different types of secondary structure require different types of helicase to unravel. This might be why bacteria need so many helicases.
+
+References
+Helpful articles on DNA secondary structure:
+Dimitrov, R. A. & Zuker, M. (2004) Prediction of hybridization and melting for double-stranded nucleic acids. Biophys. J., 87, 215-226.
+[Abstract] [Full Text] [PDF]
+SantaLucia, Jr., J. (1998) A unified view of polymer, dumbbell, and oligonucleotide DNA nearest-neighbor thermodynamics. Proc. Natl. Acad. Sci. USA, 95, 1460-1465.
+[Abstract] [Full Text] [PDF]
+Walter, A. E., Turner, D. H., Kim, J., Lyttle, M. H., Müller, P., Mathews, D. H. & Zuker, M. (1994) Coaxial stacking of helixes enhances binding of oligoribonucleotides and improves predictions of RNA folding. Proc. Natl. Acad. Sci. USA, 91, 9218-9222.
+[Abstract] [Full Text] [PDF]

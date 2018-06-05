@@ -1,0 +1,38 @@
+I don't like to write about my own health problem - but it is a ready example and I already have another blog about it so here goes.  I also don't need to worry about violating my own confidentiality.  It involves a personal medical problem called paroxysmal atrial fibrillation.  I have consulted 5 different Cardiologists and the rhythm problem is not due to valvular or coronary artery disease.  It is probably due to excessive exercise - specifically exercise with sustained high heart rates.  After a period of frequent episodes, I started taking a generic brand of flecainide 4 1/2 years ago and have not had an episode since.  During that time I have had two episodes of influenza and 1 episode of acute bronchitis requiring prednisone therapy with no recurrence of atrial fibrillation.
+
+Lately I have been seeing patients and about 40% of them have an upper respiratory virus and the various complications.  I knew it was just a matter of time.  Earlier this week I developed a cough, sneezing, facial burning, and a headache but no additional flu like symptoms.  It is not flu season here, but respiratory viruses abound.  Monday, Tuesday and Wednesday morning - I was awakened at 4 AM with an intense flurry of palpitations.  Taking the pulse showed a pattern of 4 or 5 regular beats followed by what seemed like a pause or dropped beat that I recognize as the early transition (I think) to atrial fibrillation.  In each case I drank a large glass of water, paced for a minute or two and I was back in sinus rhythm - the palpitations resolved.  Initial BP check was about 130/80 with a pulse of 88 rapidly back down to 110/70 with a pulse of 58.  The last readings are my typical baseline and I check them four times a day.  I know how much physical, mental, and emotional exertion affects those readings and I try to stay cool.
+
+When it happened Wednesday, I decided to do the responsible thing and take the day off of work and see my primary care physician.  He did a physical exam, ordered labs and an ECG.  Everything was normal.  That is my ECG from that clinic visit at the top of this post.  It is normal sinus rhythm with a slight bradycardia (less than 60 bpm).  An interesting homage to artificial intelligence is that the ECG machine communicated with the electronic health record (EHR) and determined that there was no appreciable change between this ECG and one I had done 10 months ago.  The cardiologist is out of that loop.  The bottom line is that the tests were all negative and the plan was to see what happened and consider a Holter monitor if it persisted.  A Holter monitor in this clinic is a 48 hour recording of the ECG looking for discrete events that might suggest a cause of the rhythm disturbance.  It also allows the patient to mark any episodes of subjective disturbance on that record.
+
+Yesterday morning I felt a little tachycardic at about 5 AM and got up and checked.  Heart rate was 66 and blood pressure was fine.   This AM, a flurry of palpitations wakes me up.  They are gone in two minutes after pacing and drinking water.  There was no chest pain or lightheadedness.  In fact when I had the initial episode about 10 years ago, I was speedskating and my heart monitor showed a rate of well over 200 bpm.  No chest pain or lightheadedness at that time and I drove to the hospital and told them I was in atrial fibrillation.
+
+Today I respond to my primary care physician's note though the EHR and describe what happened.  I recall that he is not in, so I go back to the EHR,  agree that I can be billed if this is not a problem that I have been seen for in the last 7 days and attempt to cut and past my note to my primary care doctor into a separate email to his team.  The EHR cuts me off because it says that I can only use 255 characters.  It is the Twitter of EHRs.  I edit it down and send it - no response to my request for the Holter monitor.  I call the clinic and get on the phone with a triage nurse.  The conversation goes something like this (not a transcript):
+
+Me: (Relating the history and Holter monitor request).
+Triage RN:  "Well what is the emergency here?  It is Friday afternoon, there is no way that we are  going to get a Holter monitor today.  It will be Monday at the earliest. Your doctor can call it in then"
+Me (a little steamed): "Maybe you could suggest criteria that I can use to call an ambulance."
+Triage RN: "What?"
+Me: "You know - when I wake up from a deep sleep with this arrhythmia at 4AM tomorrow morning, what criteria should I use to decide when to call an ambulance?"
+Triage RN: "I did not know it was still happening."
+Me: "It happened this morning.  That is why I e-mailed and called you.  That is why I stayed home from work."
+Triage RN: "Well in that case I will run it by one of the attendings who is here and ask them about what should be done."
+
+After another call back to get more of the usual information about cardiac symptoms, the Triage RN called again and connected me with the Holter Monitor tech.  I can apparently get in next Wednesday.  He told me the entire procedure would take 5 minutes so I would only have to miss a half day of work instead of a full day.  I did not pursue the obvious "Well why can't I just drive down there now and have it put on."  Everyone must be scheduled.  Schedules must be adhered to.
+
+So that is where it stands tonight.  All of the bullshit that passes in the press for medical news does not apply.  There is no IBM Watson computer out there that knows more than I know about this condition or how to treat it.  There is no personalized medicine.  I have not encountered a single cardiologist interested in the genetics of atrial fibrillation or why I might have it.  Most  physicians assume I have neglected hypertension or have done something wrong with regard to my self care and therefore deserve it.  I still encounter physicians who doubt that I have never smoked a single cigarette in my life - even though it is true.  Hard to believe that somebody could bring this on by excessive exercise.  Isn't exercise supposed to be good for you?
+
+I am probably being overly dramatic.  This is most likely a benign atrial arrhythmia.  On the other hand - why am I so certain if my physician wants another Holter?  I did a Holter and a longer event monitor 5 years ago.  I run a heart rate of 130 bpm during 4 hours of exercise per week and have tolerated a sustained heart rate of 140 bpm from a medication side effect - calmly pacing and taking incremental amounts of beta blockers to slow it down.  The final instructions from the triage nurse were to get to a hospital if a sustained heart rate of 120 bpm or greater and call an ambulance if chest pain.
+
+Personalized medicine in the early 21st century is in many ways inferior to medicine the way it was practiced in the 20th century.  In those days, there may have been an interested physician who said: "Spend a night on telemetry and we will see if we can capture the beats and figure out what to do about it."  I saw those people being admitted when I was a medical student and an intern.  That was before you had to be dying to get into a hospital and the admission rules were dictated by case managers.  In those days personalized meant a long term personal relationship with a real physician who  could make things happen.
+
+Now like me - those people are sitting at home waiting for something to happen and guessing about when they should call an ambulance.
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+Disclaimer:
+
+Don't try any of this at home.  This is not medical advice.  Only your personal physicians and consultants can give you that advice.

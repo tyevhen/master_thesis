@@ -1,0 +1,41 @@
+There's no shortage of online "readability checkers" that claim to show how readable your text is via this or that metric. But few online tools (especially free ones) attack the readability problem with as much gusto, or in as many ways, as Pro Writing Aid.
+
+Sadly, that's pretty much where the good news ends. My test-drive of Pro Writing Aid didn't find it to be much of an aid. But I give the creators an 'A' for effort. They're on the right track, at least.
+
+The way the tool works is, you paste a bunch of text into PWA's online form and click the Analyze button. About ten seconds later, you'll see a summary report, with a column of links down the left side having names like:
+Overused words
+Word cloud
+Sentence variation
+Grammar
+Adverbs/passive
+Sticky sentences
+Clichés and redundancies
+Repeated words and phrases
+Phrases summary
+Diction
+Vague and abstract words
+Complex words
+Alliteration analysis
+Pacing
+Consistency
+Sentiment
+Time
+Dialog
+Homonyms
+You can click on any one of these to see potential problems highlighted in your text. Unfortunately, "potentials" outnumbered actuals quite a bit in the testing I did. (I used several pieces of my own writing for testing, as well as sample chapters from The Adventures of Huckleberry Finn. You'd think the latter would've thrown a lot of flags and warnings, but oddly enough, "it warn't that terrible bad.")
+
+Different writers will get different mileage from this kind of tool, so go ahead and try it yourself: You may very well find it useful. For me, it was like using a spellchecker in that I spent the vast majority of the time dismissing things that a computer would flag as wrong but that a human would know were right.
+
+The Adverbs/Passive tool was puzzling. It flagged every adverb (including every occurrence of "only"), but highlighted few or no instances of passive voice in any of the five writing samples I tried (each sample averaging 1,700 words).
+
+The Word Cloud feature makes pretty pictures but is otherwise useless.
+
+The Overused Words report flagged 47 instances of "it" in Chapter 3 of Huck Finn, saying that about 26 instances could be removed. In point of fact, I couldn't find any instances that warranted removal.
+
+That's not to say the Overused Words report is useless. But as I say, it tends (like many of the other tools) to report far more false positives than it reports good catches.
+
+A fundamental problem with utilities of this sort is that they don't make allowances for the (huge) differences between dialog and narrative, in a piece of text that contains both (such as a chapter from a novel). The reason this is a big problem, obviously, is that spoken English is quite a bit different from written English: It's different as to vocabulary, diction, syntax, word length, sentence length, sentence variety, pacing, use of clichés, constructions based on slang, and probably two or three dozen other particulars. You can't treat dialog and non-dialog text as one and the same thing. They're distinct. What works for one won't necessarily work for the other. I saw this when I passed a piece of dialog-intensive sample text through the Pro Writing Aid analyzer and noticed many more flags in areas of spoken English than in areas of expository English.
+
+Another potential problem with utilities of this type is that they make no distinction between writing aimed at adults and writing aimed at children or young adults. (Or for that matter, writing aimed at a professional audience vs. writing aimed at a lay audience.) It would be nice if there were a way to specify the intended age group for the writing sample in question, so as to get an age-appropriate readout of things like diction and "sticky sentences." 
+
+Long story short: Pro Writing Aid was a disappointment, for me. But I recognize that it might well be a boon to others. So by all means, try it out yourself. And let me know what you think.

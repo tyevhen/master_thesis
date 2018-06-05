@@ -1,0 +1,64 @@
+Every once in a while, I persist a web page to disk (maybe it's an airline itinerary, or whatever), and I like to make notes to myself in the page before saving it. I have a Mozilla Jetpack script that lets me edit the web page directly (in Firefox) before saving it. It works by setting the document property designMode to "on." If you're not familiar with this technique, I blogged about it previously here.
+
+The Jetpack script puts a menu command in the right-mouse (context) menu for the page, called "Edit this page." (See screenshot below. The menu command is at the bottom.)
+
+
+
+It would have been simple to just have the script set designMode to "on" and then have another script, with a menu command of "Disable editing," that sets it to "off," and perhaps have the menu-command label toggle back and forth depending on the mode the page is in. But I decided that would be a poor UI decision. When a page is in "edit" mode, there should be some sort of always-visible indication of that fact; otherwise you could forget why the page's links aren't working, for example. Also, there needs to be a quicker, easier way to turn off page editing than to go back to a menu command. Hence, I decided not to do a "Disable editing" menu command. Instead, I put a bright red "DESIGN MODE" flag at the top of the page and make it non-scrollable so it's always in view. To exit design mode, you just have to click anywhere in the red DESIGN MODE label. The label immediately goes away and you're back to a normal non-editable page.
+
+
+
+
+The red DESIGN MODE indicator is a little obnoxious, but it's that way by design. ;)
+
+In any event, the code for doing all this is fairly short and self-explanatory. The only non-obvious part, I think, is obtaining a reference to the current page's (or tab's) document, which in Jetpack you have to access via
+jetpack.tabs.focused.contentDocument
+Aside from that, the code is pretty straightforward:
+
+jetpack.future.import("menu");
+
+jetpack.menu.context.page.add({
+ label: "Edit this page",
+ command: function enableDesignMode( )  {
+
+         // Get a reference to the current page's DOM:
+           Document = jetpack.tabs.focused.contentDocument;
+
+         var INDICATOR_TEXT = "DESIGN MODE";
+         var INDICATOR_STYLE = 'position: fixed; ' +
+           'top:10px; left:400px; z-index:100'  +
+           'font-color:black; ' +
+           'background-color:red;padding:10px;';
+
+         var modeIndicator =
+            createIndicator( INDICATOR_TEXT, INDICATOR_STYLE );
+
+         Document.body.insertBefore( modeIndicator ,
+         Document.body.firstChild );
+
+         function stopDesignMode( ) {
+                 Document.body.removeChild( modeIndicator );
+                 Document.designMode = "off";
+         }
+
+
+           // Exit Design Mode when the indicator takes a click
+           modeIndicator.addEventListener( "click",
+             stopDesignMode, false );
+
+         // This line makes the page editable:
+         Document.designMode = "on";
+
+         function createIndicator( text, style ) {
+
+                 var span =
+                   Document.createElement( "span" );
+                 span.setAttribute( "style", style );
+                 span.innerHTML = text.bold( );
+                 return span;
+         }
+
+ }   // end enableDesignMode( )
+});
+
+The code is public domain. Do with it as you will. No warranties of any kind are made, blah-cubed. :)

@@ -1,0 +1,81 @@
+It's really not such a big trick to enable in-page editing of Web pages. The major browsers support a property called designMode on the document object. If you set its value to "on," you've got an editable page.
+
+If you want to see quick proof of this, copy and paste the following line into your address bar right now and hit Enter:
+
+javascript:document.designMode="on";void(0);
+
+You'll notice that this page is now editable (unless you're using Internet Explorer, in which case all bets are off). Drag various graphic elements around. Edit the text. Play around a while. (I'll wait.) See what I mean?
+
+Internet Explorer has something similar called contentEditable (which you set to true or false). But the security provisions of IE are so convoluted these days, I'm not even sure which versions of IE support contentEditable or designMode any more.
+
+In any case, I wanted to put a menu command on the Firefox menu system to enable inline editing so that I don't have to resort to copying that line of JavaScript into Firefox's address bar. I also wanted to make it easy to turn inline editing off. (This can be surprisingly hard to do, because once you enable Design Mode in Firefox, you can no longer run scripts within the window's scope. Hence you can't use JavaScript to set designMode to "off.")
+
+Greasemonkey makes all this a cinch. There's a registerMenuCommand method that lets you put menu commands under the Greasemonkey submenus in Firefox's Tools menu, which is incredibly nice because it lets you load a Greasemonkey script any time you want (just by using the menu command) rather than always at page-load time.
+
+But what about turning Design Mode off after switching it on? Well, again, this is where Greasemonkey shines. If you create a DOM node that's visible (e.g., a text span) and attach (let's say) an onclick listener to it, you can turn off Design Mode in the listener (when the user clicks the text), because the listener runs in Greasemonkey's scope, not the window object's.
+
+The following Greasemonkey script puts a command, "Enable Design Mode," under Tools > Greasemonkey > User Script Commands. If you invoke the command, a text span containing the words "DESIGN MODE" (black letters on a red background) will appear in the upper left corner of the current page. The page will be editable at that point. To get out of Design Mode, you simply click anywhere on the words DESIGN MODE.
+// ==UserScript==
+// @name           Enable Design Mode
+// @namespace      ktscripts
+// @include        *
+// ==/UserScript==
+
+// Author: Kas Thomas
+// http://asserttrue.blogspot.com/
+// Public domain.
+
+// This is a GreaseMonkey script that puts a new
+// menu command on the GreaseMonkey menu, "Enable
+// Design Mode". The command makes the currently
+// visible web page editable in Firefox. You can Save
+// the edited page to disk or copy/paste from it, etc.
+
+
+( function main ( ) {
+
+function enableDesignMode( )  {
+
+var span = null;
+var INDICATOR_TEXT = "DESIGN MODE";
+var INDICATOR_STYLE = 'position: fixed; ' +
+'top:10px; left:10px; z-index:101; '  +
+'font-color:white; ' +
+'background-color:red;padding:2px;';
+
+var modeIndicator =
+createIndicator( INDICATOR_TEXT, INDICATOR_STYLE );
+top.document.body.insertBefore( modeIndicator ,
+top.document.body.firstChild );
+  modeIndicator.addEventListener( "click",
+  disableDesignMode, false );
+  top.document.designMode = "on";
+
+function disableDesignMode( ) {
+
+  top.document.designMode = "off";
+  top.document.body.removeChild( span );
+}
+
+function createIndicator( text, style ) {
+
+  span = top.document.createElement( "span" );
+  span.setAttribute( "style", style );
+  span.innerHTML = text.bold( );
+  return span;
+}
+
+}   // end enableDesignMode( )
+
+// add the menu command:
+GM_registerMenuCommand(
+   "Enable Design Mode", enableDesignMode );
+
+} ) ( ) ;
+You might be asking "What good is it to edit a browser page if the edits aren't permanent?" There are several possible answers. I sometimes use Design Mode in conjunction with Cut and Paste to aggregate several items (from several pages) onto a single page that I can save to disk for later use. (As it turns out, I also wrote a Sling app that lets me save the page to a Jackrabbit repository. A story for another day, perhaps.)
+
+Just while writing this blog, I used Design Mode to get the above code to look the way I wanted. Originally, I used the code beautifier at Pluszone to take my ugly raw-text source code and make it colorful and properly indented. But the code beautifier left some indents not quite right. I went into Design Mode and manually fixed the indents right in the rendered page. Then I grabbed the HTML source for the page and pasted it into the Blogger editor in order to produce what you see above.
+
+Sometimes I use Design Mode to doctor a page before taking a screen shot. Also, I occasionally use it to cut and paste photos from various unrelated pages to a single aggregation page. The neat thing about doing that is that if the photos in question have underlying hypertext links, the links get copied too (and still work after you exit Design Mode on the target page); you can still click the copied photos.
+
+Magic? Hardly. But that's the point. Being able to do in-page editing is not such a big deal. The real challenge is in doing it well. For that, of course, you need more than a few lines of JavaScript.

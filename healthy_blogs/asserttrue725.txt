@@ -1,0 +1,7 @@
+Twitter StreamGraph for the last 1000 occurrences of 'CMS'.
+
+As an unrepentent eye-candyholic, I love to stumble across things like the Twitter StreamGraphs from Neoformix. What the graph plots is the instantaneous volume, over time, of the most recent 1000 occurrences a given keyword or hashtag in the twitstream. There's nothing special about plotting the data in abscissa-symmetric fashion; it just looks neat and is cognitively "easy."
+
+The plot shown above (click on it to enlarge it) shows the last 1000 occurrences of "CMS" in the twitstream. If you go to the link shown given earlier, you can generate your own StreamGraph for any keyword of your choice.
+
+I might add that the Neoformix site itself is a great place to learn about novel data-visualization techniques (and new twists on existing techniques). Lots of eye-candy to be had there. I say drop what you're doing and go there now. You deserve a snack.

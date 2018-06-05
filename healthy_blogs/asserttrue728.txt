@@ -1,0 +1,7 @@
+I been fooling around with WolframAlpha (the much-ballyhooed intelligent search engine) yesterday and today, and all I can say is, it feels very alpha.
+
+I tried every query I could think of to get the annual consumption of electricity in the U.S., and got nowhere. On the other hand, if you just enter "electricity," your first hit is Coulomb's law 2.0mC, 5.0mC, 250cm, your second hit is 12A, 110V, and your third hit is diode 0.6 V. Which seems (how shall I say?) pretty useless.
+
+As it turns out, WolframAlpha is also extraordinarily slow most of the time and hasn't performed well in load tests. Apparently Wolfram's AI doesn't extend to figuring out how to make something scale.
+
+I'll suspend judgment on WA for a while longer, pending further testing. But right now it looks and smells like the answer to a question nobody asked.

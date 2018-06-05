@@ -1,0 +1,13 @@
+Neuronetics' transcranial magnetic stimulation was rejected by the FDA's advisory panel today. For a couple of stories on the panel's discussion and recommendation, try here and here.
+
+According to one report:
+The majority of the panel—made up of an engineer, several psychiatrists and neurologists, and a statistician—had no problem with rTMS's risks. There are almost none. The biggest worry with it is that it might accidentally spark a seizure, but that did not happen even once out of the 155 patients treated. The problem was that Neuronetics couldn't prove any benefit. Treated patients got a little better, but so did those patients that underwent a sham treatment.
+According to another source:
+But the panel was generally unimpressed with the company's data, which showed a slight statistical advantage in depression symptoms over dummy therapy after six weeks of treatment. Several panelists expressed dismay that patients showed no improvement on some depression scales and only minor improvement on ones that showed a difference.
+"The panel seems to be in consensus that the primary analysis did not establish efficacy," said Thomas Brott, the committee's chairman.
+"Perhaps a reasonable person could question whether there has been an effect at all," said Brott, a neurologist from Mayo Medical School in Jacksonville, Fla.
+The panel did not formally recommend to FDA whether or not the machine should be approved. But the agency scientists suggested at a public hearing that they were also uneasy with the company's results.
+Ann Costello, an FDA medical reviewer, questioned whether the mixed evidence of effectiveness in Neuronetics' studies contained "any clinically relevant information."
+Peter Lurie, deputy director of Public Citizen's Health Research Group, told the panel that Neuronetics did not show that its device was substantially equal to ECT, a standard that many medical devices must meet for FDA approval. He focused on the fact that patients actively treated with the machine showed mild improvement on only one of three depression scales.
+"The magnitude of the finding is trivial from a clinical point of view," he said in an interview.
+Maybe the FDA panel learned something from the VNS approval (here and here)?

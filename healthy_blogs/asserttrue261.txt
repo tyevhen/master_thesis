@@ -1,0 +1,80 @@
+An interesting and somewhat mysterious aspect of biodiversity is that the relative proportions of the bases in DNA can take on wildly different values in different organisms even though they're making many of the same proteins. I'm referring to the fact that the G+C (guanine plus cytosine) content of DNA can vary from more than 70% (e.g., Streptomyces species) to less than 30% for certain bacterial endosymbionts (and even for some free-living bacteria, such as Clostridium botulinum). Remarkably, the DNA of the tiny bacterium Buchnera aphidicola (which is distantly related to E. coli but entered into a symbiotic partnership with the aphid around 200 million years ago) has a GC content of only 26%, making its DNA look almost like a two-letter code (A and T, with the occasional G or C).
+
+Many genome-reduced endosymbionts have lost most of their DNA repair enzymes (this is true of mitochondria, incidentally, which are thought to have arisen from a symbiosis with an ancient ancestor of today's Alphabproteobacteria), and this loss of repair capability could well explain much of the GC-to-AT shift seen in endosymbiont genomes. (Left on its own, DNA tends to accumulate 8-oxo-guanine residues, which incorrectly pair with thymine and result in GC-to-TA transversions at DNA replication time.) Whatever the cause(s), GC reduction has left many organisms with severely A- and T-enriched DNA. But the organisms in question are still able to encode perfectly functional proteins, even with a limited nucleic-acid vocabulary.
+
+I decided it might be interesting to try to visualize "GC diversity" by creating a heat map of G and C (in hot colors) and A and T (in cool colors) for certain genes that occur across all bacteria. For example, the following graphic is a heat map of GC and AT usage in the gene for thymidine kinase as it occurs in 61 different organisms with genomic G+C ranging from just over 70% to just under 30%.
+Thymidine kinase gene for 61 bacteria of widely varying genomic GC percentages. Guanine and cytosine are represented by hot colors, adenine and thymine by cool colors. Alignments were done with MEGA6 software via ClustalW using a relatively permissive gap-opening penalty of 9 and a gap-extension penalty of 5. The heat map was created with JavaScript using the Canvas API.
+
+To create this map, I obtained DNA sequences for thymidine kinase from 61 organisms (using the excellent online tools at UniProt.org and genomevolution.org), then aligned them in MEGA6 and drew colors (red or red-orange for G or C, blue or blue-green for A or T) corresponding to the bases, using the Canvas API. What you're looking at are 61 rows of data (one row per gene; which is also to say, per organism). Gaps created during alignment are shown in grey.
+
+Several things are apparent from this graphic, aside from the obvious fact that GC usage (indicated by red and orange) tends to be high in the genes for organisms like Brachybacterium faecium (top line, GC 72%) and low for bottom-of-the-chart organisms like Clostridium perfringens B strain ATCC 3626 (28.7% GC) and Ureaplasma urealyticum (25.9%). First, high-GC genes tend to be somewhat longer. (Indeed, in the upper right you can see that the longest genes opened up a sizable alignment gap that extends down the whole graphic.) Also, the genes differ substantially in their leader and trailer sequences, although I think what we're really seeing here is (at least in part) inaccurate annotation of start and stop codons. What's interesting to me is the way certain GC regions trail all the way down to the bottom of the graph while others fade to blue. I think it could be argued that the nucleotides represented by the red blips in the final few lines of the graph, at the bottom, are positions in the gene that are under strong functional constraints. It would be interesting to test those positions for evidence of selection pressure. It could be argued that all areas of low selection pressure have turned blue by the time you get to the bottom of the graph.
+
+I think it's also interesting that several red-orange clusters just to the right of the midpoint, about three-quarters of the way down the graph, all but disappear just as a new red-orange zone begins to appear on the left around 80% of the way down. It's as if certain GC-to-AT mutations in one protein domain led to AT-to-GC mutations in another domain upstream. (The 5' side of the graph is on the left, 3' on the right.)
+
+Getting this many genes (from such divergent sources) to align is not easy. You can do it, though, by setting the gap-open penalty in ClustalW to a low value and aligning genes in small batches, row by row, if need be.
+
+As a technical aside: I first tried creating this graph using SVG (Scalable Vector Graphics), but the burden of creating a separate DOM node for every pixel (which is what it amounts to) was way too much for the browser to handle (Firefox choked, as did Chrome), so I quickly switched to the Canvas API, which puts no heavy DOM burdens on the browser and can convert a FASTA-formatted alignment file to a nice picture in about two seconds.
+
+For what it's worth, here are the names of the organisms whose genes appeared in the above graphic, arranged in order of GC content of the kinase gene only (not whole-genome GC). High-GC organisms are listed first:
+
+Blastococcus saxobsidens strain DD2
+Geodermatophilus obscurus strain DSM 43160
+Streptomyces cf. griseus strain XylebKG-1
+Streptosporangium roseum strain DSM 43021
+Kribbella flavida strain DSM 17836
+Brachybacterium faecium strain DSM 4810
+Deinococcus radiodurans strain R1
+Gordonia bronchialis strain DSM 43247
+Mesorhizobium australicum strain WSM2073
+Turneriella parva strain DSM 21527
+Mesorhizobium ciceri biovar biserrulae strain WSM1271
+Propionibacterium acnes TypeIA2 strain P.acn33
+Novosphingobium aromaticivorans strain DSM 12444
+Geobacillus kaustophilus strain HTA426
+Geobacillus thermoleovorans strain CCB_US3_UF5
+Halogeometricum borinquense DSM 11551
+Alistipes finegoldii strain DSM 17242
+Agrobacterium radiobacter strain K84
+Rhizobium tropici strain CIAT 899
+Aeromonas hydrophila strain ML09-119
+Rhodopirellula baltica SH strain 1
+Porphyromonas gingivalis strain ATCC 33277
+Dyadobacter fermentans strain DSM 18053
+Enterobacter cloacae strain SCF1
+Paenibacillus polymyxa strain M1
+Parabacteroides distasonis strain ATCC 8503
+Bacillus amyloliquefaciens strain Y2
+Vibrio cholerae strain BX 330286
+Erwinia amylovora strain ATCC 49946
+Bacillus subtilis BEST7613 strain PCC 6803
+Gramella forsetii strain KT0803
+Prevotella copri strain DSM 18205
+Anaerolinea thermophila strain UNI-1
+Klebsiella oxytoca strain 10-5243
+Bacteroides ovatus strain 3_8_47FAA
+Aggregatibacter phage S1249
+Escherichia coli B strain REL606
+Shigella boydii strain Sb227
+Psychroflexus torquis strain ATCC 700755
+Bacteroides dorei strain 5_1_36/D4
+Leuconostoc gasicomitatum LMG 18811 strain type LMG 18811
+Mycoplasma gallisepticum strain F
+Myroides odoratimimus strain CIP 101113
+Oceanobacillus kimchii strain X50
+Chryseobacterium gleum strain ATCC 35910
+Carboxydothermus hydrogenoformans strain Z-2901
+Yersinia pestis D106004
+Bacillus thuringiensis serovar andalousiensis strain BGSC 4AW1
+Bacillus anthracis strain CDC 684
+Coprobacillus sp. strain 8_2_54BFAA
+Proteus mirabilis strain HI4320
+Staphylococcus aureus strain 04-02981
+Aerococcus urinae strain ACS-120-V-Col10a
+Lactobacillus acidophilus strain 30SC
+Lactobacillus reuteri strain MM4-1A
+Lactococcus lactis subsp. cremoris strain A76
+Haemophilus ducreyi strain 35000HP
+Ureaplasma urealyticum serovar 5 strain ATCC 27817
+Clostridium botulinum A strain Hall
+Streptococcus agalactiae strain 2603V/R
+Clostridium perfringens B strain ATCC 3626 

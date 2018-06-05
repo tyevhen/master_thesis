@@ -1,0 +1,46 @@
+MDA’s Quest Magazine published an interesting article reported by Amy Madsen on some recent research by a member of the Kennedy’s Disease Association’s Scientific Review Board. Dr. La Spada has been instrumental in Kennedy’s Disease research for many years.
+
+While the research opportunity still needs further study and testing, preliminary findings reflect this could be a potential treatment.
+Below is the Quest article.
+______________________________
+
+
+Arimoclomol Slows Disease Progression
+in SBMA Mice
+
+Mice treated with the small-molecule compound improved muscle strength, increased motor neuron survival and boosted production of a motor-neuron support molecule called VEGF
+
+
+MDA research grantee Albert La Spada and colleagues have found that treatment with a compound called arimoclomol can help improve muscle function in mice with a disease resembling SBMA.
+
+Article Highlights:
+An MDA-supported research team has shown that treatment with a small-molecule compound called arimoclomol improved nerve-cell survival, resulting in increased muscle strength and function in mice with a disease resembling spinal-bulbar muscular atrophy (SBMA).
+Arimoclomol is thought to work by inducing the heat shock response, which helps cells combat exposure to heat or other types of stress. 
+Although still early stage, the findings ultimately could lead to development of arimoclomol or similar compounds as a treatment for SBMA.
+by Amy Madsen on March 4, 2013
+
+Mice with a disorder mimicking human spinal-bulbar muscular atrophy (SBMA, or Kennedy disease) that were treated with an experimental therapy called arimoclomol showed improved nerve-cell survival, increased body weight, and better muscle strength and function than mice that didn't receive the treatment.
+
+A small-molecule compound, arimoclomol is thought to work by inducing the heat shock response, in which levels of naturally occurring heat shock proteins (HSPs) increase when cells are exposed to heat or other types of stress.
+
+The findings, which could lead to development of arimoclomol or similar compounds as a treatment for SBMA, were reported online Feb. 7, 2013, in Brain. MDA supported Albert La Spada at the University of California, San Diego, in La Jolla for his contribution to this work. (To read the full report, available for a fee, see Co-Induction of the Heat Shock Response Ameliorates Disease Progression in a Mouse Model of Human Spinal and Bulbar Muscular Atrophy: Implications for Therapy.)
+
+Treatment began after symptom onset
+Mice in the study were randomly assigned to two different groups, in which they were treated with 120 milligrams per kilogram of body weight per day of arimoclomol dissolved in drinking water (treatment group) or water alone (control group). Treatment began at 12 months of age, after symptom onset and lasted for six months through late-stage disease.
+
+Results show that treatment with arimoclomol from the time of symptom onset dramatically delayed disease progression. When investigators examined 18-month-old SBMA mice, they found that those treated with arimoclomol:
+demonstrated significantly improved hind-limb muscle force;
+had 26.9 percent stronger muscles than did untreated mice;
+showed a 23-percent improvement in motor unit (a nerve cell and the muscle fibers it activates);
+had significantly increased muscle weight; and
+had a 28.4-percent increase over untreated mice in the number of motor neurons that survived.
+Mice treated with arimoclomol also had higher levels of a protein called vascular endothelial growth factor (VEGF), a protein that may protect or nourish nerve cells.
+
+Treatment with arimoclomol had no effect on muscle force in mice that didn't have an SBMA-like disorder. This, the investigators noted, suggests that beneficial effects of arimoclomol in the mice are likely due to specific effects of the drug on disease processes, as opposed to indiscriminate improvement of muscle force.
+
+Arimoclomol activated the heat shock response
+Several treatment strategies for SBMA have focused on inducing overexpression of heat shock proteins, such as HSP70 and HSP90. (HSPs can function as “chaperones” for other proteins, helping them fold into the right shape, preventing them from forming abnormal clumps and blocking cell death.)
+
+Data from the current study showed that levels of heat shock protein 70 (HSP70) were 2.3 times higher in the spinal cord and three times higher in hind-limb muscles in mice treated with arimoclomol than in mice that didn't receive treatment. 
+
+This upregulation (increase) of the heat shock response by treatment with arimoclomol may have therapeutic potential in the treatment of SBMA, the researchers say.

@@ -1,0 +1,41 @@
+In a recent post, I talked about a legacy technology from the 1800s that's an integral part of hundreds of millions of computers today: the QWERTY keyboard layout. QWERTY was designed as an usability antipattern, and its widespread use probably costs the U.S. economy a billion dollars a week in lost productivity. That's my SWAG estimate, anyway.
+
+But that's a hardware problem. ;^)
+
+As a programmer, I think the legacy annoyance I most love to hate is the newline.
+
+The fact that the computing world never settled on an industry-standard definition of what a newline is strikes me as a bit disconcerting, given how ubiquitous newlines are. But it's way too late to change things. There's too much legacy code out there, on OSes that aren't going to change how they treat newlines. The only OS that ever changed its treatment of newlines, as far as I know, is MacOS, which up to System 9 considered a newline to be ASCII 13 (0x0D), also known as a carriage return (CR). It's now the linefeed (ASCII 10, 0x0A), of course, as it is in most UNIX-based systems.
+
+It always bothered me that DOS and Windows adhered to the double-character newline idiom: 0x0D0A (CR+LF). To me it always seemed that one character or token (not a doublet) should be all that's needed to signify end-of-line, and since UNIX and Linux use LF, it makes sense (to me) to just go with that. But no. Gates and company went with CR+LF.
+
+Turns out it's not Gates's fault, of course. The use of CR+LF as a newline stems from the early use of Teletype machines as terminals. With TTY devices, achieving a "new line" on a printout required two different operations: one signal to move the print head back to the start position, and another signal to cause the tractor-feed wheel to step to the next position in its rotation, bringing the paper up a line. Thus CR, then LF.
+
+The fact that we're still emulating that set of signals in modern software is kind of funny. But that's how legacy stuff tends to be. Funny in a sad sort of way.
+
+In any event, here's how the different operating systems expect to see newlines represented:
+
+CR+LF (0x0D0A):
+DOS, OS/2, Microsoft Windows, CP/M, MP/M, most early non-Unix, non-IBM OSes
+
+LF (0x0A):
+Unix and Unix-like systems (GNU/Linux, AIX, Xenix, Mac OS X, FreeBSD, etc.), BeOS, Amiga, RISC OS, others
+
+CR (0x0D):
+Commodore machines, Apple II family, Mac OS up to version 9 and OS-9
+
+NEL (0x15):
+EBCDIC systems—mainly IBM mainframe systems, including z/OS (OS/390) and i5/OS (OS/400)
+
+The closest thing there is to a codification of newline standards is the Unicode interpretation of newlines. Of course, it's a very liberal interpretation, to enable reversible transcoding of legacy files across OSes. The Unicode standard defines the following characters that conforming applications should recognize as line terminators:
+LF: Line Feed, U+000A
+CR: Carriage Return, U+000D
+CR+LF: CR followed by LF, U+000D followed by U+000A
+NEL: Next Line, U+0085
+FF: Form Feed, U+000C
+LS: Line Separator, U+2028
+PS: Paragraph Separator, U+2029
+For more info on newlines and edge cases involving newlines, the best article I could find on the web is this one by Xavier Noria. (It's quite a good writeup.)
+
+There's also an interesting discussion of newlines in the ECMA 262 [PDF] specification. See especially the discussion on page 22 of the difference in how Java and JavaScript treat Unicode escape sequences in comments. (For true geeks only.)
+
+Many happy returns!

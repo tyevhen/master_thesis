@@ -1,0 +1,32 @@
+This YouTube video is fresh off my Facebook feed this morning from the APA.  It features American Psychiatric Association (APA) President Jeffrey Lieberman, MD discussing the advantages of a so-called collaborative care model that brings psychiatrists into primary care clinics.  I have critiqued this approach in the past and will continue to do so because it is basically managed care taken to its logical conclusion.  As opposed to Dr. Lieberman's conclusion, the logical conclusion here is to simply take psychiatrists out of the picture all together.
+
+A prototypical example of what I am talking about is the Diamond Project in Minnesota.  It is an initiative by a consortium of managed care companies to use on of these models to monitor and treat depression in primary care clinics in the state of Minnesota.  In this model, patients are screened and monitored using the PHQ-9 a rating scale for depressive symptoms.  Their progress is monitored by a care manager and if there is insufficient progress as evidence by those rating scales, a psychiatrist is consulted about medication doses and other potential interventions.  The model is described in this Wall Street Journal article.  As is very typical of articles praising this approach it talks about the "shortage" of psychiatrists and how it will require adjustments.  In the article for example, the author points out that there would no longer be "one-to-one"  relationships.  There are two major problems with this approach that seem to never be not considered.
+
+The first is the standard of care.  There are numerous definitions but the one most physicians would accept is care within a certain community that is the agreed upon standard provided by the same physician peers.  In this case care provided by all psychiatrists for a specific condition like depression.  There are professional guidelines for the care of depression and in the case of primary care guidelines for care provided by both family physicians and internal medicine specialists.  One of the tenants of this care is that physicians generally base treatment of an assessment that they have done and documented.  The only exception to that is an acceptable surrogate like a colleague in the same group covering a physician's patients when they are not available.  That colleague generally has access to the documented assessment and plan to base decisions on.  This is the central feature of all treatment provided by physicians and is also the basis for continuity of care.  As such it also forms the basis of disciplinary action by state medical boards and malpractice claims for misdiagnosis and maltreatment.  An example of disciplinary action based on this standard of care is inappropriate prescribing with no documented assessment or plan - a fairly common practice in the 1980s.
+
+In all of my professional life, the standard of care has been my first and foremost consideration.  It is basically a statement of accountability to a specific patient and that is what physicians are trained to be.  Curiously it is not explicit in ethics literature and difficult to find in many state statutes regulating medical practice.  That may be due to the entry of managed care and the introduction of business ethics rather than medical ethics.  It also may be due in part to an old community mental health center practice of hiring psychiatrists essentially to refill prescriptions rather than assess patients.  This is addressed from a malpractice perspective by Gutheil and Appelbaum in their discussion of malpractice considerations and how they changed with the advent of managed care:
+
+"Managed care is one omnipresent constraint.  Patients and clinicians must work together to fashion an appropriate treatment plan to take into account available resources and given the contingencies faced by the patient.  If that plan-properly implemented-fails to prevent harm to the patient, the clinician should not face liability as a result." (p 164).
+
+They go on to explain how ERISA - the Employee Retirement Income Security Act of 1974 indemnifies managed care companies and their reviewers from the same liability that individual physicians have.  They cannot be sued for negligence and the resulting harm.  So managed care can take risks without concern about penalties as opposed to physicians who are obliged to discuss risks with the patient.  Managed care organizations can also implement broad programs like depression screening and treatment without a physician assessment and consider that their standard of care.
+
+The second problem with the so-called collaborative care approach is that there is no evidence that it is effective on a large scale.  I pointed out this criticism by a group of co-authors including one of the most frequently cited epidemiologists in the medical literature.  That group has the common concern that a rating scale is a substitute for an actual diagnosis and everything that involves and given the recent FDA warning on citalopram.
+
+Both of these concerns bring up an old word that nobody uses anymore - quality.  It is customary today to use a blizzard of  euphemisms instead.  Words like "behavioral health", "managed care", accountable care organizations", "evidence-based", "cost-effective" and now "collaborative care".  According to Orwell, the success of such political jargon and euphemism requires
+
+"an uncritical or even unthinking audience.  A 'reduced state of consciousness' as he put it, was 'favorable to political conformity'." (3 p. 124)
+
+Dr. Lieberman uses a lot of that language in his video.  The critics of psychiatry in the business community do the same.  There appears to be a widespread uncritical acceptance of these euphemisms by politicians, businesses and even professional organizations.
+
+An actual individualized psychiatric diagnosis and quality psychiatric care gets lost in that translation.
+
+
+George Dawson, MD, DFAPA
+
+1.  Beck M.  Getting mental health care at the doctor's office.  Wall Street Journal September 24, 2013.
+
+2.  Gutheil TG, Appelbaum PS.  Clinical Handbook Of Psychiatry And The Law. 3rd edition. Philadelphia: Lippincott Williams & Wilkens.  2000, p 164.
+
+3.  Nunberg G.  Going Nucular: language, politics, and culture in confrontational times.  Cambridge: Perseus Books Group, MA 2004.
+
+4.  American Psychiatric Association Principles of Medical Ethics with Annotations Espcially Applicable to Psychiatry.  2009 version.

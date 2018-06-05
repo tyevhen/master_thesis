@@ -1,0 +1,38 @@
+The marketing blogs all say that if you want more blog traffic, you have to know how to write a good headline. But the blogs that say that are also the ones that typically have lame headlines like "Increase Your Traffic with This One Freaky Tip!" or "Are You Making These Blogging Mistakes?", etc., ad nauseam. I wanted to see for myself how important (or unimportant) headline-writing is, so I recruited some co-conspirators in a little test, yesterday. It was great fun.
+
+For the experiment, I recruited acquaintances Hayden Smith (@NewsPanic), Kaly Weiss (@KalyWeiss), and Arlene Argento (@ArleneArgento), all experienced Twitter users. Professor Smith and college student Kaly Weiss have been on Twitter only a short time but have built impressive followings. Arlene, a marketer, has been on Twitter for around five years and has built a strong following slowly, over time. My assignment to them was to promote a piece I did yesterday for Author-Zone.com called "How to Depict Crazy People in Fiction," which talks about what schizophrenia is really like versus how it's usually portrayed in the movies (and in novels).
+
+I gave participants free reign to write whatever kind of tweet they thought would work best, but they each had to use the picture of Jack Nicholson (below), from my Author-Zone post. We agreed the tweeting would be done between 11:00 a.m. and noon Eastern U.S. time (and it was).
+
+Kaly's tweet.
+The results of the great tweet-off (via Twitter Analytics, seven hours later) are shown below. Notice that the person whose tweet got the most impressions is not the person with the most followers. (Why this is, I don't know. Maybe someone from Twitter needs to explain to me how a person with fewer followers gets more impressions, even though all tweets were done within minutes of each other?) What counts most, to me, though, are link clicks. How many people actually clicked through to the article? In this case, the clear winner is @NewsPanic, with more than three times the click-through rate of the weakest contender (sorry, Kaly).
+
+Tweeter Followers Impressions Link Clicks Tweet
+@NewsPanic 20697 745 18 Are you writing about a "crazy person" in your fiction? Better get the facts right.
+@KalyWeiss 18222 585 5 There's a right way and a wrong way to write about schizophrenic people in fiction.
+@ArleneArgento 20113 966 12 Take the time to depict "crazy people" correctly in your fiction.
+
+Can you spot the reason for the poor performance of Kaly's tweet? (Insert sound of Final Jeopardy music here.) Okay, let me tell you the answer: There's no "call to action." Kaly stated a fact: There's a right way and a wrong way to write about schizophrenic people in fiction. That's not a call to action. Someone reading that sentence will say "Okay, great; so what?" and then walk away. Which is what happened.
+
+Arlene fared a little better. Her tweet was a command: Take the time to depict "crazy people" correctly in your fiction. (Yes, your worshipfulness!) But it still doesn't entice people to go to the article, necessarily. It implores people to do the right thing, but doesn't offer help.
+
+Professor Smith tweeted: Are you writing about a "crazy person" in your fiction? Better get the facts right. This is a two-part statement: First, there's a question, to get the reader's interest. Then there's the implication of an answer; but it's a tease. There's a suggestion that you may not be getting your facts right. It doesn't accuse the reader of doing anything wrong (which would be a turnoff), but it sets up curiosity, which is essential for getting a click-through.
+
+Bottom line, headlines do make a huge difference (hundreds of percent), and the best way to determine a winning headline is through testing.
+
+How can you employ this sort of testing yourself? One way is to do three tweets, 30 minutes apart, in your own timeline, then follow Twitter Analytics to see what the results are. (Take the winning tweet and use it to rewrite your blog's headline. Then retweet it again the next day with the new wording.)
+
+Another thing you could do is buy a Fiverr campaign and have someone with a large account tweet various headlines for you. For about 50 cents a tweet, you can test various headlines against an audience of 50K to 100K or more (depending on which Fiverr contractor you use). Use bit.ly to shorten URLs and track your results.
+
+Another thing you can do is create a secondary Twitter account just for headline testing. Twitter will let you create extra accounts; you just need to supply a separate e-mail address for each account. (Here, Google helpfully treats "JohnDeere@gmail.com" the same as "John.D.Eere@gmail.com" and "J.Ohn.Deere@gmail.com" while Twitter considers them different addresses.) Maybe you've noticed, Chris Voss and many other marketers on Twitter have multiple accounts. Some of them use their extra accounts specifically for headline testing.
+
+Finally, you can use one of several online headline testers, such as this one (which correctly predicted the first, second, and third-place winners in the above bake-off).
+
+You don't think top sites like Buzzfeed and TechCrunch run whatever headline comes into someone's head, do you? They test headlines first, before rolling them out. The alternative is too costly.
+
+Have you joined the mailing list? What are you waiting for? 
+
+
+☙ ❧
+
+Meanwhile, I want to thank the following great people for retweeting me yesterday. Click into these profile pics and Follow these guys on Twitter! They retweet!

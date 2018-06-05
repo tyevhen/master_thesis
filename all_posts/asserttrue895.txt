@@ -1,0 +1,1 @@
+i made mention of the stackless stack in my cms watch blog the other day i need to write a followup blog on it , explaining the osgi connection who knows if someday i wo n't also need to write a blog about the javaless jvm ?

@@ -1,0 +1,19 @@
+I've talked about the interesting psychiatric correlations with infections with the parasite Toxoplasma gondii before:
+
+Infections and schizophrenia risk
+
+I've also discussed how a vulnerability to clinical depression may be a deal with the devil with the risk of dying from infectious disease:
+
+Depression:  A genetic faustian bargain with infection?
+
+Now a new paper has come out from Denmark, one of those lovely socialist medicine papers following an entire country's subjects for years and years.  Is it worth the high taxes?  I suppose we'll have to see here in America… in any event, the paper is quite extraordinary and free full text!  Go take a look at it.  Also, some media interpretation via the intrepid and lovely Melissa McEwen.
+
+Suicide is a pretty rare event, affecting about 12 per 100,000 in the U.S. (though statistics are higher in some other countries, including Japan).  That said, it is still the 10th leading cause of death, higher in younger populations.  But suicide is rare enough that anything with an observational statisitical correlation can be pretty interesting.  For every suicide death, there are 10-20 people attempting suicide, and the greatest risk for death by suicide is a previous attempt.  (In this study, there were 18 completed suicides in over 45,000 women over up to 14 years, but the risk associated with Toxo infection was still statistically significant.)
+
+Toxo infection during pregnancy is associated with birth defects, so in Denmark, babies had IgG levels for anti-Toxo antibodies measured.  Since IgG in newborns can only come from the mothers (newborn babies cannot make IgG yet), these antibodies reflect Toxo infection in the mother with the associated immune response.  Toxoplasma gondii infection is most likely obtained from cleaning up the litter box of your outdoor cat, but you can also get it from unwashed vegetables.  1/3 of the people in the world are infected, but most are relatively asymptomatic.
+
+In Denmark, risk of later suicide attempt had a relative risk of 1.25, but greater in women with no mental health history (1.5).  Even greater was a risk of completed suicide (>2, which is when the ears prick that something very interesting is happening in these sorts of studies).  Higher seropositivity (meaning higher levels of IgG measured) is also associated with greater risk (1.9).  These results are consistent with those of smaller studies in Maryland and Turkey.
+
+So why would Toxo infection increase the risk of suicide so much that it might be detecable in an observational study?  Well, turns out the infection increases the incidence of the serotonin precursor tryptophan turning into kynurenic acid rather than serotonin.  Also, toxo infection increases other inflammatory cytokines.
+
+There are various reasons for mental disorders and suicidal behaviors.  Diet and infectious causes are part of the problems, and a good diet and washing your hands after cleaning the cat litter may be part of the solution.

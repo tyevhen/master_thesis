@@ -1,0 +1,22 @@
+Typically, in my day job as an analyst, I'm on the receiving side of briefings, but the other day I actually gave one to a customer wanting to know more about the Digital Asset Management (DAM) marketplace. I took questions on a wide range of issues. But then, at one point, the customer put forward a really thought-provoking question, something I myself have been wondering for some time: Where is Adobe Systems in the DAM world? What's it doing in DAM?
+
+The reason this is such a good question is that Adobe already has most of the necessary pieces to put together a compelling enterprise DAM story (even if it hasn't yet assembled them into a coherent whole). Some of the more noteworthy pieces include:
+A Java application server. Adobe owns, controls, continues to sell, and continues to develop (for internal use) the JRun app server.
+Some very interesting workflow and rights-management bits in the LiveCycle suite.
+Adobe Version Cue, which provides a versioning and collaboration server for workgroup scenarios. Version Cue uses an embedded instance of MySQL and has SOAP interfaces.
+Adobe Bridge, a lightbox file-preview and file-management application with some metadata editing and other tools built-in. This piece is bundled into the Adobe Creative Suite products. (Interestingly enough, Bridge is a SOAP client that can talk to Adobe Version Cue servers.)
+And of course, the CS products themselves are used extensively by the same creative professionals whose needs are addressed by conventional DAM products of the Artesia, MediaBin, or North Plains variety. Most of the big DAM offerings try hard (with various degrees of success) to integrate smoothly with Adobe's creative tools, InDesign in particular.
+
+The one piece that's missing from all this is a standards-based enterprise repository. What Adobe could use right about now is a robust ECM repository (CMIS-compliant, of course) built on industry standards, something written in Java that will play well with JRun and offer pluggable JAAS/JACC security, with LDAP directory friendliness, etc. That's a lot of code to write on your own, so obviously it would behoove Adobe to either partner with an ECM player or leverage an open-source project. Or maybe both.
+
+You may or may not remember that back in March 2008, Adobe launched its Adobe Share service, built atop open-source ECM product Alfresco.
+
+Then in June 2008, Adobe and Alfresco announced a partnership to embed Alfresco's content management software into Adobe's LiveCycle Enterprise Suite.
+
+Later, in September 2008, Adobe partnered with Alfresco in a deal that had Alfresco powering the popular Acrobat.com site. (That site is currently on the verge of surpassing LiveMeeting.com and OfficeLive.com for traffic.)
+
+Could Alfresco be the linchpin of a future Adobe DAM strategy? Hard to tell, but the handwriting on the wall, it seems to me, is starting to become legible.
+
+As far as the DAM industry as a whole is concerned, Adobe is clearly the elephant in the room at this point. When and if this giant rich-media pachyderm decides to step forward and enter the DAM world proper, it could cause the ground to shake. It might set off Richter scales as far away as China.
+
+My opinion? Now is not too early to take shelter under a nearby doorway or other structurally reinforced part of the building.

@@ -1,0 +1,72 @@
+Why does it so often happen that the things you thought were going to be easy turn out to be hard, and the things you knew were going to be hard turn out to be easy?
+
+Case in point: I wanted to get a bunch of RSS feeds onto a news page at Author-Zone.com, and did. (See my previous post about the great free HungryFEED plugin for WordPress.) But the various feed items were not in date-sorted order, because the individual feeds were added in no particular order (and who knows which feed will update at which time anyway?).
+
+What to do. What to do . . .
+
+I thought it would be doable (but hard) to parse out the dates from the 70+ items manually (with JavaScript), then sort the items, and redisplay them. "Redisplay them" means first you remove all the DOM elements in question, then add them back to the page in sorted order. Fortunately, that turns out to be easy. You can call remove() on a node to vanish it from the page. But if you capture a reference to the node before doing that, the node will still exist in memory after it's been removed from the DOM. So you can then just add it back in to the page using appendChild() on a given target node. No problem.
+
+The greater problem turned out to be how to get WordPress to accept JavaScript inside a page or a post. Turns out the rich text editor will stomp on embedded scripts pretty badly. This is a known sore point for WordPress users. And as with so many content management system problems (involving dynamic page assembly), it turns out there's a workaround, but it's the kind of thing that's not at all obvious and could drive you crazy for a solid day if you're not working with a partner who already has hit such snags and found the cure.
+
+The magic workaround is to, first, put your script in a file and place it somewhere on the site on a public URL. Then reference that file from a script tag, and make your call to the file's main method inside a commented-out section of page (so the rich text editor ignores it) with CDATA wrappering (so the browser doesn't parse it either), with appropriate JS comments (double-slash) so the JS parser doesn't get confused by the CDATA directives. Like so:
+
+<script 
+src="http://author-zone.com/wp-content/uploads/2014/08/myscript.js">
+</script>
+<script>// <![CDATA[
+<!--
+reorderItems();
+//--> ]]></script>
+
+I know, it seems weird as hell that the JS parser doesn't choke on the <!-- line. Apparently it treats it as an undefined quantity, but since you're not using that undefined "thing" for anything it doesn't trigger an exception. But guess what? It works! That's the main thing. The garblesnarble works. And (perhaps because I pasted the above lines AFTER the shortcodes in my WordPress content page, not in the <head> section of the page) the call to reorderItems() occurs after the DOM is safely loaded, hence there's no timing issue of woops! I can't mess with the DOM until after onload-time.
+
+With this magic incantation in place, my script finally worked and the RSS feeds get date-sorted in real time no matter which feed updates first. I set HungryFEED's cache timeout to 3600 seconds, so the feeds are pulled once an hour. Unfortunately, it means that once an hour some unlucky soul gets to be the first person to request a fresh version of the page with all-updated RSS feeds (and there are 70+ feeds, so it's a lot of feed-slurping); wait-time up to 90 seconds. (Ugh!) It all happens on the server, though, with no AJAX. Once the feeds update, the content is static for the next hour, and during that time, the Author-Zone News Page loads in about four seconds, which is tolerable.
+
+If you're a code geek and you want to see my code for date-ordering a bunch of feeds, the 40 lines of code are shown below. The first function is admittedly fugly. It hard-parses a bit of feed text to get the date string on the end, which will be something like "August 30, 2014, 3:23 pm". Fortunately, JavaScript is such an ace language that you can hand such a string to the Date() constructor and you'll get a real Date object back! Once you have that object, you can (again in genius JS fashion) multiply it by one to convert it to milliseconds-since-the-dawn-of-time. A number! Perfect for sorting!
+
+The rest of the code is not terribly interesting. I loop over the nodes of interest and collect them into an array along with date-as-number. Then I sort using a custom comparator function (an inner method). Then I have to loop over the nodes-of-interest and remove them from the DOM. Then I have to loop again to add them back to the DOM in sorted order, and voila! Sorted RSS feeds.
+
+
+function getDateFromItem(item) {
+    var d = 
+      item.
+      getElementsByTagName('div')[1].
+      innerHTML.split(/<\/b>\s?/).
+      pop();
+    return 1 * new Date(d);
+}
+function reorderItems() {
+    var rootClassName = "entry-header";
+    var rootNode = 
+        document.
+        getElementsByClassName(rootClassName)[0];
+    var cl = 
+        document.
+        getElementsByClassName("hungryfeed_item");
+    var r = []; // scratch array to hold nodes, dates
+    // loop over nodes of interest
+    // & push them into r[] as [node,date]
+    for (var i = 0; i < cl.length; i++) {
+        var item = cl[i];
+        var d = getDateFromItem(item);
+        r.push([item, d]);
+    } 
+
+    // we need this comparator function to 
+    // sort the array on Date 
+    function comp(a, b) {
+        var aa = a[1];
+        var bb = b[1];
+        return bb - aa;
+    }
+    r = r.sort(comp);  // sort on date using comparator 
+ 
+    // remove all news feed items!
+    // they're shown in random order!
+    for (var i = 0; i < r.length; i++)
+        r[i][0].remove();
+    // add them back, in date order
+    for (var i = 0; i < r.length; i++)
+        rootNode.appendChild(r[i][0]);
+}
+reorderItems();  // do it

@@ -1,0 +1,32 @@
+ Paul Cothenet has written a terrific blog called "The Laws of Shitty Dashboards," which resonated with me and apparently, also, with thousands of other people. How do I know? I checked my Twitter Analytics dashboard. I found that only two hours after tweeting Paul's blog, 7200 people saw the tweet and 1.8% "engaged" with it either by clicking through to the blog or retweeting (or favoriting) it.
+
+I happen to like the Twitter Analytics dashboard, but Paul is right, most dashboards are only better than the alternative: an Excel spreadsheet.
+
+Interestingly, many dashboards (including the one for Twitter Analytics) provide a data export button. When you click the button, you get to download your data as a spreadsheet. Thus, a dashboard is really just a skin over a spreadsheet's worth of data: a CSV file in an HTML party dress. I confess, I would rather look at the party-dress version. But that's not saying much. Nothing beats a spreadsheet for Ugly. Who wouldn't rather look at a web page?
+
+What's wrong with dashboards? They try to do too much, basically. And in the process, they stymie and befuddle, rather than empower, the user.
+
+Here are Paul's "laws," incidentally:
+
+Law #1: Most software dashboards are shitty
+Law #2: If it’s called “Dashboard”, it’s probably shitty
+Law #3: If you don’t know what to take away from your dashboard, your users won’t
+Law #4:  Not talking to users will result in a shitty dashboard
+Law #5: I don’t need no shitty control
+Law #6: Because it was useful in a Powerpoint doesn’t mean it’s useful on a dashboard
+Law #7: Because it moves doesn’t mean it’s not shitty
+Law #8: You probably don’t need a dashboard
+
+Try to think of a dashboard that's truly great. (Hard to do, isn't it?) I gave up on Google Analytics a long time ago, precisely because the dashboard sucks so much. StatCounter isn't any better. The WordPress admin dashboard feels horribly cumbersome and disorienting, no matter how much I stare at it. And I stare at it a lot.
+
+Most content management systems are fronted by a dashboard of some kind. They all suck. It's really not a question of which ones are good, but which ones blow the fewest chunks. The number of clickable elements is usually excessive; the UI is almost always cognitively challenging (too many clickable elements); the ratio of unhidden to hidden data too high.
+
+I suspect dashboard designers take delight in "empowering the user" by giving the user access to dozens of things all from one screen. But really, does the user want to be faced with that many choices? Does the user need to see that much data? Might this not be a case of "less is more"?
+
+Might most dashboards not need to exist?
+
+Do we really need another one?
+
+Please, before you design a dashboard, see if there's an alternative. Prototype some simple alternatives. Huddle with customers. Do usability testing. (But be careful to observe how people actually use something, in practice; don't simply ask users what's good and what's not good. User surveys can be garbage.) Oh, and don't forget to test your UI on an iPad and a phone. If it doesn't work well on a small screen, chances are it's not going to be better on a large one.
+
+If it's truly all about the data? Mail me the spreadsheet. I'll have my macros get back to you.

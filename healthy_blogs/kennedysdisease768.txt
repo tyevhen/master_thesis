@@ -1,0 +1,13 @@
+I thought I published an article on this study, but cannot find it. So, here it is.
+
+Target Identified For Rare Inherited Neurological Disease
+Scientists show bad androgen receptor impairs body’s ability to dispose of damaged cells
+Researchers at University of California, San Diego School of Medicine have identified the mechanism by which a rare, inherited neurodegenerative disease causes often crippling muscle weakness in men, in addition to reduced fertility.
+
+The study, published August 10 in the journal Nature Neuroscience, shows that a gene mutation long recognized as a key to the development of Kennedy’s disease impairs the body’s ability to degrade, remove and recycle clumps of “trash” proteins that may otherwise build up on neurons, progressively impairing their ability to control muscle contraction. This mechanism, called autophagy, is akin to a garbage disposal system and is the only way for the body to purge itself of non-working, misshapen trash proteins.
+
+“We’ve known since the mid-1990s that Alzheimer's disease, Parkinson's disease and Huntington's disease are caused by the accumulation of misfolded proteins that should have been degraded, but cannot be turned over,” said senior author Albert La Spada, MD, PhD and professor of pediatrics, cellular and molecular medicine, and neurosciences. “The value of this study is that it identifies a target for halting the progression of protein build-up, not just in this rare disease, but in many other diseases that are associated with impaired autophagy pathway function.” ...
+
+... “Our study tells us that if we can find a way to keep TFEB working, we likely can prevent this disease and others like it from progressing,” La Spada said. “We now have a target for new therapies to treat not only Kennedy's disease, but also many more common neurological disorders.”
+
+Follow this link to read the entire article: UC San Diego News

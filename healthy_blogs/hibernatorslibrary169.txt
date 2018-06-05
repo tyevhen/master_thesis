@@ -1,0 +1,60 @@
+Somatic symptoms are medical complaints that arise from mental illness. In my experience, such symptoms are shrugged off by the general public as "oh, that's not a real symptom, it's just somatic." Well, let me tell you: the symptoms feel very real to the suffering individual.(Something I learned in my work at a suicide hotline and my own intensive outpatient therapy is that what you feel is a real feeling, regardless of what others say.) And sometimes (in fact, maybe a lot of the time) symptoms are due to a "real" medical problem caused by the mental illness. Read my post about the physiological effects of anxiety if you don't believe me.
+
+Yes, sometimes the symptoms are explainable by factitious disorder, in which a person consciously produces physical and/or psychological symptoms. Generally in this disorder, a person is not maliciously lying to try to get out of anything, he simply wants the attention that comes with being sick. This could be due to feelings of being ignored or unloved. 
+
+And sometimes the symptoms are malingering. In this case, the person is intentionally producing or exaggerating physical symptoms motivated by a wish to get out of something undesirable (such as work, military service, or criminal prosecution). I imagine it is these two types of symptoms that create the stigma surrounding somatic disorder. 
+
+In somatic symptom disorders, the patient must find the symptoms so distressing that they get in the way of the person's ability to function in daily life. The symptoms must have one of the following three features: disproportionate thoughts about the seriousness of one's symptoms, persistent high level or anxiety about health or symptoms, or excessive time and energy devoted to these symptoms. 
+
+Just because you sometimes exaggerate and worry about symptoms does not mean that you have somatic symptom disorder. As pointed out by Dr. Sapolsky in his first lecture n the Teaching Company Course Stress and Your Body, sometimes when you have a big test or presentation or work-related stressor the next day you can't sleep. You just lie there in bed stressing about the fact that you're not sleeping. And eventually you might begin to worry about symptoms you are feeling. Your gut is rumbling - maybe you have Chrohn's disease. You have a headache or an ophthalmic migraine - maybe you have a brain tumor. This exaggeration is due to normal anxiety, and everybody feels it sometimes. In fact, I'm a big sucker for cyberchondria. 
+
+
+
+People with somatic symptom disorders tend to be female, nonwhite, and less educated than are people with more medically founded symptoms. People with somatic symptom disorder tend to want test after test after test to find the cause of their disorder. If one test is negative, they want another. If the doctor tells them they're fine, and they don't need another test, they find a new doctor. This is because they really believe something is seriously wrong with them. They are disappointed when nothing is found. This is in contrast to "normal" people who would rather avoid more tests are are relieved when nothing is found wrong. Or people with factitious disorder or malingering symptoms who seem completely serene by the test results. 
+
+Unlike the DSM-5, the DSM-IV separates hyperchondriasis, pain disorder, and conversion disorder. In hyperchondriasis, an individual is overly sensitive to small changes in his body. He might interpret a cough as lung cancer or varicose veins as blood poisoning. Much of his time and energy is exhausted in monitoring his symptoms and talking to his doctor. 
+
+In pain disorder, the patient feels pain in one or more body parts. This pain is not intentionally produced or feigned. This pain is really felt by the patient - just as much as pain caused by a physical condition. This pain often causes the patient significant problems in their ability to function in daily life. The resulting social isolation and feelings of uselessness can result in depression, leading to more somatic pain. Luckily pain disorder is easier to treat than hyperchondriasis. The patient can be taught relaxation techniques which reduce the pain, and they can undergo cognitive behavioral therapy to reduce their cognitive response to the pain. Antidepressants also help with the pain. 
+
+
+I find conversion disorder to be the most interesting of the somatic symptoms and related disorders. In conversion disorder, an individual might suddenly become blind, deaf, partially paralyzed, or have pseudoseizures. These symptoms occur during highly stressful situations like combat. Because the individual becomes too stressed to deal with combat, he suddenly becomes blind or partially paralyzed. These symptoms are not faked. The person really believes that he is blind or deaf. However, upon medical examination, people with conversion disorder unconsciously respond to stimulus. They will turn their head in a direction of a noise. They will be able to avoid obstacles while walking. 
+
+Conversion disorder is most common in medically unsophisticated individuals. A particularly effective treatment for conversion disorder is to educate the individual about the psychological causes of his disorder. Also, these symptoms often go away after the stress has been reduced significantly. 
+
+As mentioned above, factitious disorder is diagnosed when an individual consciously exaggerates her symptoms in order to get attention. This is distinguished from malingering in that she is not trying to get out of work, win a lawsuit, or get other obvious external gains. In popular culture, a form of factitious disorder called Munchausen's syndrome by proxy is found frequently in books and movies. (In the DSM-5 it's called "factitious disorder imposed on another" but that's a boring name.) In this disorder, a caretaker (generally the mother) will invent symptoms in her child in order to get attention for herself. Often, the mother creates symptoms by slowly poisoning their child. Sometimes a child undergoes numerous surgeries to fix the complaint. It is difficult to diagnose and then prove that a mother is intentionally causing a child's illness. One hint that such a thing is going on is if the child gets sicker after every time the mother is left alone with the child. But a doctor is hesitant to point fingers at the mother because of lawsuits. One way around this is to put a camera in the child's room. 
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+
+Suicide - An Overview
+
+References:
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 8: Somatic Symptom and Dissociative Disorders. Abnormal Psychology, sixteenth edition (pp. 264-292). Pearson Education Inc.

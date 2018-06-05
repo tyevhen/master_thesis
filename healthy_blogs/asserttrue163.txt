@@ -1,0 +1,49 @@
+It's never too late to learn a foreign language. That includes programming languages. If you've never coded before, and you want to get started? Cool. Good decision. You can do this. You should do this.
+
+Coding versus Programming
+Somehow, a notion has gotten started that "coding" means either programming (in a language like JavaScript or C++) or writing HTML by hand. To me, writing markup (HTML) by hand is not coding. It's an extremely valuable skill, and you definitely should pick up some raw-HTML ability, but coding, to me, means being able to read, write, and debug scripts or programs.
+
+Some people take "coding" to mean, also, batch-file creation: Linux shell programming or DOS batch files (shiver!). This is useful stuff, but not core to "programming" per se. Bypass it for now if you're a beginner.
+
+Scripting versus Compiled Languages
+One choice you'll need to make, up front, is whether you want to develop skills in an interpreted language (a "scripting" language, like JavaScript, Perl, or Ruby), or a compiled language (like C++ or Java). The key intuition here is that with a compiled language, you'll create standalone programs that you double-click to run, whereas with a scripted language, your code runs inside a special environment (like a web browser). So it depends what your goals are. If you want to write a standalone program (maybe the next Photoshop), software that will process files and write stuff to a hard drive, generally speaking you're looking at learning a language like C++ that produces standalone executables. For almost everything else, you're better off learning a scripting language. The learning curve is arguably a bit lower for scripting languages.
+
+What if you're not sure? Carl Cheo has produced an amazing infographic that leads you through the considerations attendant to choosing a programming language:
+
+Carl Cheo's magnificent how-to-choose-a-language flowchart. Click to be overwhelmed.
+
+But please go to http://carlcheo.com/startcoding to get additional details, including some great curated links to getting-started resources. Really, you need to visit Carl's site. I'm serious.
+
+Can I Really Teach Myself Programming?
+Absolutely. Yes yes yes. Over the years, I've met many professional coders who were self-taught, without any formal training. In fact, one guy I'm thinking of not only never took programming courses in college, he couldn't even go to college because of severe agoraphobia that kept him from leaving the house. He started working as a pro coder in his teens.
+
+I'm self-taught: I started with the C language, in the 1980s, on DOS computers (PC clones). Within a couple years I was programming in THINK C on the Mac Plus, creating standalone programs as well as plug-ins for Photoshop, After Effects, and Acrobat. I took a look at Java when it first came out, then dropped it, then came back to it a few years later, when applets (which everyone was sure would take off) died, and Java for enterprise (which no one, initially, thought would be a Big Thing) took off. I picked up JavaScript somewhere along the line, never figuring it would become the backbone of the Web. I now consider JavaScript the most essential of my programming skills.
+
+The thing you have to realize about programming is that all programming languages do the same sorts of things (they all have variables, conditionals, looping constructs, subroutines, etc.), and so, at a certain level, it really doesn't mattter where you start. You can start with C++ (if you're a sadist like me), or you can start with Java, or you can start with Ruby or JavaScript, or you name it. You can start anywhere. If you're not sure where to start, start with JavaScript.
+
+But Isn't Programming for Genius-Geeks?
+No no no. Programming is for everyone. Just like French is for everyone. Spanish is for everyone. Russian and Hebrew and [insert language here] are for everyone. You're learning a language, okay? Let's get that straight.
+
+That means you should approach learning JavaScript or Java or C# or Ruby the same way you'd approach learning any foreign language, with many of the same expectations. So for example, you don't expect to learn Russian in a week, right? You expect that it will take a good long while to pick up even basic fluency. That means putting in some time every day (or at least every week) trying to learn the basics.
+
+With computer languages, as with any language, you spend about 40% of your time, at first, memorizing basic rules, basic vocabulary, syntax conventions. It's rote, initially. Just accept that. You'll spend about 50% of your time practicing usage: "speaking" the language, trying it out. (Prepare to feel clumsy, right? It's scary at first.) You'll spend the remaining 10% of your time learning the culture. To learn a language (whether it's German or Spanish or C++), you have to pick up bits and pieces of the greater cultural context, including history and lore. Languages don't exist in a vacuum.
+
+Wax On, Wax Off
+In learning any language, there's a lot of Wax On Wax Off. You saw The Karate Kid, yes? Remember all the "motions" the kid had to go through to learn karate? Mr. Miyagi had the kid doing repetitive, menial drudgework like painting his fence, sanding his floor, and waxing his car, for what seemed like forever, and for what seemed like no purpose at all. The kid was just about to lose patience and give up on Miyagi, when he suddenly has the critical breakthrough. He suddenly has the muscle memory, mental discipline, and reflex skills to begin doing karate for real.
+
+This is what happens also with programming. You do a lot of "wax on, wax off," feeling like you're learning a lot of gibberish for nothing, and then suddenly you put the elements together and bang! it begins to make sense. At that point, you realize you're free to create, not just absorb. It's the same with learning any language: You start with rote memorization of vocabulary and syntax rules. You acquire a lot of useless junk in your head. But once you've internalized the rules of the language (and some vocabulary words) you realize you're now free to construct sentences on your own, not just use and reuse sentences you learned by rote out of a textbook. 
+
+It will take a while to get to that point. So be patient. "But I  don't have patience!" you say. "I suck massively at patience!" Right, well, guess what? Welcome to the club. No one has patience! But this, again, is another reason to immerse yourself in learning to code. You'll learn something about that most difficult of life skills: patience. 
+
+The rewards are immense, let me assure you. It's about patience, and payoff. The two go together. (Maybe you've noticed?)
+
+So get started today.  Find some great resources at http://carlcheo.com/startcoding. Or try a first lesson here. Or see "Your First Hack."
+
+ ☙ ❧ 
+
+The following list of people who retweeted me yesterday might not be 100% complete, but it's as good as I can do with my silly notifications-scraping hack. In any case, you should get busy following the folks shown below. They're fantastic Twitter networkers, and they retweet! (Click their pictures; the pics are live links.)
+
+
+Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? 
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.       

@@ -1,0 +1,8 @@
+Developer Dave Shea has released PaintbrushJS, a lightweight image processing library that can apply a variety of filters to images on a web page.
+Under the covers, PaintbrushJS uses the HTML5 canvas tag to implement its effects, automatically inserting canvas tags based on class names. You can choose effects and control their parameters by adding attributes to various tags. For example:
+<img src="jordan.jpg"
+width="200" height="133"
+class="filter-blur"
+data-pb-blur-amount="5">
+PaintbrushJS works in any modern browser — which means IE 8 and below won’t see the effects.
+For a full list of effects available, check out the documentation or head over to the demo page.

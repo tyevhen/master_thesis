@@ -1,0 +1,55 @@
+After putting up yesterday's post about the strong link between depression and fructose malabsoprtion in women (and adolescents), my mind continued to spin for a while. And I woke up this morning with more questions. If you haven't read that post, you probably should before diving into this one, as it won't make nearly as much sense without the initial information.
+
+First of all, the estrogen link. The study noted that none of the participants were on prescription medicines except oral contraceptives. Oral contraceptives have widely varying amounts of estrogen, but the study probably would have been too small to have detected a lot of difference. It makes one wonder. They also postulated that fructose malabsorption would make premenstrual dysphoria worse, again using the explanation that estrogen's effect on the liver makes the already low amount of tryptophan made into serotonin even lower. However, progesterone is the more likely culprit in premenstrual dysphoria, and depression is a well-known side effect of progesterone-only birth control methods. Look at the hormone levels in this diagram of the menstrual cycle - while estrogen is higher in the second half of the month, when premenstrual dysphoria is likely to occur, it really only spikes just before ovulation, in the middle of the month. Progesterone is quite low at the beginning, and then rises to steady levels for much of the last part of the cycle, until it drops again. Progesterone is also involved in the metabolism of serotonin and dopamine, so it could all be related.
+
+Secondly - I had no idea that fructose malabsorption was so common. When I've seen notes or mentions of it around the internet, I had a mental note in my head - "rare" - and I must have been thinking of hereditary fructose intolerance, which can cause liver damage and is quite rare. Probably not much was known about fructose malabsorption when I was in medical school, or I would have remembered it. I mean, everyone knows about lactose intolerance, after all. But the fact that fructose malabsorption is so common could explain quite a bit about the increasing prevalence and changing symptoms of depression these days. Sure, the studies were small, but the effects of the carbohydrate malabsorption were quite large, which means that there's a good chance the data is meaningful. A lot of people (men and women) now have signs of "atypical" depression that is characterized by weight gain, fatigue, and prominent carbohydrate cravings. Low levels of serotonin are thought to trigger carbohydrate cravings, as carbohydrate is thought to increase serotonin levels in the brain. An unprecedented change in our Western diets has made high-fructose foods readily available year-round, something that was never possible before industrialization. So we have fructose-malabsorbers with depleted serotonin craving carbs, munching on sugary foods, leading to more cravings, and a vicious cycle ensues. Adolescents may be more vulnerable, as they are probably the most likely to have a free fructose-laden diet.
+
+When I discussed the changes in depression symptoms from classical melancholia to the modern, atypical presentation, I had pointed the finger at the omega 6 fatty acids, which may also be involved. But fructose could be a very common factor - ironically, the fructose which is not absorbed is the problem! I wish I knew how common fructose malabsorption is in ethnic groups besides central Europeans. Forget straight-up zinc deficiency and the exorphins in wheat causing schizophrenia - those are relatively rare and cannot explain the recent huge changes and increases in depression and mental illness. But fructose malabsorption has the potential to be a huge factor for a good many people - if the 1/3 prevalence holds true for the American population, that's 100 million people. Even if it is much higher in those of central European descent, the fact that other ethnic groups have some of it still means millions and millions of people in the U.S. alone.
+
+And now a bit more about fructose malabsorption, also from one of Jad's helpful references, "Fructose Malabsorption and Symptoms of Irritable Bowel Syndrome: Guidelines for Effective Dietary Management."
+
+Fructose is found in three forms in the diet - as free fructose (in fruits, honey, high fructose corn syrup, agave nectar, etc.), as part of the disaccharide sucrose (glucose+fructose), and also as a polymer known as a fructan (found in wheat and some vegetables).
+
+Turns out that the other constituents of our diets affect how well we can absorb fructose too. Glucose helps us absorb fructose, for example, as does the amino acid alanine. In moderate amounts, people with IBS symptoms and fructose malabsoprtion didn't get symptoms when they ate sucrose or balanced fructose/glucose mixes. But in immoderate amounts ("greater than 375 ml of sucrose-sweetened soda" was an example in the paper), even sucrose could cause symptoms.
+
+So what exactly was the recommended diet (which was quite effective for the IBS symptoms, according to the study)?
+
+Patients were advised to avoid the following foods which had an imbalance of fructose compared to glucose:
+
+Apple, pear, guava, melon, mango, papaya, watermelon, star fruit
+Honey
+Anything with the following major sweetening ingredients: HFCS, corn syrup solids, fructose, and fruit juice concentrate
+
+Also avoid the following foods which have a large fructose load (>3 grams per serving), balanced with sucrose or not:
+
+Most dried fruits, especially apple, apricot, dates, raisins, pear, figs, and prunes
+Fruit juice, canned packing juice
+Fruit sauces (including tomato paste, chutney, relish, plum sauce, sweet and sour sauce, and BBQ sauce)
+High sugar fruits (cherry, grapes, persimmon, lychee, apple, pear, watermelon
+Coconut milk and cream (surely they mean sweetened coconut milk and cream - my can of 365 Coconut milk has only 2g of carbohydrate total per serving, and 1g of sugar)
+Fortified wines such as sherry and port
+> 375 ml of sucrose sweetened soft drink
+"excessive intake" of confectionery.
+
+For these items, the patients were advised to substitute apricots, nectarines, peaches, pluma, berries, citrus, ripe banana, and other fruits which have more glucose or equal glucose to fructose. They could also consume glucose powder or glucose-sweetened sports drink to balance out a fructose load. (In this paper, substitution was emphasized rather than avoidance of whole food groups, in order to prevent nutritional deficiencies or some such. One wouldn't want to do something scary like eat more fat in lieu of pasta, high-fructose fruits, and bread after all!).
+
+Now the fructans - the most problematic ones (to be avoided) are:
+Flour
+White bread
+Pasta
+Whole-grain breakfast cereal
+muffins
+crumpets (Australian study!)
+crackers
+cookies
+leeks
+jerusalem artichoke
+onions (less of a fructan effect than the others)
+asparagus (ditto for onions)
+(I'm leaving out chicory root and some other rare foods - best you get the paper and see for yourself the complete list)
+
+Again, the patients were encouraged to substitute - rye bread or gluten free bread, gluten-free pasta and rice and crackers, maple syrup, gluten-free cookies, etc. And after 2-40 months on the diet, 77% adhered to the diet most of the time, or frequently. 85% of the adherent folks had substantial improvement in IBS symptoms, whereas 36% of the nonadherers had improvement. As this was a dietary study for IBS sufferers with a positive test for fructose malabsorption, depression scales were not administered. It would have been nice if the researchers threw a couple in there, though, right?
+
+Please check out Jamie's post on FODMAPS for even more information, and paleo-style avoidance of fructose and fructans.
+
+Final food for thought - for most people, the vegetable fructans (jerusalem artichokes, onions, leeks, and asparagus) are thought to aid our health by feeding our bacteria a short-chain fatty acid, butyrate, which somehow decreases the permeability of the gut. One can also get butyrate from eating butter. (edited to say - sorry - meant the opposite - the fructans are transformed from the oligosaccharides to the short chain fatty acids by the good bugs. Thanks Avocado!)

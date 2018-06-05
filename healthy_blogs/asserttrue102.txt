@@ -1,0 +1,80 @@
+I've done a number of posts on biological topics over the past three years here. These are a few of them:
+
+The Primordial Nature of Phage Genes
+Virus Genes Don't Always Come from the Host
+A Virus with a Metabolic Gene
+A Virus, a Worm, and a Louse Walk into a Bar
+Viral Abduction of Proteins
+Nucleus-like Viruses and Their Enzymes
+A Surprise in an Algal Virus
+How Quickly Did Life Arise on Earth?
+Why Do Some Bacteria Have GC-rich DNA?
+Bacteria in Hail Stones
+A Catalase Conundrum
+Strict Anaerobes that Produce Catalase
+Genes, Codons, and Purines
+Are Some Leprosy Pseudogenes Turned On?
+A Stroll on the Beach in 1,000,000,000 B.C.
+The GGAGG Reflex
+Are Overapping Genes Real?
+How Antisense Genes Are Discovered
+Bidirectionally Overlapping Genes
+Codons and Reverse Complement Codons
+The Pathogen's Playbook
+Coming to Grips with Pseudogenes
+Pseudogenes Are Not Junk DNA
+Whooping Cough Genomics
+The Most Deadly Pathogen of All Time
+Are Dead Genes Still Alive in the Leprosy Bacillus?
+Why Do So Many Codons Begin with a Purine?
+A Binary Signal in the Second Codon Base
+The First Base in a Codon is Usually a Purine
+Frameshift Errors in Leprosy Bacterium DNA
+Why So Many Helicases?
+A Different Approach to Anti-Aging
+Thermometer Genes
+How Do Bacteria Survive Radiation Damage?
+March of the Microbes
+A Manganese Catalase Fusion Protein
+The Other Catalase
+Odd Structures in a Prophage Genome
+A Gene Heatmap
+A Large Genome with Lots of Structure
+Not All Organisms Use Amino Acids the Same Ways
+Comparative Genomics Using the Canvas API
+Why Mitochondrial DNA is Different
+More about Mitochondrial DNA
+Strand Asymmetry in Mitochondrial DNA
+Highly Expressed Genes: Better-Repaired?
+DNA Strand Asymmetry: More Surprises
+Do-It-Yourself Phylogenetic Trees
+Shedding Light on DNA Strand Asymmetry
+DNA Repair 101
+An Evolutionary Debate that Misses the Point
+Shannon Entropy and DNA
+Chiggers, Scrub Tyhpus, and Pseudogenes
+Looking for LUCA
+Which Direction Does the Gene Point?
+The Pseudogene Hall of Fame
+More Secrets of the Virus World
+Virus Genes Don't Come from Host Genes
+Evolution of Prophage Genes
+Evolution of Viral Genes vs. Host Genes
+How to Build Your Own Phylo Trees with Mega6
+Where Do Virus Genes Come From?
+Anaerobic Catalases and Codon Pseudodegeneracy
+Problems with the Tuberculosis Genome
+Making Sense of Antisense
+The "Hypothetical Protein" Problem
+A JavaScript Tip for Biohackers
+Ancient Drug Resistance Genes
+Fixing the Genome Annotation Nightmare
+Biology's Dirty Little Secret
+A Tale of Nematodes, Scarabs, Germs, and Genes
+A Strange Codon Symmetry
+A Tale of Two Microbes
+Deep-Sea Vents: The Mosquito Connection
+
+Almost all of these posts relate to microbial genetics and/or bioinformatics.
+
+I've also written 40 "biological" articles for BigThink, which can be seen here.

@@ -1,0 +1,42 @@
+One area where Big Data has started to pay big dividends is in genome research, and you can begin to taste the payoff yourself, right now, if you want to come along as I show you how to mine genetic data from public databases in the service of a little desktop microbial genetics. You'll be amazed at what you can do.
+No one knows why, but when Ralstonia eutropha
+eats too much, it produces plastic granules
+instead of, say, starch or fat. Go figure.
+
+For today's experiment, we're going to compare the genomes of two bacteria, one of which you know very well, the other of which you don't, unless you've got way too much time on your hands. The germ you already know is Bordetella, the whooping cough bug. The bug you haven't heard of is Ralstonia eutropha, a soil organism that has the amazing ability to subsist only on hydrogen gas, nitrate, and carbon dioxide. In return, it produces wicked-crazy quantities of plastic (yes, plastic—it stores carbon as polyhydroxybutyrate), and because it's potentially useful to industry, Ralstonia's DNA, like Bordetella's, has been fully sequenced.
+
+If you go right now to http://genomevolution.org/r/8o1x, you'll see that I've set up a little experiment for you. You shouldn't have to press the pink "Generate SynMap" button on that page. It should run automatically (but if you don't see an image like the one below, hit the button).
+
+Every dot in this dot-plot represents a match between
+a gene in Bordetella bronchiseptica and a gene in
+Ralstonia eutropha. See text for discussion.
+What has happened is that the SynMap server has been instructed to go find the complete DNA sequence of Ralstonia eutropha Strain H16 as well as the complete DNA sequence for Bordetella bronchiseptica Strain RB50, and run a comparison of one against the other. It so happens Bordetella has a single chromosome with 5,339,179 base pairs, whereas our hydrogen-loving, plastic-storing friend Ralstonia has 3 chromosomes totalling 7,416,678 base pairs. (It has one main chromosome, and two small auxiliary chromosomes called plasmids.)
+
+Every point on the above graph represents a match between a gene in Bordetella and a gene in Ralstonia. The X-axis represents locations on the Bordetella genome (starting from one end and going to the other). The Y-axis plots locations on the Ralstonia genome. All we're doing is mapping one genome to another and tallying the significant matches.
+
+This is a massive number of matches (well over 10,000), just to let you know. Usually, when you compare organisms, you don't see this many dots. I chose Bordetella and Ralstonia because I knew there'd be a lot of hits, based on my own prior experiments. And by the way, I don't think most microbiologists are aware (yet) that Bordetella and Ralstonia are extremely closely related. This is new information I'm sharing with you.
+
+It's one thing to get a bunch of points on a dot-plot, but how do we really know these two organisms are related? This is where synteny comes in. Synteny is the degree to which two chromosomes share blocks of order. The key intuition is that merely sharing genes isn't enough; what counts is whether matching genes are in the same arrangements. If genome A has genes X, Y, and Z, in that order, and genome B also has genes X, Y, and Z (in the same order), we say that A and B share a syntenous triplet. The genomes have a degree of synteny.
+
+The SynMap tool is very powerful because it lets you find syntenous regions in DNA, and it's tunable. If you go to the Analysis Options tab on the SynMap page, you'll see that you can set two parameters called Maximum Distance Between Two Matches, and Minimum Number of Aligned Pairs. The URL that I sent you to (for our experiment) has values of 50 and 2, respectively, already dialed in. That means the graph is plotting every occurrence of 2 gene-pair matches that occurred between genes no more than 50 genes apart. That's a pretty liberal setting. If two organisms are related, you can expect to see a lot of matches.
+
+But what I propose you try (if you want) is setting "Maximum Distance Between Two Matches" to 500 and "Minimum Number of Aligned Pairs" to 250. (Then click the Generate SynMap button to refresh the graph.) This is a much more stringent requirement: It tells SynMap to try to find 250 matched genes within any given 500-gene region, do it for all regions of both genomes, and plot the results, if any. A 250-gene chunk is a pretty large syntenous region for a creature that has only 10,000-or-so genes to begin with.
+
+The result of our hunt for super-large 250-gene syntenous regions is shown in the first graph below. The red dots represent the regions. They run from the top of the Y-axis to the lower right corner. Remember that the axes map directly to positions on the genome. What the diagonal line says is that there's a near-linear mapping of syntenous regions from one genome to the other.
+
+The second graph below shows what happens when we re-tune our DNA-matching parameters to find blocks of 200 ordered genes within each 500-gene domain. We're looking for shorter runs of genes (200 instead of 250), which should be more plentiful. And they are. This time our graph looks like an 'X'. Why? Bacterial chromosomes do a lot of rearranging, and one of the most common events is a symmetric inversion around the origin of replication (and/or the terminus of replication). If you get enough of these inversions of various sizes, you end up with pieces of DNA that used to be near the start of the chromosome ending up near the end, and vice versa. (Repeat for all intermediate locations as well.) If you want to know more about how and why this ends up making an X-pattern on a dot-plot, be sure and read the classic paper by Eisen et al. called "Evidence for symmetric chromosomal inversions around the replication origin in bacteria," Genome Biology 2000, 1(6):research0011.1–0011.9 (unlocked PDF here).
+
+Genomes compared with synteny-block size 250.
+Synteny block size 200.
+Block size 175.
+Block size 120, max domain size 180 genes.
+Block size 90, max domain 130.
+Block size 2, max domain size 50.
+ 
+The third and fourth graphs in this series show what happens when we tune our match for smaller block sizes. In the third graph, we've set "Maximum Distance Between Two Matches" to 500 and "Minimum Number of Aligned Pairs" to 175, which produces what looks like two really poorly drawn X's superimposed on each other. As we get more permissive with our synteny matches, we start to see the results of more inversion events. It makes sense that shorter synteny blocks will be swept up in more successful inversions, because an inversion that cuts across a large synteny block is probably fatal in many cases. (Some large groups of genes need to be kept together, for proper gene regulation. If an inversion event cuts through a critical regulon at the wrong spot, the cell might not go on to reproduce.)
+
+As we keep tuning the "Minimum Number of Aligned Pairs" downward, the graphs become more cluttered as we see the results of many thousands of inversion events in the history of the chromosomes.
+
+The fourth graph uses values of 180 and 120 for Max Distance and Minimum Number of Aligned Pairs, then in graph five we have values of 130 and 90. And finally, in the last graph, we have 50 and 2. The final graph is mostly noise. But buried in the noise are many faint signals that can be seen by twiddling the knobs on the synteny settings.
+
+I hope this bit of desktop genomics has convinced you that desktop genomics has reached an exciting stage indeed. (I've only scratched the surface, here, of what the tools at http://genomevolution.org can do.) I also hope I've convinced any microbial geneticists who might be reading this that Bordetella and Ralstonia are very closely related indeed. (Which should come as news. I don't think it's been reported.) You wouldn't think a hydrogen-loving soil organism would have much in common with a throat-dwelling pathogen, but as I like to say: DNA doesn't lie!

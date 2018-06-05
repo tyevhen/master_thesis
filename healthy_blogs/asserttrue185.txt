@@ -1,0 +1,38 @@
+Today's post may read like an ad for tweepi.com, but I can assure you, I get no kickbacks of any kind from tweepi.com. I just happen to like their app, and I like it well enough to recommend it; in fact, I'm willing to go so far as to say, if you're serious about Twitter and you're not using tweepi.com? You're crazy. This is one over-the-top great tool.
+
+There's a free version and a couple different flavors of paid versions. It's all good. You can get great utility out of the free version, and the company is on the up-and-up. You don't have to worry about them hijacking your account or letting anything bad happen. I've used them for years and have had nothing but a wonderful experience (including great customer service when needed). Go ahead and authorize the tweepi.com app and get started with the free version.
+
+If nothing else, you'll find Tweepi is a tremendous time-saver when it comes to finding, and then unfollowing, people who aren't following you back. The app's Dashboard (partial view) looks something like this:
+
+
+There are many other options; these are just the top few buttons. Tweepi has a "Follow List" option, for example, that lets you follow every person on anyone's curated list (of authors, top tweeters, special interest accounts, etc.), and there are Force Unfollow tools that will let you gang-block spammers and dubious accounts. The list of features is extensive. Go check it out.
+
+Suppose you click the Flush button. You'll be brought to a view of all the people who are not following you back. (Click image to enlarge.)
+
+
+The columns are configurable: If you want (or don't want) to see a Bio, or the number of Friends (followees) the person has, etc., you can easily change the visibility of columns. Also, you can sort on any column and/or filter columns in various ways (to suppress non-English-users, for example, or not show users who have more than or less than a certain number of followers). The free tool shows a maximum of 20 tweeps (20 rows of data) at a time unless you tweet a marketing tweet for Tweepi, in which case you get to see 40 at a time. But if you pop for one of the paid versions, you get to see 100 or 200 people at a time.
+
+To Unfollow people, just start clicking the Unfollow buttons. In the paid versions of Tweepi, there's a gang-unfollow feature (click one Unfollow button, then Shift-click another one to click a range of buttons), but Twitter made Tweepi take the ganging features off the free version (and probably don't even know it's still in the paid versions, but that's another story).
+
+If you get tired of click-click-clicking Unfollow buttons, make yourself a little bookmarklet containing a few lines of JavaScript:
+
+// magic name of button class 
+cl = "x-button-litebutton-wrapper " +
+     "x-btn action_button inline_block " +
+     "x-component x-btn-text-icon ";
+butts = document.getElementsByClassName(cl);
+for (var i=0; i!=butts.length; i++)
+   butts[i].click(); 
+alert(butts.length+" clicked");
+
+This code forces a click on each button, all in one go, so that clicking the bookmarklet, once, is all you have to do to click all buttons on the page. (Technically not quite true. For whatever reason, I find that in Chrome and Firefox, this code clicks only buttons that are currently within view onscreen. Maybe the DOM is lazily loaded? I still haven't figured it out. It's not such a big deal, though. Scroll to the bottom of the screen before clicking the bookmarklet.) Be sure your bookmarklet code begins with "javascript:", which is a necessary part of any code-driven bookmarklet. (You have to provide the "javascript:" URL scheme, or else the browser doesn't know "where to go." You knew that, right?)
+
+I could write a book on how to use Tweepi to manage your Twitter account. It's a super-powerful tool, it's free, it's reliable, and I've used it to manage a very large Twitter account with great success (in only a few minutes a day). I can't begin to calculate how much time and effort Tweepi has saved me. On that basis alone, I recommend it to you.
+
+Have you joined the mailing list? What are you waiting for? 
+ 
+☙ ❧
+
+I want to thank the following great tweeps for retweeting me yesterday. Click into these profile pics and Follow these people on Twitter! They retweet!
+
+   

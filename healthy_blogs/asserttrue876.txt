@@ -1,0 +1,44 @@
+This is a nasty hack. It's so useful, though. So useful.
+
+Suppose you want to insert a new page (a new window object and DOM document) into your existing page. Not a new XML fragment or subtree on your current page; I'm talking about a whole new page within a page. An iframe, in other words.
+
+The usual drill is to create an <iframe> node using document.createElement( ) and attach it to the current page somewhere. But suppose you want to populate the iframe programmatically. The usual technique is to start building DOM nodes off the iframe's contentDocument node using DOM methods. Okay, that's fine, but it's a lot of drudgery. (I'm sweating already.) At some point you're probably going to start assigning string values to body.innerHTML (or whatever). But then you're into markup-stringification hell. (Is there a JavaScript programmer among us who hasn't frittered away major portions of his or her waking life escaping quotation marks and dealing with line-continuation-after-line-continuation in order to stringify some hellish construction, whether it's a piece of markup or an argument to RegExp( ) or whatever?)
+
+Well. All of that is best left to Internet Explorer programmers. If you're a Mozilla user, you can use E4X as your "get out of stringification-jail FREE" card, and you can use a data URL to load your iframe without passing through DOM hell.
+
+Suppose you want your iframe to contain a small form. First, declare it as an XML literal (which you can do as follows, using E4X):
+
+myPage = <html>
+<body>
+  <form action="">
+     ... a bunch of markup here
+  </form>
+</body>
+</html>;
+
+Now create an iframe to hold it:
+
+   iframe = top.document.createElement( "iframe" );
+
+Now (the fun part...) you just need to populate the iframe, which you can do in one of two ways. You can attach the iframe node to the top.document, then assign myPage.toXMLString() to iframe.contentDocument.body, or (much more fun) you can convert myPage to a data URL and then set the iframe's src attribute to that URL:
+
+
+    // convert XML object to data URL
+ function xmlToDataURL( theXML ) {   
+
+         var preamble = "data:text/html;charset=utf-8,";
+         var octetString = escape( theXML.toXMLString( )  );
+         return preamble + octetString;
+ }
+
+ dataURL = xmlToDataURL( myPage );
+
+ iframe.setAttribute( "src", dataURL ); // load frame
+
+ // attach the iframe to your current page
+ top.document.body.insertBefore( iframe ,
+       top.document.body.firstChild );
+
+A shameless hack, as I say. It works fine in Firefox, though, even with very large data URLs. I don't recall the exact size limit on data URLs in Mozilla, but I seem to remember that it's megabytes. MSIE, of course, has some wimpy limit like 4096 characters (maybe it's changed in IE8?).
+
+In my opinion, all browsers SHOULD support unlimited-length data URLs, just like they SHOULD support E4X and MUST support JavaScript. Notwithstanding any of this, Microsoft MAY go to hell.

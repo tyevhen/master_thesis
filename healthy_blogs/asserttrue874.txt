@@ -1,0 +1,3 @@
+This has got to be the funniest thing I've seen all year. And trust me, this has been a funny year.
+
+Daniel Blade Olson, a man after my own heart (even if that phrase doesn't translate well into foreign languages...), has rigged a bunch of floppy drives to form a RAID array. His disturbing writeup is here.

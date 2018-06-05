@@ -1,0 +1,7 @@
+Have you ever wanted an exhaustive list of all those inscrutable command-line options you can use when you want to force the JVM to do something a certain way while you're either troubleshooting an extremely bizarre bug or trying to figure out why performance sucks even more than usual?
+
+Try going to:
+
+http://java.sun.com/javase/technologies/hotspot/vmoptions.jsp
+
+I don't know if this is an exhaustive list, but it certainly looks like it is. Just reading the various descriptions is quite educational. If you're interested in tuning the JVM for max performance, this is a must-read.

@@ -1,0 +1,116 @@
+I've looked at a few stats on my 200,000+ Twitter followers, and some of them are kind of interesting.
+
+I've always wondered how often my people are actually online, using Twitter. This is a difficult thing to quantify, but thanks to tweepi.com, I now know:
+1,080 people (out of 207,000) tweeted in the last minute
+2,690 tweeted in the last 5 minutes
+104,400 in the last day
+164,980 in the last month
+The numbers are tricky, because we can't simply say that in any given 5-minute period, about 2,700 people (1.3% of 207,000 total followers) will be online, because there might be users online who don't tweet in those 5 minutes. The "online" part is suspect, too, since many people set their tweets for scheduled/automated push offline. Nevertheless, in a rough qualitative sense I think it's clear that only a very small percentage of users can be found online at a given moment. This is consistent with half my followers tweeting in a given 24-hour period (an implied average rate of 2.1% per hour; 50% divided by 24).
+
+How many followers do my followers have?
+36620 (18%) have less than 200 followers
+79050 (39%) have less than 500 followers
+119165 (59%) have fewer than 1000 followers
+median 725 followers
+If you have 7,500 followers or more, you're in the 90th percentile. I don't know if my followers are representative of Twitter as a whole, but it sounds about right to me that 90% of Twitter users have fewer than 7,500 followers.
+
+So, but. Twitter users tend to follow more people than they have following them. The median number of followees is 1,328. Thus, it's not atypical that a person has 725 followers, but follows 1,328 people. This, again, squares with everyday observation.
+
+Who are my top followers in terms of Follower Count? Here are the top ten:
+
+Twitter Name
+Followers
+Who is this?
+@BarackObama
+40324316
+President, U.S.
+@hootsuite
+5528380
+Twitter app.
+@yokoono
+4681884
+The one and only.
+@tonyhsieh
+2842895
+CEO of Zappos.
+@Number10gov
+2508900
+David Cameron, UK Prime Minister.
+@TweetDeck
+2485270
+Twitter app.
+@firefox
+2260635
+The browser I use most.
+@ElNacionalWeb
+1767016
+Venezuelan newspaper.
+@thebenlandis
+1657789
+Songwriter.
+@leopoldolopez
+1614579
+Leopoldo López, Venezuelan politician and economist.
+
+Of these, I was surprised to find I actually follow only four myself.
+
+I took a look at the Twitter users with whom I have a "mutual" relationship (i.e., where we both follow each other). Recall that Twitter relationships can be outbound, inbound, or mutual.
+
+I have around 97,000 mutuals. To get an idea of who they are, I did some keyword searches on the user's bios. Here are the (interesting, I think) results:
+
+Keyword in Bio
+Number of People
+writer
+19822
+author
+16725
+music[ian]
+10560
+market[er,ing]
+7800
+blogg[er,ing]
+5421
+photograph[er,y]
+4813
+editor
+3712
+actor
+3064
+coach
+2899
+Christ[ian]
+2383
+CEO
+2067
+coffee
+1622
+comedian
+1538
+junkie
+1522
+actress
+1201
+comedy
+1083
+novelist
+978
+EMPTY (no bio)
+952
+screenwriter
+973
+chocolate
+790
+literary agent
+71
+
+The tricky thing here is that people don't always state their occupation (nor their interests) in their bios. For example, comedians' bios are often one-liners. (Wait. This is Twitter. Every bio is a one-liner. Never mind . . .) An actor might give the name of a show, or an imdb.com URL, or just leave the bio blank. An editor might say "I work with words" or "I translate English into English." Thus the above numbers shouldn't be taken too literally.
+
+Why do I follow so many people? Isn't it hard to keep track of their tweets? I use lists a lot, in order to see just what comedians are tweeting, just what authors are tweeting, etc. Still, it's a lot to keep track of. On the other hand, when major news hits, I often learn about it in seconds. If Fukushima melts down, I'll know right away.
+
+Conversely, if I need advice on something, or a research tip, I get it instantly. Once, I was trying to find out what some of the worst/funniest, most poorly conceived children's toys are. I posted a tweet asking for help. Within seconds, I got the info I was looking for. 
+
+But the real reason I follow so many people is, I consider my Twitter contacts to be a much more valuable Rolodex than, say, my LinkedIn contact list. I'm not in constant contact with my 500+ "contacts" on LinkedIn. Most of them, I haven't touched base with in years. Some are dead. My Twitter followers are very much alive (I routinely purge accounts that haven't tweeted in the last 90 days), and there for me. Many of them have reached out to me with a request; I always try to help. When I reach out, they help. It's a great system. I have thousands of people I can reach either via a public tweet, or via an e-mail that begins with "We follow each other on Twitter."
+
+Recently, one of my followers (a movie producer) asked to see a copy of my screenplay. She read it, liked it, and is now anxious to show it to a colleague who executive-produced a recent major (well over $150 million box office gross) motion picture. This is the kind of thing that would not have happened for me without following a great many people on Twitter.
+
+That's my excuse. What's yours?

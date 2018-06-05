@@ -1,0 +1,42 @@
+That was the first thought I had when I read through the FDA release on the approval of Vyvanse for "binge-eating disorder".  I thought of the rotation I did on the Eating Disorder service at the University of Minnesota with some of the top experts in anorexia nervosa and bulimia.  In those days the residents admitted the patients and also rotated through the outpatient clinic where they saw new cases of eating disorders and developed treatment plans with the supervision of the attendings.  We talked about a lot of binge eating, since binge eating was a critical aspect of bulimic behavior.  ""Do you ever consume an amount of food large enough that it might be embarrassing if someone else found out?" and getting the details of that specific behavior was one of my standard interview questions.  It was clear that the binge eating of bulimia was a volume and rate task.  I would hear about large amounts of diet soda and popcorn being consumed in order to complete the cycle.
+
+In the intervening 2 decades the only real changes was the addition of bulimia nervosa a composite of bulimic and anorexic behaviors.  That is until the advent of Binge-Eating Disorder in DSM-5.  In addition to a binge definition not much different from the one I used in 1984 eating an amount of food that is "definitely larger than what most people would ingest in the same period and similar circumstances" there is loss of control, and behavioral specifiers for rapidity, physical sensations, appetite, and psychological reactions to the binge eating.  Marked distress needs to occur and it cannot be part of another eating disorder.  The time specifier is that it needs to occur at least once a week for 3 months.  A summary of the FDA release about the indication states:
+
+ “Binge eating can cause serious health problems and difficulties with work, home, and social life,” said Mitchell Mathis, M.D., director of the Division of Psychiatry Products in the FDA’s Center for Drug Evaluation and Research. “The approval of Vyvanse provides physicians and patients with an effective option to help curb episodes of binge eating."   
+
+The DSM-5 has a point prevalence estimate of 1-1.5% in women with a peak in late adolescence and early adulthood.  That same section in the DSM-5 suggests that the course is variable:
+
+"However, over longer-term follow-up, the symptoms of many individuals appear to diminish with or without treatment, although treatment clearly impacts outcome. Periods of remission longer than 1 year are associated with better long-term outcome." (DSM-5 p 351-352)
+
+As far as I can tell, the evidence supporting the fast tracked application for Vyvanse is a typical 8 week clinical trial that looked at remission and reduction in binge eating rates in a multicenter study of 255 individuals (1).  Both the 50 and 70 mg doses were effective.  The publication of the research coincides fairly closely with the FDA release.  Searching through the FDA web site reveals no information about the opinion of a Scientific Committee and whether there was any consensus on the decision or concerns about the addictive potential of the drug.  
+
+The pharmacology of the Vyvanse is interesting.  It is a prodrug - lisdexamfetamine that is a conjugate of lysine and amphetamine.  After it is absorbed into the circulation it is hydrolyzed to lysine and amphetamine.  There has always been some debate about whether this prodrug approach confers a decreased likelihood that the compound can be abused or used in an addictive manner.  Most addiction psychiatrists will tell you that it can and  the FDA approved package insert confirms the fact that it has significant abuse potential.   It is a Schedule II drug according to the DEA.
+
+The lesson of the first amphetamine epidemic is that these drugs will be prescribed, to the point that there is very high demand and production of the drug.  Widespread health consequences were noted from overprescribing stimulants for questionable indications (weight loss, nasal congestion, depression, anxiety, psychosomatic complaints).  During the peak of this epidemic (1969) the total number of 10 mg amphetamine doses was about 25 million.  This was not exceeded until about 2005 and then only as a combination of amphetamine and methylphenidate.  As a psychiatry resident in the 1980s, I was still seeing obese people who had not lost a pound using very high doses of amphetamines.  The weight loss indication was subsequently banned in order to establish some limits on the overprescription of these compounds.  In other words, they were taking the drug because of an addiction rather than using it for any therapeutic effect.  It is clear that the prescription of controlled substances for diagnoses that are based on subjective findings is a recipe for epidemics of addictive drugs both in terms of total prescriptions, escalating use, and diversion.  Stimulant medications have the additional allure as possible performance enhancing drugs and are widely diverted for that purpose.
+
+In that context, it would seem that the FDA would need to come up with a clear rationale for using a Schedule II drug to treat what may be a time limited disorder or a disorder that responds to non-medical therapies.  The complex nature of medications that have addictive potential needs to be recognized.  The prescription of these compounds takes more than rote knowledge. At the minimum there needs to be strict pharmacosurveillance on how this drug is prescribed and flags need to be in place for trends indicating that the prescriptions are starting to exceed the known prevalence of the disorder or the dose ranges are higher than recommended and/or combined with short acting stimulants.  These are all common problems seen in the overprescription of controlled substances.
+
+Passive post marketing surveillance can no longer be considered a viable option for stopping the overprescription of controlled substances.   Waiting for intervention by law enforcement when problems have already begun is an approach from the 1960s.  In an era when data mining is commonplace, the FDA can do a lot more than get drugs out into the marketplace and wait to see what happens.         
+
+
+
+George Dawson, MD, DFAPA
+
+
+1: McElroy SL, Hudson JI, Mitchell JE, Wilfley D, Ferreira-Cornwell MC, Gao J, Wang J, Whitaker T, Jonas J, Gasior M. Efficacy and Safety of Lisdexamfetamine for Treatment of Adults With Moderate to Severe Binge-Eating Disorder: A Randomized Clinical Trial. JAMA Psychiatry. 2015 Jan 14. doi: 10.1001/jamapsychiatry.2014.2162. [Epub ahead of print] PubMed PMID: 25587645.
+
+2: Nutt, David, Leslie A King, William Saulsbury, Colin Blakemore. Development of a rational scale to assess the harm of drugs of potential misuse. The Lancet 2007; 369:1047-1053. PMID 17382831;doi:10.1016/S0140-6736(07)60464-4
+
+
+
+
+
+
+
+
+Supplementary 1:  The following graph is from Wikimedia Commons and it is public domain.  It is a derivative work of reference 2 above and a complete description is available at this link.  I could find no author to cite.
+
+
+
+
+Supplementary 2:  Almost on cue I noticed the first banner ads for Binge-Eating Disorder today (2/12/2015).  It is advertised as a "real medical disorder" and is a brief informational film.  It has a spokesperson who talks about her experience with the disorder and refers the interested viewer to the company web site at BingeEatingDisorder.com.  It carefully coaches people in how to talk with their doctor.  The pharmaceutical company and manufacturer is listed at the bottom on the page.  The graphic of a pizza slice over a drawing of a brain varies in different views.  I don't know exactly what that means.  It suggests psychological therapies for B.E.D. and does not mention Vyvanse.  But let's face it - when people read there is a pill for their eating problem and it is an amphetamine - how many people will be asking for the psychological therapies?

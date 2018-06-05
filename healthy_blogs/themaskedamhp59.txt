@@ -1,0 +1,33 @@
+Oh look, here’s yet another case of local authorities taking each other to court over who is responsible for funding Sec.117 aftercare. This is very recent, published on 29.10.14.
+
+Why are local authorities prepared to spend thousands of pounds on legal fees in such cases? The simple answer is that the cost of aftercare for these patients can be extremely expensive.
+
+Take this case, [2014]EWHC 3557 (Admin), as an example.
+
+The dispute between Worcestershire and Essex centred around a young woman known as VC. She had an acquired brain injury at the age of 5, and this resulted in serious behavioural disturbance. As a result, she was accommodated in a range of establishments provided by Worcester. These included living for 2 years in a small home for young people up to 18. Although the home was intended to have four residents, VC was so disruptive that all others were moved out and she remained with up to 7 staff looking after her alone.
+
+Her care was obviously costing Worcester a great deal of money.
+
+She was then moved to Oaktree Manor, a hospital in Essex for people with learning difficulties. Although she was initially admitted as an informal patient, she was subsequently detained under Sec.2 after her behaviour deteriorated, and then under Sec.3. She remained detained under Sec.3 for nearly a year.
+
+Worcester then decided that her residence of a few days as an informal patient at Oaktree priory to her detention under the MHA meant that Essex therefore had responsibility for Sec.117 aftercare.
+
+Essex were not happy about this. They tried to argue that, although she had been deemed to have capacity to accept informal admission, she did not in fact have capacity, and therefore the placement was illegal. And Essex would not therefore be responsible for Sec.117 aftercare.
+
+However, the Judge concluded:
+
+“The context and purpose of s117 point in my judgment to an interpretation that is as straightforward as possible, the residence of a person being prima facie the place in which he was in fact living eating and sleeping immediately prior to his detention.”
+
+This was regardless of issues of capacity, and hung on the fact that at the time VC moved to the hospital there was no other place which could be regarded as her normal residence, as she could not return to any of her previous placements.
+
+In this case, Worcester saved itself a great deal of ongoing expenses.
+
+Those who have read my recent post, on the changes to Sec.117 imposed by the Care Act 2014, will already be wondering if this would change the outcome of this case.
+
+The Judge in this case has anticipated this. He observes:
+
+“The matters in issue in this case will not arise in future, because s117 has been amended by the Care Act 2014 to provide for a regime of long term responsibility of an authority, rather than one which may shift as a patient moves around the country.”
+
+But he also observes that previous statute does not permit this interpretation in this case.
+
+Will the Sec.117 changes to the concept of “ordinary residence” prevent these sorts of disputes in future? When so much expense is at stake, I wouldn’t count on it.

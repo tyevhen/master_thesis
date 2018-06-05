@@ -1,0 +1,42 @@
+Let's revisit the basic premise, my hypothesis we are searching to disprove.  Humans are not broken, but we are not optimized for our current environment, whether it be modern stress, modern social structure, modern diet, modern sleep, or modern activity.  Perturbations from the homo sapiens "norm" of paleolithic life (minus the few adaptations we have accumulated in the recent years) lead to modern human disease, mental and physical.  
+
+
+In a broad stroke, pathology in the human body is mediated via abnormal immune response - thus autoimmunity and inflammation.  This piece of the theory has mounting evidence both for physical and mental health diseases.  Inflammation in the brain can lead to disturbances of human behavior - to anxiety, extreme depression, and even suicide.
+
+
+Today an interesting paper newly out in the Journal of Clinical Psychiatry, Suicide and Prescription Rates of Antiallergy Medications: An Ecological Study.
+
+
+I know.  That sort of a title will make any Evolutionary Psychiatrist's ears prick up.
+
+First, though, suicide.  With any human condition, sometimes the best place to look for clarity and understanding is Steinbeck, who won the Nobel and Pulitzer prizes for literature.  And, like many men of the 20th century, John Steinbeck died of heart disease in his 60s.  
+
+He wrote a sympathetic portrayal of a suicidal man in what I consider to be his best work, East of Eden:
+
+
+On another sheet he wrote, "Dear Will, No matter what you youself may think -- please help me now. For Mother's sake -- please.  I was killed by a horse -- thrown and kicked in the head -- Please!  Your brother, Tom."
+
+
+
+...In his bedroom he broke open a new box of shells and put one of them in the cylinder of his well-called Smith and Wessen .38 and he set the loaded chamber one space to the left of the firing pin.  His horse standing sleepily near the fence came to his whistle and stood drowsing while he saddled up.
+
+
+It was three o’clock in the morning when he dropped the letters in the post-office at King City and mounted and turned his horse south toward the unproductive hills of the old Hamilton place.
+
+He was a gallant gentlemen.
+
+Certainly many suicides are planned -- often if family members get letters or phone calls ahead of time, it can be prevented.  Sometimes though, suicidal urges come on in an unbearable wave, and if someone has access to lethal means (typically firearms, hanging, or jumping), the urge becomes deadly.  A very interesting examination of people who survived jumping from the Golden Gate Bridge showed that only 10% of people who survived went on to complete suicide later.  Most of the time, the urge to kill oneself is impulsive.  Often there are biological markers - increased inflammation and low serotonin, among others. 
+
+Allergies, of course, are very common.  And if suicide is in part an inflammatory issue, then one would suspect that people inflamed with allergies are more likely to commit suicide.  There are, indeed, correlations between allergy and suicide.  And while I tend to think of spring and fall as suicide seasons (spring in particular)  due to rapid change of sunlight during those times, spring and fall are also allergy seasons, with spring being the peak of hospitalizations for those with severe allergy problems.  It turns out that the link between suicide and seasons (particularly the springtime) is stronger in those with allergies.
+
+The authors of the allergy medicine and suicide paper had an interesting premise.  They looked at the theory between the connectedness of allergy and suicide in a very biological way.  They looked a data showing increased gene expression of cytokines that mediate the activity of a  of a certain type of immune cell, Th2 (T-helper cells type 2) in the prefrontal cortex of postmortem suicide victims.  Then they looked at the main treatments for allergies/asthma - antihistamines (like claritin) and intranasal steroids (like rhinocort).   An antihistamine won't change Th2 helper cell activity.  A steroid will decrease it via direct means.  The authors went county by county in the US comparing non-sedating antihistamine prescription data and inhaled corticosteroid data with reported suicides, antidepressant prescription data, availability of psychiatrists, urban vs. rural, demographics, within-country vs. intra-county and crunched numbers.  And man, they crunched numbers to a degree that is way beyond my ken.  They used logarithms and differential equations and basically took the huge amount of data and crunched the heck out of it.  I can't speak to the veracity of the crunchedness as I am no statistician.  It sounds reasonable but any mathematical skeptic who wants to look at the paper and pull it apart, feel free to get in touch.  
+
+They found that antihistamine prescriptions (and they excluded sedating antihistamines such benadryl or vistaril which are often prescribed for sleep, not allergies) were positively correlated with suicide rates (p=.0001) and that intranasal corticosteroids prescription rates were inversely associated with suicide rates (p=.0004).  So if prescriptions for inhaled corticosteroids were to increase by 1%, the suicide rate should decrease by 0.16% (0.04 suicides per 100,000 people).  The use of decongestants was neutral with respect to suicide risk.
+
+The discussion in the paper is complex, noting that systemic steroids are known to cause problematic psychiatric side effects (which is certainly true) but that intranasal steroids (for the most part) seem to bypass this problem and have minimal systemic effects, merely decreasing inflammation in the nose, where it counts.  Some data suggesting that intranasal steroids do cause jitteriness, anxiety, agitation, insomnia, and depression in certain people makes the findings of this study even more interesting.  Could Th2 suppression in certain cases more than compensate for the negative psychological effects of nasal corticosteroids, at least with respect to suicide? 
+
+In East of Eden, Tom knew what his mother felt about suicide:
+
+[She] had a strong distaste for suicide feeling that it combined three things of which she strongly disapproved -- bad manners, cowardice, and sin.
+
+Inflammation is, indeed, unmannerly, but I think we go too far to call it cowardice or sin.  We should look closer, look further, and truly delineate this pathology.  Suicide is the 10th leading cause of death in the world, and the 11th in the United States.  Inflammation is the number one cause of death in the modern world.

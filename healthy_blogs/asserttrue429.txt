@@ -1,0 +1,55 @@
+Everybody wants to know what causes aging, and what can be done about it. As it turns out, we know a lot about aging. But we know very little about how to prevent it.
+
+Of all the theories of aging that have been proposed, the most thoroughly researched, by far, is the Free Radical Theory of Aging, which is more properly now called the Oxidative Stress Theory of Aging. It's been 60 years since Denham Harman first proposed that senescence is driven by the buildup of oxidative damage to DNA and other biological macromolecules. Since then, extensive research has verified repeatedly that as tissues age, they do, in fact, accumulate a wide variety of types of oxidative damage.
+
+It's because of the Oxidative Stress Theory of Aging that you see so many foods these days labeled "Rich in Antioxidants." Supposedly, antioxidants (like Vitamin E and beta carotene) confer resistance to heart disease and other ailments. In the U.S., food (and supplement) makers are forbidden by law from making specific therapeutic claims around antioxidants. But this restriction is actually a boon for marketers, because the nameless benefits that accrue to antioxidants, whatever they are, will be conjured in the buyer's mind with much greater force and power than anything a label or an ad could possibly say, the same way a person watching a horror movie will make a monster even scarier (in his or her imagination) if the monster isn't actually shown on screen.
+
+In 2010, the Federal Trade Commission made Kellogg's stop using the "Immunity" claim (tied to antioxidants) on its cereal packaging. The packaging you see here was discontinued. Notice that the "25%" badge seems to imply that there is a "Daily Value" for antioxidants. There is no such thing.
+The bogeyman, in this case, goes by the name "reactive oxygen species" (ROS), which covers a lot of ground, chemically. Originally, ROS meant free radicals—breakdown products of peroxides. Which is a perfect bogeyman, because free radicals are so fleeting their concentrations in living cells can't even be measured. (They're so chemically reactive that they last for only a nanosecond or so.) These days, ROS can also refer to superoxides, aldehydes (e.g., formaldehyde), and/or anything else that's reactive and contains oxygen. (Again, a conveniently vague category of "scary stuff.")
+
+The way bogeyman research works in science is, when a new mediator of tissue damage is first identified (for example: nitric oxide, superoxide anion, prostaglandins, leukotrienes, interleukin-6, interleukin-8, tumor necrosis factor alpha) researchers rush to measure it in a host of human and/or animal diseases. Soon, the molecule in question is "implicated" in the pathogenesis of various diseases.
+
+The problem is, finding that XYZ bogey-molecule is implicated in this or that disease is not the same thing as finding that it causes the disease. Free radicals have been implicated in over a hundred diseases (Gutteridge, JMC, "Free radicals in disease processes: a compilation of cause and consequence," Free Radic Res Commun 1993;19:141-58). They're the cause of none of them.
+
+Until recently, it's been impossible to show a cause-effect relationship between oxidative stress and aging. We know the two are linked, but we don't know if it's in causal fashion.
+
+Recent work with genetically modified mice may have finally provided some much-needed clarification on the role of oxidative stress in aging. I'm referring to work done by Viviana Pérez and her colleagues at the University of Texas Health Science Center in San Antonio, Texas, published in 2009. Pérez looked into the life-extending (or -reducing) effects of various mutations involving oxidative enzymes in mice, the idea being that if you knock out certain oxidative-damage-repair genes, mice should age prematurely (if they live at all), whereas if you amplify or upregulate certain damage-repair genes, mice should show fewer signs of aging (and maybe live longer).
+
+The Pérez results take a while to explain, but it's worth looking at carefully, because it sheds much-needed light on the question of whether aging is actually caused by oxidative damage (or the converse).
+
+When the Pérez team looked at genetically modified mice that lacked glutathione peroxidase 1 (Gpx1, a major scavenger of intracellular peroxides), they found, surprisingly, that the mice lived to normal age and showed no pathology. However, mice deficient in glutathione peroxidase 4 (genetic marker Gpx4) were embryonic-lethal. The latter finding tends to support Free Radical (Oxidative Stress) Theory.
+
+An enzyme called methionine sulfoxide reductase-A (MsrA) repairs oxidized methionine residues in proteins and may also function as a general antioxidant. Pérez et al. found that mice null for MsrA lived a normal lifespan even though they showed some additional sensitivity to oxidative stress.
+
+Thioredoxin 2 (Trx2) plays an important role in repairing oxidation of cysteine residues in proteins. It turns out Trx2-null mice are embryonic-lethal, but Trx2 +/- (heterozygous) mice, with just one copy of the gene instead of the normal two, had 16% longer maximum lifespan.
+
+There are two major superoxide dismutases that break down superoxides in cells: CuZnSOD and MnSOD (genetic markers SOD1 and SOD2). Pérez et al. found that mice lacking the former suffer a 30% reduction in mean and maximum lifespan. Mice lacking the latter die within days of birth.
+
+To recap so far: Mice null for SOD2 or Gpx4 are non-viable, while those null for SOD1 have 30% shorter lives. These results tend to support Free Radical Theory. But knockout mice lacking MsrA or Trx2 live normal lifespans, which contradicts Free Radical Theory.
+
+How are we to interpret these results? One problem with knockout studies is that if a certain chemical reaction doesn't occur (because the responsible enzyme system is taken away—"knocked out" genetically), it's difficult to know whether resulting harm to the host is due to a buildup of unreacted precursor molecules, or (rather) the absence of crucial end-products. The end-products of the reaction might be vital to downstream metabolism. It might not simply be that the precursors to the reaction are toxic. After all, if hydrogen peroxide (the end-product of superoxide dismutases) is an important signalling molecule, as recent work seems to indicate, you would expect abnormalities in SOD1 or SOD2 to be harmful indeed—for reasons having nothing to do with aging.
+
+Bottom line, the finding that mice lacking SOD1, SOD2, or Gpx4 are unhealthy is not sufficient to vindicate the Oxidative Stress Theory.
+
+The ultimate test for Oxidative Stress Theory would be to see whether mice show fewer signs of aging (e.g., less DNA damage with age)—and actually live longer—when enzymes involved in combating oxidative stress are increased (over-expressed). The Pérez team tried exactly this approach.
+
+As mentioned before, there are two major superoxide dismutases that break down superoxides in cells: CuZnSOD and MnSOD (genetic markers SOD1 and SOD2). When mice were made to over-express SOD1 (so that they had two to five times the normal activity of the CuZnSOD enzyme), the mice were indeed more resistant to oxidative stress as measured by standard tests involving tolerance of paraquat and diquat. But the mice lived no longer than ordinary mice.
+
+The same was observed for mice that over-expressed SOD2.
+
+When Pérez et al.created mice that over-expressed catalase (the enzyme that degrades hydrogen peroxide to water and oxygen), they found the mice were less prone to DNA damage—but lived no longer than normal.
+
+In mice with upregulated glutathione 4, enhanced protection against various kinds of oxidative stress was demonstrated. But the mice lived no longer than normal wild-type animals.
+
+The Pérez group also tried over-expressing more than one antioxidative gene at once. No combination produced any lifespan extension.
+
+To recap: mice do not live longer when they over-express antioxidant enzymes (singly or in combinations), even though they show heightened protection against DNA damage, lipid damage, and other typical signatures of oxidative stress.
+
+Pérez et al. concluded:
+We believe the fact that the lifespan was not altered in the majority [of] the knockout/transgenic mice is strong evidence against oxidative stress/damage playing a major role in the molecular mechanism of aging in mice.
+It's hard to disagree with that conclusion. Some of the genetic manipulations Pérez et al. tried were inspired by fruit-fly experiments that gave much more encouraging results. But mammals are not fruit flies. And it seems unlikely to me that the results reported by Pérez et al. are some kind of fluke, limited to mice. (It seems unlikely that entirely different results would be found in humans.) Altogether, Pérez et al. tried 18 different genetic manipulations. Not one extended the life of mice.
+
+To me, it means we can put the oxidative-stress bogeyman to bed now, and go on to worry about other things. Whatever's keeping us from living to be 120, it's not oxidative stress.
+
+
+For more on this subject, see my recent post at Big Think.

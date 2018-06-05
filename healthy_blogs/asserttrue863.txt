@@ -1,0 +1,11 @@
+At last month's OOPSLA 2008, there was an interesting presentation by Michael D. Bond on a technology called Melt, which aims to prevent out-of-memory errors in Java programs that harbor memory leaks (which is to say, 99 percent of large Java programs). The Intel-funded research paper, Tolerating Memory Leaks (by Bond and his thesis advisor, Kathryn S. McKinley, U. Texas at Austin), is well worth reading.
+
+The key intuition is that reachability is an over-approximation of liveness, and thus if you can identify objects that are (by dint of infrequent use) putative orphans, you can move those orphan objects to disk and stop trying to garbage-collect them, thereby freeing up heap space and relieving the collector of unnecessary work. If the running program later tries to access the orphaned object, you bring it back to life. All of this is done at a very low level so that neither the garbage collector nor the running program knows that anything special is going on.
+
+Melt's staleness-tracking logic and read-blockers don't actually become activated until the running application is approaching memory exhaustion, defined (arbitrarily) as 80-percent heap fullness. Rather than letting the program get really close to memory exhaustion (which causes garbage collection to become so frequent that the program seems to grind to a halt), stale objects are moved to disk so that the running app doesn't slow down.
+
+Purists will complain that sweeping memory leaks under the carpet like this is no substitute for actually fixing the leaks. In very large programs, however, it can be impractical to find and fix all memory leaks. (I question whether it's even provably possible to do so.) And even if you could find and fix all potential leaks in your program, what about the JRE? (Does it never leak?) What about external libraries? Are you going to go on a quest to fix other people's leaks? How will you know when you've found them all?
+
+I believe in fixing memory leaks. But I'm also a pragmatist, and I think if your app is mission-critical, it can't hurt to have a safety net under it; and Melt is that safety net.
+
+Good work, Michael.

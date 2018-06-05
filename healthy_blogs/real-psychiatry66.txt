@@ -1,0 +1,38 @@
+I came across this open access article on my Twitter feed that highlights some of the reality of antidepressants that I was trying to get at in my previous post.  I encourage a full reading of the article in order to understand it - specifically how patients were selected from a large commercial database.  In this retrospective study the authors selected patient with a diagnosis of major depressive disorder (MDD) who were taking and antidepressant but only in a specific time interval.  They did this for the purpose of constructing the above survival curve.  They started with a group of 6,562,955 people on antidepressants between 7/1/2003 and 1/1/2014 and ended up excluding all but 527,907.  Exclusions were based on no diagnosis of MDD in the previous 6 months, no prescription of an AD in the previous 6 months, lack of continuous enrollment in the previous 6-12 months, and pharmacological  therapies that included initiating treatment with more than one AD or 3+ ADs or augmenting agents (AA).  The final study population was 527,907 patients.
+
+Two major endpoints were defined as measures of medication adherence - medication possession ratio (MPR) and proportion of days covered (PDC).  PDC was considered the primary measure of adherence due to previous convention.  Calculations were made at 3, 6, 9, and 12 months.  Persistence and adherence were calculated for each major antidepressant class (SSRI, SNRI, TCA, MAOI, and Other).  Adherence and persistence were calculated across all of these dimensions.  Bar graphs are available in the full text.
+
+Adherence and persistence at 6 months was 31-36%.  SNRIs had the highest persistence and adherence rates at 6 months at 37% and TCAs the lowest at 16-17%.  Looking at the Kaplan-Meier survival above the curves were significantly different with the lowest adherence to initial TCA and MAOI therapy.  The curves also show natural break points at 30 and 90 day intervals that correspond to the typical length of prescriptions although most primary care physicians provide a significant number of refills beyond that.
+
+A study like this has obvious limitations and the authors do a good job of explaining them. Most of them had to do with the limitations of using a database like this one with limited granularity.  For example - no data about the status of the prescriber or practice context.  I would have the question of whether adherence was any different among those given and antidepressant based on a screening questionnaire versus more detailed assessment and follow up.  It would also be interesting to see if subjects seeing psychiatrists were any more adherent than than what I am guessing are the majority of patients being see in primary care.  Surrogate markers for psychiatric care could have been devised based on AD and AA combinations but that would be an imperfect marker since most primary care depression guidelines incorporate these strategies.   There was a very minor erratum (2) essentially a typographic error that does not change the main paper.                      
+
+When I look at a study like this, I always ask myself if the study group resembles the people I am currently seeing or have seen.  In this case 64% of the population was female and 81% were covered by commercial insurance.  Twenty-four percent had comorbid anxiety, 24% had comorbid chronic noncancer pain, and 6% had both.  Sertraline has the largest percentage of prescriptions at 18.7% with only about 5.4% of people on bupropion extended release.  I currently see a large number of people on sertraline or citalopram +/- bupropion augmentation.  Despite the FDA warning about maximum doses of citalopram - I still see people on 60 mg/day or > 40 mg/day who are 62 years of age or older.  Both of those situations were flagged in the FDA warning.
+
+I do find that SNRI medication are better tolerated than SSRI and do not hesitate to make that change sooner than later.
+
+Give the limitations this is an interesting study.  At several levels it matches my experience.  At least 20-40% of people do not tolerate SSRIs very well.  I have also found that  SNRIs are effective and more well tolerated than SNRIs.  The major limitation from my perspective is that without the data that the authors refer to - it is really not possible to design a clinical program that optimized adherence or that provides much of a foundation for the differences.  Many psychiatrists have the experience that they see the same people with severe depression for years.  In many cases plasma levels of antidepressants are measure to optimize dosing but they also confirm adherence.  In other cases, the patients are in settings where medications are administered.  A critical dimension in psychiatric practice is the ongoing relationship with the patient.
+
+Looking at how the relationship with the patient and how that effects adherence is needed, but it is obviously a more difficult study to capture in a retrospective database.              
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  Keyloun KR, Hansen RN, Hepp Z, Gillard P, Thase ME, Devine EB. Adherence and Persistence Across Antidepressant Therapeutic Classes: A Retrospective Claims Analysis Among Insured US Patients with Major Depressive Disorder (MDD). CNS Drugs. 2017 May;31(5):421-432. doi: 10.1007/s40263-017-0417-0. PubMed PMID: 28378157.
+
+
+2: Keyloun KR, Hansen RN, Hepp Z, Gillard P, Thase ME, Devine EB. Erratum to:Adherence and Persistence Across Antidepressant Therapeutic Classes: A Retrospective Claims Analysis Among Insured US Patients with Major Depressive Disorder (MDD). CNS Drugs. 2017 Apr 27. doi: 10.1007/s40263-017-0435-y. [Epub ahead of print] PubMed PMID: 28451963.
+
+
+
+Attribution 1:
+
+The above graphic is directly from reference 1 reposted per terms of the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.  No changes were made to the graphic.  Click on the graphic to enlarge.
+
+
+Thanks:
+
+To Barney Carroll for putting this reference on his Twitter feed.

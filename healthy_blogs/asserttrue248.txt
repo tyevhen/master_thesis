@@ -1,0 +1,21 @@
+In contrast to higher life forms, bacteria usually have compact genomes, with few duplicate genes and very little non-coding DNA. But some bacteria, for reasons not entirely understood, accumulate relatively large genomes. A good example is Sorangium cellulosum, a soil-dweller of the Myxococcales group, whose 14-million-base-pair genome (comprising 10,400 protein-coding genes) dwarfs that of E. coli B (with 4.6 million base pairs and 4,205 genes) and makes the 476-gene genome of Mycoplasma genitalium look puny. Bear in mind that the fruit fly genome contains about 14,000 protein genes (although several times that number of proteins may be produced through alternative splicing of exons).
+
+Exactly why S. cellulosum needs more genes than, for example, baker's yeast (with 12 million base pairs and around 6,700 genes) is anybody's guess. It does have many accessory genes for producing secondary metabolites with interesting antifungal, antibacterial, and other properties (including anti-tumor properties). As a result, many labs are busy mining the Sorangium genome for genes of possible commercial importance.
+Sorangium cellulosum
+
+I recently decided to poke around inside the genome of S. cellulosum myself, looking for evidence of latent secondary structure (internal complementarity regions) in its genes. I was stunned at what I found. When I had my scripts look for complementing intragenic 11-mers (pairs of complementary sequencces of length 11), I found over 36,000 such pairs in Sorangium's genes.
+
+Next, I went a step further and checked each gene for internal complementing sequences of length 14.
+
+Based on Sorangium's actual A, G, C, and T composition stats, and considering all the kinds of 14-mers that actually exist in the coding regions of the genome, I expected to find 991 matching (complementing) pairs of 14-mers in 10,400 genes. What I actually found were 2,942 matching pairs inside 1,928 genes.
+
+To make this clearer, I plotted the expected number of complementary 14-mers per gene versus the actual number per gene, in a graph:
+
+Expected vs. actual complementing intragenic 14-mers for Sorangium. Expectation statistics were calculated individually, for each gene, based on actual A,G,C,T composition stats and gene length.
+The points are arrayed in horizontal lines because while expectations can be calculated to several decimal points, actual occurrences are discrete (whole numbers).
+
+It's fairly evident that length-14 complementary pairs tend to occur at higher than the expected rate(s). In fact, that's true for 98% of occurrences. It might not be obvious (from the above plot) that 98% of points lie above the 1:1 slope line, but that's only because so many points overlap each other.
+
+The bottom line? These results strongly suggest that substantial amounts of secondary structure exist in a significant fraction of Sorangium's genes. The secondary structure could be tied to thermal regulation of gene expression (via RNA thermometers), or some mRNAs could incorporate metallo-sensitive riboswitches; or maybe secondary structure in mRNA is important for certain translocon-targeted genes. There could be other explanations as well. (If you have one, leave a comment.)
+
+Why is this important? For one thing, we need a better understanding of how an organism with 10,400 protein genes regulates and coordinates gene expression. Secondary structure of regulatory and coding-region RNA might well hold important clues. But also, if secondary structure is conserved in large numbers of genes (as I believe it is), it has to affect codon bias. "Complementing" codons would be preferred (at least for certain regions) over non-complementing codons, and this would affect codon choice. It's a factor that has not been considered, to date, in arguments over why codon bias exists.

@@ -1,0 +1,80 @@
+Personality disorders are a difficult topic for me. For one thing, they are highly stigmatized. And I think the term "personality disorder" encourages that stigma by suggesting that there is something terribly wrong with a person's identity, rather than implying that people with these disorders respond to the world in a highly ineffective manner that creates problems for themselves and others. In fact, Butcher describes "personality disorder" in his textbook Abnormal Psychology as: characterized by "chronic interpersonal difficulties and problems with one's identity or sense of self." This description is good as long as we accept that the "problem with one's identity" is that one's self-esteem and view of one's relationships with others is unstable. 
+
+
+Everybody exhibits some dysfunctional beliefs and behaviors, but they should not be diagnosed with a personality disorder unless the behavior is pervasive and inflexible, and causes "clinically significant" distress or impairment in functioning. People with personality disorders generally cause just as many problems for others as they do in their own lives. Most do not recognize the dysfunction in their own thoughts or behaviors; therefore, it is often friends, family, or the law that force people with personality disorders to seek treatment. 
+
+Personality disorders are grouped into three clusters: 
+
+Cluster A includes paranoid, schizoid, and schizotypal personality disorders. People with cluster A disorders tend to be suspicious, paranoid, and/or withdrawn. 
+
+Cluster B includes histrionic, narcissistic, antisocial, and borderline personality disorders. People with these disorders have a tendency towards drama, emotionality, and erratic behavior. 
+
+Cluster C includes avoidant, dependent, and obsessive-compulsive personality disorders. These people tend to experience anxiety and fear. 
+
+Most personality disorders are not caused by a few traumatic events, but by a build-up of many stressors throughout life - like childhood abuse, neglect, or criminal behavior in parents. A child's natural temperament may also have a strong impact on the development of a personality disorder later in life. 
+
+Compared to the other mental illnesses, there is little research on personality disorders. This is because people with personality disorders often do not feel there is anything wrong with themselves, or if they realize there is something wrong, they have less-than-helpful personality characteristics (such as lack of empathy or withdrawn social interaction). Another difficulty in studying people with personality disorders is the large amount of misdiagnosing that occurs. The criteria for diagnosis are more influenced by a clinician's judgement than are the criteria for other mental illnesses. 
+
+Due to these difficulties in diagnosis of personality disorders, much work has been done in developing dimensional systems as an alternative to the cluster model. A dimensional model would rate a person on a set of personality traits, thus providing an overall behavioral pattern. Such an analysis would theoretically be more empirical than the cluster model. Such changes were proposed for the DSM-5, but they were deemed too complex for rushed clinicians and were shunted off into the "Emerging Measures and Models" section. 
+
+One popular dimensional approach is the five-factor model. According to proponents of the Big Five, everyone's personalities can be defined by our strengths and weaknesses in five traits: neuroticism, openness to experience, extraversion, agreeableness, and conscientiousness. Each of these traits are further separated into sub-traits.
+
+Neuroticism: anxiety, anger/hostility, depression, self-consciousness, impulsiveness, and vulnerability. 
+
+Extraversion: warmth, assertiveness, gregariousness, activity, excitement seeking, and positive emotions.
+
+Openness to experience: fantasy, aesthetics, feelings, actions, ideas, and values.
+
+Agreeableness: trust, straightforwardness, altruism, compliance, modesty, and tender mindedness. 
+
+Conscientiousness: competence, order, dutifulness, achievement striving, self-discipline, and deliberation.
+
+Using this model, when a patient comes in for analysis, she would be rated high or low for each of the factors. The overall pattern (combined with knowledge of whether the individual experiences clinically significant distress) can be used to diagnose a personality disorder. Using the five-factor model, only six of the personality disorders would remain:  borderline, antisocial, schizotypal, narcissistic, obsessive-compulsive, and avoidant. The others (paranoid, schizoid, histrionic, and dependent personality disorders) would be dropped. 
+
+Hopefully much research will go into developing a more empirical approach to diagnosis of personality disorders, for I feel that patients would benefit greatly from treatments that target specific dysfunctional traits instead of a generalized "personality disorder." 
+
+If you're interested, there are quite a few Big Five tests on the internet. I just took the Truity test. If you take it, you don't have to create an account. There's a "skip" option. My scores were: 
+
+Open to experience: 80%
+Conscientiousness: 85%
+Extraversion: 57.5%
+Agreeableness: 92.5%
+Neuroticism: 52.5%
+
+Apparently, a score of 50% is considered "average person." This test was fun and gives you an idea of what types of questions might be asked with a dimensional approach to diagnosis; however, it was certainly too short and silly to accurately diagnose a personality disorder. I'm surprised I didn't get a higher score on neuroticism because of my bipolar disorder. Hopefully the test developed by clinical psychologists is much more extensive and precise. :)
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+References:
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 10: Personality Disorders. Abnormal Psychology, sixteenth edition (pp. 328-366). Pearson Education Inc.

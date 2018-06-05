@@ -1,0 +1,3 @@
+Jetpack Menu API Tutorial from Aza Raskin on Vimeo.
+
+I have to admit this is pretty cool from a couple of standpoints. First, an easy Menu API is something Jetpack has needed from the beginning, and this API strikes me as 100% spot-on: logical, intuitive, powerful. Secondly, Pixlr itself is just kick-ass. (That's my nomination for understatement of the year.) And the measly 14 lines of integration code needed to get Pixlr operating on a web image from a right-mouse menu command is (dare I say) one of the nicer parlor tricks I've seen this year. In The Year of the Parlor Trick, that's saying something.

@@ -1,0 +1,26 @@
+When comparing pathogenic bacteria with non-pathogenic species of the same genus or family, we often find a common pattern. In the pathogen:
+The genome is often reduced in size (particularly in endosymbionts, but also in others).
+The genome is often shifted in the direction of higher A+T content (lower G+C content).
+Many pseudogenes are present.
+Often, the pathogen is a slow-grower in pure culture (if it can be cultured at all).
+The pathogen has special nutritional needs.
+An extreme case that illustrates all of these points is Mycobacterium leprae, the leprosy bacterium. It has fewer genes than its cousin, M. tuberculosis (which in turn has fewer genes than non-pathogenic Mycobacteria); its genomic G+C content is 8% lower than most other Mycobacteria; it contains over 1100 pseudogenes; it has a doubling time of two weeks; and it cannot be grown in pure culture (presumably because of fastidious nutritional requirements).
+
+M. tuberculosis can be grown in the laboratory, but it, and its M. avium-group cousins, are very slow growers, taking anywhere from four days to two weeks to develop colonies on solid media.
+
+It seems likely that some pathogens (certainly members of the Mycobacteria, but also the tiny Tenericutes, e.g. Mycoplasma, among many others) have evolved slow growth as a survival strategy. Certainly, organisms that have evolved an intracellular parasitic lifestyle need to be careful not to out-grow the host, if the relationship is to be a long one.
+
+All of the factors listed above suggest a certain scenario, a "pathogen's playbook," if you will, which can be summarized as follows:
+The organism invades a warm-booded host.
+Phagocytes (white blood cells) ingest the organism.
+The phagocytes undergo a respiratory burst, flooding the microbe(s) with peroxides, hypochlorites, nitrous oxide, and other noxious oxidants.
+The flood of reactive oxygenated species triggers an SOS response in the microbe.
+The microbe's DNA undergoes massive damage. 
+Any surviving microbial cells are now pathogenic.
+The SOS response is known to trigger mutagenicity. In Mycobacterium, for example, peroxides (as well as UV light) can induce up-regulation of dnaE, an error-prone polymerase. Since Mycobacteria are known to lack a MutS mismatch repair system, SOS-induced errors in DNA replication will almost certainly include uncorrected frameshift errors leading to the creation of pseudogenes. But that's a good thing, if you're a Mycobacterium interested in forming a longterm relationship with a host cell. The loss of certain genes (as long as they're not essential!) will likely slow your metabolism and make you dependent on host nutrients. Truly non-essential pseudogenes will simply be jettisoned over time, reducing the footprint of the remaining genome. Any pseudogenes that survive will likely have done so because they're now playing an essential gene-silencing role.
+
+Let's expand on that last part. Take the dnaE gene, for example. M leprae has two copies of this gene, only one of which is functional. Suppose both copies were functional at the time of the massive pseudogenization event that converted so many of M. leprae's genes to pseudogenes 9 to 20 million years ago. After the pseudogenization event (probably a phagocytic respiratory burst), one copy of dnaE became a pseudogene. But continued transcription of the pseudogene in the forward direction means the pseudo-mRNA competes with the "normal" dnaE transcript for ribosomal attention. Transcription of the antisense strand of the disabled gene would, of course, create a messenger RNA product that could silence the normal transcript by doublestranded interaction. Either way, once the pseudogenization event is over, dnaE expression is attenuated—as it should be, once pathogenicity has been established.
+
+Is it realistic to think M. leprae transcribes antisense strands of its pseudogenes? Given that E. coli has been found to contain ~1000 antisense transcripts, and given that we know M. leprae transcribes many of its pseudogenes, I think the answer has to be yes.
+
+So the pattern is: infection, respiratory burst, massive mutation, silencing of many genes, and (oh by the way) creation of many brand-new gene products, some of them no doubt quite toxic to the host, as the result of gene truncation and pseudogene expression.

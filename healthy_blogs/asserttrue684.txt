@@ -1,0 +1,15 @@
+Just found a fix for a problem that's been driving me nuts for a month.
+
+A few weeks ago, sometime in early September, I tried to go to the iTunes store and found myself locked out of my iTunes account. Anything I tried to do that involved a transaction of any kind resulted in an alert dialog that said: "iTunes could not connect to the iTunes Store. An unknown error occurred (-9812)." That's it. No diagnostic information, no tips, no links, no help whatsoever. A less useful dialog box, I cannot begin to imagine.
+
+Apple's site was of no use whatsoever. The troubleshooting advice I found there was incredibly lame. And of course, the -9812 error code means exactly what the dialog says it means: Unknown Error.
+
+I figured there must be someone, on one of the forums, who would have found the answer to this problem. I did a lot of searching (and wading through a lot of lame "did you try this? did you try that?" non-answers), to no avail.
+
+Finally, on September 18, Mike P. Ryan posted what (for me) turned out to be the solution, on discussions.apple.com.
+
+The problem? A corrupt or missing trusted root certificate for iTunes. How or why this got messed up on my Vista machine, I don't know, but the same thing has clearly happened to boatloads of people, judging from the uproar on the discussion boards. The cure is to download Microsoft's latest trusted root certificate update from here: http://www.microsoft.com/downloads/details.aspx?FamilyID=f814ec0e-ee7e-435e-99f8-20b44d4531b0&displaylang=en. Follow the wizard instructions carefully, because you need to download two executables, not just one.
+
+Note that the fix works for Win XP as well as Vista.
+
+Mike, if you're reading this, thanks!

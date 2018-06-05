@@ -1,0 +1,19 @@
+I hate industry-jargon buzzwords, but I think it's not too early to promote a new one for 2010. I'm suggesting Appliance-Oriented Architecture (AOA). And yes, I think it just may be the Next Big Thing in IT (assuming IT isn't dead).
+
+The big "Aha!" moment for me on this came when I was thinking about the Oracle Sun deal and realized that the true consequence of it was (is) that Oracle now enters the hardware biz, after being a pure software company since the beginning.
+
+What does being a hardware company do for Oracle? It allows the company to create special-purpose hardware-software rollups known, colloquially, as appliances.
+
+The marketing implications are far-reaching, of course, but consider the technical implications: Oracle gets to control the tuning and optimization of its software straight down to the bare metal. (And we know Oracle likes control.) Performance takes a huge jump when you can optimize for the hardware -- and for the OS. Let us not forget, Sun is an operating system company as well.
+
+The possible synergies for Oracle of having direct control over hardware, OS, and software as a unified package are enormous.
+
+What would Oracle put inside an appliance? How about a database-warehouse stack that "just works," for starters. But let's don't limit our thinking to databases. Remember, Oracle is also in the search business (with Oracle Secure Enterprise Search). Oracle gains the potential to introduce a search appliance to go head-to-head with Google. Oracle is also an ECM player. Let your imagination run wild.
+
+In this context, the Sun deal is understandable as an Oracle response to the soon-to-be-previewed HP-Microsoft "Midas" appliance. Which I again see jumpstarting a move to Appliance Oriented Architecture.
+
+Like all buzzwords, AOA encapsulates concepts and methodologies that are already in wide practice today (but haven't been rolled up, semantically, under one catchphrase). So let's not get carried away over-analyzing the term itself. The IT fantasy of plug-and-play black boxes that can be gridded together into an instant solution to hard problems is going to remain just that: a fantasy. AOA doesn't change it.
+
+I do think, though, that the success of the Google appliance(s) has proven the existence of an untapped market for enterprise blackboxware, a market whose potential will be exploited in new and exciting ways by Oracle, Microsoft, HP, and others, going forward. We'll see BI-in-a-box, search-in-a-box, and just-about-everything-else-in-a-box, possibly including boxes in a box (think search-on-a-blade, BI-on-a-blade, and so on).
+
+Put it on your calendar: Q1, 2010. AOA becomes real.

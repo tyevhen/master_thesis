@@ -1,0 +1,5 @@
+In the ever-widening quest for richer web widgets, the Dojo guys, it turns out, are considering implementing their own 2D graphics API. It would actually be a bunch of wrappers around SVG, VML, and Canvas methods, of course. The primary target is SVG.
+
+Implementing this for even a small subset of SVG will be arduous. (The Flash ninjas must be laughing themselves sick right about now.) I'm tempted to dismiss Dojo 2D as a quixotic quest. But I also know AJAX developers are clamoring for just this sort of thing, and I'm sure Dojo 2D will be a scandalous success.
+
+Performance is apt to be underwhelming (SVG is already sluggish enough without wrapper layers), but that's never stopped a market disruptor before, and anyway, Dr. Moore can't be far behind with the cure.

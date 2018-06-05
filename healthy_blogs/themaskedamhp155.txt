@@ -1,0 +1,41 @@
+The Mental Health Act attaches a lot of importance to the concept of “nature or degree” in relation to mental disorder. In fact, the MHA refers to “nature or degree” at least 18 times (I’ve counted).
+
+For example, Sec.2(a) states:
+“(2) An application for admission for assessment may be made in respect of a patient on the grounds that he is suffering from mental disorder of a nature or degree which warrants the detention of the patient in a hospital for assessment (or for assessment followed by medical treatment) for at least a limited period.”
+
+The distinction between “nature” and “degree”, and its implications for practice, is a complex one. On a day to day basis, an AMHP tends to be more concerned with the “degree” of mental disorder present on assessment. For a patient not previously known to mental health services, the “nature” of their mental disorder may be unknown or unclear.
+
+Someone who has taken amphetamines or a hallucinogen like LSD may present with symptoms difficult to distinguish from schizophrenia or bipolar affective disorder. It is only when the effects of the drugs have worn off that it might become clear that they do not have a mental disorder at all. Similarly, an older person with a urinary tract infection may present with symptoms very similar to dementia or other mental illness. It is only when there has been an opportunity to diagnose and treat the infection that it is apparent that they do not have a mental disorder.
+
+I have detained many people presenting with acute indications of severe mental illness who have, following admission, been found to have taken drugs, or have some other organic cause for their presentation, which has quickly resolved with the passage of time or physical treatments. I recall the psychiatrist and I being convinced that someone being assessed at the CMHT had all the signs of bipolar disorder: pressure of speech, flight of ideas, sleeplessness, hyperactivity and irritability. However, on admission it was discovered that he had been drinking 10 or more cans of Red Bull daily prior to the assessment, and after a night in hospital he returned to normal.
+
+Detention under Sec.2, then, might commonly occur when someone is presenting with symptoms of a “degree which warrants the detention of the patient in hospital for assessment”, but where the nature of their disorder may be far from clear.
+
+“Nature” becomes more important when assessing someone under Sec.3, for treatment. Anyone being considered for detention under Sec.3 should have some sort of working diagnosis of mental disorder, and the psychiatrist should have a pretty clear idea of the sort of treatment that is required to treat that disorder. The patient must therefore have a mental disorder of a sufficient “nature” to warrant detention for treatment.
+
+In fact, not only must the psychiatrist state on the medical recommendation that the patient has “a mental disorder of a nature or degree which makes it appropriate for the patient to receive medical treatment in hospital”, but he or she also has to give an account of the symptoms that have led them to that conclusion, the sort of treatment the patient requires, and where that treatment is available.”
+
+If someone is in hospital at the time of assessment, “degree” is also very important; the AMHP needs to be satisfied that the patient has active symptoms of mental illness or disorder that require treatment in the first place to alleviate them.
+
+It can, however, become more complicated when someone in the community is being considered for detention under Sec.3. While normally, both nature and degree should be present in order to justify detention for treatment, there are circumstances in which it may be justifiable to detain someone who has a known diagnosis, for example, paranoid schizophrenia, and therefore has a mental disorder of a “nature”, but who is currently symptom free.
+
+In Smirek v Williams [2000] MHLR38, it was noted:
+“”Where there is a chronic condition, where there is evidence that it will soon deteriorate if medication is not taken, I find it impossible to accept that that is not a mental illness of a nature or degree which makes it appropriate for the patient to be liable to be detained in hospital for medical treatment if the evidence is that, without being detained in hospital, the patient will not take that treatment”.
+
+Richard Jones (Mental Health Act Manual) makes the proviso that making a decision to detain in such a case should be based on an assessment of the risk to the patient or others if they are not treated.
+
+(I once detained a patient under Sec.3 who had made an advance decision requesting that she be detained if she became unwell and no longer had the capacity to make an informed decision about admission. In the past, she frequently damaged and destroyed her property when unwell, and would be understandably very distressed about this when she recovered.)
+
+The question of “nature or degree” invariably arises in Tribunal hearings. Here, if the Tribunal is not satisfied that a patient is, at the time of the Tribunal, suffering from “mental disorder of a nature or degree which warrants detention in hospital” for either assessment or treatment, then they have to discharge the patient. They will therefore be keen to establish from the psychiatrist whether mental illness of a nature or degree or both are present in the patient.
+
+The case of R (Smith) v MHRT South Thames Region (1998) EWHC Admin 832 very usefully examined the issue of “nature and degree”, especially in connection with Tribunals. This case related to a patient with a diagnosis of paranoid schizophrenia who appealed against his detention. A Tribunal considered that he had a mental illness of a nature but not a degree which warranted his detention in hospital. He challenged the legality of this decision.
+
+The judge concluded: “It is quite clear that the illness was not of a degree which of itself made it appropriate for him to be liable to be detained. The reason for that was because he has a chronic condition which was static. However, the nature of the condition was that it might cease to be static so that the interpretation that nature is in some way unchanging in one view may be right, but the effect of the condition is that because of its very nature it may not remain static. It seems to me that if the facts upon which the Tribunal rely have shown that it may not be static, that goes to the nature of the condition. The degree in the instant case, in relation to his condition, was not relevant because it was static and stable.”
+
+He went on to state: “If one had simply to look at the degree it would have been right for the discharge to take place, but the nature of the condition was such that it was clear that he should not be discharged.”
+
+This decision was widely quoted in both the Reference Guide and the Code of Practice and has become  the primary legal definition. C4.3 of the COP unequivocally states: “Nature refers to the particular mental disorder from which the patient is suffering, its chronicity, its prognosis, and the patient’s previous response to receiving treatment for the disorder. Degree refers to the current manifestation of the patient’s disorder.”
+
+Whether you are presenting a social circumstances report or a medical report to a Tribunal, it is vital to understand this distinction. I have seen solicitors in Tribunals tearing inexperienced psychiatrists to pieces when they have sensed that they are unclear about the importance of establishing “nature and/or degree” and the difference between the two.
+
+It’s not a pretty sight.

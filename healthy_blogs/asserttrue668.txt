@@ -1,0 +1,17 @@
+This one baffles me. A friend pointed out to me that Novell, a company "with over 20 years of experience in identity and security," a company that in fact specializes in identity management, has been named a Bronze Sponsor of SYS-CON's 5th International Cloud Expo.
+
+Why is that so hard to believe? Simply because SYS-CON is a company that spoofs the identities of its writers and writes stories that hype supposed takeover targets.
+
+I know of one case, in particular, where a SYS-CON reporter's identity is fake. That would be the identity of the reporter (avatar) known as Yeshim Deniz. It turns out Yeshim Deniz is actually a stock photo called "Friendly Smile." However, that doesn't keep Yeshim from hyping TIBCO stock in a SYS-CON year-end prediction blog. The blog (which was widely read by amateur investors; see, e.g., the Yahoo stock message boards) says TIBCO will be acquired by IBM shortly.
+
+SYS-CON "reporter" Yeshim Deniz
+
+Coincidentally, SYS-CON happens to publish an online magazine called NOW Magazine. Tibco's Marketing VP Ram Menon is the "Publisher" of NOW Magazine.
+
+Does anyone else smell that odor?
+
+The story about Novell becoming a Bronze Sponsor of Cloud Expo was written by SYS-CON reporter (avatar?) Elizabeth White. Oddly, though, Elizabeth White's head shot is named "Susan Ulitzer headshot.bmp".
+
+When a better reporter than I am gets to the bottom of all this, maybe we'll get an explanation for some of this chicanery that makes sense. Right now, it's making no sense to me. What I see is a company that puts fake names and fake photos over reporter bylines, in order to hype things like TIBCO stock and "Cloud Expo." Maybe I'm missing something, but it all looks like fraud to me. I think that's a reasonable opinion. Don't you?
+
+In the meantime: Novell, shame on you for sponsoring identity chicanery. You really don't need this right now.

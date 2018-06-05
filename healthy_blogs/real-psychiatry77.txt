@@ -1,0 +1,64 @@
+"If it isn't documented it didn't happen!"
+
+That is the documentation fallacy in a nutshell.  At first it seems like an obvious truth.  A silence falls on the crowd, everyone looks at the floor, and we move on.  Fallacy accepted.  I have seen the scene play out a thousand times, scripted by unimaginative attendings.  It is also scripted by administrators and attorneys who have a lot more invested in the process.  I can still recall a malpractice scenario in one of my throw away journals in residency.  A malpractice attorney walks in to depose an internist.  The patient in question is a diabetic who has lost his right leg to gangrene.  The attorney is questioning the doctor about wound care provided to the patient.
+
+Attorney:  "Reading from your notes doctor what leg did you treat when you saw the patient."
+MD:  "I treated the patient's left leg."
+Attorney:  "Are you absolutely sure.  Did you document treatment of the left leg?"
+MD:  "Yes I am sure - you can read it right here in the notes."
+
+Case closed.  The attorney was hoping for no right or left designation in the original chart and an easy malpractice settlement.
+
+This is a powerful vignette about why documentation needs to occur and how it can be protective in terms of risk management and avoiding malpractice litigation, but is it really that simple?  To take a look at the fallacious aspects of that statement requires an examination of what I call the period of excessive and useless documentation.  I will provide a couple of anchor points.
+
+The first is my neurosurgery rotation in both my third and fourth years in medical school.  I was on a very busy neurosurgical service at Froedtert Memorial Hospital in the early 1980s. The hospital was brand new and there was a question of what services would be located there,  Neurosurgery and Neurology occupied an entire floor.  The team consisted of two senior neurosurgery residents, two general surgery interns, a general intern, and a medical student.  The residents spent a great deal of time in the operating room with the staff neurosurgeons and efficiency was critical to the entire operation.  We had to round on 20-30 intensive care unit (ICU) and general beds and discuss it with the residents by 10AM in a conference room.  All of the daily documentation had to be done by that time, because all day and night long there were calls to the emergency department (ED) and the ICU.  The ED consults involved a brief walk over to Milwaukee County Medical Center - the next building to the east (in those days) on the grounds.
+
+A standard hand written progress note on a non-ICU patient on this service in those days was "Afebrile, VSS, wound looks good - no signs of infection."  We of course checked all of the wounds, labs, vital signs and did other focal exams as necessary.
+
+Flash forward to just before 911.  I am sitting in a conference room with colleagues from my multispecialty group. We are listening to a presentation by a billing and coding specialist on all of the bullet points that are necessary to complete a note.  The examples shown are notes of about 300 to 500 words in length.  We are told that unless all of the bullet points are ticked off or commented on we could be prosecuted for billing fraud.  Not only that, but if a "fraudulent" bill goes out in the mail we could be prosecuted for mail fraud and possibly conspiracy under the anti-racketeering RICO statutes.  There had been several high profile prosecutions of health care organizations and individual practitioners with FBI involvement at the time.  We were told that our healthcare organization at the time now had an internal compliance bureau that would audit all of our notes to make sure the bullet points were checked of to avoid the large multimillion dollar fines and of course jail time.  A racketeering charge could result in federal prison time.  Clinical notes used by physicians had suddenly been usurped for an entirely different purpose - legal leverage by government agencies and businesses.  That leverage is used to deny payment, ration services, and generally exhaust physicians so that they don't have time to fight these tactics.
+
+Flash forward a third time.  The year is 2009.  I am now sitting in a large multispecialty committee meeting on documentation and hospital oversight.  We are given several hospital progress notes that are 16-18 pages long.  That is a single progress note from one day that is 18 pages long.  We are told that several physicians are routinely compiling notes this long.  I say compiling because the electronic health record being used allows physicians to rapidly pull data in to the note from many places in the chart to rapidly build the note.  It also allows physicians to build their own custom templates and phrases to add to the note.  The note looks terrible because it is a mix of fonts and spacing - a great example of the primitive state of the electronic health record (EHR) that persists right through to today.  All of the notes are designed to meet billing criteria determined by the federal government rather than demonstrate contact with an intelligent life form.  EHRs - even fabulously expensive ones seldom produce a coherent, readable document and may even spread that incoherence over a ream of paper if you ask for the records.
+
+That has been the progression of excessive and useless documentation as I have experienced it in my career.        
+
+But here's the reality.  If I spend 60 minutes with a patient and don't tick off some bullet points that don't really apply to what I am doing - don't think for a minute that "if it isn't documented it didn't happen."  Try that experiment yourself.  Sit down and have a one hour conversation with a friend and then decide how you are going to document what happened.  I have been a student of Communication Theory since I read the first paper by Shannon And Weaver and and have never seen an adequate discussion of optimal information transfer between two people or how it should be recorded.  The only way to get to the content would be a verbatim recording or transcript and that would contain a lot more information than is typically contained in one of my notes.  I could try to approximate that by writing an 18 page note but let's also assume that like most doctors you have 5 - 10 minutes to document something.  It is obvious the vast majority of communication that happens will not be documented.  In psychiatry there is the added issue of people who say: "I want to talk about this but I don't want you to put it in the medical record."  That information is generally very sensitive and in some cases is considered privileged psychotherapy information separate from the medical record and unavailable to other providers.  It is still a question of what gets documented, but what is documented is still information depleted relative to the original conversation.
+
+Now - let's consider what the US government and by default most insurance companies want physicians to do.  For a standard outpatient assessment of varying intensities there are a number of  "bullet points" required to meet billing criteria.  That means that a certain number of them need to be checked off.  If they are - the bill can be submitted.  There are huge quality problems with that approach.  I previously posted the questions that I ask about sleep to practically all of the patients I see for evaluation whether they have a primary sleep compliant or not.  On a lot of outpatient forms a sleep complaint is a single check box.  On the most widely used screening tool by managed care organizations for their collaborative care approach - the single question is:  3. Trouble falling or staying asleep, or sleeping too much.  The choices are "not at all", "several days", "more than half of the days", and "nearly every day".
+
+Think about that sleep screening question for a moment.  It is important because a lot of managed care clinics have it right in their electronic health record.  The patient may check it off on a tablet and it is imported into their record  on an ongoing basis.  After all of that whiz bang technology what do we know?  We know that the patient has one of three sleep problems (even a physician with a paper form could circle one and immediately upgrade the quality of information).  And we know approximately how many days per week the problem exists.  Go back to my sleep questions and compare the information content.  And yet these managed care settings are highly likely to have somebody sitting in a meeting, looking slightly annoyed and endlessly voicing the Documentation Fallacy and the importance of these checklists.  In the case of the questionnaire and many if not all template approaches - it was documented and you don't really know what happened.
+
+In addition to poor quality, low information content, reduced direct patient contact time, and excessive time taken to generate - notes that are designed for billing and administrative purposes are also a drain on the environment. On current hospital medical records systems  they take up disc space.  Not as much as imaging data, but when you look at the graphic at the top of this page - all of these low quality, information poor notes are piling up by the tens of thousands every day.  Contrary to the traditional use - for relevant historical data and to learn what previous physicians were thinking - we currently have exabytes of data that is so information poor it is generally never seen again.  It was viewed once by a billing and coding specialist and once by an insurance company and then it is banished to one of the storage arrays that are running 24/7 - never to be read again.  More importantly - never to be read by a doctor again.  Thirty years of stakeholder meetings got us here in the first place.  If physicians cannot finally assert themselves - the profession will continue to do this scutwork till the end of time.
+
+So when you hear the Documentation Fallacy uttered - feel free  to gasp and roll your eyes.    
+
+
+
+George Dawson, MD, DFAPA
+
+
+
+Supplementary 1:
+
+The American College of Physicians is the only physician professional organization to take a stand on the unnecessary administrative burden placed on physician in the United States.  That is a very recent position and a departure from the usual positions taken by professional organizations that physicians should be prepared to fall into lock step and do whatever documentation that governments or insurance companies or electronic health record manufacturers want them to do.  You can read Putting Patients First by Reducing Administrative Tasks in Health Care: A Position Paper of the American College of Physicians at this link.  It is obviously a politically correct approach that is basically a call to stakeholders.  Stakeholders with a conflict of interest like looking for any excuse to not pay or pay less will not be motivated to change 30 years of what amounts to physician exploitation.
+
+A quote from that position paper:
+
+"Related work by Sinsky and colleagues (46), also discussed earlier, focused on how physician time is allocated in ambulatory care and found that physicians spent 49.2% of their time on EHR and desk work, versus 33.1% on direct clinical face time with patients and staff."
+
+
+Supplementary 2:
+
+I posted this a while ago on some additional documentation that psychiatrists were supposed to do about quality to avoid payment penalties.  If you follow the link Physician Quality Reporting System you will be taken to the APA web site.  Note in the right column a heading called  View the list of 2017 MIPS Individual Quality Measures.  A click on that link leads to a long list of various "quality measures" and how to report them.
+
+Supplementary 3:  
+
+I have not had time to go through all of the documents on the APA web site but a number of them are written by the NCQA and NQF.  Neither of these organizations would be considered as quality initiatives by physicians.  In my opinion, the NCQA started as a managed care heavy organization and I am sure any objective analysis of the outcome measures would illustrate that.  The NQF started by political mandate and I am sure carries forward the usual political biases of all of the self declared health care experts sitting in Congress.  So how do they end up as further reasons for more documentation by physicians who are cranking out so much paperwork that they have no time to see patients?  And how do they end up on the web page of a physician professional organization?
+
+A telling statistic from the NQF web site: "30% of NQF endorsed measures are developed my medical specialty societies."  Where do the rest come from?
+
+
+
+Attribution:
+
+Graphic at the top is from Shutterstock per their standard licensing agreement.  Credit is
+"Stack of the old paper documents in the archive." by Loginova Elena.

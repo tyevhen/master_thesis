@@ -1,0 +1,3 @@
+I owe this one to my colleague Stephen Holmes in Dublin, who today pointed me at the freely downloadable version of Ross Anderson's superb Security Engineering. This is without a doubt one of the finest free online books (of any kind) that I've ever seen, beyond being a celebrated classic in security circles for several years now. The author is a Professor of Security Engineering at the University of Cambridge's Computer Laboratory. Even so, he writes entertainingly. ;^)
+
+The chapters are individually downloadable, or you can shag the whole book. For a quick look, I recommend Chapter 11 (which had me utterly spellbound).

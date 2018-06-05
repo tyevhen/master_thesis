@@ -1,0 +1,9 @@
+I finally found the ultimate no-frills super-lightweight 3D library written in Java: Peter Walser's idx3d framework. (Freeware, of course.)
+
+After playing with idx3d for a month, I'm still astonished at how much functionality Peter crammed into just 29 (count 'em) .java files. The code is streamlined and easy to follow (a rarity in 3D engines). No frills, no baroque overfactoring, no "let's be fully general so as to handle the occasional weird-ass edge-case even if it means slowing everything else down."
+
+I've found the idx3d code to be extremely stable, reasonably fast (again, a rarity in Java 3D engines), and after 30 hours of flogging it mercilessly in Eclipse (on Novell SUSE Linux Enterprise Desktop), I have yet to see an OutOfMemoryError.
+
+The most wonderful thing about Peter Walser's code is that it was written in Y2K (back when Java was lean and mean) and has very few JRE dependencies: you'll see an occasional java.util class, but for the most part, Walser's code files contain no imports. Which is astonishing.
+
+If you're interested in 3D programming, check this thing out.

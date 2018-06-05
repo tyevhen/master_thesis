@@ -1,0 +1,42 @@
+Part I of this chat with Dr. Taylor of St. Jude Children’s Hospital was published Wednesday.  Part I also included links to the press release and published paper Dr. Taylor is referring to in this chat.
+
+
+
+
+JPT:  What we learned from this project was which portions of the AR were necessary for the whole toxic cascade to take place.  At first our results pointed to a few things that we already knew - like the fact that AR needed to be able to bind hormone and needed to be capable of transport to the nucleus - but this gave us confidence to continue.  Subsequently we began to find a whole series of additional portions of AR that were important to the toxic cascade, and some regions that were essential.  Most notably, we found that to be toxic, mutant AR had to be able to bind to DNA in the nucleus and also bind to transcription related factors.  This is the normal function of AR...to regulate gene expression at the genome level through the regulation of "transcription" - the process of making RNA that are later translated into new proteins. 
+
+Now, I imagine that this may all sound pretty esoteric.  Who cares if mutant AR has to bind DNA and transcription factors, right?  Well the reason this matters is two-fold.  First, it is a major conceptual change...indicating that the toxicity of AR, and the specific patter of disease that defines KD, is defined by the native function of AR ... blah blah blah...that part is for the techno geeks.
+
+
+
+Second, and of greater practical importance is the fact that it tells us that the way to block AR toxicity is to block normal function or at least some aspects of normal function.  We all know from mouse studies done by Gen Sobue 8 years ago that if male mice are deprived of all androgen they never develop disease.  Our findings are completely consistent with that and in fact explain the result.
+
+I'm sorry if I'm making this sound complicated..it's actually pretty straightforward, just very challenging to explain in this format.  The thing to keep in mind is that the AR doesn't have one, single function.  It interacts with many protein, probably hundreds, and carries out multiple functions.
+
+I think it's likely that if we wiped out AR function altogether we would stop disease progression, but I don't think that's a good strategy and here's why.  There's all kinds of good things AR is doing...even in KD patients.  In addition to maintaining males features, it is also contributing to strong muscle and bones.  So if we wipe out AR altogether it may be a net negative.
+
+The question is whether we can inhibit some aspects of AR function (the parts that drive disease) while leaving the good parts intact.  Sounds daunting, right?  Well, fortunately, we are not alone in this.  Every big drug company out there is working on this.  Why?  Well, frankly, it's not because of KD.  The market is just too small.  There's a long list of conditions in which it is desirable to selectively inhibit certain function of the androgen receptor and leave the rest intact.  Now, it turns out that not only did our study inform us that the native function must be targeted, it also told us that we need to target a very specific region of the protein.  A small domain down at the very tip of the protein called "AF2."  It just so happens that this is a favorite target of the drug companies too. 
+
+
+
+So...what do we do now?  Two big things.  First, we must see whether my whole hypothesis is right.  Many people think I'm wrong, by the way.  After all, our results came from an insect.  Maybe things works different in humans.  That's the first big thing to validate our results in a mammal.  We are now making a small number of certain types of mice to re-test our hypothesis, but if we don't follow up, who will?  So we are pursuing the second big thing. 
+
+The second big thing is trying to identify small molecule compounds that target AF2 (the small portion at the tip of the AR protein) to see if we can identify a drug that stops the bad activity of mutant AR but leaves the good stuff intact. 
+
+And, that's where we are today.
+
+Question:  Paul, how long do you feel it will take to validate your findings in a mouse model?
+JPT:  We have made the transgenic models already, but we are trying to confirm that they express the different versions of mutant AR is at the right place at the right time.   I expect within a year.
+
+Question:  Will your hypothesis counteract or reinforce the function of ASC-J9?
+JPT:  Ahh, very interesting.  How does ASC-J9 work? Well, interestingly enough, there is conflicting evidence.  There is some evidence that it inhibits AR directly by interaction with AF2.  There is also evidence that it accelerates degradation.  Those two observations are actually compatible because inhibition of AF2 binding to partners may be the way it destabilizes the protein and promotes degradation.  I actually think this is likely.
+
+ASC-J9 works wonderfully in the fly model (we have not published this) and as you know it works well in a mouse model.  Right now we use that as our gold standard.  And it may turn out that we get fully behind ASC-J9 as the best candidate for a clinical trial, but we don't want to settle on it until we test it head to head against other AF-2 targeting compounds (and yes, there are many).
+
+Question:  Is IGF-1 one of them?
+JPT:  IGF-1 is a different animal that may be a terrific amplifier of the kind of compound we are seeking because IGF-1 strengthens muscle and slightly inhibits AR function. 
+
+Comment:  Amazing findings Paul!  You have provided a mid-course correction that will possibly prove to be invaluable to finding a cure for KD.
+JPT:  we shall see...I hope so. 
+
+Note:  Dr. Taylor, as well as several other researchers, will be attending the KDA Conference and Symposium in San Diego in early November.  At the conference, these researchers will discuss current research and findings as well as answer question about Kennedy’s Disease.

@@ -1,0 +1,23 @@
+I don't know when it happened exactly but if I had to guess it was somewhere in the mid-1990's.  That was the time when quality changed from a medically driven dimension to a business and public relations venture. The prototypical example was this depression guideline promulgated by AHCPR or the  Agency for Health Care Policy and Research.  The guideline was written by experts in the field and there was consensus that it was a high quality approach to treating depression in primary care settings. One of my colleagues used this guideline in its original form to teach family practice residents for years about how to treat depression in their outpatient clinics. The actual treatment algorithm is listed below:
+
+
+
+Managed care companies had a different idea about treating depression not only in primary care settings but also in psychiatric clinics. In less than a decade the standard of care had devolved to the point where antidepressants were started on the initial visit and the standard outpatient follow-up was at one month. In addition, even though cognitive behavioral therapy was proven to be effective for the treatment of depression the standard course recommended in those research studies was never used. It was common then and even more common now for depressed patients to see a therapist and be told that they seem to be doing well after two or three sessions and there is probably no need for further psychotherapy. They typically did not receive the research proven approach.
+
+The latest innovation is to assess and treat depression in outpatient clinics on the basis of a PHQ-9 score, and have psychiatrists follow those scores and additional information from a case manager in recommending alterations in therapy for patients with depression.  Although it was never designed to be a diagnostic or outcome measure the PHQ-9 is used for both.
+
+The current model of maximizing medical treatment of depression in managed care clinics is an interesting counterpoint to psychiatrists bearing the brunt of criticism for over treating depression with ineffective antidepressants. The recent FDA warning about prolonged QTc syndrome from citalopram is another variable that suggests there are potential problems in maximizing antidepressant exposure across a primary care population where the number of people responding to psychotherapy alone is not known but probably significant.
+
+There is another aspect of treating depression in primary care clinics that illustrates what happens when you think you are treating a population of people with depression. The new emphasis by politicians and managed care companies is screening for early identification of problems. The political spin on that is early intervention will reduce problem severity and of course save money.  Various strategies have been proposed for screening primary care populations for depression. It reminds me of the initiative to ask everyone about whether or not they have pain when their chief complaint has nothing to do with pain.
+
+In the Canadian Medical Journal earlier this year, Thombs, et al, concluded that the evidence screening is beneficial and the benefit outweighs the potential harm is currently lacking and that study should be done before depression screening in primary care clinics is recommended. A recent op-ed by H. Gilbert Welch, M.D. in the New York Times is more accessible in the discussion of the risks of screening.
+
+The irony of these approaches to depression in primary care clinics can only be ignored if the constant drumbeat of managed care companies about how they are going to save money and improve the quality of care is ignored. Despite the frequently used buzzword of "evidence-based medicine" this has nothing to do with evidence at all. It is all smoke, mirrors and public relations.  It makes it seem like managed care companies can keep you healthy when in fact they have all they can do to treat the sick and make a profit.
+
+That is the true end result when medical quality dies and politicians and public relations takes over.
+
+George Dawson, MD, DFAPA
+
+Thombs BD, Coyne JC, Cuijpers P, de Jonge P, Gilbody S, Ioannidis JP, Johnson BT, Patten SB, Turner EH, Ziegelstein RC. Rethinking recommendations for screening for depression in primary care. CMAJ. 2012 Mar 6;184(4):413-8.
+
+H. Gilbert Welch.  If You Feel O.K., Maybe You Are O.K.  NY Times February 27,2012.

@@ -1,0 +1,147 @@
+Something very strange happened the other day.
+
+I was fooling around looking for flagellum genes in various organisms, hoping to find homology between bacterial flagellum proteins and eukaryotic cilia proteins. All of a sudden, a search came back positive for a bacterial gene in rice, of all things.
+
+On a lark, I decided to check further. ("If one gene transferred, maybe there are more," I reasoned.) It was late at night. Before going to bed, I downloaded the DNA sequence data for all 3,725 genes of Enterobacter cloacae subsp. cloacae strain NCTC 9394 and set up a brute-force BLAST search of the 3,725 bacterial genes against all 49,710 genes of Oryza sativa L. ssp. indica. I set the E-value threshold to the most stringent value allowed by the CoGeBlast interface, namely 1e-30, meaning: reject anything that has more than a one-in-1030 chance of having matched by chance. I went to bed expecting the search to turn up nothing more than the one flagellum protein-match I'd found earlier.
+
+When I woke up the next morning, I was stupefied to find that my brute force blast-n (DNA sequence) search had brought back more than 150 high-quality hits in the rice genome.
+
+I later found 400 more bacterial genes, from Acidovorax, a common rice pathogen. (Enterobacter is not a known pathogen of rice, although it has been isolated from rice.)
+
+But before you get the impression that this is some kind of major scientific find, let me cut the suspense right now by telling you the bottom line, which is that after many days of checking and rechecking my data, I no longer think there are really hundreds of horizontally transferred bacterial genes lurking in the rice genome. Oh sure, the genes are there, in the data (you can check for yourself), but this is actually just a sad case of garbage in, rubbish out. The Oryza sativa indica genome, I'm now convinced, suffers from sample contamination. That is to say: Bacterial cells were present in the rice sample prior to sequencing. Some of the bacterial genes were amplified and got into the contigs, and the assembly software dutifully spliced the bacterial data in with the rice data.
+
+My first tipoff to the possibility of contamination (aside from finding several hundred bacterial genes where there shouldn't be any bacterial genes) came when I re-ran my BLAST searches using the most up-to-date copy of the indica genome. Suddenly, many of the hits I'd been seeing vanished. The most recent genome consists of 12 chromosome-sized contigs. The earlier genome I had been using had had the 12 chromosomes plus scores of tiny orphan contgis. When the orphan contigs went away, so did most of my hits.
+
+When I looked at NCBI's master record for the Oryza sativa Indica Group, I noticed a footnote near the bottom of the page: "Contig AAAA02029393 was suppressed in Feb. 2011 because it may be a contaminant." (In actuality, a great many other contigs have been removed as well.)
+
+When I ran my tests against the other sequenced rice genome, the Oryza sativa Japonica Group genome, I found no bacterial genes.
+
+Contamination continues to plague the Indica Group genome. The 12 "official" chromosomes of Oryza sativa indica have Acidovorax genes all over the place, to this day. I suppose technically, it is possible those genes represent instances of horizontal gene transfer. But if that's what it is, then it's easily the biggest such transfer across species lines ever recorded. And it happened only in the indica variety of rice, not japonica. (The two varieties diverged 60,000 to 220,000 years ago.)
+
+The following table shows some of the Acidovorax genes that can be found in the Oryza satisva Indica Group genome. This is by no means a complete list. Note that the Identities number in the far-right column pertains to DNA-sequence similarity, not amino-acid-sequence similarity.
+
+Acidovorax Genes Ocurring in the Published Oryza sativa indica Genome
+Query gene
+Function
+Rice gene
+Query coverage
+E
+Identities
+Aave_0021
+phospho-2-dehydro-3-deoxyheptonate aldolase
+OsI_15236
+100.0%
+0.0
+93.6%
+Aave_0289
+orotate phosphoribosyltransferase
+OsI_36535
+100.0%
+0.0
+96.8%
+Aave_0363
+lipoate-protein ligase B
+OsI_15083
+100.0%
+0.0
+94.6%
+Aave_0368
+F0F1 ATP synthase subunit B
+OsI_15082
+100.0%
+0.0
+98.9%
+Aave_0372
+F0F1 ATP synthase subunit beta
+None
+100.1%
+0.0
+98.2%
+Aave_0373
+F0F1 ATP synthase subunit epsilon
+OsI_15081
+100.0%
+0.0
+97.8%
+Aave_0637
+twitching motility protein
+OsI_37113
+100.1%
+0.0
+95.5%
+Aave_0916
+general secretory pathway protein E
+OsI_17332
+86.9%
+0.0
+96.6%
+Aave_1272
+NADH-ubiquinone/plastoquinone oxidoreductase, chain 6
+OsI_28652
+100.0%
+0.0
+97.3%
+Aave_1273
+NADH-ubiquinone oxidoreductase, chain 4L
+OsI_28651
+100.0%
+3e-174
+100%
+Aave_1301
+DedA protein (DSG-1 protein)
+OsI_21534
+97.3%
+0.0
+96.8%
+Aave_1312
+hypothetical protein
+OsI_15703
+99.8%
+0.0
+93.4%
+Aave_1948
+histidine kinase internal region
+OsI_23297
+100.0%
+0.0
+96.3%
+Aave_1950
+hypothetical protein
+OsI_23296
+100.0%
+0.0
+96.6%
+Aave_1957
+penicillin-binding protein 1C
+OsI_15534
+100.1%
+0.0
+92.8%
+Aave_1958
+hypothetical protein
+OsI_15533
+99.2%
+0.0
+92.2%
+Aave_2274
+major facilitator superfamily transporter
+OsI_33140
+95.1%
+0.0
+92.5%
+Aave_2484
+2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+OsI_19753
+100.0%
+0.0
+97.3%
+Aave_3000
+ferrochelatase
+OsI_33935
+100.0%
+0.0
+96.2%
+
+So let this be a lesson to DIY genome-hackers everywhere. If you find what you think are dozens of putative horizontally transferred genes in a large genome, stop and consider: Which is more likely to occur, a massive horizontal gene transfer event involving several dozen genes crossing over into another life form, or contamination of a lab sample with bacteria? I think we all know the answer.
+
+Many thanks to professor Jonathan Eisen at U.C. Davis for providing valuable consultation.

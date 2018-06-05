@@ -1,0 +1,16 @@
+An article published last month in HDBuzz discusses Huntington's Disease (HD). Since HD and Kennedy's Disease (SBMA) have defects of the CAG genes, there are similarities between the two conditions.
+
+Important drug targets yielded by new genetic study of HD
+
+A genetic study confirms that minute differences in DNA repair genes can influence the age of HD symptom onset.
+By Leora Fox on May 02, 2016Edited by Dr Jeff Carroll
+It’s a great mystery why different people with the same HD mutation sometimes develop symptoms at vastly different ages. Last year a huge genetic analysis gave us some interesting clues, and now, researchers are focusing in on the most promising results. A recent study shows that tiny changes within genes that repair damaged DNA can have a big effect on age of onset in HD and related diseases.
+
+Pursuing the reasons for different ages of symptom onset
+Huntington’s disease is an inherited illness, so a person whose parent or grandparent has the disorder is at risk of developing symptoms one day. Even those who learn they are positive for the HD gene through genetic testing face a great and daunting unknown: when will symptoms begin to develop? ...
+
+... In fact, HD is not the only polyglutamine disorder – several other hereditary illnesses are caused by CAG repeats in different parts of the genome. Two examples are spinocerebellar ataxia (SCA), which involves difficulties with balance and coordination, and spinal bulbar muscular atrophy (SBMA), which usually affects men and causes muscle weakness and hormone imbalances. One similarity between CAG repeat diseases is that longer repeats cause earlier ages of symptom onset. And it turns out that some of the same genetic modifiers that contribute to the timing of HD symptoms play a similar role in other poly-Q diseases. ...
+
+... We don’t yet understand the reasons why such tiny changes in DNA repair genes led to significant discrepancies in age of onset in poly-Q disorders. Nevertheless, it is exciting to unearth direct genetic evidence that a shift in symptom onset is possible. ...
+
+To read the entire article including the section on SBMA, follow this link: https://en.hdbuzz.net/217

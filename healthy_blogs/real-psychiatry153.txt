@@ -1,0 +1,79 @@
+JAMA Internal Medicine came out with an article this week that has been heavily covered by most media outlets.  The Wall Street Journal headline was: "Even Cheap Meals Influence Doctor's Drug Prescriptions, Study Suggests".   Time concludes: "Why Doctors and Drug Companies Can't Be Friends".  Even public radio got into the act with "Crestor Prescriptions Rise After Doctors Get Free Meals."  It is pretty clear that in the court of public media that Big Pharma is at it again, bribing doctors into using their drugs and the most expensive drugs at that.  But is that really what the article suggests?
+
+Even a casual reader could hone in on the discussion session of the article and read the following about cross sectional data and disclaimers about causation versus correlation:
+
+"Our data are cross-sectional. The findings reflect an association, and not necessarily causality. Because we linked 5 months of Open Payments data with 1 year of Medicare Part D prescription data, we also could not determine whether high prescription rates for brand-name drugs were preceded, followed, or temporally unrelated to the receipt of industry-sponsored meals.  The policy implications of our findings thus depend on further clarification of the mechanism of the association between the receipt of industry-sponsored meals and physician prescribing behavior..."
+
+Two additional paragraphs of study limitations follow that clearly show that this initial look at this data has significant limitations.
+
+Various blogs and sites have picked up on this paper as well many of the physician sites also seem to favor the narrow interpretation as seen in the press.  In some cases there is a nod to the theoretical issue of causality but a discussion of the result as though it is proof of something.  I can think of a number of competing theories that should be tested instead of the meal equals causality theory but do we even have to go there?  Bear with me on the analysis here.
+
+Looking at the basic design of this study, the authors looked at a database of 533, 919 prescribers in the Medicare Part D database.  252,250 of these prescribers were eliminated for administrative reasons that can be examined in the Supplemental section of this paper.  From there the authors determined which of these physicians wrote 20 more more prescriptions for the four study drugs of interest -  statins, cardioselective beta blockers, ACEI or ARB antihypertensive prescriptions, or SSRI or SNRI antidepressant prescriptions.  Table 2 in the final paper shows the total prescribers and their characteristics in each group.  The total number of physicians receiving financial reimbursement varies from 2-12%.  That reimbursement totaled 63,524 payments totaling $1.4 million - 95% of which was meals and 5% in the form of other promotions.  The meals averaged $12-18.  The authors proceed to show that the sample selected for reimbursement were more likely to prescribe the promoted drug.  They do this by calculating the odds ratio of prescribing versus the non-reimbursed physicians.  They also calculate the odds ratio across a number of variables including the number of day (0 -> 4+) in order to demonstrate a dose response effect of the promotions on prescribing and conclude that industry sponsored meals was associated with an increased rate of prescribing the name brand drug in each class that is being promoted.
+
+The standard response to this study seems to be: "Aha - no news there.  We knew that Big Pharma corrupts physicians and even the slightest gift sways prescribing practices."  I will let the reader pull up the article and read the authors concerns about causality.  I don't think that predictable corruption or an esoteric statistical argument about causality is the most interesting part of this paper.  I think the most interesting part of this paper has apparently been lost on the majority of people reading it.  Let me put it another way.  Would it shock anyone that a small (2-12%) proportion of physicians, carefully selected for whether or not they accept promotions from pharmaceutical companies end up prescribing the promoted drugs more frequently than physicians who don't?  I don't think that it should.
+
+The good news in this article is that 88-98% of the physicians studied apparently do not accept these promotions and by the authors definition do not prescribe the promoted drug at anywhere near the frequency of the studied group.  The majority of physicians do prescribe promoted drugs, even without receiving any incentive from the pharmaceutical company and that should also not come as a shock to anyone.  As a former member of two Pharmacy and Therapeutics (P&T) Committees, I can say unequivocally that all members of a generic class are not equivalent when applied to any population of human beings.  Response and tolerability vary significantly from person to person.  In the case of generic antidepressants - SSRI/SNRI are all commonly used as first line drugs primarily to avoid prior authorization harassment of the prescribing physician.  There are many patients who fail several and many patients who cannot tolerate any of these medications.  In those cases non-generic medications are often the next choices.
+
+Any time I see a statistic like an odds ratio, I tend to interpret it like percentages.  Those numbers seldom stand on their own.  There needs to be some additional data.  In the table below, I show the number of prescribers in each category across all 4 classes of research drugs and the Target Drug used to calculate the odds rations.  It is clear that the vast number of prescribers in each class are in the No Meal (NM) category.  It is also clear that the prescribers in the Meal (M) category prescribe the drug class at a much higher rate than their NM colleagues.  Even if the prescribing rates in the M category are relatively high, it is easy to speculate that the total prescriptions for the target drugs may actually be higher in the NM category despite the odds ratios indicating that the M physicians are more likely to prescribe them.  I sent an e-mail to the corresponding author on this issue and asked for the raw data as rates of target drug prescribing in each group or the raw numbers for all of the target and non-target drug prescriptions in each class.  I will post those results here if I receive them.
+
+
+Class/
+Target Drug
+Meal =M
+No Meal =NM
+Average Rx Volume Per Prescriber
+Total Prescribers
+
+statin/
+rosuvastatin
+M
+742.2
+15,941
+NM
+470.1
+115,266
+beta blocker/
+nebivolol
+M
+410.0
+3843
+NM
+299.8
+122,291
+ACEI/ARB/
+olmesartan
+M
+562.7
+9483
+NM
+394.8
+121,860
+SSRI/SNRI/
+desvenlafaxine
+M
+437.6
+1926
+NM
+289.5
+121,392
+
+
+Just looking at total prescriptions in any class the NM physicians prescribe roughly 5 times the total of the 4 general classes of medications as those who are designated as M prescribers.  Pharmaceutical companies are clearly selling these medications without the suggested promotion.    This is a better measure of the impact of pharmaceutical promotions and it illustrates the fact that there are other significant forces at play than a free lunch.
+
+Overall I thought this paper was useful because it provided confirmation of one of my previous observations on pharmaceutical pricing.  In that post I made the statement that even when physicians are taken out of the promotion loop by one force or another, the United States still has by far the most expensive pharmaceuticals.  This paper provides proof that the vast majority of physicians are not getting the free lunch promotions and contrary to most of the headlines don't base their prescribing on an inexpensive meal.  Although we currently do not have a good characterization of what the real difference in target drug prescriptions is between N/NM groups it is safe to say that there is more at play here than an $18-20 meal.
+
+That fact alone suggests causation is more complex than it seems in the papers.
+
+
+
+George Dawson, MD, DFAPA
+
+
+Reference:
+
+1:  DeJong C, Aguilar T, Tseng CW, Lin GA, Boscardin WJ, Dudley RA. Pharmaceutical Industry-Sponsored Meals and Physician Prescribing Patterns for Medicare Beneficiaries. JAMA Intern Med. 2016 Jun 20. doi: 10.1001/jamainternmed.2016.2765. [Epub ahead of print] PubMed PMID: 27322350. (free full text online).
+
+Attribution:
+
+Pizza graphic is from https://commons.wikimedia.org/wiki/File%3APizza_(25).jpg
+By Miansari66 (Own work) [CC0], via Wikimedia Commons.

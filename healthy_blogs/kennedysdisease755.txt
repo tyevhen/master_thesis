@@ -1,0 +1,29 @@
+Back to the Basics
+The Androgen Receptor Gene
+The AR gene provides instructions for making a protein called an androgen receptor. Androgens are hormones (such as testosterone) that are important for normal male sexual development before birth and during puberty. Androgen receptors allow the body to respond appropriately to these hormones. Androgens and androgen receptors also have other important functions in both males and females, such as regulating hair growth and sex drive.
+
+The receptors are present in many of the body's tissues, where they attach (bind) to androgens. The resulting androgen-receptor complex then binds to DNA and regulates the activity of androgen-responsive genes. By turning the genes on or off as necessary, the androgen receptor helps direct the development of male sexual characteristics. Androgens and androgen receptors also have other important functions in both males and females, such as regulating hair growth and sex drive.
+
+In one region of the AR gene, a DNA segment known as CAG is repeated multiple times. This CAG segment is called a triplet or trinucleotide repeat. In most people, the number of CAG repeats in the AR gene ranges from fewer than 10 to about 37.
+
+The AR Gene and Spinal Bulbar Muscular Atrophy
+Kennedy’s Disease, aka, Spinal Bulbar Muscular Atrophy, results from a particular type of mutation, an expansion of the CAG trinucleotide repeat, in the AR gene. This receptor attaches (binds) to a class of hormones called androgens.
+
+With Kennedy’s Disease, the CAG is abnormally repeated from 38 to more than 60 times causing a disorder of the specialized nerve cells that control muscle movement. Researchers believe that a fragment of the androgen receptor protein containing the CAG repeats accumulates within these cells and interferes with normal cell functions. This buildup leads to the gradual loss of motor neurons, which results in muscle weakness and wasting (atrophy).
+
+People with a higher number of CAG repeats tend to develop signs and symptoms of Kennedy’s Disease at an earlier age. [ FrequentlyAsked Questions about KD ]
+
+Characteristics of Spinal Bulbar Muscular Atrophy
+Spinal Bulbar Muscular Atrophy mainly affects males and is characterized by muscle weakness and wasting (atrophy) that usually begins in adulthood and worsens slowly over time. Muscle wasting in the arms and legs results in cramping; leg muscle weakness can also lead to difficulty walking and a tendency to fall.
+
+Certain muscles in the face and throat (bulbar muscles) are also affected, which causes progressive problems with swallowing and speech. Additionally, muscle twitches (fasciculations) are common. Some males with the disorder experience unusual breast development (gynecomastia) and may be unable to father a child (infertile).  [ CommonSymptoms ]
+
+Inheritance Pattern
+This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In most cases, males experience more severe symptoms of the disorder than females (who have two X chromosomes). [ GeneticChart ]
+
+DNA Test
+Fortunately, today there is a DNA test to determine if a person has Kennedy’s Disease. Your doctor can draw some blood and send it to a DNA lab for testing. Test results are normally returned within three-to-six weeks. [ TestDetails ]
+
+
+
+Note: Most information provided by the Genetics Home Reference

@@ -1,0 +1,35 @@
+Can the effects of trauma be handed down from generation to generation? Classical genetics says no: DNA is DNA; environmental challenges are not handed down. But reality turns out to be more nuanced. We now know that certain kinds of epigenetic mechanisms can explain otherwise baffling effects seen in animal models as well as human populations.
+
+Two recent studies, one in mice and one in humans, shed additional light on how trauma responses can be handed down through subsequent generations.
+
+Scientists at Emory University in Atlanta recently trained male mice to fear the odor of cherry blossoms by pairing the smell with an electric shock. Eventually the mice shuddered at the smell, even without shock. This is ordinary Pavlovian conditioning, of course, and is unsurprising. What's harder to explain is that the learned effect (of shuddering in the presence of cherry blossom odor) can be passed down. The conditioned mice's offspring, despite never having experienced cherry blossom odors before, exhibited increased sensitivity when introduced to the smell, shuddering more markedly in its presence compared with the descendants of mice that had been conditioned to be startled by a different smell or that had gone through no similar conditioning. A third generation of mice — "grandchildren" mice — also inherited this reaction, as did mice conceived through in vitro fertilization with sperm from males sensitized to cherry blossom.
+
+As explained in an article in Nature:
+The researchers propose that DNA methylation — a reversible chemical modification to DNA that typically blocks transcription of a gene without altering its sequence — explains the inherited effect. In the fearful mice, the acetophenone-sensing gene of sperm cells had fewer methylation marks, which could have led to greater expression of the odorant-receptor gene during development.
+Acetophenone is the active ingredient of cherry blossom odor.
+
+The Emory University finding is important for humans, because a mechanism has been sought, for years, to explain a wide variety of intergenerational trauama effects observed in the families of Holocaust survivors. (Some of the Holocaust-descenedant work, going back decades, has been summarized in the Trauma chapter of my book Of Two Minds.) The mouse model at least provides the possibility for further research to identify a definite DNA locus and a physical mechanism for intergenerational transfer of a well identified trans-generational effect.
+
+Further confirmation for the DNA-methylation theory comes by way of a recent study in Biological Psychiatry showing changes (in Holocaust-survivor families) of one region of a gene (FKBP5) associated with the regulation of stress hormones, which is known to be affected by trauma. Researchers found epigenetic tags on the very same part of this gene in both Holocaust survivors and their offspring, whereas the same correlation was not found in any of the control group and their children.
+
+“To our knowledge, this provides the first demonstration of transmission of pre-conception stress effects resulting in epigenetic changes in both the exposed parents and their offspring in humans,” Rachel Yehuda, lead author of the Biological Psychiatry study, remarked. (An in-depth interview with Yehuda appears here.)
+
+Obviously, a great deal of work remains to be done, but at this point there is little doubt that integenerational trauma effects exist; the question is how to explain them biochemically. For further information, see "Intergenerational Transmission of Trauma: An Introduction for the Clinician," by Charles Portney, M.D. in Psychiatric Times. Also see "Epigenetic Transmission of Holocaust Trauma: Can Nightmares Be Inherited?", Isr J Psychiatry Relat Sci (2013). In addition, see the various references on intergenerational trauma in the Trauma chapter of my book Of Two Minds (2014).
+
+Join us tomorrow for our famous Friday Water Cooler links!
+
+❧  
+     
+Have you checked out my free book Mental Health Myths Debunked? Tons of info, tons of live links, lots of straight talk about depression, meds, therapy, psychiatry, mental health trends, statistics, and more (documented, with links to sources). And you know me, I call bullshit on bogus ideas (then give URLs to the actual data). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+
+  ❧ 
+
+Retweet this post! It is with great gratitude that I salute the great folks who retweeted me yesterday:
+
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

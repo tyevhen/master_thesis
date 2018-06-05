@@ -1,0 +1,60 @@
+Purdue University and its mice hit the nutrition news this week with the work of Dr. Joseph Garner and his team. Their paper, "Nutritional up-regulation of serotonin paradoxically induces compulsive behavior" was published in Nutritional Neuroscience, and prompted several reports and tweets rather like this one. Jad supplied me with a links in the comments to That Tapeworm Ate Your Depression, and Jamie emailed me the abstract as well. No one was going to let Mark Sisson get the jump on me this time!
+
+And, to be sure, this paper and the work are pretty neat. As far as I know, it may be the only paper showing a definitive development of psychopathology with an adjustment of diet. So that's a big deal!
+
+A little background - serotonin is a neurotransmitter in part responsible for calm, happiness, and whatever the opposite of wanting to kill yourself is - contentment and serenity with living in your own skin, I would say. I talked about serotonin in several blog posts:
+
+The Evolution of Serotonin
+More About Sunlight, Food, and Serotonin
+
+As did Jamie:
+Midwinter Blues
+More Serotonin
+Brain Dump on Serotonin
+
+
+It is common knowledge that eating carbs will increase serotonin levels in the brain. Basically, carbohydrates increase the brain's ability to import tryptophan, the amino acid precursor to serotonin, through the blood brain barrier. It shouldn't surprise you that eating tryptophan can also increase the transport of tryptophan through the blood brain barrier. Well, Dr. Garner and team searched the literature and quantified the whole thing, and figured out that if one increases carbohydrate:protein ratio a certain amount and increases tryptophan a certain amount, serotonin creation in the brain goes lickety split, zoom zoom - and if you do that, hey, maybe you get a calm happy la-la land of serotonin peace coma, rather like Thanksgiving afternoon after turkey, mashed potatoes, and pie.
+
+Instead he got scratchy mice. But I'm skipping to the end. Enter the mice - happy mice in their standard cages on their standard mice chow control diet or treatment diet, in a double-blinded (actually, they only called it blinded, as maybe the mice knew, but couldn't tell anyone) crossover trial.
+
+Read about the control diet and try not to gag too much:
+
+
+Casein 24%
+Soybean Oil 10%
+Cornstarch 52.3%
+Sucrose 5%
+Fiber (cellulose) 4%
+Vitamin and mineral mix
+Choline 0.2%
+
+Overall it was 24% protein and 57.3% carbohydrate, and only 10% fat, mostly polyunsaturated omega 6 vegetable oils. Kind of the USDA dream diet, really - skim milk derivative and vitamin-enriched low sugar corn cereal, kids! (It is noted that all the mice gained weight when allowed to eat ad libitum during this experiment, though the treatment mice gained more than the controls).
+
+The treatment diet had an increased carbohydrate to protein ratio with a little extra tryptophan, and a big bolus of sugar in the form of dextrose (which is two glucose molecules hooked together - or not, it is just glucose molecules. Thank you Jim, maltose, not dextrose, is glucose-glucose)
+
+Casein 12%
+Methionine 0.4%
+Tryptophan 0.9%
+Soybean Oil 10%
+Cornstarch 30%
+Dextrose 33%
+Sucrose 5%
+Fiber (cellulose) 4%
+Vitamin and mineral mix
+Choline 0.2%
+
+These mice have a little issue, in that they engage in behavior called "barbering." Meaning they pull out their own hair and the hair of their cage mates (they pull out their own hair in a particular pattern, and cage mates in a different pattern, so the hair-pulling can be differentiated. Humans with a rather common (3-4% of women) behavior called trichotillomania also compulsively twist hair until breaking and pull out hair, eyebrows, and eyelashes. It is thought that trichotillomania is due to a serotonin deficiency, so it would make sense to test this hypothesis by using a mouse model and a diet designed to increase serotonin in the brain.
+
+So after the mice were fed their diets, and the amount of barbering was measured, and the amount of scratching was measured during a "spray test," and then the mice were decapitated, the brains were put on ice and eventually homogenized and analyzed for serotonin and other neurotransmitter amounts.
+
+As expected, treatment diet increased whole brain metabolites of serotonin and decreased the ratio of serotonin to the metabolite - consistent with increased serotonin synthesis and metabolism. Dopamine metabolites were also reduced, consistent with the general principle that when serotonin is increased, dopamine is suppressed.
+
+However, the treatment diet, which definitely increased serotonin turnover, actually increased barbering behavior. Scratching scores were doubled. In addition, a deadly skin infection seemed to plague the treatment mice, especially the female mice. Basically, a diet low in protein and fat and high in sugar led to hair-pulling, scratching, and death via skin infection in this mouse model of trichotillomania.
+
+So, what the heck is going on? If trichotillomania is caused by low serotonin, why would increasing serotonin metabolism cause more picking? SSRIs, which also affect serotonin, are used to treat trichotillomania. However, any psychiatrist in practice will know that SSRIs can also induce skin-picking behavior in vulnerable individuals that will go away once the SSRI is withdrawn.
+
+Skin-picking and grooming are basic primate behaviors. Observe any group of monkeys or chimps and they seem to spend a lot of time grooming each other. These activities are thought to be mediated by serotonin. High amounts of dopamine can also cause compulsive tapping (as in OCD or autism) and tic behaviors. It is interesting that women, who seem to be more vulnerable to serotonin pathology, are four times as likely to have trichotillomania as men, but men, who are more vulnerable to dopamine pathology, have much higher rates of tapping and tics.
+
+I conceptualize serotonin and dopamine levels in the brains as see-saws. Sometimes pushing the see-saw one way with diet or a pharmacologic agent will result in the see-saw becoming balanced, sometimes pushing it will unbalance it further. So some folks with trichotillomania will improve with an SSRI, and other folks with no picking problems will start to pick when given an SSRI. And these mice, apparently, do not do well with increased serotonin turnover. Of course one has to wonder what such a diet would do to our psychopathology.
+
+More on the neurobiology of compulsions and trichotillomania in the next post. If I get through the articles. Reading about trichotillomania always makes me itch.

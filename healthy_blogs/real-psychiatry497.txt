@@ -1,0 +1,36 @@
+I was a fan of big data before it became fashionable.  I was a high tech investor before the dot.com bubble and became very interested in high speed networking, especially the hardware necessary to move that data around.  Even before that information was publicly available, electrical engineers were using that equipment to rapidly download large amounts of data (GB) from satellites on every orbit.  As an investor, one of the early flagship applications was large telescopes.  I wrote an article on high speed networks and the medical applications - digital radiology and medical records back in 1997.  At about the same time I made the information connection.
+
+As a college student, I got my hands on the Whole Earth Catalog.  That led me to my small college library and my surprise to find  that they had Shannon's  seminal work on information theory on the shelf.  I was even more excited when I learned about entropy in my physical chemistry course three years later.  Since then I have been searching without much success to look at what happens when two people are sitting in a room and talking with one another.
+
+My entire career has been spent talking with people for about an hour and generating a document about what happened.  It turns out that the document is stilted in the direction of tradition and government and insurance company requirements.  It covers a number of points that are historical and others that are observational.  The data is basically generated  to match a pattern in my head that would allow for the generation of a diagnosis and a treatment plan.  The urgency of the situation can make the treatment plan into the priority.  The people who I am conversing with have various levels of enthusiasm for the interaction.  In some cases, they clearly believe that providing me with any useful data is not in their best interest.  Others provide an excessive amount of detail and as the hour ends I often find myself scrambling to get to critical elements before the hour expires (my current initial interview form has about 229 categories).  This basic  clinical interview in psychiatry has been the way that psychiatrists collect information for well over a century.  In the rest of medicine, the history and physical examination has become less important due to advances in technology.  As an example, it is rare to see a cardiologist these days who depends very much on a detailed physical examination when they know they are going to order an echocardiogram and get data from a more accurate source.
+
+In psychiatry, other than information from a collateral interview and old records  there is no more accurate source of information than the patient.  This creates problems when the patient has problems with recall, motivation, or other brain functions that get in the way of describing their history, subjective state, or impact on their life.   The central question about how much useful information has been communicated in the session, the signal-to-noise considerations, and what might be missing has never been determined.  The minimal threshold for data collection has never been determined.  In fact, every information specialist I have ever contacted has no idea how these variables might be determined.
+
+Information estimates have become more available over the past decade ranging from estimates of the total words spoken by humans in history to the total amount of all data produced in a given year.  Estimates of total words ever spoken range from 5 exabytes to 42 zettabytes depending on whether the information is stored as typewritten words on paper or 16-bit audio.  That 8,400 fold difference illustrates one of the technical problems.  What format is relevant and what data needs to be recorded in that format?  The spoken word whether recorded or typed is one channel but what about prosody and paralinguistic communication?  How can all of that be recorded and decoded?  Is there enough machine intelligence out there to recognize the relevant patterns?
+
+An article in this week's Nature illustrates the relative scope of the problem.  Chris Mattmann makes a compelling argument for both interdisciplinary cooperation and training a new generation of scientists who know enough computer science to analyze large data sets.  He gives the following examples of the size of these data sets: ( one TB = 1,000 GB)
+
+Project
+Size
+Encyclopedia of DNA Elements (ENCODE), 2012
+15 TB
+US National Climate Assessment (NASA projects), 2013
+1,000 TB
+Fifth assessment report by the Intergovernmental Panel on Climate Change (IPCC), due 2014
+2,500 TB
+Square Kilometer Array (SKA), first light due 2020
+22,000,000,000 TB per year
+
+That means that the SKA is nearly producing the total amount of information spoken by humans (recorded as 16-bit audio) in recorded history every year.   The author points out that the SKA will produce 700 TB of data per second and within a few days will eclipse the current size of the Internet!
+
+All of this makes the characterization of human communication even more urgent.  We know that the human brain is an incredibly robust and efficient processor.  It allows us to communicate in unique and efficient ways.  Even though psychiatrists focus on a small area of human behavior during a clinical interview the time is long past due to figure out what kind of communication is occurring there and how to improve it.  It is a potential source of big data and big data to correlate with the big data that is routinely generated by the human brain.
+
+George Dawson, MD, DFAPA
+
+Dawson G.  High speed networks in medicine.  Minnesota Physician 1997.
+
+Lyman, Peter, H. Varian, K. Swearingen, P. Charles, N. Good, L. Jordan, & J. Pal. 2003. How Much Information? Berkeley: School of Information Management & Systems.
+
+Mattmann CA. Computing: A vision for data science. Nature. 2013 Jan 24;493(7433):473-5. doi: 10.1038/493473a.
+
+Shannon CE.  A mathematical theory of communication. The Bell System Technical Journal 1948; 27(3): 379-423.

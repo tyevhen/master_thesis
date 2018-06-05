@@ -1,0 +1,7 @@
+-from Nature
+Mental health
+Daniel R. Weinberger
+Senior investigator, US National Institute of Mental Health
+The search over the past decade for genes behind mental illness has led to the realization that mental disorders are not discrete conditions with specific causes. Rather, they are the result of interactions between risk factors that affect development; psychiatric symptoms can arise from many causes and are more interrelated than current disease models allow. By 2020, this insight, which has been slow to take hold, will have transformed how doctors understand and treat psychiatric conditions.
+Finding specific genes for mental illness now seems a pipe dream. A more realistic endeavour for the next ten years is to look for genes that code for basic cellular and brain functions that modulate our responses to the environment and that come together in particular ways in individuals at increased risk. Many hundreds of genes may contribute to raised vulnerability, and such defects may affect brain development and function independently of any specific psychiatric diagnosis. There is no straight road to psychiatric illness, but a highly diverse network of developmental pathways.
+This approach will lead to diagnosis and treatment based on a proper grasp of the underlying biology, rather than on an interpretation of symptoms. Psychiatric research is poised to realize Sigmund Freud's dream of a biological psychology, but it will require new applications of old thinking (see also page 9).

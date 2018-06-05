@@ -1,0 +1,22 @@
+I've been talking a lot about feature richness as if it's a measure of product complexity, which it might not be. What I care about, in any case, is not feature count per se, nor complexity per se, but a product's perceived utility and ease of use.
+
+For matters involving "feature count," it may actually be more useful to talk about total GUI surface area. After all, features often equate (in at least a rough sense) to clicks on controls of various sorts: push buttons, radio buttons, checkboxes, menu selections, color pickers, calendar controls, etc. In some sense, feature count and GUI surface area go hand in hand.
+
+How to calculate GUI surface area? Dialogs (and other UI elements) tend to grow in proportion to an app's functionality, so why not just add up the actual screen real estate consumed by all the dialogs, toolbars, palettes, tabs, and menus in the product (in "pixels squared"), and call that the UI's surface area?
+
+
+I offer, without further proof, the conjecture that a program's perceived complexity is related in some suitably subtle way to a program's total GUI surface area.
+
+I also contend that the bigger a product's total GUI surface area, the smaller the user is made to feel.
+
+Moreover, if a product's total functional surface area far exceeds a customer's actual use-case requirements, an unavoidable impression of waste is conveyed. More than that, the customer might very well infer that the product came from a culture of waste, an engineering culture that doesn't value efficiency. That's a devastating assumption to let take root in a customer's mind.
+
+Do you really want a customer to feel he has paid good money for unnecessary functionality? Ever?
+
+If you know that eighty percent of customers will only ever use twenty percent of the software's features, do you really want to brag, in your marketing, about the extravagant excess of functionality in your product?
+
+Isn't it more important to be able to emphasize the inarguably superior nature of the product's core functionality?
+
+Shouldn't non-core functionality be non-core to marketing dialogs until the customer demands otherwise?
+
+In tomorrow's post, I'll offer constructive suggestions for software makers; ideas that can actually be implemented and tested. Why argue about ideas when you can test them?

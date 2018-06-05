@@ -1,0 +1,49 @@
+Freud's Biological Roots: The "Project for a Scientific Psychology"
+Immediately after completing Studies in Hysteria with Breuer in 1895, Freud undertook one of his most ambitious projects: the formulation of a "Psychology for Neurologists." Comprising three notebooks (two of which contained over 100 manuscript pages), Freud's Project for a Scientific Psychology was probably the clearest statement of his desire to establish a neurobiological model of the mind. In explaining the purposes of the Project in the opening chapter, Freud wrote:
+
+
+
+
+The intention is to furnish a psychology that shall be a natural science: that is, to represent psychical processes as quantitatively determinate states of specifiable material particles, thus making those processes perspicuous and free from contradiction.[1] [Emphasis added]
+
+The content of the Project was ambitious: Freud proposed three separate systems of neuronal activity to account for the varying functions of perception, memory, and consciousness . He also proposed neurophysiological models for the "ego functions" (such as cognition, judgment, recall, etc.), sleep and dream states, and hallucinatory and hysterical states. Despite these rather formidable accomplishments Freud failed in the one area in which he was most interested: the discovery of a biological model of repression. He had wanted to achieve nothing short of "a comprehensive physiological explanation of...the precise neurological and chemical details of repression."[2] Since he viewed the problems of defense and repression as the "core of the riddle," his inability to solve the riddle constituted a major professional loss.
+In writing to his friend Fleiss about the first two notebooks of the Project, Freud lamented that the third one, which dealt with the longed-for "mechanical explanation of neurosis," was not "hanging together." By 1896 Freud had abandoned the Project altogether. This failure triggered a decisive turning point in his career in which he ruefully abandoned the unattainable biological laws for more accessible and less disputable psychological concepts. He wrote:
+
+From this point onwards, I shall venture to leave unanswered the question of finding a mechanical representation of biological rules such as this.... Perhaps in the end I may have to content myself with the clinical explanation of neurosis.[3]
+
+This is precisely what Freud proceeded to do.
+
+Freud's First Model of the Mind: A Bipartite System
+
+What Freud had originally described in the neuroanatomical language of the Project in 1895, he now re-described in psychological concepts in his historical The Interpretation of Dreams in 1900. Here he presented what was assumed to be his first formulation of the structure of the mind a psychological description of the "psychical apparatus."
+The unexpected discovery of the Project in the 1950s threw shadows of controversy over The Interpretation of Dreams , which had b een always regarded as Freud's first masterpiece. In light of the Project, some historians believed that Freud's psychological re-formulation in The Interpretation of Dreams amounted to nothing more than a "convenient fiction [that] had the paradoxical effect of preserving these [biological] assumptions by hiding their original nature, and by transferring the operations of the apparatus into a conceptual realm where they were insulated from correction by progress in neurophysiology and brain anatomy."[4] In effect, a kind of conceptual whitewash job. Sulloway evaluates:
+
+
+
+
+Did Freud...simply retain old-fashioned neurological terms (e.g., "cathexis") while giving them a new and independent psychoanalytic meaning in The Interpretation of Dreams and subsequent works? Or, are the outmoded nineteenth-century neurological constructs so evident in the Project still holding up the creaking scaffolding of present-day psychoanalysis, as Robert Holt insists, and has their cryptic nature insulated psychoanalysis from a much_needed rejuvenation within the fertile field of neurophysiology where it originated?[5] 
+
+We have no way of knowing if , as Holt suggests, Freud consciously or unconsciously intended to insulate and protect his theories by means of a psychological reformulation. It seems likely that his new terminology might have been a legitimate attempt to sustain psychoanalytic theory despite lack of scientific corroboration, and to propose concepts that might be clinically useful in understanding the human mind. What is noteworthy in this controversy, as Sulloway indicates, is not so much what Freud failed to do, but what his successors have chosen not to do . That is , o rejuvenate modern-day psychoanalytic theory "within the fertile field of neurophysiology where it originated." 
+
+Freud's First Model of Mental Functioning
+
+Freud initially divided the mind into the unconscious system and the preconscious system. Contents in the preconscious system, he theorized, could enter consciousness fairly easily. One need only give sufficient attention and energy (cathexis) to them and they would pass into conscious thought (the "transference phenomena"). A rarely purchased grocery item, an unimportant phone call, the title of a book, and so forth, might slip forgotten into the preconscious for a period of time, but could be remembered. Unconscious contents, however, never had direct access to consciousness. They had to first pass through the preconscious system, which modified them into a form suitable for conscious perception. Thus:
+
+
+
+
+We were only able to explain the formation of dreams by venturing upon the hypothesis of there being two physical agencies, one of which submitted the activity of the other to a criticism which involved its exclusion from consciousness. The critical agency, we concluded, stands in a closer relation to consciousness than the agency criticized: it stands like a screen between the latter and consciousness.[6]
+
+Here we see Freud's free use of metaphor ("it stands like a screen") to depict processes he had formerly described in Project in terms of cell permeability and impermeability, the "inertial pattern of neuronal discharge," and the phi, psi, and omega system of neurones. One might even say this new reformulation anthropomorphizes, with its "critical agency and its "agency criticized" submitting and excluding information between both sets of ideas. This is not to devalue the reformulation, only to point out the degree to which Freud had turned in a different direction.[7]
+In essence, Freud suggests that we cannot receive anything directly from the unconscious. All unconscious wishes, impulses, and motivations first had to be censored and altered by a "passage" through the "screen" of the preconscious. This screening process was most clearly observable in dream activity. One could deduce the original unconscious content -- say, a desire to murder the mother -- and see how it was redressed by its passage through the preconscious: in the manifest dream, the dreamer makes several unsuccessful attempts to kill a pesky mosquito. And so forth.
+What is interesting to note here is that even at this early point Freud saw the mechanisms of censorship and repression as non-pathological. They could become pathological through the neurotic process, but they were first and foremost a critical part of maintaining normal mental health -- so critical, in fact, that psychosis would result if they failed.
+
+
+
+[1]
+[2]In Sulloway, op. cit., p. 113.
+[3]In Sulloway, op. cit., p. 126.
+[4]In Sulloway, op. cit., p. 120 (quoting Robert Holt).
+[5]Sulloway, op.cit., p. 120.
+[6]citation?
+[7]It is important to realize that although Freud had opted to draw this "first crude map" of the mind in the hypothetical (and often metaphorical) language of psychology, he made lt quite clear that he viewed psychological processes as derivatives or secondary manifestations of the underlying and primary biophysiological processes -- which he still hoped someday to discover.

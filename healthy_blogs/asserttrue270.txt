@@ -1,0 +1,30 @@
+Viruses have two modes of reproductive existence. In the familiar lytic cycle, the virus infects a cell, replicates itself until the cell bursts, and hundreds (or thousands) of virions are produced. But there is also a lysogenic mode of viral existence, in which the virus inserts a copy of its DNA in the host's own DNA. The viral DNA thus inserted becomes known as a prophage, which can remain dormant for long periods of time. The prophage can often be induced to enter a lytic cycle by exposure of cells to hydrogen peroxide or Mitomycin C. (Induction of phages in this fashion is thought to occur when a phage repressor protein is cleaved by recA after the latter is upregulated in the SOS response.)
+
+Prophage genes are seen in a wide variety of bacteria (a 2008 paper estimated that over 60% of bacterial genomes contain prophage genes), and in fact human DNA is thought to contain at least 8% retroviral gene remnants. There's reason to suspect that certain large DNA animal viruses (such as herpes and vaccinia) have a lysogenic cycle. Certainly, viruses like varicella zoster (which can produce shingles many years after a person's initial infection) can remain dormant for decades before suddenly undergoing induction to a lytic phase.
+
+Viruses that live an exclusively lytic lifecycle have relatively few opportunities to co-evolve with the host, because they spend little time in the host. Such a virus might spend years "hanging around" in the environment before encountering a host cell; then the lytic reproductive cycle may last only minutes or hours, and it's back to "hanging around" in the environment.
+
+The situation is much different for a temperate virus (i.e., one that has a lysogenic cycle). A lysogenic virus essentially becomes an integral, first-class component of the host DNA and undergoes the same replication and repair processes that apply to host DNA. Accordingly, we should expect to see a much different pattern of evolution in the genes of lysogenic viruses (or prophages). And indeed we do.
+
+The phylogenetic tree below was prepared using viral (phage) and bacterial genes for DNA adenine methylase (dam), an enzyme involved in DNA repair and replication. What's interesting about this gene is that many bacteria have their own (native) copies of this gene plus a prophage copy. And they differ, but not as much as, say, lytic-phage thymidine kinase versus native bacterial TK. (I showed phylo-trees for viral and bacterial TK enzymes in a prior post. If you'll recall, these enzymes differ so drastically that it's not at all clear that one derives from the other, ancestrally.)
+
+DNA adenine methylase genes from three enteric bacteria and two phages (marked with asterisks). The top branch shows very close homology between prophage genes and their bacterial paralogues. The bottom branch shows that the native bacterial isoform of the enzyme is not as closely related to the prophage version(s).
+With the dam genes, we see an interesting segregation pattern. There are two main branches to the phylo-tree. In the upper branch are the phage dam genes along with bacterial paralogues of these genes. The bottom branch shows how the non-paralogous (non-prophage) dam genes segregate.
+
+To make these relationships clearer, here's a chart showing the overall G+C content as well as the GC3 (G+C content at codon base 3) for the various genes. The entries shaded in grey represent prophage genes. Notice that the G+C percentages are significantly lower for the prophage genes, but are higher than in free-living lytic-cycle phages (where GC3, in particular, is often less than 20%).
+
+
+DNA adenine methylase genes for enteric bacteria and their temperate phages. Base-composition stats for prophage isoforms are shown in grey.
+Organism Gene G+C GC3
+Shigella sp. strain D9 ZP_05434596.1 49.60% 55.90%
+E. coli EHW52521.1 49.60% 55.90%
+S. enterica AAL22346.1 49.10% 54.50%
+E. coli EHW55384.1 47.20% 47.90%
+Salmonella phage RE-2010 YP_007003503.1 46.50% 46.20%
+Shigella sp. strain D9 EGJ07993.1 46.20% 46.30%
+S. enterica ETB92379.1 46.20% 43.00%
+Fels-2 phage YP_001718754.1 46.20% 43.00%
+
+If you compare the phylo tree shown further above with the phylo tree in my earlier post about thymidine kinase genes, you'll note that the prophage dam genes cluster very tightly with bacterial versions of these genes. That's because, as a fully integrated part of the genome, the prophage genes benefit from the host's DNA repairosome. They evolve gradually over long periods of time by the usual mechanisms. The genes are notably host-like because they're continuously repaired and groomed in the same manner as host DNA.
+
+The takeaway here is: If you create a phylo-tree for a set of genes from hosts and viruses, and the genes cluster tightly with host versions, you're probably looking at the result of longterm lysogeny. On the other hand, if the virus genes do not cluster with host genes (as they usually don't!), that means you're looking at viruses that have a predominantly lytic mode of existence; viruses that probably got their genes from a far-distant ancestor of the modern-day host, if not from a primordial precellular precursor of some kind.

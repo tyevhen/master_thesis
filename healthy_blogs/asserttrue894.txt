@@ -1,0 +1,12 @@
+I keep having to re-teach myself this, so I might as well post it where I can always find it!
+
+Let 'd' be any arbitrary DOM node. To serialize the node (and its descendants) via JavaScript:
+
+var serializer = new XMLSerializer();
+var str = serializer.serializeToString( d );
+
+Having a top-level XMLSerializer object in Mozilla is so nice. So, so nice.
+
+But sadly, the output from the serializeToString( ) method is not the kind of XML I'd like to see. Element names come out ALL CAPS whether or not that's what you want (and it's never what I want). It also converts the greater-than and less-than symbols inside scripts to their entity equivalents, even if you enclose your scripts in CDATA sections. To me, entity substitution inside a CDATA section makes no sense whatsoever.
+
+Still, it's handy to be able to serialize a DOM tree. Even if the tags come out ALL CAPS.

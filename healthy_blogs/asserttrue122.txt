@@ -1,0 +1,51 @@
+An anti-depression intervention that’s purported to work reliably (indeed, some consider it a kind of gold standard of last-ditch treatment options) is electroconvulsive therapy (ECT). It’s specifically approved for refractory depression, and most clinicians will tell you in no uncertain terms that it tends to be efficacious. That’s not entirely accurate, however. In fact, it’s pretty far off the mark. Relief from depression is not guaranteed, and if you get any relief, it will be short-lived (typically 30 days). What's more, recent statistics show that ECT cannot (in good faith) be called safe. ECT is associated with death at a far higher rate than the American Psychiatric Association has been telling people (something I'll talk about more in a separate post). It also causes cognitive damage that, in a surprising number of cases, is permanent.
+
+Cognitive after-effects tend to fall into two categories: anterograde amnesia and retrograde amnesia. The latter is well-known: It means you have trouble recalling past events. The former is a type of learning disability: It's where you can't recall newly learned material. Advocates for ECT tend to downplay these effects. The effects are quite a bit more serious than most people realize, however. (I'll lay out the evidence on this in a later post. If you're in a hurry to learn the results, see the chapter that begins on page 136 of Hack Your Depression).
+
+With ECT, the patient is anesthetized for 10 to 15 minutes with a short-acting barbiturate, commonly Brevital (methohexital). Once the patient is unconscious, a muscle relaxant (succinylcholine) is injected to reduce the risk of fractures, joint dislocations, and damage to skeletal muscle, tendons, and ligaments (which were common in patients before this modification became routine during the 1950s). The muscle relaxant causes a partial paralysis of the body, including the respiratory system, so that the patient must be supplied oxygen through a mask and assisted in breathing until the muscle relaxant wears off and the patient is able to resume breathing on his or her own. Electrodes are placed either bilaterally or on the right side of the head. Shock is administered by a machine, at the push of a button. The sudden administration of current causes the patient to experience a grand mal seizure (the tonic/clonic effects of which are attenuated, due to the muscle relaxant; but make no mistake, the brain is undergoing a full-blown seizure).
+
+After six to twelve shock sessions (usually spaced a few days apart), you’ll either feel better, or not. Generally, people who report positive results feel better for a few days. After a month, the effects are gone.
+
+No one, to this day, can explain exactly why ECT works (when it does work, which isn’t always; and never for very long). It is completely without scientific basis in terms of any credible scientific theory for its mode of action. The most parsimonious high-level explanation is that by inducing amnesia, it causes you to forget your troubles.
+
+The idea for ECT came from the (mistaken) belief, 80 or more years ago, that epilepsy was never found to coexist with schizophrenia; hence, if one could induce epilepsy in a schizophrenic patient, it might cure schizophrenia. (Which makes about as much sense as saying that because laughter and depression seldom co-occur, you should administer tickling therapy to people who are depressed.) This bizarre myth became the basis for a long line of human and animal experiments with shock therapy, culminating in today’s FDA-approved ECT. (Note: At one time, cats, dogs, and monkeys were widely used in shock experiments. Large-animal experiments have long since been discontinued, however, for humane reasons.)
+
+Today, ECT is FDA-approved for the following indications:
+
+a. Refractory depression (unipolar and bipolar)
+b. Schizophrenia
+c. Bipolar mania (and mixed) states
+d. Schizoaffective disorder
+e. Schizophreniform disorder
+f. Catatonia
+
+Most ECT therapy involves receiving two to three shocks a week for at least two weeks. Sometimes the shock is administered bilaterally; sometimes it’s localized to one side of the brain. The cost, if you pay out of pocket, is rarely less than $1,500 per treatment. Around 100,000 Americans per year submit to ECT. With an average cost of $1,500 per shock and 6 to 8 shocks per patient, that's a total cost to insurance companies and Medicare of close to $1 billion per year. ECT is big business.
+
+In the old days, electric shock was provided using 120-volt sine-wave AC current coming more or less straight out of the wall socket, and people were indiscriminately subjected to needlessly high amounts of total charge. Modern protocols, properly conducted, involve titrating (calibrating) the patient’s response to electricity, in recognition of the fact that the seizure threshold varies from individual to individual (and by gender, as well; women have a lower seizure threshold than men). Low-dosage ECT involves using an amount of electricity that is 1.0 to 1.5 times the seizure threshold for the patient in question. (High-dosage ECT might go as high as 3.0 or more times the seizure threshold.) We’re talking roughly 450 volts and 0.9 amps for up to six seconds, applied in square-wave pulses. This can hardly be called an innocuous amount of electricity. It’s a severe insult to the brain, and more than enough electricity to kill you if applied to the wrong parts of the body.
+
+FDA did its own systematic review of 68 studies in 2011 and concluded, with regard to cognitive effects: “There is evidence for impairment in orientation, anterograde and retrograde memory, and global cognitive function immediately after ECT that may last up to six months. Autobiographical memory is the most commonly reported memory impairment in these reviews. There is limited evidence to suggest that the effects of ECT on memory and cognitive function may not last more than six months.” (Note the peculiar wording of that last statement.) FDA also had this to say: “Immediately post-ECT, there are deficits across nearly all cognitive domains.”
+
+It should be noted that FDA (in its 2011 systematic review) found an appalling shortage of controlled trials. Not many ECT studies have a placebo or “sham treatment” arm. In those that do, patients in the sham treatment group are counseled, anesthetized, and treated exactly the same as regular ECT patients, but when they wake up from the “procedure,” they’re told they’ve been shocked, when in fact they haven’t been.
+
+The few sham-controlled trials that have been published show a surprisingly high effectiveness of placebo (sham) shock therapy relative to ECT. In fact, one researcher (Colin A. Ross, M.D., of the Institute for Psychological Trauma in Richardson, Texas) said:
+The author reviewed the placebo-controlled literature on electroconvulsive therapy (ECT) for depression. No study demonstrated a significant difference between real and placebo (sham) ECT at 1 month post-treatment. Many studies failed to find a difference between real and sham ECT even during the period of treatment. Claims in textbooks and review articles that ECT is effective are not consistent with the published data. A large, properly designed study of real versus sham ECT should be undertaken. In the absence of such a study, consent forms for ECT should include statements that there is no controlled evidence demonstrating any benefit from ECT at 1 month post-treatment. Consent forms should also state that real ECT is only marginally more effective than placebo.  
+(Note: The Ross paper can be found online here. For additional references to the literature, see this page.)
+
+FDA found (in its extensive 2011 review) that during the one month following ECT, about 72% of patients showed evidence of benefit. But also, amazingly, 40% of people who received sham (phony shock) treatment exhibited evidence of benefit.
+
+Sham ECT’s effectiveness is not as high as true ECT, but the difference may reflect blind breakage. Maybe only 40% of sham ECT patients were fooled. The rest weren’t (because they didn’t wake up dazed and confused, with weird muscle aches), and since they didn’t believe they were shocked, they didn’t get better.
+
+The fact that sham ECT works almost as well as ordinary ECT raises the interesting possibility that it is the anesthesia, not the shock, that is providing most of the therapeutic benefit in ECT—a possibility that seems, incredibly, to have gone completely unnoticed by the same people who are now so vigorously promoting ketamine therapy for depression. (Ketamine’s primary medical use is as an anesthetic.)
+
+If you do your own reading on the subject, you may conclude (as I have) that ECT’s benefits are modest, at best (perhaps no better than placebo, in the case of low-dosage ECT), and the risks unacceptable. Also, any therapeutic effect (to the extent one exists) is decidedly short-lived. FDA’s extensive literature search found: “The literature only supports effectiveness claims for ECT for the time period immediately post-ECT to approximately one month. There is little evidence supporting the effectiveness of ECT beyond the one-month time point.”
+
+Because ECT is a controversial treatment with no well-accepted scientific explanation and the potential to cause long-lasting harm in patients (including death), I am going to devote several posts to this subject. Please join me over the next few days as we take a closer look at the literature on sham-ECT (controlled studies in which people in the control arm were fooled into thinking they were shocked), statistics around ECT and suicide, statistics on ECT and death, and the evidence that ECT causes brain damage. If you or anyone you know might be contemplating ECT, you owe it to yourself to read up on the facts. Meanwhile, you can find detailed discussions of this subject in my books Hack Your Depression and Of Two Minds.
+
+☙ ❧ 
+  I want to thank the following great folks who retweeted me yesterday on Twitter. My advice? Follow these guys. They retweet!
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

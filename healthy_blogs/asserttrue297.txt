@@ -1,0 +1,58 @@
+The genome of the leprosy bacterium (Mycobacterium leprae) stands as a remarkable example of DNA in an apparent state of massive, wholesale breakdown. Of the organism's 2720 genes, only 1604 appear to be functional, while 1116 are pseudogenes, which is to say genes that have been "turned off" and left for dead.
+
+Genes can become pseudogenes in any number of ways, including loss of a start codon, loss of promoter regions (or degraded Shine Dalgarno signals), random insertions and deletions, mutations that cause spurious stop codons, and so on. Once a gene gets "turned off," assuming loss of the gene in question isn't fatal, the gene typically undergoes a period of degradation (leading to its eventual loss from the genome), but that's not exactly what we see in the leprosy bacterium. When leprosy germs from medieval skeletons were sampled and their genomes sequenced, researchers found that pseudogenes in M. leprae haven't changed very much in the past thousand years or so. Not only does M. leprae tend to hold onto its pseudogenes, it actively transcribes upwards of 40% of them. Probably not all of the transcripts result in expressed proteins (many lack a start codon!), but some no doubt do get translated into proteins. Let's put it this way: It would be extremely unusual for an organism to conserve this many pseudogenes if none of them was doing anything useful.
+
+This view of a segment of the two genomes shows how a region of around 80,000 base pairs in M. tuberculosis maps to a similar 68,000-base-pair region of M. leprae. Notice that in the lowermost panel (representing M. leprae), many genes are shown as shrunken silver segments instead of fat green cylinders. The smaller grey/silver segments are pseudogenes. Click to enlarge.
+
+To get a better idea of what's going on here, I downloaded the DNA sequences of M. leprae's 1604 "normal" genes as well as the 1116 pseudogenes. In analyzing the codons for these genes, I looked for signs of genes that were still in the normal reading frame. One way to detect this is by measuring the purine content at the various base positions in a gene's codons. In a typical protein-coding gene, around 60% of codons begin with A or G (adenine or guanine). This positional bias will, of course, be lost in a gene that has undergone frameshift mutations. Among M. leprae's 1116 pseudogenes, I found 269 in which codons showed an average AG1 percentage (A+G content, codon base one) of 55% or more. These are pseudogenes that appear to still be mostly "in frame."
+
+Things get a lot more interesting where putative membrane proteins are concerned. In a previous post, I showed that in some genes, the second codon base is pyrimidine-rich (i.e., predominantly C or T: cytosine or thymine); these genes encode proteins with a high percentage of nonpolar amino acids. Bottom line, if a gene's codons are mostly T or C in the second position, that gene most likely encodes a membrane-associated protein. (See my previous post for some data.) This is true for all organisms (viruses, cells) and organellar genes, too, by the way, not just M. leprae. It's a generic feature of the genetic code.
+
+When I segregated M. leprae pseudogenes according to whether or not the second codon base was (on average) less than, or more than, 40% purines, I stumbled onto something quite interesting. I found 51 pseudogenes with AG2 less than 40% (meaning, these are probably membrane-associated proteins). Of those, 32 (or 62%) are still "in frame," with AG1 > 55%. By contrast, the majority (78%) of non-membrane pseudogenes (AG2 > 40%) appear to be turned off, with an average AG1 of 51%.
+
+Long story short: Most non-membrane-associated pseudogenes are out-of-frame (and likely dead), whereas 62% of putative membrane-associated pseudogenes appear to be in-frame, and therefore could still be functional (or at least, undead).
+
+In looking at stop codons, I found that of the pseudogenes that still had stop codons, the average distance to the first stop codon is only 149 bases (whereas the average pseudogene length is 795 bases). Pseudogenes for putative membrane-associated proteins were shorter overall (as membrane proteins often are; 495 bases instead of 795), but the average distance to the first stop codon was 190 bases, significantly longer than for the other pseudogenes. This suggests some of them are still alive.
+
+By now you're probably wondering how the heck a pseudogene can be of any possible use whatsoever when it contains a premature stop codon. The thing we need to ask, though, is why M. leprae tolerates (indeed conserves) so many pseudogenes in the first place. Could it be that the organism has adapted a frameshift-tolerant translation apparatus? Maybe some of the stop codons aren't really stop codons.
+
+We know that a wide variety of organisms (not just viruses, where this phenomenon was first discovered, but bacteria and eukaryotes) have evolved special signals to tell ribosomes to shift in and out of frame by plus or minus one. (See "A Gripping Tale of Ribosomal Frameshifting: Extragenic Suppressors of Frameshift Mutations Spotlight P-Site Realignment," Atkins and Björk, Microbiol. Mol. Biol. Rev. 2009.) Certain tRNAs participate in "quadruplet codon" decoding, making it possible for special frameshift signals to work. The signals usually involve 7-base-long "slippery heptamer" sequences, such as CCCTGAC, right where a stop codon (TGA) appears. In other words, when a stop codon appears inside a slippery heptamer, it's not really a stop codon. Depending on the kinds (and amounts) of tRNAs "on duty," it can be a frameshift signal.
+
+When I looked for CCCTGAC in M. leprae's pseudogenes, I found 16 in-frame occurrences of the sequence in 1116 pseudogenes. (Only 7 occurrences of the hexamer CCCTGA were found, in frame, in M. leprae's "normal" genes.) While this doesn't prove that M. leprae is up to any unusual translation tricks, it's a tantalizing result. Also bear in mind, if M. leprae is indeed up to some unusual tricks, it may very well be using frameshift signals other than (or in addition to) CCCTGAC. The fact that Mycobacterium species lack a MutS/MutL mismatch repair system means M. leprae may have adapted different ways of coping with "slippery repeats."
+
+Further work will be needed to confirm whether M. leprae indeed translates some of its pseudogenes into proteins. The 32 "high likelihood" pseudogenes that, according to my analysis, might still encode functional (or at least expressed) membrane-associated proteins are shown in the table below. Leave a comment if you have additional thoughts.
+
+M. leprae pseudogenes that have codons with overall AG1 > 55% and AG2 < 40%:
+
+Pseudogene Possible product
+MLBr00146 hypothetical protein
+MLBr00189 hypothetical protein
+MLBr00278 conserved hypothetical protein
+MLBr00341 hypothetical protein
+MLBr00460 hypothetical protein
+MLBr00478 hypothetical protein
+MLBr00738 PstA component of phosphate uptake
+MLBr00836 hypothetical protein
+MLBr00846 ABC transporter
+MLBr01054 possible PPE-family protein
+MLBr01156 hypothetical protein
+MLBr01237 possible cytochrome P450
+MLBr01238 probable cytochrome P450
+MLBr01400 possible membrane protein
+MLBr01414 PGRS-family protein
+MLBr01474 hypothetical protein
+MLBr01527 dihydrodipicolinate reductase
+MLBr01673 conserved hypothetical protein
+MLBr01792 probable Na+/H+ exchanger
+MLBr01968 PE family protein
+MLBr02003 probable ketoacyl reductase
+MLBr02101 conserved hypothetical protein
+MLBr02150 molybdopterin converting factor subunit 1
+MLBr02190 PstA component of phosphate uptake
+MLBr02216 dihydrolipoamide dehydrogenase
+MLBr02363 19 kDa antigenic lipoprotein
+MLBr02477 PE protein
+MLBr02484 transcriptional regulator (LysR family)
+MLBr02533 PE-family protein
+MLBr02656 conserved hypothetical protein
+MLBr02674 possible membrane protein

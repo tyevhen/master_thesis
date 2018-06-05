@@ -1,0 +1,32 @@
+"My mood is swinging."
+
+When I see this as a chief complaint in a progress note I know what I'm going to read next: a diagnosis of bipolar disorder, not otherwise specified, and an order for the mood stabilizer du jour. What I will not (usually) see is a description of what mood states the patient is "swinging" between, the duration of those mood states or a list of associated symptoms. This isn't specific to correctional work in that I've also seen documentation like this in discharge summaries I've received from hospitals.
+
+I'm familiar with the various "flavors" or subtypes of bipolar disorder that have been hypothesized, but the guys I treat don't fall into a clearcut diagnostic category (unless you count personality disorders) and sometimes there are cases that really push the boundaries between an Axis I and an Axis II problem. I see this a lot when I'm dealing with inmates with a history of institutional violence.
+
+People who do research on violence struggle over how to define or characterize violent acts. You'll see references to predatory violence versus instrumental violence versus opportunistic violence versus impulsive aggression. The nuances elude me, other than to say that the one consistent thing seems to be the degree of planning (or lack thereof) involved in the act.
+
+Before deciding to throw meds at the problem, I'll usually do an assessment to clarify whether or not violence really is an issue. You'd be surprised the number of guys who self-identify temper as an issue, but when you take their histories they've actually held it together quite well. Someone who only has one ticket (infraction) for fighting in a year of incarceration really can't be considered to have too much of a problem with violence. In cases like that I'll ask more questions to figure out exactly why the patient thinks it's a problem; more often than not, they're troubled by the fact that they merely have violent thoughts. In that case the inmate has unrealistic expectations of what a medication can do for their problem.
+
+Other questions I ask are:
+
+* who are you fighting with, inmates or officers or both?
+The choice or level of discrimination reflects the degree of control over the violence.
+
+* have you gotten into fights that you haven't had tickets for?
+If the answer is yes, this usually means that the patient and his/her opponent plans the fight to avoid detection by custody, another situation where medication is unlikely to be of benefit.
+
+* do you fight when you're sober and clean?
+By far the most common precipitant for violence is substance abuse, either in the facility or in free society.
+
+* do you have a bad temper even when you're not depressed?
+Clinical depression can decrease frustration tolerance for prisoners. This is often the factor that causes them to seek treatment when they wouldn't even think of seeing a shrink on the outside. Treating the underlying depression fixes the temper problem.
+
+* tell me about some of the situations you've gotten mad in recently
+Often there's a good reason for it. Medication is unlikely to help you keep from getting mad when you've got people cursing at you or threatening you. Normal anger exists for a reason and medication will not keep someone from ever getting angry over things that would anger anyone.
+
+So once I've done all this I'll decide whether or not the violence issue is one that might benefit from medication. I'll make it clear in my note that violence is the target symptom and I won't try to stretch a diagnosis to justify a treatment plan.
+
+I think all classes of pharmacologic agents have been used to treat violence at one time or another, but most recently mood stabilizers have shown the most utility for aggression associated with personality disorders. Lithium has been used for this since the original studies in the 1970's, when it was found to cut the violent infraction rate in prisoners by about half. (Interestingly, some of this subjects also discontinued the medication on their own because they didn't "feel" it working, even when it was.) Valproic acid, carbamazepine and now the atypical antipsychotics have all been used for this. SSRI's can have an interesting pro-apathy (if that's a word) effect in some people, giving them the ability to "shrug off" experiences that they normally would have gotten upset about. Regardless, the goal is to lengthen the patient's fuse and give them time to think before they act.
+
+As one patient of mine put it: "The medication doesn't lengthen my fuse. It gives me a fuse."

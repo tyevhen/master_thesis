@@ -1,0 +1,25 @@
+Top left: The original image. Top right: The image quantized to 4 bits of color information per channel. Lower left: 3 bits of color per channel. Lower right: 2 bits per channel.
+
+It turns out to be surprisingly quick and easy to quantize the colors in an image to a smaller number of bits per channel than the standard 8 bits for red, 8 bits for green, and 8 bits for blue. All you have to do is loop over the pixels and AND them against the appropriate mask value. A mask value of 0xFFF0F0F0 discards the lower 4 bits' worth of color information from each channel, essentially leaving 4 bits, each, for red, green, and blue. A mask value of 0xFFE0E0E0 keeps just the top 3 bits in each channel, while a mask of 0xFFC0C0C0 retains just 2 bits of color per channel.
+
+To obtain the images shown above, I ran the following script against them (using these various mask values) with the aid of the ImageMunger Java app that I gave code for earlier. The ImageMunger class simply opens an image of your choice (you supply the filepath as a command line argument) and runs the JavaScript file of your choice (a second command line argument), putting variables Image and Panel in scope at runtime. The Image variable is just a reference to the BufferedImage object, representing your image. The Panel variable is a reference to the JComponent in which ImageMunger draws your image.
+
+MASK = 0xffc0c0c0; // 2 bits per channel
+// 0xffe0e0e0  3 bits per channel
+// 0xfff0f0f0  4 bits per channel
+
+var w = Image.getWidth();
+var h = Image.getHeight();
+var pixels = Image.getRGB( 0,0,w,h,null,0,w );
+
+for (i = 0, len = pixels.length; i < len; i++)
+ pixels[ i ] &= MASK;
+
+Image.setRGB( 0,0,w,h,pixels,0,w );
+Panel.updatePanel( );
+
+The getRGB() method of BufferedImage fetches the pixels from your image as a giant one-dimensional array. The corresponding setImage() method replaces the pixels. The updatePanel() method of Panel (defined in ImageMunger.java) causes the JComponent to refresh.
+
+Given that this is JavaScript and not Java, we shouldn't be surprised to find that performance isn't exactly breakneck. Still, at 110 pixels per millisecond, thoughput isn't terrible, either.
+
+As you might expect, quantizing the color info makes the image easier to compress. The original image, in PNG form, occupies 185 Kbytes on disk. The 4-bit-per-channel version occupies just 61K; the 3-bit version, 38K; and the 2-bit version, a little over 23K.

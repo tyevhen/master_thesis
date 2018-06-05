@@ -1,0 +1,69 @@
+Following the recent changes to S.136 MHA by the Policing & Crime Act, there has been some discussion in mental health circles about whether or not a person who has been arrested for an offence and is in police custody can be detained under S.136 while still in custody.
+
+This question would not have arisen prior to 11th December 2017, as someone could only be made subject to S.136 if they were in “a place to which the public have access.” A police station was most definitely not such a place.
+
+However, the new S.136(1B) has dispensed with this requirement, and now states that the power can be used in “any place”, with only a few exceptions, which include a private dwelling.
+
+So theoretically at least, it would be within the law to use the S.136 powers in a police station.
+
+Let’s look at a possible scenario.
+
+Scenario 1
+Gary is arrested after he was challenged by police in the town centre and threw a can of lager at the police officer. Once in custody, it becomes clear to the custody officer that Gary is suffering from some sort of mental disorder.
+
+Prior to 11th December 2017 the custody officer would have had to contact the local AMHP service, who would then have arranged to conduct an assessment under the Mental Health Act at the police station.
+
+Now, however, a second option is available: to detain under S.136 and then either transfer them to a place of safety or allow them to be assessed in accordance with S.136 requirements in the police station.
+
+Clearly, the question of using S.136 in these circumstances depends on the seriousness of the offence; it would probably not be appropriate to consider moving someone to a S.136 suite who has been arrested on suspicion of murder.
+
+I can certainly see that S.136 could possibly be appropriate, as well as legal, if the custody officer believes the person needs an assessment of their mental health, and would be better served in a non police based place of safety.
+
+But what if the person in custody has already been assessed under the MHA?
+
+Scenario 2
+The custody officer considers Gary has a mental disorder and an AMHP and two doctors assess him in the police station. They conclude that he has a mental disorder within the meaning of the Act, and that he should be detained in hospital.
+
+However, no bed has been identified, and the 24 hour PACE clock is running out.
+
+Again, prior to December 2017, the custody officer would have had no choice but to watch the PACE clock run out and then make a decision whether or not to release someone who has been assessed as needing detention in a hospital because of risks to themselves or others, or to keep them in custody, outside of any legal mechanism.
+
+Unfortunately, because of the dire nationwide shortage of beds, exacerbated by an even worse shortage of specialist beds, such as Psychiatric Intensive Care Units (PICUs), and placements for children, this scenario is not uncommon. In a few instances in our area, people have been kept in legal limbo in police custody for up to 72 hours before a bed has been found.
+
+A custody officer could be forgiven if, after perusal of the revised S.136, they exclaimed “I can detain this person under S.136 and that gives another 24 hours to find a bed!”
+
+But would this be legal? My first response to this scenario would be to say that it would not, but close reading of S.136 throws up complications.
+
+Let’s look at what the MHA, and the Code of Practice, has to say.
+
+The first thing that an AMHP would focus on is their duties under S.136. This is to be found in S.136(2):
+
+A person removed to, or kept at, a place of safety under this section may be detained there … for the purpose of enabling him to be examined by a registered medical practitioner and to be interviewed by an approved mental health professional and of making any necessary arrangements for his treatment or care.
+
+The Code of Practice stresses:
+
+The purpose of removing a person to a place of safety in these circumstances is only to enable the person to be examined by a doctor and interviewed by an AMHP, so that the necessary arrangements can be made for the person’s care and treatment.(para16.25)
+
+An AMHP (myself included) would argue that in Scenario 2 Gary has been assessed, and therefore does not need another assessment. Would it not be an abuse of S.136 to use the powers simply to manage the PACE clock?
+
+However, what is the precise wording of S.136(1), where it relates to the police’s powers?
+
+This says:
+
+If a person appears to a constable to be suffering from mental disorder and to be in immediate need of care or control, the constable may, if he thinks it necessary to do so in the interests of that person or for the protection of other persons…remove the person to a place of safety.
+
+What this section is saying is that all a constable has to establish in order to exercise their power is to be satisfied that a person appears to be suffering from mental disorder and is in immediate need of care or control.
+
+They don’t have to worry about the niceties of assessment by an AMHP and a doctor, even though that is the legal consequence of using S.136.
+
+Essentially, S.136(1) provides instructions for the police alone, as AMHPs would only be involved at that stage if the constable’s duty to consult with a mental health professional was being exercised.
+
+S.136(2), however, provides instructions for the AMHP. The constable has no part in decisions relating to disposal of the person once detained, except for circumstances in which the police are required to manage the person.
+
+So the custody officer in Gary’s case would certainly have the evidence of mental disorder. After all, Gary has had a full MHA assessment and a decision has been made that Gary should be admitted to psychiatric hospital. The custody office could equally conclude that, being mentally disordered, and having been arrested because of his behaviour, Gary was in immediate need of care or control.
+
+He could also legitimately conclude that Gary, being definitely mentally disordered, would be better off in a S.136 suite than in a police station.
+
+On this reading, there would be nothing in law to stop the custody officer from detaining Gary under S.136.
+
+I just hope they don’t do this too often, or AMHPs are going to have an even greater workload.

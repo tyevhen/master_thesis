@@ -1,0 +1,23 @@
+There seems to be a lot of blogging these days about how many Twitter followers (and/or folllowees) is "too many." Inevitably someone will mention Dunbar's number.
+
+Wikipedia, paraphrasing Gladwell, says that the Dunbar number "is a theoretical cognitive limit to the number of people with whom one can maintain stable social relationships. These are relationships in which an individual knows who each person is, and how each person relates to every other person."
+
+"No precise value has been proposed for Dunbar's number," the person who wrote this Wikipedia entry points out, "but a commonly cited approximation is 150."
+
+Approximation? Precise value?
+
+The value 150 comes from a combination of observations in primatology (specifically, observations of grooming behavior in apes) and comparative anthropology (of a retrospective sort; i.e., looking at human organizational patterns of the far distant past).
+
+Bottom line: This is a social metric based on ape habits and the tribal activities of ancient peoples. It's hard to imagine a less appropriate starting point for talking about the new modalities of social interaction made possible by technology that is still emerging. Do the grooming habits of non-human primates really apply to Twitter users? That's a pretty big disconnect for me.
+
+I make no assumptions about how many social contacts a modern human can have. Over the past 150 years, a lot of effort has gone into the invention of new technologies that extend the social reach of individuals. The automobile. The telegraph. The telephone. The Internet.
+
+Dunbar hypothesized that language itself may have been invented as a cheap way to maintain large numbers of social relationships (a cheap substitute for one-to-one physical contact).
+
+Is there a limit on how many friends a person can have? What does it mean, in the online world, to maintain a friendship? Some friendships (in the offline world) are low-maintenance, while others are high-maintenance. I have friends from school and/or prior lives that (in a few cases) I've reconnected with after decades of no contact, and guess what? We're still friends.
+
+Think of how many times you've found yourself in an airport waiting for a connecting flight, and you strike up a conversation with a total stranger, and go home with that person's contact info after "hitting it off." Does that not count as a friend relationship?
+
+We're in new territory with the Social Web. Technology is connecting people in new ways. Debates about "how many online friends are too many" (especially when they invoke concepts from primatology) seem pedantic and parochial. "Dunbar's number" is not some fundamental constant of nature; it's not Planck's constant. It's a theoretical construct from sociology. Let's not give it more stature than it deserves.
+
+In fact, I say let's call it what it is -- NaN (not a number) -- and move on.

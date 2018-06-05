@@ -1,0 +1,57 @@
+In my post about the biological assessment of mental health diagnosis, I mentioned that there are three ways a clinician can focus a mental health assessment: biological, psychodynamic, and behavioral. In this post I will discuss the psychodynamic and behavioral assessments of patients. 
+
+I'm not sure what a psychological assessment feels like to the clinician, but I have been through several assessments as a patient. Some of them have been very grueling and embarrassing - my 2 hour long assessment for dialectical behavioral therapy comes to mind. Generally, the mental health worker will ask a series of questions to determine personality (am I maladaptive?), social context (am I from an abusive family? caring for an sick family member? a bullied teen?), and culture (I'm a WASC) .
+
+
+Such an assessment can be either a structured or unstructured interview. In the structured interview, the patient is asked a set of pre-determined questions, even if some of the questions seem inapplicable. In the unstructured interview, the clinician decides which questions to ask. The unstructured interview is much less grueling than the structured one, but it is more likely to produce bias due to the direction of questions that the clinician chooses. 
+
+Generally while the clinician is giving the interview, she also assesses the general appearance and behavior of the individual. Is he well-dressed, have good hygiene, look the clinician in the eye? Does he seem to be lying? Observation can also be done through role-playing and self-monitoring. Self-monitoring is a fantastic way to get information that the clinician might miss in a one-hour interview, but it tends to be biased towards what the patient is willing and able to record.
+
+
+
+
+There are also a lot of tests to determine personal characteristics.  A famous one of these is the Rorschach Inkblot Test. It's a series of 10 inkblot pictures to which the patient tells the clinician what she sees and thinks while looking at the picture. The Rorschach test takes a lot of time both to administer and to evaluate, though it can be very enlightening to a clinician who is well-trained in the system.
+
+Another well-known personality-trait test is the Thematic Apperception Test (TAT). The TAT uses a series of simple pictures of people in various contexts. The patient tells a story about what the character is doing and why. Like the Rorschach test, the TAT takes a long time to administer and interpret. The TAT has become a bit obsolete since the pictures were designed in 1935, making them harder for the modern patient to relate to. 
+
+The Rorschach and TAT are considered subjective assessments, because they are subject to the clinician's interpretation. There are also objective tests like the Minnesota Multiphasic Personality Inventory (MMPI), which was introduced in 1943, and revised to the MMPI-2 in 1989. The MMPI-2 is a computerized test consisting of 550 true-false questions on topics ranging from physical condition and psychological states to moral and social attitudes. From these 550 questions, several "clinical scales" are determined. Such scales quantify hypochondria, depression, hysteria, pscyhopathic deviance, masculinity-femininity, paranoia, psychasthenia, schizophrenia, hypomania, and social introversion. It also quantifies the likelihood of lying (inconsistent answers), addiction proneness, marital distress, hostility, and posttraumatic stress.
+
+Such computerized objective tests are helpful because they (for the most part) lack clinician bias, and they are inexpensive. However, they depend upon the patient's ability to honestly and accurately describe themselves, which many patients are unable or unwilling to do. These tests also tend to be impersonal, and might alienate the patient.
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+References:
+
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 4: Clinical Assessment and Diagnosis. Abnormal Psychology, sixteenth edition (pp. 101-127). Pearson Education Inc.

@@ -1,0 +1,87 @@
+Chapter 2 of Butcher's Abnormal Psychology is a bit harder to summarize than Chapter 1. It covered the reactions of people towards  the mentally ill throughout history. There were lots of names mentioned, and trends galore. But I will try to focus on the ones that I found most interesting. 
+
+During the classical age of Greek and Roman philosophers, mental illness began to be viewed more as a physiological trait than as demonic possession, which was the common viewpoint before this time. Hippocrates, a Greek philosopher considered the father of modern medicine, believed that mental illnesses were due to brain pathology. He recognized heredity, predisposition, and head injuries as common causes of mental illness. The doctrine of the four humors was related to Hippocrates and later to the Roman physician Galen. These four fluids in the body could combine in different ways to regulate the personality of an individual. Hippocrates promoted healthy living as a remedy to mental illness.
+
+
+
+
+Plato, also, supported the kind, empathetic treatment of mentally ill individuals. He suggested that mentally disturbed individuals were not responsible for criminal acts. However, Plato viewed mental illness, at least partly, as an effect of spirituality. Hippocrates' and Plato's support of humane treatments for mental illness influenced later Greek and Roman philosophers. 
+
+During the Middle Ages, the belief that mental illness had physiological origins almost disappeared in Europe. The texts of the Greeks and Romans survived in Islamic and Middle Eastern regions, but very few Europeans of this time were able to read Greek or Roman texts. The Middle Ages marked a regression in both scientific and philosophical thought. The Greek and Roman texts weren't "rediscovered" until the Renaissance. 
+
+Supernatural explanations for mental illness gained popularity, and treatment was left mainly to the clergy. At least the treatment of the mentally ill by the clergy was mainly humane. 
+
+
+
+It is commonly thought that the mentally ill were often accused of being witches during the Middle Ages, and were thus cruelly executed. However, recent research suggests that witchcraft was not believed to be an effect of possession, as mental illness was. Usually the accused were ill-tempered, impoverished women. 
+
+Scientific explanations for mental illness reemerged in the late Middle Ages and Renaissance. Even some of the clergy were falling away from possession as the cause of mental illness. Saint Vincent de Paul declared "Mental disease is no different than bodily disease and Christianity demands of the humane and powerful to protect, and the skillful to relieve the one as well as the other." 
+
+Despite the resurgence in the belief of physiological explanations for mental illness during the Renaissance, inhumane asylums for the storage of individuals who could not care for themselves were on the rise. 
+
+In the late 1700s, humanitarians began to intervene on behalf of the mentally ill. Physicians began to experiment with more humane treatment of individuals. The French physician Philippe Pinel demonstrated that the removal of chains, and introduction of healthy living in an asylum had extraordinary effects on the recovery of mentally ill individuals. English Quaker William Tuke later established a pleasant retreat for mentally ill patients, with similar positive results. 
+
+The success of Pinel and Tuke led to a period of humanitarian reform and the use of moral management. This movement promoted the rehabilitation of moral and spiritual character, as well as manual labor. Moral management was highly effective. Recovery and discharge rates increased dramatically.
+
+Unfortunately, moral management made way to the mental hygiene movement, which emphasized the physical (rather than spiritual) treatment of institutionalized patients. Although hygiene and the belief in physiological as well as spiritual causes of mental illness were important, improving the hygiene of the patients alone was not successful, and recovery rates plummeted. However, the mental hygiene movement was meant to create a more humane environment for the institutionalized - so in that way it was progress. 
+
+
+
+The number of institutionalized patients increased throughout the 19th and 20th centuries, but during the late 20th century humanitarians began to support deinstitutionalization of the mentally ill. Popular culture seems to believe deinstitutionalization to be a good thing - and for many, it was. Reintroduction of the mentally ill and developmentally challenged  to their supportive families was a huge success when that family had the resources to care for its loved one. However, deinstitutionalization occurred too quickly, leaving many people without shelter, and of those who had shelter, many families didn't have the resources to care for the patients. Many of the shelterless people became homeless, and others were quickly shunted off into prisons. 
+
+During the 19th and 20th centuries, four major themes in psychology developed: 1) biological discoveries, 2) classification system for mental disorders, 3) the emergence of psychological causations and views 4) experimental and research psychology. 
+
+The first major breakthrough in biological treatment of mental illness was the discovery that a form of paresis was caused by syphilis. This discovery boded well for the discovery of more biological treatments for other illnesses. Later discoveries showed deterioration of the brain led to senility and that some disorders could be caused by exposure to toxic substances. Biological treatments also had some mishaps - such as surgical removal of body parts including tonsils, part of the colon, gonads, and the frontal lobe of the brain. 
+
+Emil Kraepelin, a German psychiatrist, pioneered classification of mental illnesses, and his system became the forerunner to the DSM. 
+
+The Nancy school began a movement exploring psychological causations of mental illness. Two scientists in Nancy, France, discovered that some of the traits observed in hysteria - psychological paralysis, blindness, deafness, and pain - could be introduced in healthy patients through hypnosis. These symptoms could also be removed by hypnosis. Therefore, the Nancy school believed that hysteria, and later other disorders, were a form of self-hypnosis. Jean Charcot, a French neurologist, disagreed with the Nancy School. His research suggested that mental disorders were caused by brain degeneration. Toward the end of the 19th century, it was accepted that mental disorders could have a psychological basis, biological basis, or both. 
+
+Sigmund Freud was a student of Charcot, but later leant more towards the psychological causations mental illness. Freud discovered that if patients were encouraged to discuss their problems under hypnosis, they felt considerable emotional release. The patients, upon awakening, made no connection between their problems and their disorder. This led to the discovery of the unconscious mind. Freud also discovered that free-association and dream analysis had the same cathartic effect on his patients. 
+
+By the first decade of the 20th century clinical psychology labs, which performed experiments on causes and treatments of mental illness, were on the rise. Soon, the behavioral perspective developed. This perspective emphasized the role of learning in disorders. It began with Ivan Pavlov's serendipitous discovery that he could condition dogs to salivate upon the ringing of a bell. Watson used Pavlov's discovery to develop behaviorism - the belief that humans gain personalities through changes in their environments. Watson believed that he could train a child to become anyone he wanted the child to become simply by creating the right environment. (Stephen Pinker's argument against this belief is discussed in my review of The Blank Slate.) 
+
+B. F. Skinner developed his own form of behaviorism in which consequences of behavior influenced subsequent behavior. This type of learning was named "operant conditioning." For example, positive conditioning occurs when someone is rewarded for a behavior, such as when we give a treat to a potty-training child who has successfully used the toilet. Negative conditioning occurs when a child receives a shock when sticking his finger into an electrical outlet. 
+
+And thus abruptly ended Chapter 2 - after a long list of names and dates that the book thought were important for us to remember. <Sigh>
+
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+
+
+References:
+
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 2: Historical and Contemporary Views of Abnormal Behavior. Abnormal Psychology, sixteenth edition (pp. 29-53). Pearson Education Inc.

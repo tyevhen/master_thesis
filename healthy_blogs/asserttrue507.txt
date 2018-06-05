@@ -1,0 +1,28 @@
+I've seen "tech recruitment" from both sides of the desk. I have been a job applicant, and I have been a hiring manager. Neither role is pretty.
+
+One of the unprettier sides of the hiring process in R&D is the on-site-interview stage, when the hiring manager (or one of his peers) gets to ask the applicant highly technical domain-knowledge questions. This can be done skillfully or poorly. It gets ugly fast when it becomes a hazing ritual based on riddle-solving.
+
+The correct answer to riddle questions.
+It's one thing to ask an open-ended technical question that lends itself to straightforward answers (e.g., "What are some things you could do to minimize the time spent in garbage collection?"). It's quite another to subject the interviewee to game-show riddles. "Four people want to cross a bridge. They all begin on the same side. You have twelve minutes to get all of them across to the other side. It is night. There is one flashlight. A maximum of two people can cross at one time," etc.
+
+My advice to job-hunters: Don't hire the employer who subjects you to such assholery.
+
+When I say "don't hire the employer," I'm referring to the fact that a job interview is a two-way process. The employer is interviewing the prospective employee, but the prospective employee is also interviewing the employer. Each is hiring the other. Both actors should be asking questions. (Reasonable questions.) Both should be engaged in meaningful conversation. Meaningless riddles are out-of-band.
+
+Reject a riddle by asking if you can have a more concrete, job-related question. Ask if there's perhaps a difficult problem currently receiving attention in the department you'd be working in. Ask if you can take a crack at that problem, or something just like it.
+
+If you're lucky (and if the interviewer is anywhere near as smart as he or she thinks he/she is), the interviewer will pick up on the fact that you're a serious, pragmatic individual with domain expertise and intelligence, who is anxious to apply hard-won knowledge to real-world problems. You're not a game-show contestant.
+
+A really stubborn, inflexible interviewer will stick to the riddle strategy and defend it by saying something like "I don't really care if you get the question right, I just want to see how you think." Which is completely ludicrous. A candidate who immediately produces the "right answer" to a riddle will always impress this kind of interviewer far more than someone who doesn't. That's the whole point of riddles. If a person really wanted to "see how you think," wouldn't he or she want to get to know you a little bit, perhaps draw you out with a series of simple questions? Wouldn't it mean engaging you in two-way conversation about something meaningful?
+
+Ask yourself: Do you want to work for the kind of manager (or company) that sees its new hires as successful game-show contestants?
+
+The right thing to do if you're an interviewer who wants to see how a candidate "thinks" (or "reasons" or "problem-solves") is to ask open-ended questions that are both job-related, and call for domain expertise.
+
+If you're hiring a Java programmer, by all means ask an open-ended question like "What would you do if an application is failing because of OutOfMemoryErrors?" This could lead to discussions (and further questions) around a whole host of issues relating to checked and unchecked exceptions, memory leaks, garbage collection, design patterns, good coding practices, debugging strategies, etc. Within a few minutes, you should know a lot more about the applicant's qualifications than whether or not he or she bought this year's "most asked job interview riddles" book before coming to the interview.
+
+Let's be clear. There's absolutely no need, ever, to subject an interviewee to questions for which there's a "trick answer." The hiring process isn't about tricks and games, is it?
+
+If you're a job candidate and you feel an interview is going in an inappropriate direction, it's up to you to speak out. Don't forget, you're doing some interviewing here, too. Ask politely if you can have another question. If the interviewer sticks with riddles and says "I just want to see how you think," you're dealing with a certain kind of person (colloquially known as a braying jackass), so dumb it down and (politely) ask the interviewer if you can have another question, job-related, that will allow you to demonstrate how you think. You may even have to suggest possible questions yourself, if the interviewer is a bit thick.
+
+Hire an employer who values the real you, not the game-show you. Unless, of course, you're into humiliation and Who's the Alpha Dog bullshit, in which case, may you find happiness and fulfillment together.

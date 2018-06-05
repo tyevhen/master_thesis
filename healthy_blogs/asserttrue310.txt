@@ -1,0 +1,75 @@
+ A longstanding open problem in biology is why the G+C (guanine plus cytosine) content of DNA varies so much across taxonomic groups. In theory, the amounts of the four bases in DNA (adenine, guanine, cytosine, and thymine) should be roughly equal, and regression to the mean should drive all organisms to a genomic G+C content of 50%. That's not what we find. In some organisms, like Mycobacterium tuberculosis, the G+C content is 65%, whereas in others, like Clostridium botulinum (the botulism organism) the G+C content is only 28%.
+
+We know that, in general, G+C content correlates (not perfectly, though) with large genome size, in bacteria. Very low G+C content usually means a smaller genome size, and in fact tiny intracellular parasites and symbionts like Buchnera aphidicola (the aphid endosymbiont) have some of the lowest G+C contents of all (at 23%).
+
+It's not hard to understand the presence of low-GC organisms, since it's well known that most transition mutations are GC-to-AT transitions. The high prevalence of mutations in the direction of A+T has often been called "AT drift."
+
+But some organisms go the other way, developing unusually high G+C content in their genomes, indicating that something must be counteracting AT drift in those organisms.
+
+Recently, a group of Chinese scientists (see Wu et al., "On the molecular mechanism of GC content variation among eubacterial genomes," Biology Direct, 2012, 7:2) has advanced the notion that high G+C content is due, specifically, to the presence of the dnaE2 gene, which codes for a low-fidelity DNA repair polymerase. This gene, they say, drives A:T pairs to become G:C pairs during the low-fidelity DNA repair that goes on in certain bacteria in times of stress. Not all bacteria contain the dnaE2 polymerase. Wu et al. discuss their theory in some detail in a .January 2014 article in the ISME Journal.
+
+In earlier genomic studies of my own, I curated a list of 1373 eubacterial species (in which no species occurs twice), spanning a wide range of G+C values. When I learned of the dnaE2 hypothesis of Wu et al., I decided to check it against my own curated collection of organisms.
+
+The first thing I did was go to UniProt.org and do a search on dnaE2. Some 1882 hits came back in the search, but many hits were for proteins inferred to be DNA polymerase III alpha subunits, not necessarily of the dnaE2 variety. In order to eliminate false positives, I decided to restrict my search to just bonafide dnaE2 entries that have been reviewed. That immediately cut the number of hits down to 77.
+
+But among the 77 hits, some species were listed more than once (due to entries for multiple strains of the organism). I unduplicated the list at the species level and ended up with 60 unique species.
+
+At this point, I wrote a little JavaScript code to check each of the 1373 organisms in my curated list against the 60 known-dnaE2-containing organisms obtained from UniProt. There were 47 matches. The matches are plotted in red in the graph below.
+
+Click image to enlarge. In this plot, genome A+T content (a taxonomic metric) is on the x-axis and coding-region purine content is on the y-axis. (N=1373) The points in red represent organisms that possess a dnaE2 error-prone polyerase. See text for discussion.
+
+This graph plots A+T content (which of course is just one minus the G+C content) on the horizontal axis, against coding-region purine content (A+G) on the vertical axis. (For more information on the significance of coding-region purine content, see my previous posts here and here. It's not important, though, for the present discussion.) Notice that the red points tend to occur on the left side of the graph, in the area of high G+C (low A+T) content. The red dot furthest to the right represents the genome of Saccharophagus degradans. Only 6 out of 47 dnaE2-positive organisms have G+C content below 50% (A+T above 50%). The rest have genomes rich in G+C.
+
+This is, of course, just a quick, informal test (a "sanity check," if you will) of the Wu hypothesis regarding dnaE2 (which is a repair polymerase not needed for normal DNA replication, nor possessed by all bacteria). Various types of sampling errors could invalidate these results. Also, the Wu hypothesis itself is open to criticism on the grounds that correlation does not prove causation. Nevertheless, it's an interesting hypothesis and a random check of 47 dnaE2-positive species in my collection of 1373 organisms tends to provide at least anecdotal verification of the Wu theory that dnaE2 causes drift toward high G+C content.
+
+Of course, Wu's theory does not explain the wide range of G+C contents observed in organisms other than bacteria. (There is no dnaE2 in eukaryotes, for example.) The general notion, however, that genomic G+C content tends to be a reflection of the components of a cell's "repairosome" (the enzyme systems used in repairing DNA) has substantial merit, I think. On that score, be sure to see my earlier analysis of how the presence or absence of an Ogg1 gene influences coding-region purine content.
+
+Here, by the way, are the 47 dnaE2-containing organisms that show up as red dots in the graph above:
+
+Agrobacterium tumefaciens
+Agrobacterium vitis
+Alkalilimnicola ehrlichii
+Anaeromyxobacter dehalogenans
+Anaeromyxobacter sp.
+Aromatoleum aromaticum
+Azoarcus sp.
+Bdellovibrio bacteriovorus
+Bordetella bronchiseptica
+Bordetella parapertussis
+Bradyrhizobium sp.
+Brucella abortus
+Burkholderia mallei
+Burkholderia pseudomallei
+Caulobacter crescentus
+Corynebacterium diphtheriae
+Corynebacterium efficiens
+Corynebacterium glutamicum
+Corynebacterium jeikeium
+Dechloromonas aromatica
+Gluconobacter oxydans
+Hahella chejuensis
+Idiomarina loihiensis
+Methylococcus capsulatus
+Mycobacterium bovis
+Mycobacterium tuberculosis
+Nocardia farcinica
+Propionibacterium acnes
+Pseudomonas fluorescens
+Pseudomonas mendocina
+Pseudomonas putida
+Pseudomonas syringae
+Ralstonia pickettii
+Ralstonia solanacearum
+Rhizobium sp.
+Rhodopseudomonas palustris
+Ruegeria pomeroyi
+Saccharophagus degradans
+Sinorhizobium medicae
+Symbiobacterium thermophilum
+Synechocystis sp.
+Teredinibacter turnerae
+Vibrio parahaemolyticus
+Vibrio vulnificus
+Xanthomonas axonopodis
+Xanthomonas campestris
+Xanthomonas oryzae

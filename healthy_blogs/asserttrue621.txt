@@ -1,0 +1,5 @@
+Google has quietly released a new beta version of its Chrome browser, which not only blows other browsers out of the water in terms of performance, but comes with a handful of important new features, including direct integration of Adobe Flash.
+
+In testing by Wolfgang Gruener, Chrome 5 was the clear performance winner. "In Google’s own V8 benchmark," Gruener writes, "Chrome 5 has set a new record on our system, scoring 4868 points, compared to 4456 of the most recent beta and 3804 of Chrome 4. This compares to 1945 for Safari 4.04, 654 for IE9 PP, 472 for Firefox 3.6.4 and 104 for IE8." The results are shown as a pie chart above.
+
+The same results with Chrome 4 taken out of the picture make the comparison even more striking:

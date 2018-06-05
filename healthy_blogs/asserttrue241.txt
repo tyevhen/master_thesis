@@ -1,0 +1,7 @@
+A fascinating news tidbit surfaced a few days ago at CMS Wire. It seems Amazon has invested in Acquia (the company that provides commercial support for Drupal, the popular open-source content management system), at a time when Acquia didn't exactly need any more cash.
+
+According to CMS Watch's Virginia Backaitis:
+Though neither company is disclosing the size of the investment, it certainly makes their relationship more symbiotic than it already was. Consider that Acquia runs on more than 8,000 AWS instances and serves more than 27 billion hits a month (333 TB of bandwidth a month).
+The Amazon cash infusion comes only 90 days after a $50 million non-Amazon investment round for Acquia. In other words, they didn't need any more money. But Amazon insisted.
+
+Make of it what you will; it's hard not to get the impression that Amazon will soon want to give other content-management options a run for the money, perhaps unveiling a WordPress-like solution for book bloggers, or wooing content creators away from Google's Blogger platform, or some such. Obviously they have some kind of content play in mind. But what?

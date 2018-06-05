@@ -1,0 +1,84 @@
+Antipsychotic use in the U.S. increased from 6.2 million treatment visits in 1995 to 14.3 million visits by 2008. Abilify, an antipsychotic, has been the top-selling drug in America for several years. Are we all psychotic now? No. Not exactly. Treatment of psychosis is not what made Abilify the top-selling drug in the United States. Abilify is now widely prescribed as an adjunctive drug for depression; it is also approved as a treatment for irritability in autism (as is Risperdal). And it's prescribed for off-label uses.
+
+The nasty little secret about drugs is that any doctor can prescribe any drug off-label for any reason. It's illegal for the drug manufacturers to promote a drug for off-label uses, but doctors are often persuaded (either by drug company salespeople or word of mouth, or whatever) that certain off-label uses are okay, and there is nothing illegal about doctors prescribing drugs off-label.
+
+In my forthcoming book, Of Two Minds (due out later this month), I talk about the recent trend toward off-label prescription of antidepressants, antipsychotics, and other psychiatric drugs. (Get a free sample here. More samples coming soon! Stay tuned!)
+
+A recent paper (PDF version here) looked at prescribing information drawn from the National Disease and Therapeutic Index (NDTI). It found that only 34.5% of antipsychotics prescriptions are for schizophrenia and other psychotic disorders (see table below). Somewhat disturbingly, 7.4% of prescriptions for these drugs are written for dementia patients. I say "disturbingly" because it's known that these drugs are associated with increased mortality in elderly patients. NDTI contains over 211,000 mentions of these drugs being given for non-psychiatric reasons, which is also disturbing. There is no legitimate reason to prescribe antipsychotics for non-psychiatric conditions, unless perhaps you're using Zyprexa's known weight-gain side effects to treat anorexia.
+
+Prescriptions for antipsychotics: Category tally (NDTI database).
+From Mark, T.L., CNS Drugs. 2010 Apr;24(4):319-2.
+Diagnosis category
+Drug mentions (thousands)
+%
+Mood disorders
+7195
+39
+Schizophrenia and other psychotic disorders
+6368
+34.5
+Delirium/dementia/amnestic or other cognitive disorders
+1369
+7.4
+Attention-deficit/conduct/disruptive behaviour disorders
+1046
+5.7
+Anxiety disorders
+1019
+5.5
+Disorders usually diagnosed in infancy/childhood/adolescence
+426
+2.3
+Personality disorders
+268
+1.5
+Impulse control disorders not elsewhere classified
+223
+1.2
+Substance-related disorders
+130
+0.7
+Developmental disorders
+86
+0.5
+Miscellaneous mental disorders
+79
+0.4
+Adjustment disorders
+36
+0.2
+Non-psychiatric
+211
+1.1
+Other hereditary and degenerative nervous system conditions
+36
+0.2
+Intracranial injury
+30
+0.2
+Other aftercare
+19
+0.1
+Diabetes mellitus with complications
+14
+0.1
+Nausea and vomiting
+12
+0.1
+Other nutritional, endocrine and metabolic disorders
+9
+0.1
+Other
+92
+0.5
+Unclassified
+345
+1.8
+
+Abilify is commonly prescribed as an adjunctive drug for depression. Its usefulness in this application is doubtful. Most antipsychotic prescriptions are now either for mood disorders or other non-schizophrenia-related conditions, and many people taking these drugs have not been properly informed as to the possible serious side effects, ranging from Type II diabetes to dystonia, akathisia, and tardive dyskinesia (which tends to be irreversible). The movement disorders (so-called extrapyramidal side effects) happen less often with atypical antipsychotics than old-school antipsychotics but still happen, even with the newer drugs. In children treated with these drugs, tardive dyskinesia  usually doesn't happen while on the drug, but only after withdrawing from it. It resolves by itself around half the time. For some people, it doesn't resolve without going back on the antipsyhotic. All antipsychotics, atypical or otherwise, bring  risk of weight gain and Type II diabetes.
+
+Please, before taking antipsychotics of any kind (or allowing someone you know to take them), educate yourself on the possible side effects. The following video shows some of the side effects in actual patients. Please also see Part II of this video here.
+
+
+
+Please share this post on social media. Thank you.

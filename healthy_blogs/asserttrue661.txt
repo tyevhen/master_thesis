@@ -1,0 +1,3 @@
+What's up with HTTP?
+View more presentations from Mark Nottingham.
+In case you haven't been following developments around things like HTTPbis and the PATCH verb, take a look at this slideshow. HTTP is far from a static specification. It's about to undergo significant clarification and expansion. All I can say is: It's about time.

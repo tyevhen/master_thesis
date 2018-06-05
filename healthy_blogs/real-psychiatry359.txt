@@ -1,0 +1,49 @@
+Bupropion is a widely prescribed antidepressant.  It is a safe and effective medication according to the FDA.  It can be safely prescribed with a high level of success.  It is probably more widely prescribed with the advent of guidelines suggesting that it is an augmenting agent for situations where antidepressant monotherapy is ineffective.  It may also end up being used with another antidepressant if a patient is interested in using it for smoking cessation and in an off label manner for attention deficit hyperactivity disorder and to treat sexual dysfunction associated with SSRI type antidepressants.  Bupropion does have a unique position in antidepressant pharmacotherapy.  With the increased focus on electrocardiogram abnormalities, it is probably the antidepressant that  is least likely to affect the QTc interval.
+
+Bupropion is generally well tolerated, but there are some people who develop increased anxiety, agitation and insomnia.  This people generally need to stop taking the medication or reduce the dose.  A small number of people will develop mild to moderate hypertension and depending on the situation, the medication should be discontinued or the hypertension treated.  The largest problem I see with this medication is deciding when to stop and start it based on its contraindications.  The FDA package insert (from the FDA website using the brand name) on the matter is clear:
+
+CONTRAINDICATIONS
+WELLBUTRIN is contraindicated in patients with a seizure disorder. 
+ WELLBUTRIN is contraindicated in patients treated with ZYBAN® 13 (bupropion hydrochloride) Sustained-Release Tablets, or any other medications that contain bupropion because the incidence of seizure is dose dependent. 
+WELLBUTRIN is also contraindicated in patients with a current or prior diagnosis of bulimia or anorexia nervosa because of a higher incidence of seizures noted in such patients treated with WELLBUTRIN. 
+WELLBUTRIN is contraindicated in patients undergoing abrupt discontinuation of alcohol or sedatives (including benzodiazepines). 
+The concurrent administration of WELLBUTRIN and a monoamine oxidase (MAO) inhibitor is contraindicated. At least 14 days should elapse between discontinuation of an MAO inhibitor and initiation of treatment with WELLBUTRIN. 
+WELLBUTRIN is contraindicated in patients who have shown an allergic response to 
+bupropion or the other ingredients that make up WELLBUTRIN Tablets
+
+The package insert goes into some of the evidence for these contraindications, but the details seem fairly clear to me.  So why is it that the following happens?
+
+1.  Patients who are not aware of the fact that bupropion can cause seizures.
+2.  Patients who are prescribed this medication in spite of the contraindications.
+3.  Patients with a past history or an active eating disorder taking this medication.
+4.  Patients who are regularly drinking alcohol +/- sedative hypnotics taking this medication.
+5.  Patients who have had generalized tonic clonic seizures taking this medication and the medicine is still prescribed.
+
+I could go into much greater detail about some of the most extreme situations where this occurs, but I think it would be more instructive if I just cut to a few basic recommendations for the safe use of this medication:
+
+1.  Do not prescribe it in the presence of contraindications.
+2.  Do not prescribe it to anyone who has a known problem with alcohol or sedative abuse problems.  In fact, obtain a new history for those disorders at the time you are obtaining informed consent for the prescription and revisit the contraindications every time you increase the dose since the seizure risk increases with dose increases.
+3.  Discontinue bupropion immediately if you are treating the patient for alcohol or sedative hypnotic withdrawal.  Have a serious conversation with that person about seizure risk an the FDA contraindications before restarting it.  People provided with that information quickly reassess the need for the medication and whether or not it has been helpful.
+4. Discuss the warnings with the patient if they have medical comorbidity that is flagged in the package insert such as:
+
+Hepatic Impairment: WELLBUTRIN should be used with extreme caution in patients with severe hepatic cirrhosis. In these patients a reduced dose and/or frequency is required, as peak bupropion, as well as AUC, levels are substantially increased and accumulation is likely to occur in such patients to a greater extent than usual. The dose should not exceed 75 mg once a day in these patients.
+
+and:
+
+The risk of seizure is also related to patient factors, clinical situations, and concomitant 
+medications, which must be considered in selection of patients for therapy with WELLBUTRIN. 
+Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, CNS tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold. 
+Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin. 
+Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold. 
+
+5.  Seriously weigh the seizure risk of adding any medication that might lower the seizure threshold to any person who is stable on bupropion and keep that person involved of the possible seizure risk.  Do a detailed and individualized risk assessment for prescribing medications to any patients.
+6.  Document the vital signs of any patient on bupropion and the trend.
+7.  Do not prescribe bupropion again to anyone who has had a seizure while taking it.
+
+I have seen bupropion prescribed in the context of all of the contraindications and warnings without seizures or other complications.  Risking a low frequency but serious complication is not the optimal way to prescribe it.  The other consideration is that the risk assessment needs to be done on an individualized basis.  A general number quoted as an average side effects from clinical trials obviously would not apply to a patient with multiple risk factors or a patient who reliably gets side effects every time he or she takes the drug.  Population based care sounds good when it is promoted by managed care companies or government agencies, but this is a good example of where that concept fails.  As I think about all of the high risk ways I have seen bupropion prescribed, I go back to the recent post on overprescriber biases and how that influences the process.  No physician trained in psychopharmacology would have these deficits on a purely cognitive level, but in the case of treatment resistant depression and a contraindication the situation may become higher risk.
+
+That is an ideal time for consultation or referral rather than taking a chance.
+
+If you are reading this from the patient perspective, I encourage reading the Medline Plus handout on any medication that you are taking. The FDA approved package insert is usually available on the Internet, even in the case of most generics.  I would exercise caution if you decide to study it.  In a previous post, I point out that a lot of people really don't want to know about detailed side effects in advance because they fear developing them by mere suggestion or they might avoid taking a useful medication entirely.  Some package inserts have specific "Information to the patient" that is usually designed to communicate important information.
+
+George Dawson, MD, DFAPA

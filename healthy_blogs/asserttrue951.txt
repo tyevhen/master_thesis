@@ -1,0 +1,5 @@
+According to a recent Digg post, BestBuy's website (allegedly) contains a cross-site-scripting (XSS) vulnerability.
+
+Which is doubly ironic when you consider that until recently, Digg itself was reportedly an XSS risk.
+
+Note: Every verb on this page should be considered to be prepended by "allegedly" unless otherwise indicated.

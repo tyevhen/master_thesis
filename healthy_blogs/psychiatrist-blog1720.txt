@@ -1,0 +1,13 @@
+This is a brief post about the underrecognized side effect of elevated serum ammonia (NH3) levels causing altered mental status, confusion, and delirium in people taking valproic acid or valproate (Depakene is US brand name... also applies to divalproex sodium, or Depakote).
+
+A case of Depakote-induced hyperammonemic encephalopathy was presented at last week's Annual APA meeting. Here's another case (actually, this one is mostly valproic acid toxicity) on Erik Mattison's blog. This problem is often not recognized because ammonia levels are not standard blood tests to do (this test is also a bit of a pain, in that the blood has to be kept on ice immediately after drawing it).
+In his presentation on May 21st, Dr. Rasimas discussed the case of a 36-year-old with treatment-resistant schizoaffective disorder and quiescent hepatitis C who returned to the emergency department in a state of lethargy and confusion less than 3 weeks after being hospitalised for lithium toxicity. Personnel in the ER started the man on sodium divalproex, which is chemically related to valproic acid, at a dosage of 1000 mg in the interim to treat hypomania. A nightly dosage ultimately resulted in a serum level of 114 mcg/mL...
+
+When the patient was admitted to the hospital, his AST and ALT were normal at levels of 17 U/L and 44 U/L, respectively, while ammonia was elevated at 66 mcg N/dL. Serum lithium was 1.2 mmol/L.
+
+Dr. Rasimas said he was asked to consult on the case, at which time he determined that the patient's dose of sodium divalproex should be immediately discontinued, suspecting a case of hepatotoxicity. The patient's other psychotropic medications, including lithium, were then resumed. Lactulose and supportive care were given. Ammonia peaked at 111 mcg N/dl within 36 hours of presentation while AST and ALT never exceeded 38 U/L and 81 U/L, respectively.
+
+The symptoms of delirium resolved slowly during the 96 hours following the discontinuation of divalproex sodium.
+Typical symptoms for this type of metabolic encephalopathy include confusion, agitation, disorientation, insomnia, hallucinations, picking at bedclothes or in the air, twitching, and asterixis (also called "liver flap", where your hands twitch when holding your arms outstretched as if you were stopping traffic). If an EEG is performed, this usually demonstrates a diffuse encephalopathy.
+
+I've seen several cases of this, and it is gratifying to recognize it, stop the Depakote, add lactulose (helps to reduce the ammonia), and see improvement. I've seen it with even lower ammonia levels (40's) when GI docs say that they doubt that is the problem. But when it improves, it is hard to think that it is anything else.

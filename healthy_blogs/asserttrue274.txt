@@ -1,0 +1,127 @@
+Today I want to demolish two myths, one being that strict anaerobes (such as members of the Clostridia, a class of bacteria that includes the botulism organism as well as the C. diff bug that sickens half a million people a year in the U.S.) lack a catalase enzyme, and the other being that codons have very little degeneracy in base one. Don't worry, I'll parse all this for you so that even if you're not a bio-geek, you'll get it.
+
+Bacteriology students are taught from Day One that strict anaerobes are killed by oxygen because they lack a catalase enzyme. Catalase is the nearly universal enzyme that breaks down peroxides into oxygen and water. The catechism about anaerobes being catalase-negative is true for some anaerobes, but by no means all. In fact, if you go to UniProt.org and do a search on "catalase clostridium" you'll get a long list of hits representing anaerobes that do, in fact, have a perfectly normal catalase enzyme. Some anaerobes have the classic katG (E. coli) version of catalase while others (like C. difficile) have a special manganese-containing catalase. Pathogenic anaerobes probably use the enzyme to combat the respiratory burst that accompanies engulfment by white blood cells. I've written about anaerobic  catalases before; for an overview of the enzymology and phylogenetic breakdown by enzyme type, start here.
+
+Methanospirillum (a strict anaerobe found
+in sewage) produces colonies with
+characteristic striations spaced two
+cell-lengths apart.
+I thought it would be interesting to compare the katG genes of two anaerobes to see how they differ. I decided to focus on C. botulinum B (the nasty food-poisoning organism) and the archeon Methanospirillum hungatei strain JF-1, which is named after a professor I had in grad school, Bob Hungate, a true pioneer in the study of anaerobic bacteria.
+
+C. botulinum and M. hungatei are worlds apart, taxonomically. The genome of the former has a G+C (guanine, cytosine) content of just 27%, while the latter has G+C of 45%. Comparing their catalases, I found 717 nucleotide differences between the two genes (which were 2193 bases long in one case and 2157 in the other case). On the surface, the genes seem (from a DNA sequence point of view) quite far apart phylogenetically. But after performing an alignment in Mega6, I was able to study the codons base by base and found that of 717 differences, 500 changes were synonoymous (resulting in no amino acid substitution) while only 217 changes were non-synonymous. Not unexpectedly, most of the synonymous changes were due to differences in the third codon base (where the genetic code is highly degenerate; see below).
+
+Codon Usage in Clostridium botulinum B
+Codon Usage: The Standard Code (transl_table=1)
+CCA(P) 1.45%
+CCG(P) 0.10%
+CCT(P) 1.00%
+CCC(P) 0.06%
+CGA(R) 0.08%
+CGG(R) 0.01%
+CGT(R) 0.18%
+CGC(R) 0.02%
+CAA(Q) 2.01%
+CAG(Q) 0.25%
+CAT(H) 1.10%
+CAC(H) 0.16%
+CTA(L) 0.77%
+CTG(L) 0.10%
+CTT(L) 1.67%
+CTC(L) 0.06%
+GCA(A) 2.66%
+GCG(A) 0.20%
+GCT(A) 2.18%
+GCC(A) 0.19%
+GGA(G) 3.30%
+GGG(G) 0.47%
+GGT(G) 2.08%
+GGC(G) 0.40%
+GAA(E) 6.40%
+GAG(E) 1.11%
+GAT(D) 5.12%
+GAC(D) 0.62%
+GTA(V) 2.79%
+GTG(V) 0.45%
+GTT(V) 2.81%
+GTC(V) 0.14%
+ACA(T) 2.36%
+ACG(T) 0.16%
+ACT(T) 2.22%
+ACC(T) 0.19%
+AGA(R) 2.43%
+AGG(R) 0.31%
+AGT(S) 1.89%
+AGC(S) 0.48%
+AAA(K) 7.10%
+AAG(K) 2.17%
+AAT(N) 6.06%
+AAC(N) 0.89%
+ATA(I) 5.68%
+ATG(M) 2.50%
+ATT(I) 4.01%
+ATC(I) 0.42%
+TCA(S) 2.10%
+TCG(S) 0.12%
+TCT(S) 1.68%
+TCC(S) 0.12%
+TGA(*) 0.02%
+TGG(W) 0.69%
+TGT(C) 1.02%
+TGC(C) 0.25%
+TAA(*) 0.24%
+TAG(*) 0.07%
+TAT(Y) 3.61%
+TAC(Y) 0.55%
+TTA(L) 5.68%
+TTG(L) 0.74%
+TTT(F) 3.74%
+TTC(F) 0.57%
+Pink-highlighted codons are examples of where the genetic code is degenerate for base one. 
+A change of CGA to AGA (for example) results in no amino acid change: the 
+coded-for amino acid is arginine in either case.
+
+
+"Degeneracy" means a change in a particular base results in no change of amino acid. An example is the codon AAA (see above), which is the code for lysine (K). Changing the last base to G (resulting in a codon of AAG) still produces lysine in the resulting protein. Codons that begin with 'AA' are two-fold degenerate, because two versions (AAA and AAG) produce the same amino acid. A codon that begins with 'CC' is said to be four-fold degenerate, because any of four different endings (CCA, CCT, CCG, CCC) produce the same amino acid (P, proline).
+
+What's less obvious is that a change in the first (rather than the third) base of a codon can produce synonyms as well. For example, changing CGA to AGA results in the same amino acid: arginine (R). Likewise, CTA changing to TTA still results in leucine (L).
+
+But there's more degeneracy to  the first codon base than just the classic cases outlined in pink in the above table. A change of CTA to ATA produces a switch from leucine to isoleucine, which is tantamount to no change at all, because leucine and isoleucine are isomers (both have the same chemical formula; they differ slightly in arrangement).
+
+
+Likewise, a change from CTx to GTx produces a change from leucine to valine, which are workalikes. One could even argue that a change from CTT or CTC to TTT or TTC (leucine to phenylalanine) is functionally a degenerate change, because leucine and phenylalanine are nonpolar, hydrophobic amino acids with similar chemical properties.
+
+So in fact, many changes to the first base of a codon can be considered pseudodegenerate, if you will, by virtue of producing non-synonymous changes that are tantamount to very little actual chemical change. We would expect to see a significant number of such changes in mutations affecting base one of codons. And we do.
+
+In the two catalase genes, I looked at changes involving just the first base of a codon and found the following changes:
+
+Synonymous:
+AGA<-->CGA (R:R)
+AGA<-->CGA (R:R)
+AGA<-->CGA (R:R)
+TTA<-->CTA (L:L)
+TTG<-->CTG (L:L)
+TTG<-->CTG (L:L)
+TTG<-->CTG (L:L)
+TTG<-->CTG (L:L)
+
+Non-Synonymous:
+AAA<-->CAA (K:Q)
+AAA<-->GAA (K:E)
+AAA<-->GAA (K:E)
+AAG<-->CAG (K:Q)
+AAG<-->CAG (K:Q)
+AAT<-->CAT (N:H)
+AAT<-->GAT (N:D)
+AAT<-->GAT (N:D)
+ATT<-->CTT (I:L) *
+ATT<-->GTT (I:V) *
+CAT<-->GAT (H:D)
+CTG<-->ATG (L:M)
+CTT<-->ATT (L:I) *
+GCA<-->TCA (A:S)
+TAT<-->CAT (Y:H)
+TCA<-->GCA (S:A)
+TCT<-->CCT (S:P)
+TTT<-->CTT (F:L) *
+
+Notice that 4 out of 18 non-synonymous changes (see asterisks) fall in the category of pseudodegeneracies. That's slightly higher than the 17% we would expect by chance. So instead of 8 out of 26 first-base changes being degenerate (in the catalase genes), more like 12 out of 26 are either synonymous or near-synonymous. Bottom line, roughly half of first-base mutations are effectively synonymous, at least in this example.

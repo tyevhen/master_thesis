@@ -1,0 +1,59 @@
+One of the great things about SVG (and the SVG graphs you can produce on demand at ZunZun) is that, as a web standard, it supports DOM and JavaScript, which means you can make SVG graphs interactive. I want to run through a quick example of what I'm talking about.
+
+If you're using an SVG-compliant browser that honors inline SVG (so, any browser except IE), you should see a graph below, and you should be able to mouse over any point on the graph and see a tooltip appear with the name of the organism that corresponds to the underlying data.
+var captions = ["Borrelia burgdorferi", "Fusobacterium nucleatum", "Peanut witches-broom phytoplasma", "Staphylococcus aureus", "Lactococcus lactis", "Tetragenococcus halophilus", "Lysinibacillus sphaericus", "Lactobacillus sakei", "Colwellia maris", "Bacillus subtilis", "Legionella pneumophila", "Pasteurella haemolytica", "Francisella tularensis", "Erysipelothrix rhusiopathiae", "Aggregatibacter actinomycetemcomitans", "Bacillus thermoglucosidasius", "Vibrio harveyi", "Methylovorus sp", "Brevibacillus choshinensis", "Rhizobium radiobacter", "Pseudomonas stutzeri", "Rhodopseudomonas sp", "Methanosarcina mazei", "Rhodobacter capsulatus", "Geobacillus stearothermophilus", "Myxococcus xanthus"]; function show( node ) { var caption = document.getElementById( "myCaption" ); var id = node.getAttribute( "id" ); var x = node.getAttribute( "x" ); var y = node.getAttribute( "y" ); caption.setAttribute( "x", x+12 ); caption.setAttribute( "y", y-4 ); caption.textContent = captions[ id.substring(1) ]; } *{stroke-linecap:square;stroke-linejoin:round;}
+Mouse over a data point to see what it is.
+Hsp40 (DnaJ): Lysine and Arginine Content for 25 Species
+
+To make the graph show dynamically created tooltips, I produced a list of organisms from the raw data given here (which in turn came from the search results shown here). After capturing the names of the organisms in an array, I pasted the array, along with a few lines of JavaScript, into the top of my SVG graph (the graph I showed you how to generate in my earlier post about ZunZun), inside the first <defs> element:
+
+
+<script type="text/ecmascript"><![CDATA[
+
+    var captions = 
+["Borrelia burgdorferi", "Fusobacterium nucleatum", "Peanut witches-broom phytoplasma", 
+"Staphylococcus aureus", "Lactococcus lactis", "Tetragenococcus halophilus", 
+"Lysinibacillus sphaericus", "Lactobacillus sakei", "Colwellia maris", 
+"Bacillus subtilis", "Legionella pneumophila", "Pasteurella haemolytica", 
+"Francisella tularensis", "Erysipelothrix rhusiopathiae", 
+"Aggregatibacter actinomycetemcomitans", "Bacillus thermoglucosidasius", 
+"Vibrio harveyi", "Methylovorus sp", "Brevibacillus choshinensis", 
+"Rhizobium radiobacter", "Pseudomonas stutzeri", "Rhodopseudomonas sp", 
+"Methanosarcina mazei", "Rhodobacter capsulatus", 
+"Geobacillus stearothermophilus", "Myxococcus xanthus"];
+
+    function show( node ) {
+      var caption = document.getElementById( "myCaption" );
+      var id = node.getAttribute( "id" );
+      var x = node.getAttribute( "x" );
+      var y = node.getAttribute( "y" ); 
+      caption.setAttribute( "x", x+12 );
+      caption.setAttribute( "y", y-4 );
+      caption.textContent = captions[ id.substring(1) ];
+   }
+
+]]></script>
+
+I also inserted the following markup before the big list of <use> elements containing all the data points:
+
+
+<!-- DYNAMICALLY CHANGING TEXT -->
+<text id="myCaption" x="140" y="33" style="fill:#ef2200;font-size:12" 
+  text-anchor="left" alignment-baseline="left" >
+    Mouse over a data point to see what it is.
+</text>
+
+<!-- STATIC LABEL TEXT -->
+<text id="staticLabel" x="110" y="20" 
+style="fill:#442200;font-family: Arial;font-size:17">
+Hsp40 (DnaJ): Lysine and Arginine Content for 25 Species
+</text>
+
+The interactivity doesn't happen without a couple more modifications. One thing that's critical is that every <use> element describing a data point must have its own id attribute, consisting of an underscore followed by a number. (The underscore is my own crude namespacing device. You can name the id values differently, but you want to end up with numbers you can use to index into the organism array.) Also: Each <use> element needs to have an onmouseover attribute with a bit of code in it. Every <use> element looks something like this:
+
+<use x="378.167" xlink:href="#CIRCLE" y="232.512" 
+onmouseover="javascript:show(this)" id="_6"></use>
+
+By default, ZunZun generates <use> elements that have an xlink:href value of #m4920679963. I did a global search and replace, changing that value to something human-readable, namely #CIRCLE.
+
+By now you're probably wondering how I know for sure that my data-point id values match up to the correct names in my organism array. After all, that's how the code works: It examines the moused-over element's id value, then uses that value to index into the array (and displays the array value as a tooltip at the moused-over element's x and y position). It so happens that ZunZun, when it generates an SVG graph, spits out <use> elements (data points) in y-sorted-order, from high y-values to low y-values. Obviously, to make the tooltip trick work, I had to obtain my organism names in y-sorted order as well. How did I do that? It's actually pretty trivial, since I have the data that generated the graph. I'll leave it as an exercise for the reader, with this tip: You need to create an association (programmatically) between your data points (your x-y values) and the organism names, then sort against y-values. If you have 25 data points, you can make 25 custom objects, each with "x," "y," and "name" fields. Then make a custom comparator function, something like function compare(a,b) { return a.y - b.y }. Then, if your custom data objects are in an array called data, invoke data.sort(compare). Done.

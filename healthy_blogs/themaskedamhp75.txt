@@ -1,0 +1,39 @@
+Over the last few months I’ve been looking at several pieces of case law which relate to circumstances in which the Mental Health Act and the Mental Capacity Act interface. These include the recent Court of Protection case relating to ML, a man with autism, and the AM v SLAM case, which attempted to define when and in what circumstances the MHA or the MCA should be used. There is also, of course, the Cheshire West case.
+
+All these cases have one thing in common: they relate to the restraint and restriction of people with learning difficulties. ML had been detained under the MHA in a hospital in which he was subjected to extreme levels of restraint and seclusion, and the local NHS services were seeking to enforce this further, while the three subjects of the Cheshire West Supreme Court decision grappled with the concept of physical liberty as defined by Article 5 of the Human Rights Act.
+
+Cheshire West, or to give it is full title, P (by his litigation friend the Official Solicitor) (Appellant) v Cheshire West and Chester Council a and Another (Respondents); P and Q (by their litigation friend, the Official Solicitor) (Appellants) v Surrey County Council (Respondent), [2014] UKSC 19, Supreme Court (Lord Neuberger (President), Lady Hale (Deputy President), Lord Kerr, Lord Clarke, Lord Sumption, Lord Carnwath, Lord Hodge), 19th March 2014, finally concluded a convoluted court process that had taken several years.
+
+Both P, and P & Q, were subjected to high levels of control in their daily lives. P “was completely under the control of the staff at Z House, that he could not “go anywhere, or do anything, without their support and assistance”. Further, “the steps required to deal with his challenging behaviour lead to a clear conclusion that, looked at overall, P is being deprived of his liberty”.
+
+P & Q, (also known as MIG & MEG), are sisters. MIG lived with a foster carer, while MEG was in a NHS facility. Earlier court hearings to consider these cases had concluded, somewhat contentiously, that the situations of such severely mentally disabled people were not to be compared to normal or absolute concepts of freedom and restriction, but should instead be compared with others with similar problems.
+
+An earlier Judge had stated: “What was a deprivation of liberty for some people might not be a deprivation for others”. He said: “It is meaningless to look at the circumstances of P in the present case and to compare them with those of a man of the same age but of unimpaired health and capacity. . . . the right comparison is with another person of the same age and characteristics as P”.
+
+Lady Hale, in the Supreme Court, said: “The first and most fundamental question is whether the concept of physical liberty protected by article 5 is the same for everyone, regardless of whether or not they are mentally or physically disabled.”
+
+She makes the elegant statement; “it is quite clear that a person may be deprived of his liberty without knowing it. An unconscious or sleeping person may not know that he has been locked in a cell, but he has still been deprived of his liberty. A mentally disordered person who has been kept in a cupboard under the stairs… may not appreciate that there is any alternative way to live, but he has still been deprived of his liberty. We do not have any difficulty in recognising these situations as a deprivation of liberty. We should not let the comparative benevolence of the living arrangements with which we are concerned blind us to their essential character if indeed that constitutes a deprivation of liberty.”
+
+She concluded that: “it is axiomatic that people with disabilities, both mental and physical, have the same human rights as the rest of the human race. It may be that those rights have sometimes to be limited or restricted because of their disabilities, but the starting point should be the same as that for everyone else.”
+
+This ruling has already led to a vast increase in the number of applications for declarations under the Deprivation of Liberty Safeguards, and has placed considerable strain on local authorities’ Best Interest Assessor teams.
+
+Then there is the recent Department of Health guidance on the use of restrictive interventions in health and care services (Positive and Proactive Care: reducing the need for restrictive interventions), which was published in April.
+
+The guidance specifies certain situations in which the Mental Health Act, rather than the Mental Capacity Act, should be used. It states early on that “Staff must not use seclusion other than for people detained under the Mental Health Act 1983.”
+
+It continues: “The provisions of the Mental Health Act 1983 will only very rarely authorise the application of restrictive interventions in community-based health and social care services and non-mental health hospital settings. The MCA  will, if certain conditions are met, provide legal protection for acts performed in the care or treatment of people who lack the capacity to consent to the care or treatment The MCA will be particularly relevant when staff in general hospitals are considering the use of restrictive interventions to protect the person. If the MHA and/or MCA do not apply, the use of force is only justified legally for the purposes of self-defence, the defence of others, prevention of crime, lawful arrest or to protect property and the same statutory and common law provisions apply within health and care services as elsewhere.”
+
+It states unequivocally that: “Only people detained under the MHA should be considered for seclusion. If an emergency situation arises involving an informal patient and, as a last resort, seclusion is necessary to protect others from risk of injury or harm, then it should be used for the shortest possible period to manage the emergency situation and an assessment for detention under the MHA should be undertaken immediately.”
+
+Para 89 says: “The seclusion of a person under the MHA in a community setting (for whom neither a Deprivation of Liberty authorisation nor a Court of Protection order under the MCA to authorise the deprivation of their liberty is in place) is also likely to amount to an unlawful deprivation of liberty. If the circumstances of a person’s care resemble seclusion, it is seclusion whatever it is called locally. An assessment should be undertaken promptly to determine whether the person should be detained under the MHA immediately.”
+
+The guidance concludes: “Long-term segregation must never take place outside of hospital settings and should never be used with people who are not detained under the MHA” and also states: “The MHA authorises deprivation of liberty if the person meets the criteria for being detained for the purpose of assessment and/or treatment for mental disorder, even in the absence of their consent.”
+
+I think that this guidance clarifies issues which have been of concern to Approved Mental Health Professionals, as well as proponents of human rights, for some time.
+
+I have certainly felt very uncomfortable about the concept of comparative deprivation of liberty, which appeared to me to be a circular argument condoning and even encouraging the restraint and restriction of the liberty of people with learning difficulties purely on the justification that because they had learning difficulties they must need it.
+
+The recent Supreme Court judgment, which came out in March 2014, fortuitously dovetails quite neatly with the DH guidance that came out in April.
+
+It is to be hoped that all professionals , both in the public and private sector, and in social and nursing care and hospital settings, will take this guidance on board and be very careful not to restrain or restrict individuals’ liberty without ensuring that the appropriate legislation and associated legal safeguards have been used.

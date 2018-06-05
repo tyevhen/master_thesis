@@ -1,0 +1,70 @@
+I'm sure you've noticed, if you do any significant amount of writing (and maybe even if you don't), it's much easier to write a decent beginning than a satisfying ending. Here, I'm talking about short-form nonfiction: blogs, essays, book reports, campaign speeches, and the like. (Wait. Did I say "nonfiction"? Delete campaign speeches.)
+
+Notice I did not say beginnings are easy. If they were, my earlier piece on "How to Write an Opening Sentence" probably wouldn't have gotten 50,000+ page-views. No, my friend, beginnings are tough. But a good ending is harder. Usually. Most always.
+
+Why is that? Why should an ending be any harder than a beginning? Maybe it's because of how the brain works. Thoughts about a subject don't just sudddenly, neatly end. More often than not, you go on rehashing and rethinking things with no clear end. "The end" happens when something else, some more pressing set of thoughts, intercedes. Our lives, our thoughts, are not full of neat resolutions.
+G.K. Chesterton had a charming way of
+inverting logic to prove the absurdity of things.
+
+The easiest kind of writing to wrestle to the ground is the argumentative essay. Here, you can sum up, recap, return to the beginning, restate the thesis, or say something like "In the end, it all comes down to X. Either we accept X, or we don't. But if we reject X we have to be willing to accept Y. And that's something most people aren't ready to swallow." Or some such nonsense.
+
+It is sometimes (though not as often as you'd think) profitable to begin a piece of nonfiction writing with a famous quotation. In reality, quotations work much better in a conclusion. You could, for example, invoke G. K. Chesterton. Chesterton once said of Christianity, "It is not that Christianity has been tried and found wanting. It has been found difficult, and left untried." After quoting Chesterton, you can say: "And so it is with X. For all the well-meaning talk about X, it has yet to be tried." (Or: "Perhaps it is time X is tried in earnest.") Follow with: "If it fails, we'll know soon enough." Or: "If it fails, we will at least have tried something reasonable before going back to business as usual, which we already know doesn't work."
+
+One of the most satisfying endings of all times occurs in the final sentence of Nora Ephron's classic Esquire essay, "A Few Words about Breasts." (Also available in PDF form here.) The essay ends this way:
+     After I went into therapy, a process that made it possible for me to tell total strangers at cocktail parties that breasts were the hang-up of my life, I was often told that I was insane to have been bothered by my condition. I was also frequently told, by close friends, that I was extremely boring on the subject. And my girl friends, the ones with nice big breasts, would go on endlessly about how their lives had been far more miserable than mine. Their bra straps were snapped in class. They couldn’t sleep on their stomachs. They were stared at whenever the word “mountain” cropped up in geography. And Evangeline, good God what they went through every time someone had to stand up and recite the Prologue to Longfellow’s Evangeline: “... stand like druids of eld... / With beards that rest on their bosoms.” It was much worse for them, they tell me. They had a terrible time of it, they assure me. I don’t know how lucky I was, they say.
+      I have thought about their remarks, tried to put myself in their place, considered their point of view. I think they are full of shit.
+What I like about this ending is not just that it's personal, direct, and honest, but that it tapers down to a single, short, final statement, ending in a hot-button word: shit.
+
+I saw a fine college admission essay recently in which the entire essay read like one of those Dos Equis commercials (The Most Interesting Man in the World), which is to say, it was chock full of self-aggrandizing hyperbole, outrageous stuff like "I once caught a meteor in my bare hand. I taught a unicorn to use the Obamacare website. When I met Chuck Norris, I taught him to curtsy. I have actually identified UFOs.") I've done this ridiculous thing, I've done that ridiculous thing. The final sentence of the essay was: "But I have not yet gone to college."
+
+He got in.
+
+If you're writing something right now and are struggling for an ending, try this: Keep just what you've got, but add a short "knock-out punch" statement, either at the end of the final paragraph, or as its own paragraph. (Note, by the way, that Nora Ephron's final sentence would have worked quite well as its own one-line paragraph.)
+
+It's much harder to find a tidy ending for an open-ended discussion: for example, a book review (or other piece of writing that's not inherently argumentative). One possible strategy is to juxtapose the subject's strengths and weaknesses. "In Death of a Platypus, Frumpenheimer reveals himself to be a master of irony and an erudite student of the history of mime. What he lacks in humility, he makes up for in logic, and charm. He weds the wit of Thurber with the iconoclasm of Stein. The overall effect is arresting, mesmerizing, and sublime." Or "The overall effect is not to be found in any other writer of the late twentieth century," optionally followed up with: "which is why Frumpenheimer will be studied for decades, maybe centuries, to come." (Notice how breaking a sentence with commas near the very end causes the pace to slow, then stop. Compare the effect of ending the Frumpenheimer sentence at "decades.")
+
+Commas are small pauses; they're like tapping the brakes. As you get to the end of your essay, start tapping the brakes.
+
+I have often found it useful, when trying to bring a discussion to a close, to employ the multi-stage retro-rocket approach. This calls for a medium-length paragraph that sets up a short next-to-last paragraph, which in turn sets up a one-sentence final paragraph. It's like the retro-rocket that precedes the parachute that precedes the bouncy-balls on the Martian lander.
+
+MARTIAN LANDER PATTERN:
+
+Paragraph X (retro-rocket): It's not enough to consider A or to argue B. A and B make for powerful arguments, until you consider Q and R; and then they don't have the same impact.
+
+Paragraph Y (parachute): The fact is, A needs to be reconsidered in the light of S. Then we may find out T.
+
+Paragraph Z (bouncy-ball): The alternative, U, is unthinkable.
+
+Another pattern is to end with an anecdote, then tie it back into the discussion.
+
+Or you can speculate. "History doesn't record whether so-and-so ever thought about the consequences of such-and-such. He/she/they certainly couldn't have foreseen ABC. But here we are, still trying to grapple with the problem of XYZ. No doubt, future generations of experts will continue to grapple with it, for years to come." Optionally: "One can hope the next generation of PQR will [find the progress that has eluded the current generation of PQR] or [see the problem in a new, and more profitable, light] or [not encounter the same stumbling blocks that make ABC such a impasse today] or [whatever]."
+
+Listen to the Rhythm
+Learn to recognize when the ball hasn't rolled to a complete stop. Quite often, what you've written, thinking or wishing you've nailed the last sentence, isn't really the last sentence. In my recent essay on The New Weird (The New Weird being an emerging—but fundamentally stillborn, IMHO—literary genre), I had written, toward the end:
+It's not enough for fiction to permutate and pervert the past and serve it up again in shocking colors. Serve us up something new.
+I so wanted to be able to end it right there. But I could tell, from the cadence, that the ball had not yet stopped rolling. More needed to be said. I could have added: "Something tasty. Something memorable." But it still wouldn't have felt finished. I could have added more: "I want to sup for hours, and be filled for days. As it is now, I feel malnourished." Not working. The ball's still rolling.
+
+I decided to add yet another short paragraph. (Try to make paragraphs shorter, near the end. Sentences too. Claues within sentences, also. Give the reader subverbal cues that momentum is—in fact—gradually, gradually, slowing.)
+
+I'm still not 100% happy with the final additional paragraph I came up with:
+As a reader of fiction, I want to move beyond Tolkien-in-a-party-dress. I want the next New Weird to come without a rearview mirror. The current New Weird isn't doing it for me.
+Arguably, the final sentence could have worked better as its own standalone paragraph. (Possible rewrite: "Call me Old Normal, but the New Weird isn't doing it for me.")
+
+Possibly, I could have added yet another additional final sentence, as its own paragraph:
+Then again, maybe I'm just being weird.
+I could've used the circle-back technique. How? Add a new starting sentence (as its own paragraph) to the top of the essay: "If I had to sum myself up in one word, as a reader of fiction, I'm fussy." Then end the essay with a one-sentence paragraph (after all the previous bellyaching): "Like I said at the beginning. I'm fussy."
+
+In Short
+Some possible ways to end a piece of writing (by no means an all-inclusive list!):
+Make a statement at the beginning of the piece, with an explicit aim of returning to it at the end. The ending revisits the beginning.
+End with a question. Make a statement of how things should be, and then ask: Isn't that what most people mean by XYZ? Perhaps add: The question isn't whether we can afford to do XYZ, but whether we can afford not to.
+End with a warning. "If we don't do XYZ, maybe we deserve what we get." (Or "maybe the so-and-sos will win out after all, and then Archie Bunker will be King, and we'll all be happy and live forever." New paragraph: "Probably not, though.")
+Suggest a reason for hope. Tell how a situation can be improved, then: "Maybe then we'll have a free society worthy of the name. With liberty and justice for all."
+Use a quotation, either as the final statement or the beginning of the final paragraph (after which, you explain why it sums up the subject in question).
+Issue a call for action. "There's no reason the biggest retail corporations in the world should pay less than a subsistence wage. Minimum-wage workers of the world, unite!"
+Restate the thesis in the light of everything that's been disussed. "Given the fact that XYZ, the question isn't A, but B." Optionally follow up with "And that's a choice that might not sit well with the majority of [people; Americans; voters; politicians; puppeteers]."
+Use retro-rockets. Instead of a concluding paragraph, write three paragraphs, each one successively shorter. 
+Tap the brakes. Make your final few sentences short, or (if it's a long sentence) break it up with commas.
+When in doubt, write half a dozen endings. Keep the one that deserves to live.
+
+Then come back a day later, club that one to death, and write the real conclusion.

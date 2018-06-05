@@ -1,0 +1,64 @@
+I posted on obstructive sleep apnea (OSA) and continuous positive airway pressure (CPAP) last year and it was well received.  Since then I have given out a lot of advice on CPAP based on that post and in general to people I have consulted with.  I continue to encounter all of the problems that I mentioned in the original post.  The message that I am continuing to give people is that they cannot view CPAP as an option.  It may not seem like it but it is a critical intervention to prevent the cardiac and metabolic complications of obstructive sleep apnea.  There are several of them and they are severe and potentially life shortening.  Anyone with this diagnosis owes it to themselves and their family to make CPAP work to avoid the morbidity and mortality associated with OSA.
+
+It is very common in my practice to do my standard sleep assessment and hear that a person was diagnosed in a sleep study and that CPAP was recommended but for various reasons they are not using the machine.  I frequently hear about how the patient just "throws it off in the middle of the night" and how they "can't stand to have anything on my face" even in the case where they were diagnosed with severe sleep apnea.  Comments like those seem to understate the seriousness of the problem.  In many cases, insurance companies have asked for the machine back because the record on the SD card in the machine shows that it is not being used.  A person sitting in front of me with untreated OSA is complicated because their physical health is compromised and the immediate complications of untreated apnea and hypertension also compromises their psychiatric care.  The OSA and daytime somnolence becomes insomnia and that person may expect medical treatment for insomnia.  The prescription of sedating drugs is actually not a good idea for people with sleep disordered breathing.  The same think is true for hypertension.  There are several medications that can make hypertension worse and that I would not prescribe to people with uncontrolled hypertension.  Despite those qualifiers - I see medication and doses that I would not prescribe being given to people with untreated OSA.  It is untreated largely because the person does not give CPAP a chance.
+
+Here are a few tips that I give people that they have found to work.  I am not working in a sleep lab or clinic so I am seeing them after the study has been does and after they have seen a wide range to technicians who were supposed to help them with mask fit and instructions on how to use the machine.
+
+1.  Try various masks and types of CPAP - 
+
+A lot of people try the full face mask and throw it off repeatedly at night and decide that's it.  If feeling confined by a mask is a problem there are smaller modified masks and nasal CPAP.  Try several until you find the one that works the best.
+
+2.  Use humidification - 
+
+It is surprising how many people think that they will save time by not using the humidification system with the machine.  Not using the humidification is another sure way to not tolerate CPAP.  Maintain and adjust the humidification for maximum comfort as you are adjusting to CPAP.  
+
+3.  Make sure there are no air leaks -
+
+In order for CPAP to work there has to be air pressure transmitted into the upper airway to maintain a splinting effect and prevent obstruction.  Air leaks put that pressure at risk and can prevent the effective use of CPAP.  Trying to find air leaks can be frustrating because after the fitting occurs by the technician or respiratory therapist there are problems at home associated with sleep positions.  With the wide array of equipment available it is very unlikely that you will not be able to find a device that works, but in some cases it may take a while.  An APAP device with a readout each morning (see graphic) will tell you if there have been any significant air leaks (100% mask fit = no air leaks).
+
+
+4.  Get a modern APAP machine with feed back -
+
+APAP is an abbreviation for Automatic Positive Airway Pressure.  This machine is able to sense increasing obstruction and adjust the pressure.  One of the main advantages is that a lower baseline pressure can be used and then as any obstruction occurs the devices increases the pressure to overcome it.  Standard CPAP devices have the pressure set based on the original sleep study. In the case of significant obstruction that could mean a constant high pressure.  Constant high pressures can lead to some side effects such as ear pain from pressure effects.  The really strong point of APAP devices is that they are generally much more sophisticated pieces of equipment. They can make the data available over the Internet to a sleep medicine physician who can remotely adjust the settings based  on downloaded data.  They also allow the patient to download their data each morning via a smartphone app (see the above graphic) so they know the hours that they wore the device each night, what the pressure settings were, and how many apneic/hypopneic episodes occurred (AHI or  Apnea/Hypopnea Index) per hour.
+
+
+5.  Optimize your sleeping position and preparation each night based on the APAP readout - 
+
+The modern APAP allows the individual patient unprecedented control over the treatment of sleep apnea.  With the feedback every morning they can be assured the device is working.  In the previous example, I showed a patient with increasing upper airway obstruction who eventually had some episodes of atrial fibrillation.  He had no idea that his system had airleaks and his AHI was increasing until he developed the atrial fibrillation.  With a new APAP system he would have had immediate feedback on day 1.
+
+Sleep positions can also lead to better APAP/CPAP performance.  With the APAP device, feedback will be there within a few days if side sleeping is better (lower AHI) than back sleeping.  Looking at the readout of an AHI of 1.3  from Monday in the above example, this patient determined that by sleeping on his side he had consistently fewer episodes that if he slept on his back where his AHIs were all in the 3-5 range.
+
+The final advantage of knowing that there is an APAP device out there allows the patient to advocate form themselves.  I don't know if it is widely known but there are clearly some health plans who only provide CPAP devices to patients diagnosed with OSA.  APAP devices are more expensive and based on what I have written it is clear that they are superior devices.
+
+6.  Oral appliances for OSA are inferior to CPAP on measured outcomes like AHI-
+
+I updated this post to include a comment on oral appliances (OA) for CPAP based on a question that I received.  I commonly see people who dislike CPAP and use the OA instead.  They claim that is "works better" than CPAP but I doubt it.  It does improve snoring and can reduce the AHI based on that improvement.  The problem is the improvement in AHI is generally not nearly enough to be considered an adequate level of treatment (AHI < 5) (1).  For that reason, expert guidelines recommend the OA for snoring alone or OSA in the case that the patient is intolerant of CPAP(2). Advertisements for a dental approach to OSA are commonplace and usually cite the years of experience of the clinician as being the determining factor.  I would recommend considering a sleep study with the OA in place to see just how much the AHI had improved.  In the case of the APAP machine you can read the number off your smartphone app every morning.  Use those numbers to determine the best treatment for your condition.
+
+If you have been newly diagnosed with OSA and prescribed CPAP - be sure that you get a complete discussion of CPAP versus APAP and why your doctor is recommending one over the other.  Ask your sleep medicine physician the ideal solution rather than what your insurance company covers.  If cost is the only limiting factor - used and resanitized equipment may be an option.
+
+The treatment of OSA with CPAP/APAP has never been better.  Make sure that you get a machine and a system that you are comfortable with and that works.  APAP devices can give you consistent feedback that is easily accessible.  There are some ways that you can hack a CPAP device and read the information on the SD card, but it is much easier to pull up the data with an app.
+
+The immediate daily feedback that you have a working device and the lowest possible AHI is strong reinforcement to keep using it.      
+
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+1: Van Haesendonck G, Dieltjens M, Hamans E, Braem MJ, Vanderveken OM. Treatmentefficacy of a titratable oral appliance in obstructive sleep apnea patients: a prospective clinical trial. B-ENT. 2016; 12 (1): 1-8. PubMed PMID: 27097387.
+
+2:  Ramar K, Dort LC, Katz SG, Lettieri CJ, Harrod CG, Thomas SM, Chervin RD. Clinical Practice Guideline for the Treatment of Obstructive Sleep Apnea and Snoring with Oral Appliance Therapy: An Update for 2015. J Clin Sleep Med. 2015 Jul 15;11(7):773-827. doi: 10.5664/jcsm.4858. Review. PubMed PMID: 26094920
+
+ "CPAP is superior to OAs in the measured outcomes and, therefore, should be the first-line option for treating OSA"
+
+
+Supplementary:
+
+I am not a sleep medicine physician and do not prescribe these devices.  The information posted here is based on my experience doing sleep assessments as part of the standard psychiatric evaluation, referring patients for polysomnography, and getting the results of those tests during the treatment of my patients.  In follow up, I have to assist people in the proper use of the equipment and the pitfalls they encounter trying to establish a routine to use CPAP.  I have no competing financial interests of any kind.
+
+
+Attribution:
+
+The graphic at the top of this post is from the smartphone app that is used to download (via Bluetooth) all of the data on the screen each morning.  It keeps a running bar graphic and rolling over that graphic gives the data for each day. The data is assembled by a remote server through a wireless connection each day and the patient's sleep medicine doctor can monitor this data and set the machine remotely without needing to visit that physicians office.

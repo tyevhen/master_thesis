@@ -1,0 +1,88 @@
+For the past 5 years I have seen more anxiety than in the first 24 years of my career.  I just realized last night that is one of the consequences of being an acute care psychiatrist.  In that setting, I am sure that I have seen more people with schizophrenia, bipolar disorder, severe depression, catatonia, dementia, and delirium than most psychiatrists.  If the anxiety was present it was associated with a severe disruption caused by the major psychiatric diagnosis.  When that syndrome was treated, the associated anxiety and insomnia also resolved.  I think that inpatient docs also get a fairly skewed perspective of what kinds of problems the average person is looking for help with.  Now that I am no longer seeing an acute care population it seems pretty clear that most people present with a mixture of anxiety and depression.  They present with varying levels of sophistication to give the history of the problem.  It is common for me to hear: "I am not sure that I know the difference between anxiety and depression.  Can you explain it to me?"  It is also common to hear combinations of symptoms or descriptions that cross over from one category to another.  A good example would be getting a referral for the assessment of "hopelessness" and learning that happens only during a panic attack and in the complete absence of depression.
+
+Symptom severity and the perception of that severity turns out to be another problem.  Some people are fairly intolerant of the slightest bit of worry, especially if it leads to insomnia.  Others have a pattern of hyperarousal at night.  When their head hits the pillow, it is not a time to fall asleep.  It is a time to worry about what happened that day, the kids, the spouse, finances, and work.  Many of those folks are chronically sleep deprived but they are used to it and don't really complain about it.  A few will go to an even higher level of worry.  At that point their thoughts "race" (another cross-over symptom), but they seem more concerned about insomnia than anxiety.  In the people with severe early onset anxiety it is very common for that to morph into depression - a phenomenon written about by several researchers.  It is also common to see that happen on a week to week basis - with reports of anxiety dominating one week and depression the next.  After I define the symptoms for people I always try to ask a question about which syndrome is dominant this week and get the expected scatter of symptoms.  It is not surprising to me that these diagnoses have some of the lowest reliabilities of DSM-5 diagnoses in field  trials.  Critics of course point to problems with psychiatric diagnosis or the diagnostic manual.  Nobody seem to make the obvious point that this may reflect how people actually experience their problems.
+
+I consider the developmental approach to psychiatric diagnosis the best one, especially when you have enough time to do that kind of work.  It requires constructing a timeline of symptoms across the lifetime of the patient.  It is necessarily biased by the imperfections of human memory including the reports of events that may not have really happened.  With anxiety and depressive disorders there are major landmarks that need to be discussed including sleep problems (insomnia and nightmares), school refusal or phobias, relationships with major attachments figures, losses of attachment figures, psychological trauma, and other forms of childhood adversity.  When I do that I notice that two patterns seem to emerge.  In one case, there are a number of people with what I would call an unremarkable developmental history in terms of events that might be associated with anxiety or depression.  At the other extreme are people with multiple events who have developed what I would call an anxious temperament.  Worry and some associated physiological symptoms are part of their personality.  They worry about everything.  They may know that they come from a long line of "worriers" and recognize these traits.  They have insight into the fact that they "overthink" everything and they are seen as being far too cautious about life.  They appear anxious, jittery and jumpy at times.  I am usually not the first physician seeing them and they have been treated with all manner of psychiatric medications with very few positive results.  They may be at risk for addiction, because some of them are looking for a medication that just "turns my mind off".   If they are prescribed a potentially addictive drug for that purpose, the dose required to turn off the mind is often very close to the euphorigenic dose and addiction results.  The people with anxious temperament do not have an episodic problem with anxiety, like some research articles describe.  It is with them all of the time.  I think it is also associated with other personality traits and disorders that makes treatment even more difficult.
+
+In an effort to resolve this problem of episodic generalized anxiety versus anxious temperament I sent an e-mail to one of the top anxiety experts in the world.  He has hundreds of publications and is a co-author of what is considered on the the most authoritative texts on this subject.  I had that text sitting on my library shelf.  He agreed with my assessment of the problem but referred me back to a chapter in his text written by Kathleen Brady and colleagues on substance induced anxiety.  I read that but ended up on a section on the phenomenology of generalized anxiety disorder (GAD).  That section suggested a different phenomenology based on age.  The chapter by Taylor, et al had more detail on trait, temperaments and endophenotype models and I was able to take a closer look at endophenotypes in reference 5.  The Venn diagram below is based on the high points in this chapter.  It also confirmed by longstanding conviction that temperament are traits discussed about children and general and specific personality traits are discussed with adults.
+
+
+Looking at the state of the art here it is apparent that a diagnosis of GAD does not provide anywhere near the level of information that is needed to treat it.   That is important because people are walking in to see psychiatrists with the expectation that there is a quick cure for the problem.  They will generally not get that if a checklist diagnosis is made based on GAD symptoms and they are given a prescription.  It is easy to see how some people will believe that blunting their levels of arousal with a non-specific sedating effect from a benzodiazepine is treating their anxiety.  Those same traits put people with high levels of trait anxiety at risk for alcohol and substance use problems.  More comprehensive formulations of anxiety need to be done that incorporate these factors in order to break the pattern of chronic anxiety and in some cases associated substance use.   Telling a person that they have generalized anxiety and treating them with medications alone, will probably not be enough to address the problem.  That is also the message that trainees might get when they consider research articles or read any modern text of psychopharmacology.  One text (6) provides stratified algorithms of decision-making for acute and chronic generalized anxiety, phobic disorders, PTSD, OCD, and panic disorder.  The authors do name specific psychotherapies in the algorithms and in some cases show that a trial of psychotherapy may be prudent before medications but all of the treatment is predicated on diagnoses rather than specific subtypes of the main conditions.  For example, there are a number of people with chronic anxiety who also have elevated heart rates (greater than 100 beats per minutes), marginal blood pressure and cardiac awareness in that they can sense their heart pounding in their chest when they are trying to sleep or they are in a quiet room.  These sensations are often a source of excessive worry and increased anxiety.  In the primary care setting there are many physicians who do not treat sinus tachycardia in the absence of a clear medical cause for it.  Is this a type of anxiety (endophenotype?) that should be treated with beta blockers? Does it require more than that for the cerebral component of anxiety or just the beta blocker?  Will physical exercise or psychotherapy treat the chronic tachycardia?  Are otherwise healthy patient with tachycardia excluded from clinical trials for anxiety on that basis?  And what constitutes an adequate medical evaluation for these patients?  Even today, I don't think that anyone has the answers to these questions and the same can be said for many other variants of generalized anxiety.
+
+I have never seen a clinical trial of patients with anxiety and persistent tachycardia and doubt that I will.  If I had to guess, I would say that very few people are asked if they have cardiac awareness and whether that perception increases their anxiety.  I would also guess that (like hypertension) many of these patients do not have their vital signs followed very closely.  These are just a few of the ways to break down this very heterogenous syndrome and why further analysis is necessary.
+
+
+
+George Dawson, MD, DFAPA
+
+
+References:
+
+
+1:  Dan J. Stein, MD, PhD; Eric Hollander, MD, and Barbara O. Rothbaum, PhD.  Textbook of Anxiety Disorders. Second Edition.  American Psychiatric Publishing, Inc.  Washington DC,  2010.
+
+2:  Sudie E. Bach, Angela E. Waldrop, and Kathleen T. Brady.  Anxiety in the Context of Substance Abuse.   In Stein, et al, pp 665-679.
+
+3:  Steven Taylor, Jonathan S. Abramowitz, Dean KcKay and Gordon JG Asmundson.  Anxious Traits and Temperaments.  In Stein, et al pp. 73-86.
+
+4:  Lazlo A. Papp.  Phenomenology of Generalized Anxiety Disorder.  In Stein, et al pp.159-171.
+
+5:  NLM Collection on Anxiety Endophenotypes
+
+6:  Phillip G. Janicak, Stephen R. Marder, Mani Pavluri.  Principles and Practice of Psychopharmacotherapy, Fifth Edition.  Wolters Kluwer Lippincott Williams and Wilkins.  Philadelphia, 2011.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attribution:
+
+Attribution for the painting at the top of this post is is Edvard Munch [Public domain], via Wikimedia Commons.  This is a reproduction of an original work that is in the public domain based on US Copyright Law.
+
+
+Supplementary 1:
+
+I was sent a question about my comment in the above post about anxiety and morphing into depression and where that is referenced in the literature.  The earliest reference I have is in ES Paykel's text Handbook of Affective Disorders from 1982.  In the chapter by Roth and Mountjoy "The distinction between anxiety states and depressive disorders." the authors state:
+
+"Clancey, et al (1978) reported that 49 of 112 (43.8%) anxiety neurotics developed secondary depression during a 4 - 9 year follow up period."
+
+1: Clancy J, Tsuang MT, Norton B, Winokur G. The Iowa 500: a comprehensive study of mania, depression and schizophrenia. J Iowa Med Soc. 1974 Sep;64(9):394-6, 398. PubMed PMID: 4425518.
+
+There are more of these articles and it may take me a while to find them due to the usual discussions about comorbidity and similar biological substrates:
+
+2:   Martin C. [What is the outcome of childhood anxiety in adulthood?]. Encephale. 1998  May-Jun;24(3):242-6. Review. French. PubMed PMID: 9696917.
+
+3:   Kessler RC, Keller MB, Wittchen HU. The epidemiology of generalized anxietydisorder. Psychiatr Clin North Am. 2001 Mar;24(1):19-39. Review. PubMed PMID: 11225507.
+
+"The strong comorbidity between GAD and major depression, the fact that most people with this type of comorbidity report that the onset of GAD occurred before the onset of depression, and the fact that temporally primary GAD significantly predicts the subsequent onset of depression and other secondary disorders raise the question of whether early intervention and treatment of primary GAD would effectively prevent the subsequent first onset of secondary anxiety and depression."
+
+4:   Kessler RC. The epidemiology of pure and comorbid generalized anxiety disorder: a review and evaluation of recent research. Acta Psychiatr Scand Suppl. 2000;(406):7-13. Review. PubMed PMID: 11131470.
+
+"Results arguing that GAD is an independent disorder include the finding that GAD is usually temporally primary in cases of comorbidity with major depression, that primary GAD is a significant predictor of subsequent depression and that the course of GAD is independent of comorbidity."
+
+5: Angst J, Vollrath M. The natural history of anxiety disorders. Acta Psychiatr Scand. 1991 Nov;84(5):446-52. Review. PubMed PMID: 1776498.
+
+"The course is often characterized by a certain chronicity that manifests itself in residual symptoms and mild impairment in social roles even after many years and is frequently complicated with depression."
+
+6:   Beesdo K, Knappe S, Pine DS. Anxiety and anxiety disorders in children andadolescents: developmental issues and implications for DSM-V. Psychiatr Clin North Am. 2009 Sep;32(3):483-524. doi: 10.1016/j.psc.2009.06.002. Review. PubMed PMID: 19716988; PubMed Central PMCID: PMC3018839.
+
+"The development of secondary depression seems to be a particularly frequent and concerning heterotypic outcome of anxiety disorders. Is this a characteristic of anxiety in general rather than an issue of specific anxiety disorders or anxiety features (such as panic, avoidance, accumulation of risk factors)? Or is this related to an overarching anxiety or anxiety-depression liability, possibly through shared etiopathogenetic mechanisms (eg, neurobiology)?"
+
+The authors of this study have a table summarizing the outcomes of childhood anxiety showing that in studies where is was mentioned 10/17 studies found depression as an outcome of anxiety.  This reference is available for free online.

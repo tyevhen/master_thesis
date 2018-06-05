@@ -1,0 +1,62 @@
+Early in my career I was an assistant to principle investigators who were doing clinical trials of drugs to treat generalized anxiety disorder, major depression, schizophrenia, and Alzheimer's Disease.  My job was top screen patients, do medical histories and physical examination, and follow them throughout the research protocol.  That is not an easy job.  The difficult part is making sure that the research patients are not getting any medical complications from a new and experimental drug in addition to assessing any possible therapeutic effects.
+
+One of the main complications was the nocebo effect.  With all of the hype about placebo effects with antidepressants, I have always found it curious that few mention the nocebo and how it affects clinical research.  To illustrate, I can vividly recall a young man who began to complain about a number of side effects during and antidepressant protocol.  He had severe headaches, body aches and nausea.  He was unable to sleep and his anxiety continued to increase.  After about 2 weeks he insisted on stopping the experimental medication.  In those days the approved research protocol allowed investigators to break the blind and let people know if they were taking the active drug or not.  I recall his embarrassment when I explained to him that he was getting placebo and not the active drug.  An adverse reaction to placebo is the nocebo effect.
+
+One of the main problems I encountered with this effect in clinical trials that is an even bigger problem today is loss of research subjects who terminated early due to nocebo effects.  In the example I gave the patient developed significant side effects in response to a placebo, but people can also develop dramatic side effects to the active research medication.  Whether they are more likely to get the effect from active drug or an active placebo over the active study drug has not been actively studied.  These are critical questions because FDA trials now require and Intent To Treat Analysis for clinical trials.  That means all of the research subjects who did not complete the protocol for whatever reason need to be included in the analysis.  That becomes a problem when any subject has not been treated with the active drug - both in terms of true response but also side effects reporting.  All FDA package inserts contain detailed information on medication side effects.  Today in many cases there is a side effect comparison between active drug and placebo. Nocebo related data can skew the side effect data reported in the package inserts.    
+
+I always thought that antidepressant trials were the ideal setting to study nocebo effects and came across a paper two years ago that does that (1).  That time frame over the last two years was an interesting one.  We saw all of the speculations about the release of the DSM-5 in the summer of 2015.  Much of that speculation involved sensational articles in the media suggesting that antidepressant medications did not work or ate least were no better than the placebo effect. Further speculation suggested that pharmaceutical manufacturers and the American Psychiatric Association (via the DSM-5) had an interest in broadening the market for antidepressants and increasing their use. At no point did any of the critics suggest that their may be a serious problem with clinical trials based on the nocebo effect.  And most interestingly, many of the critics in non-professional forum complained mostly about the side effects of these medications.  In some cases they described these medications as very dangerous.
+
+The paper in reference 1 looks only at people receiving placebo in a pooled sample of placebo-arm data from 20 industry-sponsored multi-site randomized clinical trials of antidepressant medication in the treatment of acute major depression.  Adverse event data was recorded for all 20 clinical trials.  Adverse events (AE) can be pre-existing nonspecific somatic symptoms.  Treatment emergent adverse events (TEAE) were events that occurred or worsened during placebo treatment.  The adverse events were obtained by open ended questioning and in clinical trials from that period (1993-2010) were listed on standard forms.  Five endpoints were studied including any AE, any treatment related AE, any severe AE, any serious AE resulting in discontinuation from the study, and discontinuation form the study for any reason.  Worsening of clinical symptoms was also measured and defined as any increase in the depression rating score on any scale used for that particular study.
+
+The main results included:
+
+1.  TEAEs from placebo were reported in 1,569/2,457 or 63.9% of the study participants.
+
+2.  11.2% (274) of the participants had worsening depression rating scores during the placebo treatment.
+
+3.  4.7% (115) of the participants discontinued the study due to an AE during the placebo treatment.     
+
+Just considering those results and nothing more illustrates the nocebo problem with current state-of-the-art clinical trials technology.  If 63.9% of the placebo-treated subjects experience side effects - what does that translate to in terms of subjects taking the active drug getting side effects unrelated to that drug?  Although untreated depression might be expected to worsen - how much of that is nocebo modulated and how much crosses over to the active drug.  A significant number of people dropped out of the trial due to the nocebo effect.  The main results suggest that in randomized placebo controlled trials of efficacy and safety - the nocebo effect is substantial.  Since the observed TEAEs and percentage of research subjects worsening on placebo was substantial - extension to TEAEs, worsening, and dropping out in clinical practice could be expected.  That would be a very difficult problem to research due to a lack of standardization across practices.
+
+The authors did not stop with those results.  They looked at additional variable to see if there was any evidence to confirm either of the two major hypotheses about the nocebo effect.  The first is a conditioning hypothesis.  In this effect, prior exposure results in the expectation of an associated effect.  They cite as an example, women receiving chemotherapy for breast cancer and how an associated stimulus led to more nausea in the conditioned group (4).  In this case they looked at previous treatment with antidepressants as a possible conditioning effect and did not find any significant associations.
+
+The other major hypothesis regard the nocebo effect is an expectation hypothesis.  They cite an example where a sample of college students were given inert placebo and told that it was an herbal supplement for cognitive enhancement (5).  They were provided with a fictitious list of potential benefits and side effects.  Symptoms were endorsed by most students but the students who believed that they received the active supplement endorsed more symptoms suggesting that their expectation of supplement and effect affected their perception.  They found some support that previous treatment with Hypericum perforatum (St. John's Wort) may have been associated with a greater likelihood of reporting TEAEs and suggest that users of complementary medications may be more suspect of medical pharmacotherapy.
+
+The paper is a fairly concise review of demographic and neurobiological factors associated with the nocebo effect.  On the neurobiological side they cite the work of Enck, et al (6).  Elman and Borsook (7) have an interesting paper that looks at addiction, pain, and several common substrates of the placebo and nocebo effects.             
+
+The take home message for me is what I have known for over a decade at this point. Current clinical trials technology in psychiatry and medicine is general is very primitive.  The evidence-based movement has had its day if this is the kind of evidence they are considering.  Why would anyone expect much more than a mild to moderate effect from a medication used for heterogeneous disorders when the true effect of the medication is significantly affected by two factors that are never measured?  This suggests areas for improvements in clinical trials that could render much of what has been collected so far - obsolete.
+
+A final observation comes to mind and that is a phenomenon that I wrote about on this blog many years ago.  People with little to no expertise in psychiatry or medicine don't hesitate to criticize the field.  A good example would be people who have never treated a single case of depression much less thousands of cases who do a meta-analysis and claim that antidepressants are placebos.  I don't recall any of these critics in the popular press considering the limitations of clinical trials.  Without that basic consideration any theory that fits the apparent data can apply.
+
+What would be useful at this point would be detailed analyses of the placebo arm of all clinical trials and a discussion of how these effects might bias the data.  Actual interventions to quantify or eliminate these effects in future trials is the next step.  These are more practical steps than hoping for mythical large clinical trials with slightly more sophisticated clinical trials technology that epidemiologists and the Cochrane Collaboration routinely recommend.         
+
+
+George Dawson, MD, DFAPA
+
+
+
+
+
+References:
+
+1: Dodd S, Schacht A, Kelin K, Dueñas H, Reed VA, Williams LJ, Quirk FH, Malhi GS, Berk M. Nocebo effects in the treatment of major depression: results from an individual study participant-level meta-analysis of the placebo arm of duloxetine clinical trials. J Clin Psychiatry. 2015 Jun;76(6):702-11. doi: 10.4088/JCP.13r08858. PubMed PMID: 26132671.
+
+2:  Gupta SK. Intention-to-treat concept: A review. Perspectives in Clinical Research. 2011;2(3):109-112. doi:10.4103/2229-3485.83221.
+
+3:   Interactions between brain and spinal cord mediate value effects in nocebo hyperalgesia” by A. Tinnermann, S. Geuter, C. Sprenger, J. Finsterbusch, C. Büchel in Science. Published online October 5 2017 doi:10.1126/science.aan122
+
+4:  Bovbjerg DH, Redd WH, Jacobsen PB, Manne SL, Taylor KL, Surbone A, Crown JP,Norton L, Gilewski TA, Hudis CA, et al. An experimental analysis of classically conditioned nausea during cancer chemotherapy. Psychosom Med. 1992 Nov-Dec;54(6):623-37. PubMed PMID: 1454956.
+
+5: Link J, Haggard R, Kelly K, Forrer D. Placebo/nocebo symptom reporting in asham herbal supplement trial. Eval Health Prof. 2006 Dec;29(4):394-406. PubMed PMID: 17102062.
+
+6: Enck P, Benedetti F, Schedlowski M. New insights into the placebo and nocebo responses. Neuron. 2008 Jul 31;59(2):195-206. doi: 10.1016/j.neuron.2008.06.030. Review. PubMed PMID: 18667148.
+
+7: Elman I, Borsook D. Common Brain Mechanisms of Chronic Pain and Addiction. Neuron. 2016 Jan 6;89(1):11-36. doi: 10.1016/j.neuron.2015.11.027. Review. PubMed PMID: 26748087.
+
+
+
+Attributions:
+
+Figure at the top is stock photo from Shutterstock per their licensing agreement by kasezo entitled:
+
+Stock illustration ID: 284558927   conceptual 3d design of false pill.( placebo and nocebo effect.red and green colored version)

@@ -1,0 +1,46 @@
+The other night, I was looking at the JSR-296 Swing Application Framework prototype implementation, which is (according to the landing page) "a small set of Java classes that simplify building desktop applications." What made me smile is the statement (on that same landing page): "The intended audience for this snapshot is experienced Swing developers with a moderately high tolerance for pain. "
+
+When I tweeted this, Gil Hova tweeted back: "Wait. There are Swing developers with low tolerances for pain?"
+
+I laughed so hard I almost blew coffee out my nose. (Now that's taking Java seriously.)
+
+Before going any further, I should tell you that the Swing Application Framework appears to be dead (the JSR is marked Inactive), with the most recent build carrying a date of 19 October 2007. It was supposed to go into Java SE 7. But it now seems to be in a kind of limbo.
+
+But in case you were wondering what, exactly, the Swing App Framework is designed to let you do, here's the Hello World example cited by the creators.
+public class ApplicationExample1 extends Application {
+JFrame mainFrame = null;
+@Override protected void startup(String[] ignoreArgs) {
+JLabel label = new JLabel("Hello World", JLabel.CENTER);
+label.setFont(new Font("LucidaSans", Font.PLAIN, 32));
+mainFrame = new JFrame(" Hello World ");
+mainFrame.add(label, BorderLayout.CENTER);
+mainFrame.addWindowListener(new MainFrameListener());
+mainFrame.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
+mainFrame.pack();
+mainFrame.setLocationRelativeTo(null);  // center the window
+mainFrame.setVisible(true);
+}
+private class MainFrameListener extends WindowAdapter {
+public void windowClosing(WindowEvent e) {
+  exit(e);
+}
+}
+public static void main(String[] args) {
+launch(ApplicationExample1.class, args);
+}
+}
+I'm sure there's a lot of goodness packed() away somewhere in the bowels of the SAF API, but it sure isn't showing up in this Hello World code.
+
+If you run the foregoing code, you get:
+
+
+
+Yes, it's an ugly large-type edition of browser-JavaScript's window.alert( ). Except it takes 20 lines of code instead of one.
+
+This snippet illustrates a scant handful of the many annoyances that make Swing programming feel so much like death by a thousand paper cuts. For example, it shows the repetitive boilerplate code Swing programmers are forced to write every time something as common as a JFrame is needed. The setLocationRelativeTo(null), setVisible(true), the ever-ridiculous pack(), all are needless mumbo jumbo. Get rid of them! Roll them up out of view. Make them default behaviors. If I want to override these things, let me. But nine times out of ten, when I create a JFrame, I do, in fact, want it to be centered onscreen; I want it to be visible; I want it to go away when dismissed (and be garbage collected); and I don't want to have to recite pack() ever again in my lifetime.
+
+A library that makes programmers write boilerplate is lame. It violates a basic principle of good API design, which is that any code that can be hidden from the programmer should be hidden. (See slide 28 of Joshua Bloch's excellent slideshow.) Not giving things reasonable default values is, likewise, a sin.
+
+There's something else here that rubs me the wrong way, which is that if you're creating a new API (or framework, in this case) to supplement an existing API, it seems to me you shouldn't use that as an opportunity to introduce additional language syntax. In other words, don't introduce annotations if the underlying API doesn't use them. Keep it simple. Streamline. Simplify.
+
+But enough ranting. On balance, I think the Swing App Framework is a good idea and adds value, and I think something like it should go into Java SE 7, because although it doesn't make writing JFrame code any less annoying, it does provide a host of application services that would otherwise require Swing programmers write tons and tons of really tedious code. Anything that reduces that tonnage is good, I say.

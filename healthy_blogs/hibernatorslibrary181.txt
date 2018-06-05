@@ -1,0 +1,61 @@
+Stress and anxiety can wreak havoc upon your body. It can lead to problems with childhood physical development, and affect the immune, endocrine, gastrointestinal, and cardiovascular systems. It can exacerbate diabetes. Stress affects the mind as well, a tragic example being PTSD, where an individual might relive a traumatic event over and over. 
+
+Stress can be either good or bad event - such as marriage or a divorce. Low levels of stress can actually be a good thing - for instance, a small amount of stress might help you prepare for an upcoming exam better than you otherwise would have. But sometimes stress becomes overwhelming, and biological systems in your body that would usually only slightly increase during "good stress," go into overdrive - potentially on a long-term basis. 
+
+
+
+In order to understand why long-term stress can be bad, we need to understand what immediate effect stress has on our bodies. Under stress, the hypothalamus-pituitary-adrenal system (HPA axis) is activated. The hypothalamus releases corticotrophin-releasing-hormone (CRH). CRH stimulates the pituitary gland. The pituitary then secretes adrenocorticotrophic hormone (ACTH). The Adrenal cortex then produces the stress hormone cortisol in humans. 
+
+
+Anatomy of hypothalamus-pituitary-adrenal system
+Top left, the pituitary gland is red
+Top right, the hypothalamus and pituitary glands are connected
+Bottom left, the adrenal glands are bright red
+Bottom right, the adrenal glands are the yellow cones on the kidneys
+Cortisol activates the fight-or-flight response. The sympathetic nervous system shuts down anything that your body doesn't need during a traumatic event where you might need to fight or run away from a threat. That means your stomach stops digesting, you stop producing semen / ovulating, your immune system - which requires a huge amount of energy - slows way down. Tissue repair - also another drain on energy - halts.  Activation of the sympathetic nervous system leads to release of the adrenaline (epinephrine) and noradrenaline (norepinephrine). These hormones circulate through the body and increase rate of the heart and of glucose metabolism - that gets the oxygen and energy flowing so you can use your limbs for fight or flight. 
+
+Cortisol is the hormone that prepares the body for fight-or-flight; thus, it is a good hormone to have around in an immediate danger. However, if stress continues, and cortisol is not turned off, the long term effects of suppression of vital bodily functions is quite detrimental to the body. Usually, after immediate stress, the cortisol has a feedback inhibition mechanism, in which it signals to slow its own production. However, if the stress continues for too long, cortisol's feedback inhibition loop can be deactivated; thus allowing the adrenal cortex to continue pumping out cortisol and keeping the physiological effects of the sympathetic nervous system still active. 
+
+Since the immune system is inhibited by the sympathetic nervous system, individuals experiencing long-term stress are susceptible to infection by viruses and bacteria. 
+
+The best known physical side effect of stress is cardiovascular problems. As mentioned earlier in this post, the sympathetic nervous system increases heart-rate so that blood pumps more quickly throughout the body. Not only can this increase blood pressure directly, but it can also lead to damage of the blood vessel walls. The high blood pressure leads to tiny tears in the blood vessel walls. These tears are susceptible to accumulating circulating "junk" such as particles of fat and cholesterol. This accumulation - pictured n yellow above - can decrease blood flow through the vessel, or completely block flow as seen above. When the heart doesn't get enough oxygen, then a heart attack may occur. Another problem with decreased blood flow is that if the brain doesn't get enough oxygen, this can cause a stroke. 
+
+As you can see, stress can have a huge impact on your health. Doesn't that stress you out?
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+References:
+
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 5: Stress and Physical and Mental Health. Abnormal Psychology, sixteenth edition (pp. 129-161). Pearson Education Inc.

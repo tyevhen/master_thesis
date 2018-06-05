@@ -1,0 +1,27 @@
+For the first time in years, shares of Novell were in high demand yesterday as investors sensed a possible feeding frenzy over the beleaguered company after private equity firm Elliot Associates made an unsolicited bid for Novell of $5.75 per share. NOVL stock promptly jumped $1.33 to $6.08, on astronomical volume (137 million shares were traded, more than 28 times the trailing three-month average volume).
+
+I worked for Novell from 2002 to 2007 and watched it falter under some of the worst executive leadership in memory. This is a company, let us not recall, that even Dr. Eric Schmidt (currently head of Google, but onetime president of Novell) couldn't turn around.
+
+This is a company that owned DrDOS and couldn't monetize it.
+
+This is a company that owned WordPerfect and couldn't monetize it.
+
+This is a company that owned (and still does) NetWare, a fabulously profitable operating system, but that turned off the NetWare profit spigot immediately after buying SuSE Linux (which it has still failed to monetize except for a short-lived comarketing agreement with Microsoft). SuSE Linux was the number-two Linux distribution in the world when Novell bought it. It's now what? Number four or five?
+
+This is a company that spent $200 million to acquire SilverStream, then promptly ran the business into the ground.
+
+This is a company that spent an equally astronomical amount of money to buy Cambridge Business Partners, and then all but disbanded it.
+
+The litany of business failures under Jack Messman and Ron Hovsepian is a veritable catalog of business horrors.
+
+Novell's great success in recent years has been in obtaining $500 million legal settlements from Microsoft.
+
+But those days, too, are over.
+
+Novell, however, does still have one plum asset under its control that few people seem to remember. It still owns AT&T UNIX.
+
+And that's precisely why Oracle's Larry Ellison will make a last-minute bid for Novell. If he doesn't, he'll miss a great chance to own UNIX and one of the great Linux distros of the world (SuSE), along with a Gartner Magic Quadrant Identity Manager product, and the sadly aging cash cows GroupWise and NetWare -- a combo that's surely worth a quick cash bid of, say, $6 a share.
+
+If Oracle wants to be in the Operating System biz, now's the time.
+
+Your move, Larry.

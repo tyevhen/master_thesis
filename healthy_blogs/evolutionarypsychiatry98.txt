@@ -1,0 +1,25 @@
+Beatrice Golomb is one of my favorite researchers.  She is holding the line that statins might, just maybe, be rotten for the brain and cause cognitive difficulties.  And here she shows up as the primary author on a cool little observational study linking trans fats and aggression.
+
+The weaknessess of the study:  observational, food frequency questionaires, not too many confounders accounted for (I'll get to that later).  The strengths:  decent sample size (>1000), long follow up, prospective (meaning following and measuring people from the beginning rather than restrospective, which means looking back and is pretty much the least reliable way to run a study).
+
+I'm on kind of a Schubert kick.  Here is his Serenade.
+
+The details of the study are a bit boring, but in short, a bunch of ordinary folks already lined up for a statin study (who weren't on any lipid lowering meds during this study) were co-opted to track trans fat intake.  Researchers use the same people for different studies all the time.   This study was done back before the USFDA required the amount of trans fat to be labled, so people could eat Hostess "Donettes" in blissful ignorance, and manufacturers had little incentive to get rid of the nasty stuff.
+
+So, what did they find?  Well, amount of trans fat reported consumed in the beginning of the study FFQ correlated linearly with aggression scores measured years later.  The researchers accounted for aggression at baseline, sex, age, alcohol consumption, education, smoking, and exercise.  In fact, dietary trans fats were more predicitve of later aggressive behaviors than any of the other known confounders, and predicted aggression similarly in women and men.  Dietary trans fats were also associated with depression.
+
+What is a plausible biochemical mechanism of trans fats causing crankiness?  Well, the neurons need plenty of omega 3 to keep the lights on, so to speak, and trans fats interfere with omega 3 metabolism.  In addition, trans fats on their own seem to cause inflammation, cell energetics problems, and oxidative stress.  Yuck.
+
+I linked this Schubert piece a long time ago, but it is worth a revisit.  It was written when he was gravely ill and knew his death was imminent.  Despite his prodigious body of work he was barely into his 30s.
+
+What don't I like about the findings of this study?  I've looked at a number of other studies about diet and aggression.  The most rigorous are the Diet and Violence studies done in prisoners, showing boosting micronutrient intake an several replicated randomized controlled trials significantly reduced violent acts.  There is also another throwaway observational study linking soda consumption to adolescent violence.
+
+We all know that trans fats in the American diet circa 1999 were of the garbagey processed food variety.  Literal junk disguised as tasty treats, though synthetic vitamins might have been sprayed on the flour used as dictated by law.  Delicious!  So trans fats consumption is not only a marker of mere trans fat consumption, but also nutrient poor, calorie rich crapola that will decrease the amount of micronutrients one would take in.  At the same time, the energetics of the cells are compromised by the trans fats and the omega3 levels are torched.  One doesn't typically enjoy a meal of wild-caught pacific salmon and donettes, after all.
+
+(Another very sticky point -- trans fat consumption correlated with the amount of linoleic acid taken in, yet Walter Willett has about a thousand powerpoint slides linking amount of omega 6 fatty acid consumption and good health.  How does he do it?)
+
+I do find it very plausible that synthetic trans fatty acids are terrible for your brain and behavior.  And very plausible that processed foods cause problems too.  Here is what irks me about the government guidelines for food.  By adding the focus on total fat reduction, polyunsaturated fatty acids and whole grains, they steer folks away from nutrient-rich whole foods and towards convenience foods engineered to meet government guidelines, like lowfat whole grain goldfish crackers and electric green yogurt "food."  I actually think Walter Willett's purported breakfast of "kashi" (I'm sure he eats the real stuff, not the processed cereal), is probably, in general, a reasonable choice.  I think grains are relatively nutrient-poor compared to eggs and meat and dark green leafy veggies and the like.  I also think grains taste worse, though they can stretch out a meal and help with variety, and I am rather famous for my partiality to steak so I'm hopelessly biased.
+
+I wish the government food plate looked more like this one.  I think we all agree trans fats are nasty, and this study is one more reason to look upon them with a wrinkled nose and suspicion.
+
+Oh, man, when I posted this article I hadn't seen Willett's take on the red meat study yet!  Here's my personal take on the moustached epidemiology nutrition crusader, in case you haven't read it yet.  My opinion:  there will probably be a greater public health benefit from encouraging people to eat steak than to eat kashi (because who is really going to eat kashi?)…

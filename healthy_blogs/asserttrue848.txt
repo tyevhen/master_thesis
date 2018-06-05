@@ -1,0 +1,15 @@
+A November 12, 2008 slide deck explains why the Eclipse Application Lifecycle Framework (ALF) project will be terminated due, basically, to lack of interest. Except, there was, in fact, interest by a corporation: enterprise-mashup player Serena Software, who contributed significantly to the code base.
+
+The whole story is a little weird. The ALF project morphed into an SOA framework of sorts shortly after its inception in 2005. Serena (an application lifecycle management software firm, originally, but also known for the now-moribund Serena Collage Content Management System) got involved early on. Eventually, ALF was adopted as the underlying SOA and authentication framework by Serena Business Mashups in Dec 2007.
+
+And now the "project leadership" has decided that the Eclipse ALF project should be shut down, with the code being donated to the Higgins project. The Project Leader for ALF is (was) Brian Carroll, a Serena Fellow.
+
+Higgins, it turns out, is actually not ALF-related except in the most tangential sense. I was working in the Identity Services division at Novell in 2006 when Higgins was created. I knew about it through Duane Buss and Daniel Sanders (both of whom are still principals on the project). Daniel and I worked together on the Novell Inventions Committee.
+
+Higgins is (according to the project FAQ) "an open source Internet identity framework designed to integrate identity, profile, and social relationship information across multiple sites, applications, and devices. Higgins is not a protocol, it is software infrastructure to support a consistent user experience that works with all popular digital identity protocols, including WS-Trust, OpenID, SAML, XDI, LDAP, and so on."
+
+It's really largely about identity cards or "information cards" (InfoCards, I-Cards).
+
+In case you're wondering about the name: Higgins is the name of a long-tailed Tasmanian jumping mouse.
+
+So, ah . . . ALF isn't the only SOA-related Eclipse project being taken down now. For info on the others, see this story in the Register.

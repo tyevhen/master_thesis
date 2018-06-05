@@ -1,0 +1,27 @@
+I advocate that software makers take a hard look at why and how so many features have made their way into their products. The process by which non-core functionality enters a product is more important (obviously) than the sheer number of features.
+
+Software makers should also reevaluate the process by which a feature becomes "required" and what it means for a feature to be "required."
+
+I've been in tech for decades, and I've never yet encountered a software product that didn't contain at least one totally useless feature, a feature no one ever uses; the equivalent of the Scroll Lock key on a modern keyboard. The important point to note is that all software features, even the  most obscure and/or useless ones, got into the product as a result of somebody's "requirement."
+
+I propose that software makers go on a "feature fast" until the feature-addition process is not only well understood but re-imagined. (Let Marketing be a stakeholder in this process, but let it be only one of many stakeholders. Not the majority stakeholder.)
+
+Until then, I offer the following exercises for purveyors of commercial software:
+
+1. Implement in situ analytics (inside-the-app analytics) so that you can understand how users are spending their time when they work with the product.
+
+2. Find out (via built-in analytics) what the least-used feature of your product is. Get rid of it.
+
+3. Repeat No. 2 for another 100 features. Replace them with API methods and helpful tooling (an SDK). Charge no money for the SDK.
+
+4. Have you ever added an obscure feature because an important customer asked for it? If so, consider the following: Did you make the sale? Did the sale of the product actually hinge on that one feature? (Hopefully not. Hopefully the product's core functionality and reputation for excellence made the sale.) Five years later, is that customer still with you? Are they still using the feature? If not, why are you continuing to code-maintain, regression-test, document, and tech-support a one-off feature that's no longer needed?
+
+5. Of all the UI elements that are in the user's face by default, find which ones are least-used. Of all the UI elements that are not readily visible, find those that are most-used. Consider ways to swap the two.
+
+6. Try to determine how many features are in your product (develop your own methodology for this), then determine how many features are used by what percentage of customers. (When you have that data, visualize it in more than one way, graphically.) When you're done, ask yourself if you wouldn't be better off, from a resource allocation standpoint, if you stopped working on at-the-margin features and reinvested those dollars in making core features even more outstanding.
+
+7. Obtain (via real-time analytics) a profile of a given user's favorite (or most-used) features and preemptively load those into memory, for that particular user, at startup time. Lazily load everything else, and in any case, don't single-task the entire loading process (and make the user stare at a splash screen). The preferential loading of modules according to a user-specific profile is essentially the equivalent of doing a custom build of the product on a per-customer basis, based on demonstrated customer needs. Isn't this what you should be aiming for?
+
+8. Find out the extent to which customers are using your product under duress, and why. In other words, if your product is Microsoft Word, and you have customers who are still doing a certain amount of text editing in a lesser product (such as Wordpad), find out how many customers are doing that and why. Address the problem.
+
+In tomorrow's post, I'm going to list some favorite software-design mantras that all people involved in building, testing, documenting, supporting, or marketing software products can (I hope) learn something from. Don't miss it.

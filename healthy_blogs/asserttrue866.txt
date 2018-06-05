@@ -1,0 +1,18 @@
+Java 1.4.2 died last week. According to Sun's "End of Service Life" page, Java 1.4.2 went EOSL last Thursday. The only trouble is, it's still moving.
+
+Java 5 (SE) was released in 2004 and Java 6 has been out since 2006. Java 5 will, in fact, also be at EOSL in less than a year. (You might call it the Java "Dead Man Walking" Edition.) And yet, if you do a Google search on any of the following, guess what you get?
+
+java.lang.Object
+java.lang.Class
+java.lang.Exception
+java.lang.Throwable
+java.lang.Runtime
+java.awt.Image
+java.io.File
+java.net.URL
+JComponent
+JFrame
+
+If you do a Google search on any one of these, the very first hit (in every case) is a link to Sun's Javadoc for the 1.4.2 version of the object in question.
+
+A year from now (when Java 5 hits the dirt) I wonder how many of these 10 searches will still take you to 1.4.2 Javadoc? (Remember, Java 5 has been out for almost 5 years and still doesn't outrank 1.4.2 in Google searches.) I'm guessing half of them. What do you think?

@@ -1,0 +1,324 @@
+Aloha from the American Psychiatric Association's Annual Meeting in Honolulu! The weather is gorgeous here and it's been a great meeting. Yesterday, I heard Archbishop Desmond Tutu speak, and today, I listened to "Conversations" with Lorraine Bracco--also known as Dr. Melfi from The Sopranos. The beach is nice, too, and Clink has been scuba diving. Should I tell you she just learned to swim this past winter? She is amazing!
+
+In a few hours, we will be giving our workshop, The Accessible Psychiatry Project: The Public Face of Psychiatry in New Media. We are telling the audience that the survey we did was not validated, was not statistically analyzed, and is not real science. Mostly, it was about how cool it is that we can even do this at all (ask questions, interact with readers, have an impact). I thought I'd share the survey results with everyone here. If you took the survey, thank you, again.
+
+
+
+702 responses
+Summary 
+
+
+
+
+Who are you?
+A professional who treats psychiatric disorders (for example, a mental health professional, a primary care physician/ nurse practioner, or pediatrician)
+129 19%
+Someone who works in a field connected to psychiatry, for example a researcher, health writer, clergyman, patient advocate, support staff in a mental health facility
+100 15%
+Someone who is or has been in treatment for a mental illness
+410 60%
+The family member or close friend of someone with a psychiatric disorder
+256 38%
+The family member or close friend of a mental health professional
+96 14%
+An innocent bystander with no direct relationship to the mental health profession
+63 9%
+Other
+79 12%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+My age group - Choose one
+Under 20
+20 3%
+21-35
+251 36%
+36-50
+225 32%
+51-65
+163 23%
+Over 65
+20 3%
+
+
+
+
+My perception of psychiatry has been primarily shaped by . . .
+My personal experiences as either a professional in the field or as a patient
+550 81%
+The experiences of those close to me
+291 43%
+The portrayals I see in the media
+117 17%
+Information I have read about psychiatry
+337 49%
+I don't have any preconceived ideas about psychiatry
+17 2%
+Other
+32 5%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+I believe that psychiatry . . .
+more often than not helps people with mental health problems
+448 66%
+more often than not harms people with mental health problems
+77 11%
+encourages people to use diagnostic labels to explain their bad behavior or laziness
+119 18%
+provides explanations for behavior in a way that is ultimately helpful
+338 50%
+is a field that is about controlling others and is basically evil
+36 5%
+is a field that is about helping those with mental disorders to live better lives
+467 69%
+Other
+181 27%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Psychiatric patients, in general, ...
+are just regular people
+524 78%
+are more creative and/or interesting than the average person.
+125 19%
+are uncomfortable to be around
+79 12%
+are often dangerous or scary
+32 5%
+are unreliable
+55 8%
+should not be permitted to work in certain professions, such as medicine, child care, or law enforcement
+33 5%
+live better lives if they hide the fact that they suffer from mental illness
+151 22%
+live better lives if they are open with the fact that they suffer from mental illness
+221 33%
+Other
+157 23%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Psychiatrists are . . .
+interesting people
+284 43%
+weird people
+146 22%
+intimidating because they may analyze me in public settings or know what I'm thinking
+49 7%
+on the whole, no different than any other group of professionals
+317 47%
+pawns of the pharmaceutical industry
+159 24%
+interested in knowing and understanding their patients as complete human beings
+280 42%
+just interested in symptoms and medications
+215 32%
+troubled people looking to cure themselves
+64 10%
+I have no opinion about psychiatrists
+26 4%
+Other
+166 25%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Have you ever been evaluated or treated by a psychiatrist? -
+Yes
+447 64%
+No
+215 31%
+
+
+
+
+Psychotherapy . . .
+more often than not helps people recover from or manage mental illness
+417 62%
+more often than not helps people to better understand themselves and negotiate their lives
+457 68%
+encourages a detrimental, self-centered perspective
+50 7%
+more often than not makes people feel or behave worse than they did before they entered treatment
+23 3%
+is for people who don't have friends to talk to
+56 8%
+is more often than not inferior to medication as a treatment for mental disorders
+54 8%
+is more often than not superior to medication as a treatment for mental disorders
+176 26%
+does nothing
+29 4%
+I have no significant opinion about psychotherapy
+45 7%
+Other
+154 23%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Have you ever been in psychotherapy? -
+Yes
+486 69%
+No
+176 25%
+
+
+
+
+Psychiatric medications . . .
+more often than not help people recover from, or cope with, their difficulties
+368 55%
+more often than not cause problems that are worse than the ones they treat
+140 21%
+have saved lives and helped people to function better
+490 73%
+are a quick fix for people who don't have the inner strength to deal with adversity
+63 9%
+treat illnesses that can strike anyone
+388 58%
+are the creation of a greedy pharmaceutical industry that has deceived the public
+138 21%
+I have no opinion about psychiatric medications
+15 2%
+Other
+223 33%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Have you ever taken psychiatric medication? -
+Yes
+458 65%
+No
+210 30%
+
+
+
+
+Sometimes, patients are seen for brief visits by a psychiatrist for management of their medications and if they need psychotherapy, they see a social worker, psychologist, nurse therapist, or counselor (so-called "split treatment"). What do you think of this practice?
+Brief visits with a psychiatrist for medication management typically work well
+154 23%
+Psychiatrists should spend more time than this with their patients to manage medications
+348 52%
+When possible, psychiatrists should provide both psychotherapy and medication management to their patients
+377 56%
+Patients should not see psychiatrists at all: medications should be managed by other professionals such as primary care physicians, nurse practitioners, or specially-trained psychologists
+38 6%
+I have no significant opinion on this topic
+52 8%
+Other
+161 24%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Electronic Health Records (EHRs or EMRs) . . .
+should not contain any records of psychiatric illnesses and treatments (including medications) even though that means my primary care doc or ER doc wouldn't know about my meds or condition unless I tell them
+89 13%
+should have separate and higher protections for mental illness than for other health problems
+218 32%
+should exist for psychiatry exactly as all other medical records do, with the same protections as for other health condition, because adding special protections increases stigma against mental illness
+275 41%
+should allow patients to control which information they wish to be shared and with whom for all medical specialties
+290 43%
+facilitate better communication and improve psychiatric care
+261 39%
+negatively affect communication and detract from psychiatric care
+49 7%
+I have no significant opinion about electronic health records in psychiatry
+74 11%
+Other
+94 14%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Direct-to-Consumer (DTC) advertising (commercials/magazine ads) of medications . . .
+decreases the stigma associated with taking psychiatric medications and is therefore good for psychiatry
+142 21%
+scares prospective patients too much with the lists of side effects
+109 16%
+provides incomplete medical information and the suggestion that patients should demand specific treatments without individual consideration of the patient and their problems
+497 74%
+provides useful information to patients and increases awareness about treatment options
+128 19%
+should be allowed to continue
+90 13%
+should be no longer be allowed
+304 45%
+I have no opinion about direct-to-consumer advertising
+43 6%
+Other
+109 16%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Psychiatric blogs by mental health professionals . . .
+more often than not are useful sources of information
+300 45%
+more often than not are biased and unhelpful
+36 5%
+are entertaining or interesting to me
+401 60%
+I have no opinion on psychiatry blogs by mental health professionals
+176 26%
+Other
+53 8%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Blogs about psychiatry in general -- including those by patients and those who may be disenchanted with psychiatry -- have . . .
+provided encouragement for me to get treatment or to recommend treatment to others
+110 17%
+discouraged me from getting treatment or recommending psychiatric treatment to others
+28 4%
+had no influence on my attitudes towards psychiatric treatment
+216 33%
+had a positive influence on how I view psychiatry
+133 20%
+had a negative influence on how I view psychiatry
+55 8%
+I have no opinion on psychiatry blogs in general
+211 32%
+Other
+97 15%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+
+
+
+
+Do you feel this survey is balanced and fair? -
+Pretty much
+431 61%
+In the middle
+198 28%
+Not really
+40 6%
+
+
+
+
+Comment box for additional comments or suggestions . . .
+You're missing the large portion of the population who doesn't read blogs like this. My close friend has very different attitudes toward psychiatry (they are wierd, controlling, just want to push meds, etc.) and she may be more the typical person.You surely didn't think this was a balanced or fair survey. did you? Was that part of your plan?You have to find a way for members of the same family (spouse/parent) who are on the same insurance policy not to see each other's medication/psychiatric treatment records.Lawyers take the name of a medication and then create an attack on the person for ...
+
+
+Number of daily responses

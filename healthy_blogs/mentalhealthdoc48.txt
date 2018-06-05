@@ -1,0 +1,15 @@
+Antipsychotic medications are widely used in dementia to control behavioral symptoms. Many studies noted a relationship between increased risk of death among dementia patients and the use of antipsychotics. However, most patients experience difficult to manage behavioral symptoms in dementia and the death may be due to the disease process itself.  
+
+Study published in American journal of psychiatry looked into the mortality among dementia patients who are treated with various anti-psychotic medications. This study compared differences between deaths rates in different anti psychotics using historical data.
+
+According to this study Haloperidol (Haldol) is associated with most number of deaths. Quetiapine (Seroquel) is associated with lowest death rates. Other antipsychotics such as Risperdal, and Zyprexa, lay in-between.
+
+Analysis of this study
+
+However, there is a caveat in this study. It is that this study used archived data. In these data most people with severe dementia were given haloperidol, because some clinicians believed that Haldol is more effective in controlling behavioral symptoms than other antipsychotics. Therefore, naturally they used Haldol frequently in patients with more severe dementia. These patients have high death rates even without any antipsychotics. Therefore, this study may be biased toward newer anti psychotics.
+
+In addition, we need to understand that there are very strong pharmaceutical companies to promote newer antipsychotics. Nobody promotes older antipsychotics such as Haldol even though they are preferable in certain patients.
+
+Journal article in American journal of Psychiatry
+
+Risk of Mortality Among Individual Antipsychotics in Patients With Dementia

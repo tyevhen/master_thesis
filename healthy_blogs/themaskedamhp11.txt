@@ -1,0 +1,81 @@
+"Good news -- we've opened a new ward!"
+An AMHP has a number of powers: one of the most important is the power to make an application for detention to hospital under Sec.2, 3 & 4 of the Mental Health Act.
+
+The trouble is, this power is meaningless if there isn’t a hospital identified that can receive the patient.
+
+But let’s be clear from the start: although AMHPs have responsibility for the overall management of the assessment and subsequent admission, AMHPs are not responsible for finding a suitable, or indeed, any hospital bed.
+
+This is stated unequivocally in the Code of Practice (para 14.77)
+
+If the doctors reach the opinion that the patient needs to be admitted to hospital, it is their responsibility to take the necessary steps to secure a suitable hospital bed; it is not the responsibility of the AMHP.
+
+While it goes on to say that “in some cases, it could be agreed locally between the local authority and the relevant NHS bodies and communicated to the AMHP that this will be done by any AMHP involved in the assessment,” this is only subject to local agreement.
+
+Usually, the doctor’s duty to find a bed is delegated either to the local Crisis Team (CRHTT) or a bed management team, both of which will be employed by the local Mental Health Trust.
+
+For example, our local AMHP Service arrangements are for the AMHP to notify the relevant  bed management team of the need for a bed. There are separate bed management teams for adults and older people.
+
+While in the past it was a matter of course that a bed was available prior to going out to make an assessment, nowadays, it is increasingly common for AMHP’s to be making assessments under the MHA for people in the community where no bed has been identified at the time of the assessment.
+
+This is, of course, because of the huge number of psychiatric beds that have been closed in the last 7 years. This might not have mattered had there been a corresponding increase in community mental health services designed to reduce the need for hospital admission, but as there has at the same time been an actual reduction in community based front line staff, this has resulted in an even greater need for patients to be assessed in crisis and requiring a hospital bed as a matter of urgency.
+
+While the AMHP is often in the firing line, and frequently receiving flak for the failure to find a bed in an emergency, behind the scenes the underlying cause for this appalling situation is the failure of the Clinical Commissioning Groups (CCGs) to comprehend and fulfill their legal requirements.
+
+CCGs were created by the notorious Health & Social Care Act 2012. They replaced Primary Care Trusts, and are allegedly GP led.
+
+There are three problems with CCGs:
+
+·        Firstly, GPs are not necessarily the best people to be responsible for running an entire local NHS service. Otherwise, they would have gone into management, rather than being GPs. This may seem obvious to most people; but not, unfortunately to the Coalition Government that introduced the changes.
+
+Secondly, CCGs tend not to cover the same geographical area as the PCT’s. For example, our large geographical county used to be covered by one PCT. There are now 5 separate CCGs covering the same area, all with different local arrangements and priorities.
+
+Thirdly, unlike the PCTs they replaced, CCGs seem to be blissfully unaware of their legal duties under the MHA.
+
+In particular, CCGs generally appear to be ignorant of Sec.140 MHA. As the Code of Practice points out:
+
+CCGs are responsible for commissioning mental health services to meet the needs of their areas. Under section 140 of the Act, CCGs have a duty to notify local authorities in their areas of arrangements which are in force for the reception of patients in cases of special urgency or the provision of appropriate accommodation or facilities specifically designed for patients under the age of 18. The arrangements should include details of which providers in their area can receive patients in cases of special urgency and provide accommodation or facilities designed to be specifically suitable for patients under the age of 18.(para14.78)
+
+Para14.79 of the CoP additionally, and unambiguously, states:
+
+[NHS England] is responsible for the commissioning of secure mental health services and other specialist services. NHS commissioners should work with providers to ensure that procedures are in place through which beds can be identified whenever required.
+
+What does this mean? Surely it means that in emergencies, for example, when an AMHP requires a hospital bed for a patient who has been assessed to be at intolerable risk if not detained under the MHA, then there will be a bed available for the patient within the area covered by the CCG.
+
+It surely also means that when a bed is required in these circumstances for someone under the age of 18, then a bed should be available.
+
+And NHS commissioners should be able to identify secure mental health beds (and other specialist beds, such as beds for children) “whenever required”.
+
+But as every AMHP knows, this is not the reality.
+
+There are frequently long delays in finding and providing beds for patients assessed under the MHA, and these beds are often hundreds of miles away. Locally, we have had cases of elderly people waiting so long for a bed to be found that the medical recommendations, which are valid for 14 days, have expired before a bed is found, meaning that a fresh assessment has to take place.
+
+There is also a national shortage of suitable beds for under 18’s. Our local MH Trust has 10 beds for young people, but there are currently another 30 under 18’s placed in beds outside the area.
+
+So what can an AMHP do in such circumstances?
+
+In extremis, our local AMHPs have come up with some interesting solutions to the problem of assessing a patient as requiring admission under the MHA, but having no bed to admit the patient to. This often involves use of the Sec.136 suite.
+
+One imaginative example was the case of a 15 year old child, living at home, whose behaviour was totally out of his parents’ control. The police were in attendance because of his violence and damage to property. The AMHP and two doctors assessed, and the doctors provided a medical recommendation for a Sec.2. There was no bed, but the AMHP felt that it was too dangerous for the child to be left at home while a bed was sourced.
+
+The AMHP’s solution was to arrange for the patient to be taken to the local Sec.136 suite. While I was unsure of the precise legal authority for this transfer, the AMHP considered that it was a case of urgent necessity for the child to be in a safe place, and it was certainly in the child’s, and the parents’, best interests.
+
+This remarkably concentrated the bed managers’ minds to the extent that a bed was found within a couple of hours, and the patient was able to be detained.
+
+Another AMHP found themselves in a similar situation with another child. The child could not be left at home because of the risk factors, but no bed was identified. On this occasion, the bed management team’s solution to having no suitable children’s psychiatric bed was to arrange for the child to be admitted, under section, to a children’s medical ward in the local general hospital. Once a more appropriate bed was identified, the patient was then transferred.
+
+A recent blog post by Mental Health Cop posits the idea that there may be another way of facilitating admission. His suggestion is based on the requirement in Sec.13(1A) if an AMHP is satisfied that an application under the MHA ought to be made, and that it is necessary and proper for the AMHP to make it, then “he shall make the application”. This lays a legal duty on the AMHP to make an application in these circumstances.
+
+He then quotes at length from the biennial reports of the Mental Health Act Commission, the predecessor of the CQC, which used to have responsibility for overseeing the practice of the MHA. It is suggested that “in an emergency the [AMHP] should complete the applications, making it out to a hospital specified by the relevant health authority in the notice required to be given under Section 140 of the Act, and convey the patient to that hospital.”
+
+The MHAC is suggesting not just that this is an option available to the AMHP, but that there is a legal imperative on the AMHP to take such action.
+
+While this may have a certain attraction to the AMHP, dealing with a crisis situation, sitting in the home of a patient who really cannot in all conscience be left there, in practice there are many difficulties in following this course.
+
+Not least of these is following guidance that relates to a different MHA (although the MHA is still known as the 1983 Act, it was heavily amended by the 2007 Act, which removed Approved Social Workers, at whom the MHAC guidance was directed, and replacing them with AMHPs.).
+
+I would certainly be reluctant to turn up at a hospital quoting this guidance and invoking Sec.140, expecting the hospital managers to instantly find a bed.
+
+I am afraid that I don’t think that this is a practical option for AMHPs to take. Ultimately, I still think the best option in such circumstances is, whether an application is made or not, to take the patient to the local Sec.136 suite.
+
+
+In fact, just yesterday, one of our AMHPs , using a Sec.135(1) warrant, took an elderly patient to the Sec.136 suite and informed the bed managers that the patient would remain there until a bed was found. A bed magically appeared within an hour.

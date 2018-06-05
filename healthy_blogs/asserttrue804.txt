@@ -1,0 +1,21 @@
+It seems Adobe CFO Mark Garrett, in a Tourette's-like outburst, said recently at an industry event that Microsoft Silverlight adoption has "really fizzled out in the last 6 to 9 months."
+
+Microsoft's Tim Sneath (director of the Windows and Silverlight technical evangelism team) answered Garrett's charge in a defensive blog ,where he listed a number of prominent (marquee) customers using Silverlight in production and made the obligatory claim of 100 million downloads. ("For starters, Silverlight 2 shipped four months ago," Sneath said, "and in just the first month of its availability, we saw over 100 million successful installations just on consumer machines.")
+
+That makes it official: All three major contenders in the RIA-development space (Microsoft's Silverlight, Adobe AIR, and Sun's JavaFX) have now claimed 100 million downloads in X number of days.
+
+Adobe has claimed it. Microsoft has claimed it (see above), and a couple weeks ago Jonathan Schwartz of Sun made the claim for JavaFX.
+
+I don't know why the number 100 million is so magical. It is certainly an interesting number. It's more than the populations of Spain, Syria, and Canada combined. It's one in every 67 people on earth. Think of all those starving babies in Africa who've downloaded JavaFX. Remarkable, isn't it?
+
+What does it say when the top three RIA-framework contenders begin flaming each other in public debates over patently ridiculous "adoption rate" numbers? (I say ridiculous because the so-called "downloads" are actually based on stealth installs. Adobe, for example, Trojans AIR into Acrobat Reader and other product installers. Sun and Microsoft are guilty of the same tactics.)
+
+What it tells me is that there's no winner in this so-called race. Which, in turn, tells me there's been no substantial market uptake.
+
+Any time a successful product becomes a success in the market, it (by definition) penetrates and dominates the market in question, marginalizing the competition. In beverages, there's Coke (big winner), then Pepsi (also-ran), then the long tail. In almost every market, it's that way: There's a dominator, an also-ran, and a long tail.
+
+We have not reached that point yet in the three-way RIA race. We may never reach it, because it's not obvious (to me, at least) that the software industry has embraced RIA, as currently conceived, in any major way, and it might not, ever. (Try this simple test. Ask ten people: "What's the killer RIA app of all time?" See if you get any agreement -- or anything but blank stares.)
+
+It may actually be that the RIA Wars are over, and nobody won.
+
+In fact, if credibility is any indication, everybody lost.

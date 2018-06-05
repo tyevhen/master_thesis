@@ -1,0 +1,9 @@
+This announcement describes the new proposed AJAX toolkit for Eclipse 3.2, which is actually "tooling to enable tooling" in the sense that it's a pluggable AJAX IDE framework meant to wrap any of Dojo, Zimbra (Apache Kabuki), or OpenRico. And possibly others, later on.
+
+It's obvious that something like this is sorely needed and will be widely used (and abused). I give the ATF proposal ten thumbs up.
+
+While I expect ATF to sail through Creation Review (and thus become an active Eclipse.org project) with nary a hiccup, I can't say the same thing about the newly proposed Kabuki Project for incubating Zimbra at Apache.
+
+The Kabuki Proposal has not been 100% warmly received over at ASF. The debate has included criticism of Zimbra's code (for being too Java-like, poorly namespaced, bloated, not working correctly out-of-the-box) as well as criticism of Zimbra's lack of community presence, inability to find non-salaried committers, etc. One gets the impression that Zimbra expected that Apache.org would jump on any well-established AJAX framework donation. Evidently not.
+
+What's ironic is that the IBM guys took the ATF Proposal to Apache first before putting it in front of the Eclipse.org WTD group. (I can't recall IBM ever taking an Eclipse technology to Apache for incubation. Can you?) Gory details here.

@@ -1,0 +1,47 @@
+Last month my demo unit of the Pentel AirPen Pocket++ arrived. I had seen the blog world all abuzz about the AirPen at the end of May, but as usual, everybody was just regurgitating the same review. Nobody had actually used a unit. Reviews seemed to go along like this:
+
+Oooh! It's Mac-ish! Wow! Check out the white and black colors! Neato! Hey, it works with iPhones, too! Write stuff and it's, like, put in your iPad automagically and stuff. Heck if we know anything else to tell you, but YOU HEARD IT HERE FIRST!
+
+So I decided to contact Pentel Japan and see if I could try one out. It arrived a few weeks ago and I've been testing it since.
+
+If you missed the buzz, the AirPen Pocket is a Bluetooth device that transcribes what you write on paper into your smartphone or tablet. More specifically, the device digitizes your pen movements into a bitmap that can be retrieved later through Pentel's software.
+
+The Android version has been out for some time, but the buzz in May was about the extra "++" in the name. The slick white & black version was designed for iPads, iPhones, and iPod Touches. Since none of the reviews were useful, however, I thought maybe you'd like to know if this product had any value for disorganized minds looking for a technological boost. I've tested the AirPen with both the iPhone and iPad, and paired it with my Mac as well, but my review will focus on the iPad.
+
+First, the boring stuff:
+
+The AirPen is a plastic stylus, no heavier than an ordinary pen. On one end you can screw off a cap to expose the battery compartment. On the other end, you simply pull the cap off to reveal the stylus. The AirPen comes with ink and stylus nibs that can be interchanged easily by sliding the nib lock back. It can be found midway on the side of the AirPen. Don't confuse it with the mouse button that sits closer to the nib.
+
+The AirPen comes with a memory unit that does all the magic. Hold the power button down for two seconds to power the unit up. It's in offline mode by default. More on that in a moment. Press and hold the Bluetooth button for a moment until the display reads "IAP". "SPP" mode is engaged with only one quick press, so be sure to hold that button down. "SPP" mode lets you pair the AirPen with your Mac.
+
+Open the AirPen app and it will prompt you to pair your AirPen with your iPad if you haven't done it already. Clicking OK loads a japanese/english help page. Open up Settings>General>Bluetooth and look for "Mobile Pen". Tap to pair and you're all set.
+ Head back to the AirPen note app. Now anything you scribble in front of the memory unit's sensor will be recorded onto your iPad. You can watch it live.
+
+
+In my example, I took some notes—even doodled—and it took no longer than it would have if writing with pen alone. That's the power of the AirPen pocket++ for me. With the ballpoint nib, the AirPen just records everything I write while I take notes. Then I can toss the paper away and have a copy of it in the AirPen app. With two taps I can send my note to Twitter or Evernote, or save it to my photo album.
+
+Even though the AirPen app lets me change pen color and width live, the question I asked myself in the end was "What good is this? Can't I just scribble a note on paper, then photograph it with the iPhone camera in Evernote's app and save myself money and a few extra steps?" And it was true. Digitizing notes live didn't give me any added benefit. I think too digitally. This was a device for the analog, old school minded. Yet, there was another mode to the memory unit that changed the game for me.
+
+With Bluetooth off, the memory unit keeps a digital record of what you write. Need a new page? Just quickly press the power button once and a new page is queued up for you. Write your notes, remembering to create new pages on the memory unit, and you don't have to fiddle with pairing or drain your iPad's battery life. When you are done, open the AirPen app and it will automagically prompt you to transfer the queued up pages you created. The images are even saved in iCloud, allowing you access to them across devices. Very powerful, indeed.
+
+Upsides:
+Seamlessly shares with Evernote and Twitter
+Just like using a pen, but records notes into your iPad.
+When writing with large letters to aid digitization, the AirPen in tandem with Evernote allows you to handwrite notes that can be searched for keywords later. Very powerful combo. This is the greatest boon for ADHD folk. Hopefully, you write legibly.
+Can work without the iPad present for easy note taking and even easier importing later.
+If you write using the stylus nib, you can reuse the same piece of paper over and over again. I can do this, but it's obviously easier if the pen leaves a mark. If you use the stylus and write on a child's Magic Slate, you can have the best of both worlds, though you might look silly at the next board meeting.
+
+Downsides:
+The low resolution notes sometimes don't work well with Evernote. Be sure to write big.
+Has not been given CE or FCC approval yet.
+Currently only available in Japan. Import shops do have them for sale, but the markup is painful.
+AirPen itself requires button batteries and is not rechargeable via USB as the memory unit is.
+Does not communicate with the iPad or iPhone when they auto-lock. You'll need to turn off auto-lock if you plan on using the AirPen live.
+
+So, is the AirPen worth importing from Japan? I have to admit, when I first requested the device, I did not realize it was for sale only in Japan. I hope that Pentel decides to support the AirPen here in the States soon. I like mine and can see a lot of uses for it moving forward, but if I had to buy one today I wouldn't pay $300 for it.
+
+I'd like to see the digitizer create higher resolution images. They'd work better with Evernote's OCR process and let me write at the smaller size I prefer. I also wish the pen unit would charge via USB. Having to keep a supply of button batteries on hand means that pen will sit forgotten in my drawer, languishing unused because I can't ever remember to buy batteries. But when I go to another writers conference, I will definitely be bringing my AirPen along when taking notes. I love the powerful combo AirPen makes with Evernote's OCR technology. I'd definitely recommend keeping an eye out for the American release of the AirPen Pocket++.
+
+
+
+Love your support. Thanks for your comments. Let me know what you think of this review in the comments section. I hope you found it useful.

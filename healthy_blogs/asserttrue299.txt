@@ -1,0 +1,294 @@
+In looking at base composition statistics of codons, an amazing fact jumps out.
+
+If you look carefully at the following graph, you can see that the cloud of gold-colored data points (representing the compositional stats for the second base in codons of Clostridium botulinum) has a second, "breakaway" cloud underneath it. (See arrow.)
+
+Codon base composition statistics for Clostridium botulinum. Notice the breakaway cloud of gold points under the main cloud (arrow). These points represent genes in which most codons have a pyrimidine in the middle base of each codon.
+
+To review: I made this plot by going through each DNA sequence for each coding ("CDS") gene of C. botulinum, and for each gene, I went through all codons and calculated the average purine content (as well as the average G+C content) of the bases at a positions one, two, and three in the codons. Thus, every dot represents the stats for one gene's worth of data.
+
+After looking at graphs of this sort, three key facts about codon bases leap out:
+Most codons, for most genes, have a purine as the first base (notice how the red cloud of points is higher than the others, centering on y=0.7).
+The third base (often called the "wobble" base; shown blue here) has the most extreme G+C value. (This is well known.)
+The middle base falls in one of two positions (high or low) on the purine (y) axis. There's a primary cloud of data points and a secondary cloud in a distinct region below the main cloud. The secondary cloud of gold points is centered at about 0.3 on the y-axis, meaning these are genes in which the second codon base tends to be a pyrimidine. 
+The question is: What does it mean when you look at a gene with 200 or 300 or 400 codons, and the majority of codons have a pyrimidine in the second base?
+
+If you examine the standard codon translation table (below), you can see that codons with a pyrimidine in the second position (represented by the first two columns of the table) code primarily for nonpolar amino acids. When a pyrimidine is in the second base, the possible amino acids are phenylalanine, serine, leucine, proline, isoleucine, methionine, threonine, valine, and alanine. Of these, all but serine and threonine are nonpolar. Therefore, a pyrimidine in position two of a codon means there's at least a 75% chance that the amino acid will have a nonpolar, hydrophobic side group.
+
+
+Virtually all proteins contain some nonpolar amino acids, but when a protein contains mostly nonpolar amino acids, that protein is destined to wind up in the cell membrane (which is largely made up of lipids). Thus, we can expect to find that genes in the "breakaway" cloud of gold points in the graph further above represent membrane-associated proteins.
+
+To check this hypothesis, I wrote a script that harvested the gene names, and protein-product names, of all the "breakaway cloud" data points. After purging genes annotated (unhelpfully) as "hypothetical protein," I was left with 37 "known" genes. They're shown in the following table.
+
+Gene Product
+CLC_0571 arsenical pump family protein
+CLC_1058 L-lactate permease
+CLC_1550 carbohydrate ABC transporter permease
+CLC_3115 xanthine/uracil permease family protein
+CLC_0813 arsenical-resistance protein
+CLC_1018 putative anion ABC transporter, permease protein
+CLC_1687 xanthine/uracil permease family protein
+CLC_3633 sporulation integral membrane protein YtvI
+CLC_2382 phosphate ABC transporter, permease protein PstA
+CLC_0189 ZIP transporter family protein
+CLC_3351 sodium:dicarboxylate symporter family protein
+CLC_0971 cobalt transport protein CbiM
+CLC_1534 methionine ABC transporter permease
+CLC_2798 xanthine/uracil permease family protein
+CLC_1397 manganese/zinc/iron chelate ABC transporter permease
+CLC_1836 stage III sporulation protein AD
+CLC_0528 high-affinity branched-chain amino acid ABC transporter, permease protein
+CLC_0430 electron transport complex, RnfABCDGE type, A subunit
+CLC_2523 flagellar biosynthesis protein FliP
+CLC_0401 amino acid permease family protein
+CLC_0383 lrgB-like family protein
+CLC_0457 chromate transporter protein
+CLC_0291 sodium:dicarboxylate symporter family protein
+CLC_0427 electron transport complex, RnfABCDGE type, D subunit
+CLC_1281 putative transcriptional regulator
+CLC_2008 ABC transporter, permease protein
+CLC_0868 branched-chain amino acid transport system II carrier protein
+CLC_1237 monovalent cation:proton antiporter-2 (CPA2) family protein
+CLC_1137 methionine ABC transporter permease
+CLC_0764 putative drug resistance ABC-2 type transporter, permease protein
+CLC_1953 xanthine/uracil permease family protein
+CLC_2444 auxin efflux carrier family protein
+CLC_0897 putative ABC transporter, permease protein
+CLC_1555 C4-dicarboxylate transporter/malic acid transport protein
+CLC_0374 xanthine/uracil permease family protein
+CLC_0470 undecaprenyl pyrophosphate phosphatase
+CLC_2648 monovalent cation:proton antiporter-2 (CPA2) family protein
+
+Notice that with the exception of CLC_1281, a "putative transcriptional regulator," every gene product represents a membrane-associated protein: transporters, carrier proteins, permeases, etc.
+
+I ran the same experiment on genes from Streptomyces griseus (strain XylbKG-1) and came up with 222 genes having high pyrimidine content in base two. All 222 genes specify membrane-associated proteins. (The full list is in a table below.)
+
+The bottom line: Base two of codons acts as a binary switch. If the base is a pyrimidine, the associated amino acid will most likely (75% chance) be nonpolar. If the base is a purine, the codon will either be a stop codon (3 out of 32 codons) or the amino acid will be polar (26 out of 29 codons).
+
+Here's the list of 222 genes from S. griseus in which the middle codon base is predominantly a pyrimidine:
+
+SACT1_0608 ABC-type transporter, integral membrane subunit
+SACT1_3730 major facilitator superfamily MFS_1
+SACT1_4066 cation efflux protein
+SACT1_5911 ABC-2 type transporter
+SACT1_6577 SNARE associated protein
+SACT1_6966 ABC-type transporter, integral membrane subunit
+SACT1_7160 major facilitator superfamily MFS_1
+SACT1_3151 NADH-ubiquinone/plastoquinone oxidoreductase chain 6
+SACT1_3682 drug resistance transporter, EmrB/QacA subfamily
+SACT1_5431 Citrate transporter
+SACT1_3199 proton-translocating NADH-quinone oxidoreductase, chain M
+SACT1_7301 putative integral membrane protein
+SACT1_3198 NAD(P)H-quinone oxidoreductase subunit 2
+SACT1_2008 arsenical-resistance protein
+SACT1_3149 proton-translocating NADH-quinone oxidoreductase, chain L
+SACT1_3967 MATE efflux family protein
+SACT1_3148 proton-translocating NADH-quinone oxidoreductase, chain M
+SACT1_5571 major facilitator superfamily MFS_1
+SACT1_0651 major facilitator superfamily MFS_1
+SACT1_2669 ABC-type transporter, integral membrane subunit
+SACT1_1805 NADH dehydrogenase (quinone)
+SACT1_3147 NAD(P)H-quinone oxidoreductase subunit 2
+SACT1_6961 major facilitator superfamily MFS_1
+SACT1_0992 ABC-2 type transporter
+SACT1_2619 major facilitator superfamily MFS_1
+SACT1_0507 major facilitator superfamily MFS_1
+SACT1_0649 ABC-type transporter, integral membrane subunit
+SACT1_0800 glycosyl transferase family 4
+SACT1_1659 ABC-type transporter, integral membrane subunit
+SACT1_1803 multiple resistance and pH regulation protein F
+SACT1_4190 putative ABC transporter permease protein
+SACT1_5522 drug resistance transporter, EmrB/QacA subfamily
+SACT1_5568 drug resistance transporter, EmrB/QacA subfamily
+SACT1_7248 Lysine exporter protein (LYSE/YGGA)
+SACT1_0266 ABC-2 type transporter
+SACT1_0847 Na+/solute symporter
+SACT1_4378 ABC-type transporter, integral membrane subunit
+SACT1_6766 ABC-type transporter, integral membrane subunit
+SACT1_2522 putative integral membrane protein
+SACT1_4762 amino acid permease-associated region
+SACT1_4901 major facilitator superfamily MFS_1
+SACT1_2616 multiple antibiotic resistance (MarC)-related protein
+SACT1_3961 major facilitator superfamily MFS_1
+SACT1_6236 MIP family channel protein
+SACT1_1319 protein of unknown function UPF0016
+SACT1_2332 copper resistance D domain protein
+SACT1_5327 ABC-type transporter, integral membrane subunit
+SACT1_5759 ABC-2 type transporter
+SACT1_1133 ABC-type transporter, integral membrane subunit
+SACT1_1562 ABC-type transporter, integral membrane subunit
+SACT1_5518 major facilitator superfamily MFS_1
+SACT1_3430 ABC-type transporter, integral membrane subunit
+SACT1_4517 major facilitator superfamily MFS_1
+SACT1_4565 drug resistance transporter, EmrB/QacA subfamily
+SACT1_4994 ABC-type transporter, integral membrane subunit
+SACT1_7197 major facilitator superfamily MFS_1
+SACT1_5949 major facilitator superfamily MFS_1
+SACT1_6233 protein of unknown function DUF6 transmembrane
+SACT1_0936 ABC-type transporter, integral membrane subunit
+SACT1_4993 2-aminoethylphosphonate ABC transporter, permease protein
+SACT1_6954 ABC-type transporter, integral membrane subunit
+SACT1_1846 Lysine exporter protein (LYSE/YGGA)
+SACT1_3429 ABC-type transporter, integral membrane subunit
+SACT1_3957 membrane protein of unknown function
+SACT1_4612 ABC-2 type transporter
+SACT1_1998 polar amino acid ABC transporter, inner membrane subunit
+SACT1_2093 ABC-type transporter, integral membrane subunit
+SACT1_4420 ABC-2 type transporter
+SACT1_6613 putative ABC transporter permease protein
+SACT1_2564 small multidrug resistance protein
+SACT1_3669 major facilitator superfamily MFS_1
+SACT1_4186 major facilitator superfamily MFS_1
+SACT1_4850 ABC-type transporter, integral membrane subunit
+SACT1_0206 major facilitator superfamily MFS_1
+SACT1_5418 Lysine exporter protein (LYSE/YGGA)
+SACT1_0548 ABC-type transporter, integral membrane subunit
+SACT1_3332 protein of unknown function DUF6 transmembrane
+SACT1_3764 sodium/hydrogen exchanger
+SACT1_6278 protein of unknown function DUF6 transmembrane
+SACT1_4143 ABC-2 type transporter
+SACT1_3232 ABC-type transporter, integral membrane subunit
+SACT1_0256 ABC-type transporter, integral membrane subunit
+SACT1_2898 major facilitator superfamily MFS_1
+SACT1_6510 protein of unknown function DUF6 transmembrane
+SACT1_0980 CrcB-like protein
+SACT1_1650 ABC-type transporter, integral membrane subunit
+SACT1_4658 acyltransferase 3
+SACT1_0306 protein of unknown function DUF6 transmembrane
+SACT1_2372 major facilitator superfamily MFS_1
+SACT1_7238 ABC-type transporter, integral membrane subunit
+SACT1_0202 major facilitator superfamily MFS_1
+SACT1_0591 ABC-type transporter, integral membrane subunit
+SACT1_5369 protein of unknown function DUF81
+SACT1_6227 C4-dicarboxylate transporter/malic acid transport protein
+SACT1_6755 ABC-type transporter, integral membrane subunit
+SACT1_0978 Urea transporter
+SACT1_2418 ATP synthase subunit a
+SACT1_5604 major facilitator superfamily MFS_1
+SACT1_4891 ABC-type transporter, integral membrane subunit
+SACT1_6507 protein of unknown function DUF6 transmembrane
+SACT1_6754 ABC-type transporter, integral membrane subunit
+SACT1_0787 ABC-2 type transporter
+SACT1_2848 sodium/hydrogen exchanger
+SACT1_0636 ABC-type transporter, integral membrane subunit
+SACT1_1891 putative integral membrane protein
+SACT1_1552 xanthine permease
+SACT1_2894 putative secreted protein
+SACT1_4508 sodium:dicarboxylate symporter
+SACT1_7091 drug resistance transporter, EmrB/QacA subfamily
+SACT1_2652 major facilitator superfamily MFS_1
+SACT1_1741 amino acid permease-associated region
+SACT1_1838 ABC-type transporter, integral membrane subunit
+SACT1_2796 gluconate transporter
+SACT1_5220 sodium/hydrogen exchanger
+SACT1_6991 ABC-type transporter, integral membrane subunit
+SACT1_3273 protein of unknown function DUF894 DitE
+SACT1_7089 ABC-type transporter, integral membrane subunit
+SACT1_7280 major facilitator superfamily MFS_1
+SACT1_3467 major facilitator superfamily MFS_1
+SACT1_1304 ABC-type transporter, integral membrane subunit
+SACT1_6032 protein of unknown function DUF81
+SACT1_4312 major facilitator superfamily MFS_1
+SACT1_0876 ABC-type transporter, integral membrane subunit
+SACT1_6123 citrate/H+ symporter, CitMHS family
+SACT1_4359 Cl- channel voltage-gated family protein
+SACT1_7325 branched-chain amino acid transport
+SACT1_1160 protein of unknown function DUF140
+SACT1_2265 Arsenical pump membrane protein
+SACT1_3512 ABC-2 type transporter
+SACT1_1018 major facilitator superfamily MFS_1
+SACT1_3415 Xanthine/uracil/vitamin C permease
+SACT1_5214 BioY protein
+SACT1_3656 small multidrug resistance protein
+SACT1_3895 SpdD2 protein
+SACT1_4929 ABC-type transporter, integral membrane subunit
+SACT1_3029 major facilitator superfamily MFS_1
+SACT1_6312 ABC-type transporter, integral membrane subunit
+SACT1_0919 L-lactate transport
+SACT1_4356 ABC-2 type transporter
+SACT1_0532 ABC-type transporter, integral membrane subunit
+SACT1_6693 secretion protein snm4
+SACT1_0967 ABC-type transporter, integral membrane subunit
+SACT1_6496 major facilitator superfamily MFS_1
+SACT1_6983 major facilitator superfamily permease
+SACT1_0917 NADH-ubiquinone/plastoquinone oxidoreductase chain 3
+SACT1_6887 major facilitator superfamily MFS_1
+SACT1_2835 major facilitator superfamily MFS_1
+SACT1_5544 drug resistance transporter, Bcr/CflA subfamily
+SACT1_5591 ABC-type transporter, integral membrane subunit
+SACT1_1201 ABC-type transporter, integral membrane subunit
+SACT1_2404 ABC-2 type transporter
+SACT1_0870 protein of unknown function DUF803
+SACT1_6933 ABC-type transporter, integral membrane subunit
+SACT1_1776 ABC-type transporter, integral membrane subunit
+SACT1_3213 major facilitator superfamily MFS_1
+SACT1_4210 phosphate ABC transporter, inner membrane subunit PstC
+SACT1_5398 protein of unknown function DUF81
+SACT1_0914 NADH-ubiquinone/plastoquinone oxidoreductase chain 6
+SACT1_3261 major facilitator superfamily MFS_1
+SACT1_6932 ABC-type transporter, integral membrane subunit
+SACT1_0669 major facilitator superfamily MFS_1
+SACT1_4255 ABC-2 type transporter
+SACT1_4541 major facilitator superfamily MFS_1
+SACT1_4638 major facilitator superfamily MFS_1
+SACT1_0913 NADH-ubiquinone oxidoreductase chain 4L
+SACT1_4443 protein of unknown function DUF81
+SACT1_5396 Xanthine/uracil/vitamin C permease
+SACT1_0912 NADH dehydrogenase (quinone)
+SACT1_2924 Lysine exporter protein (LYSE/YGGA)
+SACT1_5922 putative integral membrane protein
+SACT1_1243 Bile acid:sodium symporter
+SACT1_6967 ABC-type transporter, integral membrane subunit
+SACT1_0911 proton-translocating NADH-quinone oxidoreductase, chain M
+SACT1_3931 putative ABC transporter permease protein
+SACT1_2820 ABC-2 type transporter
+SACT1_3298 putative integral membrane transport protein
+SACT1_4871 major facilitator superfamily MFS_1
+SACT1_5873 major facilitator superfamily MFS_1
+SACT1_6636 putative integral membrane protein
+SACT1_0905 AbgT transporter
+SACT1_5532 2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase
+SACT1_0910 proton-translocating NADH-quinone oxidoreductase, chain N
+SACT1_2115 ABC-type transporter, integral membrane subunit
+SACT1_4635 protein of unknown function DUF6 transmembrane
+SACT1_5777 major facilitator superfamily MFS_1
+SACT1_3979 major facilitator superfamily MFS_1
+SACT1_5536 major facilitator superfamily MFS_1
+SACT1_6782 major facilitator superfamily MFS_1
+SACT1_0616 virulence factor MVIN family protein
+SACT1_4869 ABC-type transporter, integral membrane subunit
+SACT1_1581 putative integral membrane protein
+SACT1_4585 major facilitator superfamily MFS_1
+SACT1_6536 small multidrug resistance protein
+SACT1_4024 cell cycle protein
+SACT1_5296 major facilitator superfamily MFS_1
+SACT1_1865 major facilitator superfamily MFS_1
+SACT1_4868 ABC-type transporter, integral membrane subunit
+SACT1_0955 protein of unknown function DUF803
+SACT1_4296 major facilitator superfamily MFS_1
+SACT1_5104 major facilitator superfamily MFS_1
+SACT1_0519 Bile acid:sodium symporter
+SACT1_2394 putative ABC transporter permease protein
+SACT1_0661 major facilitator superfamily MFS_1
+SACT1_2062 major facilitator superfamily MFS_1
+SACT1_4295 ABC-type transporter, integral membrane subunit
+SACT1_6828 peptidase M48 Ste24p
+SACT1_3446 major facilitator superfamily MFS_1
+SACT1_6631 Lysine exporter protein (LYSE/YGGA)
+SACT1_1048 ABC-type transporter, integral membrane subunit
+SACT1_1528 protein of unknown function DUF6 transmembrane
+SACT1_2016 branched-chain amino acid transport
+SACT1_6154 gluconate transporter
+SACT1_5051 major facilitator superfamily MFS_1
+SACT1_5531 protein of unknown function DUF81
+SACT1_6480 protein of unknown function DUF1290
+SACT1_0373 ABC-type transporter, integral membrane subunit
+SACT1_2392 putative ABC transporter permease protein
+SACT1_2724 protein of unknown function DUF107
+SACT1_7257 protein of unknown function UPF0118
+SACT1_2772 putative integral membrane protein
+SACT1_3201 NAD(P)H-quinone oxidoreductase subunit 4L
+SACT1_7066 ABC-type transporter, integral membrane subunit
+
+Some of these genes are labeled "protein of unknown function," but I think we can predict with high confidence, based on what we know about these proteins (namely, that they're hydrophobic) that the gene products in question involve membrane-associated functions.
+
+Bioinformatics geeks, leave a comment below.

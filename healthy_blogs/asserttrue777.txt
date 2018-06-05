@@ -1,0 +1,19 @@
+I just wrote a blog on this subject for CMS Watch, available here. The basic premise (just to boil it down) is that monitoring, auditing, enforcing, administering, and just plain dealing with seat-based licensing of enterprise software is a huge, huge problem, in a world that doesn't need more problems.
+
+More to the point, it's out of step with reality. It's certainly not how large IT organizations want to do business these days. Everyone I know hates seat-based pricing. It's antiquated.
+
+In my CMS Watch post, I didn't specify what I would propose as an alternative to per-seat pricing. That's because my proposed alternative might strike some people as a bit radical.
+
+IMHO, the way to price enterprise software going forward is to charge a monthly subscription fee for support. That's right: give away the software for free. Charge only for support. And maybe charge something here and there for high-value specialty add-ons (your connector-du-jour), but mainly for support. To account for scalability, maybe set fees on a per-server or per-installed-instance basis (but certainly not on a per-CPU or per-core basis). Install an instance of XYZ CMS on one box, pay one monthly fee. That's how it should be.
+
+The era of million-dollar lump-sum front-weighted CapEx-accounting enterprise software deals is over. It's gone, just like the newspaper business. Dead, finished, done. I have blogged on this before.
+
+Oh sure, there are still million-dollar deals being cut as we speak. It's like the tail of a dead brontosaurus still flailing around, days after the brain has died.
+
+Can big software vendors survive by giving software away for free and charging only for support and services? Actually, yes, I think so. It will be a painful transition for many big-name software giants. But in the end, I think it will work. A number of commercial open-source vendors have proven, in fact, that it will work.
+
+But also, the cable company has proven that it will work.
+
+As I told a colleague at CMS Watch, the cable company (very wisely) does not charge you $10,000 for a cable box. Instead, they give you the cable box (and even install it for free, on site). Then they charge you a nominal monthly fee (if $100 a month, plus or minus $60, can be called nominal) for content. After 8 years, you've paid the cable company $10,000. But you've paid them in a manner that's acceptable to you. And in the meantime, you're free to switch to something else, or cancel.
+
+Big software vendors who "get" this will survive. Those that don't, won't. This is a time of structural change for many businesses (such as, for example, the newspaper business), and the world of enterprise software is not immune. Serious changes are ahead. The survivors will stay out in front of these changes, starting yesterday. The non-survivors... well, they're still flailing their tails.

@@ -1,0 +1,5 @@
+Interesting factoid: Every 100ms of latency costs Amazon 1% in profit-per-visit.
+
+The same source claims that Google stickiness drops 20% if page load time increases by 500ms.
+
+Which leads me to wonder how much revenue-loss LinkedIn has suffered over the past five years because of its agonizingly slow page loads, and how many of the 10% of its employees who were just laid off might still have their jobs if the pitiful dunderheads who allowed LinkedIn's site to be so pitifully slow hadn't been such pitiful dunderheads.

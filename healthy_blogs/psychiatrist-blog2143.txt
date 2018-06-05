@@ -1,0 +1,12 @@
+[Posted by ClinkShrink]
+In the course of reviewing for my forensic recertification exam I am struck by the dramatic and divergent changes in patient privacy issues since I did my fellowship ten years ago. When I was in training the standard assumption was that psychiatric records were private and that a written release was required from the patient to disclose any information. That was pretty simple. We didn't have to think about electronic medical records, email, faxes, telepsychiatry or many other forms of electronic communication either because they just didn't exist or weren't in common use. Then came HIPAA. Enough said.
+
+The latest and most counter-intuitive twist in patient privacy is now the U.S. Patriot Act. What this means for psychiatrists is that if the government wants your records, you give it to them. Period. And you can't tell your patient. Ever. A request for records under the U.S. Patriot Act comes in the form of a National Security Letter (NSL). According to the Foreign Intelligence Surveillance Act (FISA), an NSL must be approved by a judge of the Foreign Intelligence Surveillance Court. However, there is no requirement for any standard of proof that a national security issue is at risk---no "reasonable suspicion", no "probable cause"---and no mechanism to challenge the letter or appeal the granting of the NSL.
+
+If you receive a National Security Letter you may not tell your patient that you received it or that you have turned their psychiatric records over to government investigators. This gag order is permanent. And the request is not limited to any particular physical location---keep this in mind if you have a home office.
+
+As you struggle every day to interpret and comply with HIPAA regulations, it's ironic to know that the government could suddenly decide to rifle through your home office filing cabinet and there's really nothing you can do about it.
+
+For those of you interested in learning more about the ramifications of NSL's and the Patriot Act on your practice, download the ACLU's pdf file on this issue:
+
+Unpatriotic Acts: The FBI's Power to Rifle Through Your Records and Personal Belongings Without Telling You

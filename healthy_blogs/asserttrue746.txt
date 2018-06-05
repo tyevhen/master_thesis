@@ -1,0 +1,47 @@
+I recently stopped using anti-virus software. People think I'm crazy. But I'm not. It's about getting out of Automatic Update Hell.
+
+And BTW, it's been a year now and my machines (Win XP and Vista) haven't been overtaken by the Bogeyman, because I don't practice the PC equivalent of unsafe sex. I'm not in the habit of opening e-mail attachments from people I don't know, clicking links in e-mails that have "Viagra" in the subject line, etc. I don't download games, wallpapers, screensavers, utilities I haven't heard of, crackz, hackz, or any of the other stupid-idiotware that can get you in trouble. I sure as hell don't run Internet Exploder, and guess what? I have a firewall, and a brain, and I know how to use them. (So Symantec, read my finger.)
+
+Uninstalling Norton anti-virus software is extremely difficult, it turns out -- more difficult than uninstalling the malware it supposedly protects you against. But once it's gone from your machine, the hard-disk thrashing stops, the sudden CPU-spiking disappears, and the telltale sluggishness that accompanies a background download of the latest patch(es) vanishes.
+
+Also, without a virus-scan of every document you open, the whole machine feels faster. Things like EditLive! and other applets load twice as fast. Zip archives open faster, etc. Sure, you can achieve this by turning off Norton's file-scan feature. But that's my point: Why are you buying software that you turn off?
+
+So merely by getting rid of pointless anti-virus lockin-ware, I've scored a useful speedup and probably doubled the life of my hard drive. But I'm not totally out of Hell yet. There's still Microsoft to deal with.
+
+Turning off Automatic Updates is one of the best things I've ever done to achieve better machine performance. Installing updates from Microsoft has always brought some kind of speed hit, somewhere, and sometimes brings new annoyances (new security dialogs that have to be turned off).
+
+I'm very glad to be rid of Automatic Updates.
+
+Sun's automatic Java updates are another painful annoyance. Again, though, you can turn this off fairly easily. But every time you manually upgrade your JDK, it seems Sun re-enables automatic Java updates. So you end up turning them off again.
+
+But even after you get rid of Norton lockin-ware, disable Windows updates, and shut Sun the hell up, you're still not out of Hell yet, because there's yet another offender on your machine, a stealth daemon from Hades that sucks bandwidth needlessly while putting your hard drive through a rigorous TTD (test-to-destruction) regimen. I am talking, of course, about Adobe and its pernicious suite of updaters.
+
+
+
+There's a famous line in Ace Ventura that makes me smile every time I hear it: "Dan Marino should die of gonorrhea and rot in hell." I would like to repurpose this statement somehow, except that corporations can't die of gonorrhea (any more than anyone else can), so Adobe, all I can say is: enough with the updates.
+
+I can't think of a worse impediment to the widespread adoption of Adobe AIR than this:
+
+
+
+I've seen this dialog far too many times this year already. It makes me want to empty a full clip of copper-jacketed hollowpoints into my machine. What is so defective about AIR that I have to update it every other time I fire up Yammer? (For that matter, what's so hopelessly broken about Yammer that I have to update it five times a week?)
+
+Enough ranting. All rants should end at some point, and be followed by a constructive proposal aimed at solving the problem(s) in question.
+
+So let us ask: What, if anything, should software vendors do about all this?
+
+I can suggest a few things.
+
+First, software updates should be opt-in by default, never the reverse.
+
+Second: A vendor should never silently turn automatic updates back on after the user has turned them off.
+
+Third: Give me some granularity as to what type of updates I want to receive. There are three basic types of updates: Security patches, bug fixes, and enhancements. I rarely want all three. Within those three, there are (or should be) several levels of criticality to choose from. I may want security fixes that are critical, but not those that are merely nice for grandma to have. Let me choose.
+
+Fourth: Don't ever, ever make a user reboot the machine.
+
+Fifth: Let me have the option, stupid as it sounds, of checking for updates at an interval of my choosing. Not just "daily, weekly, or monthly." Let me actually specify a date (e.g., December 25) on which to check for updates and receive them all in a huge, bandwidth-choking download that utterly shuts me out of the machine for 24 hours instead of torturing me daily, throughout the year, with paper cuts.
+
+Sixth: Write better software. Don't let so many security vulnerabilities go into distribution in the first place. Open-source as many pieces of your code as possible so the community can find security flaws before ordinary users do. Don't make the user do your security-QA.
+
+Microsoft, Sun, (Oracle), Adobe, are you listening?

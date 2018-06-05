@@ -1,0 +1,120 @@
+Java offers many ways to customize strokes and fills, including the use of gradient fills and image fills (see this excellent tutorial by Marty Hall), but we tend to forget that "procedural textures" are easily implemented as custom Paint.
+
+The text shown above was painted using a custom Paint class, SinePaint.java, consisting of around 50 lines of code (not counting imports), as shown below. (Scroll the code sideways to see lines that didn't wrap.) The SinePaint class procedurally generates a sine-wave fill pattern in the red color channel, running in the 'y' direction (vertical sine wave).
+
+/* SinePaint
+* Kas Thomas
+* 30 January 2010
+* Public domain.
+* http://asserttrue.blogspot.com/
+*
+* A quick example of how to implement java.awt.Paint
+*/
+
+import java.awt.Paint;
+import java.awt.PaintContext;
+import java.awt.Rectangle;
+import java.awt.RenderingHints;
+import java.awt.geom.AffineTransform;
+import java.awt.geom.Rectangle2D;
+import java.awt.image.ColorModel;
+import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
+
+class SinePaint implements Paint {
+
+public SinePaint() {}
+
+public PaintContext createContext(ColorModel cm,
+Rectangle deviceBounds,
+Rectangle2D userBounds,
+AffineTransform xform,
+RenderingHints hints) {
+       return new Context(cm, xform);
+}
+
+public int getTransparency() {
+       return java.awt.Transparency.OPAQUE;
+}
+
+class Context implements PaintContext {
+
+       public Context(ColorModel cm_, AffineTransform xform_) { }
+
+       public void dispose() {}
+
+       public ColorModel getColorModel() {
+               return ColorModel.getRGBdefault();
+       }
+
+       public Raster getRaster(int xOffset, int yOffset, int w, int h) {
+
+               WritableRaster raster =
+               getColorModel().createCompatibleWritableRaster(w, h);
+               float [] color = new float[4];
+
+               // Row major traversal.
+               for (int j = 0; j < h; j++) {
+                       for (int i = 0; i < w; i++) {
+                               color[3] = 255;
+                               color[2] = color[1] = 0;
+                               // Write a sine-wave pattern to the Red channel
+                               color[ 0 ] =
+                               (1 + (float) Math.sin( 6.28f*((double) j)/h )) * .5f  * 255;;
+
+                               raster.setPixel(i, j, color);
+                       } // i
+               } // j
+               return raster;
+       } // getRaster()
+} // Context
+} // SinePaint
+
+Implementing the Paint interface turns out not to be such a big deal. There's only one required method, createContext():
+   public PaintContext createContext(ColorModel cm,
+                             Rectangle deviceBounds,
+                             Rectangle2D userBounds,
+                             AffineTransform xform,
+                             RenderingHints hints)
+Most of the formal parameters are hints and can safely be ignored. Note that this method returns a java.awt.PaintContext object. It turns out PaintContext is an interface as well, so you do end up having to implement it, and this is where the real action occurs. The methods of the PaintContext interface include:
+
+public void dispose() {};
+public ColorModel getColorModel();
+public Raster getRaster(int x,
+                    int y,
+                    int w,
+                    int h);
+
+The dispose() method releases any resources that were allocated by the class. In our case, we allocated nothing and so our dispose method is empty. The getColorModel() method can, in most cases, be a one-liner that simply returns ColorModel.getRGBdefault(). The real action is in getRaster(). That's where you have the opportunity to set the pixel values for all the pixels in the raster based on their x-y values. If you're familiar with shaders and/or procedural textures, you know what this is about. This is your opportunity to shade an area in accordance with a pixel's x-y location onscreen (or rather, within the image).
+
+If you've been using the ImageMunger app I wrote about a few days ago, you can run the following script with it to see SinePaint in operation. (This is the script that produced the colored text shown above.)
+
+/* paintedText.js
+* Kas Thomas
+* 30 January 2010
+* Public domain.
+*
+* Run this file using ImageMunger:
+* http://asserttrue.blogspot.com/2010/01/simple-java-class-for-running-scripts.html
+*/
+
+g2d = Image.createGraphics();
+
+rh =  java.awt.RenderingHints;
+hint = new rh( rh.KEY_TEXT_ANTIALIASING,rh.VALUE_TEXT_ANTIALIAS_ON );
+g2d.setRenderingHints( hint );
+
+sinePaint = new Packages.SinePaint( );
+
+g2d.setPaint( sinePaint );
+g2d.setFont( new java.awt.Font("Times New Roman",java.awt.Font.BOLD,130) );
+g2d.drawString( "Shiny",50,100);
+g2d.drawString( "Text",50,200);
+
+Panel.updatePanel();
+(Scroll sideways to see lines that didn't wrap.)
+
+Future projects:
+Make use of the AffineTransform argument to enable scaled and otherwise transformed textures.
+Implement Perlin noise as a type of Paint.
+Implement "bump map" 3D effects in Paint.

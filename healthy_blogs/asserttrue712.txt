@@ -1,0 +1,11 @@
+If you've been following my Tweets lately, you may have noticed that I've begun using 3.ly ("threely") as my URL-shortener of choice. Before that, it was bit.ly, and before bit.ly I used TinyURL.
+
+Like many Twitter users, I moved from TinyURL to bit.ly for the simple reason that bit.ly produces tinier URLs. Threely gives even smaller URLs. But that's not why I'm moving from bit.ly to 3.ly.
+
+Threely has an ambitious goal: to take micro-URL rewriting to the next level. The Threely folks haven't yet said what their list of services will include. But already, they offer an interesting glimpse of what they might be up to. All you have to do is append a hyphen to any 3.ly URL in order to activate a hit counter. If you surf to the hyphenated URL, you come to a preview page that displays the hit count and one or more continuation links. (To see what I mean, try http://3.ly/ymZ-, which links to one of my previous blog posts but first takes you to the hit-counter page.)
+
+One can imagine a range of services that Threely could offer based on short query strings. For example, what if, by appending "-1" to a 3.ly URL, you could have Threely not only track hit-counts but send you a daily or weekly report of traffic on that URL via e-mail. Suppose "-2" means the same thing, except your e-mail contains verbose results instead of cursory results. The verbose results might include the HTTP headers from each visitor's GET request, the date/time of each request, etc.
+
+There isn't a Threely API yet, but one can imagine that Threely's API could offer various takes on "URL-rewriting-as-a-service" (URaaS? oh dear God please not another acronym...). Or should we just call it micro-analytics?
+
+As I say, exactly what the Threely folks have in mind, I don't know. But I'll be watching their home page closely, and signing up as a registered user as soon as they make sign-ups available. I have a feeling this could get interesting.

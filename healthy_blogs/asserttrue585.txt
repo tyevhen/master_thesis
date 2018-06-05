@@ -1,0 +1,17 @@
+On Monday, Novell let it be known that it would be acquired by Attachmate Corporation in a deal worth $2.2 billion. Meanwhile, in a Form 8-K filing with the SEC, Novell stated that it "will sell to CPTN all of Novell's right, title and interest in 882 patents ... for $450 million in cash." CPTN Holdings LLC is a consortium of technology companies organized by Microsoft.
+
+Immediately, people began to speculate that the reason Microsoft would bid such an enormous amount of money to obtain Novell's patent portfolio (which, by the way, comes to only 462 issued U.S. Patents; the 882 figure represents applied-for patents as well as issued patents) is to get its hands on the intellectual property around UNIX. (Novell acquired UNIX from AT&T in the 1990s.)
+
+But it now appears that Novell will not be selling UNIX patents as part of the CPTN deal. So the $450 million question is: What, exactly, is Microsoft (via CPTN) paying all that money for?
+
+I'll offer my own speculation. (Disclosure: In 2006 and 2007, I was a member of Novell's Inventions Committee -- the company's internal patent-oversight board. I don't maintain "special connections" with the Committee, however, nor do I pretend to speak for Novell.) If you look at Novell's patent portfolio as a whole -- and in particular, if you look at the bulk of the work done in the past five years -- you can't help but notice that the single largest category of inventions has to do with security.
+
+If you go to the USPTO website and so a search on patents with "security," "trust," or "authentication" in the Abstract, where Novell is the Assignee, you'll come up with 60 hits. The search query I used was:
+
+(((ABST/security OR ABST/authentication) OR ABST/trust) AND AN/Novell)
+
+If you do a search on ABST/encryption, you'll get another 12 hits. That's 72 hits out of 462 granted patents (roughly 16% of the total) having to do with encryption or security.
+
+Microsoft is well aware of its lagging reputation in matters involving security. And the company well knows that the success of its initiatives in cloud computing, collaboration, and social networking will depend, in large measure, on whether it can present a credible security story to customers. There's a lot at stake (to put it mildly). Compared to the size of the cloud computing, collab, and social markets, $450 million is a pittance.
+
+How good are Novell's security patents? That's another question. Many (not all) of them are genuinely clever. Exactly which ones Microsoft has its eye on, though, is a secret probably only a few people in Redmond know.

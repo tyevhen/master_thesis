@@ -1,0 +1,154 @@
+Pimavanserin
+
+The first time I heard any details about this compound was in a course for movement disorder specialists.  I have been a long time member of the Movement Disorder Society and get their journal Movement Disorders.  From time to  time, a mildly recurrent theme has been antipsychotic agents that can be used in specific movement disorders that do not worsen the underlying problem primarily by their activity at the dopamine-2 (D2) receptor.  One of the research interests in atypical antipsychotics over the past 20 years has been to look for this property.  In studying atypical antipsychotics in  Parkinson's patients, it  turns out that only one of these drugs does not worsen Parkinson's and that is clozapine.  There are several target populations that a drug with no liability to worsen dopamine (DA) mediated movement disorders would be useful.  The first is patients who require antipsychotic medications for bipolar disorder or schizophrenia and develop Parkinson's disease or tardive syndromes from typical or atypical antipsychotic medications.  The second group is patients with Parkinson's disease who develop psychotic symptoms associated with the primary neurological illness.  Both groups are significantly represented in geriatric psychiatry practices and despite the widespread availability of atypical antipsychotics medications in the last 20 years, geriatric patients with bipolar disorder or schizophrenia and severe movement disorders - usually tardive syndromes still exist.  A medication that does not affect the DA mediated locomotion system is potentially of great benefit.
+
+In the conference I attended, there was an entire lecture devoted to the Non-Motor Features of Parkinson's Disease.  Results from the Sydney Multicenter Study were presented.  The study followed a cohort of Parkinson's survivors for 15 and 20 years and discovered that by year 15 - 85% had cognitive decline and 50% were depressed.  By year 20 - 56% had hallucinations, 50% were on antidepressants, and 75% had dementia by the time of death.  Delusions occur but at a much lower rate.  The first step in treatment is to eliminate reversible causes including polypharmacy with anticholinergic and dopaminergic agents.  The treatment of moderate to advanced Parkinson's is by definition one that requires multiple medications.  Clozapine and quetiapine in low doses were suggested as the best direct treatments currently available.  At that time pimavanserin was discussed as a drug in Phase 3 trials.  It was presented as a serotonin (5-HT2A) inverse agonist with no activity at dopaminergic, adrenergic, histaminergic, and cholinergic receptors.  An abstract from ClinicalTrials.gov was shown of a study of 199 patients with Parkinson's Disease psychosis (PDP).  The primary outcome measure was a psychosis score on the Scale For Assessment Of Positive Symptoms adapted for Parkinson's (SAPS-PD).  Rarely used, qualitative, outcome measures are one of many limitations of geriatric studies.  On that measure, there was a more significant decrease in psychosis scores in the treated group.  The medication was fairly well tolerated with 10/95 subjects discontinuing it due to side effects compared to 2/90 in the placebo group.  No motor side effects were noted and there were no other safety concerns.  As noted in the supplementary sections there appears to be very little published data supporting the FDA decision to approve this drug in the marketplace.  It has been used to treat psychotic disorders but apparently only as an augmenting agent for antipsychotic medications and the preliminary study suggests it may work for augmenting an atypical medication like risperidone but not a typical agent like haloperidol.
+
+There is data on file with the FDA indicating that a substantial amount of research is not published at this time.  The 173 page briefing materials for the Psychopharmacological Drugs Advisory Committee discusses the results of studies involving 1200 subjects receiving pimavanserin including 616 PDP subjects.  One of the interesting aspects of this document is that it includes the full text of the 20 - item Scale for Assessment of Positive Symptoms (SAPS) by Andreasen at the very end.  The SAPS-PD is a 9 - item modification that focuses on hallucinations and delusions.  Each of the 9 items is rated on the basis of increasing frequency with a maximum score of 5 indicating frequent daily occurrences.  The evidence footprint so far suggests the usual profile of a medication approved on a priority basis by the FDA.  The most important data - how it fares in clinical practice remains to be seen.  At this point it does not seem to be a first line or even second line drug for purely psychiatric applications and will probably be limited to PDP.
+
+The pharmacodynamics of the drug are very interesting relative to all other available antipsychotic drugs.  The following table is from the briefing materials.
+
+From Reference 1
+
+The receptor affinities shown in the above table, indicate a unique profile for pimavanserin with essentially no affinities at histaminergic, muscarinic cholinergic, dopaminergic, and adrenergic receptors.  There are only two other antipsychotics with no activity in one class of receptors and in this case it has no affinity for four classes.  In theory this will eliminate a lot of side effects and the lack of dopaminergic activity should not lead to worsening Parkinson's Disease in those patients.
+
+The other interesting aspect of the description of this compound as an inverse agonist.  Inverse agonists bind to the same sites as agonists but it has negative activity or efficacy at the site.  Antagonists have no intrinsic activity at receptors - they block the effects of agonists.  There are a significant number of inverse agonists in clinical practice and a number in current development or under study.
+
+Reading through references 1 and 2 suggest that main safety concern is prolonged QTc interval at higher than recommended doses.  That lead to recommendations to avoid use with other QTc prolonging drugs.  In the older adult with Parkinson's who may also be already on an antidepressant and an antipsychotic and have pre-existing cardiovascular disease, the usual clinical approach with baseline ECGs and in some cases serial ECGs may be required.  From a pharmacokinetic standpoint, drug-drug interactions based on CYP3A4 inhibition or induction can lead to accumulation or clearance of the drug in the expected direction.
+
+In thinking about prescribing pimavanserin, if I was working in the Geriatric Psychiatry and Memory Disorders Clinic where I worked for over a decade I would be looking forward to it.  There are many PDP patients and patients with tardive syndromes that do not tolerate typical or atypical antipsychotics alone.  In some cases, the symptoms are mild and do not require treatment, but in many cases they are persistent and totally disabling.  This medication may be an option for some of those patients.  As a member of two Pharmacy and Therapeutics Committee, this medication explodes the formulary myths of drugs in the same class being equivalent and therefore allowing for the least expensive drug to be used.  Inspection of the above table shows this is not really the case for other atypicals, but it is definitely not the case for pimavanserin.  Initially, I anticipate a steep prior authorization burden for any physician wanting to prescribe it even for the indicated condition and in this case it is:
+
+NUPLAZID is an atypical antipsychotic indicated for the treatment of hallucinations and delusions associated with Parkinson’s disease psychosis.
+
+The critical question at this point is how it will work in clinical practice.  
+
+
+ 
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1: Acadia Pharmaceuticals.  NUPLAZID™(pimavanserin); SPONSOR BACKGROUND INFORMATION FOR A MEETING OF THE PSYCHOPHARMACOLOGIC DRUGS ADVISORY COMMITTEE ON 29 MARCH 2016.
+
+2: NUPLAZID™ (pimavanserin) package insert
+
+3: Selective serotonin 2A/2C receptor inverse agonists as therapeutics for neurodegenerative diseases.  US patent: US 7659285 B2
+
+
+Supplementary 1:  Current studies listed on ClinicalTrials.gov:
+
+
+Study 1:
+
+Title: A Study of the Safety and Efficacy of Pimavanserin in Patients With Alzheimer's Disease Psychosis
+Recruitment: Recruiting
+Study Results: No Results Available
+Conditions: Alzheimer's Disease Psychosis
+Interventions: Drug: Pimavanserin tartrate|Drug: Placebo
+URL: https://ClinicalTrials.gov/show/NCT02035553
+
+Study 2:
+
+Title: A Study of the Safety and Efficacy of Pimavanserin in Patients With Parkinson's Disease Psychosis
+Recruitment: Completed
+Study Results: Has Results
+Conditions: Parkinson's Disease Psychosis
+Interventions: Drug: pimavanserin tartrate|Drug: placebo
+URL: https://ClinicalTrials.gov/show/NCT01174004
+
+Study 3:
+
+Title: A Study of the Safety and Efficacy of Pimavanserin (ACP-103) in Patients With Parkinson's Disease Psychosis
+Recruitment: Completed
+Study Results: Has Results
+Conditions: Parkinson's Disease Psychosis
+Interventions: Drug: Pimavanserin tartrate (ACP-103)|Drug: Pimavanserin tartrate (ACP-103)|Drug: Placebo
+URL: https://ClinicalTrials.gov/show/NCT00477672
+
+Study 4:
+
+Title: Expanded Access of Pimavanserin for Patients With PD Psychosis
+Recruitment: Available
+Study Results: No Results Available
+Conditions: Parkinson's Disease Psychosis
+Interventions: Drug: Pimavanserin tartrate
+URL: https://ClinicalTrials.gov/show/NCT02762591
+
+Study 5:
+
+Title: A Study of Safety and Efficacy of Pimavanserin (ACP-103) in Patients With Parkinson's Disease Psychosis
+Recruitment: Completed
+Study Results: Has Results
+Conditions: Parkinson's Disease Psychosis
+Interventions: Drug: Pimavanserin tartrate (ACP-103)|Drug: Pimavanserin tartrate (ACP-103)|Drug: Pimavanserin tartrate (ACP-103)
+URL: https://ClinicalTrials.gov/show/NCT00658567
+
+Study 6:
+
+Title: A Study of the Safety and Tolerability of Pimavanserin (ACP-103) in Patients With Parkinson's Disease Psychosis
+Recruitment: Active, not recruiting
+Study Results: No Results Available
+Conditions: Parkinson's Disease Psychosis
+Interventions: Drug: pimavanserin tartrate (ACP-103)
+URL: https://ClinicalTrials.gov/show/NCT00550238
+
+Study 7:
+
+Title: An Open-label Safety Study of Pimavanserin in Parkinson's Disease Patients
+Recruitment: Completed
+Study Results: No Results Available
+Conditions: Parkinson's Disease Psychosis
+Interventions: Drug: pimavanserin tartrate (ACP-103)
+URL: https://ClinicalTrials.gov/show/NCT01518309
+
+Study 8:
+
+Title: Antipsychotic and Motor Effects of ACP-103 When Administered in Combination With Haloperidol and Risperidone
+Recruitment: Completed
+Study Results: No Results Available
+Conditions: Schizophrenia
+Interventions: Drug: ACP-103
+URL: https://ClinicalTrials.gov/show/NCT00361166
+
+Study 9:
+
+Title: ACP-103 to Treat Parkinson's Disease
+Recruitment: Completed
+Study Results: No Results Available
+Conditions: Parkinson's Disease|Dyskinesias
+Interventions: Drug: Intravenous Levodopa|Drug: ACP-103
+URL: https://ClinicalTrials.gov/show/NCT00086294
+
+Study 10:
+
+Title: Treatment of Hallucinosis/Psychosis in Parkinson's Disease by an Investigational Drug
+Recruitment: Completed
+Study Results: No Results Available
+Conditions: Hallucinations|Psychoses|Parkinson's Disease
+Interventions: Drug: ACP-103
+URL: https://ClinicalTrials.gov/show/NCT00087542
+
+
+
+Supplementary 2:  Published clinical trials of pimavanserin:
+
+1: Cummings J, Isaacson S, Mills R, Williams H, Chi-Burris K, Corbett A, Dhall R,Ballard C. Pimavanserin for patients with Parkinson's disease psychosis: a randomised, placebo-controlled phase 3 trial. Lancet. 2014 Feb 8;383(9916):533-40. doi: 10.1016/S0140-6736(13)62106-6. Epub 2013 Nov 1. Erratum in: Lancet. 2014 Jul 5;384(9937):28. PubMed PMID: 24183563.
+
+2: Meltzer HY, Elkis H, Vanover K, Weiner DM, van Kammen DP, Peters P, Hacksell U. Pimavanserin, a selective serotonin (5-HT)2A-inverse agonist, enhances the efficacy and safety of risperidone, 2mg/day, but does not enhance efficacy of haloperidol, 2mg/day: comparison with reference dose risperidone, 6mg/day. Schizophr Res. 2012 Nov;141(2-3):144-52. doi: 10.1016/j.schres.2012.07.029. Epub 2012 Sep 4. PubMed PMID: 22954754. 
+
+ 3: Ancoli-Israel S, Vanover KE, Weiner DM, Davis RE, van Kammen DP. Pimavanserin tartrate, a 5-HT(2A) receptor inverse agonist, increases slow wave sleep as measured by polysomnography in healthy adult volunteers. Sleep Med. 2011 Feb;12(2):134-41. doi: 10.1016/j.sleep.2010.10.004. Epub 2011 Jan 21. PubMed PMID: 21256805; PubMed Central PMCID: PMC3137254. 
+
+ 4: Meltzer HY, Mills R, Revell S, Williams H, Johnson A, Bahr D, Friedman JH. Pimavanserin, a serotonin(2A) receptor inverse agonist, for the treatment of parkinson's disease psychosis. Neuropsychopharmacology. 2010 Mar;35(4):881-92. doi: 10.1038/npp.2009.176. Epub 2009 Nov 11. PubMed PMID: 19907417.
+
+5: Nordstrom AL, Mansson M, Jovanovic H, Karlsson P, Halldin C, Farde L, Vanover KE, Hacksell U, Brann MR, Davis RE, Weiner DM. PET analysis of the 5-HT2A receptor inverse agonist ACP-103 in human brain. Int J Neuropsychopharmacol. 2008 Mar;11(2):163-71. Epub 2007 Aug 21. PubMed PMID: 17708779. 
+
+6: Vanover KE, Robbins-Weilert D, Wilbraham DG, Mant TG, van Kammen DP, Davis RE, Weiner DM. The effects of food on the pharmacokinetics of a formulated ACP-103 tablet in healthy volunteers. J Clin Pharmacol. 2007 Jul;47(7):915-9. Epub 2007 May 10. PubMed PMID: 17495279. 
+
+7: Vanover KE, Robbins-Weilert D, Wilbraham DG, Mant TG, van Kammen DP, Davis RE, Weiner DM. Pharmacokinetics, tolerability, and safety of ACP-103 following single or multiple oral dose administration in healthy volunteers. J Clin Pharmacol. 2007 Jun;47(6):704-14. Epub 2007 May 1. PubMed PMID: 17473118.
+
+
+Supplementary 3:
+
+This is a blog so don't mistake my opinion for that of the FDA advisory committee or the package insert.  Read all package inserts like I do and let your patients know if you or anybody else is prescribing a medication for them that is off label.  I may discuss off-label uses, because I know it is going to happen and I am also discussing research applications that at this point are not even part of the FDA process.

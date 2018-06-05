@@ -1,0 +1,29 @@
+This is a handy tip for anyone who might be wondering if there's an easy way (a RESTful way) to push hierarchical data into a Java Content Repository, making use of JSON. The good news: There is, indeed, an easy way to accomplish this.
+
+The key is to use the :operation selector (set to a value of "import"), in conjunction with the :contentType selector (set to a value of "json").
+
+Let's take a simple example. Suppose you have a JSON object that looks like:
+
+{ 'jcr:primaryType': 'nt:unstructured',
+  'propOne' : 'propOneValue',
+  'childOne' : { 'childPropOne' : true }
+}
+
+You want this data to show up under /content in the repository tree, with a node of type nt:unstructured. You would simply create a form element in your HTML page and set it up like this:
+
+<form method="POST" action="/content" enctype="multipart/form-data">
+   <input type="hidden" name=":operation" value="import" />
+   <input type="hidden" name=":contentType" value="json" />
+  <input type="hidden" name=":nameHint" value="sample" />
+   <input type="text" name=":content"
+     value="{ 'jcr:primaryType': 'nt:unstructured', 'propOne' : 'propOneValue', 'childOne' : { 'childPropOne' : true } }" />
+   <input type="Submit" />
+</form>
+
+Once the user clicks "Submit," the JSON data gets pushed into the repository exaxtly where and how you want it.
+
+Other tips for pushing data to a Java Content Repository can be found here.
+
+If you want to play with this using Adobe's CRX repository (otherwise known as the Experience Server product), you can download a copy of it, along with a free developer license, right here. CRX is the foundational piece of repository infrastructure underlying Adobe CQ and other Adobe enterprise products. It's a JCR-compliant repository (based on Apache Sling) with a lot of great administrative tools and other UIs (including a built-in IDE) included, ready to use. Installation is as simple as double-clicking the (single) downloadable JAR.
+
+Give CRX a try. It's about as straightforward and easy to use as an enterprise-grade content repository gets.

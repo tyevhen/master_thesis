@@ -1,0 +1,23 @@
+Yesterday, I was thinking about complexity in software systems and I had a kind of "Aha!" moment. It occurred to me that most of the programmer-hours time spent in product development are wasted.
+
+We know that something like 30% to 40% (some experts say 45%) of the features in a software system are typically never used, while another 20% are rarely used. That means over half the code written for a product seldom, if ever, actually executes.
+
+The irony here, if you think about it, is mindblowing. Software companies that are asking employees to turn their PCs off at night to save a few dollars on electricity are wasting huge dumpster-loads of cash every day to create code that'll never execute.
+
+Is it worth creating the excess code? One could argue that it is, because there's always the chance someone will need to execute the unused bits, at some point in time. In fact, if you think about it, there are many things in this life that follow the pattern of "you seldom, if ever, need it, but when you need it, you really need it." Insurance, for example. Should we go through life uninsured just because we think we'll never experience disaster?
+
+Unused software features are not like health insurance, though. They're more like teacup and soda straw insurance. Insurance at the granularity level of teacups is ridiculous (and in the aggregate could get quite expensive). But that's kind of the situation we're in with a lot of large, expensive software systems -- and a fair number of popular desktop programs, too (Photoshop, Acrobat Professional, OpenOffice being just three). You pay for a huge excess of features you'll never use.
+
+There's no magic answer to the problem of "How do you know which features not to write?", obviously. It's a judgment call. But I think it's critical (for vendors, who need to cut costs, and customers, who are looking for less-expensive solutions to problems) to try to address the problem in a meaningful fashion.
+
+What can be done? At least two things.
+
+We know that formal requirements tend (pretty much universally) to err on the side of feature-richness, rather than leanness. It's important to address the problem early in the chain. Don't overspecify requirements. In software companies, product managers and others who drive requirements need to learn to think in terms of core use cases, and stop catering to every customer request for a specialized feature. There's a cost associated with implementing even the smallest new feature. Strive to hit the 80% use-case. Those are the scenarios (and customer needs) you can't afford to ignore.
+
+If you're a software buyer, stop writing gargantuan RFPs. Again, figure out what your core use-cases are. You won't know what your real-world needs are until you've been in production a year. Don't try to anticipate every possible need in advance or insist on full generality. Stick with hard-core business requirements, because your odds of getting that right are small enough as it is.
+
+Another approach to take is to insist on modular design. Factor out minority functionalities in such a way that they can easily be "added back in" later through snap-ins or extra modules. Create a framework. Create services. Then compose an application.
+
+Product managers: Quit listening to every ridiculous feature request from the field. Don't drive needless features into a product because one customer asked for this or that edge-case to be supported. Make it easy for customers and SEs to build (and share) their own add-ons instead.
+
+Infrequently executed "baggage code" is costly -- for everyone. Let's stop demanding it.

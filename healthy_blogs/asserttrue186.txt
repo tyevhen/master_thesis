@@ -1,0 +1,32 @@
+Once again, President Obama (who is presumably not a coder) is advocating that every child learn how to code, saying:
+“We’ve got to have our kids in math and science, and it can’t just be a handful of kids. It’s got to be everybody. Everybody’s got to learn how to code early.”
+The problem is, it's the right message for the wrong reasons. I suspect Obama doesn't know the first thing about what the true virtues of learning to code are. He seems to see it from the narrow, parochial, "get a better job when you grow up" point of view, which is blatantly fraudulent, since we ship so many coding jobs overseas. He also seems to connect STEM education, in some mysterious fashion, to future innovation. (Can you not innovate if you don't know how to code?) And the whole discussion is a swipe at teachers, which I don't like.
+
+I think it's possible to agree with the idea of teaching kids to code while also agreeing with the idea that kids ought to get more exposure to the liberal arts as well. The two are not mutually exclusive, or shouldn't be. Both are critical.
+
+But the legitimate reasons people should learn to code are not ones I hear Obama talking much about, probably because he's only dimly aware of them. Let's talk about those reasons.
+
+First, I think it's legit to learn any new language. In learning a language, you pick up new vocabulary (of words and ideas), new ways of expressing yourself, new ways of making yourself understood by others. Also, every language (even a programming language) has a Gestalt all its own, a worldview and an expressivity that's unique to the particular language. This is worth experiencing. Ironically, it's a hard thing to describe in words. If you've learned a language, you know what I'm talking about.
+
+Secondly, learning to program teaches you to think more clearly. To solve any problem in code, you have to be able to state the problem clearly. Problem definition assumes critical importance. You learn about scope.
+
+Programming is unforgiving of syntax errors, scoping errors, design errors, typing errors. You learn about debugging, which is the art of identifying flawed assumptions. We all need more of that.
+
+As a matter of sanity preservation, you learn to become detail-oriented, when you program, because only in this way can you minimize time spent debugging. This is very much a learned skill, and something everyone needs to learn.
+
+You also learn the meaning and value of best practices. 
+
+Programming teaches open-mindedness, by showing that there is always more than one way to reach a desired goal. There are many algorithms for sorting an array, for example. Some are fast, some are general, some bog down under edge cases; yet they all do the same thing. Selecting the best path to a solution requires weighing priorities, revisiting the problem definition, comprehending context, understanding what you're doing and why you're doing it. (Thus, it also teaches self-awareness.)
+
+Programming, if you stay with it, also teaches self-confidence. Not the phony kind that comes from false praise, but the earned kind. Feedback is immediate. Your code runs, or it doesn't; it does the required task, or it doesn't. When you write a piece of code that does what you want, brilliantly, you feel brilliant. The hard work pays off.
+
+When you become a coder, you're perfecting yourself.
+
+I don't hear much talk from the President about these matters. So I don't know whether to feel good about him advocating that kids learn to code, or not, because I don't think he gets what it's about, really. It has nothing to do with getting a better job. It has everything to do with becoming a better thinker, and thus a more complete human being. That's the part I can get behind.
+
+Have you joined the mailing list? What are you waiting for? 
+
+
+☙ ❧
+
+Meanwhile, I want to thank the following great people for retweeting me yesterday. Click into these profile pics and Follow these guys on Twitter! They retweet!

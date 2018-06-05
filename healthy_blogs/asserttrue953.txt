@@ -1,0 +1,7 @@
+Fellow Novell-er and longtime Mozilla contributor Robert O'Callahan penned a blistering (yet obviously well-intentioned) philippic the other day on code-bloat in the Firefox SVG engine. For a minute there, I didn't think anyone else still cared about code size or memory usage. Happily, that turns out not to be the case. O'Callahan worries about code size at the bit level.
+
+But code size is not the only issue. O'Callahan dives quite deeply into the architectural waters and comes up with refreshingly brash statements like "XPCOM is a disease ... people acquire it by being exposed to infected code." He bristles at the notion that a single SVG <rect> element requires 1.2 Kbytes of pointer storage and carries around empty transformLists. (One wonders what he would say about Java, wherein a mere JPanel has 330 methods.)
+
+The real problem, of course, is the SVG spec, which defies any attempt at elegant implementation.
+
+Bring on sXBL with a <canvas> binding.

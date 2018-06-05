@@ -1,0 +1,18 @@
+I saw a headline this morning that the California attorney general is moving to provide instant access to a patient's prescription history for doctors and pharmacists (regulatory boards and law enforcement organizations currently have ready access to this info).  
+State Atty. Gen. Jerry Brown unveiled a plan Wednesday to provide doctors and pharmacists with almost instant Internet
+ access to patient prescription drug histories to help prevent so-called doctor shopping and other abuses of pharmaceuticals.
+
+Brown told a Los Angeles news conference that the state's prescription monitoring is a "horse-and-buggy" system that needs significant improvements because it now can take healthcare professionals weeks to obtain information on drug use by patients. That delay can allow some patients to get large quantities of drugs from multiple doctors for personal use or sale.
+
+"If California puts this on real-time access, it will give doctors and pharmacies the technology they need to fight prescription drug abuse, which is burdening our healthcare system," Brown said.
+
+The database, known as the Controlled Substance Utilization Review and Evaluation System, contains 86 million entries for prescription drugs dispensed in California.
+I have mixed feelings about this issue.  Maryland passed a similar bill this past session to study such a program.  There is a very serious problem with abuse and diversion of controlled medications, such as Percocet, OxyContin, Lortab, and Xanax.  It is indeed very easy to get scripts from duped physicians and nurse practitioners and PAs, get it filled, and then sell it on the street for a 1000-5000% profit.  We need methods to control this.
+
+The flip side is the risk of privacy violation.  Patients could have their privacy breached.  So, how much are we as a society willing to give up to combat this problem?
+
+My suggestion:  Build in banking-level protections, provide patients access to their own histories, provide patients the ability to permit or deny access on an individual basis (so that they have control over access), and permit patients to see who has accessed their records.  Also, provide protections to prescribers and pharmacists which allow them to not prescribe or fill a medication if the patient refuses access to their history.
+
+This provides a greater amount of control over access to personal info, while still providing the ability of prescribers and pharmacists to exercise careful judgment about the medications they write or fill.
+
+I'm not totally sold on this solution, but it does seem to be a better compromise than the big brother approach.  I'd like to hear your thoughts on this difficult problem.  Please add your comment below.

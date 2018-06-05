@@ -1,0 +1,56 @@
+Interestingly, the UPS website longitudes.ups.com, last summer, republished an article by University of Oxford's Carl Benedikt Frey called The Future of Work. Evidently, someone at UPS intuitively understands that the jobs of 435,000 UPS workers (worldwide) may be in jeopardy, threatened not only by drone delivery but (more immediately) by developments like Shyp, which is analogous to Uber in its ability to put drivers out of work.
+
+To quote from the Frey article:
+Throughout history, technological progress has created enormous wealth but also caused great disruption. The United States’ steel industry, for example, underwent a major transformation in the 1960s, when large, integrated steel mills were gradually put out of business by mini mills, destroying the existing economic base of cities like Pittsburgh, Pennsylvania, and Youngstown, Ohio. The mini mills, however, vastly increased productivity, and created new types of work elsewhere.
+The story of US steel illustrates an important lesson about what the economist Joseph Schumpeter called creative destruction: Long-run economic growth involves more than just increasing output in existing factories; it is also implies structural changes in employment.
+We can observe a similar phenomenon in the current information and communications technology (ICT) revolution, which has affected most areas of the modern workplace, even those not directly associated with computer programming or software engineering. Computer technologies have created prosperous new businesses (even business clusters) while making certain manufacturing workers redundant and sending older manufacturing cities into decline.
+But the likes of Detroit, Lille, or Leeds have not suffered because of falling manufacturing output; on the contrary, output has been growing in these cities over the past decade. Instead, their decline stems directly from their failure to attract different types of jobs.
+
+To a large extent, this is a failure of policy. Rather than trying to preserve the past by propping up old industries, officials should focus on managing the transition to new forms of work. This requires a better understanding of emerging technologies, and how they differ from those that they are supplanting.
+
+An important feature of the Industrial Revolution’s early manufacturing technologies was that they replaced relatively skilled artisans, which in turn increased demand for unskilled factory workers. Similarly, Henry Ford’s assembly line for manufacturing cars – introduced in 1913 – was specifically designed for unskilled workers to operate machinery, thereby allowing the company to produce its popular Model T – the first car that middle-class Americans could afford.
+Already one can feel various dubious assumptions creeping into the discussion. Saying that the "likes of Detroit" have suffered from "failure to attract different kinds of jobs" implies that Detroit is responsible for keeping its citizens employed; that it is all a matter of "attracting" jobs (with what? incentives for the 1%?). We have heard this sort of thing before in the hollow rhetoric of the various ambassadors from Kochistan who constantly tell us localities are not doing enough to favor business, as if we need to be giving more (and more, and more) tax handouts and incentives to business in order to ensure employment; clearly an extortionist proposition (which hasn't worked). By blaming Detroit's problems on "a failure of policy," blame is neatly deflected away from capitalistic players, toward public-sector players (politicians), a queer argument by the 1% for more central planning.
+
+Frey correctly notes, however, that the Industrial Revolution replaced relatively skilled artisans with unskilled factory workers. In today's world, the same effect is not hard to see, as programming jobs go to India or Romania or Russia (etc.) and U.S. programmers are left to find part-time/benefits-reduced and/or less skilled work at WalMart wherever they can find it.
+
+Later in his article, Frey says "And it is not far-fetched to imagine the likes of Google’s self-driving cars making bus and taxi drivers redundant one day," completely ignoring the fact that Uber has already put 100,000 cab drivers out of work, cut cab requests in San Francisco by 65%, and reduced the value of a NYC medallion by $200,000 in less than a year.
+
+Let's be clear. The new "job creators" of this economy are companies like Google and Facebook and Apple, and they are not contributing much in the way of jobs. Apple, for example, outsources almost all of its manufacturing activity to other countries. If we look at a sample of tech companies and the number of people they employ, relative to their size (represented by market capitalization), we get:
+
+Company Employees Market Cap ($ million)
+Apple 93000 759000
+Amazon 154000 207000
+Facebook 10082 229000
+Google 53600 389000
+Twitter 3638 33640
+LinkedIn 6897 32260
+Microsoft 128000 387000
+Oracle 122000 190000
+Yahoo 12500 41680
+VMWare 18000 37910
+
+The ten companies shown employ a total of 601,717 people but have a market cap of $2.3 trillion. Thus it takes $3.8 million in market cap to create one tech job. Compare this with, say, UPS, which has a market cap of $90.9 billion but employs 435,000 worldwide (according to the company's website), which means it takes $209,000 of market cap to create one UPS "service sector" job. 
+
+From a market-cap point of view, a company like UPS is 19 times better at creating jobs than a tech company. Perhaps more accurately, it could be said that tech companies are 19 times better at "creating value" than UPS. But, value for whom? Shareholders? Most employees of these companies are indeed shareholders as well. But there are precious few of them. Tech does not create large numbers of jobs. That's the bottom line.
+
+"But you're comparing apples and lemons," someone will say. "You can't compare a company like UPS to a tech company, they're entirely different." Yes, but the question is whether we want our future to look more like Apple, or more like UPS. Are jobs, in this economy, trending more toward tech-based enterprises, or more toward conventional service jobs? Isn't the influence of tech creeping into even the most UPS-like of companies? And doesn't it have the effect of making companies more efficient, better able to produce "value" with fewer employees? That's the point. The main effect of technology is to reduce employment.
+
+The typical comeback is to say that historically, people who have been displaced by technology always seem to find work in other jobs, new types of jobs. Which has been true, historically. But what if the "new types of jobs" are all in technology? Then we're screwed. Because there aren't enough of those jobs to go around (see table above). And we ship them overseas regularly.
+
+This is a fundamentally different era than the Henry Ford era (when Americans moved off of farms, into factories and urban centers), with an employment problem that cannot be solved with "better policy" aimed at more handouts to the "job creators." The "job creators" are doing better than ever, thank you (without creating an excess of new jobs). It's the rest of us, frankly, who need a break now.
+
+For more on this subject, see This Is What Plutocracy Looks Like (at this blog) and The Future Of Work: Three Ways We Can Create Jobs From The Bottom Up (HuffPo). Also try Why the Super-Rich Get Richer.
+
+
+ ☙ ❧
+
+Tired of lies and half-truths about mental illness? How about some Reality Therapy for a change? Check out my free book Mental Health Myths Debunked. Tons of info, tons of live links, lots of straight talk about depression, suicide, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data, so you can weigh the evidence for yourself). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous. But don't take my word for it. Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+☙ ❧ 
+  I want to thank the following great folks who retweeted me yesterday on Twitter. My advice? Follow these guys. They retweet!
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

@@ -1,0 +1,51 @@
+Pretty well I would say.
+
+That is by definition.  Orwellian is a term that captures the world George Orwell described in his classic book 1984.  Free society no longer exists as the people are manipulated by state propaganda, surveillance, and overt coercion.  As Orwell put it (1): "Political language is designed to make lies truthful and murder respectable and to give an appearance of solidity to pure wind."  More contemporary authors like Nunberg(2) have pointed out that somewhere along the way - what were considered classic Orwellian terms like jackboot have been replaced with less emotionally loaded terms that nonetheless have the same value as propaganda or misinformation.  Recent events illustrate that the Internet is a veritable firehose of misinformation from a wide range of parties that have to gain from misdirecting the public.  Nunberg points out that political language these days is less stark and intimidating than Orwell proposed - but the intent is undeniable.
+
+A parallel process has been the gradual loss of privacy ever since the monitoring with Social Security numbers became widespread.  There is an associated acceptance that the government and even businesses should have wide spread access to personal information of most if not all citizens.  Forty years ago, no physician would have predicted that medical care in the US would be dictated by governments and businesses.  Health care in America is definitely post-Orwellian.  Patients don't complain.  The physicians that do are typically squelched by the big tent philosophy of medical societies and businesses that have an affinity for the physician executive.
+
+That brings me to the topic of electronic monitoring of medication compliance or adherence.  No matter what you call it - it involves the percentage of medications taken as prescribed.  I am often in the situation where I am seeing a patient in an initial consultation and I have to determine what medications they were taking from a list of medications labelled as their medications.  In addition to the specific medications, I ask them what percentage of the medications they have been taking in the past month.  I get estimates from 0% to 50% in many cases.  Not taking medications is a significant cause of morbidity and mortality not only in psychiatry but also in populations taking antihypertensives, cardiac medications, antibiotics, and medications for diabetes mellitus.
+
+Enter the new idea in pharmaceuticals.  Put a chip in the pill and use it to monitor the pills taken.  More advanced applications include monitoring of physiological parameters or in the case of electropharmaceuticals deliver a therapeutic electric current to an organ or system in the body to treat disease.  The first device to be sold in an FDA approved medication is the the Abilify MyCite preparation (aripiprazole-sensor) sold by Otsuka Pharmaceutical Company.  The system consists of a small (1 mm) chip in the pill.  The system was designed by Proteus Digital Health.  The chip consists of a small silicon microcircuit that transmits a unique identification code when the pill hits gastric acid.  The chip is not powered by a battery, but an electrochemical reaction that occurs when the cuprous chloride and magnesium strips on the chip meet stomach acid and that triggers a brief electrochemical reaction that transmits the code to a patch the patient wears on the skin.  From there the data is transmitted to a Smartphone App and a provider portal on the Internet.  Continuous Positive Airway Pressure (CPAP) machines use a similar data transmission systems so that the machine does not have to be taken into a physicians office for the SD card to be read.  The Smartphone app in this case allows the patient to decide to release the data.
+
+There are several stories about this technology written from the Big Brother perspective.  In other words trusting corporations or governments with this data is just asking for trouble.  The opposition will say that your data is already out there in social media, copies of critical data (text messages, emails, phone logs, travel routes, GPS locations, etc),  and there is plenty of evidence that even secure accounts can be hacked.  What difference does some information about medication taking make?
+
+As a psychiatrist, I can't envision much demand for this technology on a clinical basis.  The best way to document medication taking is to just ask a person and check a plasma level of the drug.  The most common scenario is that the person is just not getting any better and I need to know if it is due to inadequate levels of the medication or the medication is just not effective.  Practically all guidelines suggest doses and time frames to demonstrate medication nonreponse.  Psychiatrists have had long acting injectable medications available for some time.  They work in the context of a good working relationship.  The patient has to show up very two to four weeks for an injection.  In the case of nonresponse it may still be a good idea to check plasma levels.
+
+The pill checking technology may be an adjunct to plasma levels to document that the medication has been taken reliably enough to produce a steady state of medication in the therapeutic range.  This may be valuable in clinical trials where pills counts have been used as evidence of pill taking.   In clinical research and practice the patient would need to be informed and consent to taking the pill.
+
+Forensic applications may occur in the case of coerced care.  For example, a patient may be under a court order to take the medication and may prefer to take an oral medication.  This would allow the court to follow the patient's medication taking to document compliance with the court order.
+
+There are several post-Orwellian scenarios that I am concerned about.  The first is patent extension.  The pill-sensor preparation is a distinct product and I would not be surprised that it results in another extension of the Abilify patent for this preparation.  It would allow for a high medication cost even when the original Abilify preparation can be sold as generic aripiprazole.  Secondly, if the electronic patent does extend the patent,  the patent may be much longer than a pharmaceutical patent based on the electronic device.  This is analogous to the situation with Advair inhalers where the mechanical apparatus of the inhaler prevented the pharmaceutical portion of the inhaler from going generic and extended the patent on a billion dollar drug.                         
+
+A third potential problem occurs at the level of what physicians will be forced to do to justify this medication.  Will it be just the usual prior authorization or will it be more than that?  I could see a scenario very similar to the current CPAP scenario used by a number of healthcare organizations.  Many organizations currently rent out CPAP machines to patients with diagnosed sleep apnea and then download the electronic data about usage.  If the patient has not used the machine at the level they expect, they insist that the machine be given back and the patient must pay a resterilizing and restocking fee.  Will that be a new standard for expensive pharmaceuticals?  Can we expect that the patient will only take an expensive drug on a trial basis?  If the pill monitoring system says they are missing too many days - they will have to take a less expensive generic drug in the same class.
+
+What will the physician's role be in all of this?  They will need to get data from the Smartphone portal.  Are there fees associated with that?  How much staff time will be involved?  Will this system require human support like the electronic health record?     
+
+There are a lot of unanswered questions. Post-Orwellian medicine assumes that there will be widespread acceptance of gadgetry and further privacy intrusions.  But that is the practice of medicine we are left with when it is run by businesses and government - not physicians.
+
+The design of a medication like this also has a distinctive propharmaceutical bias.  It assumes that medications that generally have diffuse effects on multiple organ systems in the body are producing a highly selective and effective medication response.  The "cure" is the pill.  Take the pill and you will be all right.  In fact, we have seen that when patients are actively engaged in their care taking pills is not that much of a problem.  For example, one of the most potent interventions for the chronically hypertensive patient is to have him or her monitor their own blood pressure at home.  In many cases, they can take less medication, fewer classes of medication and have better blood pressure control.
+
+In the case of Abilify MyCite one of the suggestions about the need for this medication is that patients with schizophrenia have high rates of not taking their medications.  There are psychosocial interventions like public health nursing and ACT teams that work quite well to assist people with their medication.  There are long acting injectable forms of medication.  There is a large body of work on cognitive deficits and lack of insight in schizophrenia that is untapped at a clinical level today.  Clearly - all of the healthcare companies and governments funding treatment of schizophrenia want to keep it as simple as possible.  That involves pretending that all of these other problems don't exist and that the real problem is that the patient won't take their medications every day.  Medications that have been suggested by a psychiatrist they see 3 or 4 times a year who hardly knows them.
+
+That myth may be one of my biggest objections to this system.
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+
+1:  George Orwell.  Politics and the English language. (see the send to the last sentence)  Full text
+
+2:  Geoffrey Nunberg. Going Nucular: Language, Politics, and Culture in Confrontational Times.  Public Affairs Press. 2014: p 121-125.
+
+3:  Prachi Patel.  Gulp! Electronics go down the hatch.  Chemical Engineering News.  October 16, 2017. p 20 - 22.
+
+
+
+Attribution:
+
+The Chip on a pill download is from Shutterstock per their licensing agreement.   Stock illustration ID: 763524688  Chip on pill with medicine box. 3D Render by haryigit.

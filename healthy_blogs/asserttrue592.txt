@@ -1,0 +1,29 @@
+Today's post is more of a note-to-self than anything else. I'm always trying to remember how the various browsers identify themselves to servers. The attendant user-agent strings are impossible to carry around in one's head, so I'm setting them down here for future reference.
+
+To get the user-agent strings for five popular browsers (plus Acrobat), I created a script (an EcmaScript server page) in my Sling repository that contains the line:
+
+<%= sling.getRequest().getHeader("User-agent") %>
+
+This line simply spits back the user-agent string for the requesting browser (obviously). The results for the browsers I happen to have on my local machine are as follows:
+
+Firefox 3.6:
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6
+
+Chrome 5.0.375:
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.38 Safari/533.4
+
+IE7.0.6:
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)
+
+Safari 5.0.1:
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8
+
+Opera 10.61:
+Opera/9.80 (Windows NT 6.0; U; en) Presto/2.6.30 Version/10.61
+
+Acrobat 9.0.0 Pro Extended:
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/523.15 (KHTML, like Gecko) Version/3.0 Safari/523.15
+
+Interestingly, Acrobat seems to spoof a Safari signature.
+
+If you want to perform this test yourself right now, using your present browser, simply aim your browser at http://whatsmyuseragent.com/, and you'll get a complete report on the full header sent by your browser to the server.

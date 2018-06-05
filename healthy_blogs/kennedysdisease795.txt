@@ -1,0 +1,34 @@
+Five research grants were awarded totaling $199,000. Award recipients and summaries are listed below.
+Award $50,000
+Targeting AR toxicity in SBMA by modulation of USP7 activity.
+Anna Pluciennik, Ph.D.
+Department of Biochemistry and Molecular Biology
+Thomas Jefferson University
+Summary: PolyQ-expanded androgen receptor-dependent cellular toxicity in the neuromuscular system is a characteristic feature of SBMA pathogenesis, although the molecular mechanisms for these effects are poorly understood. However, because cellular toxicity in SBMA is likely to arise, at least in part, from the polyQ-expanded-dependent dysregulation of protein-protein interactions that sustain normal cellular function, we reasoned that identification of such dysregulated interactions might help reveal potential therapeutic targets for disease modification. Therefore, as part of a KDA-funded project (2014), we used a quantitative proteomics approach and identified a deubiquitinating enzyme, USP7, that preferentially interacts with polyQ-expanded AR and contributes to toxicity. In fact, we have demonstrated that not only does partial knockdown of USP7 protein expression decrease mutant AR-dependent aggregation and dihydrotestosterone-dependent cytotoxicity, but also that overexpression of the protein aggravates these cellular effects. These results establish the need for further investigation into the role of the deubiquitinating function of USP7 in SBMA pathogenesis. The objective of this -research is to investigate the functional consequence of pharmacological inhibition of USP7 deubiquitinase activity in cellular and mouse models of SBMA. These studies will extend our previous KDA-funded proteomics work and, if successful, will establish the validity of inhibition of USP7 activity as a therapeutic approach for the treatment of SBMA.
+
+Award $50,000
+Identification of New Polyglutamine-Specific Mutant AR-Interacting Proteins in SBMA Motor Neurons
+Xia Feng
+Postdoctoral Fellow, Neurogenetics Branch
+National Institute of Neurological Disorders and Stroke, National Institute of Health
+Summary: Spinal and bulbar muscular atrophy (SBMA) is a slowly progressive neuromuscular disease. As the disease proceeds, nerve cells in the spinal cord (called motor neurons) start to die and muscle cells will waste away. The causative mutation of SBMA is the mutant androgen receptor (AR) with an abnormal expansion in the certain region. Such aberrant expansion in the mutant protein (called a polyglutamine tract) damages the normal function of the protein as well as obtains toxicity. Thus, it is important to understand how the mutant AR is regulated via other proteins in the disease. Here, I propose to use a human induced pluripotent stem cell model to generate disease-relevant motor neuron-like cells, and use these cells to identify specific interacting proteins of the mutant androgen receptor. I am hoping that my research will help provide a motor neuron-specific basis for designing and developing novel therapeutics for the treatment of SBMA.
+
+Award $33,000
+Transcellular regulation of the proteostasis network in Kennedy’s disease
+Laura Bott, Ph.D.
+Postdoctoral Fellow
+Molecular Biosciences, Northwestern University
+Summary: Misfolding and abnormal accumulation of the mutant androgen receptor in Kennedy’s disease indicates that the cellular machinery controlling protein abundance, folding, and transport (proteostasis) may be defective in the disease. We are planning to study molecular mechanisms of Kennedy’s disease in the worm Caenorhabditis elegans. For this, we will genetically engineer worms to express the mutant androgen receptor in the neuromuscular system and assess effects of the polyglutamine expansion on proteostasis regulation in this model organism. Insights into cell type-specific effects and regulation across tissues may lead to new therapeutic approaches for this disease.
+
+Award $33,000
+One gene, many proteins: investigating the role of AR isoform 2 as a therapeutic target for SBMA
+Carlo Rinaldi, MD, PhD
+Department of Physiology, Anatomy and Genetics
+University of Oxford
+Summary: The activity of steroid hormone receptors, such as progesterone and oestrogen receptors, is modulated by a number of isoforms and splice variants in a tissue-specific manner, in both health and disease. Androgen receptor may be no exception. AR isoform 2, or AR45 by the molecular weight of its encoded widely-expressed protein, is the only naturally occurring AR isoform, arising from use of an alternative transcriptional start site in intron 1 of the AR gene and containing a short, unique seven amino-acid-long N-terminal stretch instead of the long N-terminal domain found in the full length AR. Overarching aim of this proposal is to unravel the contribution of AR isoform 2 to SBMA pathogenesis and provide a novel therapeutic target for this disease, suitable for oligonucleotide antisense targeting without running the risks associated with silencing of the only available copy of the AR gene in males.
+
+Award $33,000
+The use of induced stem cells and microfluidics for developing new assays to identify new therapies for Kennedy’s disease
+Thomas M Durcan, Ph.D., Assistant Professor,
+Montreal Neurological Institute, McGill University
+Summary: It is important to explore new avenues in the search for treatments for Kennedy’s disease (KD). Our overall goal is to develop disease-relevant assays that use human motor neurons made from stem cells of both men with Kennedy’s disease and healthy individuals. Using special silicone microfluidic devices to grow motor neurons, we will measure the function of neurons upon exposure to different compounds. First, we will develop assays to measure the survival and growth of the motor neurons. Next, we will look at the how well mitochondria work and move within the neurons. Finally, we aim to set up an assay to test the ability of the normal and KD motor neurons to form synapses (junctions). Taken together, these innovative assays will provide a foundation to build a KD drug discovery platform to screen for promising compounds and targets to treat KD.

@@ -1,0 +1,65 @@
+Yesterday I talked about my favorite technique of crunching data in the browser. Generally, I try to get my data in tab-delimited form and then save it in a plain old text file. I open the text file in Chrome, use Control-Shift-J to pop open the console window, then load the data into a variable with
+
+allData = document.getElementsByTagName("pre")[0].innerHTML;
+
+What if your data is not tab-delimited? Well, think about it this way: All data is delimited. The only question is what the delimitation scheme is and whether it's consistent all the way through. JavaScript offers many ways to parse data. You're limited only by your understanding of the data, and of JavaScript. Bottom line, all data can be parsed. It's a matter of finding patterns.
+
+Let's go through a quick example using some bio-data. The other day I talked about pulling codon tables down from genomevolution.org. I eventually stuffed a bunch of data into a text file. The data looked like this:
+
+CCA(P) 0.47%CCG(P) 0.83%CCT(P) 1.39%CCC(P) 0.23%CGA(R) 0.14%CGG(R) 0.12%CGT(R) 0.47%CGC(R) 0.21%CAA(Q) 0.60%CAG(Q) 1.65%CAT(H) 1.07%CAC(H) 0.31%CTA(L) 0.40%CTG(L) 1.21%CTT(L) 3.64%CTC(L) 0.58%GCA(A) 2.68%GCG(A) 0.82%GCT(A) 2.12%GCC(A) 1.08%GGA(G) 2.87%GGG(G) 0.69%GGT(G) 2.02%GGC(G) 1.22%GAA(E) 5.15%GAG(E) 2.61%GAT(D) 4.10%GAC(D) 1.53%GTA(V) 2.82%GTG(V) 1.18%GTT(V) 2.16%GTC(V) 0.48%ACA(T) 2.12%ACG(T) 0.47%ACT(T) 1.48%ACC(T) 1.13%AGA(R) 2.00%AGG(R) 0.93%AGT(S) 1.31%AGC(S) 1.00%AAA(K) 4.85%AAG(K) 3.71%AAT(N) 3.78%AAC(N) 1.47%ATA(I) 3.83%ATG(M) 2.77%ATT(I) 3.30%ATC(I) 1.14%TCA(S) 1.45%TCG(S) 0.48%TCT(S) 1.23%TCC(S) 0.64%TGA(*) 0.06%TGG(W) 0.82%TGT(C) 0.72%TGC(C) 0.43%TAA(*) 0.20%TAG(*) 0.06%TAT(Y) 3.22%TAC(Y) 0.98%TTA(L) 1.90%TTG(L) 1.16%TTT(F) 3.52%TTC(F) 0.98% CCA(P) 1.09%CCG(P) 0.74%CCT(P) 1.51%CCC(P) 1.70%CGA(R) 1.15%CGG(R) 1.02%CGT(R) 0.90%CGC(R) 1.25%CAA(Q) 3.39%CAG(Q) 2.64%CAT(H) 1.52%CAC(H) 0.72%CTA(L) 1.46%CTG(L) 2.22%CTT(L) 1.19%CTC(L) 1.74%GCA(A) 1.77%GCG(A) 1.29%GCT(A) 2.33%GCC(A) 2.88%GGA(G) 1.50%GGG(G) 1.52%GGT(G) 1.78%GGC(G) 1.90%GAA(E) 3.51%GAG(E) 2.26%GAT(D) 3.64%GAC(D) 1.60%GTA(V) 0.87%GTG(V) 2.03%GTT(V) 1.82%GTC(V) 1.74%ACA(T) 1.01%ACG(T) 1.17%ACT(T) 1.33%ACC(T) 2.26%AGA(R) 0.57%AGG(R) 0.31%AGT(S) 1.29%AGC(S) 1.12%AAA(K) 2.56%AAG(K) 1.75%AAT(N) 2.37%AAC(N) 1.36%ATA(I) 0.55%ATG(M) 1.93%ATT(I) 3.46%ATC(I) 2.00%TCA(S) 0.96%TCG(S) 0.59%TCT(S) 1.45%TCC(S) 1.17%TGA(*) 0.09%TGG(W) 1.53%TGT(C) 0.63%TGC(C) 0.48%TAA(*) 0.16%TAG(*) 0.11%TAT(Y) 1.94%TAC(Y) 0.91%TTA(L) 2.18%TTG(L) 2.24%TTT(F) 2.70%TTC(F) 1.17%
+
+Plus much more like the above. Lots and lots of codon tables for lots and lots of organisms. How to parse it all? Since there's a carriage return at the end of each table (but not at the end of each line in the table), getting an array of tables just requires
+
+codonTables = allTheText.split( "\n" );
+
+If you're not a biogeek, here's a big chunk of molecular biology in a nutshell: DNA is a four-letter language (A,G,C,T) for spelling three-letter words called codons. If you do the math, there are 64 possible codons. Each codon corresponds to an amino acid (of which there are 20 in living organisms). The fact that there are 64 codons but only 20 amino acids means some amino acids have more than one codon. But also: three of the 64 codons have a special meaning. The codons TAG, TGA, and TAA are so-called stop codons. They don't code for any amino acid. Instead they tell RNA polymerase when to stop making protein.
+
+The codon table for an organism tells you the usage frequency for each of the 64 possible codons. The frequencies (as you can see above) vary a lot, not only within a single codon table (for a single organism) but across organisms. Some organisms have DNA that's unusually high in G (guanine) and C (cytosine). Those organisms tend, not surprisingly, to use codons containing mostly G and C. Other organisms, like C. botulinum (yes, that botulinum), have DNA that contains hardly any G or C and hence use the codon AAA (which stands for lysine) a good deal more than, say, GCG (alanine).
+
+If we know (as we do, from the above tables) the frequencies of occurrence of codons that contain 'A' (such as CAA, CCA, AAA, AAT, AGA, etc.), then it's a simple matter to sum all the 'A' frequencies to get the total frequency of occurrence of A in the organism's DNA (or at least in the coding regions of its DNA). We can do that also for C, G, and T to get their frequencies. Here's a routine that looks at a codon table's 64 entries and derives A, G, C, and T compositions for the DNA:
+
+function getBaseComposition( table ) {
+
+   var codons = table.split("%"); // parse table into individual codons & freqs
+   codons.pop();  // get rid of empty final item
+
+   var bases = new Object( );
+
+   bases.A = 0;
+   bases.G = 0;
+   bases.T = 0;
+   bases.C = 0;
+   
+   function analyze( item ) { 
+      var percent = item.split(/\s/)[1] * .01; // get that percentage
+      var codon = item.substring(0,3); // get the actual codon
+      bases[ codon[0] ]+= percent; // base 1
+      bases[ codon[1] ]+= percent; // base 2
+      bases[ codon[2] ]+= percent; // "wobble" base
+   }
+
+   codons.forEach( analyze ); // loop over all codons
+
+   bases.A /= 3;  // normalize the frequencies
+   bases.G /= 3;
+   bases.T /= 3;
+   bases.C /= 3;
+   
+   return bases;
+}
+
+The line codons = table.split("%") chops the codon table up into a bunch of pieces that look like CCA(P) 0.47 (that is: a codon, followed by one-letter amino-acid abbreviation in parens, followed by a frequency number). The "%" character happens to be convenient to parse on, but the  presence of a % at the end of the table also means split("%") creates an empty item at the end of the array, which we don't want. We get rid of the empty item with .pop().
+
+Parsing CCA(P) 0.47 into a codon and a frequency number is easy. To get the codon, take the first three characters of the string, by using  item.substring(0,3). To get the number at the end, just split at the space using item.split(/\s/)[1] The bracketed 1 on the end means give me the second item in the array that was created by split(). The first item in the array (at index 0) would of course be CCA(P).
+
+Note that we have to normalize frequencies (divide by 3) toward the end, because we're looking at 64 frequency percentages (that add up to 1.0) but we're counting 3 bases per frequency number (because codons have 3 bases each), hence if we don't normalize, we're going to end up with 300% total base content instead of 100%.
+
+The internal method analyze( ) is a callback. We give it to the forEach( ) method of the codons array. In case you didn't realize it, JavaScript now has a built-in forEach( ) method as part of every Array object, and most modern browsers support it.
+
+If we run this code against the first codon table shown further above (which happens to be for an organism named Abiotrophia defectiva strain ATCC 49176), we get back an object with fields A, G, T, and C containing the overall frequencies of occurrence of those bases in A. defectiva DNA (or at least the parts of its DNA that code for protein, which is well over 90%). What I got in Chrome's console looked like this:
+
+Object {A: 0.34040000000000004, G: 0.22683333333333336, T: 0.28150000000000003, C: 0.15116666666666664}
+
+The G+C percentage for this organism comes to 0.378 (or 37.8%). To me, what's more interesting than the G+C number is that no two base compositions match. G does not equal C (not even close, in fact) and A does not equal T. In theory, G should equal C (and A=T) according to Chargaff's second parity rule, which applies to single-stranded DNA. (Remember, that's what we're dealing with here: ssDNA. We're looking at codon values that correspond to sequences on the RNA-synonymous strand of the organism's DNA.) Obviously, Chargaff's second parity rule doesn't hold in this case, because G is almost twice C, and A is 150% of T! Moreover, A+G equals 0.5672, meaning the purine content is 56.72%. According to Chargaff's second rule, purines and pyrimidines should be 50% each. That's not the case here.
+
+Things get really fun when it comes time to graph the data you crunch in the console window. If you're thinking "Google Charts," think again. There's a much easier and more powerful way to graph data (and no, it does not involve Excel). I'll tell you all about it in my next post.

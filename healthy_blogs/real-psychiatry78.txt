@@ -1,0 +1,53 @@
+Fenethylline
+
+
+
+
+In the course of addiction practice it is common to run across chemical unusual compounds typically being used for their intoxicating properties.  That happened to me recently when I encountered the compound fenethylline.  Fenethylline was apparently invented for use as a stimulant in Attention Deficit-Hyperactivity Disorder and some of the conditions that were precursors to this diagnosis.  I have read a lot of that literature and had never encountered it.  The interesting property of this chemical is that it is cleaved in vivo to theophylline and amphetamine.  Theophylline is one of a class of coumpounds called methyl xanthines that most physicians in my era were familiar with from the treatment of asthma and exacerbations of chronic obstructive pulmonary disease.  They proved to be weak medications and although some sources list them as tertiary agents today use is not very likely.  This medication is proof that medicine evolves based on what happens with real world applications.  This pill for the most part has been replaced by inhaled corticosteroids alone or inhaled corticosteroids in combination with long acting inhaled beta agonist medications.  Theophylline is a non-addicting medication that can produce side effects very similar to excessive caffeine use in a number of patients.
+
+Amphetamine is different and is in a number of preparations for ADHD.  Many of these preparations are FDA approved for that application.  Amphetamine is a potentially addicting drug and is a Schedule II N stimulant on the schedule of controlled substances indicating a high high potential for abuse or dependence.  Fenethylline is a Schedule I compound meaning that there is no accepted medical use, high risk for abuse and a lack of safety when used under medical supervision.  It has been a Schdule I compound since 1981.
+
+In the medical literature problems with fenethylline were noted as early as the the 1960s with the first paper on addiction published in 1965 (1).  It was apparently synthesized in 1961.  It was listed as a substance of concern by the World Health Organization in 1986 (2).  There was a paper the same year pointing out that it had been in use for 21 years at that point and it appeared to have less abuse potential than amphetamine. More recent case reports have been published on the issue of psychosis and myocardial infarction from using the drug.  The real issue that has surfaced in the last several years has been the addictive potential and the use of revenues generated from this drug being used to fund terrorist operations and possible the war in Syria.
+
+Van Hout and Wells (7) track the illicit manufacture of fenethylline and synthetic amphetamine type stimulants (ATS) in the Middle East.  The manufacture of Captagon ( a former brand name for fenethylline) started int he early 2000s in Southeastern Europe and it was transported to the Arabian Peninsula.  The name branded medication did not contain fenethylline but an array of amphetamine and caffeine like stimulants as well as antibiotics.  Lebanon became a major supplier of the drug but eventually Syria took over in about 2013.  In 2015 about 48 millions pills of Captagon were confiscated en route form Syria to various Middle Eastern locations.
+
+The Captagon tablets themselves sell for $3 to $20 each and are thought to serve two purposes - a stimulant for soldiers engaged in the military who need to be alert and aggressive and as a revenue source for funding the war.  They are widely available on the Arabian Peninsula.
+
+A brief review of the pharmacology of fenethylline (6) suggests that the compound is more lipid soluble and have better brain access than amphetamine products.  All of the currently available medical sources seem to suggest that it is less toxic than amphetamine, but also considerably weaker.  The literature is limited but the reasons for why it has attained a great deal of value in the Middle East do not seem perfectly clear.  The rationale for synthesizing the original compound is also not very clear.  There has always been some folklore that methylxanthines like caffeine and theophylline would have a stimulant like effect on persons with ADHD.  Reviews of that phenomenon have found very little to back it up (8,9).          
+
+I post this here as another curious note in terms of another addictive drug that appears to be unique to a certain part of the world.  As usual, wherever an addictive compound is found there will be people there to profit from it.      
+
+
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+
+
+
+1: Grahmann H, Reimer F.  Captagon as an addicting drug.  Nervenarzt.  1965 May; 36: 227-8. German. PubMed PMID: 14305717.
+
+2: Keup W. Use, indications and distribution in different countries of thestimulant and hallucinogenic amphetamine derivatives under consideration by WHO. Drug Alcohol Depend. 1986 Jun;17(2-3):169-92. PubMed PMID: 2874968.
+
+3: Kristen G, Schaefer A, von Schlichtegroll A. Fenetylline: therapeutic use,misuse and/or abuse. Drug Alcohol Depend. 1986 Jun;17(2-3):259-71. PubMed PMID: 3743408.
+
+4: Al-Imam A, Santacroce R, Roman-Urrestarazu A, Chilcott R, Bersani G, Martinotti G, Corazza O. Captagon: use and trade in the Middle East. Hum Psychopharmacol. 2016 Oct 21. doi: 10.1002/hup.2548. [Epub ahead of print] PubMed PMID: 27766667. 
+
+5: Khanra S, Sen S. Pharmacoterrorism: We should be worried. Asian J Psychiatr. 2016 Aug;22:83. doi: 10.1016/j.ajp.2016.05.002. PubMed PMID: 27520902. 
+
+6: Katselou M, Papoutsis I, Nikolaou P, Qammaz S, Spiliopoulou C, Athanaselis S. Fenethylline (Captagon) Abuse - Local Problems from an Old Drug Become Universal. Basic Clin Pharmacol Toxicol. 2016 Aug;119(2):133-40. doi: 10.1111/bcpt.12584. Review. PubMed PMID: 27004621. 
+
+7: Van Hout MC, Wells J. Is Captagon (fenethylline) helping to fuel the Syrian conflict? Addiction. 2016 Apr;111(4):748-9. doi: 10.1111/add.13262. PubMed PMID: 26787140.
+
+8: Hughes JR, Hale KL. Behavioral effects of caffeine and other methylxanthines on children. Exp Clin Psychopharmacol. 1998 Feb;6(1):87-95. Review. PubMed PMID: 9526149. 
+
+9: Stein MA, Krasowski M, Leventhal BL, Phillips W, Bender BG. Behavioral and cognitive effects of methylxanthines. A meta-analysis of theophylline and caffeine. Arch Pediatr Adolesc Med. 1996 Mar;150(3):284-8. PubMed PMID: 8603222.
+
+
+
+
+Attributions
+
+Fenetylline structure was obtained from ChemSpider.

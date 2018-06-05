@@ -1,0 +1,60 @@
+Part IX of the Mental Health Act creates a number of offences relating to practice under the Act and to people with mental disorder. Some have greater implications (and usage) than others.
+
+Sec.127 relates to the ill-treatment of people with mental disorder. It is an extremely singificant provision. It makes it an offence for staff or managers of hospitals and care homes “to ill-treat or wilfully to neglect” anyone receiving treatment for mental disorder in that hospital or care home, either as an inpatient or as an outpatient. It is also an offence for “any individual to ill-treat or wilfully to neglect a mentally disordered patient who is for the time being subject to his guardianship under this Act or otherwise in his custody or care (whether by virtue of any legal or moral obligation or otherwise)”.
+
+This has a broad application – it is intended to protect anyone with a mental disorder, whether in institutional care, or living in their own home, which would include people with mental illness, as well as people with learning disability and older people with dementia. They do not ever have needed to have been subject to the Mental Health Act. The penalty for this offence can be up to 5 years imprisonment, and/or an unlimited fine.
+
+Although this has been in the Mental Health Act since 1983, it appears that it was not used until 2007. It is reported that Liudas Poderis was the first person to be prosecuted under Sec.127. Mr Poderis was a care worker in a nursing home in Wilmslow, Cheshire. In November 2006 he attempted to suffocate an elderly man with dementia by placing a plastic bag over his head. This was witnessed by another care worker. In August 2007 he received a prison sentence.
+
+Prosecution under this Section has since become much more prevalent. The police appeared to have become more aware of this offence since Poderis’ conviction, as in 2008 Tanya Paterson, the manager of a care home for people with learning disabilities, was found guilty of ill treatment of a 21-year-old woman “with an intellectual age of between five and eight by bullying, shouting and swearing at her, putting her outside in the rain and pushing her about in a hallway. The charges relate to a seven-day period in May 2007.” It was reported at the time that she had “initially been charged with counts of assault but they were replaced with the allegation under s.127 (1)”.
+
+Since then, dozens of people, mainly staff in care homes and hospitals, have been successfully prosecuted for the ill-treatment and neglect of vulnerable mentally disordered people under this section.
+
+Sec.126 relates to forgery and false statements. This section makes it an offence to forge or to deliberately make false statements in Mental Health Act forms such as applications under Sec.2, 3 or 4, and medical recommendations. It is also an offence to knowingly possess or hold such a false document. The maximum penalty for this offence is 2 years imprisonment and/or an unlimited fine.
+
+I suppose that examples of falsehoods on these documents could include such things as stating on Form A6 (Application by an AMHP for admission for treatment) that you have consulted with the patient’s nearest relative when you haven’t, or even signing the form which among other things states that you have interviewed the patient, when in fact you haven’t.
+
+It’s worth saying that inadvertent errors, such as putting the wrong name or address of the patient on the form, while possibly affecting the validity and legality of the paperwork, would not in itself amount to an offence under Sec.126.
+
+So how often has Sec.126 been used? I haven’t the faintest idea. In the many years in which I have practiced under the 1983 Act (since 1983, if you’re asking), I have never in my personal experience come across any occasion in which I have been aware of an ASW or AMHP knowingly and deliberately falsifying an application for detention. I have also been unable to find any record of any prosecutions nationally under this section (although perhaps they may be blog readers out there who know differently).
+
+The closest to a prosecution of an ASW/AMHP that I have discovered, is the cases outlined in my post When Nearest Relatives Object. These were both civil cases brought before the High Court. In one the ASW had made an application under Sec.3 despite knowing that the nearest relative had objected to the application. In the other, again relating to a Sec.3 application, the ASW had stated that it had been “impracticable” to consult with the nearest relative, when in fact he had avoided contacting the nearest relative, knowing full well that the nearest relative would object to the application. However, in neither case was a prosecution brought under Sec.126.
+
+Sec.128 relates to “Assisting patients to absent themselves without leave, etc”. This makes it an offence to assist a patient detained under Sec.2, 3, or 4 (or Guardianship) to “to absent himself without leave”, as well as harbouring a detained patient who is absent without leave. The maximum penalty is 2 years imprisonment and/or an unlimited fine.
+
+There is a current “live” example of a prosecution under this section. In October 2011 a patient detained in a medium secure unit for people with learning difficulties and challenging behaviour in North Suffolk managed to escape, and was missing for several days before being recovered.
+
+In December 2011, at a hearing at Ipswich Crown Court, Rebecca Martin, who was a member of staff at the unit, pleaded guilty to assisting the patient to escape. The case was adjourned until the end of January 2012 for sentencing. It is reported that the judge told Martin that she had pleaded guilty to an extremely serious offence. “It is highly likely you will receive a custodial sentence. It is an appalling breach of trust when someone aids and abets someone who is suffering from a psychiatric illness to escape from lawful custody.” (Eastern Daily Press 15.12.11.)
+
+Sec.129 relates to obstruction. Among other things, this section states:
+“(1) Any person who without reasonable cause—
+(a) refuses to allow the inspection of any premises; or
+(b) refuses to allow the visiting, interviewing or examination of any person by a person authorised in that behalf by or under this Act or to give access to any person so authorised; or…
+(d) otherwise obstructs any such person in the exercise of his functions,
+shall be guilty of an offence.”
+
+Furthermore:
+“(2) … any person who insists on being present when required to withdraw by a person authorised by or under this Act to interview or examine a person in private shall be guilty of an offence.”
+
+Anyone found guilty of these offences can receive a prison sentence of up to 3 months, and/or a fine.
+
+What this means is that potentially AMHP’s have powers to order the arrest of people who are obstructing them in the execution of their duties under the MHA. I wonder how many police officers are aware of the powers under this section?
+
+How many times have AMHP’s found themselves in the position of having to persuade a relative to allow them into their house so that they can assess someone under the MHA? On how many occasions have AMHP’s found relatives or other interested parties interfering with or impeding their efforts to interview a patient “in a suitable manner”? And yet how often has anyone been prosecuted under this section? Again, I am not aware of any such prosecution.
+
+It is not generally in the nature of AMHP’s to use coercion in such a blatant way. AMHP’s usually try to get round such problems through negotiation. I know that, when confronted with such difficulties, I have usually been able to persuade the person to cooperate sufficiently to be able to discharge my legal duties.
+
+It is a Section I have always been aware of in the back of my mind, but have never take advantage of. Even when AMHP’s are physically assaulted, they can be very reluctant to make a formal complaint.
+
+(Digression: Although I have been physically assaulted on a handful of occasions during my social work career, some of which I have recounted in my posts on “Assault and Battery”, I have only once made a formal complaint. This was an occasion when one of my service users had physically abused her child. I had to accompany the child protection social worker so that the service user could give an account of the incident, and so that the social worker could tell her what action was being taken.
+
+
+I could immediately tell that the service user was extremely angry and was potentially dangerous. The child protection social worker, however, seemed oblivious to this. I tried to warn her that we should leave, but she continued to go through her set agenda, oblivious to the increasing fury of the child’s mother.
+
+
+Eventually, I took the social worker firmly by the arm and tried to lead her down the hallway and out of the door. The child’s mother, however, had other plans, and tried to block our way. As I pushed my way past her, and made a break for the door, she drop kicked me, striking my buttock. Hard.
+
+
+On the advice of a team manager, I gave a full statement to the police, and even endured having to drop my pants while a female police officer took a photograph of my injured buttock. The service user was arrested and interviewed. She received a caution.)
+
+While we’re discussing the whole issue of offences, I should mention Sec.139, “Protection for acts done in pursuance of this Act”. This provides valuable protection for AMHP’s and others against civil or criminal proceedings while undertaking their lawful duties, unless “the act was done in bad faith or without reasonable care”. This does mean that honest mistakes, or even incompetence, are protected from civil or criminal action as long as the actions were not done in bad faith. It’s worth knowing.

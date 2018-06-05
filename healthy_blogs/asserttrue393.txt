@@ -1,0 +1,20 @@
+Most genomes that are high in A+T content (or low in G+C content) show a surprising DNA strand asymmetry: The message strand of genes tends to be rich in purines. This rule applies across all domains I've looked at except mitochondria, where message strands tend to be pyrimidine-rich rather than purine-rich. The following two graphs makes this clearer.
+
+
+This is a graph of message-strand (or RNA-synonymous-strand) purine content plotted vertically, against A+T plotted horizontally, for 1,373 bacterial species. Each dot represents a genome. High-GC/low-AT organisms like Streptomyces and Bordetella are on left and low-GC/high-AT organisms like Clostridium botulinum are toward the right. The few dots on the far right are intracellular endosymbionts that have lost a good bit of DNA over the millennia. They tend to be extremely high in A+T.
+
+Compare the above graph with the graph below, which is the same thing (message-strand A+G vs. A+T) for mitochondrial DNA (N=2543 genomes). There is still an upward slope to the data (and in fact it is steeper than it looks, because the range of y-values is different in the graph below than in the graph above). The slope of the regression line is very nearly the same (0.148 vs. 0.149) for both graphs. But you can see that in the graph below, nearly all the points are below y = 0.50. That means message-strands are high in pyrimidines rather than purines.
+
+
+
+I speculated in a previous post that the reason mitochondrial DNA is pyrimidine-heavy on the message strand is that mtDNA encodes a very small number of proteins (13, in all), and they tend to be membrane-associated proteins, which use mostly non-polar amino acids. It turns out that codons for the non-polar amino acids are pyrimidine-rich.
+
+To see if that's really what's going on, I obtained the DNA sequences for cytochrome-c oxidase and NADH dehydrogenase (the two must fundamental enzyme systems of mitochondria) from several hundred bacterial species. Actually, I was able to obtain DNA sequences for a total of 942 bacterial NADH dehydrogenase (subunit L) proteins. I also succeeded in obtaining DNA sequences for 647 bacterial cytochrome-c oxidase subunit 1 proteins. In mitochondria, these genes are known as ND5 and Cox1. In bacteria they're better known as nuoL and cyoB.
+
+The graph below shows A+G for the two enzymes versus whole-chromosome A+T, for the relevant organisms.
+
+Message strand purine content was derived from the DNA sequences of cyoB (pink) genes from 942 bacteria, and from nuoL (blue) genes from 647 bacterial species. The A+G values were plotted against host-organism whole-genome A+T content. All cyoB and nuoL sequences tended to be pyrimidine rich. But pyrimidine content was less for organisms with high A+T content. (Note the slightly positive slope of the regression line.)
+
+The pink points are for cytochrome-c oxidase subunit 1 (cyoB) while the blue points are for NADH dehydrogenase subunit 5 (nuoL). Two things are worth noting. One is that the regression line is upward-sloping, meaning that as an organism's DNA gets richer in A+T content, the purine content on the message strand rises. This effect seems to be universal. The second thing to note is that almost all of the points in the graph lie below y = 0.5, as is the case for mitochondria. These two signature "mitochondrial" enzyme systems, critical to oxidative phosphorylation (in bacteria as well as higher organisms), do tend to use pyrimidine-rich codons—rendering the relevant genes pyrminidine-rich on the RNA-synonymous (message) strand of DNA. The hypothesis is upheld.
+
+For you bio students, a bit of homework: You might want to think about why it is that membrane-associated proteins are rich in non-polar amino acids. (In human mitochondria, leucine and isoleucine are the most-used amino acids. Together they account for an amazing 30% of all amino acids used in mtDNA-encoded gene products.) Hint: Most membranes have a lipid bilayer, and lipids don't like water.

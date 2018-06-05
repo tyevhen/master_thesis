@@ -1,0 +1,73 @@
+I think we all have some idea of what we think PTSD is, but it turns out PTSD isn't as clear-cut as I thought.
+
+Apparently, when PTSD was first introduced into the DSM, the diagnostic criteria required a traumatic event "outside the range of usual human experience" that would cause "significant symptoms of distress in almost anyone." That fits pretty well with my own perception of PTSD. Rape, war, torture, violent experiences...these all fit into that description. PTSD is a normal response to an abnormal stressor. 
+
+
+However, in the DSM-IV, the nature of the "traumatic event" broadened drastically, and a requisite response was "intense fear, helplessness, or horror." So in the DSM-IV, PTSD was a pathological response to a potentially less extreme stressor. Someone could be diagnosed with PTSD if they experienced "intense horror or helplessness" after watching a scary TV show or upon being diagnosed with a terminal illness.
+
+Although I don't wish to undermine the intense stress that someone with pathological responses may feel, I think this definition undermines the intensely awful experience that someone with PTSD (in my mind) has encountered. The statistics agree with my assessment of these criteria: in a community survey, 89.6% of people reported that they had been exposed to a traumatic event and had responses that could potentially qualify them for a PTSD diagnosis.
+
+Luckily, the DSM-5 tightened the traumatic event criteria again, and broadened the range of response to the traumatic event. Now, the traumatic event must occur directly to the subject, and they can exhibit other pathological responses besides "intense fear, helplessness, or horror." 
+
+To be diagnosed with PTSD by DSM-5 standards, a person must be exposed to "actual or threatened death, serious injury, or sexual violence." They must exhibit one of the following symptoms: intrusive distressing memories of the event, distressing dreams reliving the event, dissociative reactions, intense psychological distress at cues that remind the person of the event, or marked physiological reactions to cues that remind the person of the event. Additionally, the person must persistently avoid stimuli associated with the traumatic event, have negative alterations in cognitions and moods associated with the event (e.g. distorted cognitions about the cause or consequences of the event), and alterations in arousal and reactivity (e.g. hypervigilance or angry outbursts). 
+
+In general, people respond to trauma with decreasing pathological symptoms. In order to be diagnosed with PTSD, the patient must have experienced these negative responses for more than 1 month, otherwise they are experiencing "acute stress disorder."
+
+Despite the common association of PTSD with war veterans, PTSD is actually more common in women than in men - and the traumatic events are more often domestic violence or rape than war. However, a great deal of money and time has gone into research of PTSD in war veterans. 
+
+
+During WWI, symptoms of PTSD were called "shell shock," and were thought to be caused by brain hemorrhages. However, this belief slowly subsided as doctors realized that the symptoms presented themselves regardless of injury. By WWII, traumatic reactions were known as "operational fatigue" and "war neuroses," before the terminology finally settled on "combat fatigue" during the Korean and Vietnam wars. A rigorous longitudinal study of PTSD by Smith et. al. in 2008 found that 4.3% of military personnel deployed to Iraq or Afghanistan had PTSD. Of those, the rate was higher (7.8%) in those that had experienced combat compared to those who hadn't (1.4%). An issue that is (rightfully!) getting much attention lately is the high rate of soldier suicide. Between 2005 and 2009, more than 1,100 soldiers took their own lives - generally with a gun. 
+
+There are several risk factors that increase the likelihood of PTSD - being female, lower social support, neuroticism, preexisting depression or anxiety, family history of depression, substance abuse, lower socioeconomic status, and race/ethnicity. (Apparently, compared to whites, African Americans and Hispanics who were evacuated from the World Trade Center in 2001 were more likely to get PTSD.) There is also a genetic factor that increases susceptibility to PTSD. Preliminary studies suggest that people with a particular form of the serotonin transporter gene may be more susceptible to PTSD than those with the "normal" form of this gene.
+
+On the other hand, there is at least one factor that promotes resilience to traumatic events: intelligence. It's possible that people with higher intelligence are better able to make "sense" of the event by viewing it as a larger whole. Or an intelligent person may be better able to recognize and buffer cognitive distortions such as "I deserved that," "why should I have lived when they died?" and "If I had only done _______, this wouldn't have happened."
+
+Researchers have come up with several ways to decrease likelihood of succumbing to PTSD after a traumatic event. 
+
+Stress-inoculation training has proved successful with members of the Armed Forces. Soldiers can be exposed, through virtual reality, to the types of stressors that might occur during deployment. Thus they are better able to deal with the trauma when exposed to the events in real life.
+
+Debriefing after a traumatic event can also be helpful. This allows the victim to process the event in a safe environment, before the details become internalized. 
+
+Interestingly, one study showed that subjects who were exposed to a highly disturbing film were less likely to report flashbacks if they played Tetris for 10 minutes after the film than if they sat quietly for those 10 minutes. This team of researchers also showed that simply being distracted after the disturbing video was not enough to decrease flashbacks, and that doing a verbal task actually increased the number of flashbacks. So, apparently, visio-spacial tasks decrease the likelihood of intrusive flashbacks if performed immediately after the traumatic event. I'm not sure this information is particularly useful, but it's interesting. 
+
+As of yet, there isn't a highly successful way to "cure" people with PTSD. Cognitive behavioral therapy, which helps the victims recognize cognitive distortions (e.g. "I deserved that," "why should I have lived when they died?" and "If I had only done _______, this wouldn't have happened."), can be helpful in reducing anxiety. Antidepressant medications can alleviate some of the depression and anxiety experienced by victims. 
+
+One up-and-coming treatment has shown promising results. Someone with PTSD can undergo prolonged exposure to the traumatic events. They can do this through repeatedly reliving the events out loud, or even by re-experiencing them through virtual reality. Unfortunately, many PTSD vitimcs drop out of such treatments because reliving the events is too difficult. However, this treatment method has proven very helpful to people who complete the process, and I hope that work in this area continues. 
+
+
+This is a series of posts summarizing what I'm learning in my Abnormal Psychology course. Much of the information provided comes from reading my James N. Butcher's textbook Abnormal Psychology. To read the other posts, follow these links: 
+
+The Definition of Abnormal
+A History of Abnormal Psychology
+Abnormal Psychology in Contemporary Society
+Contemporary Viewpoints on Treating Mental Illness - Biology
+Contemporary Viewpoints on Treating Mental Illness - Psychology
+Frontline: New Asylums
+Brave New Films: This is Crazy
+Clinical Mental Health Diagnosis: Biological Assessment
+Clinical Mental Health Diagnosis: Psychological Assessment
+Does the DSM Encourage Overmedication?
+Post Traumatic Stress Syndrome - The Basics
+Panic Disorder
+Obsessive Compulsive Disorder
+Hoarding and Body Dysmorphic Disorders
+Depression - an Overview
+Personality Disorders - Clusters and Dimensions
+Personality Disorders - Cluster A
+Personality Disorders - Cluster B
+Personality Disorders - Cluster C
+Biological Effects of Stress on Your Body
+Somatic Symptom and Related Disorders
+Dissociative Disorders
+Borderline Personality Disorder
+Dialectical Behavioral Therapy
+Paraphilic Disorders
+Gender Dysphoria - Homosexuality and Transgender
+Anxiety Disorders
+Bipolar Disorder - The Basics
+Suicide - An Overview
+
+References:
+
+
+Butcher, James N. Hooley, Jill M. Mineka, Susan. (2014) Chapter 5: Stress and Physical and Mental Health. Abnormal Psychology, sixteenth edition (pp. 129-161). Pearson Education Inc.

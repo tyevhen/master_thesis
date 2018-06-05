@@ -1,0 +1,8 @@
+I happened to come upon an excellent slide show by Capers Jones called Software Quality in 2008: A Survey of the State of the Art. It contains a number of eyebrow-raisers.
+"Software is blamed for more major business problems than any other man-made product."
+"Poor software quality has become one of the most expensive topics in human history."
+20% of defects can trace their origins to faulty requirements.
+Studies by Mitre, TRW, and Nippon Electric have found that 60% of shipping defects can be traced to design time.
+Coding errors account for 25 to 40% of shipping bugs, far less than design-time errors.
+Quality-excellence investments have an ROI of > $15 per $1 spent
+The Jones deck is a quick read and well worth a quick look. You'll be thinking about it long after the 5 minutes you spent looking at it are over.

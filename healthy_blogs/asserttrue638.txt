@@ -1,0 +1,16 @@
+Vendors with the most security vulnerabilities, according to IBM.
+
+A few days ago, IBM came out with its IBM Security Solutions X-Force® 2009 Trend and Risk Report (available here with registration; choose the link called Get the IBM X-Force 2009 Trend and Risk Report), which provides an interesting assessment of the latest trends in online security vulnerabilities and attack modalities.
+
+Some interesting highlights:
+The number of high and critical multimedia vulnerabilities continue to increase.
+Three of the five most prevalent malicious Web site exploits of 2009 were PDFs, one was a Flash exploit, and the other was an ActiveX control that allows a user to view an Office document through Microsoft Internet Explorer.
+7.5 percent of the Internet is considered “socially” unacceptable, unwanted, or flat out malicious.
+Spam and phishing came back with a vengeance in the second half of 2009. At the end of the year, the volume of spam had more than doubled in comparison to the volume seen before the McColo shutdown in late 2008.
+The majority of spam continues to be URL-based spam. Although most of those URLs are hosted in China, the senders of most spam are usually located in other countries, such as Brazil (the top sender in 2009), the US, India, and, new to the top sender’s list, Vietnam (whose spam volume has tripled over the past year).
+Tuesday continues to be the biggest day of the week for appearance of new vulnerabilities.
+
+
+PDFs present a special problem. According to IBM: "The use of malicious PDFs for exploitation has seen a dramatic increase this year and it is quite common for multiple exploits to be present in a single PDF delivered by a malicious site. In fact, the three PDF vulnerabilities on our list are the most commonly observed combination. We will surely see this trend continue into the future; at least as long as new PDF vulnerabilities trickle out into the wild while patch speed and adoption could be better. In 2010, Adobe products are likely to continue to have a presence on our future most popular exploits list, although it is difficult to predict if it will be the “year of PDF” or the “year of Flash.” Adobe Acrobat/PDF has the lead for now."
+
+In addition: "Interestingly, some new additions to the PDF format include the ability to embed entire PDF documents and multimedia such as Flash movies. So now a malicious PDF might actually be a malicious Flash movie. It is quite critical that organizations and individuals update their Adobe products whenever a newer version is offered and if possible use the auto-update facility. In addition, unless you want or need the ability to run script or watch movies inside a PDF document, you should disable these features in the program options."

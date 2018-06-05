@@ -1,0 +1,34 @@
+Thanks to Tim who sent me the link to this Wall Street Journal article:
+
+Brain Shrinkage:  It's Only Human
+
+Yup.  Many parts wither as we age, our brains among them.  Octogenarians are liable to have brains 15% smaller than Justin Bieber's brain.  Imagine that!  Humans it seems are unique among primates in that we are longest-lived with the largest brains, and are also susceptible to neuropathology in the late stages of life, such as dementia.
+
+There are several types of dementia, but even normal human aging is characterized by neural deterioration and cognitive impairment to some extent.  Various pathologies are common - amyloid beta deposits, neuron trees dying off, reduced synapse numbers, loss of specific receptors… these seem to occur specifically in areas that are part of learning, memory, and executive function.  Some of these same changes occur in other primate species whose members (rarely) get, well, senile.  There have been case reports of elderly gorillas or chimps with Alzheimer's like plaques and tangles.  So for a long time, scientists apparently assumed that as a large extended family, our big primate brains kinda sputter out at the end, especially humans, with the biggest and longest-lived brain.
+
+The (free for now) WSJ  article reports on a new study done by Sherwood et al in PNAS, called Aging of the cerebral cortex differs between humans and chimpanzees.
+
+Flickr Creative Commons
+Sherwood and his compatriots had the bright idea to get brain MRIs of a bunch of humans (87) and a bunch of chimps (69) spanning a wide age range - in chimps, ages 10-51, in humans, ages 22-88.  And, sure enough, among the humans, there was significant shrinkage in every area of the brain measured.  But, surprisingly, no significant shrinkage among the chimps.   Boom.  Humans are very vulnerable to dementia (except, of course, the famous Kitavans - and I will get back to that later).  Chimps don't seem to be.
+
+Now there are a few wrinkles to understand here. The age ranges of both humans and chimps were chosen for the study by how long humans and chimps are expected to live (if they don't get killed in an accident or illness) in the wild - about 45 for chimps, and into the 80s for humans.  But, when the human data for this study were parsed out by age, it seems that all the major shrinkage occurred in the 7th and 8th decades of life, not before, and other human studies show there is minimal shrinking between ages 25 and 50, with accelerated shrinking thereafter.   This age is well above the age of any known chimpanzee in the wild.  One post-mortem study of captive chimps had a very minimal decline of brain size with age - the oldest captive chimp was 59.  Another study involving macaque monkeys (some 30 million years removed in lineage from humans, I believe) also showed no brain degeneration with age.
+
+So… it would appear that humans are relatively unique in that our brains self destruct into a smokey inflammatory puddle of shrunken senility.  And we can't just say the chimps didn't get as old as we do - relatively speaking - they do.  Chimps start to slow down and become more physically frail with worn teeth in the 30s, though the females are fertile until nearly the end of the normal chimp lifespan.  Humans have a longer childhood and are generally still quite robust through the 30s and 40s, and women obviously hit menopause around age 50, followed by (generally) 2-3 more decades in a normal lifespan.  It is clear, then, that humans age more slowly than chimps.
+
+Now, evolutionarily speaking, the authors of this paper throw out the grandmother hypothesis - humans clearly live long because there was a survival advantage among the grandchildren who had grandmothers around collecting food and passing on cultural knowledge.   But does that longevity have a cost unknown to other, grandmother-less primates?
+
+As we well know, dementing brains have a build-up of protein aggregates and rely on the shoddy energy production of poorly functioning, reactive oxygen species-producing damaged mitochondria.  As we get older, our oxidative stress protection gene expression is upregulated - until I suppose it can be upregulated no more, and the cost of being a human with our big, energy hogging brains for so long is too high, and everything goes to hell in a hand basket.
+
+The sticking point I have with this study?  Well, none of the subjects were "wild-type."  All the chimps were captives from the Yerkes National Primate Research Center in Atlanta.  The humans were volunteers, all right-handed, about equal numbers men and women, and all were healthy, with no psychiatric disorders, heart disease, hypertension, or diabetes.   I'm fairly convinced that Staffan Lindeberg did not take an MRI machine with him to Papua New Guinea.  So I don't know if the dementia-free Kitavans in the last century had shrinking brains.
+
+So is dementia a human thing, the direct cost of being the brightest and longest-lived of all primates, design specs maxed out at a biochemical level?  Or is it a modern, industrial human thing, wrought from micronutrient deficiencies, infection, chronic hyperglycemia, and mucking around with our capability to produce cholesterol?  What do they feed those chimps in the Yerkes center, anyway?
+
+I know what I think - what makes sense is that we aren't meant to become senile and a long-term survival burden as we age.  Okay, so maybe our big glorious brains are derived in part from sexual selection - thus an expensive ornament like a peacock's tail, meant to woo women, with a survival cost and not just survival benefit.  And yet… why evolve grandmothers just to have them get senile? The grandmother hypothesis would be completely backwards if our brains are just designed to slowly sputter out.  I don't have the proof - but my speculation is that true wild-type humans, even the very old, have robust brains too, like old chimps or gorillas.
+
+A couple of other things before we go - today my podcast with Jimmy Moore came out - you can listen to it here (I remember saying I eat 18 eggs a week, which isn't true - my family eats about 18 eggs a week.  I eat about 12 of those :-) ) In any case it was a lot of fun talking to Jimmy.  He has an infectious enthusiasm.
+
+And I have a couple new articles up at Psychology Today.  Please give them a click!
+
+Sleep, Hyperactivity, and Behavior in Children
+
+A Case of Scratchy Mice

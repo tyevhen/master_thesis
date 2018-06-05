@@ -1,0 +1,48 @@
+The FDA came out with a new warning on citalopram on 3/28/2012.  The main point of the warning is that citalopram may lead to electrocardiogram changes that can be associated with an abnormal heart rhythm or arrhythmia that is potentially fatal.  The specific change is prolongation of the QTc interval or the interval that correlates with the total duration of ventricular activation and recovery.
+
+Citalopram is a widely used antidepressant medication and it widely used for three reasons.  It is not likely to have a lot of interactions with other drugs.  Citalopram figured prominently in the STAR*D algorithm from the largest study done on enhancing antidepressant effectiveness.  A third reason is that it is a generic medication and it is very inexpensive.  Psychiatrists have broad experience with the drug and the general experience is that it is well tolerated with little toxicity.
+
+Flecainide is a Type IC antiarrhythmic agent indicated for the prevention of paroxysmal atrial fibrillation (AF), paroxysmal supraventricular tachycardia (PSVT), and the prevention of life-threatening ventricular  arrhythmias like sustained ventricular tachycardia. The FDA warnings on the drug include proarrhytmic effects and excess mortality.  The excess mortality was directly observed in a clinical trial done to suppress ventricular arrhythmias.
+
+The black box warnings for each drug listed below are directly from Medline:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looking at the safety concerns for both medications - important differences emerge.  First, the FDA recommends maximum doses for the citalopram not just for the a maximum dose for adults but in specific conditions including aging.  Searching the FDA web site shows exactly 25 references for safety concerns of flecainide and none of them contain that level of information.  Second, the citalopram warning shows a table of QTc interval changes by dose for both citalopram and escitalopram.  There is no information in FDA documents (that I could find) for flecainide even though it is widely accepted that flecainide causes dose related changes in not just the QTc interval but also the QRS and PR intervals  along with a host of additional effects on cardiac pacemakers and conduction.  The  overall tone of the release is  that citalopram is a potentially cardiotoxic drug.  Third, the ECG monitoring recommendations are not internally consistent.  The absolute cut off of a QTc interval of 500 ms is highly unlikely - even in cases where the patient is taking 60 mg per day or more of citalopram.  It is also unlikely that the QTc intervals in the citalopram warning will lead to a QTc interval of greater than 500 ms.  This will result in tens of thousands of ECGs done because that is the only way that the QTc interval can be determined.
+
+The black box warnings and the recently issued warning all considered, serious questions are raised relative to drugs with known cardiotoxicity and the whole issue of QTc warnings in all psychiatric drugs.  Certainly nobody wants a rare severe complication as a result of a prescription medication but can it really be avoided?  What good would ECG screening do?  There have not been any trials to address that issue of whether all patients taking citalopram need baseline ECGs.  All the patients taking flecainide have probably had multiple ECGs done that indicate a possible need for treatment but there is little guidance on the ECG issue.  In many patients taking flecainide, patients get serial ECGs and they do exercise stress tests to rule out proarrhythmic effects.  Are the same precautions needed for patients on citalopram?
+
+Are the thresholds for treatment different given the fact that flecainide caused increased mortality during clinical trials and citalopram did not?  There would be an argument that flecainide is used to treat life-threatening arrhythmias, but the other indication is for prevention of atrial fibrillation and atrial fibrillation is not a life threatening arrhythmia.  With regard to the seriousness of the diagnosis, major depression carries a lifetime mortality of 10%.  Finally, where is the table on the relationship between flecainide dose and QTc prolongation like we see for both citalopram and escitalopram?  Is it possible that flecainide has more of an effect throughout the dosage range than citalopram?
+
+These are serious questions given that I have already established that there is a significant bias in the media against psychiatry, psychiatrists and psychiatric medications.  The most recent FDA warning has created a lot of anxiety for psychiatrists and any patient taking citalopram.  The majority of those patients are being seen by primary care physicians.
+   If citalopram is that cardiotoxic, let's see the evidence and let's see how it compares to a medication with known cardiotoxicity.  Let's have the same level of warning for both medications and some concrete ideas about what needs to be done to manage that risk.
+
+George Dawson, MD, DFAPA

@@ -1,0 +1,26 @@
+Bacteria belonging to the Pseudomonas family are a perennial favorite among bacteriology instructors (and students) because of the curious ability of some of its members to produce pigments that fluoresce under an ultraviolet light. If you're unlucky enough to get an infected cut on the arm while working in the garden, it's possible your cut will fluoresce under a black light. That's enough of a diagnosis to pronounce the infectious agent. 
+Fluorescent colonies of Pseudomonas.
+
+Silby and Levy, investigating the adaptation of the bacterium Pseudomonas fluorescens to soil, uncovered the existence of at least ten antisense genes in P. fluorescens. They went on to demonstrate experimentally that one of the genes, cosA, produces not just antisense RNA but an associated protein. Tellingly, Silby and Levy commented:
+These findings suggest that current genome annotations provide an incomplete view of the genetic potential of a given organism.
+The implication is that additional antitranscriptome genes remain to be found, not only in Pseudomonas but in other organisms.
+
+There's a good reason they haven't been found yet. Overlapping genes are automatically rejected by many of the annotation programs that are commonly used to find, identify, and label genes in genome sequences. (The oft-used freeware Glimmer 2 program allows you to set the overlap-rejection threshold.) Many yet-to-be-discovered antisense genes have been deliberately and systematically obscured in published genomes.
+
+Still, once in a while such genes do surface. For example, in Pseudomonas stutzeri A1501, we find a pair of overlapping genes at an offset of 3035137 on the chromosome (see illustration below).
+
+Overapping genes in Pseudomonas stutzeri.
+
+The top gene is annotated merely as a "hypothetical protein," while the underlying gene on the opposite strand is an aspartyl-tRNA synthetase. One's normal inclination is to dismiss a hypothetical protein as being unimportant, but this may not be wise. Twenty percent or more of bacterial genes are annotated as hypothetical proteins; common sense says they can't all be unimportant. In fact, in "Transcriptome Analysis of Pseudomonas syringae Identifies New Genes, Noncoding RNAs, and Antisense Activity" by Filiatrault et al. (2010), researchers found that 818 out of 1,646 protein genes in P. syringae annotated as "hypothetical proteins" were expressed under iron-limited conditions. Many (probably most) genes annotated as "hypothetical protein" are quite real and should probably be re-annotated as PUF: "protein of unknown function."
+
+In this case, the "hypothetical protein" shown in yellow (above) turns up medium-strength protein-BLAST hits with other "hypothetical proteins" from other organisms, including a hit with an E-value of 3.0×10-49 in Parasutterella excrementihominis YIT 11859 and a comparable hit on a predicted phosphatase/phosphohexomutase in Rothia mucilaginosa DY-18.
+
+In this particular case, the hypothetical-protein gene lacks a strong upstream Shine Dalgarno sequence (a sequence preceding many genes that helps bind a ribosome to the mRNA). But so too does the gene on the opposite strand. (This is not unusual. The SD sequence is not required for translation and in fact, in about half of bacterial species, a Shine Dalgarno sequence is associated with fewer than 50% of genes.) Hence, the jury's out on whether the antigene is expressed. It could be that no protein is made from the top strand but the gene provides RNA-mediated control of the gene on the bottom strand. We won't know for sure until someone investigates.
+
+In Pseudomonas aeruginosa strain PADK2_CF510, we find another instance of a bidirectional overlapping gene pair (see graphic below). In this case, the gene on the top strand (CF510_06030) encodes the large subunit of an isopropylmalate isomerase. The gene on the bottom strand (CF510_06025, shown in yellow) is annotated as "Flp pilus assembly protein TadG." It could very well be a misannotated non-gene. However, five genes away is FimV (CF510_06060), another pilus-assembly (motility) protein. Moreover, the gene marked TadG has a strong upstream SD sequence containing the canonical GGAGG motif. The gene above it has a weaker GGAAA motif.
+
+P. aeruginosa has an overlap of an isopropylmalate isomerase gene and a gene for a motility protein. The latter is shown in yellow.
+
+In previous posts, I've mentioned (and shown data for) the fact that in the overwhelming majority of protein-encoding genes (across every kind of genome), the first base of a codon tends to be purine-rich. One check of whether a bidi-overlap gene is "real" or not ought to be that the first codon base should be purine rich in both reading directions. This is, in fact, the case for the examples shown above. The aspartyl-tRNA synthetase gene for P. stutzeri has AG1 (1st base, purine) content averaging 59.8%, whereas its bidirectional partner gene ("hypothetical protein") has AG1 = 58.5%. The isopropylmalate isomerase of P. aeruginosa has AG1 = 65.9%, while its antisymmetric partner (TadG) has AG1 = 56.2%.
+
+If you enjoyed this post, please give the URL to your biogeek friends. Thanks!

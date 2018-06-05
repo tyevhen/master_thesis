@@ -1,0 +1,73 @@
+In my last post, I showed how you can create nice-looking graphs using the service provided by ZunZun. The graphs produced by ZunZun are pretty cool as-is, but you may find that you want to modify them from time to time. ZunZun's web interface will let you adjust axis bounds and constrain regression lines in various ways, but sometimes what you'd really like to be able to do is make the data points in the graph look like something other than the tiny green dots ZunZun gives you by default.
+
+Fortunately, you can save ZunZun graphs as SVG (Scalable Vector Graphics) files, which is pretty fantastic for a couple of reasons. First, unlike PNG or other bitmap formats, SVG is a vector format, which means it is infinitely resizable without loss. Secondly, SVG can be opened in Illustrator and Photoshop. (All major web browsers support native rendering of SVG as well.)
+
+But the more important point is this: SVG is XML. And that means it's just text, and you can hand-edit it with ease in any text editor.
+
+If you're unfamiliar with the SVG format, you'll find plenty of good online resources (including the full SVG specification) to get you up to speed, plus I've listed some truly excellent resources at the bottom of this post. Therefore I won't try to give you a crash course on SVG here. What I would tell you is this: SVG is an extremely powerful, feature-rich, mature (going on 20 years old), well-thought-out specification that's definitely worth getting to know. It has primitives for circles, ellipses, rectangles, lines and polylines, polygons, curves of various kinds, text, and lots more. Plus it supports CSS, the Document Object Model, and JavaScript, so if you're at home with HTML, you'll be at home with SVG in no time.
+
+The fact that ZunZun can generate SVG graphs means you can exercise all the control you want over what the graphs look like, and even add interactive features to them, if you like. I'll run through a couple of very simple examples to show you what I'm talking about.
+
+In my last post, we ended up with a graph that looked something like the following.
+
+A typical graph produced by ZunZun. Data points are green dots.
+
+This is the default ZunZun plot: tiny dark-green dots for data points.Suppose you want to make the points larger, and have them be light blue instead of dark green. It's easy to do. Open the source file in your favorite text editor and look for the following code (indented exactly as shown) about 35 lines down from the top:
+
+     <path d="
+M0 1.5
+C0.397805 1.5 0.77937 1.34195 1.06066 1.06066
+C1.34195 0.77937 1.5 0.397805 1.5 0
+C1.5 -0.397805 1.34195 -0.77937 1.06066 -1.06066
+C0.77937 -1.34195 0.397805 -1.5 0 -1.5
+C-0.397805 -1.5 -0.77937 -1.34195 -1.06066 -1.06066
+C-1.34195 -0.77937 -1.5 -0.397805 -1.5 0
+C-1.5 0.397805 -1.34195 0.77937 -1.06066 1.06066
+C-0.77937 1.34195 -0.397805 1.5 0 1.5
+z
+" id="m4920679963" style="stroke-linecap: butt; stroke-width: 0.5; stroke: #000000;">
+This odd-looking hodgepodge is a <path> element describing a circle, believe it or not. Don't worry about understanding the path description. In case you're curious, the capital letter 'M' means moveto, 'C' means curveto, and z means close off (and fill) the shape. That's not important right now. The important stuff is in the bottom line, where you can see that the path element has an id attribute (with the weird value m4920679963) along with a style attribute. This path element and its attributes are the definition for a data point in a ZunZun graph.
+
+SVG has the neat ability to let you define your own primitives (inside one or more <defs> elements), then reuse them with the shorthand notation:
+
+<use xlink:href="#myPrimitive" x="10" y="20" />
+
+ZunZun uses this technique by defining a data point primitive as a path in a <defs> element at the top of the file, then it places copies of the point at various x and y values with multiple <use> elements (one per data point). If you want to change the way all the data points in your graph look, you merely need to change the <path> element shown above. Then all the points will be rendered differently.
+
+Start by inserting fill:#6666FF in the style attribute. Also, we want to make the points bigger, so insert a new attribute as transform="scale(1.9)" to make the points 1.9 times bigger. When you're done, the above section should look like this (the changes are in boldface):
+
+     <path d="
+M0 1.5
+C0.397805 1.5 0.77937 1.34195 1.06066 1.06066
+C1.34195 0.77937 1.5 0.397805 1.5 0
+C1.5 -0.397805 1.34195 -0.77937 1.06066 -1.06066
+C0.77937 -1.34195 0.397805 -1.5 0 -1.5
+C-0.397805 -1.5 -0.77937 -1.34195 -1.06066 -1.06066
+C-1.34195 -0.77937 -1.5 -0.397805 -1.5 0
+C-1.5 0.397805 -1.34195 0.77937 -1.06066 1.06066
+C-0.77937 1.34195 -0.397805 1.5 0 1.5
+z
+" id="m4920679963" transform="scale(1.9)"
+ style="fill:#6666FF;stroke-linecap: butt; stroke-width: 0.5; stroke: #000000;">
+
+Save the changes and open the file in your browser. Now the graph will look more like this:
+
+Graph after changing the styling attributes for the path element that defines the data points.
+
+When ZunZun renders the SVG version of a graph, the background grid (see the original image further above) disappears and the SVG graph ends up with a solid white background. If you want to restore the grid, look for the following bit of markup near the very end of the file:
+
+<clipPath id="p7d88ea1d1c">
+   <rect height="319.12" width="388.0175" x="140.215" y="41.04"/>
+  </clipPath>
+
+Disable the clipPath by changing the id attribute to something other than p7d88ea1d1c. Voila! The grid returns.
+
+A few other tips regarding SVG:
+
+The y-axis operates in reverse: zero is at the top of the image and y-values become increasingly positive as you go down, not up.
+
+The <g> element can be used arbitrarily to separate graphic sections, the way <div> is used in HTML to delimit arbitrary content pieces.
+
+You can insert comments in SVG the same way as in any other XML-based markup, by surrounding text with <!-- and -->. 
+
+For more tips, be sure to check out W3C's SVG Primer or the incredible demos at http://svg-wow.org/.Cameron Laird's SVG resource roundup is also useful.  Finally, there's a free online Illustrator-like SVG drawing environment at http://svg-edit.googlecode.com/svn/branches/2.6/editor/svg-editor.html. And I'll be offering more SVG tips right here in the days to come.

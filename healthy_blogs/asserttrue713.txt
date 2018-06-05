@@ -1,0 +1,19 @@
+Over the weekend I found myself using floppy disks for the first time in I-don't-know-how-many Moore epochs. It was a brain-bending reminder of how much great technology was built atop operating systems that fit into a few K of memory and Mylar storage media.
+
+Back in the mid-1980s, Bob Yannes, the guy responsible for the MOS Technology SID (Sound Interface Device) chip in the Commodore 64 and the Ensoniq Digital Oscillator Chip (Ensoniq ES5503 DOC) that powered the Apple IIGS computer's audio system, introduced the first low-cost digital sound-sampling keyboard, the Ensoniq Mirage. At $2000 (in 1985 dollars!), it might not seem low-cost, but you have to realize that the Mirage's main competition at the time was the Fairlight CMI Series II, which, at ~£27,000, only very successful musicians could afford.
+
+The Mirage was an incredibly versatile (and for its day, quite impressive-sounding) MIDI keyboard, with a 333-note sequencer (big stuff back then!), velocity-sensitive keys, and of course, the ability to use sampled sound. It loaded sound samples from 128K single-sided double-density floppy disks. Each disk held six 32-note "voices" plus a copy of the operating system.
+
+In my case, I couldn't afford a Mirage keyboard ($2000 was too steep for me), but around 1987 Ensoniq came out with a rack-mount (keyboardless) version of the Mirage that was much cheaper (~$1300). Once it became "last year's model," I picked one up, new, at Sam Ash for $1000. The rack-mount unit (exactly the same as what I have) is pictured above.
+
+My Mirage box had collected so much dust in the basement that I had to spend 5 minutes just cleaning the chassis exterior. I was very worried, of course, that the accompanying floppy disks (without which the device is useless), now 20 years old, would be so corrupted with flipped bits that I wouldn't even be able to boot the machine. Cheap floppies always seemed to go bad on me in two or three years. Could these still be good after 20 years?
+
+Yes. Amazingly, I was able to boot the Mirage and load sound samples from disk. And just as amazingly, everything else worked -- MIDI in/out/thru, all the front panel buttons, etc. What had me challenged was the fact that I couldn't find the user's manual -- and this was a complex box to operate. Not really complex, just a poor user interface. Many buttons, many numeric inputs, no text messages whatsoever. It's a matter of knowing which buttons to push in which order.
+
+I looked online for a user's manual, assuming there would be one. There wasn't. Instead, it turns out there's a lively aftermarket in Mirage user manuals, which often sell for more than used Mirage boxes themselves! But I did finally find a "cheat sheet" showing all the parameter codes. From there, I figured out the button-combos myself.
+
+I wired the MIDI-in port to my Yamaha DX-7's MIDI-out, and lo! There was sound coming out the Mirage's mono output jack. And the layered sound (Mirage over DX-7) was actually quite marvelous, especially when piped through Cakewalk's digital effects (running on my Compaq Presario).
+
+I often wonder if we really need the 120 gigabyte drives and 2GHz CPUs and mega-ginormous "operating systems" (so-called) on which we so slavishly rely today. Do we need to live in such digital squalor, really?
+
+I look at the Mirage and think: "Not."

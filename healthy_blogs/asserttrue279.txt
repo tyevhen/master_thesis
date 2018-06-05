@@ -1,0 +1,25 @@
+Antibiotic-resistant bacteria have been in the news lately, with the usual scary talk about drug-resistant bacteria taking over the world, with a return to the Dark Ages if we don't Do Something.
+
+Certain facts about drug resistance tend to get lost in these sorts of news stories. There's a common misconception that somehow the introduction of antibiotics (first in medicine, then in agriculture) caused bacteria to invent new drug-resistance genes out of nowhere. That's nonsense, of course. The Lederbergs showed in 1951 that drug resistance genes were/are preexisting, and did not come into being because of antibiotics. Rather, bacteria already equipped with such genes were able to survive treatment with antibiotics. Around 1968 it also became clear that bacteria can share drug resistance genes by exchange of extrachromosomal DNA (plasmids). Bacteria that don't have the magic genes can get them from their buddies.
+
+But, so. How is it that the genes for antibiotic resistance already existed prior to the introduction of antibiotics into the food chain and into medicine? The answer is simple: Antibiotics are natural products produced by common soil and water microorganisms. Penicillin is produced by a mold; streptomycin is produced by the soil bacterium Streptomyces. Certainly hundreds (maybe thousands) of different kinds of antibiotics exist in the natural environment. They've been there for millions of years.
+
+Mycobacterium tuberculosis ATCC 35801 (Erdman strain) has two "multidrug  resistance" genes, and they reside on the main chromosome (not on a plasmid). They're shared by other members of the Mycobacterium genus, including the leprosy bacterium, M. leprae. In the latter, one of the genes in question (MLBr_2224) is a pseudogene. It's interesting to compare this pseudogene with its counterpart, Erdman_0866, in Mycobacterium tuberculosis ATCC 35801. The two genes are nearly the same size: 1543 base pairs versus 1638. This is quite interesting in itself, inasmuch as most pseudogenes in M. leprae are truncated (averaging just 795 base pairs). But the comparison gets even more interesting when one does a side-by-side analysis of single nucleotide polymorphisms (changes to individual bases).
+
+First I did a SNP comparison of the tuberculosis drug-resistance gene to its counterpart in M. indicus pranii, where there were 325 total base-pair differences, distributed amongst the 1st, 2nd, and 3rd base pairs of codons as:
+
+98, 72, 155
+
+This is the expected pattern: The largest number of mutations tends to accumulate in the third codon base (the so-called "wobble base"), because mutations in this base give a large percentage of synonymous codon changes owing to codon degeneracy. The next-highest number of mutations is expected in the first base, because there is some (but not much) degeneracy in that position. All mutations in the second base are non-synonymous and likely to affect enzyme function. Hence, the lowest number of mutations occurs in the second base.
+
+When I ran the same check between the M. tuberculosis gene and its counterpart (the pseudogene) in M. leprae, I found that the mutational differences totaled 418 changes and segregated by base as:
+
+119, 103, 196
+
+Unexpectedly, the same pattern emerges. The reason this is unexpected is that one expects a pseudogene to contain frameshifts that would destroy the reading frame, mooting 1st/2nd/3rd-base comparisons. More generally, one expects massive random mutations all along a pseudogene's length (of the kind that would tend to make all three of the above numbers equal, even without frameshifts). So the fact that we still see the familiar pattern of 1st/2nd/3rd-base mutations is interesting.
+
+The genes in question were unequal in length, so to do these comparisons I had to disregard a 112-base leader portion of the aligned genes. (I aligned the genes via ClustalW using Mega6.) I also ignored the unequal-length trailer portions of each gene, analyzing only the interior (aligned) portions from base 112 to base 1418. Also, to facilitate the analysis, I removed one adenine (representing a one-base insertion) in the M. leprae gene, at position 407, to restore the reading frame. But it's interesting that at that position there's a run of six adenines, indicative of a slippery site, of the kind associated with frameshift signalling.
+
+The M. leprae pseudogene MLBr_2224 behaves as if it is still a normal gene, accumulating mutations in the "right places." An alternative explanation is that the M. leprae and M. tuberculosis genes were already in pretty much this orientation relative to each other before the two species diverged, and M. leprae simply accumulated very few additional mutations in the pseudogene after it became a pseudogene. (M. leprae is assumed to have experienced a massive pseudogenization event between 9 and 20 million years ago.)
+
+For more about M. leprae's strange assortment of pseudogenes, see this post and also this post.

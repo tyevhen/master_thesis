@@ -1,0 +1,143 @@
+I try to avoid using too much jargon in this blog, but I inevitably have to use acronyms and abbreviations for brevity if nothing else. So here’s a list of acronyms and other common terms that crop up, with explanations. Any legislation referred to is British (or more specifically, referring to England and Wales, as Scotland and Northern Ireland have their own Mental Health legislation.)
+
+Many of the explanations are highly simplified. If you want to know more about a particular topic, you can search the blog using the blog search box, or look up the Labels on the right hand side of the blog.
+
+If I have left anything out, or if you want any further explanations, please leave a comment.
+
+AMHP: Approved Mental Health Professional An AMHP can be a social worker, occupational therapist, mental health nurse or clinical psychologist. They have the power to detain people in hospital under the MHA.
+
+Appeal Patients detained in hospital under Sec.2, Sec.3, Sec.4, and Sec.7, and those subject to a CTO, have the right to appeal against their detention. Their case is then heard by an independent Mental Health Tribunal, who have the power to discharge the patient from detention. Anyone who appeals has the right to free legal representation.
+
+ASW Approved Social Worker The predecessor of the AMHP. Before 2007, only social workers could detain people.
+
+CAMHS Child and Adolescent Mental Health Service
+
+CCG: Clinical Commissioning Group: Led by GP's, the CCGs are responsible for commissioning health services in a local geographical area.
+
+CMHT: Community Mental Health Team This is, or was, the most common way of delivering community mental health services. A CMHT consists of a range of different mental health professionals all working together, including psychiatrists, mental health nurses, occupational therapists, social workers and clinical psychologists. It’s a really good way of delivering a localised community service. Which is presumably why some Mental Health Trusts are withdrawing from this form of service delivery and having centralised teams covering vast geographical areas instead.
+
+CoP: Code of Practice The MHA Code of Practice sets out what best practice should be when discharging the functions of the Mental Health Act.
+
+CQC: Care Quality Commission This organisation is responsible for overseeing care providers such as hospitals, mental health trusts, care homes -- even dental practices.
+
+CTO: Community Treatment Order When someone has been detained under the MHA under Sec.3, they can be discharged under a CTO, which gives powers to impose conditions, such as taking medication, or keeping appointments with their care coordinator or psychiatrist. If the patient does not comply with these conditions, they can be recalled to hospital.
+
+DOLS: Deprivation of Liberty Safeguards DOLS are a part of the Mental Capacity Act. In certain circumstances, people who lack mental capacity can be deprived of their liberty. DOLS lays out the circumstances in which this might be done, and the safeguards available to protect people who are subject to deprivation of liberty, or who impose or manage situations of deprivation or liberty.
+
+GP: General Practitioner This is a person’s family doctor.
+
+Guardianship See Sec.7
+
+HCPC: Health & Care Professions Council Responsible for overseeing the practice of social workers, among others.
+
+HRA: Human Rights Act 1998 A working knowledge of the HRA is vital, as a failure to uphold the human rights it enshrines can render certain actions unlawful. At times it will “trump” mental health legislation.
+The Rights delineated in the HRA include:
+Article 2: Right to life
+Article 3: Prohibition of torture
+Article 4: Prohibition of slavery and forced labour
+Article 5: Right to liberty and security
+Article 6: Right to a fair trial
+Article 7: No punishment without law
+Article 8: Right to respect for private and family life
+Article 9: Freedom of thought, conscience and religion
+Article 11: Freedom of assembly and association
+Article 12: Right to marry
+Article 14: Prohibition of discrimination
+The rights most likely to be compromised by actions taken under the MHA would include the right to liberty and security, the right to a fair trial, and the right to respect for private and family life.
+
+Hospital Managers Hospital Managers are not employees of the hospital. They are volunteers who have a duty to review detained patients and to consider their discharge. A Managers Hearing will consider an appeal against detention under Sec.3 and some other sections and have similar powers of discharge to a Mental Health Tribunal.
+
+Informal admission This is an admission to hospital where the patient has agreed to be admitted. Informal admission should always be considered as an alternative to the use of compulsion under other sections of the MHA.
+
+Jones, Richard Author of The Mental Health Act Manual. Now on its 15th edition, the book has 1168 pages, is around the size of a breeze block and requires a sack barrow to transport it around. Nevertheless, it is the Bible for Mental Health Professionals, and an AMHP would feel naked if they were not carting around their own copy, well thumbed, with significant passages illuminated with highlighter pens, and with a blizzard of post-it notes bristling from its pages.
+
+LSE: Low Stimulus Environment Some acute psychiatric units have a section away from the main ward where particularly disturbed patients can be nursed and treated in a safe and secluded setting. They will have one or two beds, a higher level of security, and a high level of supervision. (These are not padded cells.)
+
+MCA: Mental Capacity Act 2005 This legislation relates to people who are considered to lack mental capacity. It provides the legal framework for acting and making decisions on behalf of individuals who lack the mental capacity to make particular decisions for themselves. It is based on five statutory principles:
+1. A person must be assumed to have capacity unless it is established that they lack capacity.
+2. A person is not to be treated as unable to make a decision unless all practicable steps to help him to do so have been taken without success.
+3. A person is not to be treated as unable to make a decision merely because he makes an unwise decision.
+4. An act done, or decision made, under this Act for or on behalf of a person who lacks capacity must be done, or made, in his best interests.
+5. Before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action.
+
+Mental Disorder The Mental Health Act only applies to people identified as having a mental disorder. However, the definition of “mental disorder” in the MHA is very broad, being “any disorder or disability of the mind”.
+The Code of Practice gives examples of disorders that would fall within this definition. These include:
+• affective disorders, such as depression and bipolar disorder
+• schizophrenia and delusional disorders
+• neurotic, stress-related and somatoform disorders, such as anxiety, phobic disorders, obsessive compulsive disorders, post-traumatic stress disorder and hypochondriacal disorders
+• organic mental disorders such as dementia and delirium (however caused)
+• personality and behavioural changes caused by brain injury or damage (however acquired)
+• personality disorders
+• mental and behavioural disorders caused by psychoactive substance use
+• eating disorders, non-organic sleep disorders and non-organic sexual disorders
+• learning disabilities
+• autistic spectrum disorders (including Asperger’s syndrome)
+• behavioural and emotional disorders of children and adolescents
+However, there are explicit exclusions. The MHA states that learning disability of itself does not mean that a person is suffering from a mental disorder, unless that disability “is associated with abnormally aggressive or seriously irresponsible conduct”. The MHA defines “learning disability” as “a state of arrested or incomplete development of the mind which includes significant impairment of intelligence and social functioning.”
+The MHA explicitly states that “dependence on alcohol or drugs is not considered to be a disorder or disability of the mind”.
+
+Mental Health Tribunal (MHT) Mental Health Tribunals are part of the Judicial system. They are effectively a court of law. Their function is to hear appeals against detention under the MHA. They consist of a Judge, a Psychiatrist, and a specialist lay member, which is someone who has particular interest and experience in working in the mental health field. Their main purpose is:
+to review the cases of detained, conditionally discharged, and supervised community treatment (SCT) patients under the Act
+to direct the discharge of any patients where it thinks it appropriate
+to consider applications for discharge from guardianship.
+Mental Welfare Officer (MWO) The predecessor to the ASW and the AMHP under the 1959 Act.
+
+MHA 1959: Mental Health Act 1959 This was the predecessor to the 1983 Act. I’m so old that I practiced under this act for a couple of years, until it was replaced by the 1983 Act.
+
+MHA 1983: Mental Health Act 1983 The principle legislation defining what can and cannot be done with people with mental disorders.
+
+MHA 2007: Mental Health Act 2007 This Act amended the 1983 Act. Among other things it simplified the definition of mental disorder, and introduced Supervised Community Treatment (SCT).
+
+NR: Nearest Relative The Nearest Relative has a particular meaning under the MHA 1983. A patient’s NR has certain rights and powers under the Act, which is why AMHP’s have to be very careful about correctly identifying who the NR is. The NR is the first person you encounter in the following list:
+husband, wife or civil partner
+son or daughter
+father or mother
+brother or sister
+grandparent
+grandchild
+uncle or aunt
+nephew or niece.
+But it’s rather more complicated than that; for example, a relative of the full blood takes precedence over a relative of the half blood; the elder of  two parents or siblings would take precedence. Whole books have been written about how to identify the NR.
+
+Part III Part III of the Mental Health Act is concerned with mentally disordered people who are subject to criminal proceedings or who have been convicted of a criminal offence.
+
+Patient The term “patient” is explicitly used within the MHA to refer to people with mental disorders. I'm afraid that patients are always referred to in the masculine throughout the MHA.
+
+PIC: Police Investigation Centre Some police authorities have purpose built centres where all arrested people are taken for questioning. At times, people with mental health problems who have been arrested or even detained under Sec.136 may be held in a PIC, and may be assessed under the MHA while there.
+
+PICU: Psychiatric Intensive Care Unit These are specialist short stay units which are generally low secure, meaning that they are locked units with a fair degree of security. They are used when a patient is so disturbed or violent that they cannot be managed in a general acute psychiatric unit.
+
+RC: Responsible Clinician This is usually the consultant psychiatrist clinically in charge of a patient, whether in hospital or in the community. Under the revised MHA other mental health professionals, such as nurses, clinical psychologists or social workers can now be appointed RC’s.
+
+SCT: Supervised Community Treatment (also known as a Community Treatment Order)
+
+Section (verb) People involved professionally or personally with the MHA often refer to “sectioning” someone or “being sectioned”. This is a form of shorthand which refers to the process of assessing and detaining someone under a section of the MHA, particularly, Sec.2, Sec.3 and Sec.4. In my view, the use of this term, while being tempting to use by professionals, should not be encouraged, as it is disrespectful to the process and the individual.
+
+Sec.2: Section 2 of the MHA This is an application made for someone to be assessed (which can include treatment) in a hospital. This lasts for up to 28 days. An AMHP can make an application on the recommendations of two doctors.
+
+Sec.3: Section 3 of the MHA This is an application made for someone to receive treatment in a hospital. This lasts for up to 6 months in the first instance. An AMHP can make an application on the recommendations of two doctors.
+
+Sec.4: Section 4 of the MHA This is an application made for someone to receive assessment in a hospital in an emergency. This lasts for up to 72 hours. An AMHP can make an application on the recommendation of a single doctor.
+
+Sec.7: Section 7 of the MHA Otherwise known as Guardianship. This can be imposed on someone subject to Sec.3. Guardianship can impose certain conditions.
+The residence power allows a guardian to require a patient to live at a specified place.
+The attendance power lets a guardian require a patient to attend specified places at specified times for medical treatment, occupation, education or training.
+The access power entitles a guardian to require that access to the patient be given at the place where the patient is living, to any doctor, (AMHP), or other specified person.
+The main purpose of guardianship is to ensure that someone receives care and protection rather than medical treatment. Although guardians have powers to require patients to attend for medical treatment, they do not have any power to make them accept this treatment.
+
+Sec.12 Approved Doctor When a patient is being detained under Sec.2 or Sec.3, where two medical recommendations are required, Sec.12 MHA states that one of the assessing doctors has to be “approved … by the Secretary of State as having special experience in the diagnosis or treatment of mental disorder”.
+
+Sec.35 A criminal court can remand an offender to hospital in order to assess their mental condition. This remand can last for up to 28 days, and can be extended for up to 3 months.
+
+Sec.37/41 A criminal court, once a patient have been convicted of an offence, may order that the patient be detained in a hospital. A Crown court can place restrictions on the discharge of the patient, so that only the Secretary of State can order their discharge. A patient subject to Sec.37/41 may be living in the community, but subject to a range of conditions. If any of these conditions are broken, they can be recalled to hospital.
+
+Sec.117 Aftercare Sec.117 lays down a duty for the local authority and the NHS to provide services for people who have been detained and then discharged from certain sections of the Act. The most common section is Sec.3, where a patient has been detained for treatment. There are some other sections of the Act relating to people who have committed criminal offences for whom Sec.117 also applies. These are Sections 37, 45A, 47 and 48. Detention under these sections is much less common.
+A patient who has only ever been an informal patient, or who has only ever been detained under Sec.2 (for assessment) is not entitled to aftercare under Sec.117.
+The most significant aspect of Sec.117 is that any aftercare provided under this section cannot be charged for. See other blog posts devoted to Sec.117 aftercare for more information.
+
+Sec.135  Sec.135(1) gives a justice of the peace the power to issue a warrant for an AMHP and a constable to enter premises with the purpose of removing someone believed to be suffering from a mental disorder in order for them to be assessed. There has to be evidence that the person “has been, or is being, ill-treated, neglected or kept otherwise than under proper control, in any place within the jurisdiction of the justice, or, being unable to care for himself, is living alone in any such place.”
+Sec.135(2) allows a justice of the peace to provide a warrant to a constable the enter the premises of a patient “if need be by force” and remove the patient. The patient has to be liable to detention under the MHA (for example, having been detained under Sec.2 they have then absconded). There has to be “reasonable cause to believe that the patient is to be found on premises within the jurisdiction of the justice; and that admission to the premises has been refused or that a refusal of such admission is apprehended.” The patient can then be returned to hospital.
+
+Sec.136 Sec.136(1) MHA states: “If a constable finds in a place to which the public have access a person who appears to him to be suffering from mental disorder and to be in immediate need of care or control, the constable may, if he thinks it necessary to do so in the interests of that person or for the protection of other persons, remove that person to a place of safety.”
+A place of safety can be anywhere, but most areas have a policy that people detained under Sec.136 should be taken to a specially designated “Sec.136 suite”, which would usually be on the site of a hospital.
+A Sec.136 lasts for up to 72 hours. Once someone has been detained under Sec.136, they have to be assessed by an AMHP and a doctor whose job it is to assess whether or not the person needs to be detained in hospital.

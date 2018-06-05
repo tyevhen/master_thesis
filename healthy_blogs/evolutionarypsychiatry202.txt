@@ -1,0 +1,38 @@
+"So what's more important, doc? Genes or how you were raised?"
+
+I'm asked that question or a variation thereof quite frequently. Some people wonder how much they can do to truly change, and others are concerned about the risk of mental illness their children might have. It's an important question, and while the simple answer is, "both are important," the complicated answer describes the very essence of the biology of psychopathology. And in that biology you also see the clues for cures.
+
+So, yes, a molecular biology-heavy post. That calls for some music. Hmmm. The Airborne Toxic Event - Changing (right click to open in new tab).
+
+Mental illness, as it turns out, has some of the highest genetic loading of any common illness*. Of course there are some rather famous single-gene disorders (like Huntington's or cystic fibrosis) whose risk seems to be almost entirely genetic, but right up there is schizophrenia, where 80% of the risk is genetic. That means if you have no relatives with schizophrenia, it is unlikely you will develop it. Genetic loading counts for a large portion of the risk for bipolar disorder and major depressive disorder as well.
+
+Schizophrenia is the most studied of many of these disorders at a basic science level, I would say. And it is pretty clear that patients with schizophrenia and their close relatives have decreased prefrontal cortical efficiency. Since the prefrontal cortex is responsible for planning, elements of memory, controlling impulsivity, predicting outcomes, and many other important parts of thinking, having an inefficient cortex is very problematic, to say the least. Here's a slide showing the prefrontal network in schizophrenia:
+
+
+You can click for a bigger version, of course, but the details aren't important for this blog post - the slide is really just a demonstration of the complexity and some of the neurons involved.
+
+So, if schizophrenia is genetic, and we know the location in the brain where the first problems arise, can't we nail down the gene? In the last 5 years we've developed the capability to sequence genomes and check out genetic polymorphisms (differences in genes between one person and another) both rapidly and cheaply. This has enabled us to do a brute force hack of the genome, looking at the genes of many families and finding those genes that are common to families with schizophrenia and are absent in families without schizophrenia. I wrote about a similar study done for migraines a while back.
+
+These types of genetic studies are fantastic - but you end up with tens of thousands of data points, so you can't possibly use the typical p value cut-off of 95% probability that the results are not due to chance (that's a decent enough definition for our purposes today - here's the real definition of p value). With that many data points and a p<0.05 cut-off, you are definitely going to end up with hundreds or even thousands of "statistically significant" correlations due to random chance. Therefore for studies like these, the cut-off is much, much smaller -- often <10 to the -8, for example.
+
+Well, these studies have been done for schizophrenia, and two genes popped up, and they are not particularly exciting. Certain variants of the genes for NRGN and TGF4 were found to have an odds ratio of 1.21 and 1.33 for developing schizophrenia. That means if you have those genetic variants, instead of having a 0.5-1% of developing schizophrenia like the general population, you have a 0.6-1.2% chance of developing it (or thereabouts). So not a particularly risky genetic lot to draw!
+
+What did we find out from these studies? Individual genes don't matter that much in the development of schizophrenia. But wait - didn't we just say that the risk for schizophrenia is 80% genetic? Well, let me throw out one more intimidating slide - a picture of the ErbB4 signaling pathway (this is just one bit of nerve signaling in certain areas, just one path by which signals get transmitted in a certain set of neurons - click for a better resolution, but again the big picture is far, far more important here than the details).
+
+
+
+The Strokes - Under Cover of Darkness
+
+The great thing about the brute force hack genetic studies is that if you have a computer, thousands of data points, and some grad students, you can just as easily look for correlations of not only 1, but 2 or 3 or 4 genetic polymorphisms. And when the schizophrenia researchers did that with the various genes associated with the ErbB4 signaling pathway, they hit the jackpot. All these genes interact with each other, like links in a chain. Break one link, and the brain can compensate. But break two links (so have two unfortunate genetic polymorphisms in this pathway), and your signaling becomes more inefficient. Your risk of schizophrenia goes up 8-fold. Break three links in the chain, and the risk for schizophrenia goes up 27-fold.
+
+I'm using schizophrenia as an example - and many of the same genes and a severe inefficiency of the prefrontal cortical network are implicated in autism, by the way. Autism is likely to be, in a sense, a variant of schizophrenia that strikes much earlier in life. A similar story (but in different areas of the brain and with different specific signaling pathways) can be told for anxiety, depression, ADHD…
+
+For heaven's sake I don't care how many rock songs you link, who cares and what does this have to do with nutrition and environment and blah blah blah…
+
+All these pathways and all these signals have been running along using the nutrients and lifestyle we have evolved for thousands and thousands of generations. The signaling depends upon having magnesium, zinc, cholesterol, omega 3s and arachidonic acid, vitamin D, creatine, CoQ10, restorative sleep, appropriate lighting, proper energy efficiency and neuronal recovery and repair. Some of us are nearly bullet-proof. We have lickety-split efficient neural networks that seem to be able to run on garbage. Others of us have some sort of problem somewhere, and we need all our compensatory mechanisms working, and we need to give our neural networks all the raw materials in the right amounts.
+
+My next post will focus more on depression, trauma, and the nitty-gritty of epigenetics. In the mean time let me reiterate:
+
+What we do matters. What we eat matters. To be the optimal human being from the genetic hand we were given, we'd best live in a way that compliments our biochemical programming.
+
+* Much of the information I'm presenting today is from lectures I attended last week by Carl Salzman, MD (of Harvard), Jeffrey Lieberman MD (of Columbia), and Daniel Weinberger MD (of NIMH and NIH) - all are world famous researchers in psychosis and psychiatry. I had the pleasure of attending many lectures by Dr. Salzman during my residency. These lectures were not sponsored in any fashion by the pharmaceutical industry.

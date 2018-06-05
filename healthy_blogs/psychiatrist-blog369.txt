@@ -1,0 +1,115 @@
+    101 responses
+What is your profession?
+Psychiatrist
+82 81%
+Nurse Practioner
+11 11%
+Physician's Assistant
+2 2%
+Prescribing Psychologist
+0 0%
+Other
+6 6%
+  Are you ready to begin using the new CPT codes next week?
+Yes
+38 38%
+No
+32 32%
+I'm not sure if I'm ready
+29 29%
+I didn't know I had to change how I code.
+2 2%
+  What have you done to learn the new codes?
+Taken a real-life course
+29 29%
+Taken the APA's online course
+25 25%
+Read the E/M manual pertaining to psychiatry
+51 52%
+Asked colleagues
+50 51%
+Watched Dinah's YouTube tutorial series
+20 20%
+Taken another (not APA) course
+13 13%
+Nothing, I am not at all ready
+9 9%
+Other
+17 17%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+  Has Updating to the New Codes Cost You Money?
+No
+42 42%
+$0 to $250
+31 31%
+$250 to $500
+10 10%
+$500 to $1000
+0 0%
+$1000 to $1500
+0 0%
+More than $1500
+6 6%
+I have not yet spent any money, but I intend to soon
+12 12%
+  Are you hopeful that the new coding will result in higher reimbursements to you or your patients?
+Yes
+29 29%
+No
+37 37%
+I am uncertain
+35 35%
+  Do you see the changes to using the 99 series E/M codes as being positive for psychiatry?
+Yes
+26 26%
+No
+36 36%
+I am uncertain
+39 39%
+  Are you concerned that the new requirements for documentation will be a burden?
+Yes
+89 88%
+No
+12 12%
+  Were you already using the 99 series E/M codes in your practice before these changes?
+Yes
+22 22%
+No
+79 78%
+  Are you confident you know how to use and document the new codes in a way that your bills will be accepted by insurers?
+Yes
+28 28%
+No
+73 72%
+    How do you feel about the APA's support of the new billing codes?
+Good: It's about time -- psychiatrists should bill like other doctors
+20 20%
+Good: I am hopeful this will help destigmatize psychiatry
+21 21%
+Bad: I wish APA did not support these changes
+17 17%
+I am ambivalent -- I see good and bad to the process
+34 34%
+I have no feelings about this
+8 8%
+I am angry: this adds a large burden to my practice
+34 34%
+People may select more than one checkbox, so percentages may add up to more than 100%.
+  Do the new coding documentation requirements change how much you worry about having your charts audited by insurers?
+Yes --I worry more
+65 64%
+Yes: I am less worried then I was with the old ways of coding
+2 2%
+No: I wasn't worried before and I'm not worried now
+34 34%
+  What percentage of your patients do you also see for psychotherapy?
+None, or less than 5%
+21 21%
+5-25%
+10 10%
+26-50%
+15 15%
+51-75%
+18 18%
+76-100%
+37 37%

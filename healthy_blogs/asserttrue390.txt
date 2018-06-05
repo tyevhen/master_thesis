@@ -1,0 +1,39 @@
+When I have data-crunching to do, I like to do it in the browser. Excel gives me a headache. Teaching myself how to write Excel macros doesn't leave me with a transferable skill (a skill that can be used outside of Excel); it just makes me an expert at Excel. Which I don't want to be.
+
+At least if I crunch data with JavaScript, I learn JavaScript skills that I can apply to web-page design, AJAX programming, Scalable Vector Graphics programming, Canvas programming, and lots of other scenarios.
+
+What do I mean by crunching data in the browser? Say you have a text file containing some data. Open the text file in Chrome or Firefox, then use Control-Shift-J to get to the browser's  JavaScript console. There you are. You're ready to crunch data.
+
+How? Let's say your text file contains a table. (Perhaps you took an OpenOffice table and used the table-to-text menu command to render the table as tab-delimited text.) Presumably there's a tab separating each columnar data item and a hard return at the end of each line. Perfect. You're ready to program.
+
+Use Control-A to Select All of the table. (Or; Highlight the whole thing by swiping across the page with the mouse.) In the JS console, type
+
+myTable = getSelection( ).toString( );
+
+Now you have the whole table in one variable.
+
+Alternatively, instead of selecting all, you could grab the entire text file programmatically this way:
+
+wholePage = document.getElementsByTagName("pre")[0].innerHTML;
+
+When you open a text file in a browser, it always puts the text in a <pre> element. The method getElementsByTagName( ) always returns an array, even if there's just one item in it (as in this case). To get the one and only item in the array, use index zero: [0]. To get the text of the element, use innerHTML.
+
+To get the rows from your table:
+
+rows = myTable.split("\n");   
+
+By splitting on every newline (carriage return), you get an array of table tows. To get the columns for row 7 (which is actually at index 6 in the array):
+
+columns = rows[6].split("\t");  
+
+By splitting on tabs, you've created an array of column items. When you want to display something in the console, do
+
+console.log( columns[ 0 ] );
+
+In this case we've chosen to display the first column item (which is at index zero).
+
+This is all familiar enough stuff to experienced JS users. I'm showing the basics here for those who might be new to programming. If you're new to programming, you need to be reminded (arguably) that array items are indexed in zero-based fashion: the first item is at index zero, the second item is at index one, the final item is always at length-minus-one.
+
+If you're new to the Chrome JavaScript console (Control-Shift-J opens the console; plus be sure the Console tab is selected), you'll want to take note that you need to use Shift-Enter to type new lines in the console. Just hitting Enter executes whatever code is in the console. Write a line of code, then Shift-Enter to continue writing on a new line.
+
+To recap: A quick way to crunch data is to put your data in a text file, open the text file with your browser, select all content, then use getSelection().toString() to load the selected content into a variable. Alternatively, load the whole text page with document.getElementsByTagName("pre")[0].innerHTML. From there, you can parse and crunch at will. 

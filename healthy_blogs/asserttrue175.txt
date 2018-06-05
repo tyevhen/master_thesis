@@ -1,0 +1,27 @@
+The answer to the headline is pretty obvious, at this point. Yes, Apple Pay has a fraud problem. But it has little or nothing to do with Apple and a lot to do with banks' inability to authenticate users in intelligent fashion, relying (instead, as they do) on the easily scammed technique of asking for a user's "last 4 digits" of the Social Security number—a technique that has long deserved to die.
+
+When Apple Pay was introduced by Apple Inc. in October 2014, it was praised for its increased security, based on tokenized Device Account Numbers and the Touch ID fingerprint system. But we now know criminals are cramming iPhones with stolen personal information, then calling banks to “provision” the victim’s card on the phone to use it to buy goods. And banks are stupidly allowing transactions to go forward based on the last-4-of-your-Social technique, which is an especially easy hoop for crooks to jump through, using stolen Social Security data.
+
+The flaw in the system is the so-called "Yellow Path" for authentication, in which a card isn't automatically accepted (Green Path) or rejected (Red Path), but requires additional provisioning by the bank to be added to Apple Pay. When Yellow Path is successful, the bank will beam an encrypted version of card details to be stored on the Secure Element of the phone. But then, ironically, criminals often use the stolen phone, card, and identity to buy stuff at—an Apple store.
+
+Some have said that the problem stems from Apple failing to make Yellow Path checks mandatory until less than one month before Apple Pay launched, leaving banks little time to refine and implement strong provisioning processes.
+
+The basic problem, though, is bank stupidity. Apple certainly can't be blamed for a system that depends on inferior upstream security.
+
+In the card business, losses of 10 cents per $100 in transactions are seen as inevitable, using standard tech. So when Apply Pay came online with its newfangled security, everyone was expecting fraud rates to be a fraction of 10 cents. But at least one card provider has seen fraud rates of $6.00 per $100, calling into question the idea that Apple Pay is secure. In reality, Apply Pay is secure, but the bank processes on which it ultimately relies are a very weak link.
+
+JP Morgan Chase said on an investor call that more than a million customers had added debit and credit cards to Apple’s service, while Bank of America has previously said 800,000 people had added 1.1m cards in 2014, making it the predominant mobile payment method in the U.S., displacing Google Wallet, which launched in 2011. Apple Pay is reportedly already responsible for two out of three dollars spent via mobile purchases in the U.S. But the high penetration of Chase and B-of-A cards into the system means Apple Pay fraud could scale at levels previously unimagined, if crooks game the system cleverly.
+
+Already, banks are proposing to go to a call-you-back-with-a-code-number two-factor scheme, on the basis that a crook using stolen identity info probably doesn't also have the victim's phone.
+
+Heh. Heh heh.
+
+In 2013, total losses from ID fraud in the US totalled $24.7 billion, with the average incident costing $4,930. If Apply Pay catches on (and banks don't get smarter), those numbers could be just the beginning.
+
+☙ ❧
+
+I want to thank the following great tweeps for retweeting me yesterday. May you all live long and prosper. (Please follow these guys. They retweet!)
+
+ 
+
+Pssst! Have you added your name to our mailing list? What the heck are you waiting for, a personal invitation from @TheTweetOfGod? Also please visit HackYourDepression.com when you have a chance, and share the link with someone!   

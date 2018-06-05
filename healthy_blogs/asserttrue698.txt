@@ -1,0 +1,3 @@
+PHP never really went away, of course. But it does appear to be gathering renewed momentum of late. Compare the trendline for ColdFusion.
+
+Graph courtesy of Indeed.com.

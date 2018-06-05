@@ -1,0 +1,34 @@
+I recently re-watched Al Gore's An Inconvenient Truth (2006), which is now somewhat out of date, and was wondering what's happened to CO2 since the movie came out.
+
+Here's a recap. First, the most recent year's worth of data from Mauna Loa:
+
+
+Carbon dioxide levels (which for 2015 are above 400 ppm) vary more-or-less sinusoidally throughout the year. Why? Most of earth's land masses are north of the equator. Plants bloom in summer and consume most of their CO2 in the warm months. In the (northern-hemisphere) winter, CO2 builds up because northern-hemisphere plants shut down and Australia is largely desert.
+
+Here's Mauna Loa data for the last 55 years:
+
+The graph shows that CO2 levels in the atmosphere have gone up about 75 ppm in 50 years, so around 1.5 ppm per year.
+
+We have ice-core data going back 800,000 years, and it's reliable because the snowpack accumulates in definite layers, and we can sample the actual air bubbles in the layers to get CO2 ppm:
+
+
+In the past 800,000 years, CO2 tyically has rarely been above 250 ppm and got to 300 ppm (briefly) just once. Temperatures (not shown) tend to follow CO2 levels closely, albeit with a bit of lag due to oceanic entrapment (and subsequent release) of CO2, with 100 ppm of CO2 equivalent to about a 10-degree (C) change in air temps. (Sometimes CO2 appears to lag slightly; sometimes air temps do. But overall, the two correlate strongly.) Which means that at 400 ppm, we're due for +10C higher temps over historic levels. Exactly how long it will take for that +10C increase to show up, I don't know (many people say it's already begun, of course!), but a +10C increase is pretty much inevitable.
+
+Skeptics can argue all they want about whether the CO2 buildup is man-made. But there is no question that CO2 levels are higher (by at least 100 ppm) today than at any time in the last 800,000 years. That part is not open to debate. Also, the fact that CO2 is a greenhouse gas that traps heat is not really open to debate. So connect the dots however you like.
+
+Presidential candidates, please discuss.
+
+☙ ❧
+
+Tired of lies and half-truths about mental illness? Arm yourself with some facts. Check out my free book Mental Health Myths Debunked. Tons of info, tons of live links, lots of straight talk about depression, suicide, meds, therapy, psychiatry, mental health trends, statistics, and more. And you know me, I call bullshit on bogus ideas (then give URLs to the actual data, so you can weigh the evidence for yourself). The idea that antidepressants take weeks to do anything? Myth. Most people benefit from antidepressants? Myth. Antidepressants separate from placebo in clinical trials? Largely myth. (Half the trials show separation. Half don't.) Electroshock therapy is safe and effective? Bigtime myth. ECT is dangerous and consent forms are based on obsolete data. But don't take my word for it: Read the science for yourself. It's all laid out (with references) in the book. Download ePub or PDF now at NoiseTrade. Tell a friend.
+
+ ☙ ❧
+
+Please retweet this post's URL. In the meantime, I want to thank the following people for retweeting me yesterday:
+
+
+
+
+Have you added your name to our mailing list?
+
+Also please visit HackYourDepression.com when you have a chance, and share that link with someone you know who might be suffering from anxiety or depression.

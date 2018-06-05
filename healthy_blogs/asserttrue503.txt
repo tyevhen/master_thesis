@@ -1,0 +1,28 @@
+In the Twilight Zone episode "The Lonely,"
+Jean Marsh plays the robotic companion of
+Jack Warden (who is stranded on an asteroid).
+Ray Kurzweil has written a stimulating essay for Discover titled "How Infinite in Faculty," in which (surprise, surprise) he predicts that by 2029, it will be possible to create a machine that shows every evidence of being "conscious." The full text of the piece is online here.
+
+According to Kurzweil, such machines will "exhibit the full range of familiar emotional cues; they will make us laugh and cry" [note: my Windows Vista laptop already makes me cry] "and they will get mad at us if we say we don't believe they are conscious."
+
+I don't know if Kurzweil wrote the teaser line just under the headline of the article ("Future machines will exhibit a full range of human traits and help answer one of science's most important questions: What is consciousness?"), but it seems likely he had final veto power over the article's final presentation, so I presume Kurzweil stands by the "full range of human traits" bit.
+
+I think Kurzweil has conveniently overlooked a lot of what we know about humans and their "full range" of traits.
+
+Human beings don't suddenly wake up as adults, with complex emotions, personality, and learned behaviors. The kind of machine Kurzweil is talking about doesn't start out as an infant and go through the complex parental and social interactions (and stages of neurolgical development) that a very young human goes through. Therefore the machine would not magically exhibit human adult traits straight out of the box. A human's emotional self is the outcome of years of development (involving responses to things like sibling rivalry, learned gender-based behaviors, the side-effects of parental divorce, bullying in school, physical or psychological abuse by relatives, miscellaneous traumas and triumphs big and small, the ebb and flow of self-esteem issues throughout early life into young adulthood, all the messy hormone-influenced issues attendant to puberty, and so on).
+
+Any sociologist will tell you that much of "who we are" is determined by the socially constructed norms of the society we live in. Thoughts and behaviors based on social norms aren't "data" that you can feed into a machine. It takes years of development, starting in infancy, to learn socially constructed concepts and integrate them into one's nervous system in a way that accords with (and simultaneously produces) an individual's personality traits around sex and gender, guilt, responsibility, ethics and morals, one's sense of "justice," self esteem, political philosophy, etc. (That's an absurdly short list of socially constructed phenomena, by the way.) These things don't spring up fully formed in an individual in a vacuum, the way they would have to in a "fully conscious" and emotionally complex Kurzweil machine.
+
+For a machine to be Homo-complete (as in Homo sapiens), meaning that its responses to verbal and other stimuli are indistinguishable from those of a human being, the machine would have to be capable of starting "life" as a child and experiencing the developmental processes that allow a child to become an adult. (I don't subscribe to the idea that the complete neural state of an adult can simply be captured digitally and loaded into a machine to yield a Homo-complete pseudo-being. Nothing even close to that is going to be possible by 2029.) The machine would need to be capable (in theory, at least) of "growing up" to be male or female, if for no other reason than that the male and female human brains are anatomically and functionally different. Which gender will Kurzweil choose to replicate?
+
+The machine would also have to be capable of developing psychological disorders, including PTSD if subjected to trauma, depression and other mood disorders (assuming the machine is capable of having moods, which Kurzweil certainly seems to be assuming), phobias and related severe anxiety, addiction behaviors, delusions, paranoia, mania, borderline personality disorder, OCD, cognitive issues, dissociative disorders, factitious disorders, and a range of other disorders (basically everything in the Diagnostic and Statistical Manual), possibly including schizophrenia.
+
+Any Homo-complete machine would also have to admit the possibility of sociopathic tendencies. (Many science fiction movies already portray cybernetic humans as homicidal, so perhaps this is a given.)
+
+Kurzweil might argue "We wouldn't deliberately build in any pathologies of any sort." Yes, but many psychological disorders (and quite a few criminal behaviors) are emergent in nature. People aren't born with them. Neither will Kurzweil's machines be born with them.
+
+Of course, a Kurzweil machine will have to be capable of sight, hearing, and touch, lest it be "born" into a nightmarish Helen Keller world. Yet merely "waking up with vision" is not a straightforward thing, neurologically. It takes infants many months to learn how to "see properly." People who suddenly recover from blindness as adults usually experience severe visual agnosia, and ultimately depression. [See this article.]
+
+Bottom line, it's not clear to me how a Kurzweil machine can be truly Homo-complete in any meaningful sense. All it will be is a pseudo-conscious logic machine with, at best, inappropriate emotions based on retarded social development, and at worst, disturbing sociopathic tendencies. The prospects of such a machine being a worthy companion along the lines of the robot in the Twilight Zone episode The Lonely are slim to none.
+
+In tomorrow's post, I'll get more specific about why Kurzweil's 2029 prediction is wrong.

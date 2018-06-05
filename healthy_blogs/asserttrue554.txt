@@ -1,0 +1,28 @@
+Last time, I gave a high-level overview of the some of the flashier new changes in Adobe CQ 5.5 (Adobe's Web Experience Management solution). This time, I'd like to dig a little deeper and shed light on a few less-visible (yet still noteworthy) changes in the product.
+
+A change to the repository infrastructure that I think is very much under-rated is the transition to a pure OSGi runtime based on Apache Felix. The repository has leveraged OSGi for some time, actually, but with 5.5, every Java process runs in the OSGi framework (everything is an OSGi service).
+
+OSGi is a powerful framework for development of Composite Content Applications, because it provides:
+Modularity and Code Reuse ―OSGi is ideal for this. Developing with OSGi means deploying code and resources as bundles, which is OSGI's fundamental unit of modularity. Bundles hide their internals from each other, communicating through well-defined APIs. The high degree of encapsulation provided by bundles means improved granularity and compositionality, robust dependency resolution, improved control over visibility (superior to Java's native “package” system), among other benefits.
+
+Dynamism ― The OSGI framework is highly dynamic. Bundles can be indepedently installed, started, stopped, updated, and/or uninstalled at any time, without taking the system down.
+
+Flexible Versioning Support ― It's often been said that OSGi technology solves JAR hell, which is the problem that library A works with library B-version-1, but library C can only work with B-version-2. In standard Java, this is a difficult problem. In OSGI, all bundles are explicitly versioned and can be mapped to multiple versions of the same library.
+
+Simplicity ― The core OSGI API comprises only one package with a few dozen classes.
+
+Lightweight ― The OSGI Framework is small and efficient, and allows runtime to be relatively small, itself, and run in a reasonable amount of memory.
+Some other miscellaneous new features that have been brought into Adobe CQ 5.5 include:
+An OpenSocial container, in the form of Apache Shindig.
+Integration with Creative Suite 5 and 5.5 using Adobe Drive.
+Faceted Search in DAM Admin.
+More detailed Context Cloud UI.
+InDesign content extraction via integration into InDesign Server. This allows direct repurposing of content from InDesign files hosted in the DAM.
+Service and workflow task to write XMP meta data back into the original binary. Until now DAM could only extract XMP but not write back. This is essential for full round-trip Creative Suite integration.
+The use of HTML5 (instead of Flash) to upload assets to DAM/Image/Download Component.
+Improved Campaign Manager UI to manage teasers and brand pages.
+XLIFF import/export tools for better translation process integration.
+Update built-in Apache PDFBox to version 1.6 for improved PDF extraction and preview.
+RMI connectivity to repository (for use by, e.g., connectors).
+A number of updates to libraries (e.g., jQuery and ExtJS) for better/broader browser support.
+These are just some of the under-the-covers enhancements included in CQ 5.5. For more information on the product, be sure to consult the Adobe CQ product page, the CQ developer page, and the CQ Community page.

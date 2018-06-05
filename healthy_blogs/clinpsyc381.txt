@@ -1,0 +1,15 @@
+Some "key opinion leaders" were in the papers again last week stating that the increase in suicide rates for teens was related to a lower prescription rate of SSRIs. Of note, in the news stories I've seen on the topic, no data have actually been provided to show that antidepressant prescription rates went down when the suicide rate increased. The lack of data, naturally, did not prevent the media from running with the story, much in the same way that children sometimes run with scissors.
+
+For examples of reporting on the topic in the media, try MedPage, or ABC for example. The AHRP blog dug up information from the American Psychiatric Association that stated:
+In 2003, U.S. physicians wrote 15 million antidepressant prescriptions for patients under age 18, according to FDA data. In the first six months of 2004, antidepressant prescriptions for children increased by almost 8 percent, despite the new drug labeling.
+The point here is that antidepressant prescription rates were actually rising when suicide rates were rising, so it is a bit hard to see how FDA warnings were leading to fewer prescriptions which were, in turn, leading to more suicides.
+So how does this kind of story gain traction?
+Enter Chuck. According to ABC News, Dr. Charles Nemeroff, a "key opinion leader" in psychiatry, (background here and here) said that
+"I have no doubt that there is such a relationship," said Dr. Charles Nemeroff, chairman of the department of psychiatry and behavioral sciences at the Emory University School of Medicine.
+"The concerns about antidepressant use in children and adolescents has paradoxically resulted in a reduction in their use, and this has contributed to increased suicide rates."
+It would appear that Nemeroff has either seen some data nobody else has seen or that he is making things up. Given his cozy relationship with a plethora of drug companies, I'm guessing it's the latter. Even if there were data showing a decrease in SSRI prescriptions as suicide rates increased, surely Nemeroff would know that there could be numerous other factors involved. As is stated in every introductory research class, correlation does not imply causation. Of course, this point appears to be moot, as I've yet to see any evidence that SSRI prescription rates went down as youth suicide rates increased.
+It would appear that this latest scare over SSRI deficiency causing suicide is another case of pseudoevidence based medicine.
+
+Hat Tip: AHRP, Hooked.
+
+Update: Nemeroff indeed had some data indicating that SSRI prescriptions have fallen. Yet it now appears that while SSRI usage fell, suicides did not increase. Nemeroff's statement above thus appears incorrect.

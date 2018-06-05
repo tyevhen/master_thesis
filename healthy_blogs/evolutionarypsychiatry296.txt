@@ -1,0 +1,37 @@
+I should preface this post with another post.  If you have a minute and you don't mind, have a look at Your Brain on Ketones.  The down low is that, for various reasons, a ketogenic diet (very low carb and high fat, or moderately low carb and high medium chain triglyceride, such as coconut oil), seems to allow our mitochondria (the cells' energy factories) to make energy more efficiently.  This ability is less important in our muscles (unless you are an elite athlete), but in our brain, which uses a ton of energy and relies on energy-expensive ion gradients to function properly, efficiency is paramount.  Never so much as when you are talking about a brain disorder, such as epilepsy, migraines, Alzheimer's, or, as in the case of the paper I'm referencing today, Parkinson's disease.
+
+Parkinson's disease (PD) is another long-term degenerative brain disease, somewhat like Alzheimer's but with more prominent muscular symptoms and a different pathophysiology.  In Parkinson's, the little cells that make dopamine, a major neurotransmitter, in the substantia nigra seem to slowly die off.  Without dopamine fueling your brain you get tremor, dementia, muscular stiffness, depression, and eventually death.  There are some genes known that predispose for Parkinson's, but most cases are idiopathic, meaning no one knows why the disease strikes a certain person and spares another.
+
+Exposure to a certain pesticide, rotenone, and welding does increase risk of PD.  Rotenone works by inhibiting the proton pumping complex 1 in the mitochondria (okay, the biochemistry of the mitochondria is complicated but fun.  The whole point of the mitochondria is to generate the gasoline of the body, ATP, and mitochondria do this by pumping protons up gradients via several complexes, "proton pumping complex 1", etc.  Think of the proton pumping complexes as ski lifts carrying skiers up to the top of the hill, where they are set loose to glory in the thrill of gravity.  So rotenone is a hater of snowy fun and shuts down the ski lift.)  Another inhibitor of proton pumping complex 1 is MPTP, famous for being an adulterant in synthetic opiates, and causing immediate irreversable Parkinson's disease, killing your dopamine-making neurons.  Don't do drugs, kids.
+
+Caffeine and tobacco (which juice up energy efficiency) use seem to reduce the risk of PD.  So drink up that coffee!  (Don't smoke).
+
+Our intrepid researchers took genetic data from 410 post-mortem brains with Parkinson's Disease and "healthy" controls.  They analyzed "6.8 million raw data points from nine genome-wide expression studies" (I *heart* geneticists), focusing on genes active within the substantia nigra.   They found several gene sets that seemed to cluster in the PD folks, and many of these genes seemed to be a part of the mitochondrial complex called the electron transport chain.  Part of the proton-pumps.  Part of the energy factories of the cells.  These 95 energy factory genes seemed to be "underexpressed" in Parkinson's sufferers.   That means the substantia nigra was suffering an energy shortage, so the cells that make dopamine went kaput, out of gas.
+
+The researchers found a second set of genes that seemed to be associated with Parkinson's.  These genes affect glycolysis.  (Que?) Remember, the brain can't run on ketones alone.  Certain long nerve tendrils are too spindly to carry mitochondria.  Those spindly bits need to run on pure glucose.  Glucose becomes ATP directly via glycolysis.
+
+
+
+
+
+
+ Glycolysis turns glucose into pyruvate, yielding several ATP along the way, and then pyruvate enters the citric acid cycle to become ATP.  Glycolysis is also part of how some anaerobic bacteria turn sugar into alcohol (called fermentation), so enjoy your biochemistry, preferably on the weekends.
+
+
+Now we come to a third gene, PGC-1alpha.  I know I've already exhausted you, but carry on!  PGC-1alpha is a "master regulator of mitochondrial biogenesis and oxidative metabolism."  It seems to control protein-folding and direct proteins where to go in the mitochondria.  Underexpression of the PGC-1alpha gene was highly associated with Parkinson's Disease, and mitochondrial activity and ATP concentrations were severely decreased in the brain samples of Parkinson's patients.
+
+All of these gene sets are associated with the energy efficiency of the brain cells, and were not only associated with Parkinson's, but also with Parkinson's precursor states, suggesting these are causative, not a result of whatever insult causes Parkinson's.
+
+And then the researchers got very cute.  They fabricated a virus to infect rat brains, a virus that causes the overexpression of PGC-1alpha.  Then they exposed the rats to rotenone, the pesticide that causes Parkinson's.  With the extra PGC-1alpha, these rats seemed to be more immune to Parkinson's than the average rat exposed to rotenone.  Other researchers found that mice without any PGC-1alpha were more susceptible to the Parkinson's caused by the MPTP. 
+
+And, finally, magnetic resonance spectroscopy of living Parkinson's patients shows that their brains seem to have more lactate on board than normal.  Meaning their brains are struggling with the metabolism of glucose and are running on anaerobic pathways instead.  When your brain seems to be running like fermentation bacteria, you have a big problem.*
+
+It seems probable that the dopaminergic neurons of the substantia nigra need more ATP than most, so if your brain is inefficient, they suffer first.  Therefore a variety of genetic susceptibilities in the electron transport chain, glycolysis, and basic energy creation in the brain presents as Parkinson's disease first and foremost.
+
+I'll quote the article here:  "If this hypothesis is valid, it would suggest that modulation of cellular energetics could be used to prevent or treat PD, and that monitoring cellular energetics could serve as a diagnostic tool."
+
+The only way I know to modulate brain energetics is to avoid carbohydrates or drink down a lot of coconut oil. (You can only drink so much coffee, but I thought of some more ways to modulate energy use in the mitochondria, which will be the next post.)
+
+Food for thought!
+
+*There's lactate again.  More on that in a future post too.

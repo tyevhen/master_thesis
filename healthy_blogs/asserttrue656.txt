@@ -1,0 +1,158 @@
+A few days ago, I showed how to implement java.awt.Paint in a way that lets you vary the paint appearance according to the x-y position of a point onscreen -- in other words, treating Paint as a procedural texture. It turns out to be pretty straightforward. Implementing the Paint interface means providing an implementation for Paint's one required method, createContext():
+   public PaintContext createContext(ColorModel cm,
+                           Rectangle deviceBounds,
+                           Rectangle2D userBounds,
+                           AffineTransform xform,
+                           RenderingHints hints)
+Most of the formal parameters are hints and can be ignored. Note that the createContext()method returns a java.awt.PaintContext object. PaintContext is an interface, so you have to implement it as well, and this (it turns out) is where the real action occurs. The methods of the PaintContext interface include:
+
+public void dispose() {};
+public ColorModel getColorModel();
+public Raster getRaster(int x,
+                  int y,
+                  int w,
+                  int h);
+
+The dispose() method releases any resources that were allocated by the class. In many cases, you'll allocate nothing and thus your dispose method can be empty. The getColorModel() method can, in most cases, be a one-liner that simply returns ColorModel.getRGBdefault(). Where things get interesting is in getRaster(). That's where you have the opportunity to set pixel values for all the pixels in the raster based on their x-y values.
+
+One of the most widely used procedural textures is Ken Perlin's famous noise algorithm. It might be an exaggeration (but not by much) to say that the majority of the CGI world's most interesting textures start from, or at least in some way use, Perlin noise. One could say it's the texture that launched a thousand Oscars. (In 1997, Perlin won an Academy Award for Technical Achievement from the Academy of Motion Picture Arts and Sciences for his noise algorithm; that's how foundationally important it is in cinematic CGI.)
+
+It turns out to be pretty easy to implement Perlin noise in custom Paint; see the 100 lines of code shown below. Note that in order to use this code, you need the class ImprovedNoise.java, which is a nifty reference implementation of Perlin noise provided by Ken Perlin here.
+
+(Scroll code sideways to see lines that don't wrap.)
+/* PerlinPaint
+* Kas Thomas
+* 1 February 2010
+* Public domain.
+* http://asserttrue.blogspot.com/
+*
+* Demonstration of a custom java.awt.Paint implementation.
+* This Paint uses a two-dimensional Perlin noise texture,
+* based on Perlin's improved reference implmentation
+* (see ImprovedNoise.java, http://mrl.nyu.edu/~perlin/noise/).
+* Thanks to David Jones (Code Monk) for the idea.
+*/
+
+import java.awt.Color;
+import java.awt.Paint;
+import java.awt.PaintContext;
+import java.awt.Rectangle;
+import java.awt.RenderingHints;
+import java.awt.geom.AffineTransform;
+import java.awt.geom.Rectangle2D;
+import java.awt.image.ColorModel;
+import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
+
+class PerlinPaint implements Paint {
+
+     static final AffineTransform defaultXForm =
+     AffineTransform.getScaleInstance(0.15, 0.15);
+
+     // Colors a and b stored in component form.
+     private float[] colorA;
+     private float[] colorB;
+     private AffineTransform transform;
+
+     public PerlinPaint(Color a, Color b) {
+             colorA = a.getComponents(null);
+             colorB = b.getComponents(null);
+             transform = defaultXForm;
+     }
+
+     public PerlinPaint(Color a, Color b, AffineTransform transformArg) {
+             colorA = a.getComponents(null);
+             colorB = b.getComponents(null);
+             transform = transformArg;
+     }
+
+     public PaintContext createContext(ColorModel cm,
+     Rectangle deviceBounds,
+     Rectangle2D userBounds,
+     AffineTransform transform,
+     RenderingHints hints) {
+             return new Context(cm, transform);
+     }
+
+     public int getTransparency() {
+             return java.awt.Transparency.OPAQUE;
+     }
+
+     class Context implements PaintContext {
+
+             public Context(ColorModel cm_, AffineTransform transform_) { }
+
+             public void dispose() {}
+
+             public ColorModel getColorModel() {
+                     return ColorModel.getRGBdefault();
+             }
+
+             // getRaster makes heavy use of the enclosing NoisePaint instance
+             public Raster getRaster(int xOffset, int yOffset, int w, int h) {
+
+                     WritableRaster raster =
+                     getColorModel().createCompatibleWritableRaster( w, h );
+
+                     float [] color = new float[4];
+
+                     for ( int y = 0; y < h; y++ ) {
+                             for ( int x = 0; x < w; x++ ) {
+
+                                     // treat each x-y as a point in Perlin space
+                                     float [] p = { x + xOffset, y + yOffset };
+
+                                     transform.transform(p, 0, p, 0, 1);
+
+                                     float t = (float)ImprovedNoise.noise( p[0], p[1], 2.718);
+
+                                     // ImprovedNoise.noise returns a float in the range [-1..1],
+                                     // whereas we want a float in the range [0..1], so:
+                                     t = (1 + t)/2;
+
+                                     for ( int c = 0; c < 4; c++ ) {
+                                             color[ c ] = lerp( t, colorA[ c ] ,colorB[ c ] );
+                                             // We assume the default RGB model, 8 bits per band.
+                                             color[ c ] *= 0xff;
+                                     }
+                                     raster.setPixel( x,y, color );
+                             }
+                     }
+                     return raster;
+             }
+
+             float lerp( float t, float a, float b ) {
+                     return a + t * ( b - a );
+             }
+     }
+}
+
+
+The code should be self-explanatory. There are two constructors; both allow you to pick the primary and secondary colors for the texture, but one includes an AffineTransform, whereas the other doesn't. If you use the constructor with the transform, you can scale (or rotate, etc.) the Perlin noise to suit your needs. To achieve the "cloudy" look, the text at the top of this post uses a scaling factor of .06 in x and .05 in y, per the script below. Note that to run the following script, it helps if you have a copy of ImageMunger, the tiny Java app I wrote about a couple weeks ago. ImageMunger is a very simple command-line application: You pass it two command-line arguments, namely a file path pointing at a JPEG or other image file, and a file path pointing at a JavaScript file. ImageMunger opens the image in a JFrame and executes the script. Meanwhile, it also puts two global variables in scope for your script to use: Image (a reference to the BufferedImage object) and Panel (a reference to the JComponent that paints the image). Be sure you have JDK6.
+
+/* perlinText.js
+* Kas Thomas
+* 1 February 2010
+* Public domain.
+*
+* Run this file using ImageMunger:
+* http://asserttrue.blogspot.com/2010/01/simple-java-class-for-running-scripts.html
+*/
+
+g2d = Image.createGraphics();
+
+rh =  java.awt.RenderingHints;
+hint = new rh( rh.KEY_TEXT_ANTIALIASING,rh.VALUE_TEXT_ANTIALIAS_ON );
+g2d.setRenderingHints( hint );
+transform = g2d.getTransform().getScaleInstance(.06,.05);
+perlinPaint = new Packages.PerlinPaint( java.awt.Color.BLUE,java.awt.Color.WHITE,transform);
+
+g2d.setPaint( perlinPaint );
+g2d.setFont( new java.awt.Font("Times New Roman",java.awt.Font.BOLD,130) );
+g2d.drawString( "Perlin",50,100);
+g2d.drawString( "Noise",50,200);
+
+Panel.updatePanel();
+Future projects:
+Implement Perlin's turbulence and Brownian noise as custom Paints.
+Implement a bump-map (faux 3D-shaded) version of PerlinPaint.

@@ -1,0 +1,24 @@
+Just when I thought it was safe to stop writing about the ARISE-RD study, which was an attempt to demonstrate the efficacy of risperidone (Risperdal) for depression, even more evidence of misleading salesmanship regarding the study surfaces. Feel free to read six prior posts regarding the study, described in a bit more detail here.
+
+Here's the rub. Dr. Charles Nemeroff is the presenter for this continuing medical education activity entitled Add On Atypical Antipsychotics Efficacious in Short Term for Unipolar Depression. This post concerns slides 5, 6, and 9, which reference the aforementioned ARISE-RD study, which examined the use of risperidone as an add-on to citalopram (Celexa) in treating depression. The full presentation is available for your examination.
+
+Slide 6 reads in part:
+Global Impressions of Sexual Functioning scores improved significantly in men and women (p < .02) with RIS augmentation.
+RIS may ameliorate sexual dysfunction associated with SSRIs.
+There is a reference to a published study in Neuropsychopharmacology at the bottom of the slide. The kicker: The published study contains no mention of improved sexual functioning on risperidone. This is called lying. Remember, Nemeroff was an author on the study published in Neuropsychopharmacology; he'd know if sexual functioning was referenced in his article, so there is no pleading ignorance on his part.
+
+Slide 9 reads in part:
+Augmentation options for treatment-refractory depression include adjunctive atypical antipsychotics.
+-Controlled studies: short term efficacy with OLZ, ARI, RIS [risperidone]
+This is a baldfaced falsehood. The study took people who had not responded to citalopram treatment, then added risperidone to the mix. There was no placebo control during this phase. So it was not a controlled study and should not be referred to as a controlled study in Nemeroff's presentation.
+
+In fact, here is what the lead author (Mark Rapaport) of the ARISE-RD study had to say about its results in a letter to the editor (currently in press):
+The paper repeatedly states in Abstract, Methods and in Discussion that continuation of risperidone augmentation therapy was not more beneficial than placebo, and hence the working hypothesis was disproven...
+
+I would like to thank the reviewers and the editors of Neuropsychopharmacology for having the courage to allow us to publish this negative finding.
+Compare and contrast: Nemeroff's presentation indicates that the study was a controlled trial showing that risperidone was more effective than placebo. The lead author admits that the study was a "negative finding" and that risperidone was "not more beneficial than placebo."
+
+To summarize, Nemeroff did the following:
+Claimed that a peer-reviewed study showed risperidone improved sexual functioning, when the effects of treatment on sexual functioning were not even mentioned in the paper.
+Claimed that the study showed risperidone to demonstrate efficacy over placebo, which it in fact did not.
+This is what passes for education for physicians. Being lied to about study results is how physicians receive continuing medical education to keep them abreast of the latest research findings so that they can better serve their patients. If you are not disgusted, you are not paying attention. It is far from reassuring that this incident involves one of the biggest names in academic psychiatry.

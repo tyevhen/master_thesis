@@ -1,0 +1,39 @@
+Three weeks ago, while I wasn't paying attention, my blog (this blog) surpassed the one-million-page-views-YTD mark. I can't be 100% sure where the traffic is coming from, since I refuse to click the "Don't track your own page-views" link in Google Analytics. It could still be mostly me hitting Refresh. Or someone with Anonymous perfecting a really, really slow denial-of-service attack. Or maybe my (deceased) mother discovered a time machine 50 years ago, only she didn't tell me about it and she traveled to the future just to pay some dweeb in Milwaukee to unleash a Reddit clickbot that messes with me, then headed back to 1963 to cook dinner. It almost has to be one of those things.
+
+Here are the top posts of the year, so far:
+
+Post Views
+ How I Fell in Love with a Schizophrenic
+Jan 1, 2013, 136 comments
+73035
+How to Write an Opening Sentence
+Jan 15, 2013, 19 comments
+55708
+Are Placebos Really Sugar Pills?
+Jan 30, 2013, 40 comments
+38440
+The Serif Readability Myth
+Jan 18, 2013, 32 comments
+31109
+Information Theory in Three Minutes
+May 18, 2013, 2 comments
+28134
+
+Now for some really interesting (to me) summary info, looking back at this year's posts:
+Five posts accounted for 23% of the year's traffic.
+Four out of the top five posts were written in January.
+The top two most-trafficked posts had titles that begin with "How," but beyond that there's no thematic pattern whatsoever to the top posts. (Nor could I have predicted the popularity of any of them in advance.)
+This year's posts account for only 60% of total YTD traffic; the other 40% of visits went to prior-years' posts. But note well, prior-year posts were never as popular as they are this year. The 60-40 split is new, in other words. It used to be more like 90-10.
+My blog got a certain amount of extra traction after April 2013, when I signed on as a regular blogger at BigThink.com (thank you, Dan!), but honestly, the crossover traffic from BigThink has been quite modest.
+
+My traffic really started to pick up in January, when I began blogging almost daily. Prior to that, when I was blogging only a few times a month, 200 to 300 hits a day was pretty typical. It slowly built, over a period of four months or so, to a couple thousand visitors a day, peaking at 3K hits/day in early summer. It's eased off a bit since then. I now count 2200 page-views a day as typical. (But I should stress, that's total site visits, spread across 600+ posts.)
+
+The other thing that's different now is that I have 200,000 followers on Twitter, up from about 140,000 a year ago. The numbers are deceptive, though. It wasn't until this year that I began devoting an hour or more a day to interacting with my Tweeps (rather than just dumping curated links in their laps all the time). But Twitter is another story, worth its own discussion. I'll save that for a future post.
+
+What have I learned? Not a whole lot, actually. The main thing I've learned is that if you want traffic to increase, blog more often. And don't be afraid to write some fairly long posts, if the subject matter warrants it. (My No. 1 most-visited post this year weighed in at 2618 words.)
+
+I hardly touch Facebook, I hate Google Circles, I don't do Instagram, I ignore StumbleUpon. I have a PInterest account that's growing mold somewhere. Oh, and I pay no heed whatsoever to SEO. (I operate on the assumption that good content is its own SEO.)
+
+I never spend money, by the way, promoting anything I do. No Google ad campaigns, no paid slots anywhere.
+
+In short, if someone came to me with a bunch of money and said "Tell me your best secrets for getting more blog traffic," I'd say: Go write the very best content you know how to write, and do it every day if possible; otherwise, several times  week. Try to achieve synergy by contributing in more than one space. (I blog here and at BigThink.com, plus I tweet a lot; I post updates at LinkedIn every week even though it feels like hollering into a cardboard box; and I spend an hour a week commenting on other people's stuff around the Web.) Beyond that, there ain't any magic. Just blow a lot of smoke and keep the mirrors shiny.

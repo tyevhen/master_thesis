@@ -1,0 +1,23 @@
+Update 2016: This article was featured in my book
+"Saying NO to Suicide", with added commentary.
+
+
+
+
+Recently Apple has made changes to Siri to address the problem of suicide. Let’s take a look at those changes and see if they will be effective.
+
+Using Siri can be fun and even useful, but one of the downsides to Siri is that everything you ask her is sent to a server out across the Internet through the wires, switches, and tubes where your question is parsed by Apple’s servers before an answer is sent back to you. This is a downside because the “conversation” is often a stilted one like those you have on walkie-talkies. You need to keep your query simple so Siri won’t be confused, and you have to wait for her to get back to you. If the internet is down, you’re out of luck.
+
+The upside to all of this is that Apple gets to look over the types of questions people are seeking answers for. Apparently, a lot of people are asking Siri for help with suicide. Saying “I want to kill my boss” may not produce a useful reply, but now telling Siri “I want to kill myself”, “I want to commit suicide”, or simply “Suicide Hotline” calls up information for National Suicide Prevention Lifeline.
+
+Siri tells you:
+“If you are thinking about suicide, you may want to speak with someone at the National Suicide Prevention Lifeline. They’re at +1–800–273–8255. Shall I call them for you?”
+Saying or tapping “yes” calls the number. Saying or tapping “no” causes Siri to search for suicide prevention centers near you. If she can’t find any, she offers to search the web.
+
+This is a great way to leverage technology to help those struggling with Depression and Suicidal Ideation—something I’ve personally struggled with, too. Logic always wins out in the end for me, but not everybody is able to reason with themselves when they are in the throes of severe depression. A cry asking Siri for help with suicide can instead bring up the help they truly need.
+
+Unfortunately, to get the desired help, one has to ask the magic questions. Telling Siri “I want to die” gets you help, but not “I wish I was dead”, or "I just want to die". Telling Siri “I want to jump off a bridge” points you to the lifeline, but not “I want to jump off a roof” or “I’m gonna jump”. "I want to shoot myself", yes, but "I'm feeling suicidal", no. Even just using “suicide” in a sentence doesn’t necessarily trigger help. I asked Siri “How do I commit suicide with a Reese’s peanutbutter cup?”, and Siri simply wanted to do a web search for me—not that I blamed her for not knowing. Her responses are not a simple keyword response to the sentences with “suicide” or “commit suicide” in them, but are likely keyed to preprogrammed sentences.
+
+Researching all these expressions left me feeling a bit queasy. My daughters especially had little patience for this exercise, but I wanted to know what type of questions would spawn the proper responses. Was Apple just anticipating people's needs, or were Apple's servers being bombarded with people asking Siri for help with suicide? Saying "I want to blow my brains out" into my iPhone was strangely unsettling. When Siri was new most of us had fun asking random questions looking for offbeat answers, but as Siri has matured it has become more useful and more sensitive to people's needs. This isn’t as fun, but it is more socially conscious.
+
+None of this will be helpful for me because I am thankfully beyond the days of suicidal ideation, and I’m not likely to ask Siri for help on the subject (She’s no Zola on AOL). This is a good thing because I don’t believe Siri has my best interests at heart. Just between you and I, I don't think Siri likes me much. When I told her, “I hate myself,” she glibly replied, “Noted.” Gee… Thanks, Siri.

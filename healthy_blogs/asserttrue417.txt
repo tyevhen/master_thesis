@@ -1,0 +1,20 @@
+In a previous post ("Information Theory in Three Minutes"), I hinted at the power of information theory to gage redundancy in a language. A fundamental finding of information theory is that when a language uses symbols in such a way that some symbols appear more often than others (for example when vowels turn up more often than consonants, in English), it's a tipoff to redundancy.
+
+DNA is a language with many hidden redundancies. It's a four-letter language, with symbol choices of A, G, C, and T (adenine, guanine, cytosine, and thymine), which means any given symbol should be able to convey two bits' worth of information, since log2(4) is two. But it turns out, different organisms speak different "dialects" of this language. Some organisms use G and C twice as often as A and T, which (if you do the math) means each symbol is actually carrying a maximum of 1.837 bits (not 2 bits) of information.
+
+Consider how an alien visitor to earth might be able to use information theory to figure out terrestrial molecular biology.
+
+The first thing an alien visitor might notice is that there are four "symbols" in DNA (A, G, C, T).
+
+By analyzing the frequencies of various naturally occurring combinations of these letters, the alien would quickly determine that the natural "word length" of DNA is three.
+
+There are 64 possible 3-letter words that can be spelled with a 4-letter alphabet. So in theory, a 3-letter "word" in DNA should convey 6 bits worth of information (since 2 to the 6th power is 64). But an alien would look at many samples of earthly DNA, from many creatures, and do a summation of -F * log2(F) for every 3-letter "word" used by a given creature's DNA (where F is simply the frequency of usage of the 3-letter combo). From this sort of analysis, the alien would find that even though 64 different codons (3-letter words) are, in fact, being used in earthly DNA, in actuality the entropy per codon in some cases is as little as 4.524 bits. (Or at least, it approaches that value asymptotically.)
+
+Since 2 to the 4.524 power is 23, and since proteins (the predominant macromolecule in earthly biology) are made of amino acids, a canny alien would surmise that there must be around 23 different amino acids; and earthly DNA is a language for mapping 3-letters words to those 23 amino acids.
+
+As it turns out, the genetic code does use 3-letter "words" (codons) to specify amino acids, but there are 20 amino acids (not 23), with 3 "stop codons" reserved for telling the cell's protein-making machinery "this is the end of this protein; stop here."
+
+E. coli codon usage.
+The above chart shows the actual codon usage pattern for E. coli. Note that all organisms use the same 3-letter codes for the same amino acids, and most organisms use all 64 possible codons, but the codons are used with vastly unequal frequencies. If you look in the upper right corner of the above chart, for example, you'll see that E. coli uses CTG (one of the six codons for Leucine) far more often than CTA (another codon for Leucine). One of the open questions in biology is why organisms favor certain synonymous codons over others (a phenomenon called codon usage bias).
+
+While DNA's 6-bit codon bandwidth permits 64 different codons, and while organisms do generally make use of all 64 codons, the uneven usage pattern means fewer than 6 bits of information are used per codon. To get the actual codon entropy, all you have to do is take each usage frequency and calculate -F * log2(F) for each codon, then sum. If you do that for E. coli, you get 5.679 bits per codon. As it happens, E. coli actually does make use of almost all the available bandwidth (of 6 bits) in its codons. This turns out not to be true for all organisms, however.

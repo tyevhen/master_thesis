@@ -1,0 +1,53 @@
+I wrote a while ago about Christopher Lane's assertions that social anxiety was overdiagnosed and overtreated, particularly among children. Many people disagreed with Lane. One person who disagreed was Dr. Ronald Pies, a psychiatrist at SUNY Upstate Medical Center, who wrote in the New York Times that
+... there is no credible evidence to support Mr. Lane’s implication that S.S.R.I. antidepressants are linked with increased risk of suicide in children prescribed these medications for social anxiety. The Food and Drug Administration’s initial concerns stemmed from studies in children with major depression, not anxiety disorders, and the latest evidence has not supported a strong link between S.S.R.I.’s and risk of suicide.
+I re-read the latest summary of evidence regarding SSRIs and suicide in kids. Mind you, the article that I referenced (Bridge et al., 2007 in JAMA) came to decidedly pro-SSRI conclusions -- I didn't get my evidence dropped to me from a black helicopter. Based on trials submitted to the FDA, as reported by Bride and colleagues, there were data that pertained directly toward Dr. Pies' assertion. Here are the data regarding SSRI's and suicide in children and adolescents with anxiety disorders.
+
+Note: AD represents Antidepressant; PL represents Placebo
+Condition
+Suicidal Ideation
+
+
+
+
+Suicide Attempt/Preparatory Action
+OCD
+AD: 3 of 362
+PL: 1 of 339
+
+
+
+
+AD: 1 of 362
+PL: 0 of 339
+Non-OCD Anxiety Disorder
+AD: 5 of 573
+PL: 0 of 582
+
+
+
+
+AD: 1 of 573
+PL: 0 of 582
+Total for Anxiety Disorders
+AD: 8 of 935
+PL: 1 of 921
+
+
+
+
+AD: 2 of 935
+PL: o of 921
+
+Compare the odds of having suicidal ideation on drug to the odds of having suicidal ideation on placebo. Kind of a large difference, eh? I realize that the odds of developing suicidal ideation are still small, even on medication, but they are substantially higher than a child taking placebo.
+
+While one could point out correctly that the difference is not "statistically significant," I think one would be foolish to fall back on that argument. We have seen in adults and children that SSRIs are related to more suicide attempts and that this finding is pretty consistent across trials, at least among children and young adults. When events occur rarely, then we need exceedingly large samples in order to be quite certain that the event (such as suicidal ideation in SSRI trials for anxiety in kids) is not an anomaly. But when kids are being treated for disorders that are very rarely associated with suicidality, yet the children show a much higher rate of suicidal ideation on a drug compared to a placebo, does it not make sense to warn patients about such potential hazards? One could run to the less SSRI's cause more suicide argument, but that hasn't really held up so well scientifically.
+
+In my eyes, the above data represent "credible evidence" that SSRIs can indeed lead to an increase in suicidal thoughts among kids with anxiety disorders. Either Dr. Pies was unfamiliar with the above evidence or he believes it is not credible.
+
+No actual suicides were recorded during the trials. Of course, if someone got worse during the study, then quit the study and killed himself/herself, then who knows if such data were included. Perhaps such events occurred -- I don't know. And there was much more supervision of these kids in a clinical trial then you'd see in real life, which could have kept some people from suicide. Further, let's suppose that the drug causes a child with social anxiety to become suicidal. He does not make an attempt on his own life, but he is suicidal for a month. Doesn't prior suicidal thinking predict later suicidal thinking and later attempt of suicide? So even if the child makes no immediate attempt on his life, couldn't he be at higher risk down the line? Maybe I'm losing my marbles, but I think it's a reasonable question.
+
+Related posts on SSRI's and suicide:
+SSRIs, Suicide, and Dunce Journalism
+FDA on SSRIs and Suicide
+More on FDA, SSRIs, and Suicide
+Keller, Bad Science, and Paxil

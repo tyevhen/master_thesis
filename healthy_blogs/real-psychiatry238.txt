@@ -1,0 +1,42 @@
+from:  CONVERGE consortium.  Nature. 2015 Jul 15. doi: 10.1038/nature14659. [Epub ahead of print] - see complete reference 1 below.         
+
+
+
+This is an interesting effort from a large number of researchers looking at candidate genes in major depression. The authors studied major depressive disorder (MDD) in 5,303 Han Chinese women selected for recurrent major depression compared with 5,337 Han Chinese women screened to rule out MDD. The depressed subjects were all recruited from provincial mental health centers and psychiatric departments of general hospitals in China. The controls were recruited from patients undergoing minor surgical procedures in general hospitals or from local community centers. All of the subjects were Han Chinese women between the ages of 30 and 60 with four Han Chinese grandparents. The MDD sample had two episodes of MDD by DSM-IV criteria. The diagnoses were established by computerized assessments conducted by postgrad medical students, junior psychiatrists, or senior nurses trained by the CONVERGE team. The interview was translated into Mandarin. Exclusion criteria included other serious medical of psychiatric morbidity (see details in ref 1). 
+
+Whole genome sequences were acquired from the subjects and 32,781, 340 SNPs were identified, 6,242,619 were included in genome-wide association studies (GWAS). Figure 1 above is the quantile-quantile plot for the GWAS analysis resulting from "a linear mixed model with genetic relatedness matrix (GRM) as a random effect and principle components from eigen-decomposition of the GRM as fixed effect covariates." I won't pretend to know what that methodology is, even after reading the Methods, Supplementary Notes section. I expect that it would take a more detailed explanation and in the era of essentially unlimited online storage capacity, I would like to see somebody post it with examples. Without it, unless you are an expert in this type of analysis you are forced to accept it at face value. I am skeptical of manipulations of data points that provide a hoped for result and can cite any number of problems related to this approach. On the other hand information of this magnitude probably requires a specialized approach. 
+
+In this case the authors found two loci on chromosome 10 that contributed to the risk of MDD. They replicated the findings in an independent sample. 
+
+
+
+One of the features that I liked about this paper was the focus on patients with severe depression. I have lost count of the number of papers I have read where the depression rating scores were what I consider to be low to trivial. Many rating systems used in clinics seem to use these same systems for determining who gets an antidepressant and who does not.  Whenever I see that, I am always reminded of the "biological psychiatry versus psychotherapy" debates that existed when I was in training in the 1980s.  Once of my favorite authors at the time was Julien Mendlewicz and anything he would publish in the Journal of Clinical Endocrinology and Metabolism (4-6).  There is a table in one of his studies with the HAM-D scores of the patients with unipolar depression he was seeing that ranged from 30-57 with a mean of 41+/- 10.  For bipolar patients in the same study the range was 30-43 with a mean of 36 +/- 5.  One of those patients could not be rated initially because of severe psychomotor retardation.  These are levels of depression that are not typically seen in depression research from either the standpoint of basic science and probably never for psychopharmacological research.  Much of the research that I am aware of allows for the recruitment of patients with HAM-D scores in the high teens and low 20s.  I don't think that is the best way to run experiments on biologically based depressions or antidepressant medications, but there is rarely any commentary on it.  The CONSORT group in this paper finally comments on this factor as being a useful experimental approach even though Mendlewicz was using it in the 1980s.
+
+The second issue that crops up in the paper is replication.  The authors validate their original work by running a second sample for validation.  That is the approach we would use in analytic chemistry.  If we were using a new technique we would run samples in triplicate or in extreme cases in sets of 5 to make sure we could replicate the analysis.  It reminded of one of the first great genetic marker papers in the field that was published in the New England Journal of Medicine by Elliot Gershon's lab in 1984 (2).  It was an exciting proposition to consider that fibroblasts could be grown from a skin biopsy and the muscarinic cholinergic receptor in those fibroblasts would be a marker for familial affective disorder.   The general observation in this pilot study of 18 patients was that they had an increased muscarinic receptor density in fibroblasts compared to controls and that the relatives with histories of minor depression had receptor densities that were more similar to the subjects with mood disorders than normal controls.  The subjects with familial affective disorder were defined as subjects with bipolar I, bipolar II, or major depression according to Research Diagnostic Criteria (RDC).  No rating of depression severity was made acutely or on a historical basis.  These findings could not be replicated, in the end even by the original lab.  That process played out in the pages of the New England Journal of Medicine (3) and the original findings were withdrawn.  It would be interesting to look at how often a similar debate occurs in a prestigious journal these days.  Estimates of non-replicable findings by the pharmaceutical industry suggests that it should happen a lot more often.   
+
+In terms of the original paper, the sheer amount of information involved in the genetic code is staggering.  Just looking at the 130 millions base pairs on Chromosome 10 and thinking about combinations of 2, 3, 4, 5, or 6 base pairs yields the numbers in the table below entitled "Combinations of 130 million base pairs."  The exponential notation ranges from 1015 to 1045 or a quadrillion  to a quattuordecillion combinations.  Figuring out the best way to determine which combinations are relevant in illnesses with polygenic inheritance will be an interesting process.
+  
+George Dawson, MD, DFAPA
+
+
+
+References:
+
+1:  CONVERGE consortium. Sparse whole-genome sequencing identifies two loci for major depressive disorder. Nature. 2015 Jul 15. doi: 10.1038/nature14659. [Epub ahead of print] PubMed PMID: 26176920.
+
+2:  Nadi NS, Nurnberger JI Jr, Gershon ES. Muscarinic cholinergic receptors on skin fibroblasts in familial affective disorder. N Engl J Med. 1984 Jul 26;311(4):225-30. PubMed PMID: 6738616.
+
+3:  Failure to Confirm Muscarinic Receptors on Skin Fibroblasts.  N Engl J Med 1985 Mar 28; 312: 861-862  PubMed PMID: 3974670.
+
+4:  Linkowski P, Mendlewicz J, Kerkhofs M, Leclercq R, Golstein J, Brasseur M,Copinschi G, Van Cauter E. 24-hour profiles of adrenocorticotropin, cortisol, and growth hormone in major depressive illness: effect of antidepressant treatment. J Clin Endocrinol Metab. 1987 Jul;65(1):141-52. PubMed PMID: 3034952.
+
+5:  Linkowski P, Mendlewicz J, Leclercq R, Brasseur M, Hubain P, Golstein J, Copinschi G, Van Cauter E. The 24-hour profile of adrenocorticotropin and cortisol in major depressive illness. J Clin Endocrinol Metab. 1985 Sep;61(3):429-38. PubMed PMID: 2991318.
+
+6:  Mendlewicz J, Linkowski P, Kerkhofs M, Desmedt D, Golstein J, Copinschi G, Van Cauter E. Diurnal hypersecretion of growth hormone in depression. J Clin Endocrinol Metab. 1985 Mar;60(3):505-12. PubMed PMID: 4038712.
+
+
+Attribution:
+
+Extended Data Figure 1 is from: CONVERGE consortium. Sparse whole-genome sequencing identifies two loci for major depressive disorder. Nature. 2015 Jul 15.  With Permission from Nature Publishing Group  © 2015.  License number 3672900044284.
+
+Supplementary 1:

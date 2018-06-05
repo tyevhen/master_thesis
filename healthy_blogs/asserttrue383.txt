@@ -1,0 +1,102 @@
+[Update 7 Mar 2015: Sadly, it appears ZunZun.com has gone away. Which is too bad. It was the greatest graphic site ever.]
+
+Being able to create high-quality graphs of data (for free) at ZunZun.com is great, but to me, what really makes ZunZun a great service is the fact that it will give you a graph in SVG format. SVG is super-powerful and super-flexible, and it's all just markup (XML), which means you don't need to own Illustrator or Photoshop in order to customize it. You just need Wordpad, Notepad, or any old text editor. And believe me, you can do some pretty fantastic things in SVG with nothing more than Wordpad as an editing tool.
+
+In a previous post, I showed three graphs of amino acid content from the Hsp40 heat-shock proteins of three diverse groups of organisms. Because the graphs are SVG, I can combine them into a single graph very easily in Wordpad with no need to haul out Photoshop or Illustrator. That's what I did here (NOTE: the following inline SVG image will not be visible in IE; try a Web-standards-compliant browser):
+
+*{stroke-linecap:square;stroke-linejoin:round;}
+Arthropods
+Prokaryotes
+Plants
+Obviously, before you combine two or more graphs, you should be certain the axis scales are identical in the graphs. (ZunZun will let you constrain x- and y-axis bounds.) Once you have two ZunZun graphs in SVG format, all you need to do is Copy the data points from one graph and Paste them into the other using Wordpad. The points will be in a big long list of <use> elements, each containing the mysterious notation xlink:href="#m4920679963". The latter is a back-reference (an XLink reference) to a previously defined graphic element having an id attribute with value m4920679963. You'll find the element in question in a <defs> block near the beginning of the file. Find that reference and do a global search-and-replace on m4920679963, replacing it with something sensible like "CIRCLES."  That's what the default data points are: little circles.
+
+Whenever you paste new data points (from another SVG graph) into a new graph, and you want the new points to be visibly different from the preexisting points (for example, maybe you want one set of points to be little red dots and the other points to show as tiny black triangles), you need to go into the <defs> element at the top of the file and create a graphic primitive for the new data-point shape you want and then give it a distinct id value that you can use in XLink references later on. Let me show you how that's done.
+
+The above graph uses green triangles for points derived from plant data (original, I know), red dots for insect data, and peach-colored squares for the bacterial data points. Here are the primitives I came up with for the data points:
+
+
+
+<!-- TRIANGLES -->
+
+<path d="
+M0 0 
+L1 0 
+L.5 -.87
+z " id="TRIANGLES" transform="scale(8.4)"
+ style="fill:#00cc38;stroke:#000000;stroke-linecap:butt;stroke-width:0.1;"/>
+
+<!-- SQUARES -->
+
+<path d="
+M0 0 
+L1 0 
+L1 1 
+L0 1
+z " id="SQUARES" transform="scale(4)"
+ style="fill:#CFaF22;stroke:#000000;stroke-linecap:butt;stroke-width:0.21;"/>
+
+<!-- CIRCLES -->
+
+     <path d="
+M0 1.5
+C0.397805 1.5 0.77937 1.34195 1.06066 1.06066
+C1.34195 0.77937 1.5 0.397805 1.5 0
+C1.5 -0.397805 1.34195 -0.77937 1.06066 -1.06066
+C0.77937 -1.34195 0.397805 -1.5 0 -1.5
+C-0.397805 -1.5 -0.77937 -1.34195 -1.06066 -1.06066
+C-1.34195 -0.77937 -1.5 -0.397805 -1.5 0
+C-1.5 0.397805 -1.34195 0.77937 -1.06066 1.06066
+C-0.77937 1.34195 -0.397805 1.5 0 1.5
+z
+" id="CIRCLES" transform="scale(1.7)"
+ style="fill:#ee3344;stroke:#000000;stroke-linecap:butt;stroke-width:0.25;"/>
+
+The syntax is way easier than it looks. Example: To make a triangle, I use a <path>  element containing the seemingly peculiar drawing commands M0 0 L1 0 L.5 -.87 z. Commands M and L mean moveto and lineto, while z means close off the shape by stroking a line from the present position to the start position (and also fill the shape) Thus, M0 0 means move to the origin (0, 0). That's the lower left corner of the triangle. L1 0 means stroke a line to x=1 and y=0, the right corner of the triangle. L.5 -.87 of course means draw a line to x,y = (0.5, -0.87). The apex of an equilateral unit triangle has an x-value of 0.5, obviously. The y-value of the apex is the sine of 60 degrees, namely 0.87, only in this case we have to make it a negative number, -0.87. Why? Because in SVG, the y-axis starts at zero and gets increasingly positive as you go down the image, not up. This is probably the single biggest source of confusion in SVG: To move a point higher. decrease its y-value. (Don't worry, you'll get used to it.)
+
+For some weird reason, ZunZun's software spits out a huge mass of curveto commands in order to draw a circle, instead of using SVG's built-in <circle> primitive. Go figure.
+
+Now that you know how to draw polygons in SVG, you might want to try drawing a few. Try creating an X or a cross with lineto commands (but don't use z at the end, unless you want the shape filled in addition to stroked).
+
+Suppose you want to add a legend to your graph, as I've done in the upper right corner of the above graph. Here's the markup for it:
+
+
+
+<!-- LEGEND -->
+<g transform="translate(292 -2)">
+ <use style="fill:#fefeff;stroke:#000000;stroke-linecap:butt;stroke-width:0.5;" 
+x="145" xlink:href="#CIRCLES" 
+y="58"/>
+ <text x="153" y="60" 
+        font-family="Courier" 
+        font-size="11">
+    Arthropods
+  </text>
+
+
+<use style="fill:#a0a0a0;stroke:#000000;stroke-linecap:butt;stroke-width:0.5;" 
+x="144" 
+y="68"
+xlink:href="#SQUARES" />
+ <text x="153" y="73" 
+        font-family="Courier" 
+        font-size="11">
+    Prokaryotes
+  </text>
+
+
+<use transform="scale(.7)" style="fill:#fefeff;stroke:#000000;stroke-linecap:butt;stroke-width:0.25;" 
+x="205"  
+y="121" 
+xlink:href="#TRIANGLES" />
+ <text x="153" y="86" 
+        font-family="Courier" 
+        font-size="11">
+    Plants
+</text>
+</g>
+
+Notice carefully that the whole thing is wrapped in a <g> element, which is a convenience element for marking off arbitrary blocks of content, equivalent to <div> in HTML. That is to say, by itself <g> draws nothing. Why use it, then? Well, look at what I did: I placed a transform attribute inside it, in order to move (translate) everything contained in the <g> block, as a unit. Being able to position multiple items at once this way is tremendously convenient. (Are you starting to feel the power of SVG yet?)
+
+As you can see, I use the XLink mechanism to back-reference the data point primitives (triangles, squares, circles). I also use text elements to place plain old text labels.
+
+I hope I've been able to give you some idea of the power and flexibility of SVG with the examples shown here. SVG is an extremely sophisticated and capable medium, particularly if you start using JavaScript to modify DOM elements dynamically. It can do quite a bit more than I've shown here. In fact there's really no limit to what you can do with SVG. The limit is your imagination. If you don't believe it, check out tomorrow's blog.

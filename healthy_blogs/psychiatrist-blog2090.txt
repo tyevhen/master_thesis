@@ -1,0 +1,19 @@
+For those of you working in public institutions in this country, the United States Supreme Court ruled three days ago that you have no First Amendment right to job-related free speech.
+
+In Garcetti v. Ceballos the majority opinion stated:
+
+"When public employees make statements pursuant to their official duties, they are not speaking as citizens for First Amendment purposes, and the Constitution does not insulate their communications from employer discipline."
+
+
+In this case an employee of the California district attorney's office, Richard Ceballos, came to believe that a sheriff had presented false information in order to obtain a search warrant. Ceballos prepared a memo and presented it to his supervisors, who decided to procede with the prosecution. Ceballos was later demoted and transferred in retaliation. He filed suit against the district attorney's office (one of the defendants was Gil Garcetti, supervisor of the O.J. Simpson prosecution).
+
+Eventually the case wound its way up through the 9th Circuit Court, which ruled that his speech was protected under the First Amendment. The state appealed, and the Supremes argued the case twice, once on October 12, 2005 and again on March 21, 2006 after Samuel Alito was appointed. The opinion was split along the lines of the usual suspects: Kennedy, Roberts, Scalia, Thomas and Alito ruled against the employee protection while Souter, Stephens, Ginsburg and Breyer dissented. In his dissent, Justice Breyer recognized that certain professions have ethical standards which compel them to speak out under certain circumstances. For example, prosecutors have an obligation to disclose exculpatory evidence. He also cited a case familiar to correctional psychiatrists:
+
+"So, for example, might a prison doctor have a similar constitutionally related professional obligation to communicate with superiors about seriously unsafe or unsanitary conditions in the cellblock. Cf. Farmer v. Brennan, 511 U. S. 825, 832 (1994). There may well be other examples."
+
+
+Breyer favored constitutional protection for government workers under specific circumstances:
+"Where professional and special constitutional obligations are both present, the need to protect the employee's speech is augmented, the need for broad government authority to control that speech is likely diminished, and administrable standards are quite likely available. Hence, I would find that the Constitution mandates special protection of employee speech in such circumstances."
+
+
+The majority of justices ruled against this. They felt that constitutional protection was unnecessary given the existance of Federal and State whistle-blower laws, various labor laws and professional standards that mandate certain speech.

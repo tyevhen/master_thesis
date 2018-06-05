@@ -1,0 +1,20 @@
+This is a follow up to my November 15, 2017, article, “MDAAnnounces SBMA Research Grant.” The research paper was a little over my head (nothing new for me), so I asked the KDA’s resident biology professor, Ed Meyertholen, to explain what Dr. Lieberman’s research was about. Below is Ed’s summary of the grant. For a short primer, I have included the link to a video on DNA-RNA.
+
+
+"The grant the Andy Lieberman received was to continue the research on the use of Anti-Sense Oligonucleotides (ASO) as a treatment for Kennedy’s Disease (KD). To best understand how it works, it is important to remember the following:
+
+1. KD is believed to be the result of a misfolded protein, specifically, the protein known as the Androgen Receptor (AR).
+
+2. Proteins are built of specific sequences of amino acids, thus to make a protein, one must have amino acids and the sequence of the amino acids of the protein of interest.
+
+3. The sequence of amino acids for any protein are hard coded into our genes - our DNA.  Thus to make a particular protein, the cell must find the gene that codes for the sequence for that protein and read the code to get the sequence.  The structure of the cell that makes the protein is the ribosome.
+
+4. In KD, the misfolded protein is known as the Androgen Receptor (AR) and it misfolds because our DNA has an error in the sequence.  So, when our cells want to synthesize the AR, our instructions are faulty and when we make the resulting protein, it somehow causes cells to die albeit, slowly.
+
+5. Protein synthesis requires two major steps, the first is the synthesis of an RNA copy (RNA is like DNA) of the gene (DNA) which codes for the protein of interest (this occurs in the nucleus).  The RNA synthesis is known as transcription.
+
+6. The RNA copy (which contains the code for the protein) leaves the nucleus and goes to the ribosome.  Here the code is read and the protein is synthesized.  This actual making of the protein is known as translation.
+
+7.  An ASO is a specially designed fragment of RNA that binds only to a specific RNA.  An ASO can be designed to bind specifically to any given RNA.  In this case, the ASO binds only to the RNA that is used to make the AR.  When the ASO binds to the RNA, the cell responds by destroying the RNA (that is what it does) - thus the RNA to make the AR is destroyed before the protein is made and thus no AR is synthesized and thus, it is hoped, no KD.
+
+8.  Andy's grant is, as I understand it, will try to test this procedure on mice models of KD and involve investigating the best ways to deliver the ASO.  Let me also add, there have been several published studies that have shown that ASO's are effective in preventing KD in mice.  Other ASO's have been developed to treat other diseases and just recently, one was approved for use in a disease called Spinal Muscular Atrophy (this is not KD)."  

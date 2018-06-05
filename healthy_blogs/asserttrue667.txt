@@ -1,0 +1,15 @@
+New security settings in Greasemonkey.
+
+Not long ago, I upgraded Firefox, and in the process of doing so I upgraded to the latest versions of a bunch of Firefox extensions (including Greasemonkey). And of course, things started breaking.
+
+Some of my favorite Greasemonkey scripts (including scripts that I wrote to help me manage my Twitter account) stopped working. After a certain amount of hair-pulling and cursing, I managed to find and fix the problem, so I thought (inasmuch as this particular script-breakage problem is happening to other people as well) I would post the cure here.
+
+Back in September, the Greasemonkey dudes (Anthony Lieuallen, Aaron Boodman, Johan Sundström) decided to "improve security by limiting injection scope." What it means is that they decided to disallow scripts that target URLs with non-HTTP schemes. In other words, a script that targets "file://something" no longer works (by default) in the new Greasemonkey, whereas scripts that target "http://something" of course still work. The reason non-http schemes were disallowed is that people were writing evil scripts that target "about:cache" (a special URL in Firefox that exposes your cached data). Not good.
+
+But on the other hand, Greasemonkey scripts that target "file:" URLs are incredibly useful. You can create an HTML form (constituting the UI for an app), stick it on your local disk somewhere, have it trigger a GM script, and that script (in turn) can do cross-site AJAX and all manner of lubed-simian legerdemain behind the scenes, in service of some kind of business (or other) logic that wouldn't be possible any other way. It's truly a wonderful capability.
+
+The problem is, Greasemonkey doesn't allow it any more -- by default. But fear not. The Greasemonkey dudes have included a new config setting that lets you defeat the new security measure. What you have to do is hand-type "about:config" in the Firefox address bar, then search (filter) on "greasemonkey.fileIsGreaseable" (note the spelling; careful not to type "fileIsGreasable"). Set the resulting value to true. See the screenshot posted above.
+
+Note that there is another new config setting (as in the screenshot) for enabling the targeting of "about:" URLs.
+
+Now if only I could solve this issue for Chrome. Lately I've been porting certain of my Greasemonkey scripts to the Google browser, and for the most part that's been working fine, but I notice Chrome doesn't honor "file:" target URLs even when you set your GM script to a target of "*" (all URLs). If anyone knows a workaround (scamper-around? What do you call a workaround for greased monkeys?), fling me a banana, will you?
